@@ -40,5 +40,10 @@ window.CONTENT_FILES = [
  "units/b2-u03.js",
  "units/b2-u04.js",
  "units/b2-u05.js",
- "units/b2-u06.js"
+ "units/b2-u06.js",
+ "units/b2-u07.js",
+ "units/b2-u08.js",
+ "units/b2-u09.js",
+ "units/b2-u10.js",
+ "units/b2-u11.js"
 ];
