@@ -105,6 +105,7 @@ window.CONTENT_FILES = [
  "units/c1-u05.js",
  "units/c1-u06.js",
  "units/c1-u07.js",
+ "units/c1-u08.js",
  "verbs/verbs-01.js",
  "verbs/verbs-02.js",
  "verbs/verbs-03.js",
