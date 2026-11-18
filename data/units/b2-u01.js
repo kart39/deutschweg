@@ -2145,6 +2145,950 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b2-u01-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Bản chất và Hệ thống Cụm Danh từ - Động từ (Funktionsverbgefüge) ở trình độ B2\n\nTrong tiếng Đức trung - cao cấp (B2/C1), **Funktionsverbgefüge (FVG)** là công cụ quan trọng bậc nhất để nâng cao tính chính xác, tính học thuật và sự tinh tế trong diễn đạt:\n\n$$\\text{Cấu trúc cơ bản:} \\quad \\text{Nomen / Präpositionalphrase} + \\text{Funktionsverb}$$\n\nTrong cấu trúc này, **động từ mất đi nghĩa cụ thể ban đầu** và chỉ đóng vai trò ngữ pháp (chia thì, chia ngôi), còn **danh từ mang toàn bộ ý nghĩa cốt lõi**:\n- *entscheiden* $\\rightarrow$ {{eine Entscheidung treffen}} (đưa ra một quyết định dứt khoát)\n- *kritisieren* $\\rightarrow$ {{Kritik üben an + Dat}} (thực hiện sự phê phán đối với ai/cái gì)\n- *beantragen* $\\rightarrow$ {{einen Antrag stellen auf + Akk}} (nộp đơn xin, đệ trình văn bản)\n\n### A. Phân biệt Dạng Chủ động (Aktiv) và Dạng Bị động / Trạng thái (Passiv / Zustand)\n\nNhiều FVG tồn tại theo từng cặp song song phản ánh góc nhìn chủ động hoặc bị động mà không cần dùng cấu trúc Passiv cổ điển:\n\n| Góc nhìn Chủ động (Aktiv) $\\rightarrow$ Người thực hiện hành động | Góc nhìn Bị động / Quá trình (Passiv / Vorgang) |\n| :--- | :--- |\n| **zur Verfügung stellen** (cung cấp, dành cho)<br>- *Die Firma stellt moderne Arbeitsmittel zur Verfügung.* | **zur Verfügung stehen** (có sẵn để sử dụng)<br>- *Moderne Arbeitsmittel stehen den Mitarbeitern zur Verfügung.* |\n| **zur Sprache bringen** (đưa ra thảo luận, nêu vấn đề)<br>- *Linh brachte die Überstunden zur Sprache.* | **zur Sprache kommen** (được đem ra thảo luận)<br>- *Das heikle Problem kam endlich zur Sprache.* |\n| **zur Diskussion stellen** (đặt ra để tranh luận)<br>- *Der Betriebsrat stellt neue Arbeitszeitmodelle zur Diskussion.* | **zur Diskussion stehen** (đang được tranh luận, bỏ ngỏ)<br>- *Verschiedene Arbeitszeitmodelle stehen derzeit zur Diskussion.* |\n| **in Aussicht stellen** (hứa hẹn, mở ra triển vọng)<br>- *Der Chef stellte ihr eine Beförderung in Aussicht.* | **in Aussicht stehen** (có triển vọng xảy ra)<br>- *Eine Beförderung steht für sie in Aussicht.* |\n| **in Gang setzen** (khởi động, đưa vào vận hành)<br>- *Wir setzen einen tiefgreifenden Wandel in Gang.* | **in Gang kommen / geraten** (bắt đầu chuyển động, tiến triển)<br>- *Der Dialog kommt endlich in Gang.* |\n\n---\n\n## 2. Ưu thế tu từ của FVG trong văn phong nghị luận B2\n\nTại sao người bản ngữ B2/C1 lại ưa chuộng Nomen-Verb-Verbindungen thay vì động từ đơn?\n1. **Khả năng chèn Định ngữ tính từ (Adjektivattribute) để phân biệt sắc thái:**\n   - Thay vì chỉ nói: *Er entschied sich.* (Anh ấy đã quyết định.)\n   - Ta có thể diễn đạt sâu sắc hơn: {{Er traf eine **wohlüberlegte, zukunftsweisende** Entscheidung.}} (Anh ấy đã đưa ra một quyết định được cân nhắc thấu đáo và định hướng tương lai.)\n2. **Tạo văn phong trang trọng, khách quan trong báo cáo và luận văn:**\n   - Thay vì: *Wir müssen schnell handeln.*\n   - Ta viết: {{Wir müssen unverzüglich wirksame **Maßnahmen ergreifen**.}}\n\n---\n\n## 3. 6 lỗi người Việt hay mắc khi sử dụng Nomen-Verb-Verbindungen (✗ → ✓)\n\n### Lỗi 1: Ghép sai động từ chức năng (Funktionsverb)\n- ✗ *Wir müssen für dieses Problem eine Lösung machen.*\n- ✓ {{Wir müssen für dieses Problem eine tragfähige Lösung finden.}}\n- *Giải thích:* Trong tiếng Đức không nói *Lösung machen* mà phải là {{eine Lösung finden}} (tìm ra giải pháp).\n\n### Lỗi 2: Dùng sai giới từ cố định trong cụm danh từ\n- ✗ *Die Gewerkschaft übte scharfe Kritik für die Geschäftsführung.*\n- ✓ {{Die Gewerkschaft übte scharfe Kritik an der Geschäftsführung.}}\n- *Giải thích:* Cụm *Kritik üben* bắt buộc đi với giới từ **an + Dativ** ({{Kritik üben an}}), không đi với *für*.\n\n### Lỗi 3: Nhầm lẫn giữa thể chủ động (stellen) và trạng thái (stehen)\n- ✗ *Das neue Gesetz stellt derzeit im Parlament zur Diskussion.*\n- ✓ {{Das neue Gesetz steht derzeit im Parlament zur Diskussion.}}\n- *Giải thích:* Dự luật không tự đặt ai ra thảo luận mà bản thân nó đang được thảo luận, do đó phải dùng {{zur Diskussion stehen}}.\n\n### Lỗi 4: Chia sai cách sau giới từ trong cụm FVG\n- ✗ *Er zog diese wichtige Option nicht in Betrachtung.*\n- ✓ {{Er zog diese wichtige Option nicht in Betracht.}}\n- *Giải thích:* Thành ngữ chuẩn là {{in Betracht ziehen}} (hoặc {{in Erwägung ziehen}}), không dùng dạng danh từ phái sinh biến dạng *in Betrachtung*.\n\n### Lỗi 5: Quên đảo ngữ hoặc đặt sai trật tự từ khi tách FVG\n- ✗ *Gestern die Leiterin brachte das Problem zur Sprache.*\n- ✓ {{Gestern brachte die Leiterin das Problem zur Sprache.}}\n- *Giải thích:* Khi trạng từ thời gian *Gestern* đứng đầu câu, động từ *brachte* phải đứng ở **vị trí 2**, cụm giới từ *zur Sprache* đứng ở **cuối câu**.\n\n### Lỗi 6: Dùng nhầm \"in Anspruch nehmen\" và \"einen Anspruch erheben\"\n- ✗ *Der Mitarbeiter erhob die Beratung der Beratungsstelle in Anspruch.*\n- ✓ {{Der Mitarbeiter nahm die professionelle Hilfe gerne in Anspruch.}}\n- *Giải thích:* {{in Anspruch nehmen}} = tận dụng, sử dụng (sự giúp đỡ, dịch vụ); còn {{einen Anspruch erheben auf}} = đòi hỏi quyền lợi hợp pháp.\n\n---\n\n## 4. Ví dụ củng cố bổ sung\n- {{Angesichts der zunehmenden Arbeitsbelastung sollten Unternehmen flexible Modelle zur Entschleunigung in Betracht ziehen.}} (Trước gánh nặng công việc gia tăng, các doanh nghiệp nên cân nhắc các mô hình sống chậm linh hoạt.)\n- {{Es steht völlig außer Zweifel, dass eine hohe Lebenszufriedenheit eng mit emotionaler Resilienz verknüpft ist.}} (Hoàn toàn không còn nghi ngờ gì nữa rằng sự hài lòng trong cuộc sống gắn liền chặt chẽ với sức bền bỉ tâm lý.)\n- {{Die Geschäftsleitung stellte den engagierten Beschäftigten eine spürbare Verbesserung der Rahmenbedingungen in Aussicht.}} (Ban giám đốc đã hứa hẹn với những nhân viên tận tụy về một sự cải thiện rõ rệt các điều kiện làm việc cơ bản.)\n- {{Um eine drohende Sinnkrise abzuwenden, ergriffen viele Arbeitnehmer mutige Maßnahmen zur beruflichen Neuorientierung.}} (Để ngăn chặn cuộc khủng hoảng ý nghĩa cuộc sống cận kề, nhiều người lao động đã áp dụng các biện pháp dũng cảm để tái định hướng nghề nghiệp.)\n- {{Ein achtsamer Umgang mit den eigenen Energiereserven trägt maßgeblich dazu bei, persönliche Belastungsgrenzen rechtzeitig zu erkennen.}} (Một thái độ chánh niệm với các nguồn năng lượng của bản thân đóng góp quan trọng vào việc nhận diện kịp thời các ngưỡng chịu đựng cá nhân.)\n",
+   "vocab": [
+    {
+     "de": "in Erwägung ziehen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɪn ɛɐ̯ˈvɛːɡʊŋ ˈtsiːən",
+     "vi": "cân nhắc kỹ lưỡng, tính đến khả năng (+ Akk)",
+     "example": "Wir sollten eine berufliche Auszeit ernsthaft in Erwägung ziehen, um neue Kraft zu schöpfen.",
+     "exampleVi": "Chúng ta nên nghiêm túc cân nhắc một kỳ nghỉ tạm rời công việc để nạp lại nguồn năng lượng mới."
+    },
+    {
+     "de": "Kritik üben an",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "kʁiˈtiːk ˈyːbn̩ ʔan",
+     "vi": "chỉ trích, phê bình gay gắt (+ Dat)",
+     "example": "Die Psychologin übte deutliche Kritik an der ständigen Erreichbarkeit nach Feierabend.",
+     "exampleVi": "Nữ chuyên gia tâm lý đã chỉ trích gay gắt tình trạng liên tục phải trực điện thoại sau giờ tan sở."
+    },
+    {
+     "de": "zur Kenntnis nehmen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "tsuːɐ̯ ˈkɛntnɪs ˈneːmən",
+     "vi": "ghi nhận, tiếp nhận thông tin một cách chính thức (+ Akk)",
+     "example": "Die Abteilungsleiterin nahm die berechtigten Beschwerden des Teams aufmerksam zur Kenntnis.",
+     "exampleVi": "Bà trưởng phòng đã chăm chú ghi nhận những phản ánh chính đáng của toàn đội ngũ."
+    },
+    {
+     "de": "in Gang setzen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɪn ˈɡaŋ ˈzɛtsn̩",
+     "vi": "khởi động, đưa một tiến trình hay sự thay đổi đi vào hoạt động (+ Akk)",
+     "example": "Die gemeinsame Reflexion setzte einen tiefgreifenden Umdenkprozess in Gang.",
+     "exampleVi": "Buổi cùng nhìn nhận lại đã khởi động một tiến trình thay đổi tư duy vô cùng sâu sắc."
+    },
+    {
+     "de": "in Aussicht stellen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɪn ˈaʊ̯szɪçt ˈʃtɛln̩",
+     "vi": "hứa hẹn, mở ra triển vọng tốt đẹp cho ai (+ Dat + Akk)",
+     "example": "Der Arbeitgeber stellte den Beschäftigten zusätzliche Urlaubstage zur Erholung in Aussicht.",
+     "exampleVi": "Người sử dụng lao động đã hứa hẹn với người lao động về những ngày nghỉ phép bổ sung để phục hồi sức khỏe."
+    },
+    {
+     "de": "außer Zweifel stehen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaʊ̯sɐ ˈtsvaɪ̯fl̩ ˈʃteːən",
+     "vi": "không còn nghi ngờ gì nữa, là điều chắc chắn rõ ràng",
+     "example": "Es steht völlig außer Zweifel, dass soziale Bindungen der wichtigste Glücksfaktor sind.",
+     "exampleVi": "Hoàn toàn không còn nghi ngờ gì nữa rằng các mối gắn kết xã hội là nhân tố hạnh phúc quan trọng nhất."
+    },
+    {
+     "de": "Maßnahmen ergreifen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈmaːsˌnaːmən ɛɐ̯ˈɡʁaɪ̯fn̩",
+     "vi": "áp dụng các biện pháp, triển khai hành động cụ thể",
+     "example": "Das Management muss rechtzeitig wirksame Maßnahmen zur Stressprävention ergreifen.",
+     "exampleVi": "Ban quản lý phải kịp thời áp dụng các biện pháp hữu hiệu để phòng ngừa căng thẳng."
+    },
+    {
+     "de": "in Verbindung setzen mit",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɪn fɛɐ̯ˈbɪndʊŋ ˈzɛtsn̩ mɪt",
+     "vi": "chủ động liên lạc, kết nối trao đổi với ai (sich + in Verbindung setzen mit + Dat)",
+     "example": "Bei ersten Anzeichen von Überlastung sollte man sich sogleich mit einer Fachkraft in Verbindung setzen.",
+     "exampleVi": "Khi có những dấu hiệu quá tải đầu tiên, người ta nên liên lạc ngay với một chuyên gia."
+    },
+    {
+     "de": "Stellung beziehen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈʃtɛlʊŋ bəˈtsiːən",
+     "vi": "bày tỏ lập trường rõ ràng, nêu rõ quan điểm (zu + Dat)",
+     "example": "In der Debatte um flexible Arbeitszeiten bezog die Mitarbeiterin entschieden Stellung.",
+     "exampleVi": "Trong cuộc tranh luận về thời gian làm việc linh hoạt, nữ nhân viên đã bày tỏ lập trường dứt khoát."
+    },
+    {
+     "de": "einen Antrag stellen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nən ˈʔanˌtʁaːk ˈʃtɛln̩",
+     "vi": "nộp đơn xin, đệ trình văn bản đề nghị (auf + Akk)",
+     "example": "Sie stellte bei ihrem Vorgesetzten einen formellen Antrag auf Teilzeitarbeit.",
+     "exampleVi": "Cô ấy đã nộp lên cấp trên một lá đơn chính thức xin chuyển sang chế độ làm việc bán thời gian."
+    },
+    {
+     "de": "Abschied nehmen von",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈapʃiːt ˈneːmən fɔn",
+     "vi": "từ biệt, từ bỏ một quan niệm cũ kỹ hay chia tay ai (+ Dat)",
+     "example": "Wir müssen endlich Abschied von der fatalen Illusion nehmen, ständig perfekt sein zu müssen.",
+     "exampleVi": "Chúng ta sau cùng phải từ bỏ ảo tưởng tai hại rằng lúc nào cũng phải đạt tới sự hoàn hảo tuyệt đối."
+    },
+    {
+     "de": "unter Beweis stellen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈʊntɐ bəˈvaɪ̯s ˈʃtɛln̩",
+     "vi": "chứng minh năng lực thực tế, thể hiện rõ phẩm chất (+ Akk)",
+     "example": "In schwierigen Lebensphasen stellte sie ihre beeindruckende innere Stärke unter Beweis.",
+     "exampleVi": "Trong những giai đoạn cuộc sống gian nan, cô ấy đã chứng minh sức mạnh nội tâm đầy ấn tượng của mình."
+    },
+    {
+     "de": "Lebenszufriedenheit",
+     "article": "die",
+     "plural": "Lebenszufriedenheiten",
+     "pos": "noun",
+     "ipa": "ˈleːbn̩stsuːˌfʁiːdn̩haɪ̯t",
+     "vi": "sự hài lòng với cuộc sống, mức độ thỏa nguyện trong đời",
+     "example": "Eine ausgewogene Work-Life-Balance steigert die persönliche Lebenszufriedenheit dauerhaft.",
+     "exampleVi": "Một sự cân bằng hài hòa giữa công việc và đời sống nâng cao mức độ hài lòng cuộc sống cá nhân lâu dài."
+    },
+    {
+     "de": "Achtsamkeit",
+     "article": "die",
+     "plural": "Achtsamkeiten",
+     "pos": "noun",
+     "ipa": "ˈʔaxtzaːmkaɪ̯t",
+     "vi": "sự chánh niệm, sự chú tâm tỉnh thức vào giây phút hiện tại",
+     "example": "Durch tägliche Übungen der Achtsamkeit lässt sich der Alltagsstress spürbar reduzieren.",
+     "exampleVi": "Nhờ những bài tập chánh niệm hàng ngày, người ta có thể giảm bớt rõ rệt áp lực cuộc sống thường nhật."
+    },
+    {
+     "de": "Entschleunigung",
+     "article": "die",
+     "plural": "Entschleunigungen",
+     "pos": "noun",
+     "ipa": "ʔɛntˈʃlɔʏ̯nɪɡʊŋ",
+     "vi": "sự sống chậm lại, sự giảm bớt tốc độ hối hả của cuộc sống",
+     "example": "Ein erholsamer Urlaub in den Bergen schenkt den Gestressten die ersehnte Entschleunigung.",
+     "exampleVi": "Một kỳ nghỉ dưỡng thư thái trên núi đem lại cho những người căng thẳng sự sống chậm hằng mong ước."
+    },
+    {
+     "de": "Ausgeglichenheit",
+     "article": "die",
+     "plural": "Ausgeglichenheiten",
+     "pos": "noun",
+     "ipa": "ˈaʊ̯sɡəˌɡlɪçn̩haɪ̯t",
+     "vi": "sự điềm tĩnh, sự thăng bằng và an tĩnh nội tâm",
+     "example": "Ihre innere Ausgeglichenheit half ihr, auch in hektischen Momenten besonnen zu bleiben.",
+     "exampleVi": "Sự an tĩnh nội tâm đã giúp cô ấy giữ được sự tỉnh táo ngay cả trong những khoảnh khắc gấp gáp nhất."
+    },
+    {
+     "de": "Erfüllung",
+     "article": "die",
+     "plural": "Erfüllungen",
+     "pos": "noun",
+     "ipa": "ɛɐ̯ˈfʏlʊŋ",
+     "vi": "sự viên mãn, cảm giác thỏa nguyện và ý nghĩa cuộc đời",
+     "example": "Viele Menschen finden erst in ehrenamtlicher Tätigkeit eine tiefere persönliche Erfüllung.",
+     "exampleVi": "Nhiều người chỉ tìm thấy sự thỏa nguyện cá nhân sâu sắc hơn trong các hoạt động tình nguyện."
+    },
+    {
+     "de": "Resilienz",
+     "article": "die",
+     "plural": "Resilienzen",
+     "pos": "noun",
+     "ipa": "ʁeziˈli̯ɛnts",
+     "vi": "năng lực phục hồi tâm lý, sức dẻo dai kiên cường trước nghịch cảnh",
+     "example": "Eine ausgeprägte psychische Resilienz schützt den Menschen vor seelischer Erschöpfung.",
+     "exampleVi": "Một năng lực phục hồi tâm lý vững vàng bảo vệ con người trước sự kiệt quệ tinh thần."
+    },
+    {
+     "de": "Zwischenmenschlichkeit",
+     "article": "die",
+     "plural": "Zwischenmenschlichkeiten",
+     "pos": "noun",
+     "ipa": "ˈtsvɪʃn̩ˌmɛnʃlɪçkaɪ̯t",
+     "vi": "tình người, các mối quan hệ nhân văn gắn kết giữa con người",
+     "example": "In unserer digitalisierten Welt gewinnt echte Zwischenmenschlichkeit wieder enorm an Wert.",
+     "exampleVi": "Trong thế giới số hóa của chúng ta, tình người chân thực lại gia tăng giá trị một cách to lớn."
+    },
+    {
+     "de": "Sinnkrise",
+     "article": "die",
+     "plural": "Sinnkrisen",
+     "pos": "noun",
+     "ipa": "ˈzɪnˌkʁiːzə",
+     "vi": "cuộc khủng hoảng ý nghĩa cuộc sống, hoài nghi về lẽ sống",
+     "example": "Nach jahrelangem Karrieredruck geriet der Manager plötzlich in eine schwere Sinnkrise.",
+     "exampleVi": "Sau nhiều năm chịu áp lực thăng tiến, người quản lý bất ngờ rơi vào một cuộc khủng hoảng lẽ sống nặng nề."
+    },
+    {
+     "de": "Belastungsgrenze",
+     "article": "die",
+     "plural": "Belastungsgrenzen",
+     "pos": "noun",
+     "ipa": "bəˈlastʊŋsˌɡʁɛntsə",
+     "vi": "ngưỡng chịu đựng căng thẳng và khối lượng công việc",
+     "example": "Wer dauerhaft über seine Belastungsgrenze geht, riskiert ein schweres Burnout-Syndrom.",
+     "exampleVi": "Bất cứ ai vượt quá ngưỡng chịu đựng của bản thân trong thời gian dài đều đối mặt nguy cơ hội chứng kiệt sức."
+    },
+    {
+     "de": "achtsam",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈʔaxtzaːm",
+     "vi": "chánh niệm, chú tâm sâu sắc, có ý thức cẩn trọng",
+     "example": "Ein achtsamer Umgang mit der Natur ist das Fundament einer lebenswerten Zukunft.",
+     "exampleVi": "Cách ứng xử chánh niệm với thiên nhiên là nền tảng của một tương lai đáng sống."
+    },
+    {
+     "de": "ausgeglichen",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈaʊ̯sɡəˌɡlɪçn̩",
+     "vi": "điềm tĩnh, hài hòa, giữ được sự thăng bằng",
+     "example": "Ein ausgeglichener Lebensstil schützt wirksam vor Herz-Kreislauf-Erkrankungen.",
+     "exampleVi": "Một lối sống hài hòa cân đối bảo vệ hữu hiệu trước các căn bệnh tim mạch."
+    },
+    {
+     "de": "nachhaltig",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈnaːxˌhaltɪç",
+     "vi": "bền vững, có tác động lâu dài và sâu sắc",
+     "example": "Kleine tägliche Gewohnheiten verändern unser Wohlbefinden auf nachhaltige Weise.",
+     "exampleVi": "Những thói quen nhỏ mỗi ngày làm thay đổi thể trạng hạnh phúc của chúng ta một cách bền vững."
+    },
+    {
+     "de": "lebensbejahend",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈleːbn̩sbəˌjaːənt",
+     "vi": "yêu đời, lạc quan tích cực hướng về cuộc sống",
+     "example": "Ihre lebensbejahende Einstellung steckte alle Kollegen im Büro mit neuer Energie an.",
+     "exampleVi": "Thái độ yêu đời lạc quan của cô ấy đã truyền nguồn năng lượng mới cho tất cả đồng nghiệp trong văn phòng."
+    },
+    {
+     "de": "selbstbestimmt",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈzɛlpstbəˌʃtɪmt",
+     "vi": "tự chủ, do chính bản thân tự định đoạt và làm chủ",
+     "example": "Ein selbstbestimmtes Leben zu führen ist ein tiefes Grundbedürfnis des modernen Menschen.",
+     "exampleVi": "Sống một cuộc đời tự chủ là nhu cầu cơ bản sâu sắc của con người hiện đại."
+    },
+    {
+     "de": "entschleunigen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "entschleunigt, entschleunigte, hat entschleunigt",
+     "ipa": "ʔɛntˈʃlɔʏ̯nɪɡn̩",
+     "vi": "sống chậm lại, giảm bớt nhịp sống hối hả",
+     "example": "Am Wochenende schaltet sie das Diensthandy aus, um bewusst zu entschleunigen.",
+     "exampleVi": "Vào cuối tuần, cô ấy tắt điện thoại công vụ để chủ động sống chậm lại."
+    },
+    {
+     "de": "bewältigen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "bewältigt, bewältigte, hat bewältigt",
+     "ipa": "bəˈvɛltɪɡn̩",
+     "vi": "vượt qua, làm chủ và khắc phục khó khăn (+ Akk)",
+     "example": "Gemeinsam mit engen Freunden lassen sich auch schwere Schicksalsschläge bewältigen.",
+     "exampleVi": "Cùng với những người bạn thân thiết, người ta có thể vượt qua ngay cả những biến cố số phận nghiệt ngã."
+    },
+    {
+     "de": "hinterfragen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "hinterfragt, hinterfragte, hat hinterfragt",
+     "ipa": "hɪntɐˈfʁaːɡn̩",
+     "vi": "đặt dấu hỏi, suy ngẫm sâu sắc và tra vấn bản chất (+ Akk)",
+     "example": "Man sollte seine eigenen Konsumgewohnheiten von Zeit zu Zeit kritisch hinterfragen.",
+     "exampleVi": "Thỉnh thoảng người ta nên đặt dấu hỏi một cách phản biện về các thói quen tiêu dùng của chính mình."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Hallo Florian! Du siehst heute so entspannt und erholt aus. Hast du dein Arbeitspensum in der Agentur etwa reduziert?",
+     "vi": "Chào Florian! Hôm nay trông bạn thư thái và khỏe khoắn thế. Phải chăng bạn đã cắt giảm khối lượng công việc ở công ty rồi à?"
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Hallo Linh! Ja, tatsächlich. Ich habe vor zwei Wochen eine weitreichende Entscheidung getroffen und meine wöchentliche Arbeitszeit auf dreißig Stunden verkürzt.",
+     "vi": "Chào Linh! Đúng thế, thực sự là vậy. Hai tuần trước mình đã đưa ra một quyết định có tầm ảnh hưởng sâu rộng và rút ngắn thời gian làm việc hàng tuần xuống ba mươi giờ."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Respekt! Wie hat denn dein Vorgesetzter reagiert, als du deinen förmlichen Antrag auf Teilzeitarbeit gestellt hast?",
+     "vi": "Khâm phục bạn đấy! Thế sếp của bạn đã phản ứng thế nào khi bạn nộp lá đơn chính thức xin làm việc bán thời gian?"
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Er zog meine Bitte zunächst zögernd in Erwägung, übte aber leichte Kritik an der kurzfristigen Ankündigung. Letztlich nahm er mein Anliegen jedoch verständnisvoll zur Kenntnis.",
+     "vi": "Ban đầu ông ấy cân nhắc yêu cầu của mình một cách ngập ngừng, nhưng đã phê bình nhẹ vì thông báo quá gấp. Sau cùng ông ấy vẫn thấu hiểu và ghi nhận nguyện vọng của mình."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Das war mutig. Viele Beschäftigte trauen sich das nicht, weil sie finanzielle Einbußen oder einen Karriereknick befürchten.",
+     "vi": "Điều đó thật dũng cảm. Nhiều người đi làm không dám làm vậy vì lo sợ tổn thất tài chính hoặc bước lùi trong sự nghiệp."
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Sicherlich muss man gewisse Abstriche beim Einkommen in Kauf nehmen. Aber für mich stand meine seelische Gesundheit und Lebensqualität im Vordergrund.",
+     "vi": "Chắc chắn là người ta phải chấp nhận đánh đổi một khoản thu nhập nhất định. Nhưng đối với mình, sức khỏe tinh thần và chất lượng sống được đặt lên hàng đầu."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Genau das bestätigen auch moderne Glücksforscher: Mehr Zeit für Familie und Hobbys steigert das Wohlbefinden weit mehr als materieller Wohlstand.",
+     "vi": "Chính xác đó cũng là điều các nhà nghiên cứu hạnh phúc khẳng định: Có nhiều thời gian cho gia đình và sở thích nâng cao cảm giác hạnh phúc hơn nhiều so với sự sung túc vật chất."
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Absolut. Ich habe endlich wieder Zeit für Sport, koche frisch und praktiziere morgens Achtsamkeit. Diese Entschleunigung tut mir unglaublich gut.",
+     "vi": "Hoàn toàn đúng. Mình sau cùng đã có lại thời gian tập thể thao, nấu đồ ăn tươi và thực hành chánh niệm mỗi sáng. Sự sống chậm này đem lại tác dụng vô cùng tốt cho mình."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Glaubst du, dass dein Schritt auch bei deinen Kollegen einen Umdenkprozess in Gang setzen wird?",
+     "vi": "Bạn có tin rằng bước đi của bạn cũng sẽ khởi động một tiến trình thay đổi tư duy nơi các đồng nghiệp không?"
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Zwei Kolleginnen haben sich bereits mit mir in Verbindung gesetzt, um nach meinen praktischen Erfahrungen zu fragen. Das Thema Work-Life-Balance steht nun im gesamten Team zur Diskussion.",
+     "vi": "Hai đồng nghiệp nữ đã chủ động liên lạc với mình để hỏi về những trải nghiệm thực tế. Chủ đề cân bằng công việc - đời sống hiện đang được đưa ra tranh luận trong toàn bộ đội ngũ."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Es steht außer Zweifel, dass Unternehmen umdenken müssen, wenn sie qualifizierte Fachkräfte langfristig an sich binden wollen.",
+     "vi": "Không còn nghi ngờ gì nữa rằng các công ty phải thay đổi tư duy nếu họ muốn gắn kết lâu dài lực lượng lao động lành nghề."
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Ganz genau. Wer seine Mitarbeiter dauerhaft an die Belastungsgrenze treibt, verliert am Ende Motivation und Produktivität.",
+     "vi": "Rất chính xác. Ai đẩy nhân viên của mình tới ngưỡng chịu đựng trong thời gian dài thì cuối cùng sẽ đánh mất động lực và năng suất."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Ich freue mich wirklich für dich! Du hast unter Beweis gestellt, dass man sein Leben selbstbestimmt gestalten kann.",
+     "vi": "Mình thực sự vui mừng cho bạn! Bạn đã chứng minh rằng người ta hoàn toàn có thể tự chủ định hình cuộc sống của chính mình."
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Danke, Linh! Lass uns am Wochenende eine lange Radtour ins Grüne unternehmen und die Natur genießen.",
+     "vi": "Cảm ơn Linh nhé! Cuối tuần này chúng mình cùng nhau làm một chuyến đạp xe dài về với thiên nhiên cây cỏ nhé."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Sehr gerne, ich bin auf jeden Fall dabei!",
+     "vi": "Rất sẵn lòng, mình chắc chắn sẽ tham gia!"
+    }
+   ],
+   "reading": {
+    "title": "Die Vermessung des Glücks: Zwischen Leistungsgesellschaft, Achtsamkeit und Lebensqualität",
+    "text": "Was macht ein wahrhaft erfülltes und glückliches Leben aus? Über diese fundamentale Frage der menschlichen Existenz zerbrechen sich Philosophen, Theologen und Soziologen seit Jahrtausenden den Kopf. In unserer gegenwärtigen, von permanenter Beschleunigung und ökonomischem Wettbewerb geprägten Leistungsgesellschaft erfährt die Debatte über Glück und Lebensqualität jedoch eine neue, existenzielle Dringlichkeit. Immer mehr Menschen spüren instinktiv, dass materieller Wohlstand, beruflicher Status und ständiges Wirtschaftswachstum keineswegs automatisch zu dauerhafter Zufriedenheit führen. Vielmehr führt der ständige Druck zur Selbstoptimierung nicht selten in seelische Erschöpfung, Entfremdung und tiefe Sinnkrisen.\n\nDie moderne interdisziplinäre Glücksforschung liefert faszinierende Erkenntnisse, die traditionelle Maßstäbe des Erfolgs radikal infrage stellen. Zahlreiche weltweite Langzeitstudien belegen übereinstimmend, dass ab einem gewissen gesicherten Einkommensniveau, das die grundlegenden materiellen Grundbedürfnisse verlässlich abdeckt, der Zuwachs an weiterem Vermögen die persönliche Lebenszufriedenheit kaum noch steigert. Dieses Phänomen, in der Verhaltensökonomie als Easterlin-Paradox bekannt, verdeutlicht eindringlich: Wahres Glück nährt sich nicht aus dem endlosen Anhäufen von Konsumgütern, sondern primär aus intakten zwischenmenschlichen Beziehungen, gelebter sozialer Anerkennung und dem Gefühl, das eigene Dasein selbstbestimmt und sinnerfüllt zu gestalten.\n\nAls Gegenbewegung zu Hektik und digitaler Reizüberflutung gewinnt das Konzept der Entschleunigung in weiten Teilen der Bevölkerung rasant an Bedeutung. Achtsamkeitsbasierte Methoden, bewusst eingelegte Ruhepausen und eine Reduzierung der wöchentlichen Arbeitszeit helfen gestressten Erwerbstätigen dabei, persönliche Belastungsgrenzen rechtzeitig wahrzunehmen und ihre innere Ausgeglichenheit wiederzuerlangen. Wer gelernt hat, im hektischen Alltag innezuhalten und das Hier und Jetzt mit wachem Geist zu würdigen, entwickelt eine robuste psychische Resilienz gegen berufliche Krisen und bewahrt seine seelische Gesundheit auch unter anspruchsvollen Bedingungen.\n\nZudem setzt sich in vielen europäischen Ländern die Einsicht durch, dass Zeitwohlstand ein weit wertvolleres Gut darstellt als reiner Konsumwohlstand. Wenn Arbeitnehmer frei über ihre Zeit verfügen können, investieren sie diese gewonnene Freiheit in ehrenamtliches Engagement, kreative Hobbys oder die Fürsorge für Angehörige. Diese selbstbestimmte Zeiteinteilung stärkt nicht nur das subjektive Wohlbefinden des Einzelnen, sondern festigt das soziale Gefüge der gesamten Gesellschaft auf nachhaltige Weise. Eine Kultur der Gelassenheit erweist sich somit als echter Motor für sozialen Fortschritt.\n\nAllerdings darf die Verantwortung für ein glückliches Leben nicht ausschließlich auf das Individuum abgewälzt werden. Es steht außer Zweifel, dass auch Politik und Wirtschaft gefordert sind, lebenswerte Rahmenbedingungen zu schaffen. Dazu gehören flexible Arbeitszeitmodelle, bezahlbarer Wohnraum, verlässliche Betreuungsangebote für Kinder und eine spürbare gesellschaftliche Anerkennung gemeinwohlorientierter Berufe. Erst wenn institutionelle Strukturen und individuelle Wertvorstellungen harmonisch ineinandergreifen, verwandelt sich die theoretische Sehnsucht nach Lebensqualität in eine gelebte, alltägliche Wirklichkeit für alle Bürgerinnen und Bürger. Wahres Lebensglück erweist sich letztlich als ein gemeinschaftliches Werk, das von gegenseitiger Solidarität getragen wird.",
+    "vi": "Điều gì làm nên một cuộc đời thực sự viên mãn và hạnh phúc? Trước câu hỏi nền tảng này của sự tồn tại nhân sinh, các nhà triết học, thần học và xã hội học đã trăn trở suốt hàng thiên niên kỷ qua. Tuy nhiên, trong xã hội đề cao thành tích hiện nay của chúng ta, vốn bị chi phối bởi sự tăng tốc thường trực và cạnh tranh kinh tế khốc liệt, cuộc tranh luận về hạnh phúc và chất lượng sống lại mang một tính cấp bách hiện sinh hoàn toàn mới. Ngày càng nhiều người cảm nhận bằng trực giác rằng sự sung túc vật chất, địa vị nghề nghiệp và tăng trưởng kinh tế liên tục hoàn toàn không đương nhiên dẫn tới sự thỏa nguyện lâu dài. Trái lại, áp lực liên tục phải tối ưu hóa bản thân không hiếm khi dẫn tới sự kiệt quệ tinh thần, sự tha hóa và những cuộc khủng hoảng ý nghĩa cuộc sống sâu sắc.\n\nNghiên cứu hạnh phúc liên ngành hiện đại mang lại những phát hiện hấp dẫn, đặt dấu hỏi triệt để đối với các thước đo thành công truyền thống. Nhiều nghiên cứu dài hạn trên toàn cầu đồng thuận chứng minh rằng, từ một mức thu nhập an toàn nhất định có thể trang trải đáng tin cậy các nhu cầu vật chất căn bản, sự gia tăng thêm tài sản hầu như không còn làm tăng thêm sự hài lòng cuộc sống cá nhân. Hiện tượng này, được biết đến trong kinh tế học hành vi với tên gọi Nghịch lý Easterlin, minh họa một cách sâu sắc rằng: Hạnh phúc đích thực không được nuôi dưỡng từ việc tích lũy vô tận hàng hóa tiêu dùng, mà chủ yếu bắt nguồn từ các mối quan hệ nhân văn bền chặt, sự công nhận xã hội sống động và cảm giác được làm chủ cuộc đời mình một cách tự chủ và giàu ý nghĩa.\n\nNhư một phong trào đối trọng với nhịp sống hối hả và sự quá tải kích thích kỹ thuật số, khái niệm sống chậm đang nhanh chóng gia tăng ý nghĩa to lớn trong đông đảo các tầng lớp dân cư. Các phương pháp dựa trên chánh niệm, những quãng nghỉ tĩnh lặng được chủ động đưa vào lịch trình và việc cắt giảm thời gian làm việc hàng tuần giúp người lao động căng thẳng nhận biết kịp thời các ngưỡng chịu đựng cá nhân và tìm lại sự an tĩnh nội tâm. Bất cứ ai đã học được cách dừng lại giữa đời thường gấp gáp và trân trọng từng phút giây hiện tại với một tâm trí tỉnh thức đều phát triển được một sức bền bỉ tâm lý vững chãi trước các cuộc khủng hoảng nghề nghiệp và gìn giữ được sức khỏe tinh thần ngay cả trong những điều kiện khắt khe.\n\nThêm vào đó, tại nhiều quốc gia châu Âu, nhận thức rằng sự sung túc về thời gian là một tài sản quý giá hơn nhiều so với sự sung túc thuần túy về tiêu dùng đang ngày càng được công nhận rộng rãi. Khi người lao động có thể tự do định đoạt thời gian của mình, họ đầu tư sự tự do mới đạt được này vào các hoạt động tình nguyện, các sở thích sáng tạo hoặc chăm sóc người thân. Sự phân bổ thời gian tự chủ này không chỉ củng cố thể trạng hạnh phúc chủ quan của từng cá nhân mà còn thắt chặt kết cấu xã hội của toàn bộ cộng đồng một cách bền vững. Một nền văn hóa của sự thanh thản vì vậy tỏ rõ là một động lực thực sự cho tiến bộ xã hội.\n\nTuy nhiên, trách nhiệm đối với một cuộc đời hạnh phúc không được phép đổ dồn hoàn toàn lên vai cá nhân. Không còn nghi ngờ gì nữa rằng cả chính trị lẫn nền kinh tế đều được yêu cầu phải kiến tạo các điều kiện khung đáng sống. Điều đó bao gồm các mô hình thời gian làm việc linh hoạt, nhà ở giá cả phải chăng, các dịch vụ chăm sóc trẻ em đáng tin cậy và sự tôn vinh xã hội rõ nét dành cho các ngành nghề hướng tới lợi ích cộng đồng. Chỉ khi các cấu trúc thể chế và hệ giá trị cá nhân hòa quyện nhịp nhàng với nhau, niềm khao khát lý thuyết về chất lượng sống mới biến thành một thực tại sống động hàng ngày cho tất cả mọi công dân. Hạnh phúc cuộc sống đích thực sau cùng được minh chứng là một công trình chung của cộng đồng, được nâng đỡ bởi tình đoàn kết lẫn nhau.",
+    "glossary": [
+     {
+      "de": "Leistungsgesellschaft",
+      "vi": "xã hội đề cao thành tích và năng suất"
+     },
+     {
+      "de": "Easterlin-Paradox",
+      "vi": "nghịch lý Easterlin (thu nhập cao hơn không làm tăng hạnh phúc sau khi đã đủ ấm no)"
+     },
+     {
+      "de": "Reizüberflutung",
+      "vi": "sự quá tải kích thích từ thông tin và giác quan"
+     },
+     {
+      "de": "abwälzen auf",
+      "vi": "đổ dồn gánh nặng hoặc trách nhiệm lên ai"
+     }
+    ],
+    "questions": [
+     {
+      "question": "Was belegt das Easterlin-Paradox laut Text bezüglich des Einkommens?",
+      "options": [
+       "Ab einem gewissen Niveau steigert mehr Vermögen die Lebenszufriedenheit kaum noch",
+       "Höheres Einkommen führt in jedem Fall linear zu unendlichem Glück",
+       "Nur wer völlig mittellos lebt, kann innere Zufriedenheit empfinden",
+       "Geld spielt überhaupt keine Rolle für die menschliche Existenz"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn 2 nêu rõ Nghịch lý Easterlin: 'dass ab einem gewissen gesicherten Einkommensniveau... der Zuwachs an weiterem Vermögen die persönliche Lebenszufriedenheit kaum noch steigert'."
+     },
+     {
+      "question": "Woraus nährt sich wahres Glück laut den Erkenntnissen der modernen Glücksforschung?",
+      "options": [
+       "Aus intakten Beziehungen, sozialer Anerkennung und einem selbstbestimmten Dasein",
+       "Ausschließlich aus dem unbegrenzten Erwerb neuester Luxusartikel",
+       "Aus ständigen Überstunden und dem Aufstieg im Großkonzern",
+       "Aus der vollständigen Isolation von anderen Menschen"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn 2 khẳng định: 'Wahres Glück nährt sich... primär aus intakten zwischenmenschlichen Beziehungen, gelebter sozialer Anerkennung und dem Gefühl, das eigene Dasein selbstbestimmt und sinnerfüllt zu gestalten'."
+     },
+     {
+      "question": "Welche positive Wirkung haben Entschleunigung und Achtsamkeit auf Erwerbstätige?",
+      "options": [
+       "Sie helfen Belastungsgrenzen zu erkennen und innere Ausgeglichenheit zu bewahren",
+       "Sie führen unweigerlich zu sofortiger Arbeitslosigkeit und Verarmung",
+       "Sie zwingen Menschen dazu, auf jegliche Technologie zu verzichten",
+       "Sie verringern die geistige Leistungsfähigkeit dauerhaft"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn 3 chỉ ra: 'helfen gestressten Erwerbstätigen dabei, persönliche Belastungsgrenzen rechtzeitig wahrzunehmen und ihre innere Ausgeglichenheit wiederzuerlangen'."
+     },
+     {
+      "question": "Warum darf die Verantwortung für Lebensqualität nicht nur beim Einzelnen liegen?",
+      "options": [
+       "Weil Politik und Wirtschaft lebenswerte Rahmenbedingungen wie flexible Arbeitszeiten schaffen müssen",
+       "Weil Individuen grundsätzlich unfähig sind, eigene Entscheidungen zu treffen",
+       "Weil der Staat sämtliche privaten Lebensbereiche vollständig steuern sollte",
+       "Weil Arbeitsverträge in Zukunft gesetzlich verboten werden sollen"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn cuối nhấn mạnh: 'Es steht außer Zweifel, dass auch Politik und Wirtschaft gefordert sind, lebenswerte Rahmenbedingungen zu schaffen. Dazu gehören flexible Arbeitszeitmodelle...'."
+     },
+     {
+      "question": "Wann verwandelt sich laut Schlusssatz die Sehnsucht nach Lebensqualität in Wirklichkeit?",
+      "options": [
+       "Wenn gesellschaftliche Strukturen und individuelle Wertvorstellungen ineinandergreifen",
+       "Wenn alle Bürger ausnahmslos auf den Konsum verzichten",
+       "Wenn sämtliche Betriebe verstaatlicht werden",
+       "Wenn Menschen aufhören, sich für Philosophie zu interessieren"
+      ],
+      "answer": 0,
+      "explanation": "Câu kết đoạn 4: 'Erst wenn gesellschaftliche Strukturen und individuelle Wertvorstellungen harmonisch ineinandergreifen, verwandelt sich die theoretische Sehnsucht nach Lebensqualität in eine gelebte, alltägliche Wirklichkeit'."
+     }
+    ]
+   },
+   "writing": {
+    "task": "Sie haben in einem Diskussionsforum für moderne Arbeitskultur einen Beitrag zum Thema 'Arbeitszeitverkürzung und Lebensqualität: Weniger arbeiten für mehr Glück?' gelesen. Schreiben Sie einen fundierten Beitrag dazu (mindestens 100 Wörter).\nGehen Sie auf folgende Punkte ein:\n1. Nehmen Sie Stellung zur Forderung nach kürzeren Arbeitszeiten bei vollem Lohnausgleich.\n2. Nennen Sie Gründe, warum immer mehr Menschen Wert auf Entschleunigung und Work-Life-Balance legen.\n3. Berichten Sie über eigene Erfahrungen oder Beobachtungen aus Ihrer Heimat bezüglich des Arbeitsdrucks.\n4. Wägen Sie Vor- und Nachteile kürzerer Arbeitszeiten für Arbeitnehmer und Unternehmen ab.",
+    "sample": "Ich möchte mich gern an der aktuellen Debatte über die Verkürzung der Arbeitszeit und deren Auswirkungen auf die Lebensqualität beteiligen. Meiner festen Überzeugung nach steht es völlig außer Zweifel, dass die übermäßige zeitliche Belastung in vielen Branchen zu einem bedenklichen Verlust an Gesundheit und seelischer Ausgeglichenheit geführt hat.\n\nImmer mehr Arbeitnehmer legen heute berechtigterweise Wert auf Entschleunigung und eine harmonische Work-Life-Balance. Der Grund dafür liegt auf der Hand: Materieller Wohlstand verliert rasant an Reiz, wenn chronischer Schlafmangel, ständige Erreichbarkeit und psychischer Druck das Privatleben überschatten. Wahre Lebensqualität bemisst sich vielmehr an der verfügbaren Zeit für Familie, Freunde und persönliche Weiterentwicklung.\n\nIn meiner Heimat Vietnam beobachte ich seit Jahren, dass junge Berufstätige unter enormem Konkurrenzdruck leiden. Viele leisten unzählige Überstunden, um den hohen Erwartungen gerecht zu werden, was nicht selten in schweren Sinnkrisen mündet.\n\nZwar müssen Unternehmen bei einer Arbeitszeitverkürzung organisatorische Herausforderungen bewältigen und Produktionsabläufe neu strukturieren, doch die Vorteile überwiegen deutlich: Erholte und zufriedene Mitarbeiter weisen eine signifikant niedrigere Fehlerquote auf, sind kreativer und bleiben dem Betrieb langfristig treu. Daher sollten fortschrittliche Arbeitgeber flexible Arbeitszeitmodelle mutig in Betracht ziehen."
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Welches Funktionsverb passt zur Kollokation: 'eine Entscheidung ______'?",
+     "options": [
+      "treffen",
+      "machen",
+      "tun",
+      "schließen"
+     ],
+     "answer": 0,
+     "explain": "Kollokation: 'eine Entscheidung treffen' (đưa ra một quyết định dứt khoát)."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Präposition und welcher Kasus gehören zur Verbindung: 'Kritik üben ______'?",
+     "options": [
+      "an + Dativ",
+      "für + Akkusativ",
+      "über + Akkusativ",
+      "gegen + Dativ"
+     ],
+     "answer": 0,
+     "explain": "'Kritik üben an + Dativ' (chỉ trích, phê phán ai hoặc điều gì)."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Verb drückt den passivischen Zustand aus: 'Das heikle Thema ______ derzeit im Stadtrat zur Diskussion.'?",
+     "options": [
+      "steht",
+      "stellt",
+      "bringt",
+      "zieht"
+     ],
+     "answer": 0,
+     "explain": "'zur Diskussion stehen' diễn tả trạng thái đang được thảo luận (Passiv/Zustand)."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet die Nomen-Verb-Verbindung 'in Erwägung ziehen'?",
+     "options": [
+      "etwas gründlich prüfen und als Möglichkeit bedenken",
+      "etwas sofort und ohne Prüfung ablehnen",
+      "eine Beschwerde beim Betriebsrat einreichen",
+      "auf jegliche Verhandlung verzichten"
+     ],
+     "answer": 0,
+     "explain": "'in Erwägung ziehen' = cân nhắc kỹ lưỡng, tính đến khả năng xảy ra."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Adjektivattribut passt am besten zur gehobenen Wendung: 'Sie traf eine ______ Entscheidung.'?",
+     "options": [
+      "wohlüberlegte",
+      "gemachte",
+      "geholfene",
+      "gesagte"
+     ],
+     "answer": 0,
+     "explain": "Trong văn phong B2/C1: 'eine wohlüberlegte Entscheidung treffen' (đưa ra quyết định cân nhắc thấu đáo)."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Verb komplettiert den Ausdruck: 'wirkungsvolle Maßnahmen ______'?",
+     "options": [
+      "ergreifen",
+      "nehmen",
+      "stellen",
+      "halten"
+     ],
+     "answer": 0,
+     "explain": "'Maßnahmen ergreifen' (áp dụng biện pháp, triển khai hành động)."
+    },
+    {
+     "type": "mcq",
+     "q": "Was drückt die Wendung 'außer Zweifel stehen' aus?",
+     "options": [
+      "dass etwas vollkommen sicher und unbestreitbar ist",
+      "dass man große Bedenken hat",
+      "dass eine Entscheidung noch unklar ist",
+      "dass ein Verdacht geäußert wird"
+     ],
+     "answer": 0,
+     "explain": "'außer Zweifel stehen' = không còn nghi ngờ gì nữa, là điều chắc chắn rõ ràng."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Nomen bezeichnet die psychische Widerstandskraft in Krisensituationen?",
+     "options": [
+      "die Resilienz",
+      "die Stornierung",
+      "die Durchsage",
+      "die Quittung"
+     ],
+     "answer": 0,
+     "explain": "'die Resilienz' là năng lực phục hồi tâm lý và sức chịu đựng dẻo dai trước nghịch cảnh."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Nomen-Verb-Verbindung drückt den Beginn eines Prozesses aus?",
+     "options": [
+      "einen Wandel in Gang setzen",
+      "zur Ruhe kommen",
+      "einen Beschluss aufheben",
+      "eine Grenze ziehen"
+     ],
+     "answer": 0,
+     "explain": "'in Gang setzen' = khởi động, đưa một tiến trình đi vào vận hành."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche feste Präposition verlangt die Wendung: 'Abschied nehmen ______'?",
+     "options": [
+      "von + Dativ",
+      "an + Dativ",
+      "auf + Akkusativ",
+      "vor + Dativ"
+     ],
+     "answer": 0,
+     "explain": "'Abschied nehmen von + Dativ' (từ biệt ai, từ bỏ điều gì)."
+    },
+    {
+     "type": "gap",
+     "text": "Die Geschäftsleitung zog den Vorschlag der Mitarbeiter ernsthaft in ___.",
+     "answers": [
+      "Erwägung|Betracht"
+     ],
+     "hint": "Nomen für Überlegung",
+     "vi": "Ban giám đốc đã nghiêm túc cân nhắc đề xuất của nhân viên.",
+     "explain": "'etwas in Erwägung / Betracht ziehen' (cân nhắc điều gì)."
+    },
+    {
+     "type": "gap",
+     "text": "Die Gewerkschaft übte scharfe Kritik ___ den unbezahlten Überstunden.",
+     "answers": [
+      "an"
+     ],
+     "hint": "Präposition zu Kritik üben",
+     "vi": "Công đoàn đã chỉ trích gay gắt về những giờ làm thêm không được trả lương.",
+     "explain": "'Kritik üben an + Dativ'."
+    },
+    {
+     "type": "gap",
+     "text": "Es steht völlig außer ___, dass Schlafmangel die Konzentration schwächt.",
+     "answers": [
+      "Zweifel"
+     ],
+     "hint": "Nomen für Gewissheit",
+     "vi": "Hoàn toàn không còn nghi ngờ gì nữa rằng thiếu ngủ làm suy giảm sự tập trung.",
+     "explain": "'außer Zweifel stehen' (không còn hoài nghi gì nữa)."
+    },
+    {
+     "type": "gap",
+     "text": "Die Firma stellte den Angestellten eine Prämie in ___.",
+     "answers": [
+      "Aussicht"
+     ],
+     "hint": "Nomen für Versprechen",
+     "vi": "Công ty đã hứa hẹn thưởng một khoản tiền cho các nhân viên.",
+     "explain": "'jemandem etwas in Aussicht stellen' (hứa hẹn với ai điều gì)."
+    },
+    {
+     "type": "gap",
+     "text": "Der Betriebsrat brachte das heikle Thema Arbeitsbelastung zur ___.",
+     "answers": [
+      "Sprache"
+     ],
+     "hint": "Nomen für ansprechen",
+     "vi": "Hội đồng nhân viên đã nêu vấn đề gánh nặng công việc ra thảo luận.",
+     "explain": "'etwas zur Sprache bringen' (đưa vấn đề ra thảo luận)."
+    },
+    {
+     "type": "gap",
+     "text": "Um das Burnout-Risiko zu senken, müssen wir wirksame Maßnahmen ___.",
+     "answers": [
+      "ergreifen"
+     ],
+     "hint": "Verb zu Maßnahmen",
+     "vi": "Để giảm bớt rủi ro kiệt sức, chúng ta phải áp dụng các biện pháp hữu hiệu.",
+     "explain": "'Maßnahmen ergreifen' (áp dụng biện pháp)."
+    },
+    {
+     "type": "gap",
+     "text": "In Krisenzeiten stellte sie ihre beeindruckende innere Stärke unter ___.",
+     "answers": [
+      "Beweis"
+     ],
+     "hint": "Nomen für Nachweis",
+     "vi": "Trong thời điểm khủng hoảng, cô ấy đã chứng minh sức mạnh nội tâm ấn tượng của mình.",
+     "explain": "'etwas unter Beweis stellen' (chứng minh điều gì)."
+    },
+    {
+     "type": "gap",
+     "text": "Bei Überlastung sollte man sich unverzüglich mit einem Arzt in Verbindung ___.",
+     "answers": [
+      "setzen"
+     ],
+     "hint": "Verb zu in Verbindung",
+     "vi": "Khi bị quá tải, người ta nên liên lạc ngay lập tức với bác sĩ.",
+     "explain": "'sich in Verbindung setzen mit + Dativ'."
+    },
+    {
+     "type": "gap",
+     "text": "Die Mitarbeiterin stellte einen offiziellen ___ auf Bildungsurlaub.",
+     "answers": [
+      "Antrag"
+     ],
+     "hint": "Nomen für formelles Gesuch",
+     "vi": "Nữ nhân viên đã nộp một lá đơn chính thức xin nghỉ phép đi học nâng cao.",
+     "explain": "'einen Antrag stellen auf + Akkusativ'."
+    },
+    {
+     "type": "gap",
+     "text": "Wir müssen endlich Abschied ___ der Illusion ständiger Perfektion nehmen.",
+     "answers": [
+      "von"
+     ],
+     "hint": "Präposition zu Abschied nehmen",
+     "vi": "Chúng ta sau cùng phải từ bỏ ảo tưởng về sự hoàn hảo liên tục.",
+     "explain": "'Abschied nehmen von + Dativ'."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Die",
+      "Leiterin",
+      "zog",
+      "den",
+      "Vorschlag",
+      "ernsthaft",
+      "in",
+      "Erwägung"
+     ],
+     "answer": "Die Leiterin zog den Vorschlag ernsthaft in Erwägung.",
+     "answers": [
+      "Die Leiterin zog den Vorschlag ernsthaft in Erwägung."
+     ],
+     "vi": "Bà giám đốc đã nghiêm túc cân nhắc đề xuất."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Das",
+      "Management",
+      "muss",
+      "unverzüglich",
+      "wirksame",
+      "Maßnahmen",
+      "ergreifen"
+     ],
+     "answer": "Das Management muss unverzüglich wirksame Maßnahmen ergreifen.",
+     "answers": [
+      "Das Management muss unverzüglich wirksame Maßnahmen ergreifen."
+     ],
+     "vi": "Ban quản lý phải áp dụng ngay lập tức các biện pháp hữu hiệu."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Es",
+      "steht",
+      "völlig",
+      "außer",
+      "Zweifel",
+      "dass",
+      "Gesundheit",
+      "vorgeht"
+     ],
+     "answer": "Es steht völlig außer Zweifel dass Gesundheit vorgeht.",
+     "answers": [
+      "Es steht völlig außer Zweifel dass Gesundheit vorgeht."
+     ],
+     "vi": "Hoàn toàn không còn nghi ngờ gì nữa rằng sức khỏe là quan trọng nhất."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Er",
+      "stellte",
+      "einen",
+      "förmlichen",
+      "Antrag",
+      "auf",
+      "Teilzeitarbeit"
+     ],
+     "answer": "Er stellte einen förmlichen Antrag auf Teilzeitarbeit.",
+     "answers": [
+      "Er stellte einen förmlichen Antrag auf Teilzeitarbeit."
+     ],
+     "vi": "Anh ấy đã nộp một lá đơn chính thức xin làm việc bán thời gian."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Die",
+      "Psychologin",
+      "übte",
+      "deutliche",
+      "Kritik",
+      "an",
+      "den",
+      "Arbeitsbedingungen"
+     ],
+     "answer": "Die Psychologin übte deutliche Kritik an den Arbeitsbedingungen.",
+     "answers": [
+      "Die Psychologin übte deutliche Kritik an den Arbeitsbedingungen."
+     ],
+     "vi": "Nữ chuyên gia tâm lý đã chỉ trích rõ ràng các điều kiện làm việc."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Gemeinsam",
+      "setzten",
+      "die",
+      "Kollegen",
+      "einen",
+      "wichtigen",
+      "Dialog",
+      "in",
+      "Gang"
+     ],
+     "answer": "Gemeinsam setzten die Kollegen einen wichtigen Dialog in Gang.",
+     "answers": [
+      "Gemeinsam setzten die Kollegen einen wichtigen Dialog in Gang."
+     ],
+     "vi": "Cùng nhau các đồng nghiệp đã khởi động một cuộc đối thoại quan trọng."
+    },
+    {
+     "type": "translate",
+     "vi": "Chúng ta nên nghiêm túc cân nhắc đề xuất này.",
+     "answers": [
+      "Wir sollten diesen Vorschlag ernsthaft in Erwägung ziehen.",
+      "Wir sollten diesen Vorschlag ernsthaft in Betracht ziehen."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Hoàn toàn không còn nghi ngờ gì nữa rằng sự chánh niệm mang lại hạnh phúc.",
+     "answers": [
+      "Es steht völlig außer Zweifel, dass Achtsamkeit glücklich macht.",
+      "Es steht außer Zweifel, dass Achtsamkeit zu Glück führt."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Ban giám đốc đã hứa hẹn tăng lương cho nhân viên.",
+     "answers": [
+      "Die Geschäftsleitung stellte den Mitarbeitern eine Gehaltserhöhung in Aussicht.",
+      "Die Leitung hat den Beschäftigten eine Gehaltserhöhung in Aussicht gestellt."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Anh ấy đã chứng minh năng lực của mình trong giai đoạn khủng hoảng.",
+     "answers": [
+      "Er stellte seine Fähigkeiten in der Krisenphase unter Beweis.",
+      "Er hat seine Kompetenzen in der Krise unter Beweis gestellt."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Chủ đề này hiện đang được đưa ra thảo luận trong toàn công ty.",
+     "answers": [
+      "Dieses Thema steht derzeit im gesamten Unternehmen zur Diskussion.",
+      "Das Thema steht aktuell im ganzen Unternehmen zur Diskussion."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Chúng ta phải áp dụng các biện pháp kịp thời để ngăn ngừa sự kiệt sức.",
+     "answers": [
+      "Wir müssen rechtzeitig Maßnahmen ergreifen, um Erschöpfung zu verhindern.",
+      "Wir müssen rechtzeitig Maßnahmen zur Vermeidung von Erschöpfung ergreifen."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Eine ausgewogene Lebensweise stärkt die persönliche Resilienz und Lebenszufriedenheit.",
+     "vi": "Một lối sống cân bằng củng cố năng lực phục hồi tâm lý và sự hài lòng cuộc sống cá nhân."
+    },
+    {
+     "type": "listen",
+     "de": "Die Geschäftsführung zog flexible Arbeitszeitmodelle ernsthaft in Erwägung.",
+     "vi": "Ban giám đốc đã nghiêm túc cân nhắc các mô hình thời gian làm việc linh hoạt."
+    },
+    {
+     "type": "listen",
+     "de": "Es steht außer Zweifel, dass soziale Anerkennung das Wohlbefinden steigert.",
+     "vi": "Không còn nghi ngờ gì nữa rằng sự công nhận xã hội nâng cao cảm giác hạnh phúc."
+    },
+    {
+     "type": "listen",
+     "de": "Achtsamkeit im Alltag schützt Menschen vor dauerhafter Überlastung.",
+     "vi": "Chánh niệm trong đời thường bảo vệ con người trước tình trạng quá tải lâu dài."
+    },
+    {
+     "type": "speak",
+     "de": "Wir sollten dieses wichtige Thema in der nächsten Teamsitzung zur Sprache bringen.",
+     "vi": "Chúng ta nên đưa chủ đề quan trọng này ra thảo luận trong cuộc họp nhóm tiếp theo."
+    },
+    {
+     "type": "speak",
+     "de": "Es steht völlig außer Zweifel, dass seelische Gesundheit an erster Stelle steht.",
+     "vi": "Hoàn toàn không còn nghi ngờ gì nữa rằng sức khỏe tinh thần đứng ở vị trí hàng đầu."
+    },
+    {
+     "type": "speak",
+     "de": "Das Management muss unverzüglich wirksame Maßnahmen zum Gesundheitsschutz ergreifen.",
+     "vi": "Ban quản lý phải áp dụng ngay các biện pháp hữu hiệu để bảo vệ sức khỏe."
+    },
+    {
+     "type": "speak",
+     "de": "In schwierigen Phasen stellte sie ihre bemerkenswerte Ausgeglichenheit unter Beweis.",
+     "vi": "Trong những giai đoạn khó khăn, cô ấy đã chứng minh sự an tĩnh nội tâm đáng khâm phục của mình."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "in Erwägung ziehen",
+       "cân nhắc kỹ lưỡng"
+      ],
+      [
+       "außer Zweifel stehen",
+       "không còn nghi ngờ gì"
+      ],
+      [
+       "Maßnahmen ergreifen",
+       "áp dụng biện pháp"
+      ],
+      [
+       "in Aussicht stellen",
+       "hứa hẹn triển vọng"
+      ],
+      [
+       "unter Beweis stellen",
+       "chứng minh năng lực"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "Kritik üben",
+       "an + Dativ"
+      ],
+      [
+       "Abschied nehmen",
+       "von + Dativ"
+      ],
+      [
+       "einen Antrag stellen",
+       "auf + Akkusativ"
+      ],
+      [
+       "in Verbindung treten",
+       "mit + Dativ"
+      ],
+      [
+       "Stellung beziehen",
+       "zu + Dativ"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });

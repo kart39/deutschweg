@@ -2089,6 +2089,989 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b1-u09-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Hệ thống mệnh đề thời gian (Temporale Nebensätze)\n\nMệnh đề phụ chỉ thời gian làm rõ mối tương quan thời gian giữa hai hành động: đồng thời (Gleichzeitigkeit), trước sau (Vorzeitigkeit) hay tiếp nối (Nachzeitigkeit).\n\n| Liên từ thời gian | Ý nghĩa quan hệ | Tương quan thời thì | Ví dụ minh họa |\n| :--- | :--- | :--- | :--- |\n| **während** | Trong khi (diễn ra đồng thời) | Cùng thì (Präsens/Präteritum) | {{**Während** er Müll trennte, kochte sie das Essen.}} |\n| **bevor / ehe** | Trước khi (hành động chính xảy ra trước) | Mệnh đề chính $\\rightarrow$ bevor | {{Schalten Sie das Licht aus, **bevor** Sie den Raum verlassen.}} |\n| **nachdem** | Sau khi (mệnh đề nachdem xảy ra trước) | **Vorzeitigkeit** (lùi 1 thì) | {{**Nachdem** sie die Solaranlage installiert hatten, sparten sie Strom.}} |\n| **seit / seitdem** | Kể từ khi (bắt đầu trong quá khứ, kéo dài tới nay) | Thường dùng thì **Präsens** | {{**Seitdem** wir Ökostrom nutzen, ist unser CO2-Ausstoß gesunken.}} |\n| **bis** | Cho đến khi (mốc kết thúc hành động) | Diễn tả điểm kết thúc | {{Wir trennen Plastik, **bis** der gelbe Sack voll ist.}} |\n| **sobald** | Ngay khi (thời điểm bắt đầu tức thời) | Xảy ra ngay khi điều kiện đạt | {{**Sobald** die Sonne scheint, erzeugt die Anlage saubere Energie.}} |\n| **solange** | Chừng nào mà (kéo dài song song về thời lượng) | Hai hành động kéo dài bằng nhau | {{**Solange** wir Energie verschwenden, wird die Umwelt belastet.}} |\n\n## 2. Phân biệt các cặp liên từ dễ gây nhầm lẫn\n\n### A. \"sobald\" (ngay khi) vs. \"solange\" (chừng nào mà)\n- **sobald**: Nhấn mạnh vào **khoảnh khắc bắt đầu tức thì** (tương tự *ngay khi*):\n  - {{Sobald das Gesetz beschlossen wird, müssen Betriebe weniger CO2 ausstoßen.}}\n- **solange**: Nhấn mạnh vào **toàn bộ khoảng thời gian kéo dài liên tục** (tương tự *chừng nào còn*):\n  - {{Solange die Bürger aktiv mithelfen, bleibt unsere Stadt sauber und lebenswert.}}\n\n### B. \"während\" (trong khi) vs. \"bevor\" (trước khi)\n- **während**: Hai hành động diễn ra song song cùng lúc: {{Während er den Müll wegbringt, schalte ich die Geräte aus.}}\n- **bevor**: Hành động ở mệnh đề chính diễn ra **trước** hành động trong mệnh đề bevor: {{Bevor man das Haus verlässt, sollte man die Heizung herunterdrehen.}}\n\n## 3. 6 lỗi điển hình người Việt hay mắc (✗ → ✓)\n\n### Lỗi 1: Nhầm lẫn giữa \"während\" (liên từ) và \"während\" (giới từ)\n- ✗ *Während er aß, las er die Zeitung.* (đúng)\n- ✗ *Während der Essen las er die Zeitung.*\n- ✓ {{Während des Essens las er die Zeitung.}}\n- *Giải thích:* {{während}} làm Subjunktion thì liên kết mệnh đề phụ có động từ ở cuối ({{Während er aß, ...}}); khi làm Präposition thì bắt buộc đi kèm danh từ ở **Genitiv** ({{Während des Essens}}).\n\n### Lỗi 2: Dùng \"bis\" thay vì \"seitdem\" khi hành động vẫn đang tiếp diễn\n- ✗ *Bis ich in Deutschland lebe, trenne ich meinen Müll.*\n- ✓ {{Seitdem ich in Deutschland lebe, trenne ich meinen Müll.}}\n- *Giải thích:* {{bis}} chỉ mốc kết thúc (*cho đến khi nào thì ngừng*). Hành động bắt đầu từ quá khứ và vẫn tiếp tục ở hiện tại bắt buộc phải dùng {{seit}} hoặc {{seitdem}}.\n\n### Lỗi 3: Quên đưa động từ chia về cuối mệnh đề thời gian\n- ✗ *Sobald die Sonne scheint wieder, produzieren wir Strom.*\n- ✓ {{Sobald die Sonne wieder scheint, produzieren wir Strom.}}\n- *Giải thích:* Mọi mệnh đề phụ chỉ thời gian (Temporalsätze) đều yêu cầu động từ chia phải đứng ở **vị trí cuối cùng**.\n\n### Lỗi 4: Dùng sai trật tự từ ở mệnh đề chính khi mệnh đề phụ đứng đầu\n- ✗ *Bevor wir einkaufen gehen, wir nehmen Stofftaschen mit.*\n- ✓ {{Bevor wir einkaufen gehen, nehmen wir Stofftaschen mit.}}\n- *Giải thích:* Mệnh đề phụ đứng trước chiếm trọn vẹn vị trí 1, mệnh đề chính phải bắt đầu ngay bằng động từ chia (Inversion: {{nehmen wir...}}).\n\n### Lỗi 5: Nhầm lẫn giữa \"nachdem\" và \"danach\"\n- ✗ *Nachdem gingen wir in den Unverpacktladen.*\n- ✓ {{Danach gingen wir in den Unverpacktladen.}}\n- *Giải thích:* {{nachdem}} là liên từ phụ thuộc không thể đứng một mình làm trạng từ. Từ đứng độc lập làm trạng từ liên kết nối câu là {{danach}} hoặc {{anschließend}}.\n\n### Lỗi 6: Dùng thì quá khứ không cần thiết với \"seitdem\"\n- ✗ *Seitdem er Ökostrom nutzte, sparte er viel Geld.* (nếu hiện tại vẫn dùng)\n- ✓ {{Seitdem er Ökostrom nutzt, spart er viel Geld.}}\n- *Giải thích:* Với {{seitdem}}, khi một thói quen hoặc tình trạng vẫn đang tiếp diễn ở hiện tại, cả hai vế đều chia ở thì **Präsens**.\n\n## 4. Ví dụ củng cố bổ sung\n- {{Solange die globale Erwärmung fortschreitet, müssen wir konsequenten Klimaschutz betreiben.}} (Chừng nào hiện tượng ấm lên toàn cầu còn tiếp diễn, chúng ta còn phải kiên quyết hành động bảo vệ khí hậu.)\n- {{Sobald die neue Solaranlage montiert ist, erzeugen wir umweltfreundlichen Strom auf dem Dach.}} (Ngay khi hệ thống pin mặt trời mới được lắp đặt, chúng tôi sẽ sản xuất điện thân thiện môi trường ngay trên mái nhà.)\n- {{Bevor Sie Einwegplastik kaufen, sollten Sie umweltfreundliche Alternativen aus Mehrwegglas prüfen.}} (Trước khi mua đồ nhựa dùng một lần, bạn nên xem xét các giải pháp thay thế thân thiện bằng thủy tinh dùng nhiều lần.)\n- {{Während sich die Politiker beraten, demonstrieren Tausende junge Menschen für den Naturschutz.}} (Trong khi các chính trị gia hội đàm, hàng nghìn bạn trẻ đang tuần hành vì sự nghiệp bảo tồn thiên nhiên.)\n- {{Seitdem die Stadt neue Radwege gebaut hat, lassen viele Bürger das Auto stehen.}} (Kể từ khi thành phố xây dựng các tuyến đường xe đạp mới, nhiều người dân đã để xe hơi ở nhà.)\n",
+   "vocab": [
+    {
+     "de": "Umweltschutz",
+     "article": "der",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈʊmvɛltˌʃʊts",
+     "vi": "việc bảo vệ môi trường sinh thái",
+     "example": "Aktiver Umweltschutz beginnt bereits bei den kleinen Gewohnheiten im eigenen Haushalt.",
+     "exampleVi": "Việc bảo vệ môi trường tích cực bắt đầu ngay từ những thói quen nhỏ trong gia đình của chính mình."
+    },
+    {
+     "de": "Nachhaltigkeit",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈnaːxhaltɪçkaɪ̯t",
+     "vi": "sự phát triển bền vững, tính lâu bền",
+     "example": "Bei der Produktion von Konsumgütern spielt das Prinzip der Nachhaltigkeit eine zentrale Rolle.",
+     "exampleVi": "Trong sản xuất hàng tiêu dùng, nguyên tắc phát triển bền vững đóng một vai trò trung tâm."
+    },
+    {
+     "de": "Recycling",
+     "article": "das",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ʁiˈsaɪ̯klɪŋ",
+     "vi": "việc tái chế rác thải và nguyên vật liệu",
+     "example": "Durch gezieltes Recycling können wertvolle Rohstoffe wie Glas und Aluminium wiederverwertet werden.",
+     "exampleVi": "Qua việc tái chế có mục tiêu, các nguyên liệu thô quý giá như thủy tinh và nhôm có thể được tái sử dụng."
+    },
+    {
+     "de": "Mülltrennung",
+     "article": "die",
+     "plural": "Mülltrennungen",
+     "pos": "noun",
+     "ipa": "ˈmʏlˌtʁɛnʊŋ",
+     "vi": "việc phân loại rác thải tại nguồn",
+     "example": "In Deutschland ist eine sorgfältige Mülltrennung ein fester Bestandteil des Alltags.",
+     "exampleVi": "Tại Đức, việc phân loại rác cẩn thận là một phần cố định không thể thiếu trong cuộc sống hàng ngày."
+    },
+    {
+     "de": "Schadstoff",
+     "article": "der",
+     "plural": "Schadstoffe",
+     "pos": "noun",
+     "ipa": "ˈʃaːtˌʃtɔf",
+     "vi": "chất độc hại gây ô nhiễm không khí và nguồn nước",
+     "example": "Moderne Filteranlagen in Fabriken halten gefährliche Schadstoffe zuverlässig zurück.",
+     "exampleVi": "Các hệ thống lọc hiện đại trong nhà máy giữ lại các chất độc hại nguy hiểm một cách đáng tin cậy."
+    },
+    {
+     "de": "Solarenergie",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "zoˈlaːɐ̯ʔenɛʁˌɡiː",
+     "vi": "năng lượng mặt trời",
+     "example": "Die Nutzung sauberer Solarenergie schont fossile Brennstoffe und schützt das Klima.",
+     "exampleVi": "Việc sử dụng năng lượng mặt trời sạch giúp tiết kiệm nhiên liệu hóa thạch và bảo vệ khí hậu."
+    },
+    {
+     "de": "Ökostrom",
+     "article": "der",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈøːkoˌʃtʁoːm",
+     "vi": "điện sạch sinh thái từ các nguồn năng lượng tái tạo",
+     "example": "Immer mehr private Haushalte wechseln ganz bewusst zu einem Anbieter von Ökostrom.",
+     "exampleVi": "Ngày càng nhiều hộ gia đình tư nhân chủ động chuyển sang nhà cung cấp điện sạch sinh thái."
+    },
+    {
+     "de": "Plastik",
+     "article": "das",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈplastɪk",
+     "vi": "chất dẻo, vật liệu nhựa tổng hợp",
+     "example": "Verzichten Sie beim Einkauf auf Plastik und nutzen Sie stattdessen wiederverwendbare Stoffbeutel.",
+     "exampleVi": "Hãy từ bỏ đồ nhựa khi đi mua sắm và sử dụng túi vải tái sử dụng thay vào đó."
+    },
+    {
+     "de": "Umweltverschmutzung",
+     "article": "die",
+     "plural": "Umweltverschmutzungen",
+     "pos": "noun",
+     "ipa": "ˈʊmvɛltfɛɐ̯ˌʃmʊtsʊŋ",
+     "vi": "sự ô nhiễm môi trường đất, nước và không khí",
+     "example": "Die zunehmende Umweltverschmutzung in den Meeren gefährdet das Überleben vieler Tierarten.",
+     "exampleVi": "Tình trạng ô nhiễm môi trường ngày càng gia tăng ở các đại dương đe dọa sự sinh tồn của nhiều loài động vật."
+    },
+    {
+     "de": "Naturschutz",
+     "article": "der",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "naˈtuːɐ̯ˌʃʊts",
+     "vi": "việc bảo tồn thiên nhiên hoang dã",
+     "example": "Das neu ausgewiesene Naturschutzgebiet bietet seltenen Vogelarten einen sicheren Brutplatz.",
+     "exampleVi": "Khu bảo tồn thiên nhiên mới được quy hoạch mang lại cho các loài chim quý hiếm nơi làm tổ an toàn."
+    },
+    {
+     "de": "Erwärmung",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ɛɐ̯ˈvɛʁmʊŋ",
+     "vi": "hiện tượng ấm lên, gia tăng nhiệt độ toàn cầu",
+     "example": "Die globale Erwärmung führt weltweit zum Abschmelzen jahrtausendealter Gletscher.",
+     "exampleVi": "Hiện tượng ấm lên toàn cầu dẫn tới sự tan chảy của những dòng sông băng hàng nghìn năm tuổi trên thế giới."
+    },
+    {
+     "de": "CO2-Ausstoß",
+     "article": "der",
+     "plural": "CO2-Ausstöße",
+     "pos": "noun",
+     "ipa": "tseːʔoːˈtsvaɪ̯ˌʔaʊ̯sʃtoːs",
+     "vi": "lượng phát thải khí nhà kính carbon dioxide",
+     "example": "Durch die Umstellung auf Elektrobusse konnte die Stadt ihren CO2-Ausstoß drastisch senken.",
+     "exampleVi": "Nhờ việc chuyển đổi sang xe buýt điện, thành phố đã có thể giảm mạnh lượng phát thải CO2."
+    },
+    {
+     "de": "Mehrwegglas",
+     "article": "das",
+     "plural": "Mehrweggläser",
+     "pos": "noun",
+     "ipa": "ˈmeːɐ̯veːkˌɡlaːs",
+     "vi": "chai lọ thủy tinh dùng nhiều lần có hoàn tiền cọc",
+     "example": "Getränke in Mehrweggläsern sind wesentlich umweltfreundlicher als Einweg-Plastikflaschen.",
+     "exampleVi": "Đồ uống đựng trong chai thủy tinh dùng nhiều lần thân thiện với môi trường hơn nhiều so với chai nhựa dùng một lần."
+    },
+    {
+     "de": "einen Beitrag leisten zu",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nən ˈbaɪ̯tʁaːk ˈlaɪ̯stn̩ tsuː",
+     "vi": "đóng góp một phần công sức vào điều gì (+ Dat)",
+     "example": "Jeder einzelne Bürger kann einen wertvollen Beitrag zum Klimaschutz leisten.",
+     "exampleVi": "Mỗi cá nhân công dân đều có thể đóng góp một phần quý giá vào công cuộc bảo vệ khí hậu."
+    },
+    {
+     "de": "Energie verschwenden",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "enɛʁˈɡiː fɛɐ̯ˈʃvɛndn̩",
+     "vi": "lãng phí, tiêu hao năng lượng vô ích",
+     "example": "Wer die Fenster bei eingeschalteter Heizung dauerhaft kippt, verschwendet unnötig Energie.",
+     "exampleVi": "Ai mở hé cửa sổ liên tục trong khi lò sưởi đang bật là đang lãng phí năng lượng không cần thiết."
+    },
+    {
+     "de": "die Umwelt belasten",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "diː ˈʊmvɛlt bəˈlastn̩",
+     "vi": "gây gánh nặng, gây ô nhiễm lên môi trường sống",
+     "example": "Kurzstreckenflüge belasten die Umwelt durch hohe Abgase besonders stark.",
+     "exampleVi": "Những chuyến bay chặng ngắn gây gánh nặng đặc biệt lớn lên môi trường do lượng khí thải cao."
+    },
+    {
+     "de": "auf Plastik verzichten",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "aʊ̯f ˈplastɪk fɛɐ̯ˈtsɪçtn̩",
+     "vi": "từ bỏ, hạn chế sử dụng đồ nhựa",
+     "example": "Im Unverpacktladen kann man konsequent auf Plastik verzichten und lose Lebensmittel kaufen.",
+     "exampleVi": "Tại cửa hàng không bao bì, người ta có thể kiên quyết từ bỏ đồ nhựa và mua thực phẩm rời."
+    },
+    {
+     "de": "Müll vermeiden",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "mʏl fɛɐ̯ˈmaɪ̯dn̩",
+     "vi": "giảm thiểu, tránh phát sinh rác thải sinh hoạt",
+     "example": "Der beste Weg zum Umweltschutz ist es, Müll von vornherein gar nicht erst entstehen zu lassen.",
+     "exampleVi": "Cách tốt nhất để bảo vệ môi trường là giảm thiểu rác thải ngay từ đầu không để phát sinh."
+    },
+    {
+     "de": "im Einklang mit der Natur leben",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɪm ˈaɪ̯nklaŋ mɪt deːɐ̯ naˈtuːɐ̯ ˈleːbn̩",
+     "vi": "sống chan hòa, hòa hợp với thiên nhiên",
+     "example": "Ein nachhaltiger Lebensstil bedeutet, wieder mehr im Einklang mit der Natur zu leben.",
+     "exampleVi": "Một phong cách sống bền vững có nghĩa là sống chan hòa hơn với thiên nhiên."
+    },
+    {
+     "de": "wiederverwenden",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "verwendet wieder, verwendete wieder, hat wiederverwendet",
+     "ipa": "ˈviːdɐfɛɐ̯ˌvɛndn̩",
+     "vi": "tái sử dụng đồ dùng nhiều lần (+ Akk)",
+     "example": "Alte Gläser und Kartons lassen sich im Haushalt problemlos mehrfach wiederverwenden.",
+     "exampleVi": "Lọ thủy tinh và thùng carton cũ có thể dễ dàng tái sử dụng nhiều lần trong gia đình."
+    },
+    {
+     "de": "verschmutzen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "verschmutzt, verschmutzte, hat verschmutzt",
+     "ipa": "fɛɐ̯ˈʃmʊtsn̩",
+     "vi": "làm ô nhiễm, làm bẩn nguồn nước/không khí (+ Akk)",
+     "example": "Industrieabfälle verschmutzten den Fluss und schädigten die Fischbestände schwer.",
+     "exampleVi": "Rác thải công nghiệp đã làm ô nhiễm dòng sông và gây tổn hại nặng nề cho đàn cá."
+    },
+    {
+     "de": "erwärmen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "erwärmt, erwärmte, hat erwärmt",
+     "ipa": "ɛɐ̯ˈvɛʁmən",
+     "vi": "làm ấm lên, nóng lên (nhiệt độ) (+ Akk / sich)",
+     "example": "Durch den Treibhauseffekt erwärmt sich die Erdatmosphäre in beängstigendem Tempo.",
+     "exampleVi": "Do hiệu ứng nhà kính, bầu khí quyển trái đất đang ấm lên với tốc độ đáng sợ."
+    },
+    {
+     "de": "recyceln",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "recycelt, recycelte, hat recycelt",
+     "ipa": "ʁiˈsaɪ̯kl̩n",
+     "vi": "tái chế phế liệu (+ Akk)",
+     "example": "In dieser modernen Anlage werden alte Plastikflaschen zu neuen Textilfasern recycelt.",
+     "exampleVi": "Tại nhà máy hiện đại này, các chai nhựa cũ được tái chế thành sợi dệt may mới."
+    },
+    {
+     "de": "gefährden",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "gefährdet, gefährdete, hat gefährdet",
+     "ipa": "ɡəˈfɛːɐ̯dn̩",
+     "vi": "gây nguy hiểm, đe dọa an nguy (+ Akk)",
+     "example": "Die Zerstörung der Wälder gefährdet den natürlichen Lebensraum unzähliger Tierarten.",
+     "exampleVi": "Sự tàn phá các khu rừng đe dọa môi trường sống tự nhiên của vô số loài động vật."
+    },
+    {
+     "de": "umweltfreundlich",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈʊmvɛltˌfʁɔʏ̯ntlɪç",
+     "vi": "thân thiện với môi trường, ít ô nhiễm",
+     "example": "Fahrradfahren ist das umweltfreundlichste und gesündeste Fortbewegungsmittel in der Stadt.",
+     "exampleVi": "Đi xe đạp là phương tiện di chuyển thân thiện với môi trường và lành mạnh nhất trong thành phố."
+    },
+    {
+     "de": "biologisch",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "bioˈloːɡɪʃ",
+     "vi": "hữu cơ, sinh học tự nhiên",
+     "example": "Biologische Lebensmittel werden ohne chemische Spritzmittel angebaut.",
+     "exampleVi": "Thực phẩm hữu cơ được trồng cấy mà không dùng thuốc trừ sâu hóa học."
+    },
+    {
+     "de": "nachhaltig",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈnaːxˌhaltɪç",
+     "vi": "bền vững, có giá trị lâu dài",
+     "example": "Wir brauchen nachhaltige Lösungen für den öffentlichen Nahverkehr der Zukunft.",
+     "exampleVi": "Chúng ta cần những giải pháp bền vững cho giao thông công cộng cự ly gần trong tương lai."
+    },
+    {
+     "de": "schädlich",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈʃɛːtlɪç",
+     "vi": "độc hại, có hại cho sức khỏe hoặc thiên nhiên (für + Akk)",
+     "example": "Abgase alter Dieselfahrzeuge sind nachweislich schädlich für die menschliche Lunge.",
+     "exampleVi": "Khí thải từ các phương tiện chạy dầu diesel cũ đã được chứng minh là có hại cho phổi con người."
+    },
+    {
+     "de": "ökologisch",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "økoˈloːɡɪʃ",
+     "vi": "thuộc về sinh thái học",
+     "example": "Ein kleiner ökologischer Fußabdruck zeugt von verantwortungsbewusstem Konsum.",
+     "exampleVi": "Dấu chân sinh thái nhỏ minh chứng cho việc tiêu dùng có ý thức trách nhiệm."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "Nam",
+     "de": "Hallo Julia! Hast du schon gesehen, dass unser Wohnviertel ab nächster Woche umgestaltet wird?",
+     "vi": "Chào Julia! Bạn đã thấy khu phố của chúng ta sẽ được cải tạo từ tuần tới chưa?"
+    },
+    {
+     "speaker": "B",
+     "name": "Julia",
+     "de": "Hallo Nam! Ja, ich habe den Aushang gelesen. Bevor die Bauarbeiten beginnen, wird es morgen noch eine Bürgerversammlung geben.",
+     "vi": "Chào Nam! Rồi, mình đã đọc thông báo. Trước khi công việc xây dựng bắt đầu, ngày mai sẽ có một buổi họp dân cư."
+    },
+    {
+     "speaker": "A",
+     "name": "Nam",
+     "de": "Sehr gut! Während der letzten Jahre ist der Autoverkehr hier im Viertel nämlich viel zu stark angewachsen.",
+     "vi": "Rất tốt! Trong suốt những năm qua, giao thông ô tô ở khu phố này đã tăng lên quá nhiều."
+    },
+    {
+     "speaker": "B",
+     "name": "Julia",
+     "de": "Stimmt. Sobald die neue Fußgängerzone fertiggestellt ist, werden wir hier endlich viel weniger Lärm und Abgase haben.",
+     "vi": "Đúng vậy. Ngay khi tuyến phố đi bộ mới được hoàn thành, chúng ta cuối cùng sẽ có ít tiếng ồn và khí thải hơn nhiều."
+    },
+    {
+     "speaker": "A",
+     "name": "Nam",
+     "de": "Und wie sieht es mit der Energieversorgung aus? Auf unserem Dach soll doch eine Solaranlage montiert werden.",
+     "vi": "Thế còn nguồn cung cấp năng lượng thì sao? Trên mái nhà chúng ta dự kiến sẽ lắp hệ thống pin mặt trời mà."
+    },
+    {
+     "speaker": "B",
+     "name": "Julia",
+     "de": "Ganz genau. Seitdem die Hausverwaltung zu Ökostrom gewechselt hat, sinken unsere CO2-Ausstöße kontinuierlich.",
+     "vi": "Chính xác. Kể từ khi ban quản lý tòa nhà chuyển sang điện sạch sinh thái, lượng khí thải CO2 của chúng ta liên tục giảm."
+    },
+    {
+     "speaker": "A",
+     "name": "Nam",
+     "de": "Solange die Solaranlage sauber arbeitet, leisten wir alle einen echten Beitrag zum Umweltschutz.",
+     "vi": "Chừng nào hệ thống điện mặt trời còn vận hành sạch sẽ, tất cả chúng ta đều đang đóng góp thực sự cho việc bảo vệ môi trường."
+    },
+    {
+     "speaker": "B",
+     "name": "Julia",
+     "de": "Absolut. Achtest du beim wöchentlichen Lebensmitteleinkauf eigentlich auch konsequent darauf, Plastik zu vermeiden?",
+     "vi": "Hoàn toàn đúng. Khi đi mua thực phẩm hàng tuần, bạn thực ra có kiên trì chú ý tránh đồ nhựa không?"
+    },
+    {
+     "speaker": "A",
+     "name": "Nam",
+     "de": "Ja, ich kaufe Milch und Joghurt nur noch in Mehrweggläsern, bis es in allen Supermärkten Pfandstationen gibt.",
+     "vi": "Có, mình chỉ mua sữa và sữa chua đựng trong chai thủy tinh dùng nhiều lần, cho đến khi mọi siêu thị đều có trạm trả vỏ chai."
+    },
+    {
+     "speaker": "B",
+     "name": "Julia",
+     "de": "Das ist lobenswert. Bevor man gedankenlos Plastikverpackungen kauft, sollte man nachhaltige Alternativen wählen.",
+     "vi": "Điều đó rất đáng khen. Trước khi mua bao bì nhựa một cách vô tư, người ta nên chọn những giải pháp thay thế bền vững."
+    },
+    {
+     "speaker": "A",
+     "name": "Nam",
+     "de": "Hast du am Samstag Zeit? Ich möchte zum Reparaturcafé gehen, um meinen alten Toaster reparieren zu lassen.",
+     "vi": "Thứ Bảy bạn có rảnh không? Mình muốn đến quán cà phê sửa đồ để nhờ sửa chiếc máy nướng bánh mì cũ."
+    },
+    {
+     "speaker": "B",
+     "name": "Julia",
+     "de": "Gerne! Sobald ich gefrühstückt habe, komme ich vorbei. Statt Dinge wegzuwerfen, sollten wir sie reparieren.",
+     "vi": "Rất sẵn lòng! Ngay khi ăn sáng xong, mình sẽ ghé qua. Thay vì vứt bỏ đồ đạc, chúng ta nên sửa chữa chúng."
+    },
+    {
+     "speaker": "A",
+     "name": "Nam",
+     "de": "Wunderbar. Während wir warten, können wir uns bei einer Tasse Bio-Kaffee über neue Umweltprojekte austauschen.",
+     "vi": "Tuyệt vời. Trong lúc chờ đợi, chúng ta có thể vừa nhâm nhi tách cà phê hữu cơ vừa trao đổi về các dự án môi trường mới."
+    },
+    {
+     "speaker": "B",
+     "name": "Julia",
+     "de": "Perfekt. Solche Initiativen beweisen, dass nachhaltiges Leben im Alltag wirklich Spaß machen kann!",
+     "vi": "Hoàn hảo. Những sáng kiến như vậy chứng minh rằng lối sống bền vững trong thực tế thực sự có thể mang lại niềm vui!"
+    },
+    {
+     "speaker": "A",
+     "name": "Nam",
+     "de": "Ganz genau, Julia! Dann sehen wir uns am Samstag um zehn Uhr vor dem Gemeindezentrum.",
+     "vi": "Chuẩn xác, Julia! Vậy hẹn gặp bạn vào lúc mười giờ sáng thứ Bảy trước trung tâm sinh hoạt cộng đồng nhé."
+    }
+   ],
+   "reading": {
+    "title": "Grüne Städte von morgen: Wie urbane Räume das Klima schützen",
+    "text": "Angesichts der dramatisch fortschreitenden globalen Erwärmung und der unübersehbaren Folgen des weltweiten Klimawandels stehen moderne europäische Metropolen gegenwärtig vor einer gewaltigen historischen Herausforderung. Städte verbrauchen weltweit einen Großteil der global erzeugten Energie und sind für über siebzig Prozent aller schädlichen Treibhausgasemissionen direkt verantwortlich. Doch genau dort, wo die drängenden Umweltprobleme im Alltag am sichtbarsten zutage treten, entstehen heute auch die innovativsten und mutigsten Lösungen für eine lebenswerte, grüne und ökologische Zukunft. Auf der ganzen Welt transformieren engagierte Stadtplaner traditionelle, graue Betonwüsten in widerstandsfähige, klimaresistente urbane Lebensräume.\n\nEin zentraler und unverzichtbarer Baustein dieser städtischen Transformation ist die radikale Neugestaltung der täglichen Mobilität. Bevor neue Verkehrskonzepte endgültig umgesetzt werden, binden fortschrittliche Kommunen die Bürgerinnen und Bürger aktiv und demokratisch in alle Planungsphasen ein. Während der Hauptverkehrszeiten am Morgen und am Abend verstopfen immer weniger Autos die dicht besiedelten Innenstädte, weil großzügige Fußgängerzonen und sichere Radschnellwege geschaffen werden. Sobald attraktive, pünktliche und bezahlbare Nahverkehrsnetze zur Verfügung stehen, steigen viele Berufspendler dauerhaft auf moderne Straßenbahnen und emissionsfreie Elektrobusse um. Dadurch sinkt der lokale CO2-Ausstoß spürbar, während die Luftqualität in den Wohnvierteln kontinuierlich zunimmt.\n\nDarüber hinaus setzen zukunftsfähige Städte konsequent auf den flächendeckenden Ausbau erneuerbarer Energien. Solange Dächer und Fassaden ungenutzt bleiben, wird wertvolles Potenzial für die Solarenergie verschenkt. Immer mehr Kommunen schreiben daher die Installation moderner Photovoltaikanlagen bei Neubauten gesetzlich vor. Seitdem diese wegweisenden Verordnungen in Kraft getreten sind, erzeugen Tausende von Gebäuden ihren eigenen sauberen Ökostrom und speisen überschüssige Energie direkt in das öffentliche Stromnetz ein.\n\nAuch das Thema Ressourcenschonung und Müllvermeidung gewinnt im städtischen Alltag rasant an Bedeutung. Zahlreiche Leihläden, Tauschregale und Reparaturtreffs ermutigen die Bewohner dazu, langlebige Gebrauchtwaren wiederzuverwenden, statt ständig neue kurzlebige Konsumgüter zu erwerben. Wenn alle Menschen ihren ökologischen Fußabdruck bewusst reduzieren und im Einklang mit der Natur leben, werden die Städte von morgen nicht länger Treiber der Umweltzerstörung sein, sondern leuchtende Vorbilder für ein nachhaltiges Zusammenleben.",
+    "vi": "Trước hiện tượng ấm lên toàn cầu ngày càng gia tăng một cách kịch tính và những hậu quả không thể xem nhẹ của biến đổi khí hậu trên thế giới, các đô thị hiện đại của châu Âu hiện nay đang đứng trước một thách thức lịch sử to lớn. Các thành phố tiêu thụ phần lớn năng lượng được sản xuất trên toàn cầu và chịu trách nhiệm trực tiếp cho hơn bảy mươi phần trăm tổng lượng phát thải khí nhà kính độc hại. Thế nhưng chính tại nơi mà các vấn đề môi trường cấp bách xuất hiện rõ rệt nhất trong cuộc sống thường nhật, ngày nay cũng đang nảy sinh những giải pháp đổi mới và dũng cảm nhất cho một tương lai sinh thái, xanh tươi và đáng sống. Trên khắp thế giới, các nhà quy hoạch đô thị đầy tâm huyết đang biến đổi những sa mạc bê tông xám xịt truyền thống thành những không gian sống đô thị kiên cường, có khả năng chống chịu khí hậu.\n\nMột viên gạch nền tảng cốt lõi và không thể thiếu của sự chuyển đổi đô thị này là việc tái cấu trúc triệt để hoạt động đi lại hàng ngày. Trước khi các đề án giao thông mới được thực thi một cách dứt khoát, các chính quyền tiến bộ luôn chủ động thu hút người dân tham gia một cách dân chủ vào mọi giai đoạn lập kế hoạch. Trong các khung giờ cao điểm buổi sáng và buổi chiều, ngày càng ít ô tô làm ùn tắc khu vực trung tâm đông đúc bởi vì các tuyến phố đi bộ rộng rãi và làn đường cao tốc cho xe đạp an toàn đang được xây dựng. Ngay khi các mạng lưới giao thông công cộng hấp dẫn, đúng giờ và hợp túi tiền sẵn sàng phục vụ, nhiều người đi làm đã chuyển hẳn sang sử dụng tàu điện hiện đại và xe buýt điện không phát thải. Nhờ đó, lượng phát thải CO2 tại địa phương giảm rõ rệt, trong khi chất lượng không khí tại các khu dân cư liên tục tăng lên.\n\nThêm vào đó, các thành phố có tầm nhìn tương lai kiên quyết thúc đẩy việc mở rộng năng lượng tái tạo trên diện rộng. Chừng nào mái nhà và mặt tiền còn bị bỏ hoang, tiềm năng quý giá cho năng lượng mặt trời còn bị lãng phí. Ngày càng nhiều chính quyền thành phố quy định bắt buộc bằng luật việc lắp đặt các hệ thống quang điện hiện đại đối với các công trình xây dựng mới. Kể từ khi các quy định mang tính mở đường này có hiệu lực, hàng nghìn tòa nhà đã tự sản xuất điện sạch sinh thái và hòa lượng điện dư thừa trực tiếp vào mạng lưới điện công cộng.\n\nChủ đề tiết kiệm tài nguyên và giảm thiểu rác thải cũng đang gia tăng tầm quan trọng nhanh chóng trong đời sống đô thị thường nhật. Vô số các cửa hàng cho mượn đồ, kệ đổi đồ và điểm hẹn sửa chữa khuyến khích cư dân tái sử dụng các món hàng đã qua sử dụng bền lâu thay vì liên tục mua sắm hàng tiêu dùng ngắn hạn mới. Một khi mọi người dân đều có ý thức giảm thiểu dấu chân sinh thái của mình và sống chan hòa với thiên nhiên, các thành phố của ngày mai sẽ không còn là tác nhân hủy hoại môi trường nữa, mà sẽ trở thành những hình mẫu sáng ngời cho một cuộc sống chung bền vững.",
+    "glossary": [
+     {
+      "de": "Transformation",
+      "article": "die",
+      "plural": "Transformationen",
+      "pos": "noun",
+      "ipa": "tʁansfɔʁmaˈtsi̯oːn",
+      "vi": "sự chuyển đổi căn bản, biến đổi diện mạo",
+      "example": "Die ökologische Transformation der Wirtschaft erfordert hohe Investitionen.",
+      "exampleVi": "Sự chuyển đổi sinh thái của nền kinh tế đòi hỏi những khoản đầu tư lớn."
+     },
+     {
+      "de": "Metropole",
+      "article": "die",
+      "plural": "Metropolen",
+      "pos": "noun",
+      "ipa": "metʁoˈpoːlə",
+      "vi": "đô thị lớn, thành phố trung tâm thế giới",
+      "example": "In modernen Metropolen wohnen Millionen Menschen auf engem Raum.",
+      "exampleVi": "Tại các đô thị lớn hiện đại, hàng triệu con người cùng sinh sống trong không gian chật hẹp."
+     },
+     {
+      "de": "Photovoltaik",
+      "article": "die",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "fotovɔlˈtaːɪk",
+      "vi": "công nghệ quang điện (chuyển quang năng thành điện)",
+      "example": "Photovoltaik auf Dächern liefert sauberen Strom für den Eigenbedarf.",
+      "exampleVi": "Quang điện trên mái nhà cung cấp điện sạch cho nhu cầu tự sử dụng."
+     },
+     {
+      "de": "Betonwüste",
+      "article": "die",
+      "plural": "Betonwüsten",
+      "pos": "noun",
+      "ipa": "beˈtɔŋˌvyːstə",
+      "vi": "sa mạc bê tông (khu vực chỉ toàn nhà cao tầng thiếu cây xanh)",
+      "example": "Die Stadtverwaltung will die graue Betonwüste in einen grünen Park verwandeln.",
+      "exampleVi": "Chính quyền thành phố muốn biến sa mạc bê tông xám xịt thành một công viên xanh mát."
+     },
+     {
+      "de": "Radschnellweg",
+      "article": "der",
+      "plural": "Radschnellwege",
+      "pos": "noun",
+      "ipa": "ˈʁaːtˌʃnɛlveːk",
+      "vi": "tuyến đường cao tốc dành riêng cho xe đạp",
+      "example": "Auf dem neuen Radschnellweg pendeln viele Bürger staufrei zur Arbeit.",
+      "exampleVi": "Trên tuyến đường cao tốc xe đạp mới, nhiều người dân đi làm mà không lo tắc đường."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Wie viel Prozent der globalen Treibhausgasemissionen verursachen Städte gegenwärtig?",
+      "options": [
+       "Weniger als zehn Prozent.",
+       "Über siebzig Prozent.",
+       "Genau fünfzig Prozent."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Was geschieht laut dem Text, bevor neue städtische Verkehrskonzepte umgesetzt werden?",
+      "options": [
+       "Alle alten Straßen werden sofort gesprengt.",
+       "Die Bürgerinnen und Bürger werden aktiv in die Planung eingebunden.",
+       "Der gesamte Autoverkehr wird ohne Vorankündigung verboten."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Welche Maßnahme ergreifen viele Kommunen bei Neubauten zur Energiegewinnung?",
+      "options": [
+       "Sie verbieten den Bau von Dächern.",
+       "Sie schreiben die Installation von Solaranlagen gesetzlich vor.",
+       "Sie verlangen den ausschließlichen Einsatz von Kohleöfen."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Wie tragen Leihläden und Reparaturtreffs zur Nachhaltigkeit im städtischen Alltag bei?",
+      "options": [
+       "Sie ermutigen dazu, Dinge wiederzuverwenden und zu reparieren, statt sie wegzuwerfen.",
+       "Sie verkaufen ausschließlich teure Neuwaren aus Übersee.",
+       "Sie zwingen Menschen dazu, auf Elektrizität zu verzichten."
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Welches Ziel verfolgt die ökologische Stadtplanung laut dem Schlussabsatz?",
+      "options": [
+       "Städte zu Vorbildern für ein nachhaltiges Zusammenleben im Einklang mit der Natur zu machen.",
+       "Alle Städte komplett aufzugeben und in den Wald zu ziehen.",
+       "Nur noch Autos mit Benzinmotoren zuzulassen."
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "writing": {
+    "task": "In Ihrer Stadt soll die Straße vor Ihrer Haustür in eine autofreie Spiel- und Fahrradstraße umgewandelt werden. Schreiben Sie einen Leserbrief an die Lokalzeitung (ca. 80-100 Wörter). Begründen Sie, warum Sie das Projekt unterstützen, verwenden Sie temporale Nebensätze (z.B. sobald, während, bevor) und schildern Sie, wie sich die Lebensqualität für Kinder und Anwohner dadurch verbessern wird. (Ở thành phố bạn, con đường trước nhà dự kiến biến thành phố đi bộ và đường xe đạp không ô tô. Viết thư gửi tòa soạn báo địa phương. Giải thích vì sao bạn ủng hộ dự án, dùng mệnh đề thời gian và nêu rõ chất lượng sống của trẻ em và cư dân sẽ cải thiện ra sao.)",
+    "minWords": 80,
+    "sample": "Sehr geehrte Redaktion,\n\nich begrüße den Plan der Stadtverwaltung ausdrücklich, unsere Wohnstraße in eine verkehrsberuhigte Fahrradstraße umzuwandeln. Während früher der dichte Autoverkehr vor allem für spielende Kinder eine ständige Gefahr darstellte, werden die Anwohner künftig viel mehr Lebensqualität und saubere Luft genießen. Bevor das Projekt startet, sollten noch mehr Grünflächen und Bäume eingeplant werden, die im Sommer kühlen Schatten spenden. Sobald die Umgestaltung abgeschlossen ist, wird unsere Straße endlich wieder ein lebendiger Treffpunkt für Jung und Alt sein. Ein solches Vorhaben leistet einen unverzichtbaren Beitrag zum modernen Klimaschutz in unserer Stadt!\n\nMit freundlichen Grüßen\nNam Tran"
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Welche Subjunktion drückt Gleichzeitigkeit aus („trong khi“)?",
+     "options": [
+      "bevor",
+      "während",
+      "nachdem",
+      "seitdem"
+     ],
+     "answer": 1,
+     "explain": "'während' là liên từ phụ diễn tả hai hành động diễn ra đồng thời cùng lúc (Gleichzeitigkeit)."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Schalten Sie das Licht aus, ___ Sie den Raum verlassen!",
+     "options": [
+      "bevor",
+      "während",
+      "nachdem",
+      "solange"
+     ],
+     "answer": 0,
+     "explain": "'bevor' (trước khi): hành động tắt đèn diễn ra trước hành động rời khỏi phòng."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz drückt eine Handlung aus, die seit der Vergangenheit bis heute andauert?",
+     "options": [
+      "Bis ich in Berlin wohnte, trennte ich Müll.",
+      "Seitdem wir Ökostrom nutzen, sparen wir CO2.",
+      "Sobald der Sommer kommt, wird es warm.",
+      "Bevor er abreist, packt er den Koffer."
+     ],
+     "answer": 1,
+     "explain": "'seitdem' diễn tả hành động bắt đầu trong quá khứ và vẫn đang tiếp diễn ở hiện tại."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Subjunktion betont den plötzlichen Beginn eines Ereignisses („ngay khi“)?",
+     "options": [
+      "solange",
+      "sobald",
+      "während",
+      "bis"
+     ],
+     "answer": 1,
+     "explain": "'sobald' có nghĩa là ngay khi, ngay sau khi một điều kiện xảy ra tức thời."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: ___ wir Energie verschwenden, wird die globale Erwärmung zunehmen.",
+     "options": [
+      "Solange",
+      "Sobald",
+      "Bevor",
+      "Nachdem"
+     ],
+     "answer": 0,
+     "explain": "'solange' (chừng nào mà): chừng nào chúng ta còn lãng phí năng lượng thì nhiệt độ trái đất còn tăng."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet das Substantiv „der Umweltschutz“?",
+     "options": [
+      "Der Bau neuer Autobahnen",
+      "Die Gesamtheit aller Maßnahmen zum Erhalt der natürlichen Lebensgrundlagen",
+      "Ein Wetterbericht im Fernsehen",
+      "Der Verkauf von Plastikflaschen"
+     ],
+     "answer": 1,
+     "explain": "'Der Umweltschutz' là toàn bộ các biện pháp bảo vệ và giữ gìn môi trường sống tự nhiên."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
+     "options": [
+      "Sobald die Sonne scheint, erzeugen wir Strom.",
+      "Sobald scheint die Sonne, erzeugen wir Strom.",
+      "Sobald die Sonne scheint, wir erzeugen Strom.",
+      "Sobald die Sonne scheinen wird, erzeugen wir Strom."
+     ],
+     "answer": 0,
+     "explain": "Mệnh đề phụ với 'sobald' có động từ chia 'scheint' ở cuối; mệnh đề chính bắt đầu ngay bằng động từ 'erzeugen' (Inversion)."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet die Wendung „auf Plastik verzichten“?",
+     "options": [
+      "Besonders viel Plastik kaufen",
+      "Keine Kunststoffprodukte verwenden",
+      "Plastik im Garten verbrennen",
+      "Plastik mit Wasser reinigen"
+     ],
+     "answer": 1,
+     "explain": "'auf Plastik verzichten' có nghĩa là từ bỏ, không sử dụng các sản phẩm bằng chất dẻo/nhựa."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Wir bleiben im Haus, ___ der heftige Sturm vorüber ist.",
+     "options": [
+      "bis",
+      "seitdem",
+      "während",
+      "sobald"
+     ],
+     "answer": 0,
+     "explain": "'bis' (cho đến khi): chúng tôi ở trong nhà cho đến khi cơn bão mạnh qua đi."
+    },
+    {
+     "type": "mcq",
+     "q": "Was ist das Gegenteil von „schädlich“?",
+     "options": [
+      "umweltfreundlich",
+      "kostspielig",
+      "mangelhaft",
+      "überflüssig"
+     ],
+     "answer": 0,
+     "explain": "Trái nghĩa với 'schädlich' (độc hại, có hại) là 'umweltfreundlich' (thân thiện với môi trường)."
+    },
+    {
+     "type": "gap",
+     "text": "Schalten Sie alle elektronischen Geräte aus, ___ Sie in den Urlaub fahren!",
+     "answers": [
+      "bevor|ehe"
+     ],
+     "hint": "Subjunktion für Nachzeitigkeit",
+     "vi": "Hãy tắt tất cả các thiết bị điện tử trước khi bạn đi nghỉ mát!",
+     "explain": "'bevor' (trước khi): hành động tắt thiết bị diễn ra trước khi đi nghỉ."
+    },
+    {
+     "type": "gap",
+     "text": "___ die neue Solaranlage in Betrieb genommen wurde, spart die Familie viel Geld.",
+     "answers": [
+      "Seitdem|Seit"
+     ],
+     "hint": "Subjunktion für Dauer ab Vergangenheit",
+     "vi": "Kể từ khi hệ thống pin mặt trời mới được đưa vào vận hành, gia đình đã tiết kiệm được nhiều tiền.",
+     "explain": "'seitdem' (kể từ khi): sự việc bắt đầu trong quá khứ và kéo dài tới nay."
+    },
+    {
+     "type": "gap",
+     "text": "___ die Sonne aufgeht, produzieren die Solarmodule auf dem Dach sauberen Strom.",
+     "answers": [
+      "Sobald"
+     ],
+     "hint": "Subjunktion für plötzlichen Beginn",
+     "vi": "Ngay khi mặt trời mọc, các tấm pin mặt trời trên mái nhà sản xuất ra điện sạch.",
+     "explain": "'sobald' (ngay khi) diễn tả thời điểm bắt đầu tức thời."
+    },
+    {
+     "type": "gap",
+     "text": "Wir trennen den Müll sorgfältig, ___ die Müllabfuhr am Freitagmorgen kommt.",
+     "answers": [
+      "bis"
+     ],
+     "hint": "Subjunktion für Endpunkt",
+     "vi": "Chúng tôi phân loại rác cẩn thận cho đến khi xe thu gom rác đến vào sáng thứ Sáu.",
+     "explain": "'bis' chỉ điểm mốc kết thúc của một khoảng thời gian."
+    },
+    {
+     "type": "gap",
+     "text": "___ die Bürger aktiv mithelfen, bleibt unsere Nachbarschaft sauber und grün.",
+     "answers": [
+      "Solange"
+     ],
+     "hint": "Subjunktion für parallele Dauer",
+     "vi": "Chừng nào người dân còn tích cực chung tay, khu phố của chúng ta còn sạch và xanh.",
+     "explain": "'solange' (chừng nào mà) chỉ sự kéo dài song song về thời lượng."
+    },
+    {
+     "type": "gap",
+     "text": "Durch die Nutzung von Ökostrom lässt sich der persönliche ___ drastisch reduzieren.",
+     "answers": [
+      "CO2-Ausstoß"
+     ],
+     "hint": "Nomen: der CO2-Ausstoß",
+     "vi": "Nhờ sử dụng điện sinh thái, lượng phát thải CO2 cá nhân có thể được giảm mạnh.",
+     "explain": "Danh từ giống đực 'der CO2-Ausstoß' (lượng phát thải khí CO2)."
+    },
+    {
+     "type": "gap",
+     "text": "Im Supermarkt greifen immer mehr Kunden bewusst zu Getränken in ___ .",
+     "answers": [
+      "Mehrweggläsern"
+     ],
+     "hint": "das Mehrwegglas im Dativ Plural",
+     "vi": "Tại siêu thị, ngày càng nhiều khách hàng chủ động chọn đồ uống đựng trong chai thủy tinh dùng nhiều lần.",
+     "explain": "Dativ số nhiều của 'das Mehrwegglas' là 'Mehrweggläsern'."
+    },
+    {
+     "type": "gap",
+     "text": "Gefährliche Industrieabfälle ___ die Flüsse und bedrohen die Tierwelt.",
+     "answers": [
+      "verschmutzen"
+     ],
+     "hint": "Verb: verschmutzen im Präsens",
+     "vi": "Rác thải công nghiệp nguy hại làm ô nhiễm các dòng sông và đe dọa thế giới động vật.",
+     "explain": "Động từ 'verschmutzen' (làm ô nhiễm)."
+    },
+    {
+     "type": "gap",
+     "text": "Jeder einzelne Bürger kann einen wertvollen Beitrag zum ___ leisten.",
+     "answers": [
+      "Umweltschutz|Klimaschutz"
+     ],
+     "hint": "Nomen: der Umweltschutz",
+     "vi": "Mỗi cá nhân công dân đều có thể đóng góp một phần quý giá vào công cuộc bảo vệ môi trường.",
+     "explain": "Danh từ giống đực 'der Umweltschutz' (bảo vệ môi trường)."
+    },
+    {
+     "type": "gap",
+     "text": "Alte Pappkartons und Gläser lassen sich problemlos im Haushalt ___ .",
+     "answers": [
+      "wiederverwenden|recyceln"
+     ],
+     "hint": "Verb: wiederverwenden",
+     "vi": "Thùng carton và lọ thủy tinh cũ có thể dễ dàng tái sử dụng trong gia đình.",
+     "explain": "Động từ nguyên mẫu 'wiederverwenden' (tái sử dụng)."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Sobald",
+      "die",
+      "Sonne",
+      "scheint",
+      "erzeugen",
+      "wir",
+      "sauberen",
+      "Ökostrom"
+     ],
+     "answer": "Sobald die Sonne scheint erzeugen wir sauberen Ökostrom.",
+     "answers": [
+      "Sobald die Sonne scheint erzeugen wir sauberen Ökostrom.",
+      "Wir erzeugen sauberen Ökostrom sobald die Sonne scheint."
+     ],
+     "vi": "Ngay khi mặt trời chiếu sáng, chúng tôi sản xuất ra điện sạch sinh thái."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Bevor",
+      "wir",
+      "das",
+      "Haus",
+      "verlassen",
+      "schalten",
+      "wir",
+      "alle",
+      "Lichter",
+      "aus"
+     ],
+     "answer": "Bevor wir das Haus verlassen schalten wir alle Lichter aus.",
+     "answers": [
+      "Bevor wir das Haus verlassen schalten wir alle Lichter aus.",
+      "Wir schalten alle Lichter aus bevor wir das Haus verlassen."
+     ],
+     "vi": "Trước khi rời khỏi nhà, chúng tôi tắt tất cả đèn điện."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Seitdem",
+      "sie",
+      "Ökostrom",
+      "nutzt",
+      "spart",
+      "die",
+      "Familie",
+      "viel",
+      "Geld"
+     ],
+     "answer": "Seitdem sie Ökostrom nutzt spart die Familie viel Geld.",
+     "answers": [
+      "Seitdem sie Ökostrom nutzt spart die Familie viel Geld.",
+      "Die Familie spart viel Geld seitdem sie Ökostrom nutzt."
+     ],
+     "vi": "Kể từ khi sử dụng điện sinh thái, gia đình tiết kiệm được nhiều tiền."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Solange",
+      "wir",
+      "Energie",
+      "verschwenden",
+      "wird",
+      "die",
+      "Umwelt",
+      "stark",
+      "belastet"
+     ],
+     "answer": "Solange wir Energie verschwenden wird die Umwelt stark belastet.",
+     "answers": [
+      "Solange wir Energie verschwenden wird die Umwelt stark belastet.",
+      "Die Umwelt wird stark belastet solange wir Energie verschwenden."
+     ],
+     "vi": "Chừng nào chúng ta còn lãng phí năng lượng thì môi trường còn bị đè nặng gánh nặng."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Während",
+      "er",
+      "den",
+      "Müll",
+      "trennte",
+      "kochte",
+      "sie",
+      "das",
+      "Essen"
+     ],
+     "answer": "Während er den Müll trennte kochte sie das Essen.",
+     "answers": [
+      "Während er den Müll trennte kochte sie das Essen.",
+      "Sie kochte das Essen während er den Müll trennte."
+     ],
+     "vi": "Trong khi anh ấy phân loại rác thì cô ấy nấu đồ ăn."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Wir",
+      "müssen",
+      "unseren",
+      "ökologischen",
+      "Fußabdruck",
+      "bewusst",
+      "und",
+      "nachhaltig",
+      "reduzieren"
+     ],
+     "answer": "Wir müssen unseren ökologischen Fußabdruck bewusst und nachhaltig reduzieren.",
+     "answers": [
+      "Wir müssen unseren ökologischen Fußabdruck bewusst und nachhaltig reduzieren."
+     ],
+     "vi": "Chúng ta phải giảm thiểu dấu chân sinh thái của mình một cách có ý thức và bền vững."
+    },
+    {
+     "type": "translate",
+     "vi": "Trước khi đi mua sắm, tôi viết một danh sách đồ cần mua.",
+     "answers": [
+      "Bevor ich einkaufen gehe, schreibe ich einen Einkaufszettel.",
+      "Bevor ich einkaufe, schreibe ich eine Liste."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Kể từ khi anh ấy đi xe đạp, anh ấy cảm thấy khỏe hơn.",
+     "answers": [
+      "Seitdem er Fahrrad fährt, fühlt er sich fitter.",
+      "Seit er Rad fährt, fühlt er sich gesünder."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Ngay khi trời mưa, nhiệt độ sẽ giảm xuống.",
+     "answers": [
+      "Sobald es regnet, sinkt die Temperatur.",
+      "Sobald der Regen beginnt, sinkt die Temperatur."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Trong khi chúng tôi làm việc, mặt trời đã tạo ra điện.",
+     "answers": [
+      "Während wir arbeiteten, erzeugte die Sonne Strom.",
+      "Während wir gearbeitet haben, hat die Sonne Strom produziert."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Chúng ta nên từ bỏ đồ nhựa dùng một lần.",
+     "answers": [
+      "Wir sollten auf Einwegplastik verzichten.",
+      "Wir sollten Einwegplastik vermeiden."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Mọi người đều có thể đóng góp vào việc bảo vệ môi trường.",
+     "answers": [
+      "Jeder kann einen Beitrag zum Umweltschutz leisten.",
+      "Jeder Mensch kann einen Beitrag zum Umweltschutz leisten."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Bevor Sie den Raum verlassen, schalten Sie bitte alle elektronischen Geräte vollständig aus.",
+     "vi": "Trước khi rời khỏi phòng, xin vui lòng tắt hoàn toàn tất cả các thiết bị điện tử."
+    },
+    {
+     "type": "listen",
+     "de": "Seitdem die Familie eine Solaranlage nutzt, hat sich ihr CO2-Ausstoß drastisch verringert.",
+     "vi": "Kể từ khi gia đình sử dụng hệ thống điện mặt trời, lượng phát thải CO2 của họ đã giảm mạnh."
+    },
+    {
+     "type": "listen",
+     "de": "Sobald die Bauarbeiten an den neuen Radwegen abgeschlossen sind, wird der Verkehr beruhigt.",
+     "vi": "Ngay khi công việc xây dựng tuyến đường xe đạp mới hoàn tất, giao thông sẽ được hạ nhiệt."
+    },
+    {
+     "type": "listen",
+     "de": "Solange die globale Erwärmung anhält, müssen wir erneuerbare Energien konsequent ausbauen.",
+     "vi": "Chừng nào hiện tượng ấm lên toàn cầu còn tiếp diễn, chúng ta phải kiên quyết mở rộng năng lượng tái tạo."
+    },
+    {
+     "type": "speak",
+     "de": "Wir sollten auf Plastik verzichten und Mehrwegflaschen verwenden.",
+     "vi": "Chúng ta nên từ bỏ đồ nhựa và sử dụng chai dùng nhiều lần."
+    },
+    {
+     "type": "speak",
+     "de": "Bevor wir neue Kleidung kaufen, sollten wir alte Dinge reparieren.",
+     "vi": "Trước khi mua quần áo mới, chúng ta nên sửa chữa những món đồ cũ."
+    },
+    {
+     "type": "speak",
+     "de": "Jeder einzelne Bürger kann einen wichtigen Beitrag zum Umweltschutz leisten.",
+     "vi": "Mỗi cá nhân công dân đều có thể đóng góp một phần quan trọng vào việc bảo vệ môi trường."
+    },
+    {
+     "type": "speak",
+     "de": "Seitdem wir Ökostrom beziehen, schonen wir wertvolle natürliche Ressourcen.",
+     "vi": "Kể từ khi chúng tôi dùng điện sinh thái, chúng tôi bảo vệ những nguồn tài nguyên thiên nhiên quý giá."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "der Umweltschutz",
+       "bảo vệ môi trường"
+      ],
+      [
+       "die Nachhaltigkeit",
+       "sự phát triển bền vững"
+      ],
+      [
+       "die Mülltrennung",
+       "phân loại rác"
+      ],
+      [
+       "der Ökostrom",
+       "điện sạch sinh thái"
+      ],
+      [
+       "das Mehrwegglas",
+       "chai thủy tinh dùng nhiều lần"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "einen Beitrag leisten",
+       "đóng góp công sức"
+      ],
+      [
+       "auf Plastik verzichten",
+       "từ bỏ đồ nhựa"
+      ],
+      [
+       "Energie verschwenden",
+       "lãng phí năng lượng"
+      ],
+      [
+       "Müll vermeiden",
+       "giảm thiểu rác thải"
+      ],
+      [
+       "die Umwelt belasten",
+       "gây gánh nặng môi trường"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });

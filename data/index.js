@@ -1,5 +1,10 @@
 /* Danh sách file nội dung đã kiểm duyệt (tự cập nhật bởi tools/add-content.js). Mỗi file đẩy dữ liệu vào window.SEED. */
 window.CONTENT_FILES = [
+ "grammar/gr-a1-01.js",
+ "grammar/gr-a1-02.js",
+ "grammar/gr-a1-03.js",
+ "grammar/gr-a1-04.js",
+ "grammar/gr-a1-05.js",
  "units/a1-u02.js",
  "units/a1-u03.js",
  "units/a1-u04.js",
@@ -45,5 +50,25 @@ window.CONTENT_FILES = [
  "units/b2-u08.js",
  "units/b2-u09.js",
  "units/b2-u10.js",
- "units/b2-u11.js"
+ "units/b2-u11.js",
+ "verbs/verbs-01.js",
+ "verbs/verbs-02.js",
+ "verbs/verbs-03.js",
+ "verbs/verbs-04.js",
+ "verbs/verbs-05.js",
+ "verbs/verbs-06.js",
+ "verbs/verbs-07.js",
+ "verbs/verbs-08.js",
+ "verbs/verbs-09.js",
+ "verbs/verbs-10.js",
+ "verbs/verbs-11.js",
+ "verbs/verbs-12.js",
+ "verbs/verbs-13.js",
+ "verbs/verbs-14.js",
+ "verbs/verbs-15.js",
+ "verbs/verbs-16.js",
+ "verbs/verbs-17.js",
+ "verbs/verbs-18.js",
+ "verbs/verbs-19.js",
+ "verbs/verbs-20.js"
 ];

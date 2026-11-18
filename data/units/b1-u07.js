@@ -2132,6 +2132,989 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b1-u07-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Thì tương lai Futur I và các chức năng giao tiếp\n\nThì tương lai **Futur I** được hình thành bằng công thức:\n\n$$\\textbf{werden (chia ở Präsens)} + \\textbf{Infinitiv (ở cuối câu)}$$\n\n| Ngôi chia | werden | Infinitiv am Satzende |\n| :--- | :--- | :--- |\n| ich | werde | {{ein neues Smartphone kaufen}} |\n| du | wirst | {{die Daten sichern}} |\n| er / sie / es | wird | {{die Software aktualisieren}} |\n| wir | werden | {{ein Backup erstellen}} |\n| ihr | werdet | {{den Anhang überprüfen}} |\n| sie / Sie | werden | {{die Sicherheitslücke schließen}} |\n\n### Ba chức năng chính của Futur I:\n1. **Dự định / Kế hoạch trong tương lai:** {{Nächste Woche werde ich mein altes Betriebssystem aktualisieren.}}\n2. **Lời hứa / Cam kết chắc chắn:** {{Ich werde dem Kunden die Datei sofort weiterleiten.}}\n3. **Phỏng đoán ở hiện tại hoặc tương lai (Vermutung):** Kết hợp với các trạng từ như *wohl, wahrscheinlich, vermutlich, sicher*:\n   - {{Der Kollege wird wohl noch an der Datenübertragung arbeiten.}} (Có lẽ đồng nghiệp vẫn đang làm việc với việc truyền dữ liệu.)\n   - {{Die künstliche Intelligenz wird vermutlich viele Arbeitsprozesse erleichtern.}} (Trí tuệ nhân tạo có lẽ sẽ tạo thuận lợi cho nhiều quy trình làm việc.)\n\n## 2. Quy tắc biến cách n (n-Deklination / schwache Nomen)\n\nBiến cách n là một hiện tượng ngữ pháp đặc thù của một nhóm danh từ **hầu hết thuộc giống đực (Maskulina)**.\n\n> [!IMPORTANT]\n> **Đặc điểm cốt lõi của n-Deklination:**\n> Các danh từ này **nhận thêm đuôi -(e)n ở TẤT CẢ các cách** (Akkusativ, Dativ, Genitiv), **TRỪ cách Nominativ số ít!**\n> Ở dạng số nhiều, chúng cũng giữ nguyên đuôi -(e)n ở mọi cách.\n\n| Cách (Kasus) | der Kollege | der Praktikant | der Nachbar |\n| :--- | :--- | :--- | :--- |\n| **Nominativ Sg.** | der Kollege | der Praktikant | der Nachbar |\n| **Akkusativ Sg.** | den Kollege**n** | den Praktikant**en** | den Nachbar**n** |\n| **Dativ Sg.** | dem Kollege**n** | dem Praktikant**en** | dem Nachbar**n** |\n| **Genitiv Sg.** | des Kollege**n** | des Praktikant**en** | des Nachbar**n** |\n| **Plural (alle Kasus)** | die Kollege**n** | die Praktikant**en** | die Nachbar**n** |\n\n### Cách nhận biết danh từ thuộc n-Deklination:\n1. Danh từ chỉ giống đực kết thúc bằng **-e**: der Kunde, der Kollege, der Experte, der Zeuge.\n2. Danh từ mượn gốc Hy Lạp/Latinh có trọng âm ở âm tiết cuối:\n   - **-ant / -ent**: der Praktikant, der Assistent, der Student, der Patient.\n   - **-ist**: der Spezialist, der Journalist, der Polizist, der Optimist.\n   - **-at / -ot**: der Automat, der Pilot, der Demokrat.\n3. Một số danh từ đơn âm cổ: der Mensch (des Menschen), der Herr (des Herrn, dem Herrn).\n\n## 3. 6 lỗi điển hình người Việt hay mắc (✗ → ✓)\n\n### Lỗi 1: Quên thêm đuôi -(e)n cho danh từ n-Deklination ở Akkusativ và Dativ\n- ✗ *Ich habe gestern den neue Kollege im Büro getroffen.*\n- ✓ {{Ich habe gestern den neuen Kollegen im Büro getroffen.}}\n- *Giải thích:* {{der Kollege}} thuộc biến cách n. Ở tân ngữ trực tiếp Akkusativ, danh từ bắt buộc phải thêm đuôi -n thành {{den Kollegen}}.\n\n### Lỗi 2: Thêm -s vào Genitiv của danh từ n-Deklination\n- ✗ *Die E-Mail des Experten-s enthielt wichtige Warnungen.*\n- ✓ {{Die E-Mail des Experten enthielt wichtige Warnungen.}}\n- *Giải thích:* Danh từ thuộc n-Deklination nhận đuôi -en ở Genitiv ({{des Experten}}), tuyệt đối không thêm đuôi -s hay -es (ngoại trừ một số ít danh từ hỗn hợp như *des Namens*).\n\n### Lỗi 3: Đặt sai vị trí của Infinitiv trong câu thì tương lai Futur I\n- ✗ *Er wird installieren die neue App heute Abend.*\n- ✓ {{Er wird die neue App heute Abend installieren.}}\n- *Giải thích:* Động từ nguyên mẫu (Infinitiv) trong câu chính thì Futur I bắt buộc phải đứng ở vị trí cuối cùng của câu (Satzklammer).\n\n### Lỗi 4: Nhầm lẫn giữa \"werden\" làm trợ động từ tương lai và \"Passiv\"\n- ✗ *Das Betriebssystem wird aktualisiert.* (Đây là câu bị động: Hệ điều hành đang được cập nhật)\n- ✗ *Der Techniker wird das Betriebssystem aktualisieren.* (Đây là tương lai chủ động: Kỹ thuật viên sẽ cập nhật)\n- ✓ Cả hai câu đều đúng nhưng mang nghĩa khác nhau: Passiv dùng **Partizip II**, còn Futur I dùng **Infinitiv**.\n\n### Lỗi 5: Dùng \"Herr\" mà không đổi đuôi ở Dativ/Akkusativ\n- ✗ *Ich habe die Sicherheitswarnung an Herr Schmidt weitergeleitet.*\n- ✓ {{Ich habe die Sicherheitswarnung an Herrn Schmidt weitergeleitet.}}\n- *Giải thích:* {{der Herr}} thuộc biến cách n: sau giới từ an (+ Akk), từ này bắt buộc phải biến thành {{Herrn}}.\n\n### Lỗi 6: Quên đuôi tính từ khi đi kèm danh từ n-Deklination\n- ✗ *Er sprach mit einem erfahren Praktikant.*\n- ✓ {{Er sprach mit einem erfahrenen Praktikanten.}}\n- *Giải thích:* Ở Dativ số ít, cả tính từ và danh từ n-Deklination đều phải nhận đuôi -en: {{einem erfahrenen Praktikanten}}.\n\n## 4. Ví dụ củng cố bổ sung\n- {{Nächste Woche werden wir alle wichtigen Dateien auf einer externen Festplatte sichern.}} (Tuần tới chúng tôi sẽ sao lưu toàn bộ các tệp quan trọng lên một ổ cứng gắn ngoài.)\n- {{Der IT-Experte wird den Fehler im System wahrscheinlich schnell finden.}} (Chuyên gia công nghệ thông tin có lẽ sẽ tìm thấy lỗi trong hệ thống một cách nhanh chóng.)\n- {{Wir haben den neuen Praktikanten über die Sicherheitsregeln im Firmennetzwerk informiert.}} (Chúng tôi đã thông báo cho cậu thực tập sinh mới về các quy tắc bảo mật trong mạng nội bộ công ty.)\n- {{Das Smartphone des Nachbarn hat ein verdächtiges Schadprogramm heruntergeladen.}} (Chiếc điện thoại thông minh của người hàng xóm đã tải xuống một phần mềm độc hại đáng ngờ.)\n- {{Die Entwickler werden in Kürze eine benutzerfreundliche Benutzeroberfläche vorstellen.}} (Các nhà phát triển sẽ sớm giới thiệu một giao diện người dùng thân thiện.)\n",
+   "vocab": [
+    {
+     "de": "Kollege",
+     "article": "der",
+     "plural": "Kollegen",
+     "pos": "noun",
+     "ipa": "kɔˈleːɡə",
+     "vi": "người đồng nghiệp nam (thuộc biến cách n)",
+     "example": "Ich habe meinen neuen Kollegen bei der Einrichtung des Laptops geholfen.",
+     "exampleVi": "Tôi đã giúp người đồng nghiệp mới của mình trong việc cài đặt máy tính xách tay."
+    },
+    {
+     "de": "Kunde",
+     "article": "der",
+     "plural": "Kunden",
+     "pos": "noun",
+     "ipa": "ˈkʊndə",
+     "vi": "khách hàng nam (thuộc biến cách n)",
+     "example": "Der Berater erklärte dem interessierten Kunden die Vorteile des kabellosen Ladegeräts.",
+     "exampleVi": "Người tư vấn đã giải thích cho vị khách hàng quan tâm những ưu điểm của bộ sạc không dây."
+    },
+    {
+     "de": "Assistent",
+     "article": "der",
+     "plural": "Assistenten",
+     "pos": "noun",
+     "ipa": "asɪsˈtɛnt",
+     "vi": "trợ lý nam, người phụ tá kỹ thuật (thuộc biến cách n)",
+     "example": "Der fleißige Assistent leitete die Fehlermeldung umgehend an das Entwicklerteam weiter.",
+     "exampleVi": "Người trợ lý chăm chỉ đã chuyển tiếp ngay thông báo lỗi tới đội ngũ phát triển."
+    },
+    {
+     "de": "Praktikant",
+     "article": "der",
+     "plural": "Praktikanten",
+     "pos": "noun",
+     "ipa": "pʁaktikant",
+     "vi": "thực tập sinh nam (thuộc biến cách n)",
+     "example": "Der Abteilungsleiter übertrug dem neuen Praktikanten die regelmäßige Datensicherung.",
+     "exampleVi": "Trưởng phòng đã giao phó cho cậu thực tập sinh mới công việc sao lưu dữ liệu định kỳ."
+    },
+    {
+     "de": "Automat",
+     "article": "der",
+     "plural": "Automaten",
+     "pos": "noun",
+     "ipa": "aʊ̯toˈmaːt",
+     "vi": "máy tự động, thiết bị bán vé tự động (thuộc biến cách n)",
+     "example": "Der Fahrkartenkauf an diesem modernen Automaten funktioniert vollkommen kontaktlos.",
+     "exampleVi": "Việc mua vé tại chiếc máy tự động hiện đại này hoạt động hoàn toàn không tiếp xúc."
+    },
+    {
+     "de": "Nachbar",
+     "article": "der",
+     "plural": "Nachbarn",
+     "pos": "noun",
+     "ipa": "ˈnaxbaːɐ̯",
+     "vi": "người hàng xóm nam (thuộc biến cách n)",
+     "example": "Ich half meinem älteren Nachbarn dabei, das WLAN auf seinem Tablet einzurichten.",
+     "exampleVi": "Tôi đã giúp người hàng xóm lớn tuổi của mình cài đặt mạng Wi-Fi trên máy tính bảng của ông."
+    },
+    {
+     "de": "Benutzeroberfläche",
+     "article": "die",
+     "plural": "Benutzeroberflächen",
+     "pos": "noun",
+     "ipa": "bəˈnʊtsɐˌʔoːbɐflɛçə",
+     "vi": "giao diện người dùng (UI)",
+     "example": "Die übersichtliche Benutzeroberfläche ermöglicht eine intuitive Bedienung des Systems.",
+     "exampleVi": "Giao diện người dùng rõ ràng cho phép thao tác hệ thống một cách trực quan dễ hiểu."
+    },
+    {
+     "de": "Datensicherung",
+     "article": "die",
+     "plural": "Datensicherungen",
+     "pos": "noun",
+     "ipa": "ˈdaːtn̩ˌzɪçəʁʊŋ",
+     "vi": "việc sao lưu dữ liệu dự phòng (backup)",
+     "example": "Eine wöchentliche Datensicherung schützt zuverlässig vor unvorhergesehenem Datenverlust.",
+     "exampleVi": "Việc sao lưu dữ liệu hàng tuần bảo vệ đáng tin cậy trước nguy cơ mất dữ liệu bất ngờ."
+    },
+    {
+     "de": "Betriebssystem",
+     "article": "das",
+     "plural": "Betriebssysteme",
+     "pos": "noun",
+     "ipa": "bəˈtʁiːpszʏsˌteːm",
+     "vi": "hệ điều hành máy tính / điện thoại (OS)",
+     "example": "Vor der Installation neuer Programme sollte das Betriebssystem auf den neuesten Stand gebracht werden.",
+     "exampleVi": "Trước khi cài đặt các phần mềm mới, hệ điều hành nên được cập nhật lên phiên bản mới nhất."
+    },
+    {
+     "de": "Suchmaschine",
+     "article": "die",
+     "plural": "Suchmaschinen",
+     "pos": "noun",
+     "ipa": "ˈzuːxmaˌʃiːnə",
+     "vi": "công cụ tìm kiếm trên internet",
+     "example": "Über eine Suchmaschine fand er blitzschnell die offizielle Dokumentation des Herstellers.",
+     "exampleVi": "Qua công cụ tìm kiếm, anh ấy đã tìm thấy tài liệu hướng dẫn chính thức của nhà sản xuất trong chớp mắt."
+    },
+    {
+     "de": "Sicherheitslücke",
+     "article": "die",
+     "plural": "Sicherheitslücken",
+     "pos": "noun",
+     "ipa": "ˈzɪçɐhaɪ̯tsˌlʏkə",
+     "vi": "lỗ hổng bảo mật kỹ thuật",
+     "example": "Die neu entdeckte Sicherheitslücke wurde durch das gestrige Update erfolgreich geschlossen.",
+     "exampleVi": "Lỗ hổng bảo mật mới được phát hiện đã được vá kín thành công qua bản cập nhật hôm qua."
+    },
+    {
+     "de": "Schadprogramm",
+     "article": "das",
+     "plural": "Schadprogramme",
+     "pos": "noun",
+     "ipa": "ˈʃaːtpʁoˌɡʁam",
+     "vi": "phần mềm độc hại, mã độc (malware)",
+     "example": "Ein gefährliches Schadprogramm hatte sich unbemerkt im Hintergrund installiert.",
+     "exampleVi": "Một phần mềm độc hại nguy hiểm đã tự cài đặt ngầm mà không bị phát hiện."
+    },
+    {
+     "de": "Anhang",
+     "article": "der",
+     "plural": "Anhänge",
+     "pos": "noun",
+     "ipa": "ˈanˌhaŋ",
+     "vi": "tệp đính kèm trong email",
+     "example": "Öffnen Sie niemals den Anhang einer E-Mail von einem völlig unbekannten Absender.",
+     "exampleVi": "Tuyệt đối đừng bao giờ mở tệp đính kèm của một email từ người gửi hoàn toàn xa lạ."
+    },
+    {
+     "de": "Benachrichtigung",
+     "article": "die",
+     "plural": "Benachrichtigungen",
+     "pos": "noun",
+     "ipa": "bəˈnaːxʁɪçtɪɡʊŋ",
+     "vi": "thông báo đẩy trên thiết bị (push notification)",
+     "example": "Auf dem Sperrbildschirm erschien eine dringende Benachrichtigung über ein Software-Update.",
+     "exampleVi": "Trên màn hình khóa xuất hiện một thông báo khẩn cấp về bản cập nhật phần mềm."
+    },
+    {
+     "de": "im Internet recherchieren",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɪm ˈɪntɐnɛt ʁeʃɛʁˈʃiːʁən",
+     "vi": "tra cứu, tìm kiếm thông tin trên mạng internet",
+     "example": "Vor dem Kauf eines technischen Geräts sollte man gründlich im Internet recherchieren.",
+     "exampleVi": "Trước khi mua một thiết bị kỹ thuật, người ta nên tra cứu kỹ lưỡng trên mạng internet."
+    },
+    {
+     "de": "ein Backup erstellen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "aɪ̯n ˈbɛkʔap ɛɐ̯ˈʃtɛlən",
+     "vi": "tạo một bản sao lưu dự phòng dữ liệu",
+     "example": "Bevor Sie das Gerät auf Werkseinstellungen zurücksetzen, müssen Sie ein Backup erstellen.",
+     "exampleVi": "Trước khi khôi phục thiết bị về cài đặt gốc, bạn bắt buộc phải tạo một bản sao lưu dữ liệu."
+    },
+    {
+     "de": "eine App installieren",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nə ˈʔɛp ɪnstaliːʁən",
+     "vi": "cài đặt một ứng dụng phần mềm",
+     "example": "Sie können die neue Fahrkarten-App ganz einfach über den App-Store installieren.",
+     "exampleVi": "Bạn có thể cài đặt ứng dụng mua vé mới rất dễ dàng qua kho ứng dụng."
+    },
+    {
+     "de": "das Passwort zurücksetzen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "das ˈpasvɔʁt tsuˈʁʏkˌzɛtsn̩",
+     "vi": "đặt lại mật khẩu tài khoản (reset password)",
+     "example": "Wenn Sie Ihre Zugangsdaten vergessen haben, können Sie das Passwort jederzeit zurücksetzen.",
+     "exampleVi": "Nếu quên thông tin đăng nhập, bạn có thể đặt lại mật khẩu bất cứ lúc nào."
+    },
+    {
+     "de": "Zweifel hegen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈtsvaɪ̯fl̩ ˈheːɡn̩",
+     "vi": "nuôi dưỡng mối hoài nghi, nghi ngờ tính chân thực (an + Dat)",
+     "example": "Experten hegen berechtigte Zweifel an der Echtheit der im Netz verbreiteten Videobotschaft.",
+     "exampleVi": "Các chuyên gia nuôi dưỡng mối hoài nghi có cơ sở về tính chân thực của thông điệp video lan truyền trên mạng."
+    },
+    {
+     "de": "auf dem neuesten Stand sein",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "aʊ̯f deːm ˈnɔʏ̯əstn̩ ˈʃtant zaɪ̯n",
+     "vi": "cập nhật ở phiên bản mới nhất, hiện đại nhất",
+     "example": "Um sich vor Viren zu schützen, muss das Antivirenprogramm immer auf dem neuesten Stand sein.",
+     "exampleVi": "Để tự bảo vệ trước virus, phần mềm diệt virus phải luôn ở phiên bản cập nhật mới nhất."
+    },
+    {
+     "de": "herunterladen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "lädt herunter, lud herunter, hat heruntergeladen",
+     "ipa": "hɛˈʁʊntɐˌlaːdn̩",
+     "vi": "tải xuống tệp tin từ internet (+ Akk)",
+     "example": "Er lud das Handbuch im PDF-Format von der Website des Herstellers herunter.",
+     "exampleVi": "Anh ấy đã tải sách hướng dẫn định dạng PDF từ trang web của nhà sản xuất về máy."
+    },
+    {
+     "de": "verschlüsseln",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "verschlüsselt, verschlüsselte, hat verschlüsselt",
+     "ipa": "fɛɐ̯ˈʃlʏsl̩n",
+     "vi": "mã hóa dữ liệu bảo mật (+ Akk)",
+     "example": "Moderne Messenger-Dienste verschlüsseln alle Chat-Nachrichten lückenlos von Ende zu Ende.",
+     "exampleVi": "Các dịch vụ nhắn tin hiện đại mã hóa toàn bộ tin nhắn trò chuyện từ đầu cuối đến đầu cuối."
+    },
+    {
+     "de": "weiterleiten",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "leitet weiter, leitete weiter, hat weitergeleitet",
+     "ipa": "ˈvaɪ̯tɐˌlaɪ̯tn̩",
+     "vi": "chuyển tiếp thư từ, email, tin nhắn (+ Dat + Akk)",
+     "example": "Bitte leiten Sie die wichtige Information unverzüglich an den zuständigen Kollegen weiter.",
+     "exampleVi": "Xin vui lòng chuyển tiếp ngay thông tin quan trọng cho người đồng nghiệp phụ trách."
+    },
+    {
+     "de": "manipulieren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "manipuliert, manipulierte, hat manipuliert",
+     "ipa": "manipuliːʁən",
+     "vi": "thao túng, can thiệp làm sai lệch hình ảnh / thông tin (+ Akk)",
+     "example": "Mit generativer KI lassen sich Fotos und Videos täuschend echt manipulieren.",
+     "exampleVi": "Với AI tạo sinh, người ta có thể thao túng hình ảnh và video trông giống thật đến đánh lừa."
+    },
+    {
+     "de": "aktualisieren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "aktualisiert, aktualisierte, hat aktualisiert",
+     "ipa": "aktualiˈziːʁən",
+     "vi": "cập nhật phần mềm, làm mới dữ liệu (+ Akk)",
+     "example": "Ich werde mein Smartphone heute Abend über das WLAN-Netzwerk aktualisieren.",
+     "exampleVi": "Tôi sẽ cập nhật điện thoại thông minh của mình vào tối nay qua mạng Wi-Fi."
+    },
+    {
+     "de": "kabellos",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈkaːbl̩ˌloːs",
+     "vi": "không dây (wireless)",
+     "example": "Die kabellose Tastatur verbindet sich automatisch per Bluetooth mit dem Computer.",
+     "exampleVi": "Bàn phím không dây tự động kết nối qua Bluetooth với máy tính."
+    },
+    {
+     "de": "benutzerfreundlich",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "bəˈnʊtsɐˌfʁɔʏ̯ntlɪç",
+     "vi": "thân thiện, dễ sử dụng đối với người dùng",
+     "example": "Die neue Version der App ist deutlich benutzerfreundlicher und schneller geworden.",
+     "exampleVi": "Phiên bản mới của ứng dụng đã trở nên thân thiện với người dùng và nhanh hơn rõ rệt."
+    },
+    {
+     "de": "virenfrei",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈfiːʁənˌfʁaɪ̯",
+     "vi": "sạch virus, không bị nhiễm mã độc",
+     "example": "Nach dem vollständigen Scan meldete das System, dass alle Partitionen virenfrei sind.",
+     "exampleVi": "Sau khi quét toàn bộ, hệ thống thông báo rằng mọi phân vùng đều sạch virus."
+    },
+    {
+     "de": "automatisiert",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "aʊ̯tomatiˈziːɐ̯t",
+     "vi": "được vận hành tự động hóa",
+     "example": "Dank automatisierter Prozesse können Routineaufgaben viel schneller erledigt werden.",
+     "exampleVi": "Nhờ các quy trình tự động hóa, các công việc thường nhật có thể được hoàn thành nhanh hơn nhiều."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "David",
+     "de": "Hallo Thao! Du schaust so konzentriert auf deinen Laptop. Woran arbeitest du gerade?",
+     "vi": "Chào Thảo! Bạn trông tập trung vào máy tính thế. Bạn đang làm gì vậy?"
+    },
+    {
+     "speaker": "B",
+     "name": "Thao",
+     "de": "Hallo David! Ich helfe gerade unserem neuen Praktikanten dabei, sein Benutzerkonto im Firmennetz einzurichten.",
+     "vi": "Chào David! Mình đang giúp cậu thực tập sinh mới của chúng ta cài đặt tài khoản người dùng trong mạng công ty."
+    },
+    {
+     "speaker": "A",
+     "name": "David",
+     "de": "Sehr gut. Wirst du ihm auch zeigen, wie man ein regelmäßiges Backup der Daten erstellt?",
+     "vi": "Rất tốt. Bạn cũng sẽ chỉ cho cậu ấy cách tạo bản sao lưu dữ liệu định kỳ chứ?"
+    },
+    {
+     "speaker": "B",
+     "name": "Thao",
+     "de": "Ja, absolut. Ich werde ihm erklären, wie wichtig eine automatisierte Datensicherung für die Sicherheit ist.",
+     "vi": "Có chứ, chắc chắn rồi. Mình sẽ giải thích cho cậu ấy tầm quan trọng của việc sao lưu dữ liệu tự động đối với an ninh."
+    },
+    {
+     "speaker": "A",
+     "name": "David",
+     "de": "Hat der IT-Spezialist das neue Betriebssystem auf allen Rechnern eigentlich schon installiert?",
+     "vi": "Chuyên gia IT thực ra đã cài đặt hệ điều hành mới trên tất cả máy tính chưa?"
+    },
+    {
+     "speaker": "B",
+     "name": "Thao",
+     "de": "Er wird wohl noch damit beschäftigt sein. Vorhin habe ich mit dem zuständigen Kollegen aus der IT gesprochen.",
+     "vi": "Có lẽ anh ấy vẫn đang bận làm việc đó. Ban nãy mình đã nói chuyện với người đồng nghiệp phụ trách bên IT."
+    },
+    {
+     "speaker": "A",
+     "name": "David",
+     "de": "Hoffentlich schließt das neue Update auch jene gefährliche Sicherheitslücke, vor der gestern gewarnt wurde.",
+     "vi": "Hy vọng rằng bản cập nhật mới cũng sẽ vá lỗ hổng bảo mật nguy hiểm mà hôm qua đã có cảnh báo."
+    },
+    {
+     "speaker": "B",
+     "name": "Thao",
+     "de": "Ja, der Experte hat versichert, dass alle bekannten Schadprogramme damit blockiert werden.",
+     "vi": "Ừ, chuyên gia đã khẳng định rằng mọi phần mềm độc hại đã biết sẽ bị chặn đứng qua đó."
+    },
+    {
+     "speaker": "A",
+     "name": "David",
+     "de": "Gestern erhielt ich eine seltsame E-Mail von einem unbekannten Absender mit einem verdächtigen Anhang.",
+     "vi": "Hôm qua mình nhận được một email kỳ lạ từ người gửi không quen biết với tệp đính kèm đáng ngờ."
+    },
+    {
+     "speaker": "B",
+     "name": "Thao",
+     "de": "Du wirst doch hoffentlich den Anhang nicht geöffnet haben!",
+     "vi": "Hy vọng là bạn đã không mở tệp đính kèm đó chứ!"
+    },
+    {
+     "speaker": "A",
+     "name": "David",
+     "de": "Nein, auf keinen Fall. Ich hegte sofort Zweifel und habe die Nachricht sofort an die Sicherheitsabteilung weitergeleitet.",
+     "vi": "Không, tuyệt đối không. Mình nghi ngờ ngay và đã chuyển tiếp tin nhắn lập tức cho bộ phận an ninh."
+    },
+    {
+     "speaker": "B",
+     "name": "Thao",
+     "de": "Das war goldrichtig. Viele Angreifer versuchen gezielt, Mitarbeiter mit gefälschten E-Mails zu manipulieren.",
+     "vi": "Hành động đó hoàn toàn chính xác. Nhiều kẻ tấn công cố ý dùng email giả mạo để thao túng nhân viên."
+    },
+    {
+     "speaker": "A",
+     "name": "David",
+     "de": "Wir müssen alle vorsichtig bleiben. Wann wirst du mit dem Praktikanten fertig sein?",
+     "vi": "Tất cả chúng ta đều phải cẩn trọng. Khi nào bạn sẽ hoàn thành việc hướng dẫn thực tập sinh?"
+    },
+    {
+     "speaker": "B",
+     "name": "Thao",
+     "de": "In einer halben Stunde werden wir fertig sein. Danach können wir zusammen in die Kaffeepause gehen.",
+     "vi": "Trong nửa tiếng nữa chúng mình sẽ xong. Sau đó chúng ta có thể cùng nhau đi nghỉ uống cà phê."
+    },
+    {
+     "speaker": "A",
+     "name": "David",
+     "de": "Super, abgemacht! Ich werde inzwischen noch schnell die letzten Nachrichten beantworten.",
+     "vi": "Tuyệt vời, nhất trí thế nhé! Trong lúc đó mình sẽ trả lời nhanh nốt các tin nhắn cuối cùng."
+    }
+   ],
+   "reading": {
+    "title": "Künstliche Intelligenz und Medienkompetenz: Die Zukunft der digitalen Information",
+    "text": "Die rasante Weiterentwicklung moderner Technologien, insbesondere im Bereich der künstlichen Intelligenz, neuronalen Netze und maschinellen Sprachmodelle, verändert unsere tägliche Informations- und Medienlandschaft mit atemberaubender Geschwindigkeit. Noch vor wenigen Jahren benötigten Journalisten und Rechercheure viel Zeit, um komplexe Fachtexte manuell zu verfassen, statistische Daten auszuwerten und fundierte Berichte zu erstellen. Heutzutage hingegen generieren automatisierte Algorithmen innerhalb weniger Sekunden vollständige Textentwürfe, verfassen präzise Zusammenfassungen und übersetzen Artikel fehlerfrei in zahlreiche Fremdsprachen. Diese innovativen KI-Werkzeuge werden zweifellos viele tägliche Arbeitsprozesse in Redaktionen und Unternehmen nachhaltig erleichtern.\n\nAllerdings birgt dieser tiefgreifende technologische Wandel auch erhebliche gesellschaftliche Risiken, die von Medienexperten mit wachsender Sorge beobachtet werden. Mit frei zugänglichen KI-Programmen lassen sich heute nicht nur realistische Texte erzeugen, sondern auch Fotos, Stimmen und Videosequenzen täuschend echt manipulieren. Sogenannte Deepfakes machen es für den gewöhnlichen Internetnutzer beinahe unmöglich, auf den ersten Blick zwischen authentischen Tatsachen und gezielten Fälschungen zu unterscheiden. Wenn automatisierte Fake News unkontrolliert über soziale Netzwerke verbreitet werden, kann dies die demokratische Meinungsbildung ernsthaft gefährden und das Vertrauen in verlässliche Informationsquellen nachhaltig untergraben.\n\nAus diesem Grund wird eine fundierte digitale Medienkompetenz zu einer der wichtigsten Schlüsselqualifikationen des einundzwanzigsten Jahrhunderts. Jeder aufgeklärte Medienkonsument sollte lernen, im Internet sorgfältig zu recherchieren und bei spektakulären Schlagzeilen stets gesunde Zweifel zu hegen. Vor dem Weiterleiten brisanter Nachrichten muss die ursprüngliche Quellenangabe gewissenhaft überprüft werden: Stammt die Meldung von einer renommierten Nachrichtenagentur oder handelt es sich um eine ungeprüfte Behauptung auf einem dubiosen Blog? Zudem empfiehlt es sich, die Fakten über etablierte Suchmaschinen mit unabhängigen Berichten abzugleichen.\n\nIn Zukunft werden technologische Filter und professionelle Faktenchecker eine entscheidende Rolle bei der Abwehr digitaler Manipulationen spielen. Doch die wirksamste Verteidigungslinie gegen Desinformation bleibt der kritische menschliche Verstand. Wer digitale Angebote mit Neugier, aber auch mit wachsamer Skepsis nutzt, wird von den gewaltigen Chancen der Technik profitieren, ohne ihren raffinierten Täuschungen zum Opfer zu fallen.",
+    "vi": "Sự phát triển nhanh chóng của các công nghệ hiện đại, đặc biệt là trong lĩnh vực trí tuệ nhân tạo, mạng nơ-ron và các mô hình ngôn ngữ máy học, đang làm thay đổi bức tranh thông tin và truyền thông hàng ngày của chúng ta với tốc độ chóng mặt. Mới chỉ cách đây vài năm, các nhà báo và chuyên gia nghiên cứu cần nhiều thời gian để biên soạn các văn bản chuyên ngành phức tạp bằng tay, đánh giá dữ liệu thống kê và tạo lập các báo cáo có cơ sở vững chắc. Ngược lại ngày nay, các thuật toán tự động hóa chỉ trong vòng vài giây đã có thể tạo ra các bản thảo hoàn chỉnh, viết các bài tóm tắt chuẩn xác và dịch các bài báo không tì vết sang vô số ngoại ngữ. Những công cụ AI đổi mới này chắc chắn sẽ tạo thuận lợi lâu dài cho nhiều quy trình làm việc thường nhật trong các tòa soạn và doanh nghiệp.\n\nTuy nhiên, sự chuyển đổi công nghệ sâu sắc này cũng tiềm ẩn những nguy cơ xã hội đáng kể đang được các chuyên gia truyền thông theo dõi với sự lo lắng ngày càng gia tăng. Với các phần mềm AI truy cập tự do hiện nay, người ta không chỉ tạo ra được các văn bản giống thật, mà còn thao túng được cả hình ảnh, giọng nói và các đoạn video chân thực đến mức đánh lừa thị giác. Các sản phẩm giả mạo sâu (Deepfake) khiến cho người dùng internet thông thường gần như không thể phân biệt ngay từ cái nhìn đầu tiên giữa sự thật xác thực và sự ngụy tạo có chủ đích. Khi các tin giả tự động hóa bị phát tán không kiểm soát qua các mạng xã hội, điều này có thể gây nguy hiểm nghiêm trọng cho quá trình hình thành quan điểm dân chủ và làm xói mòn bền vững niềm tin vào các nguồn thông tin đáng tin cậy.\n\nChính vì lý do này, năng lực truyền thông kỹ thuật số vững vàng đang trở thành một trong những năng lực cốt lõi quan trọng nhất của thế kỷ hai mươi mốt. Mọi người tiêu dùng truyền thông thông thái đều nên học cách tra cứu cẩn thận trên internet và luôn nuôi dưỡng mối hoài nghi lành mạnh trước những tiêu đề giật gân ngoạn mục. Trước khi chuyển tiếp các tin tức nóng bỏng, nguồn gốc ban đầu bắt buộc phải được kiểm tra một cách tận tâm: Bản tin xuất phát từ một hãng thông tấn danh tiếng hay chỉ là một khẳng định chưa được kiểm chứng trên một trang blog mờ ám? Thêm vào đó, việc đối chiếu các sự kiện qua các công cụ tìm kiếm uy tín với các bài báo độc lập là rất đáng khuyến khích.\n\nTrong tương lai, các bộ lọc công nghệ và các chuyên gia kiểm chứng sự thật chuyên nghiệp sẽ đóng một vai trò mang tính quyết định trong việc ngăn chặn các thủ đoạn thao túng kỹ thuật số. Nhưng phòng tuyến hiệu quả nhất chống lại thông tin sai lệch vẫn luôn là tư duy phản biện sắc bén của con người. Ai sử dụng các tiện ích kỹ thuật số với sự tò mò nhưng luôn đi kèm với sự hoài nghi cảnh giác sẽ được hưởng lợi từ những cơ hội to lớn của công nghệ mà không trở thành nạn nhân của những chiêu trò lừa dối tinh vi.",
+    "glossary": [
+     {
+      "de": "Medienkompetenz",
+      "article": "die",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "ˈmeːdi̯ənkɔmpəˌtɛnts",
+      "vi": "năng lực hiểu biết và sử dụng truyền thông an toàn",
+      "example": "Schulen sollten die digitale Medienkompetenz der Jugend gezielt fördern.",
+      "exampleVi": "Các trường học nên bồi dưỡng có định hướng năng lực truyền thông kỹ thuật số của giới trẻ."
+     },
+     {
+      "de": "Desinformation",
+      "article": "die",
+      "plural": "Desinformationen",
+      "pos": "noun",
+      "ipa": "dɛsʔɪnfɔʁmaˈtsi̯oːn",
+      "vi": "thông tin sai lệch cố ý, tin xuyên tạc",
+      "example": "Gezielte Desinformation im Netz soll die Bevölkerung spalten.",
+      "exampleVi": "Thông tin sai lệch có chủ đích trên mạng nhằm gây chia rẽ người dân."
+     },
+     {
+      "de": "Faktenchecker",
+      "article": "der",
+      "plural": "Faktenchecker",
+      "pos": "noun",
+      "ipa": "ˈfaktn̩ˌtʃɛkɐ",
+      "vi": "người kiểm chứng tính xác thực của thông tin",
+      "example": "Unabhängige Faktenchecker entlarvten die Meldung schnell als Lüge.",
+      "exampleVi": "Các chuyên gia kiểm chứng thông tin độc lập đã nhanh chóng vạch trần bản tin là bịa đặt."
+     },
+     {
+      "de": "Deepfake",
+      "article": "das",
+      "plural": "Deepfakes",
+      "pos": "noun",
+      "ipa": "ˈdiːpfeːk",
+      "vi": "sản phẩm video/hình ảnh giả mạo tinh vi bằng AI",
+      "example": "Durch Deepfakes können Politikern falsche Aussagen in den Mund gelegt werden.",
+      "exampleVi": "Qua công nghệ Deepfake, những phát ngôn sai sự thật có thể bị gán ghép vào miệng các chính trị gia."
+     },
+     {
+      "de": "Urheber",
+      "article": "der",
+      "plural": "Urheber",
+      "pos": "noun",
+      "ipa": "ˈuːɐ̯ˌheːbɐ",
+      "vi": "tác giả khởi xướng, người sáng tạo ban đầu",
+      "example": "Der wahre Urheber des gefälschten Videos konnte bisher nicht ermittelt werden.",
+      "exampleVi": "Tác giả thực sự của video giả mạo cho đến nay vẫn chưa thể xác định được."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Wie verändern moderne Sprachmodelle und KI laut dem Text die Arbeit in Redaktionen?",
+      "options": [
+       "Sie verbieten Journalisten das Schreiben von Berichten.",
+       "Sie erstellen in Sekundenschnelle Textentwürfe, Zusammenfassungen und Übersetzungen.",
+       "Sie führen zur sofortigen Schließung aller Zeitungen."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Welche Gefahr geht von frei zugänglichen Deepfake-Programmen aus?",
+      "options": [
+       "Dass Computerakkus schneller entladen werden.",
+       "Dass Fotos, Stimmen und Videos täuschend echt manipuliert und gefälscht werden können.",
+       "Dass Bildschirme automatisch schwarz werden."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Warum ist digitale Medienkompetenz heute eine Schlüsselqualifikation?",
+      "options": [
+       "Damit man Fake News und Manipulationen im Internet kritisch erkennen und hinterfragen kann.",
+       "Damit man möglichst viele Computerspiele gewinnt.",
+       "Damit man keine Tastatur mehr benutzen muss."
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Was sollte man tun, bevor man brisante Nachrichten im Netz weiterleitet?",
+      "options": [
+       "Sie sofort an hundert Freunde schicken.",
+       "Die ursprüngliche Quellenangabe prüfen und die Fakten mit seriösen Berichten abgleichen.",
+       "Den Computer sofort ausschalten."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Was bleibt laut dem Autor die wirksamste Verteidigung gegen digitale Desinformation?",
+      "options": [
+       "Das vollständige Verbot aller elektronischen Geräte.",
+       "Der kritische und wachsame menschliche Verstand.",
+       "Ausschließlich automatisierte Werbespots."
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "writing": {
+    "task": "In Ihrem Betrieb wird nächste Woche eine neue Software eingeführt. Schreiben Sie eine formelle Mitteilung an die Mitarbeiter Ihrer Abteilung (ca. 80-100 Wörter). Kündigen Sie die Umstellung mit Futur I an, erklären Sie, warum die Aktualisierung für die Datensicherheit notwendig ist, und informieren Sie darüber, dass der IT-Experte allen Kollegen bei Fragen zur Seite stehen wird. (Tại doanh nghiệp của bạn tuần tới sẽ áp dụng phần mềm mới. Hãy viết thông báo trang trọng gửi nhân viên trong phòng. Dùng thì Futur I thông báo việc chuyển đổi, giải thích lý do cần thiết cho an toàn dữ liệu và cho biết chuyên gia IT sẽ hỗ trợ đồng nghiệp khi có thắc mắc.)",
+    "minWords": 80,
+    "sample": "Liebe Kolleginnen und Kollegen,\n\nam kommenden Montag werden wir unser gesamtes Betriebssystem auf die neueste Version aktualisieren. Diese wichtige Umstellung wird unsere täglichen Arbeitsabläufe spürbar erleichtern und bestehende Sicherheitslücken im Firmennetzwerk dauerhaft schließen. Vor der Installation wird jeder Mitarbeiter ein vollständiges Backup seiner Daten erstellen müssen.\n\nUnser erfahrener IT-Experte, Herr Wagner, wird Ihnen während des gesamten Prozesses gerne zur Seite stehen und alle offenen Fragen zur neuen Benutzeroberfläche beantworten. Wir werden die Schulung am Dienstagmorgen um neun Uhr im Konferenzraum durchführen. Ich danke Ihnen herzlich für Ihre tatkräftige Unterstützung!\n\nMit freundlichen Grüßen\nDavid Nguyen"
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Welche Form von „werden“ gehört zu „du“ im Futur I?",
+     "options": [
+      "wirst",
+      "wird",
+      "werdet",
+      "wurdest"
+     ],
+     "answer": 0,
+     "explain": "Động từ 'werden' chia ở ngôi 'du' là 'wirst': 'Du wirst das Backup erstellen'."
+    },
+    {
+     "type": "mcq",
+     "q": "Wie lautet die korrekte Akkusativform für „der Kollege“ (n-Deklination)?",
+     "options": [
+      "den Kollege",
+      "den Kollegen",
+      "dem Kollegen",
+      "des Kollegen"
+     ],
+     "answer": 1,
+     "explain": "'der Kollege' thuộc biến cách n. Ở tân ngữ Akkusativ, danh từ thêm '-n': 'den Kollegen'."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Der Chef sprach gestern lange mit dem neuen ___ .",
+     "options": [
+      "Praktikant",
+      "Praktikanten",
+      "Praktikantem",
+      "Praktikants"
+     ],
+     "answer": 1,
+     "explain": "'der Praktikant' thuộc n-Deklination. Sau giới từ 'mit (+ Dat)', danh từ nhận đuôi '-en': 'dem neuen Praktikanten'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz drückt eine Vermutung mit Futur I aus?",
+     "options": [
+      "Er wird morgen bestimmt nach Berlin fahren.",
+      "Er wird wohl noch im Büro arbeiten.",
+      "Er wird das Formular gestern ausgefüllt haben.",
+      "Er wird vom Arzt untersucht."
+     ],
+     "answer": 1,
+     "explain": "Cấu trúc 'werden + wohl + Infinitiv' diễn tả một phỏng đoán ở hiện tại: 'Er wird wohl noch im Büro arbeiten' (Có lẽ anh ấy vẫn đang làm việc ở văn phòng)."
+    },
+    {
+     "type": "mcq",
+     "q": "Was ist die Genitivform von „der Kunde“?",
+     "options": [
+      "des Kundes",
+      "des Kunden",
+      "dem Kunden",
+      "den Kunden"
+     ],
+     "answer": 1,
+     "explain": "Danh từ n-Deklination nhận đuôi '-en' ở Genitiv: 'des Kunden' (không thêm -s)."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet das Substantiv „die Benutzeroberfläche“?",
+     "options": [
+      "Die Hülle des Smartphones",
+      "Die visuelle Schnittstelle zur Bedienung eines Computerprogramms",
+      "Die Tastatur eines Laptops",
+      "Die Rechnung eines Online-Kaufs"
+     ],
+     "answer": 1,
+     "explain": "'Die Benutzeroberfläche' là giao diện người dùng (UI) cho phép con người thao tác trực quan với phần mềm."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
+     "options": [
+      "Wir werden nächste Woche das neue Betriebssystem installieren.",
+      "Wir werden nächste Woche installieren das neue Betriebssystem.",
+      "Wir werden nächste Woche das neue Betriebssystem installiert.",
+      "Wir werden nächste Woche das neue Betriebssystem zu installieren."
+     ],
+     "answer": 0,
+     "explain": "Trong câu chính thì Futur I, động từ nguyên mẫu 'installieren' phải đứng ở vị trí cuối cùng của câu."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Die Sicherheitswarnung wurde an Herrn Schmidt ___ .",
+     "options": [
+      "weitergeleitet",
+      "heruntergeladen",
+      "verschlüsselt",
+      "gelöscht"
+     ],
+     "answer": 0,
+     "explain": "'weiterleiten an + Akk' có nghĩa là chuyển tiếp thông tin tới ai đó."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Maskulinum gehört NICHT zur n-Deklination?",
+     "options": [
+      "der Experte",
+      "der Journalist",
+      "der Computer",
+      "der Assistent"
+     ],
+     "answer": 2,
+     "explain": "'der Computer' biến cách mạnh thông thường (des Computers, den Computer), không thuộc n-Deklination."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet die Redewendung „Zweifel hegen an etwas (+ Dat)“?",
+     "options": [
+      "Etwas ohne Prüfung glauben",
+      "Misstrauisch sein und die Richtigkeit von etwas bezweifeln",
+      "Eine E-Mail löschen",
+      "Ein Passwort vergessen"
+     ],
+     "answer": 1,
+     "explain": "'Zweifel hegen' mang nghĩa là nuôi dưỡng sự hoài nghi, nghi ngờ tính xác thực của điều gì."
+    },
+    {
+     "type": "gap",
+     "text": "Nächsten Monat ___ wir ein neues Smartphone für das Büro anschaffen.",
+     "answers": [
+      "werden"
+     ],
+     "hint": "werden im Futur I mit wir",
+     "vi": "Tháng tới chúng tôi sẽ mua một chiếc điện thoại thông minh mới cho văn phòng.",
+     "explain": "Động từ 'werden' chia với chủ ngữ 'wir' là 'werden'."
+    },
+    {
+     "type": "gap",
+     "text": "Ich habe die verdächtige Nachricht sofort an den zuständigen ___ weitergeleitet.",
+     "answers": [
+      "Kollegen|Experten"
+     ],
+     "hint": "der Kollege im Akkusativ (n-Deklination)",
+     "vi": "Tôi đã chuyển tiếp tin nhắn đáng ngờ ngay lập tức cho người đồng nghiệp phụ trách.",
+     "explain": "Sau giới từ 'an (+ Akk)', danh từ n-Deklination nhận đuôi '-en': 'den Kollegen'."
+    },
+    {
+     "type": "gap",
+     "text": "Der IT-Spezialist wird das dringende Problem ___ heute noch lösen.",
+     "answers": [
+      "wohl|sicher|wahrscheinlich"
+     ],
+     "hint": "Partikel für Vermutung",
+     "vi": "Chuyên gia IT có lẽ sẽ giải quyết xong vấn đề khẩn cấp ngay trong hôm nay.",
+     "explain": "'werden + wohl / wahrscheinlich' diễn tả một phỏng đoán."
+    },
+    {
+     "type": "gap",
+     "text": "Vor dem System-Update müssen alle Mitarbeiter ein vollständiges ___ erstellen.",
+     "answers": [
+      "Backup"
+     ],
+     "hint": "Nomen: das Backup",
+     "vi": "Trước khi cập nhật hệ thống, mọi nhân viên đều phải tạo một bản sao lưu dự phòng hoàn chỉnh.",
+     "explain": "Cụm thành ngữ kỹ thuật: 'ein Backup erstellen' (tạo bản sao lưu dữ liệu)."
+    },
+    {
+     "type": "gap",
+     "text": "Der Abteilungsleiter vertraut dem neuen ___ voll und ganz.",
+     "answers": [
+      "Praktikanten|Assistenten"
+     ],
+     "hint": "der Praktikant im Dativ (n-Deklination)",
+     "vi": "Trưởng phòng hoàn toàn tin tưởng người thực tập sinh mới.",
+     "explain": "'vertrauen (+ Dat)'. Danh từ n-Deklination ở Dativ nhận đuôi '-en': 'dem Praktikanten'."
+    },
+    {
+     "type": "gap",
+     "text": "Durch die Schließung der gefährlichen ___ ist das Netzwerk wieder geschützt.",
+     "answers": [
+      "Sicherheitslücke"
+     ],
+     "hint": "Nomen: die Sicherheitslücke",
+     "vi": "Nhờ việc vá lỗ hổng bảo mật nguy hiểm, mạng nội bộ đã được bảo vệ trở lại.",
+     "explain": "Danh từ giống cái 'die Sicherheitslücke' (lỗ hổng bảo mật)."
+    },
+    {
+     "type": "gap",
+     "text": "Öffnen Sie niemals den ___ einer E-Mail von einem unbekannten Absender!",
+     "answers": [
+      "Anhang"
+     ],
+     "hint": "Nomen: der Anhang",
+     "vi": "Tuyệt đối đừng bao giờ mở tệp đính kèm của một email từ người gửi lạ!",
+     "explain": "Danh từ giống đực 'der Anhang' (tệp đính kèm)."
+    },
+    {
+     "type": "gap",
+     "text": "Die neue Software ist besonders intuitiv und ___ gestaltet.",
+     "answers": [
+      "benutzerfreundlich"
+     ],
+     "hint": "Adjektiv: benutzerfreundlich",
+     "vi": "Phần mềm mới được thiết kế đặc biệt trực quan và thân thiện với người dùng.",
+     "explain": "Tính từ 'benutzerfreundlich' (thân thiện với người dùng)."
+    },
+    {
+     "type": "gap",
+     "text": "Die Entwickler ___ alle Nachrichten automatisch von Ende zu Ende.",
+     "answers": [
+      "verschlüsseln"
+     ],
+     "hint": "Verb: verschlüsseln im Präsens",
+     "vi": "Các nhà phát triển mã hóa tất cả tin nhắn tự động từ đầu cuối đến đầu cuối.",
+     "explain": "Động từ 'verschlüsseln' (mã hóa dữ liệu)."
+    },
+    {
+     "type": "gap",
+     "text": "Gestern sprach ich mit Herrn Müller über den Vertrag des ___ .",
+     "answers": [
+      "Kunden"
+     ],
+     "hint": "der Kunde im Genitiv (n-Deklination)",
+     "vi": "Hôm qua tôi đã nói chuyện với ông Müller về hợp đồng của người khách hàng.",
+     "explain": "Genitiv của danh từ n-Deklination 'der Kunde' là 'des Kunden'."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Wir",
+      "werden",
+      "morgen",
+      "das",
+      "neue",
+      "Betriebssystem",
+      "auf",
+      "allen",
+      "Computern",
+      "installieren"
+     ],
+     "answer": "Wir werden morgen das neue Betriebssystem auf allen Computern installieren.",
+     "answers": [
+      "Wir werden morgen das neue Betriebssystem auf allen Computern installieren.",
+      "Morgen werden wir das neue Betriebssystem auf allen Computern installieren."
+     ],
+     "vi": "Ngày mai chúng tôi sẽ cài đặt hệ điều hành mới trên tất cả máy tính."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Der",
+      "Chef",
+      "half",
+      "dem",
+      "neuen",
+      "Praktikanten",
+      "bei",
+      "der",
+      "Einrichtung"
+     ],
+     "answer": "Der Chef half dem neuen Praktikanten bei der Einrichtung.",
+     "answers": [
+      "Der Chef half dem neuen Praktikanten bei der Einrichtung.",
+      "Dem neuen Praktikanten half der Chef bei der Einrichtung."
+     ],
+     "vi": "Sếp đã giúp cậu thực tập sinh mới trong việc cài đặt máy."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Der",
+      "Techniker",
+      "wird",
+      "die",
+      "Sicherheitslücke",
+      "wohl",
+      "bald",
+      "schließen"
+     ],
+     "answer": "Der Techniker wird die Sicherheitslücke wohl bald schließen.",
+     "answers": [
+      "Der Techniker wird die Sicherheitslücke wohl bald schließen.",
+      "Die Sicherheitslücke wird der Techniker wohl bald schließen."
+     ],
+     "vi": "Kỹ thuật viên có lẽ sẽ sớm vá lỗ hổng bảo mật."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Ich",
+      "werde",
+      "die",
+      "wichtigen",
+      "Daten",
+      "heute",
+      "Abend",
+      "sichern"
+     ],
+     "answer": "Ich werde die wichtigen Daten heute Abend sichern.",
+     "answers": [
+      "Ich werde die wichtigen Daten heute Abend sichern.",
+      "Heute Abend werde ich die wichtigen Daten sichern."
+     ],
+     "vi": "Tối nay tôi sẽ sao lưu các dữ liệu quan trọng."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Experten",
+      "hegen",
+      "große",
+      "Zweifel",
+      "an",
+      "der",
+      "Echtheit",
+      "des",
+      "Videos"
+     ],
+     "answer": "Experten hegen große Zweifel an der Echtheit des Videos.",
+     "answers": [
+      "Experten hegen große Zweifel an der Echtheit des Videos.",
+      "An der Echtheit des Videos hegen Experten große Zweifel."
+     ],
+     "vi": "Các chuyên gia nuôi dưỡng mối hoài nghi lớn về tính chân thực của video."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Bitte",
+      "leiten",
+      "Sie",
+      "die",
+      "E-Mail",
+      "an",
+      "den",
+      "Kollegen",
+      "weiter"
+     ],
+     "answer": "Bitte leiten Sie die E-Mail an den Kollegen weiter.",
+     "answers": [
+      "Bitte leiten Sie die E-Mail an den Kollegen weiter.",
+      "Leiten Sie bitte die E-Mail an den Kollegen weiter."
+     ],
+     "vi": "Xin vui lòng chuyển tiếp email cho người đồng nghiệp."
+    },
+    {
+     "type": "translate",
+     "vi": "Tuần tới tôi sẽ mua một chiếc điện thoại thông minh mới.",
+     "answers": [
+      "Nächste Woche werde ich ein neues Smartphone kaufen.",
+      "Ich werde nächste Woche ein neues Smartphone kaufen."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Có lẽ anh ấy vẫn đang ở văn phòng.",
+     "answers": [
+      "Er wird wohl noch im Büro sein.",
+      "Er wird wahrscheinlich noch im Büro sein."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Tôi đã giúp người đồng nghiệp mới của mình.",
+     "answers": [
+      "Ich habe meinem neuen Kollegen geholfen.",
+      "Ich half meinem neuen Kollegen."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Bạn bắt buộc phải tạo một bản sao lưu dữ liệu.",
+     "answers": [
+      "Sie müssen ein Backup erstellen.",
+      "Du musst ein Backup erstellen."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Họ đã chuyển tiếp thông tin cho người khách hàng.",
+     "answers": [
+      "Sie leiteten die Information an den Kunden weiter.",
+      "Sie haben die Information an den Kunden weitergeleitet."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Ứng dụng này rất thân thiện với người dùng.",
+     "answers": [
+      "Diese App ist sehr benutzerfreundlich.",
+      "Diese Anwendung ist sehr benutzerfreundlich."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Nächste Woche werden wir alle wichtigen Dateien auf einer externen Festplatte sichern.",
+     "vi": "Tuần tới chúng tôi sẽ sao lưu toàn bộ các tệp quan trọng lên một ổ cứng gắn ngoài."
+    },
+    {
+     "type": "listen",
+     "de": "Der IT-Spezialist erklärte dem neuen Kollegen die Funktionen des Betriebssystems.",
+     "vi": "Chuyên gia IT đã giải thích cho người đồng nghiệp mới các chức năng của hệ điều hành."
+    },
+    {
+     "type": "listen",
+     "de": "Öffnen Sie niemals den Anhang einer verdächtigen E-Mail von einem unbekannten Absender.",
+     "vi": "Đừng bao giờ mở tệp đính kèm của một email đáng ngờ từ người gửi không quen biết."
+    },
+    {
+     "type": "listen",
+     "de": "Moderne Messenger verschlüsseln alle Nachrichten lückenlos, um die Privatsphäre zu schützen.",
+     "vi": "Các ứng dụng nhắn tin hiện đại mã hóa toàn bộ tin nhắn để bảo vệ sự riêng tư."
+    },
+    {
+     "type": "speak",
+     "de": "Ich werde dem Praktikanten morgen bei der Einrichtung des Laptops helfen.",
+     "vi": "Ngày mai tôi sẽ giúp cậu thực tập sinh trong việc cài đặt máy tính xách tay."
+    },
+    {
+     "type": "speak",
+     "de": "Der Techniker wird die Sicherheitslücke im Firmennetzwerk wohl bald schließen.",
+     "vi": "Kỹ thuật viên có lẽ sẽ sớm vá lỗ hổng bảo mật trong mạng công ty."
+    },
+    {
+     "type": "speak",
+     "de": "Wir müssen stets kritisch bleiben und verdächtige Nachrichten im Netz überprüfen.",
+     "vi": "Chúng ta phải luôn có óc phản biện và kiểm tra những tin tức đáng ngờ trên mạng."
+    },
+    {
+     "type": "speak",
+     "de": "Eine wöchentliche Datensicherung schützt zuverlässig vor unerwartetem Datenverlust.",
+     "vi": "Việc sao lưu dữ liệu hàng tuần bảo vệ đáng tin cậy trước nguy cơ mất dữ liệu bất ngờ."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "der Kollege",
+       "người đồng nghiệp nam"
+      ],
+      [
+       "der Kunde",
+       "người khách hàng nam"
+      ],
+      [
+       "der Praktikant",
+       "cậu thực tập sinh"
+      ],
+      [
+       "die Sicherheitslücke",
+       "lỗ hổng bảo mật"
+      ],
+      [
+       "das Betriebssystem",
+       "hệ điều hành"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "ein Backup erstellen",
+       "tạo bản sao lưu"
+      ],
+      [
+       "eine App installieren",
+       "cài đặt ứng dụng"
+      ],
+      [
+       "das Passwort zurücksetzen",
+       "đặt lại mật khẩu"
+      ],
+      [
+       "Zweifel hegen",
+       "nuôi dưỡng mối hoài nghi"
+      ],
+      [
+       "im Internet recherchieren",
+       "tra cứu trên mạng"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });

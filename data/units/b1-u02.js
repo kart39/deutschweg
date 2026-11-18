@@ -2057,6 +2057,986 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b1-u02-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Tổng hợp đại từ quan hệ (Relativpronomen) đầy đủ 4 cách\n\nMệnh đề quan hệ (Relativsatz) bổ nghĩa cho một danh từ hoặc đại từ đứng trước. Giống và số của đại từ quan hệ được quyết định bởi **từ mà nó thay thế**, còn **cách (Kasus)** do vai trò ngữ pháp của nó trong mệnh đề quan hệ quyết định.\n\n| Cách (Kasus) | Giống đực (Maskulin) | Giống trung (Neutral) | Giống cái (Feminin) | Số nhiều (Plural) |\n| :--- | :--- | :--- | :--- | :--- |\n| **Nominativ** | der | das | die | die |\n| **Akkusativ** | den | das | die | die |\n| **Dativ** | dem | dem | der | **denen** |\n| **Genitiv** | **dessen** | **dessen** | **deren** | **deren** |\n\n### Lưu ý đặc biệt về hình thức:\n- Dativ số nhiều là {{denen}} (KHÔNG PHẢI *den* hay *die*): {{Die Kollegen, denen ich helfe, sind sehr nett.}}\n- Genitiv có hai dạng duy nhất: {{dessen}} (đực, trung) và {{deren}} (cái, số nhiều). Danh từ đi sau {{dessen/deren}} **không có mạo từ**: {{Der Chef, dessen Büro im ersten Stock liegt, ist heute krank.}}\n\n## 2. Mệnh đề quan hệ đi với giới từ (Relativsätze mit Präpositionen)\n\nKhi động từ hoặc tính từ trong mệnh đề quan hệ đòi hỏi một giới từ cố định, **giới từ bắt buộc phải đứng ngay trước đại từ quan hệ**. Giới từ đó sẽ chi phối cách của đại từ quan hệ:\n\n- Giới từ + Dativ: {{Der Abteilungsleiter, mit dem ich das Gehalt verhandelt habe, war sehr fair.}}\n- Giới từ + Akkusativ: {{Das neue Projekt, für das wir Überstunden machen, ist sehr wichtig.}}\n- Giới từ hai cách (Wechselpräpositionen): {{Das Büro, in dem wir täglich arbeiten, ist modern eingerichtet.}}\n\n## 3. Đại từ quan hệ đặc biệt: \"was\" và \"wo\"\n\n| Từ thay thế | Quy tắc sử dụng | Ví dụ minh họa |\n| :--- | :--- | :--- |\n| **was** | Thay cho đại từ bất định (alles, nichts, etwas, vieles) hoặc tính từ so sánh nhất dạng danh từ hóa (das Beste, das Neueste) | {{Das ist alles, was wir heute besprechen müssen.}} |\n| **was** | Thay thế cho **toàn bộ nội dung của mệnh đề đứng trước** | {{Er hat die Probezeit bestanden, was uns alle sehr freut.}} |\n| **wo** | Thay cho cụm giới từ chỉ nơi chốn (in dem / in der / an dem) | {{Die Firma, wo (= in der) mein Bruder arbeitet, sucht neue Fachkräfte.}} |\n\n## 4. 6 lỗi điển hình người Việt hay mắc (✗ → ✓)\n\n### Lỗi 1: Dùng sai đại từ quan hệ Dativ số nhiều\n- ✗ *Die Kollegen, die ich gedankt habe, waren sehr hilfsbereit.*\n- ✓ {{Die Kollegen, denen ich gedankt habe, waren sehr hilfsbereit.}}\n- *Giải thích:* Động từ {{danken}} đòi Dativ (+ Dat). Với danh từ số nhiều {{die Kollegen}}, đại từ quan hệ ở Dativ bắt buộc là {{denen}}.\n\n### Lỗi 2: Thêm mạo từ sau dessen/deren\n- ✗ *Die Kollegin, deren die Präsentation so gut war, wurde befördert.*\n- ✓ {{Die Kollegin, deren Präsentation so gut war, wurde befördert.}}\n- *Giải thích:* Sau {{dessen}} hoặc {{deren}}, danh từ sở hữu đi liền kề **tuyệt đối không có mạo từ** (der/die/das).\n\n### Lỗi 3: Đặt giới từ ở cuối câu như trong tiếng Anh\n- ✗ *Der Kollege, den ich gestern gesprochen mit habe, ist krank.*\n- ✓ {{Der Kollege, mit dem ich gestern gesprochen habe, ist krank.}}\n- *Giải thích:* Trong tiếng Đức, giới từ phải đứng **ngay trước đại từ quan hệ**, không bao giờ đặt tách rời ở cuối câu.\n\n### Lỗi 4: Dùng \"das\" thay vì \"was\" sau đại từ bất định\n- ✗ *Er erzählte uns alles, das er im Vorstellungsgespräch gehört hatte.*\n- ✓ {{Er erzählte uns alles, was er im Vorstellungsgespräch gehört hatte.}}\n- *Giải thích:* Sau {{alles}}, {{etwas}}, {{nichts}}, {{vieles}}, đại từ quan hệ bắt buộc phải là {{was}}.\n\n### Lỗi 5: Quên đưa động từ chia về cuối mệnh đề quan hệ\n- ✗ *Der Vertrag, den unterschrieb ich gestern, ist unbefristet.*\n- ✓ {{Der Vertrag, den ich gestern unterschrieb, ist unbefristet.}}\n- *Giải thích:* Mệnh đề quan hệ là mệnh đề phụ (Nebensatz), động từ chia (konjugiertes Verb) bắt buộc phải đứng ở vị trí cuối cùng.\n\n### Lỗi 6: Dùng nhầm dessen thay vì deren cho danh từ giống cái hoặc số nhiều\n- ✗ *Die Firma, dessen Produkte weltweit bekannt sind, expandiert.*\n- ✓ {{Die Firma, deren Produkte weltweit bekannt sind, expandiert.}}\n- *Giải thích:* {{Die Firma}} là danh từ giống cái, đại từ sở hữu quan hệ ở Genitiv phải là {{deren}}, không dùng {{dessen}}.\n\n## 5. Ví dụ củng cố bổ sung\n- {{Der Arbeitsvertrag, den sie unterschrieben hat, garantiert dreißig Tage Urlaub.}} (Hợp đồng lao động mà cô ấy đã ký đảm bảo ba mươi ngày nghỉ phép.)\n- {{Die Weiterbildung, an der er teilnimmt, eröffnet neue Aufstiegschancen.}} (Khóa đào tạo nâng cao mà anh ấy tham gia mở ra những cơ hội thăng tiến mới.)\n- {{Frau Müller ist eine Vorgesetzte, auf die man sich immer verlassen kann.}} (Bà Müller là một cấp trên mà người ta luôn có thể tin cậy.)\n- {{Das angenehme Arbeitsklima, von dem alle schwärmen, motiviert das gesamte Team.}} (Bầu không khí làm việc dễ chịu mà mọi người đều ca ngợi tiếp thêm động lực cho toàn đội ngũ.)\n- {{Er erledigte alle Aufgaben pünktlich, was die Teamleitung sehr schätzte.}} (Anh ấy đã hoàn thành mọi nhiệm vụ đúng hạn, điều mà ban lãnh đạo nhóm rất trân trọng.)\n",
+   "vocab": [
+    {
+     "de": "Arbeitsvertrag",
+     "article": "der",
+     "plural": "Arbeitsverträge",
+     "pos": "noun",
+     "ipa": "ˈaʁbaɪ̯tsfɛɐ̯ˌtʁaːk",
+     "vi": "hợp đồng lao động",
+     "example": "Vor Arbeitsbeginn muss der schriftliche Arbeitsvertrag von beiden Seiten unterzeichnet werden.",
+     "exampleVi": "Trước khi bắt đầu làm việc, hợp đồng lao động bằng văn bản phải được hai bên ký kết."
+    },
+    {
+     "de": "Probezeit",
+     "article": "die",
+     "plural": "Probezeiten",
+     "pos": "noun",
+     "ipa": "ˈpʁoːbəˌtsaɪ̯t",
+     "vi": "thời gian thử việc",
+     "example": "In Deutschland dauert die vereinbarte Probezeit meistens bis zu sechs Monate.",
+     "exampleVi": "Ở Đức, thời gian thử việc đã thỏa thuận thường kéo dài tối đa sáu tháng."
+    },
+    {
+     "de": "Gehalt",
+     "article": "das",
+     "plural": "Gehälter",
+     "pos": "noun",
+     "ipa": "ɡəˈhalt",
+     "vi": "tiền lương hàng tháng (của nhân viên)",
+     "example": "Das Gehalt wird am Monatsende pünktlich auf das Bankkonto überwiesen.",
+     "exampleVi": "Tiền lương được chuyển khoản đúng hạn vào tài khoản ngân hàng vào cuối tháng."
+    },
+    {
+     "de": "Gehaltserhöhung",
+     "article": "die",
+     "plural": "Gehaltserhöhungen",
+     "pos": "noun",
+     "ipa": "ɡəˈhaltsʔɛɐ̯ˌhøːʊŋ",
+     "vi": "việc tăng lương, mức tăng lương",
+     "example": "Nach dem erfolgreichen Jahresgespräch bat sie um eine angemessene Gehaltserhöhung.",
+     "exampleVi": "Sau cuộc trao đổi đánh giá cuối năm thành công, cô ấy đã xin tăng lương thỏa đáng."
+    },
+    {
+     "de": "Festanstellung",
+     "article": "die",
+     "plural": "Festanstellungen",
+     "pos": "noun",
+     "ipa": "ˈfɛstʔanˌʃtɛlʊŋ",
+     "vi": "hợp đồng dài hạn / vị trí công việc chính thức cố định",
+     "example": "Nach zwei befristeten Verträgen erhielt er endlich eine unbefristete Festanstellung.",
+     "exampleVi": "Sau hai hợp đồng có thời hạn, cuối cùng anh ấy đã nhận được một công việc chính thức vô thời hạn."
+    },
+    {
+     "de": "Betriebsrat",
+     "article": "der",
+     "plural": "Betriebsräte",
+     "pos": "noun",
+     "ipa": "bəˈtʁiːpsˌʁaːt",
+     "vi": "hội đồng xí nghiệp, đại diện người lao động tại cơ sở",
+     "example": "Der Betriebsrat vertritt die Interessen der gesamten Belegschaft gegenüber der Geschäftsleitung.",
+     "exampleVi": "Hội đồng xí nghiệp đại diện cho quyền lợi của toàn thể nhân viên trước ban giám đốc."
+    },
+    {
+     "de": "Fortbildung",
+     "article": "die",
+     "plural": "Fortbildungen",
+     "pos": "noun",
+     "ipa": "ˈfɔʁtˌbɪldʊŋ",
+     "vi": "khóa đào tạo nâng cao chuyên môn",
+     "example": "Das Unternehmen finanziert regelmäßig fachliche Fortbildungen für seine Mitarbeiter.",
+     "exampleVi": "Công ty thường xuyên đài thọ các khóa đào tạo nâng cao chuyên môn cho nhân viên."
+    },
+    {
+     "de": "Arbeitsklima",
+     "article": "das",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈaʁbaɪ̯tsˌkliːma",
+     "vi": "bầu không khí làm việc, môi trường tinh thần ở chỗ làm",
+     "example": "Ein offenes und faires Arbeitsklima steigert die Motivation der Beschäftigten.",
+     "exampleVi": "Một môi trường làm việc cởi mở và công bằng giúp nâng cao động lực của người lao động."
+    },
+    {
+     "de": "Kündigungsfrist",
+     "article": "die",
+     "plural": "Kündigungsfristen",
+     "pos": "noun",
+     "ipa": "ˈkʏndɪɡʊŋsˌfʁɪst",
+     "vi": "thời hạn báo trước khi chấm dứt hợp đồng lao động",
+     "example": "Laut Arbeitsvertrag beträgt die gesetzliche Kündigungsfrist vier Wochen zum Monatsende.",
+     "exampleVi": "Theo hợp đồng lao động, thời hạn báo trước chấm dứt hợp đồng theo luật là bốn tuần tính đến cuối tháng."
+    },
+    {
+     "de": "Urlaubsanspruch",
+     "article": "der",
+     "plural": "Urlaubsansprüche",
+     "pos": "noun",
+     "ipa": "ˈuːɐ̯laʊ̯psʔanˌʃpʁʊx",
+     "vi": "quyền lợi ngày nghỉ phép năm",
+     "example": "Jeder Vollzeitbeschäftigte hat einen gesetzlichen Urlaubsanspruch von mindestens zwanzig Arbeitstagen.",
+     "exampleVi": "Mỗi nhân viên làm việc toàn thời gian đều có quyền lợi nghỉ phép theo luật ít nhất hai mươi ngày làm việc."
+    },
+    {
+     "de": "Überstunde",
+     "article": "die",
+     "plural": "Überstunden",
+     "pos": "noun",
+     "ipa": "ˈyːbɐˌʃtʊndə",
+     "vi": "giờ làm thêm, giờ tăng ca",
+     "example": "Wegen der dringenden Frist mussten alle Teammitglieder mehrere Überstunden leisten.",
+     "exampleVi": "Vì thời hạn gấp rút, tất cả thành viên trong nhóm đã phải làm thêm nhiều giờ."
+    },
+    {
+     "de": "Schichtarbeit",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈʃɪçtʔaʁˌbaɪ̯t",
+     "vi": "việc làm việc theo ca kíp",
+     "example": "Regelmäßige Schichtarbeit kann den natürlichen Schlafrhythmus stark belasten.",
+     "exampleVi": "Làm việc theo ca thường xuyên có thể gây áp lực lớn lên nhịp ngủ tự nhiên."
+    },
+    {
+     "de": "Arbeitsplatz",
+     "article": "der",
+     "plural": "Arbeitsplätze",
+     "pos": "noun",
+     "ipa": "ˈaʁbaɪ̯tsˌplats",
+     "vi": "nơi làm việc, chỗ làm, vị trí việc làm",
+     "example": "Ein ergonomisch eingerichteter Arbeitsplatz schützt vor Rückenschmerzen.",
+     "exampleVi": "Một chỗ làm việc được bố trí công thái học giúp phòng tránh đau lưng."
+    },
+    {
+     "de": "Aufstiegschance",
+     "article": "die",
+     "plural": "Aufstiegschancen",
+     "pos": "noun",
+     "ipa": "ˈaʊ̯fʃtiːksˌʃɑ̃ːsə",
+     "vi": "cơ hội thăng tiến trong nghề nghiệp",
+     "example": "In dieser wachsenden IT-Firma hat man ausgezeichnete Aufstiegschancen.",
+     "exampleVi": "Tại công ty công nghệ thông tin đang phát triển này, người ta có cơ hội thăng tiến tuyệt vời."
+    },
+    {
+     "de": "einen Vertrag abschließen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nən fɛɐ̯ˈtʁaːk ˈapˌʃliːsn̩",
+     "vi": "ký kết một hợp đồng",
+     "example": "Nach zähen Verhandlungen konnten beide Parteien einen fairen Vertrag abschließen.",
+     "exampleVi": "Sau những cuộc thương lượng căng thẳng, hai bên đã có thể ký kết một hợp đồng công bằng."
+    },
+    {
+     "de": "Verantwortung tragen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "fɛɐ̯ˈʔantvɔʁtʊŋ ˈtʁaːɡn̩",
+     "vi": "gánh vác trách nhiệm",
+     "example": "Als Projektleiter muss man für das gesamte Budget die Verantwortung tragen.",
+     "exampleVi": "Là người quản lý dự án, người ta phải gánh vác trách nhiệm đối với toàn bộ ngân sách."
+    },
+    {
+     "de": "ein Gehalt verhandeln",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "aɪ̯n ɡəˈhalt fɛɐ̯ˈhandl̩n",
+     "vi": "thương lượng, đàm phán mức lương",
+     "example": "Es lohnt sich, vor dem Gespräch zu überlegen, wie man das Gehalt geschickt verhandeln kann.",
+     "exampleVi": "Rất đáng để cân nhắc trước cuộc phỏng vấn cách đàm phán mức lương một cách khéo léo."
+    },
+    {
+     "de": "Überstunden abbauen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈyːbɐˌʃtʊndn̩ ˈapˌbaʊ̯ən",
+     "vi": "nghỉ bù cho giờ làm thêm đã tích lũy",
+     "example": "Am kommenden Freitag möchte ich Überstunden abbauen und früher nach Hause gehen.",
+     "exampleVi": "Vào thứ Sáu tới tôi muốn nghỉ bù giờ làm thêm và về nhà sớm hơn."
+    },
+    {
+     "de": "zur Verfügung stehen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "tsuːɐ̯ fɛɐ̯ˈfyːɡʊŋ ˈʃteːən",
+     "vi": "sẵn sàng hỗ trợ, có sẵn để sử dụng",
+     "example": "Bei Fragen stehe ich Ihnen jederzeit gerne zur Verfügung.",
+     "exampleVi": "Nếu có thắc mắc, tôi luôn sẵn sàng hỗ trợ quý vị bất cứ lúc nào."
+    },
+    {
+     "de": "in Betracht ziehen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɪn bəˈtʁaxt ˈtsiːən",
+     "vi": "cân nhắc, tính đến điều gì",
+     "example": "Wir sollten auch flexible Teilzeitmodelle ernsthaft in Betracht ziehen.",
+     "exampleVi": "Chúng ta cũng nên nghiêm túc cân nhắc các mô hình làm việc bán thời gian linh hoạt."
+    },
+    {
+     "de": "kündigen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "kündigt, kündigte, hat gekündigt",
+     "ipa": "ˈkʏndɪɡn̩",
+     "vi": "xin thôi việc, chấm dứt hợp đồng (+ Dat / + Akk)",
+     "example": "Er kündigte seine alte Stelle, weil er ein besseres Angebot erhalten hatte.",
+     "exampleVi": "Anh ấy đã xin thôi công việc cũ vì đã nhận được một lời mời tốt hơn."
+    },
+    {
+     "de": "befördern",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "befördert, beförderte, hat befördert",
+     "ipa": "bəˈfœʁdɐn",
+     "vi": "thăng chức, đề bạt ai (+ Akk)",
+     "example": "Die Geschäftsführung beförderte sie aufgrund ihrer herausragenden Leistungen zur Teamleiterin.",
+     "exampleVi": "Ban giám đốc đã thăng chức cho cô ấy lên làm trưởng nhóm nhờ vào thành tích xuất sắc."
+    },
+    {
+     "de": "einstellen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "stellt ein, stellte ein, hat eingestellt",
+     "ipa": "ˈaɪ̯nˌʃtɛlən",
+     "vi": "tuyển dụng, nhận vào làm việc (+ Akk)",
+     "example": "Wegen der guten Auftragslage will das Unternehmen zehn neue Entwickler einstellen.",
+     "exampleVi": "Do tình hình đơn hàng tốt, công ty muốn tuyển dụng mười lập trình viên mới."
+    },
+    {
+     "de": "vereinbaren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "vereinbart, vereinbarte, hat vereinbart",
+     "ipa": "fɛɐ̯ˈʔaɪ̯nbaːʁən",
+     "vi": "thỏa thuận, thống nhất (điều khoản, lịch hẹn) (+ Akk)",
+     "example": "Im Arbeitsvertrag vereinbarten sie eine wöchentliche Arbeitszeit von vierzig Stunden.",
+     "exampleVi": "Trong hợp đồng lao động họ đã thỏa thuận thời gian làm việc hàng tuần là bốn mươi giờ."
+    },
+    {
+     "de": "beanspruchen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "beansprucht, beanspruchte, hat beansprucht",
+     "ipa": "bəˈʔanʃpʁʊxn̩",
+     "vi": "đòi hỏi, yêu cầu (thời gian, quyền lợi) (+ Akk)",
+     "example": "Dieses komplexe Projekt beansprucht meine gesamte Aufmerksamkeit.",
+     "exampleVi": "Dự án phức tạp này đòi hỏi toàn bộ sự chú ý của tôi."
+    },
+    {
+     "de": "befristet",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "bəˈfʁɪstət",
+     "vi": "có thời hạn, tạm thời",
+     "example": "Viele Berufseinsteiger erhalten leider zunächst nur einen befristeten Vertrag.",
+     "exampleVi": "Nhiều người mới đi làm đáng tiếc ban đầu chỉ nhận được một hợp đồng có thời hạn."
+    },
+    {
+     "de": "unbefristet",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈʊnbəˌfʁɪstət",
+     "vi": "không thời hạn, vĩnh viễn, lâu dài",
+     "example": "Ein unbefristetes Arbeitsverhältnis bietet finanzielle Sicherheit bei der Lebensplanung.",
+     "exampleVi": "Một mối quan hệ lao động không thời hạn mang lại sự an toàn tài chính khi lập kế hoạch cuộc sống."
+    },
+    {
+     "de": "kollegial",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "kɔleˈɡi̯aːl",
+     "vi": "có tinh thần đồng đội, hòa nhã, tương trợ đồng nghiệp",
+     "example": "Wir pflegen im Büro einen sehr offenen und kollegialen Umgangston.",
+     "exampleVi": "Chúng tôi duy trì một phong cách giao tiếp rất cởi mở và mang tinh thần tương trợ đồng đội trong văn phòng."
+    },
+    {
+     "de": "leistungsorientiert",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈlaɪ̯stʊŋsʔoʁiɛnˌtiːɐ̯t",
+     "vi": "hướng tới hiệu suất, chú trọng thành quả làm việc",
+     "example": "Das Vergütungssystem der Firma ist transparent und leistungsorientiert aufgebaut.",
+     "exampleVi": "Hệ thống đãi ngộ của công ty được xây dựng minh bạch và chú trọng vào hiệu suất."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Guten Morgen, Stefan! Wie verlief dein gestriges Jahresgespräch mit der Geschäftsleitung?",
+     "vi": "Chào buổi sáng, Stefan! Cuộc trò chuyện đánh giá năm qua của bạn với ban giám đốc diễn ra thế nào?"
+    },
+    {
+     "speaker": "B",
+     "name": "Stefan",
+     "de": "Hallo Mai! Es verlief wirklich hervorragend. Ich konnte endlich ein höheres Gehalt verhandeln, was mich riesig freut.",
+     "vi": "Chào Mai! Nó diễn ra thực sự xuất sắc. Cuối cùng mình đã có thể đàm phán mức lương cao hơn, điều làm mình vô cùng phấn khởi."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Herzlichen Glückwunsch! Ist dein Vertrag, dessen Befristung bald endete, nun auch unbefristet verlängert worden?",
+     "vi": "Xin chúc mừng bạn! Hợp đồng của bạn, vốn sắp hết hạn tạm thời, nay cũng được gia hạn vô thời hạn chứ?"
+    },
+    {
+     "speaker": "B",
+     "name": "Stefan",
+     "de": "Ja, genau. Der Abteilungsleiter, mit dem ich gesprochen habe, hat mir eine unbefristete Festanstellung zugesagt.",
+     "vi": "Đúng vậy. Vị trưởng phòng mà mình đã nói chuyện cùng đã cam kết cho mình một vị trí chính thức vô thời hạn."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Das ist großartig. Du hast in den letzten Monaten schließlich auch unzählige Überstunden geleistet.",
+     "vi": "Thật tuyệt vời. Dẫu sao thì trong mấy tháng qua bạn cũng đã làm thêm vô số giờ."
+    },
+    {
+     "speaker": "B",
+     "name": "Stefan",
+     "de": "Stimmt. Aber die Kollegen, denen ich damals bei der Softwareumstellung geholfen hatte, haben mich sehr unterstützt.",
+     "vi": "Đúng thế. Nhưng các đồng nghiệp mà mình đã giúp đỡ hồi chuyển đổi phần mềm cũng đã hỗ trợ mình rất nhiều."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Wir haben hier wirklich ein kollegiales Team, auf das man sich in jeder Phase verlassen kann.",
+     "vi": "Chúng ta thực sự có một đội ngũ hòa nhã, tương trợ ở đây, những người mà ta có thể tin cậy trong mọi giai đoạn."
+    },
+    {
+     "speaker": "B",
+     "name": "Stefan",
+     "de": "Gibt es eigentlich Neuigkeiten von der neuen Kollegin, deren Einarbeitung du übernommen hast?",
+     "vi": "Thế có tin tức gì mới về cô đồng nghiệp mới mà bạn đã nhận trách nhiệm hướng dẫn không?"
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Sie lernt sehr schnell. Das Projekt, an dem wir gemeinsam arbeiten, macht schon große Fortschritte.",
+     "vi": "Cô ấy học rất nhanh. Dự án mà chúng mình đang cùng hợp tác đã có nhiều bước tiến lớn."
+    },
+    {
+     "speaker": "B",
+     "name": "Stefan",
+     "de": "Hat sie denn ihre sechsmonatige Probezeit schon erfolgreich hinter sich gebracht?",
+     "vi": "Cô ấy đã vượt qua thành công sáu tháng thử việc chưa?"
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Noch nicht ganz, aber der Betriebsrat, der gestern tagte, hat ihrer Übernahme bereits zugestimmt.",
+     "vi": "Chưa hẳn, nhưng hội đồng xí nghiệp, cơ quan vừa họp hôm qua, đã đồng ý tiếp nhận cô ấy chính thức."
+    },
+    {
+     "speaker": "B",
+     "name": "Stefan",
+     "de": "Das freut mich sehr für sie. Ein stabiler Arbeitsplatz ist heute eine wichtige Grundlage für jede Lebensplanung.",
+     "vi": "Mình rất mừng cho cô ấy. Một công việc ổn định ngày nay là nền tảng quan trọng cho mọi kế hoạch cuộc sống."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Absolut. Ich werde jetzt mit ihr alles durchgehen, was für die nächste Kundenpräsentation vorbereitet werden muss.",
+     "vi": "Chắc chắn rồi. Bây giờ mình sẽ cùng cô ấy rà soát lại mọi thứ cần chuẩn bị cho buổi thuyết trình với khách hàng sắp tới."
+    },
+    {
+     "speaker": "B",
+     "name": "Stefan",
+     "de": "Viel Erfolg dabei! Wenn ihr Unterstützung braucht, wisst ihr ja, wo ihr mich finden könnt.",
+     "vi": "Chúc hai người nhiều thành công! Nếu cần hỗ trợ, các bạn biết là có thể tìm thấy mình ở đâu rồi đấy."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Danke, Stefan! Es ist immer beruhigend zu wissen, dass du uns zur Verfügung stehst.",
+     "vi": "Cảm ơn Stefan! Luôn thật yên tâm khi biết rằng bạn sẵn sàng hỗ trợ chúng mình."
+    }
+   ],
+   "reading": {
+    "title": "Die moderne Arbeitskultur: Zwischen Flexibilität und Verantwortung",
+    "text": "Die moderne Arbeitswelt befindet sich gegenwärtig in einem tiefgreifenden und rasanten Wandel, der sowohl von engagierten Arbeitgebern als auch von qualifizierten Beschäftigten ein hohes Maß an Anpassungsfähigkeit erfordert. Früher galt ein traditioneller Arbeitsvertrag mit festen Bürozeiten und einer lebenslangen Beschäftigung bei einem einzigen Unternehmen als das unangefochtene berufliche Ideal für die meisten Menschen in Deutschland. Heutzutage hingegen stehen individuelle Flexibilität, eine ausgewogene Work-Life-Balance und kontinuierliche fachliche Fortbildung ganz oben auf der Prioritätenliste vieler moderner Fachkräfte.\n\nBesonders junge Berufstätige suchen heute gezielt nach fortschrittlichen Arbeitgebern, deren Firmenkultur durch ein offenes, faires und kollegiales Arbeitsklima geprägt ist. Sie möchten mit Begeisterung in dynamischen Projekten mitwirken, für die sie eigenständig Verantwortung tragen dürfen und bei denen ihre persönlichen Stärken optimal gefördert werden. Gleichzeitig erwarten viele Angestellte heute moderne und flexible Arbeitszeitmodelle, die es ihnen erlauben, geleistete Überstunden zeitnah abzubauen oder regelmäßig mehrere Tage pro Woche im Homeoffice zu arbeiten. Diese flexiblen Rahmenbedingungen ermöglichen es vor allem jungen Berufstätigen mit Kindern, berufliche Verpflichtungen und familiäre Betreuungsaufgaben wesentlich harmonischer und stressfreier miteinander zu vereinbaren.\n\nAllerdings bringt diese zunehmende Entgrenzung der täglichen Arbeit auch neue psychische Herausforderungen mit sich, die von Experten kritisch diskutiert werden. Wenn das private Wohnzimmer dauerhaft zum Büroarbeitsplatz wird, fällt es vielen Beschäftigten schwer, nach offiziellem Feierabend gedanklich abzuschalten und echte seelische Erholung zu finden. Die ständige digitale Erreichbarkeit über Laptop und Smartphone führt nicht selten zu einer schleichenden Überlastung, vor der Betriebsräte und Arbeitsmediziner seit Jahren immer wieder eindringlich warnen.\n\nUm diesen gesundheitlichen Risiken wirksam und nachhaltig zu begegnen, etablieren immer mehr zukunftsorientierte Unternehmen klare Betriebsvereinbarungen über Ruhezeiten und bieten gezielte Seminare zum Thema Stressbewältigung an. Denn eine wirklich gesunde Arbeitskultur bemisst sich letztlich nicht an der bloßen körperlichen Anwesenheit am Schreibtisch, sondern an der echten Zufriedenheit, Gesundheit und Leistungsfähigkeit der Mitarbeiterinnen und Mitarbeiter. Wer ein leistungsorientiertes Umfeld schaffen will, in dem Menschen gerne arbeiten, muss ihnen Vertrauen schenken und faire Aufstiegschancen bieten.",
+    "vi": "Thế giới công việc hiện đại ngày nay đang trải qua một sự chuyển mình sâu sắc và nhanh chóng, đòi hỏi mức độ thích ứng rất cao từ cả giới chủ doanh nghiệp tận tâm lẫn đội ngũ nhân viên lành nghề. Trước đây, một hợp đồng lao động truyền thống với giờ làm việc hành chính cố định và sự gắn bó trọn đời tại một công ty duy nhất từng được coi là lý tưởng nghề nghiệp không thể bàn cãi của phần lớn người dân tại Đức. Ngược lại ngày nay, tính linh hoạt cá nhân, sự cân bằng hài hòa giữa công việc và đời sống cùng việc đào tạo nâng cao chuyên môn liên tục luôn đứng đầu trong danh sách ưu tiên của nhiều chuyên gia hiện đại.\n\nĐặc biệt, những người đi làm trẻ tuổi ngày nay luôn chủ động tìm kiếm những nhà tuyển dụng tiến bộ có văn hóa doanh nghiệp mang đậm bầu không khí làm việc cởi mở, công bằng và hòa nhã. Họ mong muốn được cống hiến đầy hứng khởi trong những dự án năng động mà ở đó họ được tự chủ gánh vác trách nhiệm và nơi mà các thế mạnh cá nhân được bồi dưỡng tối ưu. Đồng thời, nhiều nhân viên ngày nay kỳ vọng vào các mô hình giờ làm việc hiện đại và linh hoạt cho phép họ nghỉ bù kịp thời các giờ làm thêm hoặc làm việc đều đặn nhiều ngày mỗi tuần tại nhà. Những điều kiện khung linh hoạt này giúp đặc biệt là những người đi làm trẻ có con nhỏ có thể gắn kết trách nhiệm công việc và nghĩa vụ chăm sóc gia đình một cách hài hòa và ít căng thẳng hơn rất nhiều.\n\nTuy nhiên, sự xóa nhòa ranh giới công việc thường nhật ngày càng gia tăng này cũng kéo theo những thách thức tâm lý mới đang được các chuyên gia thảo luận sôi nổi. Khi phòng khách riêng tư trở thành nơi làm việc cố định, nhiều nhân viên cảm thấy khó khăn trong việc dứt ra khỏi suy nghĩ công việc sau giờ tan sở chính thức để tìm lại sự thư thái tinh thần thực sự. Việc luôn có thể liên lạc kỹ thuật số qua máy tính xách tay và điện thoại thông minh không hiếm khi dẫn tới sự quá tải âm thầm mà các hội đồng xí nghiệp cùng bác sĩ lao động đã liên tục cảnh báo khẩn thiết trong nhiều năm qua.\n\nĐể đối phó hiệu quả và bền vững với những rủi ro sức khỏe này, ngày càng nhiều doanh nghiệp hướng tới tương lai đang thiết lập các thỏa thuận rõ ràng về thời gian nghỉ ngơi và tổ chức các hội thảo chuyên đề về kiểm soát căng thẳng. Bởi vì một văn hóa làm việc thực sự lành mạnh rốt cuộc không được đo lường bằng việc chỉ đơn thuần có mặt thể xác tại bàn làm việc, mà bằng sự hài lòng đích thực, sức khỏe và năng lực cống hiến của đội ngũ nhân viên. Ai muốn tạo ra một môi trường chú trọng hiệu suất, nơi mọi người hứng khởi làm việc, thì phải trao cho họ niềm tin và những cơ hội thăng tiến công bằng.",
+    "glossary": [
+     {
+      "de": "Anpassungsfähigkeit",
+      "article": "die",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "ˈanpasʊŋsˌfɛːɪçkaɪ̯t",
+      "vi": "khả năng thích ứng linh hoạt",
+      "example": "In Krisenzeiten ist eine hohe Anpassungsfähigkeit von großem Nutzen.",
+      "exampleVi": "Trong thời kỳ khủng hoảng, khả năng thích ứng cao mang lại lợi ích rất lớn."
+     },
+     {
+      "de": "Work-Life-Balance",
+      "article": "die",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "ˈwœːɐ̯klaɪ̯fˌbalɑ̃ːs",
+      "vi": "sự cân bằng giữa công việc và đời sống cá nhân",
+      "example": "Eine gute Work-Life-Balance verhindert langfristig Burnout.",
+      "exampleVi": "Sự cân bằng tốt giữa công việc và đời sống giúp ngăn ngừa kiệt sức về lâu dài."
+     },
+     {
+      "de": "Entgrenzung",
+      "article": "die",
+      "plural": "Entgrenzungen",
+      "pos": "noun",
+      "ipa": "ɛntˈɡʁɛntsʊŋ",
+      "vi": "sự xóa nhòa ranh giới (giữa công việc và đời sống)",
+      "example": "Die Entgrenzung der Arbeitszeit birgt gesundheitliche Gefahren.",
+      "exampleVi": "Việc xóa nhòa ranh giới giờ làm việc tiềm ẩn những nguy cơ sức khỏe."
+     },
+     {
+      "de": "Ruhezeit",
+      "article": "die",
+      "plural": "Ruhezeiten",
+      "pos": "noun",
+      "ipa": "ˈʁuːəˌtsaɪ̯t",
+      "vi": "thời gian nghỉ ngơi theo quy định pháp luật",
+      "example": "Zwischen zwei Arbeitsschichten muss eine gesetzliche Ruhezeit von elf Stunden liegen.",
+      "exampleVi": "Giữa hai ca làm việc phải có thời gian nghỉ ngơi theo luật là mười một giờ."
+     },
+     {
+      "de": "Stressbewältigung",
+      "article": "die",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "ˈʃtʁɛsbəˌvɛltɪɡʊŋ",
+      "vi": "việc kiểm soát, giải tỏa căng thẳng",
+      "example": "Regelmäßige Bewegung im Freien trägt wesentlich zur aktiven Stressbewältigung bei.",
+      "exampleVi": "Vận động ngoài trời thường xuyên đóng góp đáng kể vào việc chủ động giải tỏa căng thẳng."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Was galt früher in Deutschland als das vorherrschende berufliche Ideal?",
+      "options": [
+       "Häufiger Arbeitgeberwechsel alle zwei Jahre.",
+       "Ein fester Arbeitsvertrag mit geregelten Bürozeiten und langfristiger Firmenbindung.",
+       "Ausschließlich selbstständige Tätigkeit auf Honorarbasis."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Was wünschen sich viele junge qualifizierte Fachkräfte heutzutage besonders?",
+      "options": [
+       "Nur noch Schichtarbeit in der Nacht zu leisten.",
+       "Vollständige Überwachung durch die Unternehmensleitung.",
+       "Flexibilität, eine ausgewogene Work-Life-Balance und kollegiale Zusammenarbeit."
+      ],
+      "answer": 2
+     },
+     {
+      "q": "Welche Gefahr bringt die dauerhafte Arbeit im Homeoffice mit sich?",
+      "options": [
+       "Dass man überhaupt keine digitalen Medien mehr bedienen kann.",
+       "Dass die Grenze zwischen Arbeit und Freizeit verschwimmt und Überlastung droht.",
+       "Dass der Urlaubsanspruch automatisch gestrichen wird."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Wovor warnen Betriebsräte und Arbeitsmediziner seit längerer Zeit?",
+      "options": [
+       "Vor den gesundheitlichen Risiken ständiger digitaler Erreichbarkeit.",
+       "Vor zu vielen bezahlten Fortbildungen für Angestellte.",
+       "Vor der Erhöhung der gesetzlichen Urlaubstage."
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Woran bemisst sich laut dem Text eine wahrhaft gesunde Arbeitskultur?",
+      "options": [
+       "An der maximalen Anzahl von Überstunden der Belegschaft.",
+       "Ausschließlich an der bloßen Anwesenheit am Schreibtisch.",
+       "An der nachhaltigen Zufriedenheit und Leistungsfähigkeit der Beschäftigten."
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "writing": {
+    "task": "Sie arbeiten seit sechs Monaten in einem deutschen Unternehmen. Schreiben Sie eine formelle E-Mail an Ihre Abteilungsleiterin, Frau Dr. Weber. Bedanken Sie sich für die Unterstützung während der Probezeit, bitten Sie um ein Gespräch bezüglich einer Festanstellung und schlagen Sie vor, an zwei Tagen pro Woche im Homeoffice zu arbeiten. (Bạn đã làm việc được sáu tháng tại một công ty của Đức. Hãy viết email trang trọng gửi cho trưởng phòng của bạn, bà Tiến sĩ Weber. Cảm ơn sự hỗ trợ trong thời gian thử việc, xin một cuộc hẹn trao đổi về hợp đồng chính thức và đề xuất làm việc tại nhà hai ngày mỗi tuần.)",
+    "minWords": 80,
+    "sample": "Sehr geehrte Frau Dr. Weber,\n\nda meine sechsmonatige Probezeit in der kommenden Woche erfolgreich endet, möchte ich mich ganz herzlich für Ihre wertvolle Unterstützung bedanken. Die Zusammenarbeit mit den Kolleginnen und Kollegen, die mich so freundlich eingearbeitet haben, bereitet mir große Freude.\n\nGerne würde ich mich in einem persönlichen Gespräch mit Ihnen über meine bisherigen Leistungen sowie die Bedingungen für eine unbefristete Festanstellung austauschen. Bei dieser Gelegenheit möchte ich auch vorschlagen, künftig an zwei Tagen pro Woche im Homeoffice zu arbeiten, was meine Arbeitsabläufe noch effizienter gestalten würde.\n\nIch freue mich über einen Terminvorschlag Ihrerseits und stehe Ihnen für Rückfragen jederzeit gerne zur Verfügung.\n\nMit freundlichen Grüßen\nLinh Nguyen"
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Welches Relativpronomen steht im Dativ Plural?",
+     "options": [
+      "die",
+      "den",
+      "denen",
+      "deren"
+     ],
+     "answer": 2,
+     "explain": "Đại từ quan hệ ở Dativ số nhiều bắt buộc là 'denen': 'die Kollegen, denen ich helfe'."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Der Kollege, ___ Büro neben meinem liegt, ist heute im Homeoffice.",
+     "options": [
+      "dessen",
+      "deren",
+      "dem",
+      "den"
+     ],
+     "answer": 0,
+     "explain": "'Der Kollege' là danh từ giống đực, sở hữu cách ở Genitiv dùng 'dessen'."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Das ist die Vorgesetzte, ___ Ideen das gesamte Team begeistern.",
+     "options": [
+      "dessen",
+      "deren",
+      "der",
+      "die"
+     ],
+     "answer": 1,
+     "explain": "'Die Vorgesetzte' là danh từ giống cái, sở hữu cách ở Genitiv dùng 'deren'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Relativpronomen folgt auf das Indefinitpronomen „alles“?",
+     "options": [
+      "das",
+      "was",
+      "welches",
+      "dem"
+     ],
+     "answer": 1,
+     "explain": "Sau các đại từ bất định như 'alles', 'etwas', 'nichts', đại từ quan hệ bắt buộc phải là 'was'."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie die richtige Präposition mit Relativpronomen: Das ist das Projekt, ___ wir seit Monaten intensiv arbeiten.",
+     "options": [
+      "an dem",
+      "an das",
+      "für den",
+      "über die"
+     ],
+     "answer": 0,
+     "explain": "Cụm động từ 'arbeiten an + Dativ'. Với danh từ giống trung 'das Projekt', dạng đúng là 'an dem'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet das Substantiv „der Betriebsrat“?",
+     "options": [
+      "Der Chef der Finanzabteilung",
+      "Die gewählte Vertretung der Arbeitnehmer im Betrieb",
+      "Ein externer Berater für Steuerfragen",
+      "Das Protokoll einer Vorstandssitzung"
+     ],
+     "answer": 1,
+     "explain": "'Der Betriebsrat' là hội đồng đại diện người lao động được bầu trong một doanh nghiệp."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Er hat die anspruchsvolle Probezeit bestanden, ___ uns alle sehr freut.",
+     "options": [
+      "das",
+      "was",
+      "wo",
+      "dessen"
+     ],
+     "answer": 1,
+     "explain": "Khi đại từ quan hệ thay thế cho toàn bộ sự việc ở mệnh đề trước, ta dùng 'was'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
+     "options": [
+      "Der Vertrag, mit dem ich bin unzufrieden, endet bald.",
+      "Der Vertrag, mit dem ich unzufrieden bin, endet bald.",
+      "Der Vertrag, dem ich mit unzufrieden bin, endet bald.",
+      "Der Vertrag, mit den ich unzufrieden bin, endet bald."
+     ],
+     "answer": 1,
+     "explain": "Giới từ 'mit' đi với Dativ ('mit dem'), và động từ chia 'bin' phải đứng ở cuối mệnh đề quan hệ."
+    },
+    {
+     "type": "mcq",
+     "q": "Was ist das Gegenteil von „ein befristeter Vertrag“?",
+     "options": [
+      "Ein gekündigter Vertrag",
+      "Ein unbefristeter Vertrag",
+      "Ein mündlicher Vertrag",
+      "Ein kurzer Vertrag"
+     ],
+     "answer": 1,
+     "explain": "Trái nghĩa với 'befristet' (có thời hạn) là 'unbefristet' (không thời hạn / vô thời hạn)."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Wortverbindung bedeutet „nghỉ bù cho giờ làm thêm“?",
+     "options": [
+      "Überstunden machen",
+      "Überstunden abbauen",
+      "Überstunden bezahlen",
+      "Überstunden verhandeln"
+     ],
+     "answer": 1,
+     "explain": "'Überstunden abbauen' là cụm cố định có nghĩa là nghỉ bù cho các giờ làm thêm đã tích lũy."
+    },
+    {
+     "type": "gap",
+     "text": "Die Kollegin, mit ___ ich das Büro teile, ist äußerst hilfsbereit.",
+     "answers": [
+      "der"
+     ],
+     "hint": "Relativpronomen im Dativ Feminin",
+     "vi": "Người đồng nghiệp nữ mà tôi chung văn phòng rất đỗi nhiệt tình giúp đỡ.",
+     "explain": "Giới từ 'mit' đòi Dativ, danh từ giống cái 'die Kollegin' chuyển thành 'der'."
+    },
+    {
+     "type": "gap",
+     "text": "Herr Weber ist ein Vorgesetzter, auf ___ man sich immer verlassen kann.",
+     "answers": [
+      "den"
+     ],
+     "hint": "Relativpronomen im Akkusativ Maskulin",
+     "vi": "Ông Weber là một cấp trên mà người ta luôn có thể tin cậy.",
+     "explain": "'sich verlassen auf + Akkusativ'. 'Herr Weber' là giống đực, dạng Akkusativ là 'den'."
+    },
+    {
+     "type": "gap",
+     "text": "Das ist wirklich das Beste, ___ mir in dieser Firma passieren konnte.",
+     "answers": [
+      "was"
+     ],
+     "hint": "Relativpronomen nach Superlativ",
+     "vi": "Đó thực sự là điều tuyệt vời nhất có thể xảy đến với tôi tại công ty này.",
+     "explain": "Sau tính từ so sánh nhất danh từ hóa ('das Beste'), đại từ quan hệ bắt buộc là 'was'."
+    },
+    {
+     "type": "gap",
+     "text": "Die Bewerber, ___ Unterlagen vollständig waren, wurden zum Gespräch eingeladen.",
+     "answers": [
+      "deren"
+     ],
+     "hint": "Relativpronomen im Genitiv Plural",
+     "vi": "Những ứng viên có hồ sơ đầy đủ đã được mời tới phỏng vấn.",
+     "explain": "'Die Bewerber' là số nhiều, sở hữu cách ở Genitiv là 'deren'."
+    },
+    {
+     "type": "gap",
+     "text": "Nach sechs Monaten erfolgreicher Probezeit erhielt er eine unbefristete ___ .",
+     "answers": [
+      "Festanstellung"
+     ],
+     "hint": "Nomen: die Festanstellung",
+     "vi": "Sau sáu tháng thử việc thành công, anh ấy đã nhận được một vị trí chính thức vô thời hạn.",
+     "explain": "Danh từ giống cái 'die Festanstellung' nghĩa là hợp đồng / vị trí chính thức lâu dài."
+    },
+    {
+     "type": "gap",
+     "text": "Die Mitarbeiter, ___ ich bei der Präsentation geholfen habe, bedankten sich herzlich.",
+     "answers": [
+      "denen"
+     ],
+     "hint": "Relativpronomen im Dativ Plural",
+     "vi": "Những nhân viên mà tôi đã giúp đỡ trong bài thuyết trình đã cảm ơn tôi chân thành.",
+     "explain": "'helfen + Dativ'. Danh từ số nhiều 'die Mitarbeiter' có đại từ quan hệ Dativ là 'denen'."
+    },
+    {
+     "type": "gap",
+     "text": "Wir pflegen im gesamten Team ein sehr angenehmes und offenes ___ .",
+     "answers": [
+      "Arbeitsklima"
+     ],
+     "hint": "Nomen: das Arbeitsklima",
+     "vi": "Chúng tôi duy trì trong toàn đội ngũ một bầu không khí làm việc rất dễ chịu và cởi mở.",
+     "explain": "Danh từ giống trung 'das Arbeitsklima' chỉ môi trường tinh thần ở nơi làm việc."
+    },
+    {
+     "type": "gap",
+     "text": "Die Firma, ___ mein Vater seit zwanzig Jahren arbeitet, expandiert nach Asien.",
+     "answers": [
+      "wo|in der"
+     ],
+     "hint": "wo oder Präposition + Relativpronomen",
+     "vi": "Công ty nơi bố tôi làm việc hai mươi năm qua đang mở rộng sang châu Á.",
+     "explain": "Chỉ nơi chốn có thể dùng 'wo' hoặc 'in der' ('die Firma')."
+    },
+    {
+     "type": "gap",
+     "text": "Bei Fragen stehe ich Ihnen jederzeit gerne zur ___ .",
+     "answers": [
+      "Verfügung"
+     ],
+     "hint": "feste Wendung: zur Verfügung stehen",
+     "vi": "Nếu có thắc mắc, tôi luôn sẵn sàng hỗ trợ quý vị bất cứ lúc nào.",
+     "explain": "Cụm thành ngữ cố định: 'zur Verfügung stehen' (sẵn sàng hỗ trợ, có sẵn)."
+    },
+    {
+     "type": "gap",
+     "text": "Der Arbeitsvertrag, ___ sie gestern unterschrieben hat, enthält dreißig Tage Urlaub.",
+     "answers": [
+      "den"
+     ],
+     "hint": "Relativpronomen im Akkusativ Maskulin",
+     "vi": "Hợp đồng lao động mà cô ấy đã ký hôm qua bao gồm ba mươi ngày nghỉ phép.",
+     "explain": "'Der Arbeitsvertrag' đóng vai trò tân ngữ Akkusativ của 'unterschrieben hat', nên đại từ là 'den'."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Der",
+      "Chef",
+      "mit",
+      "dem",
+      "ich",
+      "sprach",
+      "war",
+      "sehr",
+      "freundlich"
+     ],
+     "answer": "Der Chef mit dem ich sprach war sehr freundlich.",
+     "answers": [
+      "Der Chef mit dem ich sprach war sehr freundlich.",
+      "Sehr freundlich war der Chef mit dem ich sprach."
+     ],
+     "vi": "Vị sếp mà tôi đã nói chuyện cùng rất đỗi thân thiện."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Das",
+      "ist",
+      "alles",
+      "was",
+      "wir",
+      "heute",
+      "besprechen",
+      "müssen"
+     ],
+     "answer": "Das ist alles was wir heute besprechen müssen.",
+     "answers": [
+      "Das ist alles was wir heute besprechen müssen.",
+      "Alles was wir heute besprechen müssen ist das."
+     ],
+     "vi": "Đó là tất cả những gì chúng ta phải thảo luận ngày hôm nay."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Sie",
+      "erhielt",
+      "eine",
+      "Festanstellung",
+      "was",
+      "sie",
+      "sehr",
+      "glücklich",
+      "machte"
+     ],
+     "answer": "Sie erhielt eine Festanstellung was sie sehr glücklich machte.",
+     "answers": [
+      "Sie erhielt eine Festanstellung was sie sehr glücklich machte."
+     ],
+     "vi": "Cô ấy đã nhận được một công việc chính thức, điều khiến cô ấy rất hạnh phúc."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Die",
+      "Kollegen",
+      "denen",
+      "ich",
+      "vertraue",
+      "helfen",
+      "mir",
+      "immer"
+     ],
+     "answer": "Die Kollegen denen ich vertraue helfen mir immer.",
+     "answers": [
+      "Die Kollegen denen ich vertraue helfen mir immer.",
+      "Immer helfen mir die Kollegen denen ich vertraue."
+     ],
+     "vi": "Những đồng nghiệp mà tôi tin cậy luôn luôn giúp đỡ tôi."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Er",
+      "konnte",
+      "gestern",
+      "ein",
+      "deutlich",
+      "höheres",
+      "Gehalt",
+      "verhandeln"
+     ],
+     "answer": "Er konnte gestern ein deutlich höheres Gehalt verhandeln.",
+     "answers": [
+      "Er konnte gestern ein deutlich höheres Gehalt verhandeln.",
+      "Gestern konnte er ein deutlich höheres Gehalt verhandeln."
+     ],
+     "vi": "Hôm qua anh ấy đã có thể đàm phán một mức lương cao hơn rõ rệt."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Wir",
+      "müssen",
+      "diese",
+      "flexiblen",
+      "Modelle",
+      "in",
+      "Betracht",
+      "ziehen"
+     ],
+     "answer": "Wir müssen diese flexiblen Modelle in Betracht ziehen.",
+     "answers": [
+      "Wir müssen diese flexiblen Modelle in Betracht ziehen.",
+      "In Betracht ziehen müssen wir diese flexiblen Modelle."
+     ],
+     "vi": "Chúng ta phải cân nhắc những mô hình linh hoạt này."
+    },
+    {
+     "type": "translate",
+     "vi": "Người đồng nghiệp mà tôi làm việc cùng rất thân thiện.",
+     "answers": [
+      "Der Kollege, mit dem ich arbeite, ist sehr freundlich.",
+      "Die Kollegin, mit der ich arbeite, ist sehr freundlich."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Đó là tất cả những gì tôi có thể nói với bạn.",
+     "answers": [
+      "Das ist alles, was ich dir sagen kann.",
+      "Das ist alles, was ich Ihnen sagen kann."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Công ty mà anh ấy làm việc có cơ hội thăng tiến tốt.",
+     "answers": [
+      "Die Firma, bei der er arbeitet, hat gute Aufstiegschancen.",
+      "Die Firma, in der er arbeitet, bietet gute Aufstiegschancen.",
+      "Das Unternehmen, bei dem er arbeitet, hat gute Aufstiegschancen."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Anh ấy đã được thăng chức lên làm trưởng nhóm.",
+     "answers": [
+      "Er wurde zum Teamleiter befördert.",
+      "Man hat ihn zum Teamleiter befördert."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Vào thứ Sáu tôi muốn nghỉ bù giờ làm thêm.",
+     "answers": [
+      "Am Freitag möchte ich Überstunden abbauen.",
+      "Ich möchte am Freitag Überstunden abbauen."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Người sếp mà có văn phòng ở tầng hai hôm nay vắng mặt.",
+     "answers": [
+      "Der Chef, dessen Büro im zweiten Stock liegt, ist heute abwesend.",
+      "Der Chef, dessen Büro im zweiten Stock ist, fehlt heute."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Der Arbeitsvertrag, den ich gestern unterzeichnet habe, ist unbefristet.",
+     "vi": "Hợp đồng lao động mà tôi đã ký ngày hôm qua là hợp đồng vô thời hạn."
+    },
+    {
+     "type": "listen",
+     "de": "Die Kollegen, mit denen ich täglich zusammenarbeite, sind sehr hilfsbereit.",
+     "vi": "Những đồng nghiệp mà tôi làm việc cùng hàng ngày rất nhiệt tình giúp đỡ."
+    },
+    {
+     "type": "listen",
+     "de": "Er bat um ein Gespräch, um über eine mögliche Gehaltserhöhung zu verhandeln.",
+     "vi": "Anh ấy đã xin một cuộc hẹn để thương lượng về việc tăng lương tiềm năng."
+    },
+    {
+     "type": "listen",
+     "de": "Ein gutes Arbeitsklima ist für viele Beschäftigte wichtiger als ein hohes Gehalt.",
+     "vi": "Một môi trường làm việc tốt đối với nhiều nhân viên quan trọng hơn một mức lương cao."
+    },
+    {
+     "type": "speak",
+     "de": "Ich suche eine Stelle, bei der ich viel Verantwortung übernehmen kann.",
+     "vi": "Tôi đang tìm kiếm một vị trí mà ở đó tôi có thể gánh vác nhiều trách nhiệm."
+    },
+    {
+     "type": "speak",
+     "de": "Frau Weber ist eine Vorgesetzte, deren Unterstützung ich sehr schätze.",
+     "vi": "Bà Weber là một cấp trên mà sự ủng hộ của bà tôi rất trân trọng."
+    },
+    {
+     "type": "speak",
+     "de": "Nach der Probezeit wünsche ich mir eine feste und sichere Anstellung.",
+     "vi": "Sau thời gian thử việc, tôi mong muốn có một vị trí công việc chính thức và chắc chắn."
+    },
+    {
+     "type": "speak",
+     "de": "Wir sollten alle Optionen sorgfältig prüfen, bevor wir eine Entscheidung treffen.",
+     "vi": "Chúng ta nên xem xét cẩn thận mọi phương án trước khi đưa ra một quyết định."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "der Arbeitsvertrag",
+       "hợp đồng lao động"
+      ],
+      [
+       "die Probezeit",
+       "thời gian thử việc"
+      ],
+      [
+       "das Arbeitsklima",
+       "môi trường làm việc"
+      ],
+      [
+       "die Festanstellung",
+       "việc làm chính thức"
+      ],
+      [
+       "die Überstunde",
+       "giờ làm thêm"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "Überstunden abbauen",
+       "nghỉ bù giờ làm thêm"
+      ],
+      [
+       "Verantwortung tragen",
+       "gánh vác trách nhiệm"
+      ],
+      [
+       "ein Gehalt verhandeln",
+       "thương lượng mức lương"
+      ],
+      [
+       "in Betracht ziehen",
+       "cân nhắc tính đến"
+      ],
+      [
+       "zur Verfügung stehen",
+       "sẵn sàng hỗ trợ"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });

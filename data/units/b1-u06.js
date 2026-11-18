@@ -2068,6 +2068,987 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b1-u06-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Sở hữu cách Genitiv trong tiếng Đức\n\nSở hữu cách (Genitiv) trả lời cho câu hỏi: *Wessen? (Của ai? Của cái gì?)* và được dùng để chỉ mối quan hệ sở hữu, nguồn gốc hoặc thuộc tính của danh từ.\n\n| Giống (Genus) | Mạo từ xác định | Mạo từ không xác định | Đuôi của danh từ | Ví dụ minh họa |\n| :--- | :--- | :--- | :--- | :--- |\n| **Maskulin** | **des** | eines / meines | **-(e)s** | {{Die Skizze **des Malers** ist berühmt.}} |\n| **Neutral** | **des** | eines / meines | **-(e)s** | {{Die Fassade **des alten Museums** wird restauriert.}} |\n| **Feminin** | **der** | einer / meiner | *(không đổi)* | {{Die Inszenierung **der Premiere** begeisterte alle.}} |\n| **Plural** | **der** | – / meiner | *(không đổi)* | {{Die Werke **der zeitgenössischen Künstler** sind teuer.}} |\n\n### Quy tắc thêm đuôi \"-s\" hoặc \"-es\" ở giống đực và giống trung:\n1. **Bắt buộc thêm \"-es\":** Khi danh từ kết thúc bằng âm xuýt: **-s, -ss, -ß, -z, -tz, -x** (des Platzes, des Schlosses, des Denkmalschutzes).\n2. **Thường thêm \"-es\":** Với danh từ đơn âm tiết (des Bildes, des Werkes, des Tages, des Stückes).\n3. **Chỉ thêm \"-s\":** Với danh từ đa âm tiết kết thúc bằng nguyên âm không nhấn hoặc **-el, -en, -er** (des Ensembles, des Schauspielers, des Gemäldes).\n\n## 2. Các giới từ đi với Genitiv thông dụng nhất ở B1\n\n| Giới từ | Ý nghĩa | Ví dụ trong văn cảnh văn hóa |\n| :--- | :--- | :--- |\n| **wegen** | vì lý do, do nguyên nhân | {{Wegen **des starken Regens** fand das Konzert im Saal statt.}} |\n| **trotz** | bất chấp, mặc dù | {{Trotz **der hohen Ticketpreise** war die Oper vollkommen ausverkauft.}} |\n| **während** | trong suốt khoảng thời gian | {{Während **der spannenden Theateraufführung** herrschte absolute Stille.}} |\n| **statt / anstatt** | thay vì, thay cho | {{Statt **eines klassischen Konzerts** besuchten wir ein Freilichtmuseum.}} |\n| **innerhalb** | trong phạm vi (thời gian / không gian) | {{Innerhalb **eines Monats** besichtigte er drei historische Denkmäler.}} |\n| **außerhalb** | ngoài phạm vi (thời gian / không gian) | {{Außerhalb **der regulären Öffnungszeiten** sind keine Führungen möglich.}} |\n\n## 3. Khẩu ngữ vs. Văn phong chuẩn: Genitiv hay Dativ?\n- Trong văn nói thân mật hàng ngày, người Đức hay dùng *von + Dativ* (ví dụ: *das Bild von dem Künstler*) hoặc *wegen dem Wetter*.\n- Tuy nhiên, trong kỳ thi B1/B2 và văn phong viết trang trọng, **bắt buộc dùng Genitiv chuẩn xác**: {{das Bild des Künstlers}}, {{wegen des Wetters}}.\n\n## 4. 6 lỗi điển hình người Việt hay mắc (✗ → ✓)\n\n### Lỗi 1: Quên thêm đuôi -(e)s vào danh từ giống đực hoặc giống trung\n- ✗ *Die Restaurierung des Museum dauerte zwei Jahre.*\n- ✓ {{Die Restaurierung des Museums dauerte zwei Jahre.}}\n- *Giải thích:* Sau mạo từ Genitiv {{des}}, danh từ giống đực và giống trung **bắt buộc phải có đuôi -(e)s** ({{des Museums}}).\n\n### Lỗi 2: Nhầm lẫn mạo từ Genitiv giống cái với Dativ\n- ✗ *Während der spannenden Aufführung saßen die Zuschauer im Saal.* (đúng)\n- ✗ *Während die Aufführung saßen die Zuschauer im Saal.*\n- ✓ {{Während der spannenden Aufführung saßen die Zuschauer im Saal.}}\n- *Giải thích:* {{während}} đòi Genitiv. Với danh từ giống cái {{die Aufführung}}, mạo từ Genitiv là {{der}}, không giữ nguyên *die*.\n\n### Lỗi 3: Dùng mạo từ sở hữu kèm mạo từ xác định theo kiểu tiếng Việt\n- ✗ *Das Bild des mein Vater gefällt mir sehr.*\n- ✓ {{Das Bild meines Vaters gefällt mir sehr.}}\n- *Giải thích:* Trong tiếng Đức, mạo từ sở hữu đứng độc lập và tự nhận đuôi biến cách Genitiv ({{meines Vaters}}), không lồng hai mạo từ vào nhau.\n\n### Lỗi 4: Dùng Dativ thay vì Genitiv sau các giới từ wegen, trotz\n- ✗ *Trotz dem schlechten Wetter gingen wir zur Vernissage.*\n- ✓ {{Trotz des schlechten Wetters gingen wir zur Vernissage.}}\n- *Giải thích:* Trong văn viết chuẩn và bài thi Zertifikat B1, các giới từ {{trotz}}, {{wegen}}, {{während}}, {{statt}} đòi hỏi cách **Genitiv** ({{des schlechten Wetters}}).\n\n### Lỗi 5: Đặt sai vị trí của thành phần sở hữu Genitiv\n- ✗ *Des Malers das Meisterwerk hängt in Berlin.*\n- ✓ {{Das Meisterwerk des Malers hängt in Berlin.}}\n- *Giải thích:* Cụm danh từ Genitiv thường đứng **ngay sau** danh từ mà nó bổ nghĩa ({{Das Meisterwerk des Malers}}).\n\n### Lỗi 6: Quên đuôi của tính từ trong cụm Genitiv\n- ✗ *Wegen des stark Regen fiel die Freilichtaufführung aus.*\n- ✓ {{Wegen des starken Regens fiel die Freilichtaufführung aus.}}\n- *Giải thích:* Đuôi tính từ sau mạo từ xác định trong cách Genitiv luôn luôn là **-en** ({{des starken Regens}}).\n\n## 5. Ví dụ củng cố bổ sung\n- {{Das beeindruckende Kulturdenkmal steht seit vielen Jahren unter strengem Denkmalschutz.}} (Di tích văn hóa ấn tượng đã nằm dưới sự bảo tồn di tích nghiêm ngặt từ nhiều năm nay.)\n- {{Die talentierten Schauspieler des Ensembles probten wochenlang für die Premiere.}} (Các diễn viên tài năng của đoàn kịch đã luyện tập suốt nhiều tuần cho buổi công diễn đầu tiên.)\n- {{Statt eines historischen Spielfilms wurde ein zeitgenössischer Dokumentarfilm gezeigt.}} (Thay vì một bộ phim truyện lịch sử, một phim tài liệu đương đại đã được trình chiếu.)\n- {{Während der Führung durch die Galerie lernten die Besucher faszinierende Skulpturen kennen.}} (Trong suốt chuyến tham quan phòng tranh, du khách đã được tìm hiểu về những bức tượng điêu khắc đầy mê hoặc.)\n- {{Das Theaterstück hinterließ beim gesamten Publikum einen bleibenden Eindruck.}} (Vở kịch đã để lại ấn tượng sâu đậm trong lòng toàn thể khán giả.)\n",
+   "vocab": [
+    {
+     "de": "Meisterwerk",
+     "article": "das",
+     "plural": "Meisterwerke",
+     "pos": "noun",
+     "ipa": "ˈmaɪ̯stɐˌvɛʁk",
+     "vi": "kiệt tác, tác phẩm nghệ thuật xuất chúng",
+     "example": "Dieses Ölgemälde gilt weltweit als das unbestrittene Meisterwerk des Malers.",
+     "exampleVi": "Bức tranh sơn dầu này được công nhận trên toàn thế giới là kiệt tác không thể bàn cãi của danh họa."
+    },
+    {
+     "de": "Vernissage",
+     "article": "die",
+     "plural": "Vernissagen",
+     "pos": "noun",
+     "ipa": "vɛʁnɪˈsaːʒə",
+     "vi": "lễ khai mạc triển lãm nghệ thuật",
+     "example": "Zur feierlichen Vernissage versammelten sich zahlreiche Kunstliebhaber und Journalisten.",
+     "exampleVi": "Đến dự buổi lễ khai mạc triển lãm trang trọng có đông đảo người yêu nghệ thuật và nhà báo tề tựu."
+    },
+    {
+     "de": "Architektur",
+     "article": "die",
+     "plural": "Architekturen",
+     "pos": "noun",
+     "ipa": "aʁçitɛkˈtuːɐ̯",
+     "vi": "kiến trúc, phong cách xây dựng nghệ thuật",
+     "example": "Die gotische Architektur der alten Kathedrale zieht jährlich Millionen von Besuchern an.",
+     "exampleVi": "Kiến trúc Gothic của nhà thờ cổ kính hàng năm thu hút hàng triệu du khách ghé thăm."
+    },
+    {
+     "de": "Galerie",
+     "article": "die",
+     "plural": "Galerien",
+     "pos": "noun",
+     "ipa": "ɡaləˈʁiː",
+     "vi": "phòng tranh nghệ thuật, nhà triển lãm hội họa",
+     "example": "Die moderne Galerie in der Altstadt stellt Werke junger Nachwuchskünstler aus.",
+     "exampleVi": "Phòng tranh hiện đại tại khu phố cổ trưng bày tác phẩm của các nghệ sĩ trẻ triển vọng."
+    },
+    {
+     "de": "Kulturdenkmal",
+     "article": "das",
+     "plural": "Kulturdenkmäler",
+     "pos": "noun",
+     "ipa": "kʊlˈtuːɐ̯ˌdɛŋkmaːl",
+     "vi": "di tích văn hóa lịch sử",
+     "example": "Das historische Schloss wurde von der UNESCO offiziell zum Kulturdenkmal ernannt.",
+     "exampleVi": "Tòa lâu đài lịch sử đã được UNESCO chính thức công nhận là di tích văn hóa."
+    },
+    {
+     "de": "Denkmalschutz",
+     "article": "der",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈdɛŋkmaːlˌʃʊts",
+     "vi": "việc bảo tồn di tích lịch sử và kiến trúc",
+     "example": "Wegen des strengen Denkmalschutzes darf die historische Fassade nicht verändert werden.",
+     "exampleVi": "Do quy định bảo tồn di tích nghiêm ngặt, mặt tiền lịch sử không được phép thay đổi."
+    },
+    {
+     "de": "Theaterstück",
+     "article": "das",
+     "plural": "Theaterstücke",
+     "pos": "noun",
+     "ipa": "teˈaːtɐˌʃtʏk",
+     "vi": "vở kịch sân khấu",
+     "example": "Das neue Theaterstück setzt sich kritisch mit den Konflikten moderner Familien auseinander.",
+     "exampleVi": "Vở kịch sân khấu mới đề cập một cách sâu sắc tới những mâu thuẫn trong các gia đình hiện đại."
+    },
+    {
+     "de": "Generalprobe",
+     "article": "die",
+     "plural": "Generalproben",
+     "pos": "noun",
+     "ipa": "ɡeneˈʁaːlˌpʁoːbə",
+     "vi": "buổi tổng duyệt trang phục và âm nhạc trước đêm diễn chính thức",
+     "example": "Vor der offiziellen Eröffnung verlief die gestrige Generalprobe absolut reibungslos.",
+     "exampleVi": "Trước đêm diễn khai mạc chính thức, buổi tổng duyệt hôm qua đã diễn ra hoàn toàn êm đẹp."
+    },
+    {
+     "de": "Premiere",
+     "article": "die",
+     "plural": "Premieren",
+     "pos": "noun",
+     "ipa": "pʁeˈmi̯eːʁə",
+     "vi": "buổi công diễn đầu tiên của vở kịch hoặc bộ phim",
+     "example": "Alle Eintrittskarten für die mit Spannung erwartete Premiere waren sofort ausverkauft.",
+     "exampleVi": "Toàn bộ vé vào cửa cho buổi công diễn đầu tiên rất được mong đợi đã bán hết sạch ngay lập tức."
+    },
+    {
+     "de": "Epoche",
+     "article": "die",
+     "plural": "Epochen",
+     "pos": "noun",
+     "ipa": "eˈpɔxə",
+     "vi": "thời kỳ, kỷ nguyên lịch sử văn hóa hoặc phong cách nghệ thuật",
+     "example": "In der Epoche der Romantik spielten Naturverbundenheit und Sehnsucht eine zentrale Rolle.",
+     "exampleVi": "Trong thời kỳ Lãng mạn, sự gắn kết với thiên nhiên và nỗi khát khao đóng vai trò trung tâm."
+    },
+    {
+     "de": "Bildhauerei",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈbɪldhaʊ̯əˌʁaɪ̯",
+     "vi": "nghệ thuật điêu khắc, tạc tượng",
+     "example": "Sie studierte an der Kunstakademie klassische Bildhauerei und Restaurierung.",
+     "exampleVi": "Cô ấy đã theo học ngành điêu khắc kinh điển và phục chế tại học viện nghệ thuật."
+    },
+    {
+     "de": "Ensemble",
+     "article": "das",
+     "plural": "Ensembles",
+     "pos": "noun",
+     "ipa": "ɑ̃ːˈsɑ̃ːbl̩",
+     "vi": "đoàn nghệ thuật, dàn hòa tấu, nhóm kịch",
+     "example": "Das renommierte musikalische Ensemble begeisterte das internationale Publikum restlos.",
+     "exampleVi": "Dàn nhạc hòa tấu danh tiếng đã làm say mê trọn vẹn khán giả quốc tế."
+    },
+    {
+     "de": "Beifall",
+     "article": "der",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈbaɪ̯ˌfal",
+     "vi": "tiếng vỗ tay tán thưởng, sự hoan nghênh nhiệt liệt",
+     "example": "Am Ende des Konzerts spendeten die begeisterten Zuhörer minutenlangen stürmischen Beifall.",
+     "exampleVi": "Vào cuối buổi hòa nhạc, những khán giả phấn khích đã dành tràng pháo tay tán thưởng cuồng nhiệt kéo dài nhiều phút."
+    },
+    {
+     "de": "Freilichtmuseum",
+     "article": "das",
+     "plural": "Freilichtmuseen",
+     "pos": "noun",
+     "ipa": "ˈfʁaɪ̯lɪçtmuˌzeːʊm",
+     "vi": "bảo tàng ngoài trời trưng bày kiến trúc và đời sống xưa",
+     "example": "Im Freilichtmuseum kann man historische Bauernhäuser aus verschiedenen Jahrhunderten besichtigen.",
+     "exampleVi": "Tại bảo tàng ngoài trời, người ta có thể tham quan các ngôi nhà nông dân lịch sử từ nhiều thế kỷ khác nhau."
+    },
+    {
+     "de": "Beifall klatschen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈbaɪ̯ˌfal ˈklatʃn̩",
+     "vi": "vỗ tay tán thưởng nồng nhiệt",
+     "example": "Nach der bewegenden Szene stand das gesamte Publikum auf und klatschte begeistert Beifall.",
+     "exampleVi": "Sau phân cảnh xúc động, toàn thể khán giả đã đứng dậy và vỗ tay tán thưởng nồng nhiệt."
+    },
+    {
+     "de": "eine Rolle spielen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nə ˈʁɔlə ˈʃpiːlən",
+     "vi": "đóng một vai diễn / giữ một vai trò quan trọng",
+     "example": "Die Hauptdarstellerin spielte ihre dramatische Rolle mit außergewöhnlicher Leidenschaft.",
+     "exampleVi": "Nữ diễn viên chính đã thể hiện vai diễn đầy kịch tính của mình với niềm đam mê phi thường."
+    },
+    {
+     "de": "Eindruck hinterlassen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nˌdʁʊk hɪntɐˈlasn̩",
+     "vi": "để lại ấn tượng sâu sắc (bei + Dat)",
+     "example": "Die ausdrucksstarken Skulpturen haben einen bleibenden Eindruck bei mir hinterlassen.",
+     "exampleVi": "Những bức tượng điêu khắc giàu sức biểu cảm đã để lại trong tôi một ấn tượng khó phai."
+    },
+    {
+     "de": "zur Aufführung bringen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "tsuːɐ̯ ˈaʊ̯fˌfyːʁʊŋ ˈbʁɪŋən",
+     "vi": "đưa lên sân khấu dàn dựng công diễn",
+     "example": "Das Stadttheater wird im kommenden Monat eine moderne Fassung von Goethes Faust zur Aufführung bringen.",
+     "exampleVi": "Nhà hát thành phố sẽ đưa một phiên bản hiện đại của vở kịch Faust của Goethe lên sân khấu công diễn vào tháng tới."
+    },
+    {
+     "de": "im Mittelpunkt stehen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɪm ˈmɪtl̩ˌpʊŋkt ˈʃteːən",
+     "vi": "đứng ở trung tâm của sự chú ý / nội dung cốt lõi",
+     "example": "In dieser Ausstellung steht die künstlerische Entwicklung der Stadt im Mittelpunkt.",
+     "exampleVi": "Trong cuộc triển lãm này, sự phát triển nghệ thuật của thành phố đứng ở vị trí trung tâm."
+    },
+    {
+     "de": "den Horizont erweitern",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "deːn hoʁiˈtsɔnt ɛɐ̯ˈvaɪ̯tɐn",
+     "vi": "mở rộng tầm nhìn, nâng cao vốn hiểu biết văn hóa",
+     "example": "Kulturelle Reisen in fremde Länder helfen dabei, den eigenen Horizont nachhaltig zu erweitern.",
+     "exampleVi": "Những chuyến du lịch văn hóa tới những quốc gia xa lạ giúp mở rộng tầm nhìn của bản thân một cách bền vững."
+    },
+    {
+     "de": "inszenieren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "inszeniert, inszenierte, hat inszeniert",
+     "ipa": "ɪnsəˈniːʁən",
+     "vi": "dàn dựng sân khấu, chỉ đạo nghệ thuật cho vở kịch (+ Akk)",
+     "example": "Die junge Regisseurin inszenierte das Drama mit überraschenden modernen Elementen.",
+     "exampleVi": "Nữ đạo diễn trẻ đã dàn dựng vở chính kịch với những yếu tố hiện đại đầy bất ngờ."
+    },
+    {
+     "de": "restaurieren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "restauriert, restaurierte, hat restauriert",
+     "ipa": "ʁɛstaʊ̯ˈʁiːʁən",
+     "vi": "phục chế, trùng tu (tranh vẽ, công trình cổ) (+ Akk)",
+     "example": "Spezialisten restaurierten das wertvolle Altarbild über einen Zeitraum von drei Jahren.",
+     "exampleVi": "Các chuyên gia đã trùng tu bức tranh thờ quý giá trong khoảng thời gian ba năm."
+    },
+    {
+     "de": "inspirieren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "inspiriert, inspirierte, hat inspiriert",
+     "ipa": "ɪnspiˈʁiːʁən",
+     "vi": "truyền cảm hứng sáng tạo cho ai (+ Akk)",
+     "example": "Die malerische Landschaft der Alpen inspirierte den Künstler zu seinen berühmtesten Landschaftsbildern.",
+     "exampleVi": "Cảnh sắc đẹp như tranh vẽ của dãy Alps đã truyền cảm hứng cho người nghệ sĩ sáng tác nên những bức tranh phong cảnh nổi tiếng nhất."
+    },
+    {
+     "de": "würdigen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "würdigt, würdigte, hat gewürdigt",
+     "ipa": "ˈvʏʁdɪɡn̩",
+     "vi": "tôn vinh, vinh danh, ghi nhận xứng đáng (+ Akk)",
+     "example": "Der Kulturminister würdigte das lebenslange Schaffen des Schriftstellers mit einer Ehrenmedaille.",
+     "exampleVi": "Bộ trưởng Văn hóa đã vinh danh toàn bộ sự nghiệp sáng tác của nhà văn bằng một tấm huy chương danh dự."
+    },
+    {
+     "de": "begeistern",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "begeistert, begeisterte, hat begeistert",
+     "ipa": "bəˈɡaɪ̯stɐn",
+     "vi": "làm say mê, truyền sự hào hứng to lớn cho ai (+ Akk)",
+     "example": "Die meisterhafte Aufführung der Musiker begeisterte das gesamte Publikum im Saal.",
+     "exampleVi": "Màn trình diễn bậc thầy của các nhạc công đã làm say mê toàn thể khán giả trong khán phòng."
+    },
+    {
+     "de": "zeitgenössisch",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈtsaɪ̯tɡəˌnœsɪʃ",
+     "vi": "đương đại, hiện đại cùng thời",
+     "example": "Das Museum für zeitgenössische Kunst zeigt spannende Installationen internationaler Künstler.",
+     "exampleVi": "Bảo tàng nghệ thuật đương đại trưng bày những tác phẩm sắp đặt hấp dẫn của các nghệ sĩ quốc tế."
+    },
+    {
+     "de": "kunsthistorisch",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈkʊnsthiˌstoːʁɪʃ",
+     "vi": "thuộc về lịch sử nghệ thuật",
+     "example": "Dieses barocke Gemälde besitzt einen unschätzbaren kunsthistorischen Wert.",
+     "exampleVi": "Bức tranh thời Baroque này sở hữu một giá trị lịch sử nghệ thuật vô giá."
+    },
+    {
+     "de": "spektakulär",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ʃpɛktakuˈlɛːɐ̯",
+     "vi": "ngoạn mục, gây ấn tượng thị giác mạnh mẽ",
+     "example": "Die Lichteffekte während der nächtlichen Open-Air-Aufführung waren wahrhaft spektakulär.",
+     "exampleVi": "Hiệu ứng ánh sáng trong buổi biểu diễn ngoài trời ban đêm thực sự vô cùng ngoạn mục."
+    },
+    {
+     "de": "denkmalgeschützt",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈdɛŋkmaːlɡəˌʃʏtst",
+     "vi": "được xếp hạng bảo tồn di tích lịch sử",
+     "example": "In der Innenstadt befinden sich viele wunderschöne denkmalgeschützte Fachwerkhäuser.",
+     "exampleVi": "Ở khu vực trung tâm thành phố có nhiều ngôi nhà khung gỗ tuyệt đẹp được xếp hạng bảo tồn di tích."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "Hai",
+     "de": "Guten Tag, Clara! Hast du gestern Abend die Premiere des neuen Theaterstücks im Schauspielhaus besucht?",
+     "vi": "Chào Clara! Tối hôm qua bạn có đi xem buổi công diễn đầu tiên của vở kịch mới tại nhà hát kịch không?"
+    },
+    {
+     "speaker": "B",
+     "name": "Clara",
+     "de": "Hallo Hai! Ja, natürlich. Trotz des starken Gewitters war der historische Saal bis auf den letzten Platz gefüllt.",
+     "vi": "Chào Hải! Có chứ, đương nhiên rồi. Bất chấp cơn giông bão dữ dội, khán phòng lịch sử vẫn chật kín không còn một chỗ trống."
+    },
+    {
+     "speaker": "A",
+     "name": "Hai",
+     "de": "Wie war denn die schauspielerische Leistung des Ensembles?",
+     "vi": "Thế diễn xuất của đoàn diễn viên như thế nào?"
+    },
+    {
+     "speaker": "B",
+     "name": "Clara",
+     "de": "Einfach grandios! Die Inszenierung der Regisseurin hat bei allen Zuschauern einen unvergesslichen Eindruck hinterlassen.",
+     "vi": "Thực sự tuyệt vời! Cách dàn dựng sân khấu của nữ đạo diễn đã để lại ấn tượng khó phai trong lòng mọi khán giả."
+    },
+    {
+     "speaker": "A",
+     "name": "Hai",
+     "de": "Wurde die Aufführung eigentlich wegen der Unwetterwarnung während der ersten Szene unterbrochen?",
+     "vi": "Buổi biểu diễn có bị gián đoạn trong phân cảnh đầu tiên do cảnh báo thời tiết nguy hiểm không?"
+    },
+    {
+     "speaker": "B",
+     "name": "Clara",
+     "de": "Nein, glücklicherweise nicht. Während des gesamten Stücks herrschte im Saal eine atemlose Stille.",
+     "vi": "Không, may mắn là không. Trong suốt toàn bộ vở diễn, sự tĩnh lặng nín thở bao trùm khắp khán phòng."
+    },
+    {
+     "speaker": "A",
+     "name": "Hai",
+     "de": "Und wie reagierte das Publikum am Ende der Vorstellung?",
+     "vi": "Và khán giả đã phản ứng ra sao khi buổi diễn kết thúc?"
+    },
+    {
+     "speaker": "B",
+     "name": "Clara",
+     "de": "Alle standen auf und spendeten stürmischen Beifall. Das Werk des Autors wurde wirklich gebührend gewürdigt.",
+     "vi": "Mọi người đều đứng dậy và dành tràng pháo tay tán thưởng cuồng nhiệt. Tác phẩm của tác giả thực sự đã được vinh danh xứng đáng."
+    },
+    {
+     "speaker": "A",
+     "name": "Hai",
+     "de": "Ich habe gehört, dass das Theatergebäude selbst ein berühmtes Kulturdenkmal der Stadt ist.",
+     "vi": "Mình nghe nói bản thân tòa nhà nhà hát đã là một di tích văn hóa nổi tiếng của thành phố."
+    },
+    {
+     "speaker": "B",
+     "name": "Clara",
+     "de": "Stimmt genau. Wegen des Denkmalschutzes wurde die prachtvolle Fassade des Bauwerks aufwendig restauriert.",
+     "vi": "Chính xác. Vì quy định bảo tồn di tích, mặt tiền lộng lẫy của công trình đã được trùng tu hết sức kỳ công."
+    },
+    {
+     "speaker": "A",
+     "name": "Hai",
+     "de": "Wunderbar! Wollen wir am Wochenende zusammen in die Galerie für zeitgenössische Kunst gehen?",
+     "vi": "Tuyệt vời quá! Cuối tuần này chúng mình có muốn cùng đi đến phòng tranh nghệ thuật đương đại không?"
+    },
+    {
+     "speaker": "B",
+     "name": "Clara",
+     "de": "Sehr gerne! Statt eines normalen Museumsbesuchs können wir an der Eröffnung einer neuen Vernissage teilnehmen.",
+     "vi": "Rất sẵn lòng! Thay vì một chuyến đi bảo tàng thông thường, chúng ta có thể tham dự lễ khai mạc một cuộc triển lãm mới."
+    },
+    {
+     "speaker": "A",
+     "name": "Hai",
+     "de": "Perfekt. Innerhalb einer Stunde können wir die Eintrittskarten online im Vorverkauf reservieren.",
+     "vi": "Hoàn hảo. Trong vòng một tiếng đồng hồ nữa chúng ta có thể đặt vé trực tuyến trước."
+    },
+    {
+     "speaker": "B",
+     "name": "Clara",
+     "de": "Abgemacht. Solche kulturellen Erlebnisse erweitern jedes Mal aufs Neue unseren Horizont!",
+     "vi": "Quyết định thế nhé. Những trải nghiệm văn hóa như vậy lần nào cũng mở rộng tầm hiểu biết của chúng mình!"
+    },
+    {
+     "speaker": "A",
+     "name": "Hai",
+     "de": "Ganz genau. Ich freue mich schon riesig auf unseren gemeinsamen Kunstausflug am Samstag!",
+     "vi": "Chuẩn xác. Mình đang rất háo hức chờ đợi chuyến đi thưởng thức nghệ thuật cùng nhau vào thứ Bảy!"
+    }
+   ],
+   "reading": {
+    "title": "Kulturgüter im Wandel der Zeit: Das historische Erbe einer lebendigen Stadt",
+    "text": "Die behutsame Pflege und nachhaltige Bewahrung des architektonischen Erbes gehört in vielen geschichtsträchtigen europäischen Städten zu den anspruchsvollsten und kostspieligsten kulturellen Aufgaben der Gegenwart. Historische Bauwerke sind weit mehr als bloße Ansammlungen alter Steine; sie sind lebendige, steinerne Zeugen vergangener Epochen und spiegeln die unverwechselbare künstlerische Identität einer gesamten Region wider. Ein faszinierendes und viel beachtetes Beispiel für diese gelungene Symbiose aus Tradition und Moderne bietet das traditionsreiche Kulturviertel in Dresden. Hier steht die sorgfältige Erhaltung wertvoller Kulturdenkmäler seit vielen Jahrzehnten im absoluten Zentrum des öffentlichen Interesses der Stadtgesellschaft.\n\nWegen des strengen Denkmalschutzes müssen sämtliche anfallenden Restaurierungsarbeiten an den denkmalgeschützten Gebäuden mit größter Sorgfalt, Geduld und handwerklicher Präzision durchgeführt werden. Hoch spezialisierte Restauratoren verbringen oft viele Jahre damit, die kunstvollen Ornamente und beschädigten Skulpturen der barocken Fassaden wieder in ihren ursprünglichen Glanz zu versetzen. Trotz der enormen finanziellen Kosten und des beträchtlichen zeitlichen Aufwands lohnt sich dieser kollektive Einsatz für die gesamte Bürgerschaft in jeder Hinsicht. Denn die meisterhafte Architektur zieht Jahr für Jahr Hunderttausende von begeisterten Kulturtouristen aus aller Welt an, die den kulturellen Reichtum und die Geschichte der Region bewundern wollen.\n\nDarüber hinaus bietet die Stadt ihren kulturinteressierten Besuchern ein vielseitiges und modernes Angebot, das weit über traditionelle Museumsrundgänge hinausgeht. Innerhalb der historischen Mauern eines ehemaligen kurfürstlichen Residenzschlosses befindet sich heute eine weltberühmte Galerie für zeitgenössische Kunst. Statt verstaubter Vitrinen erleben Kunstliebhaber dort spektakuläre Lichtinstallationen, interaktive Videoarbeiten und ausdrucksstarke Bildhauerei renommierter internationaler Künstler. Während der alljährlich stattfindenden Museumsnacht öffnen sämtliche Ausstellungsräume bis spät in die Nacht ihre Pforten für das neugierige Publikum.\n\nKulturveranstaltungen dieser Art verdeutlichen eindrucksvoll, dass historische Denkmäler keineswegs starre und leblose Museen der Vergangenheit bleiben müssen. Wenn es gelingt, das architektonische Erbe der Vorfahren behutsam mit den kreativen Ideen moderner Ensembles und junger Künstler zu verknüpfen, wird Geschichte für alle Generationen lebendig erfahrbar. Dieser dynamische Austausch zwischen historischer Wurzel und gegenwärtiger Kreativität bereichert das städtische Zusammenleben und erweitert nachhaltig den kulturellen Horizont aller Bürgerinnen und Bürger.",
+    "vi": "Việc giữ gìn cẩn trọng và bảo tồn bền vững di sản kiến trúc tại nhiều thành phố giàu lịch sử của châu Âu thuộc về những nhiệm vụ văn hóa đòi hỏi khắt khe và tốn kém nhất của thời hiện đại. Những công trình lịch sử mang ý nghĩa lớn hơn nhiều so với việc chỉ đơn thuần là sự tích tụ của những viên đá cổ; chúng là những nhân chứng sống động bằng đá của các thời kỳ lịch sử đã qua và phản chiếu bản sắc nghệ thuật độc đáo không thể trộn lẫn của cả một vùng miền. Một ví dụ đầy mê hoặc và nhận được nhiều sự chú ý cho sự giao thoa thành công giữa truyền thống và hiện đại chính là khu phố văn hóa lâu đời tại Dresden. Tại đây, việc bảo tồn cẩn thận những di tích văn hóa quý giá đã đứng ở trung tâm tuyệt đối của sự quan tâm công chúng trong suốt nhiều thập kỷ qua.\n\nDo quy chế bảo tồn di tích nghiêm ngặt, mọi công tác phục chế phát sinh trên các công trình được xếp hạng di tích bắt buộc phải được tiến hành với sự cẩn trọng, lòng kiên nhẫn tối đa và độ chính xác thủ công tinh xảo. Các nhà phục chế chuyên môn hóa cao thường dành nhiều năm ròng rã chỉ để đưa những họa tiết trang trí tinh xảo và các bức tượng bị hư hại trên các mặt tiền thời kỳ Baroque trở lại vẻ rực rỡ ban đầu. Bất chấp chi phí tài chính khổng lồ cùng thời gian đầu tư đáng kể, sự dấn thân chung này của toàn thể cộng đồng công dân là hoàn toàn xứng đáng về mọi mặt. Bởi vì kiến trúc bậc thầy hàng năm thu hút hàng trăm nghìn khách du lịch văn hóa hào hứng từ khắp nơi trên thế giới muốn đến chiêm ngưỡng sự trù phú văn hóa và lịch sử của vùng đất này.\n\nThêm vào đó, thành phố còn mang lại cho những du khách quan tâm tới văn hóa một đời sống phong phú và hiện đại, vượt xa khỏi những chuyến tham quan bảo tàng truyền thống đơn thuần. Bên trong những bức tường thành lịch sử của một lâu đài dinh thự tuyển hầu tước trước đây, ngày nay tọa lạc một phòng tranh nghệ thuật đương đại nổi tiếng thế giới. Thay vì những tủ kính phủ bụi, những người yêu nghệ thuật tại đây được trải nghiệm những tác phẩm sắp đặt ánh sáng ngoạn mục, các tác phẩm video tương tác và nghệ thuật điêu khắc giàu biểu cảm của các nghệ sĩ quốc tế danh tiếng. Trong suốt 'Đêm bảo tàng' diễn ra hàng năm, toàn bộ các không gian triển lãm đều mở rộng cửa cho đến tận đêm muộn để đón chào công chúng hiếu kỳ.\n\nNhững sự kiện văn hóa thuộc thể loại này chứng minh đầy ấn tượng rằng các di tích lịch sử hoàn toàn không nhất thiết phải là những viện bảo tàng xơ cứng và vô hồn của quá khứ. Một khi người ta thành công trong việc kết nối khéo léo di sản kiến trúc của tiền nhân với những ý tưởng sáng tạo của các đoàn nghệ thuật hiện đại và nghệ sĩ trẻ, lịch sử sẽ trở nên sống động và có thể cảm nhận được cho mọi thế hệ. Sự giao lưu năng động giữa cội nguồn lịch sử và sự sáng tạo hiện tại này làm phong phú đời sống đô thị và mở rộng bền vững tầm nhìn văn hóa của mọi công dân.",
+    "glossary": [
+     {
+      "de": "Kulturgut",
+      "article": "das",
+      "plural": "Kulturgüter",
+      "pos": "noun",
+      "ipa": "kʊlˈtuːɐ̯ˌɡuːt",
+      "vi": "tài sản di sản văn hóa quý báu",
+      "example": "Historische Handschriften sind unersetzliche Kulturgüter einer Nation.",
+      "exampleVi": "Các bản viết tay lịch sử là những di sản văn hóa không thể thay thế của một quốc gia."
+     },
+     {
+      "de": "Bauwerk",
+      "article": "das",
+      "plural": "Bauwerke",
+      "pos": "noun",
+      "ipa": "ˈbaʊ̯ˌvɛʁk",
+      "vi": "công trình xây dựng, kiến trúc đồ sộ",
+      "example": "Das gotische Bauwerk überstand die Kriege fast unbeschädigt.",
+      "exampleVi": "Công trình kiến trúc Gothic đã vượt qua các cuộc chiến tranh mà hầu như không bị hư hại."
+     },
+     {
+      "de": "Symbiose",
+      "article": "die",
+      "plural": "Symbiosen",
+      "pos": "noun",
+      "ipa": "zʏmˈbi̯oːzə",
+      "vi": "sự cộng sinh, kết hợp hài hòa bổ trợ lẫn nhau",
+      "example": "In der Stadt entstand eine gelungene Symbiose aus Alt und Neu.",
+      "exampleVi": "Trong thành phố đã hình thành sự kết hợp hài hòa tuyệt vời giữa cổ kính và hiện đại."
+     },
+     {
+      "de": "Restaurator",
+      "article": "der",
+      "plural": "Restauratoren",
+      "pos": "noun",
+      "ipa": "ʁɛstaʊ̯ˈʁaːtoːɐ̯",
+      "vi": "chuyên gia phục chế, người trùng tu hiện vật cổ",
+      "example": "Der Restaurator reinigte das Gemälde mit feinsten Pinseln.",
+      "exampleVi": "Chuyên gia phục chế đã làm sạch bức tranh bằng những chiếc cọ vẽ tinh xảo nhất."
+     },
+     {
+      "de": "Lichtinstallation",
+      "article": "die",
+      "plural": "Lichtinstallationen",
+      "pos": "noun",
+      "ipa": "ˈlɪçtʔɪnstalaˌtsi̯oːn",
+      "vi": "tác phẩm nghệ thuật sắp đặt ánh sáng",
+      "example": "Die moderne Lichtinstallation tauchte das Kirchenschiff in bunte Farben.",
+      "exampleVi": "Tác phẩm sắp đặt ánh sáng hiện đại đã nhấn chìm gian giữa giáo đường trong muôn màu rực rỡ."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Was sind historische Bauwerke laut dem ersten Absatz des Textes?",
+      "options": [
+       "Wertlose alte Steine, die abgerissen werden sollten.",
+       "Lebendige Zeugen vergangener Epochen und Spiegel der regionalen Identität.",
+       "Ausschließlich teure Wohnungen für reiche Bürger."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Warum erfordern Restaurierungsarbeiten an historischen Fassaden so viel Sorgfalt?",
+      "options": [
+       "Weil die Gebäude aus reinem Gold gebaut wurden.",
+       "Wegen der strengen gesetzlichen Vorschriften des Denkmalschutzes.",
+       "Weil Touristen sonst den Eintritt nicht bezahlen würden."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Was befindet sich heute innerhalb der Mauern des ehemaligen Schlosses?",
+      "options": [
+       "Eine international renommierte Galerie für zeitgenössische Kunst.",
+       "Eine große Fabrik für Plastikmöbel.",
+       "Ein moderner Großflughafen."
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Was geschieht während der beliebten alljährlichen Museumsnacht?",
+      "options": [
+       "Alle Museen bleiben wegen Reinigungsarbeiten geschlossen.",
+       "Die Ausstellungsräume öffnen bis spät in die Nacht ihre Pforten für das Publikum.",
+       "Sämtliche Kunstwerke werden an das Ausland versteigert."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Welches Fazit zieht der Text über das Verhältnis von Geschichte und Gegenwart?",
+      "options": [
+       "Geschichte und moderne Kunst schließen sich gegenseitig völlig aus.",
+       "Der kreative Austausch zwischen historischem Erbe und Gegenwartskunst bereichert die Gesellschaft.",
+       "Kulturgüter sollten vor der Öffentlichkeit für immer verschlossen bleiben."
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "writing": {
+    "task": "Sie haben am vergangenen Wochenende eine bemerkenswerte Kunstausstellung in Ihrer Stadt besucht. Schreiben Sie einen Erfahrungsbericht für den Kultur-Blog Ihrer Volkshochschule (ca. 80-100 Wörter). Beschreiben Sie die Ausstellung und die gezeigten Kunstwerke, begründen Sie, warum der Besuch trotz des Eintrittspreises lohnenswert war, und empfehlen Sie die Ausstellung weiter. (Cuối tuần qua bạn đi xem một triển lãm nghệ thuật đáng chú ý ở thành phố. Viết bài chia sẻ cảm nhận trên blog văn hóa của trường VHS. Miêu tả triển lãm, giải thích tại sao chuyến đi lại rất đáng giá dù giá vé cao, và giới thiệu cho mọi người.)",
+    "minWords": 80,
+    "sample": "Am vergangenen Samstag habe ich die beeindruckende Sonderausstellung zeitgenössischer Bildhauerei im städtischen Kulturzentrum besucht. Trotz des relativ hohen Eintrittspreises war dieser Ausflug ein fantastisches Erlebnis! Im Mittelpunkt der Ausstellung standen monumentale Skulpturen internationaler Künstler, deren meisterhafte Werke die Besucher tief berührten. Die faszinierende Verbindung von historischer Architektur des Gebäudes und moderner Kunst hat einen bleibenden Eindruck bei mir hinterlassen. Während des zweistündigen Rundgangs habe ich viel Neues gelernt. Ich kann allen Kunstinteressierten einen Besuch dieser Schau wärmstens empfehlen: Sie erweitert den kulturellen Horizont ungemein!"
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Wie lautet der Genitiv Singular von „der Künstler“?",
+     "options": [
+      "des Künstlern",
+      "des Künstlers",
+      "dem Künstler",
+      "den Künstler"
+     ],
+     "answer": 1,
+     "explain": "Danh từ giống đực 'der Künstler' có mạo từ Genitiv là 'des' và thêm đuôi '-s' vào danh từ: 'des Künstlers'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Präposition verlangt im Standarddeutschen den Genitiv?",
+     "options": [
+      "mit",
+      "trotz",
+      "nach",
+      "von"
+     ],
+     "answer": 1,
+     "explain": "'trotz' (bất chấp, mặc dù) là giới từ đòi hỏi danh từ đi sau phải chia ở cách Genitiv trong tiếng Đức chuẩn."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Wegen ___ starken Regens wurde das Freilichtkonzert in den Saal verlegt.",
+     "options": [
+      "des",
+      "dem",
+      "den",
+      "der"
+     ],
+     "answer": 0,
+     "explain": "'der Regen' là danh từ giống đực, đi sau 'wegen' chia ở Genitiv: 'des starken Regens'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Genitiv verlangt zwingend die Endung „-es“ am Nomen?",
+     "options": [
+      "des Lehrers",
+      "des Platzes",
+      "des Gemäldes",
+      "des Künstlers"
+     ],
+     "answer": 1,
+     "explain": "Các danh từ giống đực/trung kết thúc bằng âm xuýt như -z (der Platz) bắt buộc phải thêm đuôi '-es': 'des Platzes'."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Während ___ spannenden Theateraufführung herrschte absolute Stille im Saal.",
+     "options": [
+      "die",
+      "der",
+      "den",
+      "dem"
+     ],
+     "answer": 1,
+     "explain": "'die Aufführung' là danh từ giống cái, mạo từ Genitiv đi với 'während' là 'der': 'während der spannenden Aufführung'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet das Substantiv „die Vernissage“?",
+     "options": [
+      "Ein Konzert im Freien",
+      "Die feierliche Eröffnung einer Kunstausstellung",
+      "Ein alter Bilderrahmen",
+      "Der Verkauf von Theaterkarten"
+     ],
+     "answer": 1,
+     "explain": "'Die Vernissage' là buổi lễ khai mạc triển lãm nghệ thuật trang trọng dành cho khách mời và công chúng."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
+     "options": [
+      "Statt eines klassischen Spielfilms schauten wir eine Dokumentation.",
+      "Statt einem klassischen Spielfilm schauten wir eine Dokumentation.",
+      "Statt ein klassischer Spielfilm schauten wir eine Dokumentation.",
+      "Statt einen klassischen Spielfilm schauten wir eine Dokumentation."
+     ],
+     "answer": 0,
+     "explain": "Giới từ 'statt' đòi hỏi cách Genitiv: 'statt eines klassischen Spielfilms' (Maskulin Genitiv)."
+    },
+    {
+     "type": "mcq",
+     "q": "Was ist die Genitivform von „die Meisterwerke“ (Plural)?",
+     "options": [
+      "der Meisterwerke",
+      "des Meisterwerkes",
+      "den Meisterwerken",
+      "die Meisterwerke"
+     ],
+     "answer": 0,
+     "explain": "Mạo từ Genitiv ở số nhiều (Plural) là 'der', danh từ không thêm đuôi: 'der Meisterwerke'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet die Redewendung „den Horizont erweitern“?",
+     "options": [
+      "Eine Brille kaufen",
+      "Neue Erfahrungen machen und sein Wissen vergrößern",
+      "Weit in die Ferne blicken",
+      "Ein Bild malen"
+     ],
+     "answer": 1,
+     "explain": "'den Horizont erweitern' mang nghĩa bóng là mở mang tầm mắt, mở rộng vốn hiểu biết và trải nghiệm mới."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Das historische Bauwerk steht seit Jahrzehnten unter strengem ___ .",
+     "options": [
+      "Denkmalschutz",
+      "Ensemble",
+      "Vernissage",
+      "Meisterwerk"
+     ],
+     "answer": 0,
+     "explain": "Cụm danh từ 'unter Denkmalschutz stehen' có nghĩa là nằm dưới sự bảo tồn di tích lịch sử."
+    },
+    {
+     "type": "gap",
+     "text": "Wegen des schlechten ___ wurde die Eröffnungsfeier leider abgesagt.",
+     "answers": [
+      "Wetters"
+     ],
+     "hint": "das Wetter im Genitiv",
+     "vi": "Do thời tiết xấu, buổi lễ khai mạc đáng tiếc đã bị hủy bỏ.",
+     "explain": "Danh từ giống trung 'das Wetter' đi sau 'wegen' có đuôi Genitiv là 'des Wetters'."
+    },
+    {
+     "type": "gap",
+     "text": "Trotz der hohen ___ waren alle Vorstellungen des Ensembles restlos ausverkauft.",
+     "answers": [
+      "Eintrittspreise|Ticketpreise"
+     ],
+     "hint": "Nomen im Genitiv Plural",
+     "vi": "Bất chấp giá vé vào cửa cao, tất cả các buổi diễn của đoàn kịch đều bán hết vé.",
+     "explain": "Sau 'trotz der hohen' là danh từ số nhiều ở Genitiv: 'Eintrittspreise'."
+    },
+    {
+     "type": "gap",
+     "text": "Die talentierten Schauspieler des ___ probten wochenlang für die große Premiere.",
+     "answers": [
+      "Ensembles"
+     ],
+     "hint": "das Ensemble im Genitiv",
+     "vi": "Các diễn viên tài năng của đoàn kịch đã luyện tập suốt nhiều tuần cho buổi công diễn lớn.",
+     "explain": "Danh từ giống trung 'das Ensemble' thêm đuôi '-s' trong Genitiv: 'des Ensembles'."
+    },
+    {
+     "type": "gap",
+     "text": "Während des zweistündigen ___ erfuhren die Besucher viel über die Stadtgeschichte.",
+     "answers": [
+      "Rundgangs|Museumsbesuchs"
+     ],
+     "hint": "der Rundgang im Genitiv",
+     "vi": "Trong suốt chuyến đi dạo tham quan hai tiếng đồng hồ, du khách đã tìm hiểu được nhiều điều về lịch sử thành phố.",
+     "explain": "Sau 'während des' là danh từ giống đực ở Genitiv: 'Rundgangs'."
+    },
+    {
+     "type": "gap",
+     "text": "Das faszinierende Ölgemälde gilt als das unbestrittene ___ des Künstlers.",
+     "answers": [
+      "Meisterwerk"
+     ],
+     "hint": "Nomen: das Meisterwerk",
+     "vi": "Bức tranh sơn dầu đầy mê hoặc được coi là kiệt tác không thể bàn cãi của người nghệ sĩ.",
+     "explain": "Danh từ giống trung 'das Meisterwerk' mang nghĩa kiệt tác nghệ thuật."
+    },
+    {
+     "type": "gap",
+     "text": "Innerhalb eines ___ besichtigte sie mehr als zehn historische Kulturdenkmäler.",
+     "answers": [
+      "Monats"
+     ],
+     "hint": "der Monat im Genitiv",
+     "vi": "Trong vòng một tháng, cô ấy đã tham quan hơn mười di tích văn hóa lịch sử.",
+     "explain": "Giới từ 'innerhalb' đòi Genitiv: 'innerhalb eines Monats'."
+    },
+    {
+     "type": "gap",
+     "text": "Am Ende der Aufführung klatschte das gesamte Publikum begeistert ___ .",
+     "answers": [
+      "Beifall"
+     ],
+     "hint": "Nomen: der Beifall (Beifall klatschen)",
+     "vi": "Vào cuối buổi biểu diễn, toàn thể khán giả đã vỗ tay tán thưởng nồng nhiệt.",
+     "explain": "Cụm cố định: 'Beifall klatschen' (vỗ tay tán thưởng)."
+    },
+    {
+     "type": "gap",
+     "text": "Statt eines teuren Museumsbesuchs machten sie einen Spaziergang durch das ___ .",
+     "answers": [
+      "Freilichtmuseum"
+     ],
+     "hint": "Nomen: das Freilichtmuseum",
+     "vi": "Thay vì đi xem viện bảo tàng đắt tiền, họ đã đi dạo qua một bảo tàng ngoài trời.",
+     "explain": "Danh từ giống trung 'das Freilichtmuseum' (bảo tàng ngoài trời)."
+    },
+    {
+     "type": "gap",
+     "text": "Die Regisseurin ___ das Theaterstück mit großem künstlerischem Geschick.",
+     "answers": [
+      "inszenierte"
+     ],
+     "hint": "inszenieren im Präteritum",
+     "vi": "Nữ đạo diễn đã dàn dựng vở kịch với tài năng nghệ thuật xuất sắc.",
+     "explain": "Động từ 'inszenieren' chia ở Präteritum là 'inszenierte'."
+    },
+    {
+     "type": "gap",
+     "text": "Experten arbeiten seit Monaten daran, das beschädigte Gemälde sorgfältig zu ___ .",
+     "answers": [
+      "restaurieren"
+     ],
+     "hint": "Verb: restaurieren",
+     "vi": "Các chuyên gia đã làm việc nhiều tháng nay để phục chế cẩn thận bức tranh bị hư hại.",
+     "explain": "Nguyên mẫu có zu: 'zu restaurieren' (phục chế, trùng tu)."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Das",
+      "Meisterwerk",
+      "des",
+      "Malers",
+      "hängt",
+      "im",
+      "Berliner",
+      "Museum"
+     ],
+     "answer": "Das Meisterwerk des Malers hängt im Berliner Museum.",
+     "answers": [
+      "Das Meisterwerk des Malers hängt im Berliner Museum.",
+      "Im Berliner Museum hängt das Meisterwerk des Malers."
+     ],
+     "vi": "Kiệt tác của danh họa được treo tại bảo tàng Berlin."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Trotz",
+      "des",
+      "schlechten",
+      "Wetters",
+      "besuchten",
+      "viele",
+      "Gäste",
+      "die",
+      "Vernissage"
+     ],
+     "answer": "Trotz des schlechten Wetters besuchten viele Gäste die Vernissage.",
+     "answers": [
+      "Trotz des schlechten Wetters besuchten viele Gäste die Vernissage.",
+      "Viele Gäste besuchten trotz des schlechten Wetters die Vernissage."
+     ],
+     "vi": "Bất chấp thời tiết xấu, nhiều vị khách vẫn đến dự lễ khai mạc triển lãm."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Während",
+      "der",
+      "Aufführung",
+      "herrschte",
+      "große",
+      "Aufregung",
+      "im",
+      "Saal"
+     ],
+     "answer": "Während der Aufführung herrschte große Aufregung im Saal.",
+     "answers": [
+      "Während der Aufführung herrschte große Aufregung im Saal.",
+      "Im Saal herrschte während der Aufführung große Aufregung."
+     ],
+     "vi": "Trong suốt buổi biểu diễn, sự xúc động lớn bao trùm khắp khán phòng."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Wegen",
+      "des",
+      "strengen",
+      "Denkmalschutzes",
+      "muss",
+      "die",
+      "Fassade",
+      "erhalten",
+      "bleiben"
+     ],
+     "answer": "Wegen des strengen Denkmalschutzes muss die Fassade erhalten bleiben.",
+     "answers": [
+      "Wegen des strengen Denkmalschutzes muss die Fassade erhalten bleiben.",
+      "Die Fassade muss wegen des strengen Denkmalschutzes erhalten bleiben."
+     ],
+     "vi": "Vì quy định bảo tồn di tích nghiêm ngặt, mặt tiền công trình phải được giữ nguyên vẹn."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Statt",
+      "eines",
+      "Spielfilms",
+      "zeigte",
+      "das",
+      "Kino",
+      "einen",
+      "Dokumentarfilm"
+     ],
+     "answer": "Statt eines Spielfilms zeigte das Kino einen Dokumentarfilm.",
+     "answers": [
+      "Statt eines Spielfilms zeigte das Kino einen Dokumentarfilm.",
+      "Das Kino zeigte statt eines Spielfilms einen Dokumentarfilm."
+     ],
+     "vi": "Thay vì một phim truyện, rạp chiếu phim đã trình chiếu một phim tài liệu."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Die",
+      "Schauspieler",
+      "des",
+      "Ensembles",
+      "spielten",
+      "ihre",
+      "Rollen",
+      "hervorragend"
+     ],
+     "answer": "Die Schauspieler des Ensembles spielten ihre Rollen hervorragend.",
+     "answers": [
+      "Die Schauspieler des Ensembles spielten ihre Rollen hervorragend.",
+      "Hervorragend spielten die Schauspieler des Ensembles ihre Rollen."
+     ],
+     "vi": "Các diễn viên của đoàn kịch đã thể hiện vai diễn của mình xuất sắc."
+    },
+    {
+     "type": "translate",
+     "vi": "Bức tranh của người họa sĩ rất nổi tiếng.",
+     "answers": [
+      "Das Gemälde des Malers ist sehr berühmt.",
+      "Das Bild des Malers ist sehr bekannt.",
+      "Das Gemälde des Künstlers ist sehr berühmt."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Mặc dù trời mưa, buổi hòa nhạc vẫn diễn ra.",
+     "answers": [
+      "Trotz des Regens fand das Konzert statt.",
+      "Trotz des Regens hat das Konzert stattgefunden."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Vì giá vé cao, chúng tôi đã không đi xem kịch.",
+     "answers": [
+      "Wegen des hohen Ticketpreises gingen wir nicht ins Theater.",
+      "Wegen der hohen Eintrittspreise gingen wir nicht ins Theater."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Trong suốt chuyến tham quan bảo tàng, chúng tôi đã học được nhiều điều.",
+     "answers": [
+      "Während des Rundgangs lernten wir viel.",
+      "Während des Museumsbesuchs haben wir viel gelernt."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Thay vì một bộ phim kịch, họ đã xem một phim hài.",
+     "answers": [
+      "Statt eines Dramas schauten sie eine Komödie.",
+      "Statt eines Dramas sahen sie eine Komödie an."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Vở kịch đã để lại ấn tượng sâu sắc trong lòng khán giả.",
+     "answers": [
+      "Das Theaterstück hinterließ einen tiefen Eindruck beim Publikum.",
+      "Das Theaterstück hat einen bleibenden Eindruck beim Publikum hinterlassen."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Wegen der aufwendigen Restaurierung des Gemäldes bleibt der Saal vorübergehend geschlossen.",
+     "vi": "Do công việc phục chế kỳ công bức tranh, khán phòng tạm thời đóng cửa."
+    },
+    {
+     "type": "listen",
+     "de": "Trotz der Kälte warteten hunderte von Menschen vor dem Einlass zur spektakulären Premiere.",
+     "vi": "Bất chấp giá lạnh, hàng trăm người đã kiên nhẫn chờ đợi trước cửa vào buổi công diễn ngoạn mục."
+    },
+    {
+     "type": "listen",
+     "de": "Während der Führung durch das historische Bauwerk erfuhren wir viele spannende Details.",
+     "vi": "Trong suốt chuyến tham quan công trình lịch sử, chúng tôi đã biết thêm nhiều chi tiết thú vị."
+    },
+    {
+     "type": "listen",
+     "de": "Die meisterhafte Inszenierung des Regisseurs wurde vom Publikum mit stürmischem Beifall gefeiert.",
+     "vi": "Cách dàn dựng sân khấu bậc thầy của đạo diễn đã được khán giả hoan nghênh bằng những tràng pháo tay cuồng nhiệt."
+    },
+    {
+     "type": "speak",
+     "de": "Das beeindruckende Werk des Künstlers steht im Mittelpunkt der aktuellen Ausstellung.",
+     "vi": "Tác phẩm đầy ấn tượng của người nghệ sĩ đứng ở vị trí trung tâm của cuộc triển lãm hiện tại."
+    },
+    {
+     "type": "speak",
+     "de": "Wegen des Denkmalschutzes darf das historische Gebäude nicht abgerissen werden.",
+     "vi": "Do quy chế bảo tồn di tích, tòa nhà lịch sử không được phép dỡ bỏ."
+    },
+    {
+     "type": "speak",
+     "de": "Statt eines teuren Gemäldes kaufte sie eine kunstvolle Zeichnung einer jungen Malerin.",
+     "vi": "Thay vì một bức tranh sơn dầu đắt tiền, cô ấy đã mua bức vẽ nghệ thuật của một nữ họa sĩ trẻ."
+    },
+    {
+     "type": "speak",
+     "de": "Kulturelle Veranstaltungen erweitern unseren Horizont und bereichern das Zusammenleben.",
+     "vi": "Các sự kiện văn hóa mở rộng tầm hiểu biết của chúng ta và làm phong phú cuộc sống chung."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "das Meisterwerk",
+       "kiệt tác nghệ thuật"
+      ],
+      [
+       "die Vernissage",
+       "lễ khai mạc triển lãm"
+      ],
+      [
+       "das Kulturdenkmal",
+       "di tích văn hóa"
+      ],
+      [
+       "der Denkmalschutz",
+       "bảo tồn di tích"
+      ],
+      [
+       "die Generalprobe",
+       "buổi tổng duyệt"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "den Horizont erweitern",
+       "mở rộng tầm hiểu biết"
+      ],
+      [
+       "Eindruck hinterlassen",
+       "để lại ấn tượng"
+      ],
+      [
+       "zur Aufführung bringen",
+       "đưa lên sân khấu"
+      ],
+      [
+       "im Mittelpunkt stehen",
+       "ở vị trí trung tâm"
+      ],
+      [
+       "Beifall klatschen",
+       "vỗ tay tán thưởng"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });

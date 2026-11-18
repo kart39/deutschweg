@@ -2186,6 +2186,956 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b1-u11-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Phân biệt quan hệ Nguyên nhân (Kausal) và Nhượng bộ / Nghịch lý (Konzessiv)\n\nTrong tiếng Đức B1, việc nắm vững cách diễn đạt nguyên nhân và sự tương phản nghịch lý là chìa khóa để viết và nói mạch lạc trong các cuộc thảo luận xã hội:\n\n| Ý nghĩa | Liên từ phụ thuộc (Kausalsatz/Konzessivsatz) $\\rightarrow$ Động từ đứng CUỐI | Trạng từ liên kết (Konjunktionaladverb) $\\rightarrow$ Động từ đứng VỊ TRÍ 2 | Giới từ đi với danh từ (Präposition) $\\rightarrow$ Đòi cách GENITIV |\n| :--- | :--- | :--- | :--- |\n| **Nguyên nhân - Kết quả** (Kausal) | **weil**, **da** (bởi vì)<br>- *Weil viele Bürger mithelfen, gelingt das Projekt.* | **deshalb**, **deswegen**, **daher** (do đó, vì vậy)<br>- *Viele Bürger helfen mit. Deshalb gelingt das Projekt.* | **wegen**, **aufgrund** (+ Genitiv) (do, vì)<br>- *Wegen des großen Engagements gelingt das Projekt.* |\n| **Tương phản - Nghịch lý** (Konzessiv) | **obwohl** (mặc dù)<br>- *Obwohl es stark regnete, demonstrierten die Menschen.* | **trotzdem**, **dennoch** (tuy nhiên, dẫu vậy)<br>- *Es regnete stark. Trotzdem demonstrierten die Menschen.* | **trotz** (+ Genitiv) (bất chấp, mặc dù)<br>- *Trotz starken Regens demonstrierten die Menschen.* |\n\n> [!IMPORTANT]\n> - Sau **obwohl / weil / da**: Mệnh đề phụ (Nebensatz), động từ chia được đẩy xuống **cuối câu**.\n> - Sau **trotzdem / dennoch / deshalb / daher**: Trạng từ liên kết đứng ở vị trí 1, động từ chia đứng ngay ở **vị trí 2**, rồi mới đến chủ ngữ (*Inversion*).\n> - Sau **trotz / wegen**: Giới từ đòi danh từ ở **Genitiv** (*trotz des schlechten Wetters*, *wegen der Proteste*).\n\n---\n\n## 2. Đại từ nghi vấn và Đại từ trạng từ đi với giới từ (Pronominaladverbien)\n\nKhi động từ, danh từ hoặc tính từ đòi một **giới từ cố định** (*sich engagieren für*, *sich beteiligen an*, *protestieren gegen*):\n\n### A. Dùng cho Sự vật, Sự việc, Hiện tượng trừu tượng\n- **Hỏi:** **wo(r)-** + Giới từ\n  - *Wofür interessierst du dich?* (Bạn quan tâm đến điều gì?)\n  - *Worüber diskutiert der Stadtrat?* (Hội đồng thành phố đang thảo luận về điều gì?)\n  - *Woran liegt das Problem?* (Vấn đề nằm ở chỗ nào?)\n- **Đáp / Thay thế:** **da(r)-** + Giới từ\n  - *Ich interessiere mich **dafür**.* (Tôi quan tâm đến điều đó.)\n  - *Sie sprechen **darüber**.* (Họ nói về điều đó.)\n  - *Niemand hat **daran** gezweifelt.* (Không ai hoài nghi về điều đó.)\n\n### B. Dùng cho Người (Personen)\n- **Hỏi:** Giới từ + **wen** (Akkusativ) hoặc **wem** (Dativ)\n  - *Für wen stimmst du bei der Wahl?* (Bạn bỏ phiếu cho ai?) $\\rightarrow$ KHÔNG ĐƯỢC NÓI *Wofür stimmst du?* nếu hỏi về ứng viên.\n  - *Mit wem sprichst du?* (Bạn nói chuyện với ai?) $\\rightarrow$ KHÔNG DÙNG *Womit*.\n- **Đáp / Thay thế:** Giới từ + **Đại từ nhân xưng** (Personalpronomen)\n  - *Ich stimme für **ihn**.* (Tôi bỏ phiếu cho ông ấy.)\n  - *Wir arbeiten mit **ihnen** zusammen.* (Chúng tôi hợp tác với họ.)\n\n---\n\n## 3. Liên từ sóng đôi (Zweiteilige Konnektoren) trong nghị luận xã hội\n\n- **einerseits … andererseits** (một mặt ... mặt khác): Nêu lên hai khía cạnh đối lập hoặc cân nhắc.\n  - {{Einerseits fordert die Bürgerinitiative mehr Grünflächen, andererseits benötigt die Stadt bezahlbaren Wohnraum.}}\n- **nicht nur … sondern auch** (không những ... mà còn): Bổ sung nhấn mạnh hai yếu tố tích cực hoặc cùng chiều.\n  - {{Die Abgeordneten verabschiedeten nicht nur das neue Gesetz, sondern sie sicherten auch die Finanzierung.}}\n- **zwar … aber** (tuy ... nhưng): Thừa nhận một nhược điểm nhưng khẳng định vế sau quan trọng hơn.\n  - {{Das Ehrenamt ist zwar zeitaufwendig, aber es bereichert das persönliche Leben enorm.}}\n- **sowohl … als auch** (cũng như, cả A lẫn B): Liệt kê bình đẳng.\n  - {{Die Ausstellung fördert sowohl den interkulturellen Dialog als auch die gegenseitige Toleranz.}}\n\n---\n\n## 4. 6 lỗi người Việt hay mắc về ngữ pháp và cấu trúc câu (✗ → ✓)\n\n### Lỗi 1: Đẩy động từ xuống cuối câu sau \"trotzdem\"\n- ✗ *Es regnete in Strömen, trotzdem die Bürger auf die Straße gingen.*\n- ✓ {{Es regnete in Strömen, trotzdem gingen die Bürger auf die Straße.}}\n- *Giải thích:* *Trotzdem* là Konjunktionaladverb (chiếm vị trí 1), sau nó động từ phải đứng ở **vị trí 2** ({{trotzdem gingen die Bürger}}), không đẩy động từ xuống cuối như *obwohl*.\n\n### Lỗi 2: Dùng \"wofür / worüber\" cho người\n- ✗ *Wofür kandidiert dieser junge Politiker? - Er kandidiert für Bürgermeister.* (Khi hỏi ủng hộ ai)\n- ✓ {{Für wen kandidiert dieser junge Politiker?}}\n- *Giải thích:* Với người, luôn dùng **Giới từ + wen/wem** ({{Für wen}}, {{Mit wem}}, {{Über wen}}), không dùng tiền tố *wo-*.\n\n### Lỗi 3: Dùng sai cách Dativ sau giới từ \"trotz\"\n- ✗ *Trotz dem schlechten Ergebnis gab der Kandidat nicht auf.*\n- ✓ {{Trotz des schlechten Ergebnisses gab der Kandidat nicht auf.}}\n- *Giải thích:* Trong văn viết chuẩn và kỳ thi B1/B2, sau {{trotz}} bắt buộc chia **Genitiv** ({{trotz des schlechten Ergebnisses}}).\n\n### Lỗi 4: Nhầm lẫn giữa \"obwohl\" (nhượng bộ) và \"weil\" (nguyên nhân)\n- ✗ *Die Bürgerinitiative protestierte, weil der Bürgermeister alle Anträge ablehnte.* (Khi muốn nói: dù bị từ chối họ vẫn tiếp tục biểu tình)\n- ✓ {{Obwohl der Bürgermeister die Anträge ablehnte, protestierte die Bürgerinitiative unermüdlich weiter.}}\n- *Giải thích:* Khi hai vế đối lập nghịch lý, phải dùng {{obwohl}} chứ không dùng *weil*.\n\n### Lỗi 5: Đảo ngữ sai vị trí sau vế \"aber\" của cặp \"zwar ... aber\"\n- ✗ *Zwar stimmten viele Bürger ab, aber gab es keine eindeutige Mehrheit.*\n- ✓ {{Zwar stimmten viele Bürger ab, aber es gab keine eindeutige Mehrheit.}}\n- *Giải thích:* *Aber* là liên từ kết hợp vị trí 0 (Null-Position), theo sau nó trật tự từ là Chủ ngữ + Động từ ({{aber es gab}}), không đảo động từ lên đầu mệnh đề.\n\n### Lỗi 6: Dùng \"deshalb\" mà quên đảo vị trí Chủ ngữ - Động từ\n- ✗ *Die Stadt brauchte neue Schulen, deshalb die Bürger mehr Steuern zahlten.*\n- ✓ {{Die Stadt brauchte neue Schulen, deshalb zahlten die Bürger mehr Steuern.}}\n- *Giải thích:* *Deshalb* là trạng từ chỉ nguyên nhân đứng đầu vế 2, động từ phải đứng ngay sau nó ({{deshalb zahlten die Bürger}}).\n\n---\n\n## 5. Ví dụ củng cố bổ sung\n- {{Das Parlament verabschiedete ein zukunftsweisendes Gesetz zur Chancengleichheit aller gesellschaftlichen Gruppen.}} (Nghị viện đã thông qua một đạo luật mang tính định hướng tương lai về sự bình đẳng cơ hội cho mọi nhóm xã hội.)\n- {{Die engagierte Bürgerinitiative rief zu einer friedlichen Demonstration für mehr Zivilcourage auf.}} (Phong trào công dân đầy tâm huyết đã kêu gọi một cuộc biểu tình ôn hòa vì tinh thần dũng cảm dân sự cao hơn.)\n- {{Obwohl der neue Vorschlag umstritten war, stimmte die deutliche Mehrheit der Stadträte dafür.}} (Mặc dù đề xuất mới còn nhiều tranh cãi, đa số rõ ràng các nghị viên thành phố vẫn bỏ phiếu tán thành.)\n- {{Trotz unvorhergesehener Widerstände setzten sich die Freiwilligen beharrlich für Toleranz und Menschenrechte ein.}} (Bất chấp những trở ngại bất ngờ, những người tình nguyện vẫn kiên trì dấn thân vì lòng khoan dung và nhân quyền.)\n- {{Weder Gleichgültigkeit noch Vorurteile können das friedliche Zusammenleben in unserer Gesellschaft gefährden, wenn Bürger zusammenhalten.}} (Cả sự thờ ơ lẫn định kiến đều không thể đe dọa sự chung sống hòa bình trong xã hội chúng ta nếu người dân biết đoàn kết.)\n",
+   "vocab": [
+    {
+     "de": "Demokratie",
+     "article": "die",
+     "plural": "Demokratien",
+     "pos": "noun",
+     "ipa": "demoˈkʁaːtiː",
+     "vi": "nền dân chủ, chế độ dân chủ",
+     "example": "Eine lebendige Demokratie lebt von der aktiven Teilnahme aller Bürger am gesellschaftlichen Geschehen.",
+     "exampleVi": "Một nền dân chủ tràn đầy sức sống tồn tại nhờ sự tham gia tích cực của mọi công dân vào đời sống xã hội."
+    },
+    {
+     "de": "Verfassung",
+     "article": "die",
+     "plural": "Verfassungen",
+     "pos": "noun",
+     "ipa": "fɛɐ̯ˈfasʊŋ",
+     "vi": "hiến pháp, văn bản luật cơ bản của một quốc gia",
+     "example": "Die demokratische Verfassung garantiert allen Bürgern grundlegende Rechte und Freiheiten.",
+     "exampleVi": "Hiến pháp dân chủ đảm bảo cho mọi công dân các quyền lợi và quyền tự do căn bản."
+    },
+    {
+     "de": "Grundgesetz",
+     "article": "das",
+     "plural": "Grundgesetze",
+     "pos": "noun",
+     "ipa": "ˈɡʁʊntɡəˌzɛts",
+     "vi": "Luật cơ bản (Hiến pháp của Cộng hòa Liên bang Đức)",
+     "example": "Artikel 1 des Grundgesetzes besagt unmissverständlich, dass die Würde des Menschen unantastbar ist.",
+     "exampleVi": "Điều 1 của Luật Cơ bản khẳng định dứt khoát rằng phẩm giá con người là bất khả xâm phạm."
+    },
+    {
+     "de": "Bürgerinitiative",
+     "article": "die",
+     "plural": "Bürgerinitiativen",
+     "pos": "noun",
+     "ipa": "ˈbʏʁɡɐʔinitsi̯aˌtiːvə",
+     "vi": "sáng kiến công dân, phong trào tự phát của người dân vì một mục tiêu địa phương",
+     "example": "Die neu gegründete Bürgerinitiative kämpft für den Erhalt des alten Stadtparks.",
+     "exampleVi": "Sáng kiến công dân mới được thành lập đấu tranh cho việc gìn giữ công viên thành phố cũ."
+    },
+    {
+     "de": "Demonstration",
+     "article": "die",
+     "plural": "Demonstrationen",
+     "pos": "noun",
+     "ipa": "demɔnstʁaˈtsi̯oːn",
+     "vi": "cuộc biểu tình, cuộc tuần hành đòi quyền lợi",
+     "example": "Tausende Menschen nahmen an der friedlichen Demonstration für den Klimaschutz teil.",
+     "exampleVi": "Hàng nghìn người đã tham gia vào cuộc biểu tình ôn hòa vì mục tiêu bảo vệ khí hậu."
+    },
+    {
+     "de": "Kundgebung",
+     "article": "die",
+     "plural": "Kundgebungen",
+     "pos": "noun",
+     "ipa": "ˈkʊntˌɡeːbʊŋ",
+     "vi": "cuộc mít tinh, đại hội quần chúng ngoài trời",
+     "example": "Auf dem zentralen Marktplatz fand eine große Kundgebung gegen soziale Ungerechtigkeit statt.",
+     "exampleVi": "Tại quảng trường chợ trung tâm đã diễn ra một cuộc mít tinh lớn chống lại sự bất công xã hội."
+    },
+    {
+     "de": "Kompromiss",
+     "article": "der",
+     "plural": "Kompromisse",
+     "pos": "noun",
+     "ipa": "kɔmpʁoˈmɪs",
+     "vi": "sự thỏa hiệp, giải pháp dung hòa đôi bên cùng chấp nhận",
+     "example": "Nach langen und zähen Verhandlungen einigten sich die Parteien auf einen vernünftigen Kompromiss.",
+     "exampleVi": "Sau các cuộc đàm phán kéo dài và cam go, các bên đã nhất trí về một giải pháp thỏa hiệp hợp lý."
+    },
+    {
+     "de": "Petition",
+     "article": "die",
+     "plural": "Petitionen",
+     "pos": "noun",
+     "ipa": "petiˈtsi̯oːn",
+     "vi": "bản kiến nghị, thỉnh nguyện thư gửi cơ quan nhà nước",
+     "example": "Die Nachbarn reichten eine offizielle Petition gegen den geplanten Bau der Autobahn ein.",
+     "exampleVi": "Các cư dân láng giềng đã nộp một bản kiến nghị chính thức phản đối dự án xây dựng đường cao tốc."
+    },
+    {
+     "de": "Chancengleichheit",
+     "article": "die",
+     "plural": "Chancengleichheiten",
+     "pos": "noun",
+     "ipa": "ˈʃɑ̃ːsn̩ˌɡlaɪ̯çhaɪ̯t",
+     "vi": "sự bình đẳng về cơ hội tiếp cận giáo dục và phát triển",
+     "example": "Das deutsche Bildungssystem muss mehr für die tatsächliche Chancengleichheit aller Kinder tun.",
+     "exampleVi": "Hệ thống giáo dục Đức phải nỗ lực nhiều hơn cho sự bình đẳng cơ hội thực sự của mọi đứa trẻ."
+    },
+    {
+     "de": "Toleranz",
+     "article": "die",
+     "plural": "Toleranzen",
+     "pos": "noun",
+     "ipa": "toleˈʁants",
+     "vi": "sự khoan dung, lòng độ lượng và tôn trọng sự khác biệt",
+     "example": "Gegenseitige Toleranz und Respekt sind das unverzichtbare Fundament einer friedlichen Nachbarschaft.",
+     "exampleVi": "Sự khoan dung lẫn nhau và lòng tôn trọng là nền tảng không thể thiếu của một tình làng nghĩa xóm hòa thuận."
+    },
+    {
+     "de": "Solidarität",
+     "article": "die",
+     "plural": "Solidaritäten",
+     "pos": "noun",
+     "ipa": "zɔlidaʁiˈtɛːt",
+     "vi": "tinh thần đoàn kết, sự tương thân tương ái",
+     "example": "In Krisenzeiten beweisen die Menschen in unserer Region eine bemerkenswerte Solidarität.",
+     "exampleVi": "Trong những thời khắc khủng hoảng, người dân trong khu vực chúng tôi thể hiện tinh thần đoàn kết đáng khâm phục."
+    },
+    {
+     "de": "Diskriminierung",
+     "article": "die",
+     "plural": "Diskriminierungen",
+     "pos": "noun",
+     "ipa": "dɪskʁimiˈniːʁʊŋ",
+     "vi": "sự phân biệt đối xử bất công",
+     "example": "Jede Form von rassistischer Diskriminierung am Arbeitsplatz muss konsequent bekämpft werden.",
+     "exampleVi": "Mọi hình thức phân biệt đối xử mang tính kỳ thị chủng tộc nơi làm việc đều phải bị kiên quyết đấu tranh đẩy lùi."
+    },
+    {
+     "de": "Gleichberechtigung",
+     "article": "die",
+     "plural": "Gleichberechtigungen",
+     "pos": "noun",
+     "ipa": "ˈɡlaɪ̯çbəˌʁɛçtɪɡʊŋ",
+     "vi": "sự bình đẳng về quyền lợi giữa các nhóm trong xã hội",
+     "example": "Die volle Gleichberechtigung von Frauen und Männern ist ein zentrales Ziel unserer Gesellschaft.",
+     "exampleVi": "Sự bình đẳng quyền lợi trọn vẹn giữa phụ nữ và nam giới là mục tiêu trọng tâm của xã hội chúng ta."
+    },
+    {
+     "de": "Menschenrecht",
+     "article": "das",
+     "plural": "Menschenrechte",
+     "pos": "noun",
+     "ipa": "ˈmɛnʃn̩ˌʁɛçt",
+     "vi": "nhân quyền, quyền con người cơ bản",
+     "example": "Die weltweite Einhaltung grundlegender Menschenrechte liegt in der Verantwortung aller Staaten.",
+     "exampleVi": "Việc tuân thủ các quyền con người căn bản trên toàn cầu là trách nhiệm của mọi quốc gia."
+    },
+    {
+     "de": "Zivilcourage",
+     "article": "die",
+     "plural": "Zivilcouragen",
+     "pos": "noun",
+     "ipa": "tsiˈviːlkuˌʁaːʒə",
+     "vi": "lòng dũng cảm dân sự, dám đứng lên bảo vệ lẽ phải",
+     "example": "Es erfordert großen Mut und Zivilcourage, bei einem Übergriff in der U-Bahn helfend einzugreifen.",
+     "exampleVi": "Đòi hỏi rất nhiều sự dũng cảm và lòng can đảm dân sự để can thiệp giúp đỡ khi có một vụ bạo lực trên tàu điện ngầm."
+    },
+    {
+     "de": "Kommunalwahl",
+     "article": "die",
+     "plural": "Kommunalwahlen",
+     "pos": "noun",
+     "ipa": "kɔmuˈnaːlˌvaːl",
+     "vi": "cuộc bầu cử chính quyền địa phương (xã, phường, quận, huyện)",
+     "example": "Bei der anstehenden Kommunalwahl entscheiden die Bürger über die Zukunft ihrer eigenen Stadt.",
+     "exampleVi": "Tại cuộc bầu cử chính quyền địa phương sắp tới, người dân sẽ quyết định tương lai của chính thành phố mình."
+    },
+    {
+     "de": "Vereinsleben",
+     "article": "das",
+     "plural": "Vereinsleben",
+     "pos": "noun",
+     "ipa": "fɛɐ̯ˈʔaɪ̯nsˌleːbn̩",
+     "vi": "đời sống hội đoàn, sinh hoạt câu lạc bộ cộng đồng",
+     "example": "Das vielseitige deutsche Vereinsleben stärkt das Gemeinschaftsgefühl und die soziale Einbindung.",
+     "exampleVi": "Đời sống hội đoàn Đức phong phú củng cố ý thức cộng đồng và sự gắn kết xã hội."
+    },
+    {
+     "de": "Vorstand",
+     "article": "der",
+     "plural": "Vorstände",
+     "pos": "noun",
+     "ipa": "ˈfoːɐ̯ˌʃtant",
+     "vi": "ban điều hành, ban chấp hành một hội nhóm hay tổ chức",
+     "example": "Der neu gewählte Vorstand des Sportvereins stellte sogleich seine Ausbaupläne vor.",
+     "exampleVi": "Ban điều hành mới được bầu của câu lạc bộ thể thao đã giới thiệu ngay kế hoạch mở rộng của mình."
+    },
+    {
+     "de": "Gemeinderat",
+     "article": "der",
+     "plural": "Gemeinderäte",
+     "pos": "noun",
+     "ipa": "ɡəˈmaɪ̯ndəˌʁaːt",
+     "vi": "hội đồng nhân dân cấp xã/phường, cơ quan dân cử địa phương",
+     "example": "Der Gemeinderat tagt jeden ersten Donnerstag im Monat öffentlich im Rathaus.",
+     "exampleVi": "Hội đồng cấp xã họp công khai vào mỗi thứ Năm đầu tiên hàng tháng tại tòa thị chính."
+    },
+    {
+     "de": "Bürgermeister",
+     "article": "der",
+     "plural": "Bürgermeister",
+     "pos": "noun",
+     "ipa": "ˈbʏʁɡɐˌmaɪ̯stɐ",
+     "vi": "thị trưởng, người đứng đầu ủy ban nhân dân thành phố hoặc xã",
+     "example": "Die engagierte Bürgermeisterin sprach persönlich mit den betroffenen Anwohnern.",
+     "exampleVi": "Bà thị trưởng đầy tâm huyết đã trực tiếp trò chuyện với các cư dân bị ảnh hưởng."
+    },
+    {
+     "de": "Stadtrat",
+     "article": "der",
+     "plural": "Stadträte",
+     "pos": "noun",
+     "ipa": "ˈʃtatˌʁaːt",
+     "vi": "nghị viên hội đồng thành phố hoặc hội đồng thành phố",
+     "example": "Der Stadtrat stimmte gestern mit breiter Mehrheit für den Bau des neuen Jugendzentrums.",
+     "exampleVi": "Hội đồng thành phố hôm qua đã bỏ phiếu với đa số áp đảo tán thành việc xây dựng trung tâm thanh thiếu niên mới."
+    },
+    {
+     "de": "friedlich",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈfʁiːtlɪç",
+     "vi": "hòa bình, ôn hòa, không dùng bạo lực",
+     "example": "Der Protestmarsch verlief trotz der emotionalen Debatten erfreulicherweise völlig friedlich.",
+     "exampleVi": "Cuộc tuần hành phản đối đã diễn ra hoàn toàn ôn hòa đáng mừng bất chấp các cuộc tranh luận đầy cảm xúc."
+    },
+    {
+     "de": "parteiunabhängig",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "paʁˈtaɪ̯ʔʊnʔapˌhɛŋɪç",
+     "vi": "độc lập, không trực thuộc hay thiên vị đảng phái chính trị nào",
+     "example": "Die Bürgerzeitung berichtet sachlich und streng parteiunabhängig über das Stadtgeschehen.",
+     "exampleVi": "Tờ báo công dân đưa tin một cách khách quan và hoàn toàn phi đảng phái về tình hình thành phố."
+    },
+    {
+     "de": "zivilgesellschaftlich",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "tsiˈviːlɡəˌzɛlʃaftlɪç",
+     "vi": "thuộc về xã hội dân sự, mang tính phong trào nhân dân",
+     "example": "Das Projekt wird von zahlreichen zivilgesellschaftlichen Organisationen tatkräftig unterstützt.",
+     "exampleVi": "Dự án được nhiều tổ chức xã hội dân sự hỗ trợ vô cùng đắc lực."
+    },
+    {
+     "de": "demonstrieren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "demonstriert, demonstrierte, hat demonstriert",
+     "ipa": "demɔnˈstʁiːʁən",
+     "vi": "biểu tình, tuần hành bày tỏ ý kiến công khai",
+     "example": "Am Wochenende demonstrierten hunderte Mieter gegen die drastisch gestiegenen Wohnkosten.",
+     "exampleVi": "Vào cuối tuần, hàng trăm người thuê nhà đã biểu tình chống lại chi phí tiền nhà tăng vọt."
+    },
+    {
+     "de": "protestieren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "protestiert, protestierte, hat protestiert",
+     "ipa": "pʁotɛsˈtiːʁən",
+     "vi": "phản kháng, phản đối kịch liệt một quyết định",
+     "example": "Die Umweltschützer protestierten lautstark gegen die Abholzung des geschützten Stadtwaldes.",
+     "exampleVi": "Những người bảo vệ môi trường đã phản đối ầm ĩ dự án chặt hạ khu rừng thành phố được bảo tồn."
+    },
+    {
+     "de": "verabschieden",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "verabschiedet, verabschiedete, hat verabschiedet",
+     "ipa": "fɛɐ̯ˈʔapˌʃiːdn̩",
+     "vi": "thông qua (một đạo luật, dự thảo); chia tay",
+     "example": "Das Parlament verabschiedete gestern einstimmig ein neues Fördergesetz für Familien.",
+     "exampleVi": "Nghị viện hôm qua đã nhất trí thông qua một đạo luật hỗ trợ mới dành cho các gia đình."
+    },
+    {
+     "de": "befürworten",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "befürwortet, befürwortete, hat befürwortet",
+     "ipa": "bəˈfyːɐ̯ˌvɔʁtn̩",
+     "vi": "tán thành, ủng hộ về mặt chính sách hay đề xuất",
+     "example": "Mehr als zwei Drittel der Befragten befürworten den zügigen Ausbau erneuerbarer Energien.",
+     "exampleVi": "Hơn hai phần ba số người được hỏi tán thành việc nhanh chóng mở rộng năng lượng tái tạo."
+    },
+    {
+     "de": "ablehnen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "lehnt ab, lehnte ab, hat abgelehnt",
+     "ipa": "ˈʔapˌleːnən",
+     "vi": "từ chối, bác bỏ (một kiến nghị, dự luật)",
+     "example": "Der Stadtrat lehnte den unüberlegten Kürzungsplan der Verwaltung nach langer Debatte ab.",
+     "exampleVi": "Hội đồng thành phố đã bác bỏ kế hoạch cắt giảm thiếu suy nghĩ của ban quản lý sau cuộc thảo luận dài."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Hallo Jonas! Ich habe gehört, dass unsere Bürgerinitiative gestern Abend im Gemeinderat gesprochen hat. Worüber habt ihr genau diskutiert?",
+     "vi": "Chào Jonas! Mình nghe nói phong trào công dân của chúng ta tối qua đã phát biểu tại hội đồng xã. Các bạn đã thảo luận cụ thể về điều gì thế?"
+    },
+    {
+     "speaker": "B",
+     "name": "Jonas",
+     "de": "Hallo Linh! Wir haben über den dringend benötigten Fahrradweg entlang der Hauptstraße verhandelt. Wir setzen uns ja schon lange dafür ein.",
+     "vi": "Chào Linh! Chúng mình đã thương lượng về làn đường dành riêng cho xe đạp rất cấp thiết dọc theo tuyến đường chính. Chúng mình đã nỗ lực vì điều đó từ lâu rồi mà."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Und wie hat die Bürgermeisterin reagiert? Hat sie unseren Vorschlag direkt befürwortet?",
+     "vi": "Thế bà thị trưởng đã phản ứng thế nào? Bà ấy có tán thành ngay đề xuất của chúng ta không?"
+    },
+    {
+     "speaker": "B",
+     "name": "Jonas",
+     "de": "Einerseits lobte sie unser großes Engagement, andererseits wies sie auf das sehr knappe Stadtbudget hin.",
+     "vi": "Một mặt bà ấy khen ngợi sự đóng góp to lớn của chúng mình, mặt khác bà ấy chỉ ra ngân sách thành phố đang rất eo hẹp."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Das ist leider das typische Argument. Haben die anderen Stadträte den Antrag deshalb abgelehnt?",
+     "vi": "Đó tiếc thay lại là lý lẽ quen thuộc. Vì thế các nghị viên khác đã bác bỏ đơn kiến nghị à?"
+    },
+    {
+     "speaker": "B",
+     "name": "Jonas",
+     "de": "Nein, glücklicherweise nicht! Obwohl einige Abgeordnete Bedenken äußerten, haben wir einen vernünftigen Kompromiss erzielt.",
+     "vi": "Không, may mắn là không! Mặc dù một số nghị viên bày tỏ e ngại, chúng mình đã đạt được một giải pháp thỏa hiệp hợp lý."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Großartig! Worauf habt ihr euch denn konkret geeinigt?",
+     "vi": "Tuyệt vời quá! Cụ thể thì các bạn đã thống nhất về điều gì?"
+    },
+    {
+     "speaker": "B",
+     "name": "Jonas",
+     "de": "Der Stadtrat wird im kommenden Haushalt nicht nur die Planung finanzieren, sondern auch erste Bauabschnitte beginnen.",
+     "vi": "Hội đồng thành phố trong ngân sách tới sẽ không chỉ chi trả cho khâu quy hoạch, mà còn bắt đầu những giai đoạn thi công đầu tiên."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Das zeigt doch, dass sich Zivilcourage und bürgerschaftliches Engagement wirklich auszahlen!",
+     "vi": "Điều đó cho thấy lòng can đảm dân sự và sự dấn thân của công dân thực sự mang lại kết quả!"
+    },
+    {
+     "speaker": "B",
+     "name": "Jonas",
+     "de": "Absolut. Trotz heftiger Gegenstimmen aus der Wirtschaft haben wir über dreihundert Unterschriften gesammelt.",
+     "vi": "Hoàn toàn đúng. Bất chấp những tiếng nói phản đối gay gắt từ giới kinh doanh, chúng mình đã thu thập được hơn ba trăm chữ ký."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Für wen ist dieser Radweg eigentlich am wichtigsten? Vor allem für Schulkinder, oder?",
+     "vi": "Tuyến đường xe đạp này quan trọng nhất đối với ai? Chủ yếu là cho các em học sinh, đúng không?"
+    },
+    {
+     "speaker": "B",
+     "name": "Jonas",
+     "de": "Ja, genau. Der Weg gewährleistet sowohl mehr Sicherheit für Schüler als auch eine saubere Umwelt für alle Anwohner.",
+     "vi": "Đúng vậy. Tuyến đường đảm bảo sự an toàn cao hơn cho học sinh cũng như một môi trường sạch đẹp hơn cho toàn thể cư dân."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Werdet ihr die Bürger bei einer öffentlichen Kundgebung am Samstag über die Einigung informieren?",
+     "vi": "Các bạn sẽ thông báo cho người dân về thỏa thuận này tại một buổi mít tinh công khai vào thứ Bảy chứ?"
+    },
+    {
+     "speaker": "B",
+     "name": "Jonas",
+     "de": "Ja, wir verteilen Informationsblätter auf dem Marktplatz, damit alle Interessierten mitreden können.",
+     "vi": "Đúng thế, chúng mình sẽ phát tờ rơi thông tin tại quảng trường chợ để tất cả những ai quan tâm đều có thể lên tiếng trao đổi."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Wunderbar! Ich helfe gerne beim Verteilen, denn gelebte Demokratie beginnt direkt vor unserer Haustür.",
+     "vi": "Thật tuyệt vời! Mình rất vui lòng giúp một tay phát tờ rơi, bởi vì một nền dân chủ sống động bắt đầu ngay từ trước thềm nhà chúng ta."
+    }
+   ],
+   "reading": {
+    "title": "Bürgerbeteiligung in Deutschland: Wie gelebte Demokratie im Alltag funktioniert",
+    "text": "In einer modernen Demokratie beschränkt sich die politische Teilhabe der Bevölkerung keineswegs auf den regelmäßigen Gang zur Wahlurne alle vier oder fünf Jahre. Vielmehr gewinnt das alltägliche zivilgesellschaftliche Engagement auf kommunaler Ebene zunehmend an Bedeutung für den gesellschaftlichen Zusammenhalt. Ob bei der Gestaltung von neuen Spielplätzen, bei Entscheidungen über lokale Verkehrsberuhigungen oder beim Schutz wertvoller Grünflächen: Immer mehr Bürgerinnen va Bürger möchten ihre Heimatstadt aktiv mitgestalten und sich Gehör bei den gewählten politischen Vertretern verschaffen.\n\nEin besonders wirksames Instrument dieses Engagements sind sogenannte Bürgerinitiativen. Wenn Anwohner mit einer Entscheidung der Stadtverwaltung unzufrieden sind oder ein drängendes Problem lösen wollen, schließen sie sich zusammen. Sie organisieren friedliche Demonstrationen, verfassen Petitionen und sammeln im Wohnviertel Unterschriften, um den Gemeinderat zum Handeln zu bewegen. Durch diese zielgerichteten Aktionen zwingen sie die verantwortlichen Politiker, tragfähige Kompromisse zu suchen und die berechtigten Anliegen der Nachbarschaft ernst zu nehmen. Zwar stoßen solche Initiativen manchmal auf behördliche Hürden oder stoßen bei lokalen Wirtschaftsverbänden auf Ablehnung, doch letztlich stärken sie das gegenseitige Vertrauen zwischen Bürgern und Institutionen nachhaltig.\n\nDarüber hinaus spielt das vielseitige Vereinsleben in Deutschland eine entscheidende Rolle für das demokratische Miteinander. In Sportvereinen, Kulturkreisen und Freiwilligenorganisationen lernen Menschen jeden Alters, Verantwortung für die Gemeinschaft zu übernehmen, unterschiedliche Meinungen mit Toleranz zu diskutieren und gemeinsame Beschlüsse demokratisch zu fassen. Dieser alltägliche Einsatz für das Gemeinwohl fördert nicht nur die Integration von Neubürgern, sondern vermittelt auch unverzichtbare Werte wie Respekt, Solidarität und gelebte Chancengleichheit.\n\nDemokratie ist folglich kein fertiger Zustand, der für alle Zeiten garantiert ist, sondern ein lebendiger Prozess, der vom ständigen Mitmachen und dem Mut zur Zivilcourage lebt. Wer sich in seiner Stadt für gemeinsame Ziele engagiert, erfährt unmittelbar, dass jede einzelne Stimme zählt und dass das Handeln jedes Einzelnen das Zusammenleben dauerhaft verbessern kann. Eine aktive Bürgerschaft bildet das stärkste Fundament für eine freie und gerechte Gesellschaft.",
+    "vi": "Trong một nền dân chủ hiện đại, sự tham gia chính trị của người dân hoàn toàn không chỉ gói gọn trong việc định kỳ bước tới hòm phiếu cứ bốn hoặc năm năm một lần. Trái lại, sự dấn thân xã hội dân sự thường nhật ở cấp địa phương ngày càng có ý nghĩa to lớn đối với sự gắn kết xã hội. Dù là trong việc thiết kế các sân chơi mới, trong những quyết định về việc giảm tải giao thông nội khu hay việc bảo vệ các mảng xanh quý giá: ngày càng nhiều công dân mong muốn chủ động cùng kiến tạo quê hương mình và cất lên tiếng nói trước những đại diện chính trị được bầu.\n\nMột công cụ đặc biệt hiệu quả của tinh thần dấn thân này là những sáng kiến công dân. Khi cư dân không hài lòng với một quyết định của chính quyền thành phố hoặc muốn giải quyết một vấn đề cấp bách, họ liên kết lại với nhau. Họ tổ chức các cuộc biểu tình ôn hòa, soạn thảo các bản kiến nghị và thu thập chữ ký trong khu dân cư nhằm thúc đẩy hội đồng xã hành động. Thông qua các hành động có mục tiêu này, họ buộc các chính trị gia có trách nhiệm phải tìm kiếm những giải pháp thỏa hiệp khả thi và nghiêm túc lắng nghe những nguyện vọng chính đáng của khu dân cư. Mặc dù các sáng kiến như vậy đôi khi vấp phải những rào cản hành chính hoặc bị các hiệp hội kinh tế địa phương bác bỏ, nhưng sau cùng chúng củng cố bền vững niềm tin lẫn nhau giữa người dân và các cơ quan nhà nước.\n\nBên cạnh đó, đời sống hội đoàn phong phú ở Đức đóng một vai trò mang tính quyết định đối với sự chung sống dân chủ. Trong các câu lạc bộ thể thao, hội nhóm văn hóa và các tổ chức tình nguyện, mọi người ở mọi lứa tuổi học cách gánh vác trách nhiệm vì cộng đồng, thảo luận các ý kiến khác biệt bằng sự khoan dung và cùng đưa ra các nghị quyết chung một cách dân chủ. Sự đóng góp thường nhật này cho lợi ích chung không chỉ thúc đẩy sự hòa nhập của những cư dân mới, mà còn truyền tải những giá trị không thể thiếu như lòng tôn trọng, tình đoàn kết và sự bình đẳng cơ hội sống động.\n\nDo đó, dân chủ không phải là một trạng thái hoàn chỉnh được bảo đảm mãi mãi, mà là một tiến trình sống động dựa vào sự chung tay liên tục và lòng dũng cảm dân sự. Bất cứ ai dấn thân trong thành phố của mình vì những mục tiêu chung đều cảm nhận trực tiếp rằng mỗi lá phiếu, mỗi tiếng nói đều có giá trị và hành động của mỗi cá nhân đều có thể cải thiện sự chung sống lâu dài. Một cộng đồng công dân tích cực chính là nền tảng vững chắc nhất cho một xã hội tự do và công bằng.",
+    "glossary": [
+     {
+      "de": "beschränken sich auf",
+      "vi": "giới hạn / gói gọn trong điều gì"
+     },
+     {
+      "de": "Verkehrsberuhigung",
+      "vi": "biện pháp giảm tốc độ và lưu lượng giao thông trong khu dân cư"
+     },
+     {
+      "de": "tragfähiger Kompromiss",
+      "vi": "giải pháp thỏa hiệp bền vững và khả thi"
+     },
+     {
+      "de": "Gemeinwohl",
+      "vi": "lợi ích chung của toàn xã hội"
+     }
+    ],
+    "questions": [
+     {
+      "question": "Worauf beschränkt sich die politische Teilhabe in einer lebendigen Demokratie laut Text nicht?",
+      "options": [
+       "Auf das bloße Wählen alle vier oder fünf Jahre",
+       "Auf das Mitwirken in lokalen Bürgerinitiativen",
+       "Auf das Engagement in gemeinnützigen Vereinen",
+       "Auf den Schutz von städtischen Grünflächen"
+      ],
+      "answer": 0,
+      "explanation": "Câu đầu tiên nêu rõ sự tham gia chính trị không chỉ giới hạn ở việc định kỳ đi bầu cử: 'beschränkt sich die politische Teilhabe der Bevölkerung keineswegs auf den regelmäßigen Gang zur Wahlurne alle vier oder fünf Jahre'."
+     },
+     {
+      "question": "Was tun engagierte Bürger, wenn sie mit einer Verwaltungsentscheidung unzufrieden sind?",
+      "options": [
+       "Sie organisieren Proteste, schreiben Petitionen und sammeln Unterschriften",
+       "Sie ziehen sofort vor das Bundesverfassungsgericht",
+       "Sie verweigern ausnahmslos die Zahlung von Kommunalsteuern",
+       "Sie gründen umgehend eine bundesweite politische Partei"
+      ],
+      "answer": 0,
+      "explanation": "Theo đoạn 2: 'Sie organisieren friedliche Demonstrationen, verfassen Petitionen und sammeln im Wohnviertel Unterschriften'."
+     },
+     {
+      "question": "Wozu zwingen Bürgerinitiativen die lokalen Politiker?",
+      "options": [
+       "Zur Suche nach tragfähigen Kompromissen und zur Beachtung von Bürgeranliegen",
+       "Zum sofortigen Rücktritt aus ihren politischen Ämtern",
+       "Zu einem vollständigen Verzicht auf Haushaltspläne",
+       "Zur Einführung von verpflichtenden Mitgliedsbeiträgen"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn 2 nêu: 'Durch diese zielgerichteten Aktionen zwingen sie die verantwortlichen Politiker, tragfähige Kompromisse zu suchen und die berechtigten Anliegen der Nachbarschaft ernst zu nehmen'."
+     },
+     {
+      "question": "Welche wichtige gesellschaftliche Funktion erfüllt das deutsche Vereinsleben?",
+      "options": [
+       "Es vermittelt Werte wie Toleranz, Solidarität und demokratische Entscheidungsfindung",
+       "Es ersetzt die Arbeit von gewählten Kommunalparlamenten vollständig",
+       "Es dient ausschließlich der wirtschaftlichen Gewinnmaximierung",
+       "Es richtet sich vor allem an vermögende Bürger der Oberschicht"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn 3 khẳng định hội đoàn rèn luyện tinh thần trách nhiệm, tôn trọng ý kiến khác biệt và 'vermittelt auch unverzichtbare Werte wie Respekt, Solidarität und gelebte Chancengleichheit'."
+     },
+     {
+      "question": "Wie wird die Demokratie im Schlusssatz des Textes charakterisiert?",
+      "options": [
+       "Als lebendiger Prozess, der vom ständigen Mitmachen und Zivilcourage lebt",
+       "Als abgeschlossener Zustand, der für alle Zeiten garantiert ist",
+       "Als rein bürokratisches System ohne Bürgerbeteiligung",
+       "Als theoretisches Modell ohne praktischen Nutzen im Alltag"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn cuối nhấn mạnh: 'Demokratie ist kein fertiger Zustand... sondern ein lebendiger Prozess, der vom ständigen Mitmachen und dem Mut zur Zivilcourage lebt'."
+     }
+    ]
+   },
+   "writing": {
+    "task": "Sie haben im Internet ein Diskussionsforum zum Thema 'Politisches und gesellschaftliches Engagement junger Menschen vor Ort' gefunden. Schreiben Sie einen Beitrag dazu (mindestens 80 Wörter).\nGehen Sie auf folgende Punkte ein:\n1. Äußern Sie Ihre persönliche Meinung zum gesellschaftlichen Engagement junger Menschen.\n2. Nennen Sie Gründe, warum manche Jugendliche zögern, sich politisch zu beteiligen.\n3. Berichten Sie über eine Bürgerinitiative oder ein Hilfsprojekt in Ihrer Heimat.\n4. Schlagen Sie Möglichkeiten vor, wie Gemeinden Jugendliche besser einbinden können.",
+    "sample": "Ich möchte mich gern an der spannenden Diskussion über das Engagement junger Menschen in unserer Gesellschaft beteiligen. Meiner Ansicht nach ist die aktive Teilhabe der Jugend von unschätzbarem Wert für die Weiterentwicklung unserer Demokratie. Wenn junge Menschen mitentscheiden, bringen sie frische Ideen und neue Perspektiven in kommunale Entscheidungsprozesse ein.\n\nAllerdings zögern viele Jugendliche heute, sich aktiv in traditionellen Parteien oder Vereinen zu engagieren. Einerseits fehlt es oft an verständlichen Informationen über politische Abläufe, andererseits haben viele das Gefühl, dass ihre Anliegen von der älteren Generation nicht wirklich ernst genommen werden. Zudem beanspruchen Schule und Ausbildung bereits einen Großteil ihrer täglichen Zeit.\n\nIn meiner Heimatstadt in Vietnam habe ich an einer von Jugendlichen organisierten Umweltinitiative teilgenommen. Obwohl wir anfangs nur wenige Freiwillige waren, gelang es uns, einen öffentlichen Park von Plastikmüll zu säubern und viele Anwohner für den Umweltschutz zu sensibilisieren. Dieses Erlebnis hat mir gezeigt, dass bürgerschaftliches Engagement tatsächlich etwas bewegen kann.\n\nUm Jugendliche besser einzubinden, sollten Gemeinden Jugendparlamente einrichten und digitale Plattformen für Vorschläge nutzen. Wenn junge Stimmen echtes Gewicht haben, wächst auch die Bereitschaft, Verantwortung für die Gesellschaft zu übernehmen."
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Welche Konjunktion leitet einen Nebensatz mit Verb am Ende ein und drückt einen Gegensatz aus?",
+     "options": [
+      "Obwohl",
+      "Trotzdem",
+      "Deshalb",
+      "Wegen"
+     ],
+     "answer": 0,
+     "explain": "'Obwohl' là liên từ phụ diễn tả sự nhượng bộ / tương phản, đẩy động từ xuống cuối mệnh đề."
+    },
+    {
+     "type": "mcq",
+     "q": "Es regnete am Samstag in Strömen. ______ kamen hunderte Menschen zur friedlichen Kundgebung.",
+     "options": [
+      "Trotzdem",
+      "Obwohl",
+      "Weil",
+      "Da"
+     ],
+     "answer": 0,
+     "explain": "'Trotzdem' là trạng từ liên kết đứng ở đầu câu làm đảo động từ lên vị trí 2 (kamen hunderte Menschen)."
+    },
+    {
+     "type": "mcq",
+     "q": "______ hat die Mehrheit der Fraktion bei der gestrigen Abstimmung gestimmt?",
+     "options": [
+      "Für wen",
+      "Wofür",
+      "Worüber",
+      "Dafür"
+     ],
+     "answer": 0,
+     "explain": "Khi hỏi về việc bỏ phiếu ủng hộ ứng viên nào (người), ta dùng giới từ + wen: 'Für wen'."
+    },
+    {
+     "type": "mcq",
+     "q": "Die Anwohner fordern eine Verkehrsberuhigung. Die Politiker debattieren schon seit Wochen ______.",
+     "options": [
+      "darüber",
+      "über ihn",
+      "wofür",
+      "daran"
+     ],
+     "answer": 0,
+     "explain": "Thảo luận về vấn đề gì (Sache/Thema): 'debattieren über + Akkusativ' -> thay bằng 'darüber'."
+    },
+    {
+     "type": "mcq",
+     "q": "Trotz ______ konnte das neue Jugendzentrum wie geplant eröffnet werden.",
+     "options": [
+      "des knappen Budgets",
+      "dem knappen Budget",
+      "das knappe Budget",
+      "den knappen Budgets"
+     ],
+     "answer": 0,
+     "explain": "'Trotz' đòi cách Genitiv: 'des knappen Budgets'."
+    },
+    {
+     "type": "mcq",
+     "q": "Das bürgerschaftliche Projekt fördert ______ den gesellschaftlichen Zusammenhalt als auch das gegenseitige Verständnis.",
+     "options": [
+      "sowohl",
+      "weder",
+      "entweder",
+      "zwar"
+     ],
+     "answer": 0,
+     "explain": "Cặp liên từ đi với 'als auch' là 'sowohl ... als auch' (vừa ... vừa)."
+    },
+    {
+     "type": "mcq",
+     "q": "Die Stadtverwaltung hat zu wenig Personal. ______ dauern viele Antragsverfahren mehrere Monate.",
+     "options": [
+      "Daher",
+      "Obwohl",
+      "Trotz",
+      "Dennoch"
+     ],
+     "answer": 0,
+     "explain": "'Daher' nêu kết quả nguyên nhân (Do đó, vì thế) và đứng ở vị trí 1, động từ 'dauern' đứng ở vị trí 2."
+    },
+    {
+     "type": "mcq",
+     "q": "Nach langen Verhandlungen konnten die beiden Parteien endlich einen tragfähigen Kompromiss ______.",
+     "options": [
+      "erzielen",
+      "ablehnen",
+      "demonstrieren",
+      "überweisen"
+     ],
+     "answer": 0,
+     "explain": "Kollokation: 'einen Kompromiss erzielen / schließen' (đạt được một thỏa hiệp)."
+    },
+    {
+     "type": "mcq",
+     "q": "Artikel 1 des Grundgesetzes garantiert, dass die Würde des Menschen ______ ist.",
+     "options": [
+      "unantastbar",
+      "überflüssig",
+      "kompliziert",
+      "geheilt"
+     ],
+     "answer": 0,
+     "explain": "'die Würde des Menschen ist unantastbar' (phẩm giá con người là bất khả xâm phạm)."
+    },
+    {
+     "type": "mcq",
+     "q": "Die Bürgerinitiative kämpft beharrlich ______ den Bau der geplanten Hochhaustrassen.",
+     "options": [
+      "gegen",
+      "für",
+      "über",
+      "an"
+     ],
+     "answer": 0,
+     "explain": "'kämpfen gegen + Akkusativ' (đấu tranh chống lại điều gì)."
+    },
+    {
+     "type": "gap",
+     "text": "___ es stark regnete, demonstrierten hunderte Menschen friedlich vor dem Rathaus.",
+     "answers": [
+      "Obwohl|obwohl"
+     ],
+     "hint": "Subjunktion für Konzession",
+     "vi": "Mặc dù trời mưa to, hàng trăm người vẫn biểu tình ôn hòa trước tòa thị chính.",
+     "explain": "Mệnh đề phụ chỉ sự nhượng bộ có động từ đứng cuối 'regnete' đòi hỏi liên từ 'Obwohl'."
+    },
+    {
+     "type": "gap",
+     "text": "Die Bürger fordern mehr Radwege. Sie kämpfen schon seit Jahren ___.",
+     "answers": [
+      "dafür"
+     ],
+     "hint": "Pronominaladverb für die Sache",
+     "vi": "Người dân đòi hỏi nhiều làn đường cho xe đạp hơn. Họ đấu tranh cho điều đó từ nhiều năm nay.",
+     "explain": "'kämpfen für' đi với sự việc đã nhắc đến được thay thế bằng 'dafür'."
+    },
+    {
+     "type": "gap",
+     "text": "Der Verein hatte kein Geld mehr. ___ musste die geplante Informationsveranstaltung leider ausfallen.",
+     "answers": [
+      "Deshalb|Deswegen|Daher"
+     ],
+     "hint": "Kausaladverb",
+     "vi": "Hội không còn tiền nữa. Vì vậy buổi sinh hoạt thông tin dự kiến đáng tiếc đã phải hủy bỏ.",
+     "explain": "Trạng từ chỉ nguyên nhân - hệ quả đứng ở vị trí 1 là 'Deshalb' / 'Deswegen' / 'Daher'."
+    },
+    {
+     "type": "gap",
+     "text": "Das Ehrenamt ist zwar mit viel Arbeit verbunden, ___ es bereichert das gesellschaftliche Miteinander enorm.",
+     "answers": [
+      "aber"
+     ],
+     "hint": "Zweiteiliger Konnektor zu zwar",
+     "vi": "Hoạt động tình nguyện tuy gắn liền với nhiều công việc, nhưng nó làm phong phú sự gắn kết xã hội vô cùng to lớn.",
+     "explain": "Cặp liên từ tương phản: 'zwar ... aber'."
+    },
+    {
+     "type": "gap",
+     "text": "Trotz des lauten ___ stimmte die Mehrheit der Stadträte für das Bauprojekt.",
+     "answers": [
+      "Protests|Protestes"
+     ],
+     "hint": "Nomen 'der Protest' im Genitiv",
+     "vi": "Bất chấp sự phản đối ầm ĩ, đa số các nghị viên thành phố vẫn bỏ phiếu cho dự án xây dựng.",
+     "explain": "'Trotz' + Genitiv: 'der Protest' biến cách thành 'des lauten Protests'."
+    },
+    {
+     "type": "gap",
+     "text": "Das Parlament ___ gestern ein zukunftsweisendes Gesetz zur Chancengleichheit.",
+     "answers": [
+      "verabschiedete"
+     ],
+     "hint": "Verb 'verabschieden' im Präteritum",
+     "vi": "Nghị viện hôm qua đã thông qua một đạo luật mang tính định hướng tương lai về sự bình đẳng cơ hội.",
+     "explain": "Động từ 'verabschieden' chia ở Präteritum cho ngôi thứ ba số ít là 'verabschiedete'."
+    },
+    {
+     "type": "gap",
+     "text": "Einerseits fordert die Jugend mehr Mitsprache, ___ fehlen ihr oft konkrete Mitmachangebote.",
+     "answers": [
+      "andererseits"
+     ],
+     "hint": "Zweiter Teil von einerseits",
+     "vi": "Một mặt giới trẻ đòi hỏi nhiều tiếng nói tham gia hơn, mặt khác họ thường thiếu những cơ hội cụ thể để chung tay.",
+     "explain": "Cặp liên từ: 'einerseits ... andererseits'."
+    },
+    {
+     "type": "gap",
+     "text": "___ interessiert sich die junge Generation heute am meisten?",
+     "answers": [
+      "Wofür|wofür"
+     ],
+     "hint": "Fragewort für Sache mit Präposition für",
+     "vi": "Giới trẻ ngày nay quan tâm nhiều nhất đến điều gì?",
+     "explain": "'sich interessieren für' hỏi về sự việc dùng đại từ trạng từ 'Wofür'."
+    },
+    {
+     "type": "gap",
+     "text": "Das Projekt fördert sowohl Toleranz ___ auch gegenseitigen Respekt.",
+     "answers": [
+      "als"
+     ],
+     "hint": "Zweiter Teil von sowohl",
+     "vi": "Dự án thúc đẩy cả lòng khoan dung lẫn sự tôn trọng lẫn nhau.",
+     "explain": "Cặp liên từ sóng đôi: 'sowohl ... als auch'."
+    },
+    {
+     "type": "gap",
+     "text": "Die Anwohner reichten gestern eine offizielle ___ beim Gemeinderat ein.",
+     "answers": [
+      "Petition"
+     ],
+     "hint": "Nomen für schriftliche Bürgerbitte",
+     "vi": "Các cư dân hôm qua đã nộp một bản kiến nghị chính thức lên hội đồng xã.",
+     "explain": "'eine Petition einreichen' (nộp một bản kiến nghị)."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Obwohl",
+      "die",
+      "Sonne",
+      "schien",
+      "blieben",
+      "viele",
+      "Bürger",
+      "zu",
+      "Hause"
+     ],
+     "answer": "Obwohl die Sonne schien blieben viele Bürger zu Hause.",
+     "answers": [
+      "Obwohl die Sonne schien blieben viele Bürger zu Hause.",
+      "Viele Bürger blieben zu Hause obwohl die Sonne schien."
+     ],
+     "vi": "Mặc dù trời nắng, nhiều công dân vẫn ở nhà."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Trotzdem",
+      "gingen",
+      "die",
+      "engagierten",
+      "Bürger",
+      "auf",
+      "die",
+      "Straße"
+     ],
+     "answer": "Trotzdem gingen die engagierten Bürger auf die Straße.",
+     "answers": [
+      "Trotzdem gingen die engagierten Bürger auf die Straße.",
+      "Die engagierten Bürger gingen trotzdem auf die Straße."
+     ],
+     "vi": "Dẫu vậy những người công dân nhiệt huyết vẫn xuống đường."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Worüber",
+      "diskutieren",
+      "die",
+      "Abgeordneten",
+      "im",
+      "Parlament"
+     ],
+     "answer": "Worüber diskutieren die Abgeordneten im Parlament?",
+     "answers": [
+      "Worüber diskutieren die Abgeordneten im Parlament?"
+     ],
+     "vi": "Các nghị sĩ đang thảo luận về điều gì trong nghị viện?"
+    },
+    {
+     "type": "order",
+     "words": [
+      "Sie",
+      "fördert",
+      "nicht",
+      "nur",
+      "Toleranz",
+      "sondern",
+      "auch",
+      "Solidarität"
+     ],
+     "answer": "Sie fördert nicht nur Toleranz sondern auch Solidarität.",
+     "answers": [
+      "Sie fördert nicht nur Toleranz sondern auch Solidarität."
+     ],
+     "vi": "Cô ấy không chỉ thúc đẩy lòng khoan dung mà còn cả tinh thần đoàn kết."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Trotz",
+      "heftigen",
+      "Widerstands",
+      "wurde",
+      "der",
+      "Vorschlag",
+      "gestern",
+      "angenommen"
+     ],
+     "answer": "Trotz heftigen Widerstands wurde der Vorschlag gestern angenommen.",
+     "answers": [
+      "Trotz heftigen Widerstands wurde der Vorschlag gestern angenommen.",
+      "Der Vorschlag wurde gestern trotz heftigen Widerstands angenommen."
+     ],
+     "vi": "Bất chấp sự phản kháng gay gắt, đề xuất đã được thông qua vào ngày hôm qua."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Deshalb",
+      "stimmten",
+      "die",
+      "Mitglieder",
+      "für",
+      "den",
+      "vernünftigen",
+      "Kompromiss"
+     ],
+     "answer": "Deshalb stimmten die Mitglieder für den vernünftigen Kompromiss.",
+     "answers": [
+      "Deshalb stimmten die Mitglieder für den vernünftigen Kompromiss.",
+      "Die Mitglieder stimmten deshalb für den vernünftigen Kompromiss."
+     ],
+     "vi": "Vì vậy các thành viên đã bỏ phiếu cho giải pháp thỏa hiệp hợp lý."
+    },
+    {
+     "type": "translate",
+     "vi": "Mặc dù trời mưa to, người dân vẫn tham gia cuộc mít tinh.",
+     "answers": [
+      "Obwohl es stark regnete, nahmen die Bürger an der Kundgebung teil.",
+      "Obwohl es stark geregnet hat, nahmen die Bürger an der Kundgebung teil."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Hội đồng thành phố đã nhất trí thông qua bản kiến nghị.",
+     "answers": [
+      "Der Stadtrat verabschiedete die Petition einstimmig.",
+      "Der Stadtrat hat die Petition einstimmig verabschiedet."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Bạn bỏ phiếu cho ai trong cuộc bầu cử này?",
+     "answers": [
+      "Für wen stimmst du bei dieser Wahl?",
+      "Für wen stimmen Sie bei dieser Wahl?"
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Bất chấp những bất đồng, họ đã đạt được một sự thỏa hiệp tốt đẹp.",
+     "answers": [
+      "Trotz der Meinungsverschiedenheiten erzielten sie einen guten Kompromiss.",
+      "Trotz Meinungsverschiedenheiten haben sie einen guten Kompromiss erzielt."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Dự án này thúc đẩy cả sự khoan dung lẫn sự bình đẳng cơ hội.",
+     "answers": [
+      "Dieses Projekt fördert sowohl Toleranz als auch Chancengleichheit.",
+      "Das Projekt fördert sowohl Toleranz als auch Chancengleichheit."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Các công dân kiên trì đấu tranh vì sự công bằng xã hội.",
+     "answers": [
+      "Die Bürger setzen sich beharrlich für soziale Gerechtigkeit ein.",
+      "Die Bürger kämpfen beharrlich für soziale Gerechtigkeit."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Eine lebendige Demokratie braucht das Engagement aller Bürger.",
+     "vi": "Một nền dân chủ tràn đầy sức sống cần sự dấn thân của mọi công dân."
+    },
+    {
+     "type": "listen",
+     "de": "Obwohl es sehr kalt war, versammelten sich viele Menschen vor dem Rathaus.",
+     "vi": "Mặc dù trời rất lạnh, nhiều người vẫn tập hợp trước tòa thị chính."
+    },
+    {
+     "type": "listen",
+     "de": "Der Gemeinderat einigte sich gestern auf einen fairen Kompromiss.",
+     "vi": "Hội đồng xã hôm qua đã thống nhất về một giải pháp thỏa hiệp công bằng."
+    },
+    {
+     "type": "listen",
+     "de": "Trotz des Regens nahmen hunderte Demonstranten an der friedlichen Kundgebung teil.",
+     "vi": "Bất chấp cơn mưa, hàng trăm người biểu tình đã tham gia cuộc mít tinh ôn hòa."
+    },
+    {
+     "type": "speak",
+     "de": "Gegenseitige Toleranz und Respekt sind unverzichtbar für unsere Gesellschaft.",
+     "vi": "Sự khoan dung lẫn nhau và lòng tôn trọng là điều không thể thiếu cho xã hội chúng ta."
+    },
+    {
+     "type": "speak",
+     "de": "Obwohl die Verhandlungen schwierig waren, wurde ein neues Gesetz verabschiedet.",
+     "vi": "Mặc dù các cuộc đàm phán rất khó khăn, một đạo luật mới đã được thông qua."
+    },
+    {
+     "type": "speak",
+     "de": "Die Bürgerinitiative ruft zu einer friedlichen Kundgebung auf.",
+     "vi": "Sáng kiến công dân kêu gọi một cuộc mít tinh ôn hòa."
+    },
+    {
+     "type": "speak",
+     "de": "Wir setzen uns mit großer Entschlossenheit für Menschenrechte ein.",
+     "vi": "Chúng tôi nỗ lực dấn thân với quyết tâm cao độ vì quyền con người."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "die Zivilcourage",
+       "lòng can đảm dân sự"
+      ],
+      [
+       "die Chancengleichheit",
+       "sự bình đẳng cơ hội"
+      ],
+      [
+       "der Kompromiss",
+       "sự thỏa hiệp dung hòa"
+      ],
+      [
+       "die Verfassung",
+       "hiến pháp quốc gia"
+      ],
+      [
+       "das Grundgesetz",
+       "Luật cơ bản của Đức"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "ein Gesetz",
+       "verabschieden"
+      ],
+      [
+       "einen Kompromiss",
+       "erzielen"
+      ],
+      [
+       "eine Petition",
+       "einreichen"
+      ],
+      [
+       "eine Kundgebung",
+       "veranstalten"
+      ],
+      [
+       "zu Protesten",
+       "aufrufen"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });

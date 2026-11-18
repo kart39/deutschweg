@@ -2137,6 +2137,982 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b1-u10-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Đuôi tính từ khi không có mạo từ (Nullartikel)\n\nKhi đứng trước danh từ mà **không có bất kỳ mạo từ nào** (không có der/die/das cũng như ein/kein/mein), tính từ buộc phải nhận nhiệm vụ làm rõ giống, số và cách của danh từ bằng cách **nhận đuôi của mạo từ xác định** (Signalendungen):\n\n| Cách (Kasus) | Maskulin | Neutral | Feminin | Plural |\n| :--- | :--- | :--- | :--- | :--- |\n| **Nominativ** | gut**er** Tee (der) | kalt**es** Wasser (das) | frisch**e** Milch (die) | neu**e** Fahrkarten (die) |\n| **Akkusativ** | gut**en** Tee (den) | kalt**es** Wasser (das) | frisch**e** Milch (die) | neu**e** Fahrkarten (die) |\n| **Dativ** | gut**em** Tee (dem) | kalt**em** Wasser (dem) | frisch**er** Milch (der) | neu**en** Fahrkarten (den) |\n| **Genitiv** | gut**en** Weines (**-en**!) | kalt**en** Wassers (**-en**!) | frisch**er** Milch (der) | neu**er** Fahrkarten (der) |\n\n> [!CAUTION]\n> **Ngoại lệ cực kỳ quan trọng ở Genitiv:**\n> Ở giống đực (Maskulin) và giống trung (Neutral) thuộc Genitiv, vì danh từ đã có đuôi *-(e)s* (Weines, Wassers), nên đuôi tính từ đổi thành **-en** (KHÔNG PHẢI -es):\n> - {{trotz gut**en** Wetters}} (mặc dù thời tiết đẹp)\n> - {{wegen stark**en** Windes}} (do gió mạnh)\n\n## 2. Phân từ I và Phân từ II dùng làm tính từ (Partizipien als Adjektive)\n\nTrong tiếng Đức, các dạng phân từ có thể đứng trước danh từ và biến cách hệt như một tính từ thông thường:\n\n### A. Phân từ I (Partizip I): Đang diễn ra & Chủ động\n- **Cấu tạo:** Động từ nguyên mẫu + **d** $\\rightarrow$ *Infinitiv + d* (fahrend, wartend, schlafend, überraschend).\n- **Ý nghĩa:** Diễn tả một hành động **đang diễn ra đồng thời** hoặc mang ý nghĩa **chủ động**.\n  - {{der **fahrende** Zug}} = der Zug, der gerade fährt (chuyến tàu đang chạy)\n  - {{die **wartenden** Fahrgäste}} = die Fahrgäste, die warten (những hành khách đang chờ đợi)\n\n### B. Phân từ II (Partizip II): Đã hoàn thành hoặc Bị động\n- **Cấu tạo:** Dạng Partizip II thông thường (ge-..-t / ge-..-en: verspätet, gebucht, reserviert, ausgefallen).\n- **Ý nghĩa:** Diễn tả một hành động **đã hoàn thành trong quá khứ** hoặc mang ý nghĩa **bị động**.\n  - {{das **gebuchte** Hotelzimmer}} = das Zimmer, das gebucht wurde (căn phòng khách sạn đã được đặt)\n  - {{der **ausgefallene** Flug}} = der Flug, der ausgefallen ist (chuyến bay đã bị hủy)\n\n## 3. 6 lỗi điển hình người Việt hay mắc (✗ → ✓)\n\n### Lỗi 1: Dùng đuôi -es ở Genitiv giống đực/trung khi không có mạo từ\n- ✗ *Wegen starkes Regens fiel der Ausflug aus.*\n- ✓ {{Wegen starken Regens fiel der Ausflug aus.}}\n- *Giải thích:* Ở Nullartikel, danh từ giống đực/trung trong Genitiv đã có đuôi -s (Regens), nên đuôi tính từ bắt buộc phải là **-en** ({{starken Regens}}).\n\n### Lỗi 2: Nhầm lẫn giữa Partizip I và Partizip II làm tính từ\n- ✗ *Die verspätenden Passagiere ärgerten sich.*\n- ✓ {{Die verspäteten Passagiere ärgerten sich.}}\n- *Giải thích:* Hành khách bị chậm trễ là trạng thái đã xảy ra / bị động, bắt buộc dùng Partizip II {{verspätet}}, không dùng Partizip I.\n\n### Lỗi 3: Quên chia đuôi tính từ cho Partizip đứng trước danh từ\n- ✗ *Der fahrradfahrend Mann grüßte uns freundlich.*\n- ✓ {{Der fahrradfahrende Mann grüßte uns freundlich.}}\n- *Giải thích:* Khi Partizip I hoặc II đứng trước danh từ làm định ngữ, nó bắt buộc phải được chia đuôi tính từ theo mạo từ và cách của danh từ đó ({{der fahrradfahrende Mann}}).\n\n### Lỗi 4: Dùng nhầm đuôi Dativ số nhiều ở Nullartikel\n- ✗ *Auf dem Bahnsteig standen viele Leute mit schwere Koffer.*\n- ✓ {{Auf dem Bahnsteig standen viele Leute mit schweren Koffern.}}\n- *Giải thích:* Sau giới từ *mit* đòi Dativ số nhiều không có mạo từ, đuôi tính từ là **-en** và danh từ thêm **-n** ({{schweren Koffern}}).\n\n### Lỗi 5: Nhầm lẫn giữa Dativ giống cái và giống đực khi không có mạo từ\n- ✗ *Wir reisten mit großem Freude nach Da Nang.*\n- ✓ {{Wir reisten mit großer Freude nach Da Nang.}}\n- *Giải thích:* {{die Freude}} là danh từ giống cái, đuôi Dativ không có mạo từ là **-er** ({{mit großer Freude}}), không dùng đuôi giống đực *-em*.\n\n### Lỗi 6: Quên chữ \"d\" khi tạo Partizip I\n- ✗ *Die schreiende Kinder spielten am Strand.*\n- ✓ {{Die schreienden Kinder spielten am Strand.}}\n- *Giải thích:* Partizip I của {{schreien}} là {{schreiend-}}, khi đứng trước danh từ số nhiều ở Nominativ có mạo từ xác định nhận đuôi -en thành {{die schreienden Kinder}}.\n\n## 4. Ví dụ củng cố bổ sung\n- {{Trotz schlechten Wetters unternahmen die Urlauber eine abenteuerliche Bergtour.}} (Mặc dù thời tiết xấu, các du khách vẫn thực hiện chuyến leo núi đầy tính phiêu lưu.)\n- {{Der pünktlich abfahrende Fernzug brachte uns entspannt an unser malerisches Reiseziel.}} (Chuyến tàu đường dài khởi hành đúng giờ đã đưa chúng tôi tới điểm đến du lịch đẹp như tranh vẽ một cách thư thái.)\n- {{Mit gepackten Koffern warteten die reisefreudigen Gäste auf den Reiseleiter.}} (Với những chiếc vali đã đóng gói sẵn, những vị khách đam mê du lịch kiên nhẫn chờ người hướng dẫn viên.)\n- {{Gestern tranken wir heißen Tee in einem überfüllten Bahnhofscafé.}} (Hôm qua chúng tôi đã uống trà nóng trong một quán cà phê nhà ga đông nghịt người.)\n- {{Das stornierte Ticket wurde den enttäuschten Reisenden vollständig erstattet.}} (Chiếc vé bị hủy đã được hoàn trả toàn bộ tiền cho những du khách thất vọng.)\n",
+   "vocab": [
+    {
+     "de": "Reiseziel",
+     "article": "das",
+     "plural": "Reiseziele",
+     "pos": "noun",
+     "ipa": "ˈʁaɪ̯zəˌtsiːl",
+     "vi": "điểm đến du lịch, nơi hướng đến của chuyến đi",
+     "example": "Die malerische Ostseeküste ist seit Jahren ein äußerst beliebtes Reiseziel für Familien.",
+     "exampleVi": "Bờ biển Baltic đẹp như tranh vẽ từ nhiều năm nay là điểm đến du lịch vô cùng được ưa chuộng cho các gia đình."
+    },
+    {
+     "de": "Unterkunft",
+     "article": "die",
+     "plural": "Unterkünfte",
+     "pos": "noun",
+     "ipa": "ˈʊntɐˌkʊnft",
+     "vi": "chỗ ở, nơi lưu trú (khách sạn, nhà nghỉ, căn hộ)",
+     "example": "Wir suchten nach einer gemütlichen und gleichzeitig preiswerten Unterkunft in den Bergen.",
+     "exampleVi": "Chúng tôi đã tìm kiếm một chỗ ở ấm cúng đồng thời có giá cả phải chăng trên vùng núi."
+    },
+    {
+     "de": "Pauschalreise",
+     "article": "die",
+     "plural": "Pauschalreisen",
+     "pos": "noun",
+     "ipa": "paʊ̯ˈʃaːlˌʁaɪ̯zə",
+     "vi": "chuyến du lịch trọn gói (bao gồm vé, phòng và ăn uống)",
+     "example": "Bei einer organisierten Pauschalreise muss man sich um fast keine organisatorischen Details kümmern.",
+     "exampleVi": "Trong một chuyến du lịch trọn gói được tổ chức sẵn, người ta hầu như không phải bận tâm về các chi tiết sắp xếp."
+    },
+    {
+     "de": "Fernzug",
+     "article": "der",
+     "plural": "Fernzüge",
+     "pos": "noun",
+     "ipa": "ˈfɛʁnˌtsuːk",
+     "vi": "tàu hỏa đường dài (như ICE, IC, EC)",
+     "example": "Der moderne Fernzug verbindet Frankfurt und Berlin in weniger als vier Stunden Fahrzeit.",
+     "exampleVi": "Chuyến tàu hỏa đường dài hiện đại kết nối Frankfurt và Berlin trong thời gian di chuyển chưa đầy bốn giờ."
+    },
+    {
+     "de": "Buchungsbestätigung",
+     "article": "die",
+     "plural": "Buchungsbestätigungen",
+     "pos": "noun",
+     "ipa": "ˈbuːxʊŋsbəˌʃtɛːtɪɡʊŋ",
+     "vi": "văn bản xác nhận đặt chỗ / đặt vé máy bay, phòng khách sạn",
+     "example": "Bitte drucken Sie die offizielle Buchungsbestätigung aus und legen Sie sie beim Check-in vor.",
+     "exampleVi": "Xin vui lòng in văn bản xác nhận đặt chỗ chính thức và xuất trình khi làm thủ tục nhận phòng."
+    },
+    {
+     "de": "Reisebudget",
+     "article": "das",
+     "plural": "Reisebudgets",
+     "pos": "noun",
+     "ipa": "ˈʁaɪ̯zəbyˌdʒeː",
+     "vi": "ngân sách chi tiêu dự trù cho chuyến du lịch",
+     "example": "Um das knappe Reisebudget nicht zu überschreiten, übernachteten die Studierenden in Jugendherbergen.",
+     "exampleVi": "Để không vượt quá ngân sách du lịch eo hẹp, các sinh viên đã nghỉ qua đêm tại các nhà trọ thanh niên."
+    },
+    {
+     "de": "Reiseleiter",
+     "article": "der",
+     "plural": "Reiseleiter",
+     "pos": "noun",
+     "ipa": "ˈʁaɪ̯zəˌlaɪ̯tɐ",
+     "vi": "hướng dẫn viên du lịch nam",
+     "example": "Der ortskundige Reiseleiter erklärte der Reisegruppe die spannende Geschichte der Altstadt.",
+     "exampleVi": "Người hướng dẫn viên du lịch thông thạo địa phương đã giải thích cho đoàn khách lịch sử hấp dẫn của khu phố cổ."
+    },
+    {
+     "de": "Reiseleiterin",
+     "article": "die",
+     "plural": "Reiseleiterinnen",
+     "pos": "noun",
+     "ipa": "ˈʁaɪ̯zəˌlaɪ̯təʁɪn",
+     "vi": "nữ hướng dẫn viên du lịch",
+     "example": "Die erfahrene Reiseleiterin sprach fließend Deutsch, Englisch und Vietnamesisch.",
+     "exampleVi": "Nữ hướng dẫn viên du lịch giàu kinh nghiệm nói lưu loát tiếng Đức, tiếng Anh và tiếng Việt."
+    },
+    {
+     "de": "Waggon",
+     "article": "der",
+     "plural": "Waggons",
+     "pos": "noun",
+     "ipa": "vaˈɡɔŋ",
+     "vi": "toa tàu hỏa",
+     "example": "Unser reservierter Sitzplatz befand sich im vorderen Waggon der ersten Klasse.",
+     "exampleVi": "Chỗ ngồi đã đặt trước của chúng tôi nằm ở toa tàu phía trước của khoang hạng nhất."
+    },
+    {
+     "de": "Fahrkarte",
+     "article": "die",
+     "plural": "Fahrkarten",
+     "pos": "noun",
+     "ipa": "ˈfaːɐ̯ˌkaʁtə",
+     "vi": "vé tàu xe, vé đi lại",
+     "example": "Vergessen Sie nicht, Ihre Fahrkarte vor Fahrtantritt am Automaten zu entwerten.",
+     "exampleVi": "Đừng quên dập lỗ vé đi lại của bạn tại máy dập vé trước khi khởi hành."
+    },
+    {
+     "de": "Sitzplatzreservierung",
+     "article": "die",
+     "plural": "Sitzplatzreservierungen",
+     "pos": "noun",
+     "ipa": "ˈzɪtsplatsʁezɛʁˌviːʁʊŋ",
+     "vi": "việc đặt chỗ ngồi trước trên tàu xe",
+     "example": "In der Urlaubszeit wird eine frühzeitige Sitzplatzreservierung im Fernverkehr dringend empfohlen.",
+     "exampleVi": "Vào mùa nghỉ lễ, việc đặt chỗ ngồi trước sớm trên các chuyến tàu đường dài được khuyến nghị khẩn thiết."
+    },
+    {
+     "de": "Reiseabenteuer",
+     "article": "das",
+     "plural": "Reiseabenteuer",
+     "pos": "noun",
+     "ipa": "ˈʁaɪ̯zəʔaːbn̩ˌtɔʏ̯ɐ",
+     "vi": "chuyến phiêu lưu du lịch kỳ thú",
+     "example": "Die Rucksackreise durch die Berge Vietnams war ein unvergessliches Reiseabenteuer.",
+     "exampleVi": "Chuyến du lịch ba lô qua các vùng núi non Việt Nam là một chuyến phiêu lưu du lịch không thể nào quên."
+    },
+    {
+     "de": "Hauptsaison",
+     "article": "die",
+     "plural": "Hauptsaisons",
+     "pos": "noun",
+     "ipa": "ˈhaʊ̯ptzɛˌzɔ̃ː",
+     "vi": "mùa du lịch cao điểm",
+     "example": "In der sommerlichen Hauptsaison sind die Preise für Flüge und Unterkünfte deutlich höher.",
+     "exampleVi": "Trong mùa du lịch cao điểm vào mùa hè, giá vé máy bay và phòng nghỉ cao hơn rõ rệt."
+    },
+    {
+     "de": "Nebensaison",
+     "article": "die",
+     "plural": "Nebensaisons",
+     "pos": "noun",
+     "ipa": "ˈneːbn̩zɛˌzɔ̃ː",
+     "vi": "mùa du lịch thấp điểm",
+     "example": "Wer in der Nebensaison verreist, profitiert von günstigeren Preisen und leeren Stränden.",
+     "exampleVi": "Ai đi du lịch vào mùa thấp điểm sẽ được hưởng lợi từ mức giá rẻ hơn và những bãi biển vắng vẻ."
+    },
+    {
+     "de": "eine Reise antreten",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nə ˈʁaɪ̯zə ˈanˌtʁeːtn̩",
+     "vi": "lên đường khởi hành một chuyến đi",
+     "example": "Früh am Montagmorgen traten die Abenteurer voller Vorfreude ihre weite Reise an.",
+     "exampleVi": "Sáng sớm thứ Hai, những nhà thám hiểm đã tràn đầy háo hức lên đường khởi hành chuyến đi xa."
+    },
+    {
+     "de": "in die Ferne schweifen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɪn diː ˈfɛʁnə ˈʃvaɪ̯fn̩",
+     "vi": "mơ mộng về những phương trời xa xôi, đi du lịch xa",
+     "example": "Warum immer in die Ferne schweifen, wenn das Schöne doch so nah liegt?",
+     "exampleVi": "Tại sao cứ phải tìm kiếm nơi phương trời xa xôi, khi những điều tươi đẹp lại ở ngay gần bên?"
+    },
+    {
+     "de": "Vorbereitungen treffen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈfoːɐ̯bəˌʁaɪ̯tʊŋən ˈtʁɛfn̩",
+     "vi": "chuẩn bị, thu xếp kỹ lưỡng cho chuyến đi",
+     "example": "Vor einer Auslandsreise sollte man alle notwendigen Vorbereitungen rechtzeitig treffen.",
+     "exampleVi": "Trước một chuyến đi nước ngoài, người ta nên thu xếp mọi sự chuẩn bị cần thiết kịp thời."
+    },
+    {
+     "de": "das Gepäck aufgeben",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "das ɡəˈpɛk ˈaʊ̯fˌɡeːbn̩",
+     "vi": "làm thủ tục ký gửi hành lý tại quầy",
+     "example": "Am Schalter konnten die Fluggäste ihr schweres Gepäck ohne lange Wartezeit aufgeben.",
+     "exampleVi": "Tại quầy, hành khách đi máy bay đã có thể làm thủ tục ký gửi hành lý nặng mà không phải chờ đợi lâu."
+    },
+    {
+     "de": "die Zelte abbrechen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "diː ˈtsɛltə ˈapˌbʁɛçn̩",
+     "vi": "thu dọn đồ đạc rời đi, kết thúc một chặng lưu trú",
+     "example": "Nach einem erholsamen Monat am Meer brachen sie schließlich ihre Zelte ab und fuhren heim.",
+     "exampleVi": "Sau một tháng nghỉ ngơi thư thái bên bờ biển, cuối cùng họ đã thu dọn đồ đạc rời đi và trở về nhà."
+    },
+    {
+     "de": "den Fahrplan einhalten",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "deːn ˈfaːɐ̯plaːn ˈaɪ̯nˌhaltn̩",
+     "vi": "chạy đúng lịch trình giờ giấc đã quy định",
+     "example": "Wegen technischer Störungen auf der Strecke konnte der Zug den regulären Fahrplan nicht einhalten.",
+     "exampleVi": "Do các sự cố kỹ thuật trên tuyến đường, chuyến tàu đã không thể chạy đúng lịch trình quy định."
+    },
+    {
+     "de": "buchen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "bucht, buchte, hat gebucht",
+     "ipa": "ˈbuːxn̩",
+     "vi": "đặt trước vé tàu xe, phòng khách sạn (+ Akk)",
+     "example": "Wir buchten die Bahnfahrt bereits drei Monate im Voraus, um vom Sparpreis zu profitieren.",
+     "exampleVi": "Chúng tôi đã đặt vé tàu trước ba tháng để được hưởng giá vé tiết kiệm."
+    },
+    {
+     "de": "stornieren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "storniert, stornierte, hat storniert",
+     "ipa": "ʃtɔʁˈniːʁən",
+     "vi": "hủy bỏ chuyến đi, hủy phòng đã đặt (+ Akk)",
+     "example": "Krankheitsbedingt musste die Familie ihren geplanten Sommerurlaub schweren Herzens stornieren.",
+     "exampleVi": "Vì lý do bệnh tật, gia đình đã phải đứt ruột hủy chuyến nghỉ hè đã lên kế hoạch."
+    },
+    {
+     "de": "einchecken",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "checkt ein, checkte ein, hat eingecheckt",
+     "ipa": "ˈaɪ̯nˌtʃɛkn̩",
+     "vi": "làm thủ tục nhận phòng khách sạn / lên tàu bay",
+     "example": "Die Hotelgäste konnten dank digitalem Schlüsselkontaktlos rund um die Uhr einchecken.",
+     "exampleVi": "Khách sạn cho phép khách làm thủ tục nhận phòng không tiếp xúc suốt ngày đêm nhờ chìa khóa số."
+    },
+    {
+     "de": "auschecken",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "checkt aus, checkte aus, hat ausgecheckt",
+     "ipa": "ˈaʊ̯sˌtʃɛkn̩",
+     "vi": "làm thủ tục trả phòng khách sạn khi rời đi",
+     "example": "Am Abreisetag müssen die Gäste das Hotelzimmer bis spätestens elf Uhr auschecken.",
+     "exampleVi": "Vào ngày rời đi, khách phải làm thủ tục trả phòng khách sạn muộn nhất trước mười một giờ."
+    },
+    {
+     "de": "besichtigen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "besichtigt, besichtigte, hat besichtigt",
+     "ipa": "bəˈzɪçtɪɡn̩",
+     "vi": "tham quan danh lam thắng cảnh (+ Akk)",
+     "example": "Während des dreitägigen Aufenthalts besichtigten sie die historische Festung der Stadt.",
+     "exampleVi": "Trong suốt ba ngày lưu trú, họ đã tham quan pháo đài lịch sử của thành phố."
+    },
+    {
+     "de": "abenteuerlich",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈaːbn̩ˌtɔʏ̯ɐlɪç",
+     "vi": "mang tính phiêu lưu mạo hiểm",
+     "example": "Die Fahrt mit der alten Schmalspurbahn durch die Schlucht war wahrhaft abenteuerlich.",
+     "exampleVi": "Chuyến đi bằng tuyến đường sắt khổ hẹp cũ qua hẻm núi thực sự mang tính phiêu lưu kỳ thú."
+    },
+    {
+     "de": "malerisch",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈmaːləʁɪʃ",
+     "vi": "đẹp như tranh vẽ, thơ mộng",
+     "example": "Das kleine Fischerdorf an der Küste besticht durch seine malerischen bunten Holzhäuser.",
+     "exampleVi": "Ngôi làng chài nhỏ bên bờ biển gây ấn tượng mạnh bởi những ngôi nhà gỗ nhiều màu sắc đẹp như tranh vẽ."
+    },
+    {
+     "de": "überfüllt",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "yːbɐˈfʏlt",
+     "vi": "đông nghịt, chật ních người",
+     "example": "In der Ferienzeit sind die Strände und Züge oft hoffnungslos überfüllt.",
+     "exampleVi": "Vào mùa nghỉ lễ, các bãi biển và chuyến tàu thường chật ních người đến tuyệt vọng."
+    },
+    {
+     "de": "reisefreudig",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈʁaɪ̯zəˌfʁɔʏ̯dɪç",
+     "vi": "thích đi du lịch, đam mê khám phá thế giới",
+     "example": "Die Deutschen gelten im internationalen Vergleich als ein besonders reisefreudiges Volk.",
+     "exampleVi": "Người Đức trong so sánh quốc tế được coi là một dân tộc đặc biệt đam mê đi du lịch."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "Huy",
+     "de": "Hallo Sophie! Wie war deine Rucksackreise durch den Schwarzwald? Hast du dich gut erholen können?",
+     "vi": "Chào Sophie! Chuyến đi ba lô qua Rừng Đen của bạn thế nào rồi? Bạn có nghỉ ngơi tốt không?"
+    },
+    {
+     "speaker": "B",
+     "name": "Sophie",
+     "de": "Hallo Huy! Es war ein unvergessliches Reiseabenteuer! Trotz anhaltenden Regens war die Natur einfach atemberaubend.",
+     "vi": "Chào Huy! Đó là một chuyến phiêu lưu du lịch không thể nào quên! Bất chấp mưa kéo dài, thiên nhiên đơn giản là đẹp nghẹt thở."
+    },
+    {
+     "speaker": "A",
+     "name": "Huy",
+     "de": "Hattest du denn im Voraus eine feste Unterkunft gebucht oder bist du spontan gereist?",
+     "vi": "Bạn đã đặt chỗ ở cố định từ trước hay là bạn đi du lịch tự do ngẫu hứng?"
+    },
+    {
+     "speaker": "B",
+     "name": "Sophie",
+     "de": "Wegen der sommerlichen Hauptsaison hatte ich alle Übernachtungen in kleinen Pensionen vorab reserviert.",
+     "vi": "Vì đang vào mùa du lịch cao điểm mùa hè nên mình đã đặt trước tất cả các đêm nghỉ tại các nhà nghỉ nhỏ."
+    },
+    {
+     "speaker": "A",
+     "name": "Huy",
+     "de": "Sehr vernünftig. Wie verlief denn die Anreise mit der Bahn? Konnte der Fernzug den Fahrplan einhalten?",
+     "vi": "Rất hợp lý. Thế chuyến đi đến đó bằng tàu hỏa diễn ra sao? Tàu đường dài có chạy đúng lịch trình không?"
+    },
+    {
+     "speaker": "B",
+     "name": "Sophie",
+     "de": "Leider gab es eine Betriebsstörung. Wegen eines umgestürzten Baumes auf den Schienen hatte der Zug Verspätung.",
+     "vi": "Đáng tiếc là có một sự cố vận hành. Do một cái cây bị đổ xuống đường ray nên chuyến tàu đã bị trễ."
+    },
+    {
+     "speaker": "A",
+     "name": "Huy",
+     "de": "Oh je! Und wie haben die wartenden Fahrgäste auf dem Bahnsteig reagiert?",
+     "vi": "Ôi trời! Và những hành khách đang chờ đợi trên sân ga đã phản ứng ra sao?"
+    },
+    {
+     "speaker": "B",
+     "name": "Sophie",
+     "de": "Viele Reisende waren natürlich verärgert. Aber die Zugbegleiterin informierte uns über einen bereitgestellten Ersatzbus.",
+     "vi": "Nhiều hành khách đương nhiên là bực bội. Nhưng cô nhân viên tàu đã thông báo cho chúng mình về xe buýt thay thế được bố trí."
+    },
+    {
+     "speaker": "A",
+     "name": "Huy",
+     "de": "Zum Glück gab es eine Ausweichmöglichkeit. Bist du dann mit leichtem Gepäck gewandert?",
+     "vi": "May mắn là có phương án thay thế. Thế sau đó bạn đã đi bộ đường dài với hành lý gọn nhẹ chứ?"
+    },
+    {
+     "speaker": "B",
+     "name": "Sophie",
+     "de": "Ja, genau. Mit schwerem Rucksack wäre die anstrengende Tagestour über steile Pfade unmöglich gewesen.",
+     "vi": "Đúng thế. Với một chiếc ba lô nặng thì chuyến đi bộ vất vả trong ngày qua những con đường mòn dốc đứng đã là bất khả thi."
+    },
+    {
+     "speaker": "A",
+     "name": "Huy",
+     "de": "Hast du auch malerische Bergdörfer besichtigen können?",
+     "vi": "Bạn cũng đã tham quan được những ngôi làng miền núi đẹp như tranh vẽ chứ?"
+    },
+    {
+     "speaker": "B",
+     "name": "Sophie",
+     "de": "Ja, wunderschöne Orte! Frisches Quellwasser und regionale Spezialitäten haben jede Anstrengung belohnt.",
+     "vi": "Rồi, những địa điểm đẹp tuyệt vời! Nước suối nguồn tươi mát và các món đặc sản vùng miền đã đền đáp mọi mệt nhọc."
+    },
+    {
+     "speaker": "A",
+     "name": "Huy",
+     "de": "Das klingt herrlich. Wann wirst du deine nächste Reise antreten?",
+     "vi": "Nghe tuyệt vời quá. Khi nào bạn sẽ khởi hành chuyến đi tiếp theo?"
+    },
+    {
+     "speaker": "B",
+     "name": "Sophie",
+     "de": "Im Herbst möchte ich nach Vietnam reisen, um die spektakuläre Ha-Long-Bucht mit eigenen Augen zu sehen!",
+     "vi": "Vào mùa thu mình muốn đi du lịch Việt Nam để được tận mắt chiêm ngưỡng vịnh Hạ Long ngoạn mục!"
+    },
+    {
+     "speaker": "A",
+     "name": "Huy",
+     "de": "Großartig! Ich werde dir gerne die besten Reisetipps für meine Heimat geben.",
+     "vi": "Tuyệt đỉnh! Mình sẽ rất vui lòng chia sẻ cho bạn những mẹo du lịch tuyệt vời nhất về quê hương mình."
+    }
+   ],
+   "reading": {
+    "title": "Sanfter Tourismus im Aufwind: Nachhaltig reisen mit Bahn und Rucksack",
+    "text": "Das weltweite Reiseverhalten befindet sich gegenwärtig in einem grundlegenden Wandel. Jahrzehntelang galt das billige Fliegen in ferne Urlaubsländer als das ultimative Statussymbol für moderne Erholungssuchende. Doch angesichts des spürbaren Klimawandels und der zunehmenden Umweltbelastung durch den internationalen Massentourismus entscheiden sich immer mehr reisefreudige Menschen ganz bewusst für einen Richtungswechsel. Unter dem Leitgedanken des sanften Tourismus entdecken viele Urlauber die Freude an klimafreundlicher Mobilität, regionaler Verwurzelung und naturnahen Reiseerlebnissen abseits überfüllter Touristen-Hotspots.\n\nEin wesentlicher Eckpfeiler dieser neuen Reisekultur ist die bewusste Verlagerung des Verkehrs auf die Schiene. Statt stundenlang in überfüllten Flughafenterminals zu warten, steigen umweltbewusste Reisende in moderne, pünktlich abfahrende Fernzüge ein. Die entspannte Fahrt im Waggon ermöglicht es, die vorüberziehende Landschaft in aller Ruhe zu genießen, ein gutes Buch zu lesen oder Vorbereitungen für das anstehende Reiseabenteuer zu treffen. Zwar stellen unvorhergesehene Betriebsstörungen, Gleiswechsel oder ausgefallene Anschlusszüge die Geduld der Fahrgäste zuweilen auf eine harte Probe, doch dank digitaler Fahrgastinformationen und flexibler Ersatzrouten lässt sich fast jedes Reiseziel zuverlässig erreichen.\n\nAuch am Urlaubsort selbst setzen nachhaltig Reisende auf umweltschonende Fortbewegungsmittel. Mit leichtem Gepäck wandern sie über malerische Höhenwege, nutzen regionale Leihfahrräder oder erkunden entlegene Täler mit elektrisch betriebenen Rufbussen. Als Unterkunft wählen sie bevorzugt familiengeführte Pensionen oder Bio-Bauernhöfe, die regionale und biologisch erzeugte Produkte servieren. Durch diesen bewussten Verzicht auf verschwenderischen Luxus unterstützen die Gäste die lokale Wirtschaft direkt und tragen dazu bei, die kulturelle Identität und die empfindliche Natur der Ferienregion dauerhaft zu bewahren.\n\nNachhaltiges Reisen bedeutet keineswegs langweiligen Verzicht, sondern einen tiefen Gewinn an authentischer Erfahrung und innerer Gelassenheit. Wer mit offenen Augen und wachem Geist durch die Welt geht, erkennt schnell: Wahrer Luxus auf Reisen bemisst sich nicht an der zurückgelegten Distanz, sondern an der Intensität der gesammelten Momente und an dem respektvollen Umgang mit Mensch und Natur. Schließlich hinterlässt ein umsichtiger Urlauber nichts als seine Fußspuren und nimmt unvergessliche Erinnerungen mit nach Hause.",
+    "vi": "Hành vi du lịch trên toàn thế giới hiện nay đang trải qua một sự chuyển mình căn bản. Suốt nhiều thập kỷ qua, việc bay giá rẻ tới những miền đất nghỉ dưỡng xa xôi từng được xem là biểu tượng đẳng cấp tối thượng cho những người tìm kiếm sự nghỉ ngơi hiện đại. Thế nhưng trước biến đổi khí hậu có thể cảm nhận rõ rệt và gánh nặng môi trường ngày càng gia tăng do du lịch đại chúng quốc tế gây ra, ngày càng nhiều người đam mê du lịch quyết định chuyển hướng một cách có ý thức. Dưới tư tưởng chỉ đạo của du lịch bền vững, nhiều du khách khám phá ra niềm vui trong sự di chuyển thân thiện với khí hậu, sự gắn kết với địa phương và những trải nghiệm du lịch gần gũi với thiên nhiên, tránh xa những điểm nóng du lịch chật ních người.\n\nMột trụ cột thiết yếu của văn hóa du lịch mới này là sự chủ động chuyển đổi phương tiện giao thông sang đường sắt. Thay vì chờ đợi hàng giờ trong các nhà ga sân bay đông nghịt người, những du khách có ý thức môi trường bước lên những chuyến tàu đường dài hiện đại, khởi hành đúng giờ. Chuyến đi thư thái trong toa tàu cho phép người ta thưởng thức cảnh sắc lướt qua bên cửa sổ trong sự tĩnh lặng hoàn toàn, đọc một cuốn sách hay hoặc chuẩn bị kỹ càng cho chuyến phiêu lưu du lịch sắp tới. Mặc dù những sự cố vận hành bất ngờ, việc đổi đường ray hay các chuyến tàu nối tiếp bị hủy đôi khi đặt lòng kiên nhẫn của hành khách trước thử thách cam go, nhưng nhờ thông tin hành khách kỹ thuật số và các lộ trình thay thế linh hoạt, hầu như mọi điểm đến đều có thể tới được một cách đáng tin cậy.\n\nNgay tại điểm đến du lịch, những du khách bền vững cũng kiên định chọn các phương tiện đi lại thân thiện với môi trường. Với hành lý gọn nhẹ, họ đi bộ đường dài qua những con đường mòn trên cao đẹp như tranh vẽ, sử dụng xe đạp thuê của địa phương hoặc khám phá những thung lũng xa xôi bằng xe buýt theo yêu cầu chạy bằng điện. Về chỗ ở, họ ưu tiên lựa chọn các nhà nghỉ do gia đình tự quản hoặc các nông trại sinh thái chuyên phục vụ những sản phẩm hữu cơ sản xuất tại địa phương. Qua việc chủ động từ bỏ sự xa hoa lãng phí này, du khách trực tiếp ủng hộ nền kinh tế địa phương và góp phần bảo tồn lâu dài bản sắc văn hóa cùng thiên nhiên nhạy cảm của vùng đất nghỉ dưỡng.\n\nDu lịch bền vững hoàn toàn không có nghĩa là sự từ bỏ buồn tẻ, mà là một sự bồi đắp to lớn cho những trải nghiệm chân thực và sự thanh thản nội tâm. Bất cứ ai bước đi giữa thế giới với đôi mắt rộng mở và tâm trí tỉnh thức đều nhanh chóng nhận ra rằng: Sự xa xỉ đích thực khi đi du lịch không được đo đếm bằng khoảng cách địa lý đã vượt qua, mà bằng chiều sâu của những khoảnh khắc tích lũy được và cách ứng xử đầy tôn trọng đối với con người và thiên nhiên. Sau cùng, một du khách cẩn trọng chỉ để lại những dấu chân và mang theo về nhà những ký ức không bao giờ quên.",
+    "glossary": [
+     {
+      "de": "Tourismus",
+      "article": "der",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "tuˈʁɪsmʊs",
+      "vi": "ngành du lịch, hoạt động du lịch",
+      "example": "Der Tourismus ist eine der wichtigsten Einnahmequellen der Alpenregion.",
+      "exampleVi": "Du lịch là một trong những nguồn thu nhập quan trọng nhất của vùng núi Alps."
+     },
+     {
+      "de": "Massentourismus",
+      "article": "der",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "ˈmasntuˌʁɪsmʊs",
+      "vi": "du lịch đại chúng ồ ạt quá tải",
+      "example": "Der Massentourismus zerstört oft die empfindlichen Ökosysteme an den Küsten.",
+      "exampleVi": "Du lịch đại chúng ồ ạt thường tàn phá các hệ sinh thái nhạy cảm ven biển."
+     },
+     {
+      "de": "Eckpfeiler",
+      "article": "der",
+      "plural": "Eckpfeiler",
+      "pos": "noun",
+      "ipa": "ˈɛkˌpfaɪ̯lɐ",
+      "vi": "trụ cột căn bản, nền tảng cốt lõi",
+      "example": "Klimafreundliche Mobilität ist ein Eckpfeiler der modernen Verkehrspolitik.",
+      "exampleVi": "Giao thông thân thiện với khí hậu là trụ cột cốt lõi của chính sách giao thông hiện đại."
+     },
+     {
+      "de": "Flughafenterminal",
+      "article": "das",
+      "plural": "Flughafenterminals",
+      "pos": "noun",
+      "ipa": "ˈfluːkhaːfn̩ˌtœːɐ̯mɪnl̩",
+      "vi": "nhà ga sân bay đón trả khách",
+      "example": "Im neuen Flughafenterminal gibt es zahlreiche Geschäfte und Restaurants.",
+      "exampleVi": "Trong nhà ga sân bay mới có vô số cửa hàng và nhà hàng."
+     },
+     {
+      "de": "Bio-Bauernhof",
+      "article": "der",
+      "plural": "Bio-Bauernhöfe",
+      "pos": "noun",
+      "ipa": "ˈbiːoˌbaʊ̯ɐnhoːf",
+      "vi": "trang trại nông nghiệp sinh thái hữu cơ",
+      "example": "Familien verbringen ihre Ferien gerne auf einem idyllischen Bio-Bauernhof.",
+      "exampleVi": "Các gia đình rất thích trải qua kỳ nghỉ tại một trang trại sinh thái hữu cơ thơ mộng."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Was galt jahrzehntelang als das typische Statussymbol für moderne Erholungssuchende?",
+      "options": [
+       "Fahrradtouren durch den eigenen Landkreis.",
+       "Billige Flüge in weit entfernte Urlaubsländer.",
+       "Ausschließliche Wanderungen im Schwarzwald."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Warum entscheiden sich heute immer mehr Urlauber für sanften Tourismus?",
+      "options": [
+       "Wegen des spürbaren Klimawandels und der Umweltbelastung durch Massentourismus.",
+       "Weil Flugzeuge gesetzlich weltweit verboten wurden.",
+       "Weil es keine Koffer mehr zu kaufen gibt."
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Welchen Vorteil bietet die Anreise mit dem Zug laut dem Text?",
+      "options": [
+       "Man darf ohne Fahrkarte reisen.",
+       "Man genießt entspannt die vorbeiziehende Landschaft und kann in Ruhe lesen.",
+       "Züge sind grundsätzlich schneller als Flugzeuge."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Welche Unterkünfte bevorzugen nachhaltig Reisende am Urlaubsort?",
+      "options": [
+       "Gigantische Luxushotels internationaler Großkonzerne.",
+       "Familiengeführte Pensionen und Bio-Bauernhöfe mit regionaler Verpflegung.",
+       "Ausschließlich verlassene Berghütten ohne fließendes Wasser."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Woran bemisst sich wahrer Luxus auf Reisen laut dem letzten Absatz?",
+      "options": [
+       "An der maximalen Distanz und teuren Souvenirs.",
+       "An der Intensität der Momente und dem respektvollen Umgang mit Natur und Mensch.",
+       "An der Anzahl der geschossenen Selfies im Internet."
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "writing": {
+    "task": "Sie haben eine dreitägige Bahnreise durch die Berge unternommen. Schreiben Sie einen Reisebericht für ein Online-Reisemagazin (ca. 80-100 Wörter). Schildern Sie den Reiseverlauf, verwenden Sie Adjektive ohne Artikel (z.B. mit leichtem Gepäck, trotz schlechten Wetters) und mindestens ein Partizip als Adjektiv (z.B. der pünktlich abfahrende Zug, die gebuchte Unterkunft). Geben Sie anderen Lesern einen nützlichen Reisetipp. (Bạn đã thực hiện chuyến đi tàu hỏa 3 ngày qua các vùng núi. Viết bài tường thuật chuyến đi cho tạp chí du lịch. Kể lại hành trình, dùng tính từ không mạo từ và ít nhất một phân từ làm tính từ. Đưa ra lời khuyên du lịch hữu ích.)",
+    "minWords": 80,
+    "sample": "Am vergangenen Wochenende unternahm ich eine faszinierende Reise durch die bayerischen Alpen. Mit leichtem Gepäck stieg ich frühmorgens in den pünktlich abfahrenden Fernzug ein. Trotz wechselhaften Wetters während der Fahrt war die Aussicht auf die schneebedeckten Gipfel absolut überwältigend. In einem abgelegenen Bergdorf bezog ich eine gemütliche, vorab gebuchte Unterkunft und unternahm lange Wanderungen an frischer Bergluft. Ein kleiner Tipp für alle reisefreudigen Bahnfahrer: Reservieren Sie stets rechtzeitig Ihren Sitzplatz und packen Sie für unvorhergesehene Verspätungen immer genügend Proviant und heißes Wasser in die Tasche!"
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Wie lautet die richtige Adjektivendung ohne Artikel (Nullartikel) in: „Wir trinken heiß___ Tee“ (Akkusativ Maskulin)?",
+     "options": [
+      "-er",
+      "-es",
+      "-en",
+      "-em"
+     ],
+     "answer": 2,
+     "explain": "'der Tee' ở Akkusativ không mạo từ nhận đuôi '-en' giống như mạo từ 'den': 'heißen Tee'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Adjektivendung steht im Genitiv Maskulin/Neutral ohne Artikel (z.B. „trotz schlecht___ Wetters“)?",
+     "options": [
+      "-es",
+      "-en",
+      "-em",
+      "-er"
+     ],
+     "answer": 1,
+     "explain": "Ngoại lệ đặc biệt ở Genitiv Nullartikel: danh từ giống đực/trung đã có đuôi '-s' (Wetters), nên tính từ bắt buộc nhận đuôi '-en': 'schlechten Wetters'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Partizip drückt eine gerade ablaufende, aktive Handlung aus?",
+     "options": [
+      "Partizip II (ge-..-t / ge-..-en)",
+      "Partizip I (Infinitiv + d)",
+      "Infinitiv mit zu",
+      "Perfektform"
+     ],
+     "answer": 1,
+     "explain": "Partizip I (Infinitiv + d: 'fahrend', 'wartend') diễn tả hành động đang diễn ra và mang nghĩa chủ động."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie das Partizip II als Adjektiv: Das von uns vorab ___ Hotelzimmer war sehr geräumig.",
+     "options": [
+      "buchende",
+      "gebuchte",
+      "gebuchter",
+      "buchendes"
+     ],
+     "answer": 1,
+     "explain": "'das Zimmer' là giống trung, hành động đã hoàn thành dùng Partizip II có đuôi sau mạo từ xác định: 'das gebuchte Hotelzimmer'."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Auf dem Bahnsteig standen viele ___ Fahrgäste.",
+     "options": [
+      "wartende",
+      "gewartete",
+      "wartendes",
+      "wartender"
+     ],
+     "answer": 0,
+     "explain": "Hành khách đang chờ đợi là hành động chủ động đang diễn ra, dùng Partizip I ở số nhiều không mạo từ: 'wartende Fahrgäste'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet das Substantiv „die Pauschalreise“?",
+     "options": [
+      "Eine Reise nur mit dem Fahrrad",
+      "Eine organisierte Reise, bei der Fahrt, Unterkunft und oft Verpflegung im Gesamtpreis enthalten sind",
+      "Eine spontane Fahrt ohne Ticket",
+      "Ein Kurztrip zu Fuß"
+     ],
+     "answer": 1,
+     "explain": "'Die Pauschalreise' là chuyến du lịch trọn gói bao gồm tất cả các dịch vụ vé xe, phòng nghỉ và ăn uống trong một mức giá chung."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
+     "options": [
+      "Mit schwerem Rucksack stieg er auf den Berg.",
+      "Mit schweren Rucksack stieg er auf den Berg.",
+      "Mit schwerer Rucksack stieg er auf den Berg.",
+      "Mit schwer Rucksack stieg er auf den Berg."
+     ],
+     "answer": 0,
+     "explain": "'der Rucksack' là giống đực, sau giới từ 'mit (+ Dat)' không mạo từ, đuôi tính từ là '-em': 'mit schwerem Rucksack'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet die feste Redewendung „die Zelte abbrechen“?",
+     "options": [
+      "Ein Zelt beim Camping beschädigen",
+      "Einen Ort verlassen und seine Abreise antreten",
+      "Im Regen spazieren gehen",
+      "Ein Hotelzimmer buchen"
+     ],
+     "answer": 1,
+     "explain": "'die Zelte abbrechen' là thành ngữ mang nghĩa dọn đồ rời đi, kết thúc chuyến lưu trú ở một nơi."
+    },
+    {
+     "type": "mcq",
+     "q": "Was ist das Gegenteil von „Hauptsaison“?",
+     "options": [
+      "Nebensaison",
+      "Pauschalreise",
+      "Fernzug",
+      "Unterkunft"
+     ],
+     "answer": 0,
+     "explain": "Trái nghĩa với mùa cao điểm ('Hauptsaison') là mùa du lịch thấp điểm ('Nebensaison')."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Adjektiv bedeutet „đẹp như tranh vẽ, thơ mộng“?",
+     "options": [
+      "malerisch",
+      "überfüllt",
+      "abenteuerlich",
+      "schädlich"
+     ],
+     "answer": 0,
+     "explain": "'malerisch' mang nghĩa đẹp như tranh vẽ, nên thơ và hữu tình."
+    },
+    {
+     "type": "gap",
+     "text": "Trotz stark___ Windes landete das Flugzeug pünktlich am Zielflughafen.",
+     "answers": [
+      "en"
+     ],
+     "hint": "Genitiv Maskulin ohne Artikel",
+     "vi": "Bất chấp gió mạnh, máy bay đã hạ cánh đúng giờ tại sân bay đích.",
+     "explain": "Genitiv giống đực không có mạo từ: đuôi tính từ là '-en' ('starken Windes')."
+    },
+    {
+     "type": "gap",
+     "text": "Sie reiste mit leicht___ Gepäck und verzichtete auf schwere Koffer.",
+     "answers": [
+      "em"
+     ],
+     "hint": "Dativ Neutral ohne Artikel (das Gepäck)",
+     "vi": "Cô ấy đi du lịch với hành lý gọn nhẹ và từ bỏ những chiếc vali nặng nề.",
+     "explain": "'das Gepäck' ở Dativ không mạo từ nhận đuôi '-em': 'mit leichtem Gepäck'."
+    },
+    {
+     "type": "gap",
+     "text": "Der pünktlich ___ Fernzug brachte die Urlauber sicher nach Hamburg.",
+     "answers": [
+      "abfahrende|abgefahrene"
+     ],
+     "hint": "Partizip als Adjektiv von abfahren",
+     "vi": "Chuyến tàu đường dài khởi hành đúng giờ đã đưa du khách đến Hamburg an toàn.",
+     "explain": "Partizip I làm tính từ: 'der pünktlich abfahrende Fernzug'."
+    },
+    {
+     "type": "gap",
+     "text": "Wegen der sommerlichen ___ waren alle Hotelzimmer an der Küste ausgebucht.",
+     "answers": [
+      "Hauptsaison"
+     ],
+     "hint": "Nomen: die Hauptsaison",
+     "vi": "Do mùa du lịch cao điểm mùa hè, tất cả phòng khách sạn ven biển đều đã kín chỗ.",
+     "explain": "Danh từ giống cái 'die Hauptsaison' (mùa cao điểm)."
+    },
+    {
+     "type": "gap",
+     "text": "Die Reisenden warteten geduldig auf dem Bahnsteig auf den verspäteten ___ .",
+     "answers": [
+      "Fernzug|Anschlusszug"
+     ],
+     "hint": "der Fernzug im Akkusativ",
+     "vi": "Hành khách kiên nhẫn chờ đợi chuyến tàu đường dài bị trễ trên sân ga.",
+     "explain": "Akkusativ giống đực: 'den verspäteten Fernzug'."
+    },
+    {
+     "type": "gap",
+     "text": "Früh am Morgen traten die Wanderer ihre weite Reise ___ .",
+     "answers": [
+      "an"
+     ],
+     "hint": "Präfix von antreten im Präteritum",
+     "vi": "Sáng sớm, những người đi bộ đường dài đã lên đường khởi hành chuyến đi xa của mình.",
+     "explain": "Động từ tách 'antreten' ở Präteritum: 'traten ... an'."
+    },
+    {
+     "type": "gap",
+     "text": "Im Hotelzimmer lag die schriftliche ___ für die gebuchte Stadtrundfahrt bereit.",
+     "answers": [
+      "Buchungsbestätigung"
+     ],
+     "hint": "Nomen: die Buchungsbestätigung",
+     "vi": "Trong phòng khách sạn đã để sẵn văn bản xác nhận đặt chỗ cho chuyến tham quan thành phố.",
+     "explain": "Danh từ giống cái 'die Buchungsbestätigung' (giấy xác nhận đặt chỗ)."
+    },
+    {
+     "type": "gap",
+     "text": "Wir tranken frisch___ Kaffee und genossen die herrliche Bergaussicht.",
+     "answers": [
+      "en"
+     ],
+     "hint": "Akkusativ Maskulin ohne Artikel (der Kaffee)",
+     "vi": "Chúng tôi uống cà phê mới pha và tận hưởng khung cảnh núi non tuyệt đẹp.",
+     "explain": "Akkusativ giống đực không mạo từ: 'frischen Kaffee'."
+    },
+    {
+     "type": "gap",
+     "text": "Am Abreisetag müssen alle Gäste das Zimmer bis elf Uhr ___ .",
+     "answers": [
+      "auschecken"
+     ],
+     "hint": "Verb: auschecken",
+     "vi": "Vào ngày rời đi, tất cả khách đều phải làm thủ tục trả phòng trước mười một giờ.",
+     "explain": "Động từ nguyên mẫu 'auschecken' (trả phòng khách sạn)."
+    },
+    {
+     "type": "gap",
+     "text": "Die Rucksackreise durch die abgelegenen Täler war ein echtes ___ .",
+     "answers": [
+      "Reiseabenteuer"
+     ],
+     "hint": "Nomen: das Reiseabenteuer",
+     "vi": "Chuyến du lịch ba lô qua các thung lũng xa xôi là một cuộc phiêu lưu du lịch thực sự.",
+     "explain": "Danh từ giống trung 'das Reiseabenteuer' (chuyến phiêu lưu du lịch)."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Trotz",
+      "schlechten",
+      "Wetters",
+      "unternahmen",
+      "wir",
+      "eine",
+      "weite",
+      "Wanderung"
+     ],
+     "answer": "Trotz schlechten Wetters unternahmen wir eine weite Wanderung.",
+     "answers": [
+      "Trotz schlechten Wetters unternahmen wir eine weite Wanderung.",
+      "Wir unternahmen trotz schlechten Wetters eine weite Wanderung."
+     ],
+     "vi": "Mặc dù thời tiết xấu, chúng tôi vẫn thực hiện một chuyến đi bộ đường dài."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Der",
+      "pünktlich",
+      "abfahrende",
+      "Fernzug",
+      "brachte",
+      "uns",
+      "ans",
+      "Reiseziel"
+     ],
+     "answer": "Der pünktlich abfahrende Fernzug brachte uns ans Reiseziel.",
+     "answers": [
+      "Der pünktlich abfahrende Fernzug brachte uns ans Reiseziel."
+     ],
+     "vi": "Chuyến tàu đường dài khởi hành đúng giờ đã đưa chúng tôi tới đích đến."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Mit",
+      "leichtem",
+      "Gepäck",
+      "reist",
+      "es",
+      "sich",
+      "deutlich",
+      "entspannter"
+     ],
+     "answer": "Mit leichtem Gepäck reist es sich deutlich entspannter.",
+     "answers": [
+      "Mit leichtem Gepäck reist es sich deutlich entspannter.",
+      "Deutlich entspannter reist es sich mit leichtem Gepäck."
+     ],
+     "vi": "Với hành lý gọn nhẹ, việc đi du lịch thoải mái hơn rõ rệt."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Die",
+      "wartenden",
+      "Passagiere",
+      "informierten",
+      "sich",
+      "über",
+      "die",
+      "Verspätung"
+     ],
+     "answer": "Die wartenden Passagiere informierten sich über die Verspätung.",
+     "answers": [
+      "Die wartenden Passagiere informierten sich über die Verspätung."
+     ],
+     "vi": "Những hành khách đang chờ đợi đã tìm hiểu thông tin về sự chậm trễ."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Wir",
+      "tranken",
+      "kaltes",
+      "Wasser",
+      "in",
+      "einem",
+      "malerischen",
+      "Bergdorf"
+     ],
+     "answer": "Wir tranken kaltes Wasser in einem malerischen Bergdorf.",
+     "answers": [
+      "Wir tranken kaltes Wasser in einem malerischen Bergdorf.",
+      "In einem malerischen Bergdorf tranken wir kaltes Wasser."
+     ],
+     "vi": "Chúng tôi uống nước mát trong một ngôi làng miền núi đẹp như tranh vẽ."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Sie",
+      "buchten",
+      "eine",
+      "preiswerte",
+      "Unterkunft",
+      "in",
+      "der",
+      "Nebensaison"
+     ],
+     "answer": "Sie buchten eine preiswerte Unterkunft in der Nebensaison.",
+     "answers": [
+      "Sie buchten eine preiswerte Unterkunft in der Nebensaison.",
+      "In der Nebensaison buchten sie eine preiswerte Unterkunft."
+     ],
+     "vi": "Họ đã đặt một chỗ ở giá rẻ vào mùa du lịch thấp điểm."
+    },
+    {
+     "type": "translate",
+     "vi": "Mặc dù thời tiết xấu, chúng tôi vẫn khởi hành chuyến đi.",
+     "answers": [
+      "Trotz schlechten Wetters traten wir die Reise an.",
+      "Trotz schlechten Wetters haben wir die Reise angetreten."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Chúng tôi đi du lịch với hành lý gọn nhẹ.",
+     "answers": [
+      "Wir reisen mit leichtem Gepäck.",
+      "Wir sind mit leichtem Gepäck gereist."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Chuyến tàu đang chạy rất nhanh.",
+     "answers": [
+      "Der fahrende Zug ist sehr schnell.",
+      "Der fahrende Zug fährt sehr schnell."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Họ đã đặt trước một phòng khách sạn ấm cúng.",
+     "answers": [
+      "Sie haben ein gemütliches Hotelzimmer gebucht.",
+      "Sie buchten ein gemütliches Hotelzimmer."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Những hành khách đang chờ đợi rất mất kiên nhẫn.",
+     "answers": [
+      "Die wartenden Passagiere sind sehr ungeduldig.",
+      "Die wartenden Fahrgäste waren sehr ungeduldig."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Chúng tôi đã tham quan một ngôi làng đẹp như tranh vẽ.",
+     "answers": [
+      "Wir besichtigten ein malerisches Dorf.",
+      "Wir haben ein malerisches Dorf besichtigt."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Trotz starken Regens unternahmen die reisefreudigen Urlauber eine lange Bergwanderung.",
+     "vi": "Bất chấp cơn mưa lớn, những du khách đam mê du lịch vẫn thực hiện chuyến đi bộ leo núi dài."
+    },
+    {
+     "type": "listen",
+     "de": "Der pünktlich abfahrende Fernzug brachte die Reisegruppe ohne Umwege ans malerische Reiseziel.",
+     "vi": "Chuyến tàu đường dài khởi hành đúng giờ đã đưa đoàn du lịch tới thẳng điểm đến đẹp như tranh vẽ."
+    },
+    {
+     "type": "listen",
+     "de": "Vor dem Einchecken am Schalter sollten Sie die offizielle Buchungsbestätigung bereithalten.",
+     "vi": "Trước khi làm thủ tục tại quầy, bạn nên chuẩn bị sẵn giấy xác nhận đặt chỗ chính thức."
+    },
+    {
+     "type": "listen",
+     "de": "In der sommerlichen Hauptsaison sind beliebte Ausflugsziele und Strände oft vollkommen überfüllt.",
+     "vi": "Vào mùa cao điểm mùa hè, các điểm tham quan và bãi biển nổi tiếng thường chật ních người."
+    },
+    {
+     "type": "speak",
+     "de": "Mit leichtem Gepäck reist es sich auf langen Strecken viel entspannter.",
+     "vi": "Với hành lý gọn nhẹ, việc đi du lịch trên những chặng đường dài thoải mái hơn nhiều."
+    },
+    {
+     "type": "speak",
+     "de": "Wir haben für den Sommerurlaub eine preiswerte Unterkunft in den Bergen gebucht.",
+     "vi": "Chúng tôi đã đặt một chỗ ở giá cả phải chăng trên vùng núi cho kỳ nghỉ hè."
+    },
+    {
+     "type": "speak",
+     "de": "Wegen eines unvorhergesehenen Gleiswechsels mussten die Fahrgäste den Bahnsteig wechseln.",
+     "vi": "Do việc đổi đường ray bất ngờ, hành khách đã phải chuyển sang sân ga khác."
+    },
+    {
+     "type": "speak",
+     "de": "Nachhaltiger Tourismus schont empfindliche Ökosysteme und stärkt die lokale Wirtschaft.",
+     "vi": "Du lịch bền vững bảo vệ các hệ sinh thái nhạy cảm và củng cố nền kinh tế địa phương."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "das Reiseziel",
+       "điểm đến du lịch"
+      ],
+      [
+       "die Unterkunft",
+       "nơi lưu trú"
+      ],
+      [
+       "die Pauschalreise",
+       "du lịch trọn gói"
+      ],
+      [
+       "der Fernzug",
+       "tàu hỏa đường dài"
+      ],
+      [
+       "die Buchungsbestätigung",
+       "xác nhận đặt chỗ"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "eine Reise antreten",
+       "lên đường khởi hành"
+      ],
+      [
+       "Vorbereitungen treffen",
+       "chuẩn bị chu đáo"
+      ],
+      [
+       "das Gepäck aufgeben",
+       "ký gửi hành lý"
+      ],
+      [
+       "den Fahrplan einhalten",
+       "chạy đúng lịch trình"
+      ],
+      [
+       "die Zelte abbrechen",
+       "thu dọn đồ rời đi"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });

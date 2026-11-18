@@ -2201,6 +2201,982 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b1-u01-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Tổng quan hệ thống thì quá khứ trong tiếng Đức\n\nTrong tiếng Đức, khi tường thuật các chặng đường đời, tiểu sử hay các mốc thời gian, ta kết hợp ba thời thì: **Perfekt**, **Präteritum** và **Plusquamperfekt**.\n\n| Thì | Ngữ cảnh sử dụng | Cách hình thành | Ví dụ |\n| :--- | :--- | :--- | :--- |\n| **Präteritum** | Văn phong viết, kể chuyện, tiểu sử, bài báo; các động từ sein, haben, khuyết thiếu trong văn nói | Gốc động từ + đuôi Präteritum (-te / biến âm) | {{Im Jahr 2018 zog Linh nach Deutschland.}} |\n| **Perfekt** | Giao tiếp hàng ngày, hội thoại thân mật, kể chuyện miệng | haben / sein + Partizip II | {{Sie hat dort sofort neue Kontakte geknüpft.}} |\n| **Plusquamperfekt** | Diễn tả hành động **xảy ra trước** một mốc hoặc hành động khác trong quá khứ | hatte / war + Partizip II | {{Bevor sie auswanderte, hatte sie fleißig Deutsch gelernt.}} |\n\n## 2. Quy tắc phối hợp thời thì với \"nachdem\" (Vorzeitigkeit)\n\nLiên từ phụ thuộc **nachdem** luôn biểu thị tính trước sau (Vorzeitigkeit - hành động ở mệnh đề nachdem xảy ra trước hành động ở mệnh đề chính).\n\n> [!IMPORTANT]\n> **Quy tắc vàng về thời thì với nachdem:**\n> - Nếu mệnh đề chính ở **quá khứ (Präteritum / Perfekt)** → mệnh đề nachdem PHẢI ở **Plusquamperfekt**.\n> - Nếu mệnh đề chính ở **hiện tại / tương lai (Präsens / Futur I)** → mệnh đề nachdem PHẢI ở **Perfekt**.\n\n### Sơ đồ phối hợp thì:\n1. **Quá khứ:**\n   - {{Nachdem er sein Studium abgeschlossen hatte, bewarb er sich um eine Stelle.}} (Sau khi anh ấy đã tốt nghiệp đại học, anh ấy đã nộp đơn xin việc.)\n   - {{Nachdem wir in Berlin angekommen waren, suchten wir eine Wohnung.}} (Sau khi chúng tôi đã đến Berlin, chúng tôi đã tìm một căn hộ.)\n2. **Hiện tại / Tương lai:**\n   - {{Nachdem ich die Prüfung bestanden habe, feiere ich mit Freunden.}} (Sau khi đỗ kỳ thi, tôi sẽ ăn mừng cùng bạn bè.)\n\n## 3. Phân biệt liên từ phụ thuộc và trạng từ liên kết chỉ thời gian\n\nNgười học thường nhầm lẫn giữa liên từ và trạng từ liên kết dẫn đến sai vị trí động từ:\n\n| Từ loại | Từ vựng tiêu biểu | Cấu trúc câu & Vị trí động từ | Ví dụ minh họa |\n| :--- | :--- | :--- | :--- |\n| **Subjunktion** (Liên từ phụ) | nachdem, als, wenn, bevor, während | nachdem + S + ... + **Verb cuối** | {{Nachdem er den Entschluss gefasst hatte, kündigte er.}} |\n| **Konjunktionaladverb** (Trạng từ) | danach, daraufhin, anschließend, inzwischen | Adverb + **Verb (V2)** + S + ... | {{Er kündigte seinen Job. Daraufhin zog er nach München.}} |\n| **Präposition** (Giới từ + Dativ) | nach | nach + Dativ | {{Nach dem Abschluss fand sie sofort Arbeit.}} |\n\n## 4. 6 lỗi điển hình người Việt hay mắc (✗ → ✓)\n\n### Lỗi 1: Dùng sai trợ động từ trong Plusquamperfekt\n- ✗ *Nachdem er nach Deutschland gekommen hatte, suchte er eine Arbeit.*\n- ✓ {{Nachdem er nach Deutschland gekommen war, suchte er eine Arbeit.}}\n- *Giải thích:* Động từ di chuyển chuyển hướng {{kommen}} dùng trợ động từ {{sein}} (ở Plusquamperfekt chia là {{war/waren}}), không dùng {{haben/hatte}}.\n\n### Lỗi 2: Không lùi thì với nachdem trong quá khứ\n- ✗ *Nachdem sie die B1-Prüfung bestand, reiste sie nach Frankfurt.*\n- ✓ {{Nachdem sie die B1-Prüfung bestanden hatte, reiste sie nach Frankfurt.}}\n- *Giải thích:* Hành động đỗ kỳ thi xảy ra trước hành động sang Frankfurt trong quá khứ, bắt buộc dùng Plusquamperfekt.\n\n### Lỗi 3: Đảo ngữ sai sau trạng từ liên kết (daraufhin, danach)\n- ✗ *Er absolvierte die Ausbildung. Danach er arbeitete als Krankenpfleger.*\n- ✓ {{Er absolvierte die Ausbildung. Danach arbeitete er als Krankenpfleger.}}\n- *Giải thích:* {{Danach}}, {{daraufhin}}, {{anschließend}} là trạng từ đứng ở vị trí 1, động từ chính bắt buộc phải đứng ở vị trí 2 ngay sau đó.\n\n### Lỗi 4: Nhầm lẫn giữa \"nachdem\" và \"seitdem / seit\"\n- ✗ *Nachdem sie in Deutschland lebt, vermisst sie ihre Familie.*\n- ✓ {{Seitdem sie in Deutschland lebt, vermisst sie ihre Familie.}}\n- *Giải thích:* {{Nachdem}} chỉ hành động đã hoàn tất trước một mốc khác. Nếu một sự việc bắt đầu từ quá khứ và **vẫn đang tiếp diễn** ở hiện tại, phải dùng {{seit}} hoặc {{seitdem}}.\n\n### Lỗi 5: Quên quy tắc bỏ đuôi -te ở ngôi thứ nhất và thứ ba số ít của Präteritum mạnh\n- ✗ *Er bliebt zwei Jahre in Da Nang und ginge dann nach Hanoi.*\n- ✓ {{Er blieb zwei Jahre in Da Nang und ging dann nach Hanoi.}}\n- *Giải thích:* Động từ mạnh trong Präteritum không thêm -te. Ngôi {{ich}} và {{er/sie/es}} có cùng dạng và không có đuôi cá nhân ({{er blieb}}, {{er ging}}).\n\n### Lỗi 6: Dùng lẫn lộn danh từ giống đực và giống trung trong các từ ghép chỉ bước ngoặt\n- ✗ *Das Lebenslauf war sehr beeindruckend.*\n- ✓ {{Der Lebenslauf war sehr beeindruckend.}}\n- *Giải thích:* Thành tố cuối là {{der Lauf}} (giống đực), nên {{der Lebenslauf}} cũng mang giống đực.\n\n## 5. Ví dụ củng cố bổ sung\n- {{Als junger Mann musste er viele Hürden überwinden.}} (Khi còn là chàng trai trẻ, anh ấy đã phải vượt qua nhiều rào cản.)\n- {{Sie hatte lange gezögert, bevor sie diesen wichtigen Schritt wagte.}} (Cô ấy đã ngập ngừng rất lâu trước khi dám thực hiện bước đi quan trọng này.)\n- {{Rückblickend war diese Entscheidung ein wahrer Meilenstein.}} (Nhìn lại thì quyết định này thực sự là một cột mốc quan trọng.)\n- {{Nachdem sie neue Erfahrungen gesammelt hatte, kehrte sie zurück.}} (Sau khi đã tích lũy được những kinh nghiệm mới, cô ấy đã trở về.)\n- {{Inzwischen hat er in seiner neuen Heimat festen Fuß gefasst.}} (Hiện nay anh ấy đã đứng vững chân tại quê hương mới của mình.)\n",
+   "vocab": [
+    {
+     "de": "Meilenstein",
+     "article": "der",
+     "plural": "Meilensteine",
+     "pos": "noun",
+     "ipa": "ˈmaɪ̯lənˌʃtaɪ̯n",
+     "vi": "cột mốc quan trọng, bước ngoặt lớn",
+     "example": "Die B1-Prüfung war ein wichtiger Meilenstein in ihrem Leben.",
+     "exampleVi": "Kỳ thi B1 là một cột mốc quan trọng trong cuộc đời cô ấy."
+    },
+    {
+     "de": "Neuanfang",
+     "article": "der",
+     "plural": "Neuanfänge",
+     "pos": "noun",
+     "ipa": "ˈnɔʏ̯ʔanˌfaŋ",
+     "vi": "sự khởi đầu mới",
+     "example": "Der Umzug nach Leipzig ermöglichte ihr einen echten Neuanfang.",
+     "exampleVi": "Việc chuyển đến Leipzig đã giúp cô ấy có một sự khởi đầu mới thực sự."
+    },
+    {
+     "de": "Volljährigkeit",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈfɔlˌjɛːʁɪçkaɪ̯t",
+     "vi": "tuổi trưởng thành (tuổi công dân 18 tuổi)",
+     "example": "Mit dem Erreichen der Volljährigkeit trug er die volle Verantwortung für sich selbst.",
+     "exampleVi": "Khi đạt đến tuổi trưởng thành, anh ấy tự chịu trách nhiệm hoàn toàn về bản thân."
+    },
+    {
+     "de": "Auslandsaufenthalt",
+     "article": "der",
+     "plural": "Auslandsaufenthalte",
+     "pos": "noun",
+     "ipa": "ˈaʊ̯slantsʔaʊ̯fʔɛntˌhalt",
+     "vi": "thời gian lưu trú / sinh sống ở nước ngoài",
+     "example": "Ein längerer Auslandsaufenthalt verbessert nicht nur die Sprachkenntnisse.",
+     "exampleVi": "Thời gian sinh sống ở nước ngoài lâu dài không chỉ cải thiện vốn ngoại ngữ."
+    },
+    {
+     "de": "Schullaufbahn",
+     "article": "die",
+     "plural": "Schullaufbahnen",
+     "pos": "noun",
+     "ipa": "ˈʃuːlˌlaʊ̯fbaːn",
+     "vi": "quá trình học tập phổ thông",
+     "example": "Seine Schullaufbahn verlief ohne größere Schwierigkeiten.",
+     "exampleVi": "Quá trình học phổ thông của anh ấy diễn ra thuận lợi mà không gặp khó khăn lớn nào."
+    },
+    {
+     "de": "Berufsabschluss",
+     "article": "der",
+     "plural": "Berufsabschlüsse",
+     "pos": "noun",
+     "ipa": "bəˈʁuːfsʔapˌʃlʊs",
+     "vi": "bằng cấp nghề nghiệp, chứng chỉ hoàn thành học nghề",
+     "example": "Mit einem anerkannten Berufsabschluss hat man gute Chancen auf dem Arbeitsmarkt.",
+     "exampleVi": "Với bằng cấp nghề được công nhận, người ta có cơ hội tốt trên thị trường lao động."
+    },
+    {
+     "de": "Ruhestand",
+     "article": "der",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈʁuːəˌʃtant",
+     "vi": "sự nghỉ hưu (thời gian sau khi ngừng đi làm)",
+     "example": "Mein Großvater genießt seinen wohlverdienten Ruhestand im Garten.",
+     "exampleVi": "Ông tôi đang tận hưởng những ngày nghỉ hưu xứng đáng ngoài vườn."
+    },
+    {
+     "de": "Existenzgründung",
+     "article": "die",
+     "plural": "Existenzgründungen",
+     "pos": "noun",
+     "ipa": "ɛksɪsˈtɛntsˌɡʁʏndʊŋ",
+     "vi": "sự lập nghiệp, thành lập cơ sở kinh doanh riêng",
+     "example": "Die Existenzgründung erforderte viel Mut und finanzielle Planung.",
+     "exampleVi": "Việc lập nghiệp đòi hỏi rất nhiều lòng can đảm và kế hoạch tài chính chu đáo."
+    },
+    {
+     "de": "Lebenslauf",
+     "article": "der",
+     "plural": "Lebensläufe",
+     "pos": "noun",
+     "ipa": "ˈleːbn̩sˌlaʊ̯f",
+     "vi": "sơ yếu lý lịch, tiểu sử cá nhân",
+     "example": "Er aktualisierte seinen tabellarischen Lebenslauf für die Bewerbung.",
+     "exampleVi": "Anh ấy đã cập nhật sơ yếu lý lịch dạng bảng của mình để nộp hồ sơ xin việc."
+    },
+    {
+     "de": "Weichenstellung",
+     "article": "die",
+     "plural": "Weichenstellungen",
+     "pos": "noun",
+     "ipa": "ˈvaɪ̯çn̩ˌʃtɛlʊŋ",
+     "vi": "sự định hướng quan trọng, bước ngoặt định hình tương lai",
+     "example": "Die Wahl des Studiengangs war eine entscheidende Weichenstellung.",
+     "exampleVi": "Việc chọn ngành học là một định hướng mang tính bước ngoặt quan trọng."
+    },
+    {
+     "de": "Schicksal",
+     "article": "das",
+     "plural": "Schicksale",
+     "pos": "noun",
+     "ipa": "ˈʃɪkzaːl",
+     "vi": "số phận, định mệnh",
+     "example": "Sie glaubte fest daran, dass man sein Schicksal selbst in die Hand nehmen muss.",
+     "exampleVi": "Cô ấy tin chắc rằng mỗi người phải tự nắm giữ số phận của chính mình."
+    },
+    {
+     "de": "Zwischenbilanz",
+     "article": "die",
+     "plural": "Zwischenbilanzen",
+     "pos": "noun",
+     "ipa": "ˈtsvɪʃn̩biˌlants",
+     "vi": "sự nhìn nhận, đánh giá giữa chặng đường",
+     "example": "Nach fünf Jahren im Ausland zog er eine positive Zwischenbilanz.",
+     "exampleVi": "Sau năm năm ở nước ngoài, anh ấy đã có một sự nhìn nhận tích cực về chặng đường đã qua."
+    },
+    {
+     "de": "Schicksalsschlag",
+     "article": "der",
+     "plural": "Schicksalsschläge",
+     "pos": "noun",
+     "ipa": "ˈʃɪkzaːlsˌʃlaːk",
+     "vi": "cú sốc bất ngờ, biến cố đau thương của số phận",
+     "example": "Trotz schwerer Schicksalsschläge verlor sie nie ihren Optimismus.",
+     "exampleVi": "Bất chấp những cú sốc đau buồn của cuộc đời, cô ấy không bao giờ đánh mất sự lạc quan."
+    },
+    {
+     "de": "Altersvorsorge",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈaltɐsˌfoːɐ̯zɔʁɡə",
+     "vi": "việc lo liệu, chu cấp tài chính cho tuổi già",
+     "example": "Junge Arbeitnehmer sollten sich frühzeitig um ihre Altersvorsorge kümmern.",
+     "exampleVi": "Những người lao động trẻ nên quan tâm sớm đến tài chính cho tuổi già của mình."
+    },
+    {
+     "de": "ins Berufsleben einsteigen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɪns bəˈʁuːfsˌleːbn̩ ˈaɪ̯nˌʃtaɪ̯ɡn̩",
+     "vi": "bước chân vào con đường sự nghiệp / đời sống đi làm",
+     "example": "Nach dem Examen stieg sie sofort ins Berufsleben ein.",
+     "exampleVi": "Sau kỳ thi tốt nghiệp, cô ấy đã bước chân ngay vào sự nghiệp làm việc."
+    },
+    {
+     "de": "einen Entschluss fassen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nən ɛntˈʃlʊs ˈfasn̩",
+     "vi": "đưa ra một quyết định dứt khoát",
+     "example": "Er fasste den Entschluss, eine neue Fremdsprache zu lernen.",
+     "exampleVi": "Anh ấy đã đưa ra quyết định học một ngoại ngữ mới."
+    },
+    {
+     "de": "eine Ausbildung aufnehmen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nə ˈaʊ̯sˌbɪldʊŋ ˈaʊ̯fˌneːmən",
+     "vi": "bắt đầu tham gia một khóa học nghề",
+     "example": "Im Herbst wird mein Bruder eine Ausbildung im Handwerk aufnehmen.",
+     "exampleVi": "Vào mùa thu, em trai tôi sẽ bắt đầu khóa học nghề thủ công."
+    },
+    {
+     "de": "Rückschläge überwinden",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈʁʏkˌʃlɛːɡə yːbɐˈvɪndn̩",
+     "vi": "vượt qua những trở ngại, thất bại tạm thời",
+     "example": "Man muss lernen, berufliche Rückschläge geduldig zu überwinden.",
+     "exampleVi": "Người ta phải học cách kiên nhẫn vượt qua những thất bại trong công việc."
+    },
+    {
+     "de": "Zukunftspläne schmieden",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈtsuːkʊnftsˌplɛːnə ˈʃmiːdn̩",
+     "vi": "vạch ra, ấp ủ những kế hoạch tương lai",
+     "example": "Die beiden Freunde saßen oft zusammen und schmiedeten Zukunftspläne.",
+     "exampleVi": "Hai người bạn thường ngồi lại cùng nhau và vạch ra những dự định tương lai."
+    },
+    {
+     "de": "neue Erfahrungen sammeln",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈnɔʏ̯ə ɛɐ̯ˈfaːʁʊŋən ˈzaml̩n",
+     "vi": "tích lũy những trải nghiệm mới",
+     "example": "Ein Praktikum bietet die Gelegenheit, wertvolle neue Erfahrungen zu sammeln.",
+     "exampleVi": "Một đợt thực tập mang lại cơ hội tích lũy những trải nghiệm mới quý báu."
+    },
+    {
+     "de": "Fuß fassen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "fuːs ˈfasn̩",
+     "vi": "hòa nhập, tạo dựng được chỗ đứng vững chắc",
+     "example": "Es dauerte einige Monate, bis er in der neuen Umgebung Fuß fassen konnte.",
+     "exampleVi": "Phải mất vài tháng anh ấy mới có thể tạo dựng được chỗ đứng vững chắc ở môi trường mới."
+    },
+    {
+     "de": "prägen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "prägt, prägte, hat geprägt",
+     "ipa": "ˈpʁɛːɡn̩",
+     "vi": "định hình, tạo ảnh hưởng sâu sắc lên ai/cái gì (+ Akk)",
+     "example": "Diese prägende Phase prägte ihre gesamte Denkweise.",
+     "exampleVi": "Giai đoạn quan trọng đó đã định hình toàn bộ lối suy nghĩ của cô ấy."
+    },
+    {
+     "de": "bewältigen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "bewältigt, bewältigte, hat bewältigt",
+     "ipa": "bəˈvɛltɪɡn̩",
+     "vi": "vượt qua, xử lý thành công khó khăn (+ Akk)",
+     "example": "Gemeinsam konnten sie die bürokratischen Hürden bewältigen.",
+     "exampleVi": "Cùng nhau họ đã có thể vượt qua những trở ngại thủ tục hành chính."
+    },
+    {
+     "de": "einschlagen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "schlägt ein, schlug ein, hat eingeschlagen",
+     "ipa": "ˈaɪ̯nˌʃlaːɡn̩",
+     "vi": "chọn đi theo (con đường sự nghiệp) (+ Akk)",
+     "example": "Nach reiflicher Überlegung schlug sie eine ganz neue Laufbahn ein.",
+     "exampleVi": "Sau khi cân nhắc kỹ lưỡng, cô ấy đã chọn bước đi trên một con đường sự nghiệp hoàn toàn mới."
+    },
+    {
+     "de": "zurückblicken",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "blickt zurück, blickte zurück, hat zurückgeblickt",
+     "ipa": "tsuˈʁʏkˌblɪkn̩",
+     "vi": "nhìn lại quá khứ, hồi tưởng (auf + Akk)",
+     "example": "Er blickte mit Dankbarkeit auf seine Schulzeit zurück.",
+     "exampleVi": "Anh ấy nhìn lại quãng thời gian đi học với lòng biết ơn."
+    },
+    {
+     "de": "abbrechen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "bricht ab, brach ab, hat abgebrochen",
+     "ipa": "ˈapˌbʁɛçn̩",
+     "vi": "bỏ dở, ngưng giữa chừng (+ Akk)",
+     "example": "Wegen finanzieller Probleme musste er sein erstes Studium abbrechen.",
+     "exampleVi": "Vì vấn đề tài chính, anh ấy đã phải bỏ dở việc học đại học đầu tiên của mình."
+    },
+    {
+     "de": "ereignisreich",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ɛɐ̯ˈʔaɪ̯knɪsˌʁaɪ̯ç",
+     "vi": "đầy ắp sự kiện, nhiều biến cố",
+     "example": "Das vergangene Jahr war äußerst ereignisreich für die ganze Familie.",
+     "exampleVi": "Năm vừa qua diễn ra vô cùng sôi động và đầy ắp sự kiện đối với cả gia đình."
+    },
+    {
+     "de": "zukunftsorientiert",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈtsuːkʊnftsʔoʁiɛnˌtiːɐ̯t",
+     "vi": "hướng tới tương lai, có tầm nhìn xa",
+     "example": "Er traf eine zukunftsorientierte Entscheidung für seine Karriere.",
+     "exampleVi": "Anh ấy đã đưa ra một quyết định hướng tới tương lai cho sự nghiệp của mình."
+    },
+    {
+     "de": "rückblickend",
+     "article": null,
+     "plural": null,
+     "pos": "adv",
+     "ipa": "ˈʁʏkˌblɪkn̩t",
+     "vi": "khi nhìn lại, hồi tưởng lại",
+     "example": "Rückblickend war der Wechsel die beste Entscheidung überhaupt.",
+     "exampleVi": "Khi nhìn lại, sự thay đổi đó là quyết định sáng suốt nhất."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Guten Tag, Thomas! Wie geht es dir nach deinem Umzug nach Hamburg?",
+     "vi": "Chào Thomas! Bạn thế nào rồi sau khi chuyển nhà đến Hamburg?"
+    },
+    {
+     "speaker": "B",
+     "name": "Thomas",
+     "de": "Hallo Linh! Es geht mir hervorragend. Die ersten Wochen waren zwar anstrengend, aber ich habe mich gut eingelebt.",
+     "vi": "Chào Linh! Mình thấy rất tuyệt. Những tuần đầu tiên tuy vất vả nhưng mình đã hòa nhập tốt."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Hattest du vor deiner Abreise eigentlich schon eine feste Stelle gefunden?",
+     "vi": "Trước khi lên đường thì thực ra bạn đã tìm được một công việc cố định chưa?"
+    },
+    {
+     "speaker": "B",
+     "name": "Thomas",
+     "de": "Ja, genau. Nachdem ich meinen Vertrag unterschrieben hatte, kündigte ich meine alte Wohnung in Stuttgart.",
+     "vi": "Đúng rồi. Sau khi đã ký hợp đồng, mình mới trả căn hộ cũ ở Stuttgart."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Das war eine sehr kluge Weichenstellung. Wie verlief denn deine frühere Schullaufbahn?",
+     "vi": "Đó là một bước đi rất khôn ngoan. Quá trình đi học trước đây của bạn diễn ra như thế nào?"
+    },
+    {
+     "speaker": "B",
+     "name": "Thomas",
+     "de": "Als Jugendlicher war ich ziemlich unruhig. Zuerst begann ich eine Ausbildung, aber ich brach sie nach einem Jahr ab.",
+     "vi": "Hồi thiếu niên mình khá bồng bột. Đầu tiên mình bắt đầu học nghề, nhưng sau một năm mình đã bỏ dở."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Wirklich? Und was passierte daraufhin?",
+     "vi": "Thật ư? Và chuyện gì xảy ra sau đó?"
+    },
+    {
+     "speaker": "B",
+     "name": "Thomas",
+     "de": "Daraufhin fasste ich den festen Entschluss, das Abitur auf dem zweiten Bildungsweg nachzuholen.",
+     "vi": "Sau đó mình đã đưa ra quyết tâm lấy bằng tú tài qua con đường bổ túc văn hóa."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Bewundernswert! Nachdem du das Abitur geschafft hattest, nahmst du dann dein Studium auf?",
+     "vi": "Thật đáng khâm phục! Sau khi đã có bằng tú tài, bạn đã bắt đầu học đại học chứ?"
+    },
+    {
+     "speaker": "B",
+     "name": "Thomas",
+     "de": "Ganz genau. Ich studierte Informationstechnik und konnte nebenbei viele wertvolle Erfahrungen sammeln.",
+     "vi": "Chính xác. Mình học công nghệ thông tin và đồng thời tích lũy được nhiều kinh nghiệm quý giá."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Für mich war der Schritt nach Deutschland auch ein riesiger Meilenstein im Lebenslauf.",
+     "vi": "Đối với mình, bước sang Đức cũng là một cột mốc khổng lồ trong tiểu sử cuộc đời."
+    },
+    {
+     "speaker": "B",
+     "name": "Thomas",
+     "de": "Hattest du denn schon gute Deutschkenntnisse, bevor du in Frankfurt ankamst?",
+     "vi": "Bạn đã có vốn tiếng Đức tốt trước khi đến Frankfurt chưa?"
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Nachdem ich in Hanoi ein ganzes Jahr intensiv Deutsch gelernt hatte, bestand ich die B1-Prüfung.",
+     "vi": "Sau khi đã học tiếng Đức tập trung một năm ở Hà Nội, mình đã đỗ kỳ thi B1."
+    },
+    {
+     "speaker": "B",
+     "name": "Thomas",
+     "de": "Rückblickend haben wir beide gezeigt, dass man Rückschläge überwinden und neue Wege einschlagen kann.",
+     "vi": "Nhìn lại, cả hai chúng ta đều đã chứng minh rằng người ta có thể vượt qua trở ngại và bước đi trên những con đường mới."
+    },
+    {
+     "speaker": "A",
+     "name": "Linh",
+     "de": "Absolut. Jetzt können wir voller Zuversicht zukunftsorientierte Pläne schmieden!",
+     "vi": "Chắc chắn rồi. Giờ đây chúng ta có thể tràn đầy tự tin vạch ra những kế hoạch hướng về tương lai!"
+    }
+   ],
+   "reading": {
+    "title": "Mein Weg zum Neuanfang: Vom Umweg zur Erfüllung",
+    "text": "Wenn Nguyen heute auf seinen bisherigen Lebensweg zurückblickt, sieht er eine lange Kette von Herausforderungen, die ihn zu einer reifen und zielstrebigen Persönlichkeit gemacht haben. Er wuchs in der vietnamesischen Hafenstadt Hai Phong auf und träumte schon in seiner frühen Jugend davon, eines Tages im zukunftsweisenden Bereich der erneuerbaren Energien Fuß zu fassen. Nach seinem erfolgreichen Schulabschluss entschied er sich jedoch zunächst für ein anspruchsvolles Jurastudium in Hanoi, weil seine Eltern sich schon immer einen traditionellen und prestigeträchtigen Berufswunsch für ihren ältesten Sohn erhofft hatten.\n\nDoch bereits nach den ersten beiden Semestern spürte Nguyen eine immer tiefere Unzufriedenheit im Alltag. Er merkte sehr schnell, dass trockene Paragrafen, theoretische Rechtsfälle und endlose Gesetzestexte überhaupt nicht seiner wahren Leidenschaft für Technik und Umweltschutz entsprachen. Nachdem er monatelang intensiv mit sich selbst gerungen und zahlreiche schlaflose Nächte verbracht hatte, fasste er schließlich den mutigen Entschluss, das Jurastudium endgültig abzubrechen. Dieser radikale Schritt war damals natürlich ein schwerer Schock für die gesamte Familie, doch für ihn persönlich bedeutete er die allererste echte Chance auf einen authentischen Neuanfang im Leben.\n\nAnschließend nahm Nguyen eine praktische duale Ausbildung zum Solartechniker auf. In diesem praktischen Umfeld sammelte er viele wertvolle Erfahrungen und bewältigte täglich anspruchsvolle handwerkliche Aufgaben mit großer Begeisterung. Nachdem er seinen Berufsabschluss mit herausragenden Noten erworben hatte, eröffnete sich für ihn unerwartet eine ganz neue berufliche Perspektive: Ein renommiertes deutsches Energieunternehmen bot ihm ein voll finanziertes Stipendium für ein technisches Aufbaustudium in Leipzig an.\n\nBevor Nguyen jedoch nach Deutschland abreiste, hatte er in seiner Heimat monatelang intensiv die deutsche Sprache gelernt. Als er schließlich an einem kalten Novembermorgen am Leipziger Hauptbahnhof ankam, fühlte er sich dennoch zunächst von der fremden Kultur, dem ungewohnten Klima und der Sprachbarriere überwältigt. Doch dank seiner bewundernswerten Zielstrebigkeit fand er schnell warmherzigen Anschluss im Wohnheim und konnte schon bald verlässliche neue Freunde gewinnen.\n\nHeute leitet Nguyen innovative Solarprojekte in ganz Mitteldeutschland. Rückblickend betrachtet er seine anfänglichen Fehlentscheidungen keineswegs als verlorene Zeit, sondern als notwendige Weichenstellung für sein heutiges Glück. Jeder Umweg habe ihm geholfen, innere Reife und Geduld aufzubauen und wichtige Zukunftspläne mit klarem Verstand zu verwirklichen.",
+    "vi": "Khi nhìn lại chặng đường đời của mình cho đến nay, Nguyen thấy một chuỗi dài những thử thách đã rèn giũa anh trở thành một con người chín chắn và kiên định với mục tiêu. Anh lớn lên ở thành phố cảng Hải Phòng và ngay từ thời niên thiếu đã luôn mơ ước một ngày nào đó sẽ tạo dựng được chỗ đứng vững chắc trong lĩnh vực năng lượng tái tạo đầy hứa hẹn. Tuy nhiên, sau khi tốt nghiệp phổ thông thành công, ban đầu anh chọn học ngành luật đầy đòi hỏi tại Hà Nội, bởi vì cha mẹ luôn mong mỏi một nghề nghiệp truyền thống và danh giá cho người con trai cả.\n\nThế nhưng ngay sau hai học kỳ đầu tiên, Nguyen đã cảm thấy sự bất mãn ngày càng sâu sắc trong cuộc sống thường nhật. Anh nhận ra rất nhanh rằng những điều khoản khô khan, những vụ việc pháp lý lý thuyết và các văn bản luật bất tận hoàn toàn không phù hợp với niềm đam mê thực sự của mình dành cho kỹ thuật và bảo vệ môi trường. Sau khi đã đấu tranh tư tưởng quyết liệt suốt nhiều tháng và trải qua vô số đêm mất ngủ, cuối cùng anh đã đưa ra quyết định dũng cảm là bỏ dở việc học luật. Bước đi triệt để này vào thời điểm đó đương nhiên là một cú sốc lớn cho cả gia đình, nhưng đối với cá nhân anh, nó lại mang ý nghĩa là cơ hội thực sự đầu tiên cho một khởi đầu mới đích thực trong cuộc đời.\n\nSau đó, Nguyen bắt đầu một khóa học nghề kép thực hành kỹ thuật viên năng lượng mặt trời. Trong môi trường thực tế này, anh đã tích lũy được nhiều kinh nghiệm quý báu và giải quyết các nhiệm vụ thủ công đòi hỏi cao mỗi ngày với lòng say mê to lớn. Sau khi đã lấy được bằng tốt nghiệp nghề với những điểm số xuất sắc, một triển vọng nghề nghiệp hoàn toàn mới bất ngờ mở ra trước mắt anh: Một công ty năng lượng danh tiếng của Đức đã trao cho anh một suất học bổng toàn phần cho chương trình học kỹ thuật nâng cao tại Leipzig.\n\nTuy nhiên trước khi lên đường sang Đức, Nguyen đã học tiếng Đức tập trung trong suốt nhiều tháng tại quê nhà. Khi anh cuối cùng đặt chân đến nhà ga trung tâm Leipzig vào một buổi sáng tháng Mười Một lạnh giá, ban đầu anh vẫn cảm thấy bị choáng ngợp trước nền văn hóa xa lạ, khí hậu khác biệt và rào cản ngôn ngữ. Nhưng nhờ sự kiên định đáng khâm phục của mình, anh đã nhanh chóng tìm thấy sự hòa nhập ấm áp tại ký túc xá và sớm có thêm những người bạn mới đáng tin cậy.\n\nHiện nay Nguyen đang quản lý các dự án năng lượng mặt trời đổi mới sáng tạo trên khắp miền Trung nước Đức. Nhìn lại, anh không hề coi những quyết định sai lầm ban đầu là khoảng thời gian lãng phí, mà xem đó là sự định hướng bước ngoặt cần thiết cho hạnh phúc ngày hôm nay. Mỗi khúc quanh đều đã giúp anh bồi đắp sự chín chắn cùng lòng kiên nhẫn nội tâm và hiện thực hóa các kế hoạch tương lai quan trọng với một tư duy sáng suốt.",
+    "glossary": [
+     {
+      "de": "Leidenschaft",
+      "article": "die",
+      "plural": "Leidenschaften",
+      "pos": "noun",
+      "ipa": "ˈlaɪ̯dn̩ˌʃaft",
+      "vi": "niềm đam mê cháy bỏng",
+      "example": "Die Musik war von Kindheit an ihre größte Leidenschaft.",
+      "exampleVi": "Âm nhạc là niềm đam mê lớn nhất của cô từ thời thơ ấu."
+     },
+     {
+      "de": "Zielstrebigkeit",
+      "article": "die",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "ˈtsiːlˌʃtʁeːbɪçkaɪ̯t",
+      "vi": "tính kiên định, quyết tâm theo đuổi mục tiêu",
+      "example": "Mit großer Zielstrebigkeit erreichte sie alle gesteckten Ziele.",
+      "exampleVi": "Với sự kiên định lớn, cô ấy đã đạt được mọi mục tiêu đề ra."
+     },
+     {
+      "de": "überwältigen",
+      "article": null,
+      "plural": null,
+      "pos": "verb",
+      "forms": "überwältigt, überwältigte, hat überwältigt",
+      "ipa": "yːbɐˈvɛltɪɡn̩",
+      "vi": "làm choáng ngợp, lấn át cảm xúc (+ Akk)",
+      "example": "Die vielen neuen Eindrücke überwältigten ihn in den ersten Tagen.",
+      "exampleVi": "Quá nhiều ấn tượng mới đã làm anh ấy choáng ngợp trong những ngày đầu."
+     },
+     {
+      "de": "Perspektive",
+      "article": "die",
+      "plural": "Perspektiven",
+      "pos": "noun",
+      "ipa": "pɛʁspɛkˈtiːvə",
+      "vi": "triển vọng, góc nhìn tương lai",
+      "example": "Der Berufsabschluss bot ihm eine ausgezeichnete berufliche Perspektive.",
+      "exampleVi": "Bằng cấp nghề đã mang lại cho anh một triển vọng nghề nghiệp tuyệt vời."
+     },
+     {
+      "de": "Herausforderung",
+      "article": "die",
+      "plural": "Herausforderungen",
+      "pos": "noun",
+      "ipa": "hɛˈʁaʊ̯sˌfɔʁdəʁʊŋ",
+      "vi": "thách thức, thử thách lớn",
+      "example": "Die neue Stelle war eine anspruchsvolle Herausforderung.",
+      "exampleVi": "Vị trí mới là một thách thức đòi hỏi cao."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Warum brach Nguyen sein erstes Studium der Rechtswissenschaften ab?",
+      "options": [
+       "Weil er finanzielle Probleme hatte.",
+       "Weil ihn Gesetzestexte nicht erfüllten und er seiner wahren Leidenschaft folgen wollte.",
+       "Weil er von der Universität verwiesen wurde."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Was unternahm Nguyen, nachdem er das Jurastudium beendet hatte?",
+      "options": [
+       "Er reiste sofort ohne Sprachkenntnisse nach Deutschland.",
+       "Er gründete ein eigenes Unternehmen in Hai Phong.",
+       "Er nahm eine praktische Berufsausbildung zum Solartechniker auf."
+      ],
+      "answer": 2
+     },
+     {
+      "q": "Welche Vorbereitung traf Nguyen vor seiner Abreise nach Leipzig?",
+      "options": [
+       "Er hatte in Vietnam bereits intensiv die deutsche Sprache gelernt.",
+       "Er kaufte sich ein Haus in Mitteldeutschland.",
+       "Er arbeitete bereits als Projektleiter für die Firma."
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Wie fühlte sich Nguyen bei seiner Ankunft am Leipziger Bahnhof?",
+      "options": [
+       "Er war sofort völlig gelassen und fand sich mühelos zurecht.",
+       "Er fühlte sich zunächst von der neuen Kultur und Sprachbarriere überwältigt.",
+       "Er wollte am liebsten sofort wieder nach Hai Phong zurückkehren."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Wie beurteilt Nguyen heute rückblickend seine Umwege im Leben?",
+      "options": [
+       "Als notwendige Schritte, die ihm halfen, innere Stärke und Klarheit zu gewinnen.",
+       "Als bedauerliche Fehler, die seine Karriere jahrelang verzögert haben.",
+       "Als Zeitverschwendung, die er seinen Eltern vorwirft."
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "writing": {
+    "task": "Schreiben Sie einen Forumsbeitrag zum Thema „Wichtige Weichenstellungen im Lebenslauf“. Berichten Sie über eine persönliche Entscheidung oder einen Neuanfang in Ihrem Leben, begründen Sie Ihre Wahl und geben Sie Gleichaltrigen einen Ratschlag für schwierige Lebensphasen. (Viết một bài đăng diễn đàn về chủ đề 'Những bước ngoặt quan trọng trong chặng đường đời'. Kể về một quyết định cá nhân hoặc khởi đầu mới, giải thích lý do và đưa ra lời khuyên cho bạn cùng lứa khi gặp giai đoạn khó khăn.)",
+    "minWords": 80,
+    "sample": "In meinem Leben gab es schon mehrere entscheidende Weichenstellungen. Die wichtigste war sicherlich mein Entschluss, nach der Schule eine Berufsausbildung im Hotelgewerbe aufzunehmen, anstatt direkt an die Universität zu gehen. Nachdem ich mich gründlich informiert hatte, wagte ich diesen Schritt, weil ich unbedingt praktische Berufserfahrungen sammeln wollte. Anfangs war die Umstellung anstrengend, aber ich lernte schnell, selbstständig zu sein und berufliche Rückschläge zu überwinden. Rückblickend war das die beste Entscheidung meines Lebens. Allen, die vor schwierigen Lebensentscheidungen stehen, rate ich: Hört auf eure eigenen Interessen und habt keine Angst vor mutigen Neuanfängen!"
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Welches Hilfsverb und welche Zeitform verlangt der Nebensatz mit „nachdem“, wenn der Hauptsatz im Präteritum steht?",
+     "options": [
+      "Perfekt mit haben oder sein",
+      "Plusquamperfekt mit hatte oder war",
+      "Präsens mit haben oder sein",
+      "Futur I mit werden"
+     ],
+     "answer": 1,
+     "explain": "Khi mệnh đề chính ở thời quá khứ (Präteritum), mệnh đề phụ với 'nachdem' bắt buộc phải ở thời Plusquamperfekt (hatte/war + Partizip II) để diễn tả tính xảy ra trước (Vorzeitigkeit)."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Nachdem die Familie nach Deutschland gezogen ___, fand sie schnell eine neue Bleibe.",
+     "options": [
+      "war",
+      "hatte",
+      "wäre",
+      "ist"
+     ],
+     "answer": 0,
+     "explain": "Động từ 'ziehen' chỉ sự di chuyển chỗ ở dùng trợ động từ 'sein'. Ở Plusquamperfekt đi với ngôi số ít 'die Familie', ta dùng 'war'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz ist grammatisch absolut korrekt?",
+     "options": [
+      "Nachdem er hatte gefrühstückt, ging er zur Arbeit.",
+      "Nachdem er gefrühstückt hatte, ging er zur Arbeit.",
+      "Nachdem er frühstückte, ging er zur Arbeit.",
+      "Nachdem er hat gefrühstückt, ging er zur Arbeit."
+     ],
+     "answer": 1,
+     "explain": "Trong mệnh đề phụ với 'nachdem', trợ động từ chia 'hatte' phải đứng ở vị trí cuối cùng của câu: 'Nachdem er gefrühstückt hatte, ...'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet das Nomen „der Meilenstein“ im übertragenen Sinne?",
+     "options": [
+      "Ein schwerer Stein auf einer Baustelle",
+      "Ein wichtiger Wendepunkt oder Entwicklungsschritt",
+      "Eine Verkehrsstrafe für zu schnelles Fahren",
+      "Ein Zeugnis am Ende der Grundschule"
+     ],
+     "answer": 1,
+     "explain": "'Der Meilenstein' theo nghĩa bóng là một cột mốc lịch sử, một bước ngoặt hay bước tiến quan trọng trong cuộc đời hoặc dự án."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Wortstellung folgt auf das Konjunktionaladverb „daraufhin“?",
+     "options": [
+      "Subjekt + Verb an Position 2",
+      "Verb an Position 2 + Subjekt (Inversion)",
+      "Verb am Satzende",
+      "Infinitiv mit zu"
+     ],
+     "answer": 1,
+     "explain": "'Daraufhin' là trạng từ liên kết chiếm vị trí 1, do đó động từ chia bắt buộc phải đứng ở vị trí 2, ngay trước chủ ngữ."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Bevor er nach Berlin ging, ___ er fünf Jahre in Hanoi als Ingenieur gearbeitet.",
+     "options": [
+      "war",
+      "wurde",
+      "hatte",
+      "hat"
+     ],
+     "answer": 2,
+     "explain": "Hành động đã làm việc ở Hà Nội xảy ra trước hành động đến Berlin trong quá khứ, dùng Plusquamperfekt: 'hatte ... gearbeitet'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was ist das richtige Genus des Wortes „Neuanfang“?",
+     "options": [
+      "das Neuanfang",
+      "die Neuanfang",
+      "der Neuanfang",
+      "dem Neuanfang"
+     ],
+     "answer": 2,
+     "explain": "Thành tố cuối là danh từ giống đực 'der Anfang', vì vậy từ ghép 'der Neuanfang' cũng mang giống đực (der)."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Präteritum gehört zum starken Verb „einschlagen“ (er/sie/es)?",
+     "options": [
+      "schlagte ein",
+      "schlug ein",
+      "hat eingeschlagen",
+      "schlüge ein"
+     ],
+     "answer": 1,
+     "explain": "Dạng Präteritum của động từ mạnh 'einschlagen' là 'schlug ein' (không thêm -te)."
+    },
+    {
+     "type": "mcq",
+     "q": "Wählen Sie den Satz mit der richtigen Vorzeitigkeit in Gegenwart/Zukunft:",
+     "options": [
+      "Nachdem ich die Prüfung bestehe, reise ich nach Hause.",
+      "Nachdem ich die Prüfung bestanden habe, reise ich nach Hause.",
+      "Nachdem ich die Prüfung bestanden hatte, reise ich nach Hause.",
+      "Nachdem ich die Prüfung bestanden haben werde, reiste ich."
+     ],
+     "answer": 1,
+     "explain": "Khi mệnh đề chính ở hiện tại hoặc tương lai ('reise ich'), mệnh đề phụ với 'nachdem' phải dùng thì Perfekt ('bestanden habe')."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet die feste Redewendung „Fuß fassen“?",
+     "options": [
+      "Sich am Fuß verletzen",
+      "In einer neuen Umgebung heimisch werden und sich etablieren",
+      "Sehr schnell zu Fuß laufen",
+      "Schuhe anziehen"
+     ],
+     "answer": 1,
+     "explain": "'Fuß fassen' là thành ngữ chỉ việc hòa nhập và tạo dựng được chỗ đứng vững chắc ở một môi trường mới."
+    },
+    {
+     "type": "gap",
+     "text": "Nachdem Linh das B1-Zertifikat erworben ___, bewarb sie sich um ein Visum.",
+     "answers": [
+      "hatte"
+     ],
+     "hint": "haben im Plusquamperfekt",
+     "vi": "Sau khi Linh đã lấy được chứng chỉ B1, cô ấy đã nộp đơn xin thị thực.",
+     "explain": "Mệnh đề chính ở Präteritum ('bewarb sich'), nên mệnh đề 'nachdem' dùng Plusquamperfekt với 'hatte'."
+    },
+    {
+     "type": "gap",
+     "text": "Nachdem wir in Deutschland angekommen ___, suchten wir eine gemütliche Wohnung.",
+     "answers": [
+      "waren"
+     ],
+     "hint": "sein im Plusquamperfekt",
+     "vi": "Sau khi chúng tôi đã đến Đức, chúng tôi đã tìm một căn hộ ấm cúng.",
+     "explain": "Động từ 'ankommen' đi với trợ động từ 'sein', dạng Plusquamperfekt với chủ ngữ 'wir' là 'waren'."
+    },
+    {
+     "type": "gap",
+     "text": "Er brach sein Studium ab. Danach ___ er eine praktische Ausbildung.",
+     "answers": [
+      "begann|machte"
+     ],
+     "hint": "beginnen im Präteritum",
+     "vi": "Anh ấy đã bỏ dở đại học. Sau đó anh ấy bắt đầu học nghề.",
+     "explain": "'Danach' đứng ở vị trí 1, vị trí 2 là động từ chia ở Präteritum 'begann'."
+    },
+    {
+     "type": "gap",
+     "text": "Mit achtzehn Jahren erreichte mein jüngerer Bruder endlich die ___ .",
+     "answers": [
+      "Volljährigkeit"
+     ],
+     "hint": "Nomen: die Volljährigkeit",
+     "vi": "Ở tuổi mười tám, em trai tôi cuối cùng đã đạt đến tuổi trưởng thành.",
+     "explain": "Danh từ giống cái 'die Volljährigkeit' có nghĩa là tuổi công dân / trưởng thành."
+    },
+    {
+     "type": "gap",
+     "text": "Nachdem sie fleißig gelernt ___, besteht sie morgen bestimmt die Prüfung.",
+     "answers": [
+      "hat"
+     ],
+     "hint": "haben im Perfekt",
+     "vi": "Sau khi đã học chăm chỉ, ngày mai cô ấy nhất định sẽ đỗ kỳ thi.",
+     "explain": "Mệnh đề chính ở hiện tại / tương lai ('besteht sie morgen'), do đó mệnh đề 'nachdem' dùng Perfekt với 'hat'."
+    },
+    {
+     "type": "gap",
+     "text": "Vor fünf Jahren wanderte er aus. Seither ___ er in Berlin.",
+     "answers": [
+      "lebt|wohnt"
+     ],
+     "hint": "leben im Präsens",
+     "vi": "Năm năm trước anh ấy đã xuất cảnh. Kể từ đó anh ấy sống ở Berlin.",
+     "explain": "'Seither' (kể từ đó đến nay) diễn tả hành động kéo dài đến hiện tại nên động từ chia ở Präsens ('lebt')."
+    },
+    {
+     "type": "gap",
+     "text": "Der Absolvent fasste den festen Entschluss, ins ___ einzusteigen.",
+     "answers": [
+      "Berufsleben"
+     ],
+     "hint": "Nomen: das Berufsleben",
+     "vi": "Người tốt nghiệp đã đưa ra quyết tâm bắt đầu bước vào đời sống đi làm.",
+     "explain": "Cụm thành ngữ: 'ins Berufsleben einsteigen'."
+    },
+    {
+     "type": "gap",
+     "text": "Als junger Mann ___ er viele unerwartete Rückschläge überwinden.",
+     "answers": [
+      "musste|konnte"
+     ],
+     "hint": "müssen im Präteritum",
+     "vi": "Khi còn là một thanh niên trẻ, anh ấy đã phải vượt qua nhiều trở ngại bất ngờ.",
+     "explain": "Động từ khuyết thiếu 'müssen' chia ở Präteritum ngôi số ít er là 'musste'."
+    },
+    {
+     "type": "gap",
+     "text": "Rückblickend ___ der Umzug nach Hamburg ein echter Wendepunkt.",
+     "answers": [
+      "war"
+     ],
+     "hint": "sein im Präteritum",
+     "vi": "Nhìn lại thì việc chuyển đến Hamburg đã là một bước ngoặt thực sự.",
+     "explain": "'sein' chia ở Präteritum với chủ ngữ số ít 'der Umzug' là 'war'."
+    },
+    {
+     "type": "gap",
+     "text": "Sie bereiteten sich vor. Daraufhin ___ sie ihre Bewerbungsunterlagen ab.",
+     "answers": [
+      "schickten"
+     ],
+     "hint": "abschicken im Präteritum",
+     "vi": "Họ đã chuẩn bị kỹ lưỡng. Sau đó họ đã gửi hồ sơ xin việc của mình.",
+     "explain": "'Daraufhin' yêu cầu đảo ngữ động từ V2 lên trước chủ ngữ sie ('schickten sie ... ab')."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Nachdem",
+      "er",
+      "die",
+      "Ausbildung",
+      "beendet",
+      "hatte",
+      "zog",
+      "er",
+      "um"
+     ],
+     "answer": "Nachdem er die Ausbildung beendet hatte, zog er um.",
+     "answers": [
+      "Nachdem er die Ausbildung beendet hatte, zog er um.",
+      "Er zog um, nachdem er die Ausbildung beendet hatte."
+     ],
+     "vi": "Sau khi anh ấy đã kết thúc khóa học nghề, anh ấy đã chuyển nhà."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Linh",
+      "fasste",
+      "den",
+      "mutigen",
+      "Entschluss",
+      "auszuwandern"
+     ],
+     "answer": "Linh fasste den mutigen Entschluss auszuwandern.",
+     "answers": [
+      "Linh fasste den mutigen Entschluss auszuwandern.",
+      "Den mutigen Entschluss auszuwandern fasste Linh."
+     ],
+     "vi": "Linh đã đưa ra quyết định dũng cảm là xuất cảnh."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Inzwischen",
+      "hat",
+      "er",
+      "in",
+      "Deutschland",
+      "Fuß",
+      "gefasst"
+     ],
+     "answer": "Inzwischen hat er in Deutschland Fuß gefasst.",
+     "answers": [
+      "Inzwischen hat er in Deutschland Fuß gefasst.",
+      "Er hat inzwischen in Deutschland Fuß gefasst."
+     ],
+     "vi": "Hiện nay anh ấy đã tạo dựng được chỗ đứng vững chắc tại Đức."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Rückblickend",
+      "war",
+      "diese",
+      "Entscheidung",
+      "ein",
+      "wichtiger",
+      "Meilenstein"
+     ],
+     "answer": "Rückblickend war diese Entscheidung ein wichtiger Meilenstein.",
+     "answers": [
+      "Rückblickend war diese Entscheidung ein wichtiger Meilenstein.",
+      "Diese Entscheidung war rückblickend ein wichtiger Meilenstein."
+     ],
+     "vi": "Hồi tưởng lại thì quyết định này là một cột mốc quan trọng."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Sie",
+      "überwand",
+      "alle",
+      "Hürden",
+      "mit",
+      "großer",
+      "Geduld"
+     ],
+     "answer": "Sie überwand alle Hürden mit großer Geduld.",
+     "answers": [
+      "Sie überwand alle Hürden mit großer Geduld.",
+      "Mit großer Geduld überwand sie alle Hürden."
+     ],
+     "vi": "Cô ấy đã vượt qua mọi rào cản với lòng kiên nhẫn to lớn."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Daraufhin",
+      "begann",
+      "ein",
+      "neuer",
+      "Lebensabschnitt",
+      "für",
+      "sie"
+     ],
+     "answer": "Daraufhin begann ein neuer Lebensabschnitt für sie.",
+     "answers": [
+      "Daraufhin begann ein neuer Lebensabschnitt für sie.",
+      "Ein neuer Lebensabschnitt begann daraufhin für sie."
+     ],
+     "vi": "Sau đó một giai đoạn cuộc đời mới đã bắt đầu đối với cô ấy."
+    },
+    {
+     "type": "translate",
+     "vi": "Sau khi cô ấy đã thi đỗ bằng B1, cô ấy đã sang Đức.",
+     "answers": [
+      "Nachdem sie die B1-Prüfung bestanden hatte, reiste sie nach Deutschland.",
+      "Nachdem sie das B1-Zertifikat bestanden hatte, fuhr sie nach Deutschland.",
+      "Nachdem sie die B1-Prüfung bestanden hatte, ging sie nach Deutschland."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Anh ấy đã đưa ra quyết định bắt đầu học nghề.",
+     "answers": [
+      "Er fasste den Entschluss, eine Ausbildung aufzunehmen.",
+      "Er fasste den Entschluss, eine Ausbildung zu beginnen.",
+      "Er hat den Entschluss gefasst, eine Ausbildung anzufangen."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Nhìn lại, đó là một bước ngoặt quan trọng trong cuộc đời tôi.",
+     "answers": [
+      "Rückblickend war das ein wichtiger Wendepunkt in meinem Leben.",
+      "Rückblickend war das ein wichtiger Meilenstein in meinem Leben."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Sau khi tốt nghiệp đại học, cô ấy đã bước chân vào làm việc.",
+     "answers": [
+      "Nachdem sie das Studium abgeschlossen hatte, stieg sie ins Berufsleben ein.",
+      "Nachdem sie ihr Studium beendet hatte, stieg sie ins Berufsleben ein."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Họ đã cùng nhau vạch ra những kế hoạch cho tương lai.",
+     "answers": [
+      "Sie schmiedeten gemeinsam Zukunftspläne.",
+      "Sie haben zusammen Zukunftspläne geschmiedet."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Phải mất một thời gian cho đến khi anh ấy tạo dựng được chỗ đứng.",
+     "answers": [
+      "Es dauerte eine Weile, bis er Fuß fassen konnte.",
+      "Es dauerte einige Zeit, bis er Fuß gefasst hatte."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Nachdem er sein Examen bestanden hatte, feierte er ausgelassen mit Freunden.",
+     "vi": "Sau khi đã thi đỗ tốt nghiệp, anh ấy đã ăn mừng tưng bừng cùng bạn bè."
+    },
+    {
+     "type": "listen",
+     "de": "Rückblickend war der Neuanfang in Leipzig die beste Entscheidung überhaupt.",
+     "vi": "Nhìn lại thì sự khởi đầu mới ở Leipzig là quyết định sáng suốt nhất từ trước đến nay."
+    },
+    {
+     "type": "listen",
+     "de": "Sie musste viele bürokratische Hürden bewältigen, bevor sie einreisen durfte.",
+     "vi": "Cô ấy đã phải vượt qua nhiều trở ngại thủ tục trước khi được phép nhập cảnh."
+    },
+    {
+     "type": "listen",
+     "de": "Inzwischen hat sie sich an das Leben und das Wetter in Deutschland gewöhnt.",
+     "vi": "Hiện nay cô ấy đã quen với cuộc sống và thời tiết tại Đức."
+    },
+    {
+     "type": "speak",
+     "de": "Nachdem ich Deutsch gelernt hatte, bewarb ich mich um ein Stipendium.",
+     "vi": "Sau khi đã học tiếng Đức, tôi đã nộp đơn xin học bổng."
+    },
+    {
+     "type": "speak",
+     "de": "Man muss geduldig sein, um berufliche Rückschläge erfolgreich zu überwinden.",
+     "vi": "Người ta cần phải kiên nhẫn để vượt qua thành công những thất bại trong công việc."
+    },
+    {
+     "type": "speak",
+     "de": "Diese wichtige Weichenstellung eröffnete mir ganz neue berufliche Chancen.",
+     "vi": "Bước ngoặt quan trọng này đã mở ra cho tôi những cơ hội nghề nghiệp hoàn toàn mới."
+    },
+    {
+     "type": "speak",
+     "de": "Wir blicken heute mit großer Zufriedenheit auf unseren bisherigen Werdegang zurück.",
+     "vi": "Hôm nay chúng tôi nhìn lại quá trình phấn đấu đã qua với sự hài lòng to lớn."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "der Meilenstein",
+       "cột mốc quan trọng"
+      ],
+      [
+       "der Neuanfang",
+       "sự khởi đầu mới"
+      ],
+      [
+       "die Volljährigkeit",
+       "tuổi trưởng thành"
+      ],
+      [
+       "die Weichenstellung",
+       "bước ngoặt định hướng"
+      ],
+      [
+       "der Ruhestand",
+       "thời gian nghỉ hưu"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "Fuß fassen",
+       "tạo dựng chỗ đứng"
+      ],
+      [
+       "einen Entschluss fassen",
+       "đưa ra quyết định"
+      ],
+      [
+       "Zukunftspläne schmieden",
+       "vạch kế hoạch tương lai"
+      ],
+      [
+       "Rückschläge überwinden",
+       "vượt qua trở ngại"
+      ],
+      [
+       "ins Berufsleben einsteigen",
+       "bước vào đời đi làm"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });

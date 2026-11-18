@@ -2107,6 +2107,985 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b1-u08-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Tổng quan các liên từ hai vế (Zweiteilige Konnektoren)\n\nCác liên từ hai vế được dùng để kết nối hai từ, hai cụm từ hoặc hai mệnh đề, thể hiện mối quan hệ logic chặt chẽ:\n\n| Liên từ hai vế | Ý nghĩa logic | Cấu trúc câu & Vị trí động từ | Ví dụ minh họa |\n| :--- | :--- | :--- | :--- |\n| **sowohl … als auch** | Cả hai (+ +) / vừa ... vừa | Kết nối 2 thành phần tương đương | {{Er schätzt **sowohl** Ruhe **als auch** Geselligkeit.}} |\n| **nicht nur … sondern auch** | Tăng tiến (+ +!) / không chỉ ... mà còn | Kết nối 2 thành phần (vế 2 nhấn mạnh hơn) | {{Sie hilft **nicht nur** den Nachbarn, **sondern auch** den Senioren.}} |\n| **weder … noch** | Phủ định kép (- -) / không ... cũng không | Phủ định cả 2 thành phần (KHÔNG dùng *nicht*) | {{Er hat **weder** Zeit **noch** Geduld für Streitigkeiten.}} |\n| **entweder … oder** | Lựa chọn (1 hoặc 2) / hoặc ... hoặc | oder + Vị trí 0 (trật tự câu chính bình thường) | {{Wir treffen uns **entweder** im Hof **oder** wir kochen gemeinsam.}} |\n| **zwar … aber** | Nhượng bộ (+ -) / tuy ... nhưng | zwar ở giữa/đầu vế 1, aber ở đầu vế 2 | {{Das Zimmer ist **zwar** klein, **aber** sehr gemütlich.}} |\n| **einerseits … andererseits** | Đối lập 2 mặt / một mặt ... mặt khác | andererseits đứng vị trí 1 $\\rightarrow$ **đảo ngữ V2** | {{**Einerseits** will er Ruhe, **andererseits** sucht er Kontakt.}} |\n| **je … desto / umso** | Tỷ lệ thuận / càng ... càng | **je** + Komparativ ... (Verb cuối),<br>**desto** + Komparativ + **Verb chia (V2)** + S | {{**Je** besser wir kommunizieren, **desto** weniger Konflikte entstehen.}} |\n\n## 2. Quy tắc vàng về trật tự từ với cấu trúc \"je … desto / umso\"\n\nĐây là cấu trúc đòi hỏi sự chính xác tuyệt đối về vị trí động từ:\n\n1. **Mệnh đề \"je\" là mệnh đề phụ (Nebensatz):**\n   - Sau {{je}} bắt buộc là **tính từ hoặc trạng từ so sánh hơn (Komparativ)**.\n   - Động từ chia của mệnh đề này **đứng ở cuối cùng**.\n   - Ví dụ: {{Je mehr Verständnis wir **aufbringen**, ...}}\n2. **Mệnh đề \"desto / umso\" là mệnh đề chính (Hauptsatz):**\n   - Sau {{desto / umso}} bắt buộc là **tính từ hoặc trạng từ so sánh hơn (Komparativ)**.\n   - Động từ chia của mệnh đề này đứng **ngay sau cụm so sánh (vị trí 2)**, rồi mới đến chủ ngữ (Inversion).\n   - Ví dụ: {{... , desto harmonischer **verläuft** unser Zusammenleben.}}\n\n## 3. 6 lỗi điển hình người Việt hay mắc (✗ → ✓)\n\n### Lỗi 1: Thêm \"nicht\" vào câu có \"weder … noch\"\n- ✗ *Er will nicht weder kochen noch putzen.*\n- ✓ {{Er will weder kochen noch putzen.}}\n- *Giải thích:* Bản thân {{weder … noch}} đã mang nghĩa phủ định kép tuyệt đối cho cả hai vế. Việc thêm *nicht* là lỗi thừa phủ định nghiêm trọng.\n\n### Lỗi 2: Sai trật tự động từ trong mệnh đề \"je … desto\"\n- ✗ *Je älter man wird, desto man mehr Lebenserfahrung hat.*\n- ✓ {{Je älter man wird, desto mehr Lebenserfahrung hat man.}}\n- *Giải thích:* Trong vế {{desto}}, ngay sau cụm so sánh hơn {{mehr Lebenserfahrung}} bắt buộc phải là động từ chia {{hat}}, theo sau là chủ ngữ {{man}}.\n\n### Lỗi 3: Quên biến đổi tính từ sang cấp so sánh hơn sau \"je\" và \"desto\"\n- ✗ *Je gut wir uns verstehen, desto harmonisch leben wir.*\n- ✓ {{Je besser wir uns verstehen, desto harmonischer leben wir.}}\n- *Giải thích:* Cả sau {{je}} lẫn sau {{desto/umso}} bắt buộc phải dùng dạng **Komparativ** ({{gut $\\rightarrow$ besser}}, {{harmonisch $\\rightarrow$ harmonischer}}).\n\n### Lỗi 4: Dùng \"als auch\" thay vì \"sondern auch\" sau \"nicht nur\"\n- ✗ *Er ist nicht nur hilfsbereit, als auch sehr freundlich.*\n- ✓ {{Er ist nicht nur hilfsbereit, sondern auch sehr freundlich.}}\n- *Giải thích:* Cặp liên từ cố định là {{nicht nur … sondern auch}}. Cặp {{sowohl}} mới đi với {{als auch}}.\n\n### Lỗi 5: Đảo ngữ sai sau \"oder\"\n- ✗ *Entweder räumen wir die Küche auf, oder gehen wir spazieren.*\n- ✓ {{Entweder räumen wir die Küche auf, oder wir gehen spazieren.}}\n- *Giải thích:* {{oder}} là liên từ đẳng hàng ở vị trí 0, trật tự từ sau *oder* là chủ ngữ đứng trước động từ ({{oder wir gehen...}}).\n\n### Lỗi 6: Dùng nhầm \"einerseits\" mà không có \"andererseits\"\n- ✗ *Einerseits verstehe ich ihn, aber er ist zu laut.*\n- ✓ {{Einerseits verstehe ich ihn, andererseits ist er mir zu laut.}}\n- *Giải thích:* {{einerseits}} đi đôi với {{andererseits}} để tạo sự cân bằng và làm nổi bật hai mặt đối lập của một vấn đề.\n\n## 4. Ví dụ củng cố bổ sung\n- {{In einer Wohngemeinschaft muss man sowohl kompromissbereit als auch rücksichtsvoll sein.}} (Trong một nhóm sống chung nhà, người ta vừa phải biết thỏa hiệp vừa phải biết nghĩ cho người khác.)\n- {{Je mehr Rücksicht die Nachbarn aufeinander nehmen, desto angenehmer wird das Zusammenleben.}} (Hàng xóm càng biết tôn trọng lẫn nhau, cuộc sống chung càng trở nên dễ chịu.)\n- {{Sie fand weder in der Familie noch bei Freunden echte Unterstützung.}} (Cô ấy không tìm thấy sự hỗ trợ thực sự trong gia đình cũng như ở bạn bè.)\n- {{Das Zusammenleben bringt zwar viele Vorteile mit sich, aber man muss auch persönliche Freiräume respektieren.}} (Cuộc sống chung tuy mang lại nhiều lợi thế, nhưng người ta cũng phải tôn trọng những không gian riêng tư.)\n- {{Einerseits wünscht sich die Seniorin mehr Ruhe, andererseits leidet sie unter der Einsamkeit.}} (Một mặt cụ bà mong muốn có thêm sự yên tĩnh, mặt khác cụ lại chịu đựng nỗi cô đơn.)\n",
+   "vocab": [
+    {
+     "de": "Zusammenleben",
+     "article": "das",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "tsuˈzamənˌleːbn̩",
+     "vi": "cuộc sống chung, sự chung sống hòa thuận",
+     "example": "Ein respektvolles Zusammenleben verschiedener Kulturen bereichert die gesamte Stadt.",
+     "exampleVi": "Cuộc sống chung tôn trọng lẫn nhau của các nền văn hóa khác nhau làm phong phú toàn bộ thành phố."
+    },
+    {
+     "de": "Konflikt",
+     "article": "der",
+     "plural": "Konflikte",
+     "pos": "noun",
+     "ipa": "kɔnˈflɪkt",
+     "vi": "mâu thuẫn, xung đột trong quan hệ",
+     "example": "Bei Meinungsverschiedenheiten sollte man den offenen Konflikt nicht scheuen, sondern sachlich diskutieren.",
+     "exampleVi": "Khi có bất đồng ý kiến, người ta không nên né tránh mâu thuẫn cởi mở, mà nên thảo luận khách quan."
+    },
+    {
+     "de": "Kompromiss",
+     "article": "der",
+     "plural": "Kompromisse",
+     "pos": "noun",
+     "ipa": "kɔmpʁoˈmɪs",
+     "vi": "sự thỏa hiệp, nhượng bộ lẫn nhau",
+     "example": "Nach langen Verhandlungen schlossen die Mieter einen fairen Kompromiss mit dem Vermieter.",
+     "exampleVi": "Sau những cuộc thương lượng kéo dài, những người thuê nhà đã đạt được một sự thỏa hiệp công bằng với chủ nhà."
+    },
+    {
+     "de": "Verständnis",
+     "article": "das",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "fɛɐ̯ˈʃtɛntnɪs",
+     "vi": "sự thấu hiểu, lòng cảm thông",
+     "example": "Für die schwierige familiäre Situation der Kollegin brachte das gesamte Team großes Verständnis auf.",
+     "exampleVi": "Trước hoàn cảnh gia đình khó khăn của nữ đồng nghiệp, cả đội ngũ đã bày tỏ sự cảm thông to lớn."
+    },
+    {
+     "de": "Hilfsbereitschaft",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈhɪlfsbəˌʁaɪ̯tʃaft",
+     "vi": "lòng nhiệt tình, tinh thần sẵn sàng giúp đỡ người khác",
+     "example": "Die spontane Hilfsbereitschaft der Anwohner nach dem Unwetter war überwältigend.",
+     "exampleVi": "Tinh thần nhiệt tình sẵn sàng giúp đỡ của cư dân sau cơn bão thật đáng cảm phục."
+    },
+    {
+     "de": "Mitgefühl",
+     "article": "das",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈmɪtɡəˌfyːl",
+     "vi": "lòng trắc ẩn, sự đồng cảm sâu sắc",
+     "example": "In schweren Zeiten spendet aufrichtiges Mitgefühl von Freunden viel Trost.",
+     "exampleVi": "Trong những thời khắc khó khăn, sự đồng cảm chân thành từ bạn bè đem lại nhiều niềm an ủi."
+    },
+    {
+     "de": "Wohngemeinschaft",
+     "article": "die",
+     "plural": "Wohngemeinschaften",
+     "pos": "noun",
+     "ipa": "ˈvoːnɡəˌmaɪ̯nʃaft",
+     "vi": "nhóm bạn sống chung một căn hộ (WG)",
+     "example": "Für viele Studierende ist das Wohnen in einer Wohngemeinschaft eine günstige Option.",
+     "exampleVi": "Đối với nhiều sinh viên, sống trong một nhóm chung nhà là một lựa chọn tiết kiệm chi phí."
+    },
+    {
+     "de": "Mitbewohner",
+     "article": "der",
+     "plural": "Mitbewohner",
+     "pos": "noun",
+     "ipa": "ˈmɪtbəˌvoːnɐ",
+     "vi": "người bạn cùng phòng, bạn trọ chung nhà (nam)",
+     "example": "Mein Mitbewohner übernimmt diese Woche die Reinigung der gemeinsamen Küche.",
+     "exampleVi": "Cậu bạn cùng phòng của tôi tuần này đảm nhận việc dọn dẹp gian bếp chung."
+    },
+    {
+     "de": "Mitbewohnerin",
+     "article": "die",
+     "plural": "Mitbewohnerinnen",
+     "pos": "noun",
+     "ipa": "ˈmɪtbəˌvoːnəʁɪn",
+     "vi": "nữ bạn cùng phòng, bạn trọ nữ",
+     "example": "Meine neue Mitbewohnerin studiert Musik und übt nachmittags Geige.",
+     "exampleVi": "Cô bạn cùng phòng mới của tôi học âm nhạc và tập đàn vĩ cầm vào các buổi chiều."
+    },
+    {
+     "de": "Toleranz",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "toləˈʁants",
+     "vi": "lòng khoan dung, sự chấp nhận khác biệt của người khác",
+     "example": "Gegenseitige Toleranz ist das Fundament für ein friedliches Zusammenleben in der Großstadt.",
+     "exampleVi": "Sự khoan dung lẫn nhau là nền tảng cho một cuộc sống chung hòa bình tại các thành phố lớn."
+    },
+    {
+     "de": "Streitigkeit",
+     "article": "die",
+     "plural": "Streitigkeiten",
+     "pos": "noun",
+     "ipa": "ˈʃtʁaɪ̯tɪçkaɪ̯t",
+     "vi": "vụ tranh cãi, mối bất hòa giữa các bên",
+     "example": "Unnötige Streitigkeiten über Kleinigkeiten belasten das tägliche Familienleben sehr.",
+     "exampleVi": "Những cuộc cãi vã vô cớ về những chuyện nhỏ nhặt gây áp lực rất lớn lên cuộc sống gia đình hàng ngày."
+    },
+    {
+     "de": "Einsamkeit",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈaɪ̯nzaːmkaɪ̯t",
+     "vi": "nỗi cô đơn, sự lẻ loi trong cuộc sống",
+     "example": "Mehrgenerationenhäuser helfen älteren Menschen dabei, der drohenden Einsamkeit zu entfliehen.",
+     "exampleVi": "Những ngôi nhà đa thế hệ giúp người cao tuổi thoát khỏi nỗi cô đơn đe dọa."
+    },
+    {
+     "de": "Lebensgefährte",
+     "article": "der",
+     "plural": "Lebensgefährten",
+     "pos": "noun",
+     "ipa": "ˈleːbn̩sɡəˌfɛːɐ̯tə",
+     "vi": "người bạn đời, bạn tình gắn bó lâu dài (nam, n-Deklination)",
+     "example": "Sie lebt seit zehn Jahren glücklich mit ihrem Lebensgefährten zusammen.",
+     "exampleVi": "Cô ấy đã sống chung hạnh phúc mười năm nay với người bạn đời của mình."
+    },
+    {
+     "de": "Lebensgefährtin",
+     "article": "die",
+     "plural": "Lebensgefährtinnen",
+     "pos": "noun",
+     "ipa": "ˈleːbn̩sɡəˌfɛːɐ̯tɪn",
+     "vi": "người bạn đời, bạn tình gắn bó lâu dài (nữ)",
+     "example": "Er und seine Lebensgefährtin haben gemeinsam ein altes Bauernhaus renoviert.",
+     "exampleVi": "Anh ấy và người bạn đời nữ của mình đã cùng nhau sửa sang lại một ngôi nhà nông thôn cổ."
+    },
+    {
+     "de": "einen Kompromiss schließen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nən kɔmpʁoˈmɪs ˈʃliːsn̩",
+     "vi": "đạt được một sự thỏa hiệp, nhượng bộ hòa giải",
+     "example": "Nach einer hitzigen Diskussion konnten die Nachbarn schließlich einen vernünftigen Kompromiss schließen.",
+     "exampleVi": "Sau một cuộc thảo luận sôi nổi, những người hàng xóm cuối cùng đã có thể đạt được một sự thỏa hiệp hợp lý."
+    },
+    {
+     "de": "Konflikte lösen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "kɔnˈflɪktə ˈløːzn̩",
+     "vi": "hòa giải, giải quyết các mâu thuẫn",
+     "example": "In der Mediation lernt man Methoden, um zwischenmenschliche Konflikte gewaltfrei zu lösen.",
+     "exampleVi": "Trong khóa học hòa giải, người ta học các phương pháp giải quyết mâu thuẫn giữa con người mà không dùng bạo lực."
+    },
+    {
+     "de": "Rücksicht nehmen auf",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈʁʏkˌzɪçt ˈneːmən aʊ̯f",
+     "vi": "để ý, biết nghĩ đến, tôn trọng người khác (+ Akk)",
+     "example": "In den Abendstunden sollte man im Mietshaus stets Rücksicht auf die Nachtruhe nehmen.",
+     "exampleVi": "Vào các khung giờ buổi tối, người ta nên luôn tôn trọng giờ yên tĩnh ban đêm trong khu nhà trọ."
+    },
+    {
+     "de": "Verständnis aufbringen für",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "fɛɐ̯ˈʃtɛntnɪs ˈaʊ̯fˌbʁɪŋən fyːɐ̯",
+     "vi": "bày tỏ, thể hiện sự thấu hiểu cho (+ Akk)",
+     "example": "Wir sollten auch für andere Lebensentwürfe jederzeit echtes Verständnis aufbringen.",
+     "exampleVi": "Chúng ta cũng nên luôn thể hiện sự thấu hiểu thực sự đối với những lựa chọn phong cách sống khác."
+    },
+    {
+     "de": "Streitigkeiten beilegen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈʃtʁaɪ̯tɪçkaɪ̯tn̩ ˈbaɪ̯ˌleːɡn̩",
+     "vi": "dàn xếp, giải quyết êm đẹp những vụ cãi cọ bất hòa",
+     "example": "Die beiden Parteien einigten sich darauf, alte Streitigkeiten ein für alle Mal beizulegen.",
+     "exampleVi": "Hai bên đã thống nhất dàn xếp dứt điểm những mối bất hòa xưa cũ một lần cho mãi mãi."
+    },
+    {
+     "de": "ein offenes Ohr haben für",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "aɪ̯n ˈɔfənəs ˈoːɐ̯ ˈhaːbn̩ fyːɐ̯",
+     "vi": "luôn sẵn lòng lắng nghe tâm sự và chia sẻ (+ Akk)",
+     "example": "Meine Großmutter hat für die Sorgen ihrer Enkelkinder immer ein offenes Ohr.",
+     "exampleVi": "Bà tôi luôn sẵn lòng lắng nghe những âu lo của các cháu mình."
+    },
+    {
+     "de": "harmonieren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "harmoniert, harmonierte, hat harmoniert",
+     "ipa": "haʁmoˈniːʁən",
+     "vi": "hòa hợp, ăn ý tuyệt vời với nhau (mit + Dat)",
+     "example": "Die verschiedenen Charaktere in der WG harmonieren erstaunlich gut miteinander.",
+     "exampleVi": "Các tính cách khác nhau trong nhóm chung nhà hòa hợp với nhau tốt đến ngạc nhiên."
+    },
+    {
+     "de": "respektieren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "respektiert, respektierte, hat respektiert",
+     "ipa": "ʁespɛkˈtiːʁən",
+     "vi": "tôn trọng quan điểm, quyền riêng tư (+ Akk)",
+     "example": "Alle Bewohner müssen die Hausordnung und die Privatsphäre der anderen respektieren.",
+     "exampleVi": "Tất cả cư dân đều phải tôn trọng nội quy khu nhà và sự riêng tư của những người khác."
+    },
+    {
+     "de": "wertschätzen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "schätzt wert, schätzte wert, hat wertgeschätzt",
+     "ipa": "ˈveːɐ̯tˌʃɛtsn̩",
+     "vi": "trân trọng, đánh giá cao công sức, phẩm chất (+ Akk)",
+     "example": "Es ist wichtig, das ehrenamtliche Engagement der Nachbarn aufrichtig wertzuschätzen.",
+     "exampleVi": "Điều quan trọng là phải trân trọng chân thành sự dấn thân thiện nguyện của những người hàng xóm."
+    },
+    {
+     "de": "vermitteln",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "vermittelt, vermittelte, hat vermittelt",
+     "ipa": "fɛɐ̯ˈmɪtl̩n",
+     "vi": "đứng ra làm cầu nối, hòa giải giữa các bên (zwischen + Dat)",
+     "example": "Der Hausverwalter versuchte geduldig, zwischen den streitenden Nachbarn zu vermitteln.",
+     "exampleVi": "Người quản lý nhà đã kiên nhẫn đứng ra làm cầu nối hòa giải giữa những người hàng xóm đang cãi vã."
+    },
+    {
+     "de": "vereinsamen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "vereinsamt, vereinsamte, ist vereinsamt",
+     "ipa": "fɛɐ̯ˈʔaɪ̯nzaːmən",
+     "vi": "trở nên cô độc, sống cô lập dần",
+     "example": "Ohne soziale Kontakte im Alter können alleinstehende Menschen sehr schnell vereinsamen.",
+     "exampleVi": "Nếu không có các mối quan hệ xã hội khi về già, những người sống một mình có thể trở nên cô độc rất nhanh."
+    },
+    {
+     "de": "kompromissbereit",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "kɔmpʁoˈmɪsbaɪ̯t",
+     "vi": "sẵn sàng thỏa hiệp, biết nhượng bộ vì cái chung",
+     "example": "Nur wenn beide Seiten kompromissbereit bleiben, lässt sich der Streit beilegen.",
+     "exampleVi": "Chỉ khi cả hai bên đều sẵn sàng thỏa hiệp thì mối bất hòa mới có thể được dàn xếp êm đẹp."
+    },
+    {
+     "de": "rücksichtsvoll",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈʁʏkˌzɪçtsfɔl",
+     "vi": "biết nghĩ cho người khác, chu đáo lịch thiệp",
+     "example": "Ein rücksichtsvoller Umgang miteinander verhindert die meisten Probleme im Treppenhaus.",
+     "exampleVi": "Cách ứng xử biết nghĩ cho nhau sẽ ngăn ngừa phần lớn những rắc rối ở cầu thang chung."
+    },
+    {
+     "de": "einfühlsam",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈaɪ̯nˌfyːlzaːm",
+     "vi": "thấu hiểu tâm lý, nhạy cảm tinh tế",
+     "example": "Mit ihrer einfühlsamen Art fand sie schnell Zugang zu den schüchternen Kindern.",
+     "exampleVi": "Bằng phong cách thấu hiểu tinh tế của mình, cô ấy đã nhanh chóng chiếm được cảm tình của những đứa trẻ nhút nhát."
+    },
+    {
+     "de": "vertrauensvoll",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "fɛɐ̯ˈtʁaʊ̯ənsfɔl",
+     "vi": "tràn đầy tin cậy, thấu suốt tin tưởng",
+     "example": "Zwischen den Generationen entstand im Mehrgenerationenhaus ein vertrauensvolles Verhältnis.",
+     "exampleVi": "Giữa các thế hệ đã hình thành một mối quan hệ tràn đầy tin cậy tại ngôi nhà đa thế hệ."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Hallo Felix! Du wohnst jetzt seit einem Monat in einer großen Studenten-WG. Wie läuft das Zusammenleben?",
+     "vi": "Chào Felix! Bạn đã sống một tháng nay trong một nhóm sinh viên ở chung nhà lớn. Cuộc sống chung thế nào rồi?"
+    },
+    {
+     "speaker": "B",
+     "name": "Felix",
+     "de": "Hallo Mai! Es ist zwar manchmal etwas laut, aber im Großen und Ganzen harmonieren wir wirklich hervorragend.",
+     "vi": "Chào Mai! Thỉnh thoảng tuy có hơi ồn ào một chút, nhưng nhìn chung chúng mình thực sự hòa hợp rất tuyệt."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Gibt es denn keine Streitigkeiten über den Putzplan oder die Ruhezeiten im Haus?",
+     "vi": "Thế không có vụ tranh cãi nào về lịch trực nhật lau dọn hay giờ giấc yên tĩnh trong nhà à?"
+    },
+    {
+     "speaker": "B",
+     "name": "Felix",
+     "de": "Natürlich entstehen manchmal kleinere Reibereien. Aber je offener wir miteinander sprechen, desto schneller lösen wir die Probleme.",
+     "vi": "Tất nhiên thỉnh thoảng có nảy sinh những va chạm nhỏ. Nhưng chúng mình càng nói chuyện cởi mở với nhau thì giải quyết vấn đề càng nhanh."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Das klingt sehr vernünftig. Man muss in einer Gemeinschaft schließlich sowohl kompromissbereit als auch rücksichtsvoll sein.",
+     "vi": "Nghe rất hợp lý. Trong một tập thể rốt cuộc người ta vừa phải biết thỏa hiệp vừa phải biết nghĩ cho người khác."
+    },
+    {
+     "speaker": "B",
+     "name": "Felix",
+     "de": "Ganz genau. Wir haben vereinbart: Entweder kochen wir abends gemeinsam oder jeder räumt seine eigenen Sachen sofort auf.",
+     "vi": "Chính xác. Chúng mình đã thỏa thuận: Hoặc là buổi tối cùng nhau nấu ăn, hoặc là mỗi người tự dọn đồ của mình ngay lập tức."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Und wie versteht ihr euch mit den älteren Nachbarn im Wohnhaus?",
+     "vi": "Thế các bạn hòa thuận ra sao với những người hàng xóm lớn tuổi trong khu nhà?"
+    },
+    {
+     "speaker": "B",
+     "name": "Felix",
+     "de": "Sehr gut! Wir helfen nicht nur älteren Anwohnern beim Tragen schwerer Einkaufstaschen, sondern wir leihen ihnen auch Werkzeuge aus.",
+     "vi": "Rất tốt! Chúng mình không chỉ giúp đỡ các cư dân lớn tuổi xách những túi đồ mua sắm nặng, mà còn cho họ mượn dụng cụ nữa."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Das ist ein wunderbares Vorbild für gelebte Nachbarschaftshilfe zwischen den Generationen.",
+     "vi": "Đó là một tấm gương tuyệt vời cho sự giúp đỡ tương thân tương ái giữa các thế hệ."
+    },
+    {
+     "speaker": "B",
+     "name": "Felix",
+     "de": "Ja, eine ältere Nachbarin hat weder Kinder noch Verwandte in der Stadt. Wir möchten nicht, dass sie im Alter vereinsamt.",
+     "vi": "Vâng, một bác hàng xóm lớn tuổi không có con cái cũng chẳng có người thân trong thành phố. Chúng mình không muốn bác ấy bị cô độc lúc tuổi già."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Das zeigt wirklich großes Mitgefühl und soziale Verantwortung von eurer Wohngemeinschaft.",
+     "vi": "Điều đó thực sự thể hiện lòng trắc ẩn to lớn và trách nhiệm xã hội từ nhóm bạn cùng nhà của các bạn."
+    },
+    {
+     "speaker": "B",
+     "name": "Felix",
+     "de": "Danke, Mai! Einerseits braucht jeder von uns seine Privatsphäre, andererseits schätzen wir den engen Zusammenhalt sehr.",
+     "vi": "Cảm ơn Mai! Một mặt mỗi người trong chúng mình đều cần sự riêng tư, mặt khác chúng mình rất trân trọng sự gắn kết bền chặt."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Je mehr Verständnis man füreinander aufbringt, umso schöner wird das Zusammenwohnen für alle.",
+     "vi": "Người ta càng dành nhiều sự thấu hiểu cho nhau thì việc sống chung càng trở nên tươi đẹp cho tất cả mọi người."
+    },
+    {
+     "speaker": "B",
+     "name": "Felix",
+     "de": "Absolut richtig. Du bist übrigens herzlich eingeladen, am nächsten Freitag zu unserem WG-Abendessen vorbeizukommen!",
+     "vi": "Hoàn toàn chuẩn xác. Nhân tiện thì bạn được mời nhiệt tình tới tham gia bữa tối cùng nhóm bạn trọ của mình vào thứ Sáu tới nhé!"
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Vielen Dank für die liebe Einladung, Felix! Ich werde sehr gerne vorbeikommen.",
+     "vi": "Cảm ơn rất nhiều vì lời mời thân tình, Felix! Mình sẽ rất vui lòng ghé qua."
+    }
+   ],
+   "reading": {
+    "title": "Neue Wohnformen im Fokus: Wie Mehrgenerationenhäuser Einsamkeit überwinden",
+    "text": "In den modernen Großstädten der westlichen Welt vollzieht sich ein tiefgreifender demografischer und sozialer Wandel. Traditionelle Großfamilien, in denen mehrere Generationen ganz selbstverständlich unter einem gemeinsamen Dach lebten und sich gegenseitig im Alltag unterstützten, sind heutzutage weitgehend aus dem Stadtbild verschwunden. Stattdessen nimmt der Anteil von Single-Haushalten kontinuierlich zu, was vor allem für viele ältere Bürgerinnen und Bürger zu einer schmerzhaften Isolation führen kann. Um dieser drohenden Vereinsamung im Alter wirksam entgegenzuwirken, entstehen in ganz Deutschland innovative und zukunftsweisende Mehrgenerationenhäuser, die das nachbarschaftliche Miteinander auf eine völlig neue Grundlage stellen.\n\nDas Grundkonzept dieser modernen Wohngemeinschaften basiert auf gegenseitiger Wertschätzung und aktiver Solidarität zwischen Jung und Alt. Sowohl junge Familien als auch alleinstehende Senioren finden hier einen gemeinsamen Lebensraum, der Raum für persönliche Begegnungen schafft. Ältere Menschen, die über reichhaltige Lebenserfahrung verfügen, haben oft ein offenes Ohr für die Sorgen junger Eltern und helfen gerne dabei, Schulkinder bei den Hausaufgaben zu betreuen. Im Gegenzug unterstützen jüngere Mitbewohner die älteren Nachbarn tatkräftig bei körperlich anstrengenden Erledigungen, wie etwa dem Tragen schwerer Einkäufe oder der Einrichtung moderner digitaler Geräte.\n\nSelbstverständlich erfordert ein solch enges Zusammenleben von allen Beteiligten ein hohes Maß an Toleranz und persönlicher Reife. Wo viele unterschiedliche Charaktere, Gewohnheiten und Lebensstile aufeinandertreffen, bleiben gelegentliche Konflikte und Meinungsverschiedenheiten natürlich nicht aus. Doch die Bewohner lernen schnell, Streitigkeiten durch offene Gespräche friedlich beizulegen und faire Kompromisse zu schließen. Es gilt die goldene Regel: Je mehr Rücksichtnahme und Empathie man im Alltag aufbringt, desto harmonischer und bereichernder gestaltet sich das tägliche Zusammenleben für alle Parteien.\n\nDie positiven Erfahrungen dieser Projekte beweisen eindrucksvoll, dass das bewusste generationenübergreifende Wohnen eine Antwort auf viele gesellschaftliche Herausforderungen unserer Zeit bietet. Es schützt ältere Menschen vor der Einsamkeit, entlastet berufstätige Eltern und vermittelt jungen Menschen soziale Werte wie Hilfsbereitschaft und Respekt. Wer in einer solchen lebendigen Gemeinschaft zu Hause ist, erfährt täglich aufs Neue, dass wahre Lebensqualität vor allem im gelingenden Miteinander liegt.",
+    "vi": "Tại các thành phố lớn hiện đại của thế giới phương Tây, một sự chuyển dịch sâu sắc về nhân khẩu học và xã hội đang diễn ra. Những đại gia đình truyền thống, nơi nhiều thế hệ từng sống đương nhiên dưới một mái nhà chung và tương trợ lẫn nhau trong cuộc sống thường nhật, ngày nay gần như đã biến mất khỏi diện mạo đô thị. Thay vào đó, tỷ lệ các hộ gia đình độc thân đang liên tục gia tăng, điều có thể dẫn tới sự cô lập đau đớn, đặc biệt là đối với nhiều công dân cao tuổi. Để đối phó hiệu quả với nỗi cô đơn đe dọa lúc tuổi già này, trên khắp nước Đức đang xuất hiện những ngôi nhà đa thế hệ đổi mới và có tầm nhìn tương lai, đặt cuộc sống gắn kết láng giềng lên một nền tảng hoàn toàn mới.\n\nKhái niệm cốt lõi của những mô hình sống chung hiện đại này dựa trên sự trân trọng lẫn nhau và tình đoàn kết tích cực giữa người trẻ và người già. Cả các gia đình trẻ lẫn những người cao tuổi neo đơn đều tìm thấy ở đây một không gian sống chung, tạo điều kiện cho những cuộc gặp gỡ cá nhân. Những người lớn tuổi sở hữu vốn kinh nghiệm sống phong phú thường sẵn lòng lắng nghe những âu lo của các bậc cha mẹ trẻ và vui vẻ hỗ trợ trông nom các em học sinh làm bài tập về nhà. Đổi lại, những người bạn cùng nhà trẻ tuổi sẽ hỗ trợ đắc lực cho những người hàng xóm cao tuổi trong các công việc đòi hỏi thể lực vất vả, chẳng hạn như xách đồ mua sắm nặng hoặc cài đặt các thiết bị kỹ thuật số hiện đại.\n\nĐương nhiên, một cuộc sống chung gắn bó như vậy đòi hỏi ở tất cả những người tham gia một mức độ khoan dung cao cùng sự chín chắn của mỗi cá nhân. Nơi mà nhiều tính cách, thói quen và phong cách sống khác nhau cùng hội tụ, những mâu thuẫn và bất đồng ý kiến thỉnh thoảng đương nhiên là không thể tránh khỏi. Nhưng các cư dân học được rất nhanh cách dàn xếp hòa bình các mối bất hòa qua những cuộc trò chuyện cởi mở và đạt được những sự thỏa hiệp công bằng. Quy tắc vàng luôn được áp dụng: Người ta càng dành nhiều sự quan tâm và đồng cảm trong cuộc sống thường nhật thì việc chung sống hàng ngày càng trở nên hòa hợp và phong phú cho tất cả các bên.\n\nNhững trải nghiệm tích cực từ các dự án này chứng minh đầy ấn tượng rằng việc sống chung xuyên thế hệ có ý thức mang lại lời giải đáp cho nhiều thách thức xã hội của thời đại chúng ta. Nó bảo vệ người già khỏi sự cô đơn, giảm bớt gánh nặng cho các bậc cha mẹ đi làm và truyền thụ cho người trẻ những giá trị xã hội như lòng nhiệt tình giúp đỡ và sự tôn trọng. Bất cứ ai tìm thấy mái ấm trong một cộng đồng sống động như vậy đều cảm nhận được mỗi ngày một lần nữa rằng chất lượng cuộc sống đích thực trước hết nằm ở sự gắn kết thành công cùng nhau.",
+    "glossary": [
+     {
+      "de": "Solidarität",
+      "article": "die",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "zolidariˈtɛːt",
+      "vi": "tình đoàn kết, sự tương thân tương ái",
+      "example": "Gelebte Solidarität hilft Menschen in schwierigen Lebenslagen.",
+      "exampleVi": "Tình đoàn kết trong thực tế giúp đỡ những con người trong hoàn cảnh khó khăn."
+     },
+     {
+      "de": "Isolation",
+      "article": "die",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "izolaˈtsi̯oːn",
+      "vi": "sự cô lập, tách biệt khỏi cộng đồng xã hội",
+      "example": "Soziale Isolation im Alter kann krank machen.",
+      "exampleVi": "Sự cô lập xã hội lúc tuổi già có thể gây ra bệnh tật."
+     },
+     {
+      "de": "Empathie",
+      "article": "die",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "ɛmpaˈtiː",
+      "vi": "sự thấu cảm, khả năng đặt mình vào vị trí người khác",
+      "example": "Empathie ist eine wesentliche Eigenschaft für erfolgreiche Teamarbeit.",
+      "exampleVi": "Sự thấu cảm là một phẩm chất thiết yếu cho sự làm việc nhóm thành công."
+     },
+     {
+      "de": "Reiberei",
+      "article": "die",
+      "plural": "Reibereien",
+      "pos": "noun",
+      "ipa": "ʁaɪ̯bəˈʁaɪ̯",
+      "vi": "sự cọ xát, va chạm nhỏ nhặt giữa các cá nhân",
+      "example": "Kleine Reibereien lassen sich durch ein klärendes Gespräch schnell beheben.",
+      "exampleVi": "Những va chạm nhỏ nhặt có thể được giải quyết nhanh chóng qua một cuộc trò chuyện thẳng thắn."
+     },
+     {
+      "de": "Demografie",
+      "article": "die",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "demoɡʁaˈfiː",
+      "vi": "nhân khẩu học, biến động cấu trúc dân số",
+      "example": "Die moderne Demografie zeigt eine stetig alternde Gesellschaft.",
+      "exampleVi": "Nhân khẩu học hiện đại cho thấy một xã hội đang già hóa liên tục."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Welche gesellschaftliche Entwicklung führt in modernen Großstädten oft zu Einsamkeit im Alter?",
+      "options": [
+       "Die Zunahme von Single-Haushalten und das Verschwinden traditioneller Großfamilien.",
+       "Die Schließung aller öffentlichen Parkanlagen.",
+       "Der Mangel an modernen Krankenhäusern."
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Wie unterstützen ältere Bewohner die jungen Familien in Mehrgenerationenhäusern?",
+      "options": [
+       "Sie reparieren alle Autos der Nachbarschaft kostenlos.",
+       "Sie haben ein offenes Ohr für Sorgen und helfen gerne bei der Kinderbetreuung.",
+       "Sie verbieten den Kindern das Spielen im Innenhof."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Wobei helfen jüngere Mitbewohner den älteren Nachbarn im Gegenzug?",
+      "options": [
+       "Bei anstrengenden Einkäufen und der Bedienung digitaler Geräte.",
+       "Sie übernehmen sämtliche Mietkosten der Senioren.",
+       "Sie schreiben deren Testamente."
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Was ist laut dem Text die goldene Regel für ein harmonisches Zusammenleben?",
+      "options": [
+       "Man darf niemals miteinander sprechen.",
+       "Je mehr Rücksichtnahme und Empathie man aufbringt, desto harmonischer wird das Miteinander.",
+       "Jeder Bewohner muss denselben Beruf ausüben."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Welches Fazit zieht der Text über moderne Mehrgenerationenhäuser?",
+      "options": [
+       "Sie sind ausschließlich für reiche Bürger bezahlbar.",
+       "Sie bieten eine überzeugende Antwort auf viele soziale Probleme unserer Zeit.",
+       "Sie führen unweigerlich zu unlösbaren Streitigkeiten."
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "writing": {
+    "task": "Sie leben seit zwei Jahren in einer Wohngemeinschaft oder Hausgemeinschaft. Schreiben Sie einen Beitrag für ein Nachbarschafts-Magazin zum Thema „Erfolgreiches Miteinander“ (ca. 80-100 Wörter). Erklären Sie, warum gegenseitige Rücksichtnahme so wichtig ist, verwenden Sie zweiteilige Konnektoren (z.B. sowohl … als auch, je … desto) und geben Sie einen Ratschlag zur Konfliktvermeidung. (Bạn sống được 2 năm trong nhóm bạn chung nhà hoặc tập thể cư dân. Viết bài cho tạp chí khu phố về chủ đề 'Sống gắn kết thành công'. Giải thích tầm quan trọng của sự tôn trọng lẫn nhau, dùng liên từ hai vế và đưa ra lời khuyên tránh xung đột.)",
+    "minWords": 80,
+    "sample": "Ein gelingendes Zusammenleben in einer Hausgemeinschaft erfordert sowohl gegenseitige Toleranz als auch aktives Mitgefühl. In unserer Wohngemeinschaft haben wir gelernt: Je mehr Rücksicht die Bewohner aufeinander nehmen, desto harmonischer verläuft der gemeinsame Alltag. Wenn einmal Meinungsverschiedenheiten über Ruhezeiten oder Sauberkeit entstehen, sollte man weder die Augen verschließen noch wütend werden. Sprechen Sie Probleme stattdessen sofort ruhig und sachlich an! Ein offenes Gespräch hilft nicht nur dabei, alte Streitigkeiten beizulegen, sondern stärkt auch das gegenseitige Vertrauen nachhaltig."
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Welcher Konnektor verbindet zwei positive Aussagen steigernd („không những … mà còn“)?",
+     "options": [
+      "weder … noch",
+      "nicht nur … sondern auch",
+      "zwar … aber",
+      "entweder … oder"
+     ],
+     "answer": 1,
+     "explain": "'nicht nur ... sondern auch' mang ý nghĩa khẳng định tăng tiến: không những cái này mà còn cả cái kia."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Er hat ___ Zeit ___ Lust, an dem Nachbarschaftstreffen teilzunehmen.",
+     "options": [
+      "sowohl … oder",
+      "weder … noch",
+      "nicht nur … aber",
+      "je … desto"
+     ],
+     "answer": 1,
+     "explain": "'weder ... noch' phủ định kép cả hai vế: không có thời gian cũng chẳng có hứng thú."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz mit „je … desto“ ist grammatisch vollkommen korrekt?",
+     "options": [
+      "Je mehr Rücksicht wir nehmen, desto harmonischer wird das Zusammenleben.",
+      "Je mehr Rücksicht wir nehmen, desto das Zusammenleben harmonischer wird.",
+      "Je mehr Rücksicht nehmen wir, desto harmonischer wird das Zusammenleben.",
+      "Je wir mehr Rücksicht nehmen, desto wird das Zusammenleben harmonischer."
+     ],
+     "answer": 0,
+     "explain": "Vế 'je' là Nebensatz (Verb 'nehmen' ở cuối); vế 'desto' là Hauptsatz (Komparativ 'desto harmonischer' chiếm vị trí 1, động từ 'wird' đứng ở vị trí 2)."
+    },
+    {
+     "type": "mcq",
+     "q": "Was drückt der Konnektor „zwar … aber“ aus?",
+     "options": [
+      "Eine reine Verneinung",
+      "Ein Zugeständnis mit einer Einschränkung (Konzession)",
+      "Eine Alternative zwischen zwei Dingen",
+      "Einen temporalen Ablauf"
+     ],
+     "answer": 1,
+     "explain": "'zwar ... aber' diễn tả sự nhượng bộ đi kèm giới hạn (tuy thế này nhưng thế kia)."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Wir können heute Abend ___ zusammen kochen ___ essen gehen.",
+     "options": [
+      "entweder … oder",
+      "weder … als auch",
+      "sowohl … noch",
+      "je … umso"
+     ],
+     "answer": 0,
+     "explain": "'entweder ... oder' diễn tả sự lựa chọn 1 trong 2: hoặc là cùng nấu ăn hoặc là đi ăn ngoài."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet das Substantiv „der Kompromiss“?",
+     "options": [
+      "Ein unlösbarer Streit",
+      "Eine Einigung, bei der beide Seiten Zugeständnisse machen",
+      "Ein Mietvertrag für ein Zimmer",
+      "Eine laute Party im Treppenhaus"
+     ],
+     "answer": 1,
+     "explain": "'Der Kompromiss' là sự thỏa hiệp hòa giải, trong đó cả hai bên đều nhượng bộ để đạt được tiếng nói chung."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz enthält KEINEN doppelten Verneinungsfehler?",
+     "options": [
+      "Er will nicht weder kochen noch putzen.",
+      "Er will weder kochen noch putzen.",
+      "Er will kein weder kochen noch putzen.",
+      "Er will weder nicht kochen noch nicht putzen."
+     ],
+     "answer": 1,
+     "explain": "'weder ... noch' đã mang sẵn nghĩa phủ định, không được thêm 'nicht' hay 'kein'."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Sie ist ___ freundlich, ___ auch sehr hilfsbereit.",
+     "options": [
+      "sowohl … sondern",
+      "nicht nur … sondern",
+      "weder … noch",
+      "entweder … oder"
+     ],
+     "answer": 1,
+     "explain": "Cặp liên từ chuẩn: 'nicht nur ... sondern auch'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet die Redewendung „ein offenes Ohr haben für jemanden“?",
+     "options": [
+      "Schlecht hören können",
+      "Jemandem verständnisvoll und aufmerksam zuhören",
+      "Einen Arzttermin vereinbaren",
+      "Laute Musik hören"
+     ],
+     "answer": 1,
+     "explain": "'ein offenes Ohr haben' có nghĩa là luôn sẵn lòng lắng nghe tâm sự và chia sẻ với ai đó."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Adjektiv bedeutet „biết nghĩ cho người khác, chu đáo“?",
+     "options": [
+      "rücksichtsvoll",
+      "einsam",
+      "streitsüchtig",
+      "unverträglich"
+     ],
+     "answer": 0,
+     "explain": "'rücksichtsvoll' là tính từ chỉ người biết nghĩ cho người khác, lịch thiệp và chu đáo."
+    },
+    {
+     "type": "gap",
+     "text": "In einer WG muss man ___ kompromissbereit als auch rücksichtsvoll sein.",
+     "answers": [
+      "sowohl"
+     ],
+     "hint": "Konnektor zu: als auch",
+     "vi": "Trong một nhóm chung nhà, người ta vừa phải biết thỏa hiệp vừa phải biết nghĩ cho người khác.",
+     "explain": "Cặp liên từ: 'sowohl ... als auch'."
+    },
+    {
+     "type": "gap",
+     "text": "Je besser wir einander zuhören, ___ weniger Missverständnisse entstehen.",
+     "answers": [
+      "desto|umso"
+     ],
+     "hint": "Konnektor zu: je",
+     "vi": "Chúng ta càng biết lắng nghe nhau thì càng ít hiểu lầm nảy sinh.",
+     "explain": "Sau 'je' là 'desto' hoặc 'umso' kết hợp với Komparativ."
+    },
+    {
+     "type": "gap",
+     "text": "Sie hat ___ Zeit noch Geld für teure Urlaubsreisen.",
+     "answers": [
+      "weder"
+     ],
+     "hint": "Konnektor zu: noch",
+     "vi": "Cô ấy không có thời gian cũng chẳng có tiền cho những chuyến du lịch đắt đỏ.",
+     "explain": "Cặp liên từ phủ định kép: 'weder ... noch'."
+    },
+    {
+     "type": "gap",
+     "text": "Das Zimmer ist ___ recht klein, aber die Miete ist sehr günstig.",
+     "answers": [
+      "zwar"
+     ],
+     "hint": "Konnektor zu: aber",
+     "vi": "Căn phòng tuy khá nhỏ, nhưng tiền thuê lại rất rẻ.",
+     "explain": "Cặp liên từ nhượng bộ: 'zwar ... aber'."
+    },
+    {
+     "type": "gap",
+     "text": "Wir treffen uns ___ morgen Nachmittag oder am kommenden Sonntag.",
+     "answers": [
+      "entweder"
+     ],
+     "hint": "Konnektor zu: oder",
+     "vi": "Chúng ta sẽ gặp nhau hoặc là chiều mai hoặc là vào Chủ Nhật tới.",
+     "explain": "Cặp liên từ lựa chọn: 'entweder ... oder'."
+    },
+    {
+     "type": "gap",
+     "text": "Nach langem Streit schlossen die beiden Nachbarn endlich einen fairen ___ .",
+     "answers": [
+      "Kompromiss"
+     ],
+     "hint": "Nomen: der Kompromiss",
+     "vi": "Sau cuộc cãi cọ kéo dài, hai người hàng xóm cuối cùng đã đạt được một sự thỏa hiệp công bằng.",
+     "explain": "Danh từ giống đực 'der Kompromiss' (sự thỏa hiệp)."
+    },
+    {
+     "type": "gap",
+     "text": "Er hat für die persönlichen Sorgen seiner Mitbewohner immer ein offenes ___ .",
+     "answers": [
+      "Ohr"
+     ],
+     "hint": "feste Wendung: ein offenes Ohr haben",
+     "vi": "Anh ấy luôn sẵn lòng lắng nghe những nỗi lo lắng cá nhân của các bạn cùng phòng.",
+     "explain": "Cụm thành ngữ: 'ein offenes Ohr haben'."
+    },
+    {
+     "type": "gap",
+     "text": "Mehrgenerationenhäuser helfen älteren Menschen dabei, nicht in die ___ abzugleiten.",
+     "answers": [
+      "Einsamkeit"
+     ],
+     "hint": "Nomen: die Einsamkeit",
+     "vi": "Những ngôi nhà đa thế hệ giúp người cao tuổi không bị rơi vào nỗi cô đơn lẻ loi.",
+     "explain": "Danh từ giống cái 'die Einsamkeit' (nỗi cô đơn)."
+    },
+    {
+     "type": "gap",
+     "text": "Einerseits schätzt sie ihre Ruhe, ___ genießt sie gemeinsame Kochabende.",
+     "answers": [
+      "andererseits"
+     ],
+     "hint": "Konnektor zu: einerseits",
+     "vi": "Một mặt cô ấy coi trọng sự yên tĩnh, mặt khác cô lại tận hưởng những buổi tối cùng nấu ăn.",
+     "explain": "Cặp liên từ đối lập: 'einerseits ... andererseits'."
+    },
+    {
+     "type": "gap",
+     "text": "In einem Mehrfamilienhaus sollte man stets Rücksicht auf die Nachbarn ___ .",
+     "answers": [
+      "nehmen"
+     ],
+     "hint": "Verb zu: Rücksicht nehmen auf",
+     "vi": "Trong một khu chung cư, người ta nên luôn luôn biết nghĩ và tôn trọng hàng xóm.",
+     "explain": "Cụm cố định: 'Rücksicht nehmen auf + Akk'."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Je",
+      "mehr",
+      "Verständnis",
+      "wir",
+      "aufbringen",
+      "desto",
+      "harmonischer",
+      "leben",
+      "wir"
+     ],
+     "answer": "Je mehr Verständnis wir aufbringen desto harmonischer leben wir.",
+     "answers": [
+      "Je mehr Verständnis wir aufbringen desto harmonischer leben wir.",
+      "Desto harmonischer leben wir je mehr Verständnis wir aufbringen."
+     ],
+     "vi": "Chúng ta càng thể hiện nhiều sự thấu hiểu thì chúng ta càng chung sống hòa thuận."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Er",
+      "schätzt",
+      "sowohl",
+      "die",
+      "Ruhe",
+      "als",
+      "auch",
+      "die",
+      "Gemeinschaft"
+     ],
+     "answer": "Er schätzt sowohl die Ruhe als auch die Gemeinschaft.",
+     "answers": [
+      "Er schätzt sowohl die Ruhe als auch die Gemeinschaft.",
+      "Sowohl die Ruhe als auch die Gemeinschaft schätzt er."
+     ],
+     "vi": "Anh ấy trân trọng cả sự yên tĩnh lẫn đời sống cộng đồng."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Sie",
+      "hat",
+      "weder",
+      "Zeit",
+      "noch",
+      "Geduld",
+      "für",
+      "endlose",
+      "Streitigkeiten"
+     ],
+     "answer": "Sie hat weder Zeit noch Geduld für endlose Streitigkeiten.",
+     "answers": [
+      "Sie hat weder Zeit noch Geduld für endlose Streitigkeiten.",
+      "Weder Zeit noch Geduld für endlose Streitigkeiten hat sie."
+     ],
+     "vi": "Cô ấy không có thời gian cũng chẳng có lòng kiên nhẫn cho những cuộc cãi cọ bất tận."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Wir",
+      "können",
+      "entweder",
+      "zusammen",
+      "kochen",
+      "oder",
+      "wir",
+      "bestellen",
+      "Pizza"
+     ],
+     "answer": "Wir können entweder zusammen kochen oder wir bestellen Pizza.",
+     "answers": [
+      "Wir können entweder zusammen kochen oder wir bestellen Pizza.",
+      "Entweder können wir zusammen kochen oder wir bestellen Pizza."
+     ],
+     "vi": "Chúng ta có thể hoặc là cùng nấu ăn hoặc là đặt bánh pizza."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Das",
+      "Zimmer",
+      "ist",
+      "zwar",
+      "klein",
+      "aber",
+      "sehr",
+      "gemütlich"
+     ],
+     "answer": "Das Zimmer ist zwar klein aber sehr gemütlich.",
+     "answers": [
+      "Das Zimmer ist zwar klein aber sehr gemütlich."
+     ],
+     "vi": "Căn phòng tuy nhỏ nhưng rất ấm cúng."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Nachbarn",
+      "sollten",
+      "stets",
+      "Rücksicht",
+      "aufeinander",
+      "nehmen"
+     ],
+     "answer": "Nachbarn sollten stets Rücksicht aufeinander nehmen.",
+     "answers": [
+      "Nachbarn sollten stets Rücksicht aufeinander nehmen.",
+      "Stets sollten Nachbarn Rücksicht aufeinander nehmen."
+     ],
+     "vi": "Hàng xóm nên luôn luôn biết nghĩ và tôn trọng lẫn nhau."
+    },
+    {
+     "type": "translate",
+     "vi": "Chúng tôi vừa học tập vừa làm việc cùng nhau.",
+     "answers": [
+      "Wir lernen sowohl als auch arbeiten zusammen.",
+      "Wir lernen sowohl als auch arbeiten gemeinsam."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Bạn càng kiên nhẫn thì mâu thuẫn càng ít đi.",
+     "answers": [
+      "Je geduldiger du bist, desto weniger Konflikte gibt es.",
+      "Je geduldiger Sie sind, desto weniger Konflikte entstehen."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Anh ấy không có xe hơi cũng chẳng có xe đạp.",
+     "answers": [
+      "Er hat weder ein Auto noch ein Fahrrad.",
+      "Er besitzt weder ein Auto noch ein Fahrrad."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Căn hộ tuy đắt nhưng rất đẹp.",
+     "answers": [
+      "Die Wohnung ist zwar teuer, aber sehr schön.",
+      "Zwar ist die Wohnung teuer, aber sehr schön."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Họ đã đạt được một sự thỏa hiệp công bằng.",
+     "answers": [
+      "Sie haben einen fairen Kompromiss geschlossen.",
+      "Sie schlossen einen fairen Kompromiss."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Cô ấy luôn sẵn lòng lắng nghe bạn bè.",
+     "answers": [
+      "Sie hat immer ein offenes Ohr für ihre Freunde.",
+      "Sie hat für ihre Freunde stets ein offenes Ohr."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Je mehr Rücksicht die Bewohner aufeinander nehmen, desto angenehmer ist das Zusammenleben.",
+     "vi": "Các cư dân càng biết nghĩ cho nhau thì cuộc sống chung càng trở nên dễ chịu."
+    },
+    {
+     "type": "listen",
+     "de": "In einer großen Wohngemeinschaft muss man sowohl kompromissbereit als auch tolerant sein.",
+     "vi": "Trong một nhóm lớn sống chung nhà, người ta vừa phải biết thỏa hiệp vừa phải có lòng khoan dung."
+    },
+    {
+     "type": "listen",
+     "de": "Nach einer offenen Diskussion konnten die Nachbarn den langwierigen Konflikt friedlich beilegen.",
+     "vi": "Sau cuộc thảo luận cởi mở, những người hàng xóm đã có thể dàn xếp hòa bình mâu thuẫn dai dẳng."
+    },
+    {
+     "type": "listen",
+     "de": "Mehrgenerationenhäuser bieten älteren Menschen Schutz vor Einsamkeit und sozialer Isolation.",
+     "vi": "Những ngôi nhà đa thế hệ mang lại cho người cao tuổi sự chở che trước nỗi cô đơn và sự cô lập xã hội."
+    },
+    {
+     "type": "speak",
+     "de": "Je offener wir miteinander sprechen, desto schneller lösen wir Probleme.",
+     "vi": "Chúng ta càng nói chuyện cởi mở với nhau thì giải quyết vấn đề càng nhanh."
+    },
+    {
+     "type": "speak",
+     "de": "Wir sollten nicht nur an uns selbst denken, sondern auch anderen helfen.",
+     "vi": "Chúng ta không nên chỉ nghĩ đến bản thân mình mà còn phải giúp đỡ người khác nữa."
+    },
+    {
+     "type": "speak",
+     "de": "Die Mitbewohner konnten schließlich einen vernünftigen Kompromiss schließen.",
+     "vi": "Các bạn cùng nhà cuối cùng đã có thể đạt được một sự thỏa hiệp hợp lý."
+    },
+    {
+     "type": "speak",
+     "de": "Gegenseitiger Respekt ist das wichtigste Fundament für ein friedliches Miteinander.",
+     "vi": "Sự tôn trọng lẫn nhau là nền tảng quan trọng nhất cho một cuộc sống gắn kết hòa bình."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "das Zusammenleben",
+       "cuộc sống chung"
+      ],
+      [
+       "der Kompromiss",
+       "sự thỏa hiệp"
+      ],
+      [
+       "das Verständnis",
+       "sự thấu hiểu"
+      ],
+      [
+       "die Wohngemeinschaft",
+       "nhóm sống chung nhà"
+      ],
+      [
+       "die Toleranz",
+       "lòng khoan dung"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "einen Kompromiss schließen",
+       "đạt thỏa hiệp"
+      ],
+      [
+       "Konflikte lösen",
+       "giải quyết mâu thuẫn"
+      ],
+      [
+       "Rücksicht nehmen auf",
+       "tôn trọng nghĩ cho người khác"
+      ],
+      [
+       "ein offenes Ohr haben",
+       "luôn sẵn lòng lắng nghe"
+      ],
+      [
+       "Streitigkeiten beilegen",
+       "dàn xếp bất hòa"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });

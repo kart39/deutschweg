@@ -2149,6 +2149,958 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b1-u12-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Bản đồ chiến thuật 4 kỹ năng trong kỳ thi Goethe / telc B1\n\nĐể đạt điểm tối đa trong kỳ thi B1, thí sinh cần kết hợp thành thạo các cấu trúc ngữ pháp trọng tâm và chiến lược làm bài chuyên biệt cho từng kỹ năng:\n\n| Kỹ năng (Modul) | Trọng tâm đánh giá | Cấu trúc ngữ pháp & Mẫu câu quyết định | Lời khuyên của giám khảo |\n| :--- | :--- | :--- | :--- |\n| **Đọc (Lesen)** | Xác định ý chính, chi tiết, quan điểm của tác giả (5 phần, 65 phút). | - Nhận diện từ đồng nghĩa và cách diễn đạt tương đương (*Paraphrasen*).<br>- Phân biệt sự thật (*Fakten*) và ý kiến cá nhân (*Meinungen*). | Đọc kỹ câu hỏi và gạch chân từ khóa trước khi đọc văn bản; không bao giờ suy diễn ngoài bài đọc. |\n| **Nghe (Hören)** | Nghe thông báo công cộng, phỏng vấn, bài thuyết trình (4 phần, 40 phút). | - Nắm bắt từ nối chuyển ý (*jedoch, allerdings, stattdessen*).<br>- Nhận diện tín hiệu thời gian và số liệu chính xác. | Đọc trước câu hỏi trong thời gian chuẩn bị; chú ý các bẫy phủ định (*nicht, kaum, keineswegs*). |\n| **Viết (Schreiben)** | Viết email thân mật (T1), bài diễn đàn nêu ý kiến (T2), thư trang trọng (T3) (60 phút). | - Liên từ sóng đôi (*nicht nur … sondern auch, sowohl … als auch*).<br>- Câu điều kiện và giả định Konjunktiv II (*Ich würde mich freuen, wenn …*). | Trả lời đầy đủ tất cả các gợi ý (*Leitpunkte*); dành 5 phút cuối kiểm tra đuôi tính từ và vị trí động từ. |\n| **Nói (Sprechen)** | Cùng lên kế hoạch (T1), thuyết trình theo chủ đề (T2), hỏi đáp (T3) (15 phút). | - Mẫu câu đề xuất và thỏa hiệp (*Wir könnten …, Was hältst du davon?*).<br>- Bố cục bài thuyết trình 5 phần hoàn chỉnh. | Tương tác tự nhiên với bạn thi; duy trì giao tiếp bằng mắt (*Blickkontakt*) với bạn và giám khảo. |\n\n---\n\n## 2. Các mẫu câu tinh hoa (Redemittel) nâng tầm bài thi Nói và Viết\n\n### A. Bày tỏ quan điểm và lập luận (Meinung und Begründung)\n- {{Meiner Ansicht nach spielt eine gezielte Prüfungsvorbereitung die entscheidende Rolle für den Erfolg.}}\n- {{Ich bin der festen Überzeugung, dass regelmäßiges Üben die Fehlerquote drastisch senkt.}}\n- {{Aus eigener Erfahrung kann ich bestätigen, dass das Sprechen mit Muttersprachlern das Ausdrucksvermögen stärkt.}}\n\n### B. So sánh ưu - nhược điểm (Vor- und Nachteile abwägen)\n- {{Ein wesentlicher Vorteil besteht darin, dass man seine Lernzeit völlig flexibel einteilen kann.}}\n- {{Andererseits darf man keineswegs übersehen, dass das Selbststudium ein hohes Maß an Disziplin erfordert.}}\n- {{Zwar ist dieser Vorschlag mit einigem Aufwand verbunden, aber er bringt langfristig den größten Nutzen.}}\n\n### C. Đề xuất, thương lượng và đi đến thỏa hiệp (Gemeinsam planen)\n- {{Wir könnten uns am Samstagnachmittag treffen, um die Präsentation gemeinsam zu strukturieren.}}\n- {{Wäre es nicht sinnvoller, wenn wir die Aufgaben vorab klar verteilen würden?}}\n- {{Darauf können wir uns gerne einigen, das ist ein überzeugender Kompromiss.}}\n\n---\n\n## 3. 6 lỗi người Việt hay mắc trong kỳ thi Goethe B1 (✗ → ✓)\n\n### Lỗi 1: Bỏ sót gợi ý đề bài (Leitpunkte) trong bài Viết\n- ✗ Viết rất dài nhưng quên mất gợi ý thứ 3 về kinh nghiệm cá nhân.\n- ✓ {{Man muss jeden einzelnen Leitpunkt im Text klar und nachvollziehbar behandeln.}}\n- *Giải thích:* Bỏ sót dù chỉ 1 Leitpunkt sẽ bị trừ nặng điểm hoàn thành nhiệm vụ (*Aufgabenerfüllung*). Hãy chia bài viết thành các đoạn tương ứng với từng Leitpunkt.\n\n### Lỗi 2: Nhầm phong cách xưng hô (Register) trong bài Viết\n- ✗ Viết thư cho bạn thân mà dùng *Sehr geehrte Damen und Herren* hoặc xưng *Sie*.\n- ✓ {{Lieber David, / Hallo Mai, ... Ich hoffe, es geht dir gut!}}\n- *Giải thích:* Phần 1 luôn là thư thân mật (*du/ihr*), Phần 3 luôn là thư trang trọng (*Sie/Ihnen*). Trộn lẫn xưng hô sẽ bị trừ điểm ngôn ngữ.\n\n### Lỗi 3: Đứng hình khi bạn thi nói quá nhiều hoặc không hợp tác (Sprechen T1)\n- ✗ Ngồi im gật đầu đồng ý hết mọi việc mà bạn thi đưa ra.\n- ✓ {{Das ist ein interessanter Vorschlag, aber könnten wir nicht auch eine andere Option in Betracht ziehen?}}\n- *Giải thích:* Giám khảo chấm khả năng tương tác hai chiều (*Interaktion*). Bạn phải đưa ra ý kiến riêng, đặt câu hỏi ngược lại và cùng chốt giải pháp.\n\n### Lỗi 4: Quên thì quá khứ khi kể về trải nghiệm cá nhân (Sprechen T2 & Schreiben T2)\n- ✗ *In meiner Heimat viele Leute lernen Deutsch in Sprachzentrum.*\n- ✓ {{In meiner Heimat haben viele Menschen an renommierten Sprachzentren Deutsch gelernt.}}\n- *Giải thích:* Khi kể về trải nghiệm hoặc tình hình thực tế, hãy dùng thì Perfekt hoặc Präteritum chính xác để thể hiện năng lực ngữ pháp B1.\n\n### Lỗi 5: Dùng \"um ... zu\" khi hai mệnh đề khác chủ ngữ\n- ✗ *Ich lerne fleißig, um meine Eltern stolz auf mich sind.*\n- ✓ {{Ich lerne fleißig, damit meine Eltern stolz auf mich sind.}}\n- *Giải thích:* *um ... zu* chỉ dùng khi hai mệnh đề có cùng một chủ ngữ. Khác chủ ngữ bắt buộc phải dùng {{damit}}.\n\n### Lỗi 6: Dùng từ đệm sai hoặc chuyển ý đột ngột trong bài thuyết trình\n- ✗ Chuyển sang phần ưu nhược điểm mà không có câu dẫn nối.\n- ✓ {{Nun möchte ich auf die Vor- und Nachteile dieses Themas näher eingehen.}}\n- *Giải thích:* Tiêu chí chấm điểm cấu trúc văn bản (*Kohärenz und Textaufbau*) đòi hỏi các câu chuyển ý (*Überleitungen*) mượt mà và chuẩn mực.\n\n---\n\n## 4. Ví dụ củng cố bổ sung\n- {{Mit einer soliden Vorbereitung und klarem Zeitmanagement lässt sich die anspruchsvolle Bestehensgrenze mühelos erreichen.}} (Với sự chuẩn bị vững chắc và quản lý thời gian rõ ràng, người ta có thể dễ dàng đạt ngưỡng điểm đỗ đầy thách thức.)\n- {{Der Kandidat konnte die anwesenden Prüfer durch ein überaus differenziertes Ausdrucksvermögen überzeugen.}} (Thí sinh đã có thể thuyết phục các vị giám khảo có mặt bằng khả năng diễn đạt vô cùng phong phú và tinh tế.)\n- {{Es wäre überaus ratsam, wenn alle Prüfungsteilnehmer die offizielle Prüfungsordnung im Voraus aufmerksam lesen würden.}} (Sẽ vô cùng sáng suốt nếu tất cả các thí sinh đọc kỹ quy chế thi chính thức từ trước.)\n- {{Obwohl die Aufgabenstellung recht komplex war, meisterte die fleißige Schülerin das Modul Lesen punktgenau.}} (Mặc dù đề bài khá phức tạp, bạn học sinh chăm chỉ đã chinh phục kỹ năng Đọc một cách chính xác từng chi tiết.)\n- {{Das begehrte Zertifikat bescheinigt den Absolventen fundierte Deutschkenntnisse auf dem Niveau B1 des Gemeinsamen Europäischen Referenzrahmens.}} (Chứng chỉ danh giá chứng nhận cho các học viên kiến thức tiếng Đức vững vàng ở trình độ B1 theo Khung tham chiếu châu Âu.)\n",
+   "vocab": [
+    {
+     "de": "Bestehensgrenze",
+     "article": "die",
+     "plural": "Bestehensgrenzen",
+     "pos": "noun",
+     "ipa": "bəˈʃteːənsˌɡʁɛntsə",
+     "vi": "ngưỡng điểm đỗ kỳ thi (thường là 60% tổng số điểm)",
+     "example": "Um das Modul zu bestehen, muss man die offizielle Bestehensgrenze von sechzig Punkten erreichen.",
+     "exampleVi": "Để thi đỗ kỹ năng, người ta phải đạt ngưỡng điểm đỗ chính thức là sáu mươi điểm."
+    },
+    {
+     "de": "Prüfungsordnung",
+     "article": "die",
+     "plural": "Prüfungsordnungen",
+     "pos": "noun",
+     "ipa": "ˈpʁyːfʊŋsˌʔɔʁdnʊŋ",
+     "vi": "quy chế thi, nội quy phòng thi và điều kiện dự thi",
+     "example": "In der aktuellen Prüfungsordnung sind alle verbindlichen Regeln für die Kandidaten festgelegt.",
+     "exampleVi": "Trong quy chế thi hiện hành, tất cả các quy định bắt buộc đối với thí sinh đều được ấn định."
+    },
+    {
+     "de": "Teilnehmer",
+     "article": "der",
+     "plural": "Teilnehmer",
+     "pos": "noun",
+     "ipa": "ˈtaɪ̯lˌneːmɐ",
+     "vi": "thí sinh tham gia kỳ thi, người dự thi",
+     "example": "Alle angemeldeten Teilnehmer müssen ihren gültigen Reisepass zur Identifikation vorlegen.",
+     "exampleVi": "Tất cả các thí sinh đã đăng ký đều phải xuất trình hộ chiếu hợp lệ để nhận diện."
+    },
+    {
+     "de": "Prüfer",
+     "article": "der",
+     "plural": "Prüfer",
+     "pos": "noun",
+     "ipa": "ˈpʁyːfɐ",
+     "vi": "giám khảo chấm thi, chuyên gia khảo thí",
+     "example": "Der erfahrene Prüfer achtet im Prüfungsgespräch besonders auf das flüssige Sprechen.",
+     "exampleVi": "Vị giám khảo giàu kinh nghiệm chú ý đặc biệt đến sự trôi chảy khi nói trong buổi thi vấn đáp."
+    },
+    {
+     "de": "Prüfende",
+     "article": "die",
+     "plural": "Prüfenden",
+     "pos": "noun",
+     "ipa": "ˈpʁyːfn̩də",
+     "vi": "nữ giám khảo chấm thi, người tiến hành cuộc thi",
+     "example": "Die Prüfende stellte dem Kandidaten eine vertiefende Frage zum gewählten Thema.",
+     "exampleVi": "Nữ giám khảo đã đặt cho thí sinh một câu hỏi đào sâu về chủ đề đã chọn."
+    },
+    {
+     "de": "Punktzahl",
+     "article": "die",
+     "plural": "Punktzahlen",
+     "pos": "noun",
+     "ipa": "ˈpʊŋktˌtsaːl",
+     "vi": "tổng số điểm đạt được trong bài thi",
+     "example": "Mit einer beeindruckenden Punktzahl von fünfundneunzig Punkten schloss sie die Prüfung ab.",
+     "exampleVi": "Với tổng số điểm ấn tượng là chín mươi lăm điểm, cô ấy đã hoàn thành kỳ thi."
+    },
+    {
+     "de": "Zertifikat",
+     "article": "das",
+     "plural": "Zertifikate",
+     "pos": "noun",
+     "ipa": "tsɛʁtifiˈkaːt",
+     "vi": "chứng chỉ ngoại ngữ chính thức",
+     "example": "Das anerkannte Zertifikat öffnet viele Türen bei der Bewerbung um einen Ausbildungsplatz.",
+     "exampleVi": "Chứng chỉ được công nhận mở ra nhiều cánh cửa khi ứng tuyển vào một vị trí học nghề."
+    },
+    {
+     "de": "Ergebnis",
+     "article": "das",
+     "plural": "Ergebnisse",
+     "pos": "noun",
+     "ipa": "ɛɐ̯ˈɡeːpnɪs",
+     "vi": "kết quả thi cử, thành tích đạt được",
+     "example": "Die offiziellen Ergebnisse werden den Teilnehmern in der Regel nach vier Wochen mitgeteilt.",
+     "exampleVi": "Kết quả chính thức thông thường được thông báo cho các thí sinh sau bốn tuần."
+    },
+    {
+     "de": "Bewertungskriterium",
+     "article": "das",
+     "plural": "Bewertungskriterien",
+     "pos": "noun",
+     "ipa": "bəˈveːɐ̯tʊŋskʁiˌteːʁiʊm",
+     "vi": "tiêu chí chấm điểm, chuẩn mực đánh giá bài làm",
+     "example": "Ein zentrales Bewertungskriterium beim Schreiben ist die vollständige Erfüllung aller Leitpunkte.",
+     "exampleVi": "Một tiêu chí chấm điểm trọng tâm trong bài viết là sự hoàn thành đầy đủ tất cả các ý gợi ý."
+    },
+    {
+     "de": "Ausdrucksvermögen",
+     "article": "das",
+     "plural": "Ausdrucksvermögen",
+     "pos": "noun",
+     "ipa": "ˈaʊ̯sdʁʊksfɛɐ̯ˌmøːɡn̩",
+     "vi": "khả năng diễn đạt ngôn từ, năng lực biểu đạt",
+     "example": "Durch fleißiges Lesen anspruchsvoller Texte lässt sich das persönliche Ausdrucksvermögen erweitern.",
+     "exampleVi": "Nhờ việc chăm chỉ đọc các văn bản nâng cao, người ta có thể mở rộng khả năng diễn đạt của bản thân."
+    },
+    {
+     "de": "Textaufbau",
+     "article": "der",
+     "plural": "Textaufbauten",
+     "pos": "noun",
+     "ipa": "ˈtɛkstˌʔaʊ̯fbaʊ̯",
+     "vi": "bố cục bài văn, cấu trúc văn bản mạch lạc",
+     "example": "Ein klarer Textaufbau mit Einleitung, Hauptteil und Schluss erleichtert das Verständnis enorm.",
+     "exampleVi": "Một bố cục văn bản rõ ràng gồm mở bài, thân bài và kết bài giúp việc thấu hiểu trở nên vô cùng dễ dàng."
+    },
+    {
+     "de": "Kohärenz",
+     "article": "die",
+     "plural": "Kohärenzen",
+     "pos": "noun",
+     "ipa": "koheˈʁɛnts",
+     "vi": "tính mạch lạc, tính liên kết logic chặt chẽ của bài viết",
+     "example": "Passende Verbindungswörter sichern die innere Kohärenz und den roten Faden des Aufsatzes.",
+     "exampleVi": "Các từ nối phù hợp đảm bảo tính mạch lạc nội tại và sợi chỉ đỏ xuyên suốt của bài văn."
+    },
+    {
+     "de": "Konnektor",
+     "article": "der",
+     "plural": "Konnektoren",
+     "pos": "noun",
+     "ipa": "kɔˈnɛktoːɐ̯",
+     "vi": "từ nối câu, liên từ liên kết các vế câu",
+     "example": "Zweiteilige Konnektoren wie sowohl als auch verleihen dem Satzgefüge mehr Eleganz.",
+     "exampleVi": "Các liên từ sóng đôi như 'sowohl als auch' mang lại sự tao nhã hơn cho cấu trúc câu phức."
+    },
+    {
+     "de": "Redemittel",
+     "article": "das",
+     "plural": "Redemittel",
+     "pos": "noun",
+     "ipa": "ˈʁeːdəˌmɪtl̩",
+     "vi": "mẫu câu giao tiếp, phương tiện diễn đạt chuẩn mực",
+     "example": "Das Einüben fester Redemittel gibt Prüflingen wertvolle Sicherheit im mündlichen Ausdruck.",
+     "exampleVi": "Việc luyện tập các mẫu câu giao tiếp cố định mang lại sự tự tin quý giá cho thí sinh khi diễn đạt nói."
+    },
+    {
+     "de": "Prüfungsvorbereitung",
+     "article": "die",
+     "plural": "Prüfungsvorbereitungen",
+     "pos": "noun",
+     "ipa": "ˈpʁyːfʊŋsfoːɐ̯bəˌʁaɪ̯tʊŋ",
+     "vi": "sự chuẩn bị cho kỳ thi, khóa ôn luyện thi",
+     "example": "Eine methodische Prüfungsvorbereitung nimmt die Prüfungsangst und stärkt das Selbstvertrauen.",
+     "exampleVi": "Sự chuẩn bị cho kỳ thi có phương pháp xua tan nỗi sợ thi cử và củng cố sự tự tin."
+    },
+    {
+     "de": "Musterprüfung",
+     "article": "die",
+     "plural": "Musterprüfungen",
+     "pos": "noun",
+     "ipa": "ˈmʊstɐˌpʁyːfʊŋ",
+     "vi": "đề thi mẫu, bài thi mô phỏng đề thi thật",
+     "example": "Vor dem eigentlichen Examen sollte man mindestens drei vollständige Musterprüfungen absolvieren.",
+     "exampleVi": "Trước kỳ thi thực tế, người ta nên hoàn thành ít nhất ba đề thi mẫu đầy đủ."
+    },
+    {
+     "de": "Wortschatzumfang",
+     "article": "der",
+     "plural": "Wortschatzumfänge",
+     "pos": "noun",
+     "ipa": "ˈvɔʁtʃatsʔʊmˌfaŋ",
+     "vi": "vốn từ vựng, phạm vi và độ phong phú của từ vựng",
+     "example": "Auf dem Niveau B1 wird ein solider Wortschatzumfang von etwa zweitausend Wörtern erwartet.",
+     "exampleVi": "Ở trình độ B1, một vốn từ vựng vững chắc khoảng hai nghìn từ được kỳ vọng."
+    },
+    {
+     "de": "Fehlerquote",
+     "article": "die",
+     "plural": "Fehlerquoten",
+     "pos": "noun",
+     "ipa": "ˈfeːlɐˌkvoːtə",
+     "vi": "tỷ lệ lỗi sai ngữ pháp và chính tả",
+     "example": "Eine niedrige grammatikalische Fehlerquote wirkt sich äußerst positiv auf die Gesamtnote aus.",
+     "exampleVi": "Một tỷ lệ lỗi sai ngữ pháp thấp sẽ tác động vô cùng tích cực đến điểm số tổng thể."
+    },
+    {
+     "de": "Zeitmanagement",
+     "article": "das",
+     "plural": "Zeitmanagements",
+     "pos": "noun",
+     "ipa": "ˈtsaɪ̯tmɛnədʒmənt",
+     "vi": "quản lý và phân bổ thời gian làm bài thi",
+     "example": "Gutes Zeitmanagement im schriftlichen Prüfungsteil verhindert hektische Hektik am Schluss.",
+     "exampleVi": "Việc quản lý thời gian tốt trong phần thi viết ngăn chặn sự vội vã luống cuống ở phút chót."
+    },
+    {
+     "de": "Schriftführer",
+     "article": "der",
+     "plural": "Schriftführer",
+     "pos": "noun",
+     "ipa": "ˈʃʁɪftˌfyːʁɐ",
+     "vi": "thư ký ghi chép biên bản cuộc họp hay buổi thi",
+     "example": "Der Schriftführer notierte während der mündlichen Prüfung die vergebenen Teilpunkte genau.",
+     "exampleVi": "Vị thư ký đã ghi chép chính xác các điểm thành phần được cho trong suốt buổi thi nói."
+    },
+    {
+     "de": "punktgenau",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈpʊŋktɡəˌnaʊ̯",
+     "vi": "chính xác từng điểm, đúng trọng tâm yêu cầu",
+     "example": "Die Kandidatin antwortete punktgenau auf die gestellte Nachfrage der Prüferin.",
+     "exampleVi": "Nữ thí sinh đã trả lời đúng trọng tâm vào câu hỏi gặng thêm của nữ giám khảo."
+    },
+    {
+     "de": "überzeugend",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "yːbɐˈtsɔʏ̯ɡn̩t",
+     "vi": "thuyết phục, có sức thuyết phục cao",
+     "example": "Ihre Argumente im zweiten Prüfungsteil waren sprachlich und inhaltlich sehr überzeugend.",
+     "exampleVi": "Các lý lẽ của cô ấy trong phần thi thứ hai rất thuyết phục cả về mặt ngôn ngữ lẫn nội dung."
+    },
+    {
+     "de": "angemessen",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈʔanɡəˌmɛsn̩",
+     "vi": "phù hợp, tương xứng với ngữ cảnh và cấp độ",
+     "example": "Verwenden Sie stets eine der Prüfungssituation angemessene und höfliche Sprache.",
+     "exampleVi": "Hãy luôn sử dụng ngôn ngữ lịch thiệp và phù hợp với tình huống phòng thi."
+    },
+    {
+     "de": "bestehen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "besteht, bestand, hat bestanden",
+     "ipa": "bəˈʃteːən",
+     "vi": "thi đỗ, vượt qua thành công một kỳ thi (+ Akk)",
+     "example": "Mit großem Fleiß hat sie alle vier Module der B1-Prüfung auf Anhieb bestanden.",
+     "exampleVi": "Với sự chăm chỉ to lớn, cô ấy đã thi đỗ ngay lần đầu cả bốn kỹ năng của kỳ thi B1."
+    },
+    {
+     "de": "durchfallen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "fällt durch, fiel durch, ist durchgefallen",
+     "ipa": "ˈdʊʁçˌfaln̩",
+     "vi": "thi trượt, không đạt yêu cầu (in + Dat)",
+     "example": "Wer in einem Modul durchfällt, darf dieses Modul bei der nächsten Prüfung wiederholen.",
+     "exampleVi": "Ai thi trượt ở một kỹ năng thì được phép thi lại kỹ năng đó ở kỳ thi tiếp theo."
+    },
+    {
+     "de": "belegen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "belegt, belegte, hat belegt",
+     "ipa": "bəˈleːɡn̩",
+     "vi": "chứng minh bằng dẫn chứng xác thực; đăng ký khóa học (+ Akk)",
+     "example": "Man sollte seine persönliche Meinung stets mit einem konkreten Alltagsbeispiel belegen.",
+     "exampleVi": "Người ta nên luôn chứng minh quan điểm cá nhân bằng một ví dụ đời thường cụ thể."
+    },
+    {
+     "de": "begründen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "begründet, begründete, hat begründet",
+     "ipa": "bəˈɡʁʏndn̩",
+     "vi": "đưa ra lý lẽ giải thích, lập luận cho nhận định (+ Akk)",
+     "example": "Bitte begründen Sie Ihren Standpunkt ausführlich und nennen Sie überzeugende Argumente.",
+     "exampleVi": "Xin vui lòng lập luận chi tiết cho quan điểm của bạn và nêu ra các luận cứ thuyết phục."
+    },
+    {
+     "de": "strukturieren",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "strukturiert, strukturierte, hat strukturiert",
+     "ipa": "ʃtʁʊktuˈʁiːʁən",
+     "vi": "sắp xếp bố cục, phân chia cấu trúc rõ ràng (+ Akk)",
+     "example": "Es lohnt sich, vor dem Schreiben den gesamten Aufsatz stichwortartig zu strukturieren.",
+     "exampleVi": "Rất đáng công khi phác thảo bố cục toàn bộ bài viết bằng các từ khóa trước khi viết."
+    },
+    {
+     "de": "überzeugen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "überzeugt, überzeugte, hat überzeugt",
+     "ipa": "yːbɐˈtsɔʏ̯ɡn̩",
+     "vi": "thuyết phục người khác bằng lý lẽ vững chắc (+ von + Dat)",
+     "example": "Mit ihrer wohlüberlegten Präsentation konnte sie das gesamte Prüfungsgremium voll überzeugen.",
+     "exampleVi": "Với bài thuyết trình được chuẩn bị chu đáo, cô ấy đã có thể thuyết phục trọn vẹn cả hội đồng thi."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Hallo David! Unsere B1-Prüfung rückt immer näher. Wie läuft deine persönliche Prüfungsvorbereitung?",
+     "vi": "Chào David! Kỳ thi B1 của chúng mình đang tới gần rồi. Khâu chuẩn bị thi của bạn diễn ra thế nào rồi?"
+    },
+    {
+     "speaker": "B",
+     "name": "David",
+     "de": "Hallo Mai! Ich habe gestern eine komplette Musterprüfung im Modul Lesen gemacht. Die Zeit war allerdings ziemlich knapp.",
+     "vi": "Chào Mai! Hôm qua mình đã làm một đề thi mẫu hoàn chỉnh ở kỹ năng Đọc. Tuy nhiên thời gian khá là sít sao."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Das kenne ich nur zu gut. Hast du denn die offizielle Bestehensgrenze von sechzig Prozent erreicht?",
+     "vi": "Điều đó mình quá hiểu rồi. Thế bạn có đạt ngưỡng điểm đỗ chính thức sáu mươi phần trăm không?"
+    },
+    {
+     "speaker": "B",
+     "name": "David",
+     "de": "Ja, zum Glück lag meine Punktzahl bei fünfundsiebzig Punkten. Aber mein Zeitmanagement muss noch besser werden.",
+     "vi": "Có, may mắn là tổng điểm của mình đạt bảy mươi lăm điểm. Nhưng việc quản lý thời gian của mình vẫn cần phải tốt hơn nữa."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Wollen wir heute Nachmittag gemeinsam den Prüfungsteil Sprechen üben? Wir könnten das Planungsgespräch simulieren.",
+     "vi": "Chiều nay chúng mình cùng nhau luyện phần thi Nói nhé? Chúng mình có thể mô phỏng phần đối thoại lên kế hoạch."
+    },
+    {
+     "speaker": "B",
+     "name": "David",
+     "de": "Sehr gerne! Welche Situation schlägst du vor? Wir könnten eine Abschiedsparty für unseren Sprachlehrer planen.",
+     "vi": "Rất sẵn lòng! Bạn đề xuất tình huống nào? Chúng mình có thể lên kế hoạch cho một bữa tiệc chia tay thầy giáo dạy tiếng."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Gute Idee! Wir müssen darauf achten, dass wir feste Redemittel verwenden und auf die Vorschläge des anderen eingehen.",
+     "vi": "Ý hay đấy! Chúng mình phải chú ý sử dụng các mẫu câu giao tiếp chuẩn và phản hồi lại các đề xuất của người kia."
+    },
+    {
+     "speaker": "B",
+     "name": "David",
+     "de": "Genau. Die Prüfer bewerten ja nicht nur die Grammatik, sondern auch die Interaktion und das Ausdrucksvermögen.",
+     "vi": "Chính xác. Các giám khảo không chỉ đánh giá ngữ pháp mà còn cả sự tương tác và khả năng diễn đạt ngôn từ."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Und wie sieht es mit deinem Vortrag in Teil 2 aus? Hast du dein Thema schon klar strukturiert?",
+     "vi": "Thế còn bài thuyết trình của bạn ở phần 2 thì sao? Bạn đã phân chia bố cục chủ đề của mình rõ ràng chưa?"
+    },
+    {
+     "speaker": "B",
+     "name": "David",
+     "de": "Ja, ich spreche über das Thema 'Brauchen Kinder ein Smartphone?'. Ich habe Vor- und Nachteile mit Beispielen belegt.",
+     "vi": "Rồi, mình nói về chủ đề 'Trẻ em có cần điện thoại thông minh không?'. Mình đã chứng minh các ưu nhược điểm bằng các ví dụ."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Das klingt überzeugend. Vergiss nicht, am Anfang deine Gliederung kurz vorzustellen und am Ende ein Fazit zu ziehen.",
+     "vi": "Nghe rất thuyết phục đấy. Đừng quên giới thiệu ngắn dàn ý ở phần mở đầu và rút ra một kết luận ở cuối bài nhé."
+    },
+    {
+     "speaker": "B",
+     "name": "David",
+     "de": "Danke für den Tipp! Danach kannst du mir als Zuhörerin eine Frage stellen, genau wie in der echten Prüfung.",
+     "vi": "Cảm ơn vì lời khuyên nhé! Sau đó bạn có thể đặt cho mình một câu hỏi với tư cách người nghe, hệt như trong kỳ thi thật."
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Perfekt. Wenn wir fleißig trainieren, werden wir die Fehlerquote senken und beide das begehrte Zertifikat erhalten.",
+     "vi": "Tuyệt hảo. Nếu chúng mình chăm chỉ rèn luyện, chúng mình sẽ hạ thấp tỷ lệ lỗi sai và cả hai đều sẽ nhận được chứng chỉ danh giá."
+    },
+    {
+     "speaker": "B",
+     "name": "David",
+     "de": "Ganz bestimmt! Treffen wir uns um fünfzehn Uhr in der Bibliothek?",
+     "vi": "Chắc chắn rồi! Chúng mình gặp nhau lúc mười lăm giờ tại thư viện nhé?"
+    },
+    {
+     "speaker": "A",
+     "name": "Mai",
+     "de": "Abgemacht. Bis später!",
+     "vi": "Chốt nhé. Hẹn gặp lại bạn sau!"
+    }
+   ],
+   "reading": {
+    "title": "Erfolgreich zum Goethe-Zertifikat B1: Die besten Strategien für alle vier Module",
+    "text": "Das Goethe-Zertifikat B1 gilt weltweit als ein zentraler Meilenstein für Zuwanderer und internationale Studierende, da es fundierte Kenntnisse der deutschen Sprache auf solidem Mittelstufenniveau bescheinigt. Wer diese anspruchsvolle Prüfung erfolgreich ablegen möchte, benötigt neben einem breiten Wortschatzumfang vor allem eine methodisch durchdachte Herangehensweise an alle vier Prüfungsmodule. Eine zielgerichtete Vorbereitung entscheidet maßgeblich darüber, ob man die erforderliche Bestehensgrenze von sechzig Punkten sicher erreicht oder wertvolle Punkte durch vermeidbare Flüchtigkeitsfehler verliert.\n\nIm Modul Leseverstehen kommt es insbesondere auf das richtige Zeitmanagement an. Anstatt jedes unbekannte Wort mühsam im Kopf zu übersetzen, sollten Prüflinge den Text zunächst zügig überfliegen, um die globale Hauptaussage zu erfassen. Erst danach gilt es, die Aufgabenstellung aufmerksam zu studieren und die relevanten Belegstellen im Text präzise zu markieren. Häufig verwenden die Prüfer geschickte Paraphrasen, sodass die richtige Antwort selten wortgleich im Text steht. Wer diese sprachlichen Zusammenhänge aufmerksam analysiert, spart kostbare Prüfungszeit und erhöht seine Trefferquote beträchtlich.\n\nDas Modul Schreiben verlangt wiederum eine saubere Textstruktur und eine angemessene Wortwahl. Bei der persönlichen E-Mail in Teil 1 sowie beim Forumsbeitrag in Teil 2 müssen sämtliche vorgegebenen Leitpunkte zwingend behandelt werden. Ein gelungener Text zeichnet sich durch logische Absätze, vielfältige Konnektoren und eine hohe grammatikalische Genauigkeit aus. Wer seine persönliche Meinung schlüssig begründet und mit authentischen Beispielen belegt, überzeugt die Korrektoren sofort von seinem sprachlichen Können.\n\nSchließlich verlangt das Modul Sprechen neben einer korrekten Aussprache vor allem kommunikative Flexibilität. Im partnerschaftlichen Planungsgespräch geht es keineswegs darum, den Gesprächspartner an die Wand zu reden. Vielmehr honorieren die Prüfenden aktives Zuhören, spontanes Eingehen auf gegenteilige Vorschläge und die Fähigkeit, gemeinsam tragfähige Kompromisse zu erzielen. Nicht zuletzt vermittelt eine strukturierte Präsentation im zweiten Teil des Sprechens einen hervorragenden Gesamteindruck bei den Prüfern. Wer diese elementaren Grundregeln beherzigt und regelmäßig mit authentischen Modelltests trainiert, geht mit berechtigtem Selbstvertrauen in den Prüfungssaal und meistert das B1-Zertifikat mit Bravour.",
+    "vi": "Chứng chỉ Goethe-Zertifikat B1 được coi là một cột mốc trọng tâm trên toàn thế giới đối với những người nhập cư và sinh viên quốc tế, bởi nó chứng nhận kiến thức tiếng Đức vững vàng ở trình độ trung cấp đáng tin cậy. Bất cứ ai muốn hoàn thành thành công kỳ thi đầy thách thức này đều cần, bên cạnh một vốn từ vựng rộng lớn, trước hết là một phương pháp tiếp cận được tính toán kỹ lưỡng cho cả bốn kỹ năng thi. Sự chuẩn bị có mục tiêu quyết định mang tính then chốt xem liệu người ta có thể đạt ngưỡng điểm đỗ sáu mươi điểm cần thiết một cách an toàn hay làm mất những điểm số quý giá vì những sai sót bất cẩn có thể tránh được.\n\nTrong kỹ năng Đọc hiểu, điều quan trọng đặc biệt là việc quản lý thời gian đúng đắn. Thay vì dịch từng từ mới một cách nhọc nhằn trong đầu, thí sinh trước hết nên đọc lướt nhanh văn bản để nắm bắt ý chính toàn cục. Chỉ sau đó mới cần nghiên cứu kỹ lưỡng yêu cầu đề bài và đánh dấu chính xác các đoạn dẫn chứng liên quan trong bài đọc. Các giám khảo thường sử dụng cách diễn đạt tương đương khéo léo, do đó đáp án đúng hiếm khi trùng khớp từng từ một trong bài. Ai phân tích cẩn thận những mối liên kết ngôn ngữ này sẽ tiết kiệm thời gian thi quý báu và nâng cao tỷ lệ trả lời đúng một cách đáng kể.\n\nKỹ năng Viết mặt khác lại đòi hỏi một cấu trúc văn bản mạch lạc và cách dùng từ phù hợp. Trong bức thư điện tử thân mật ở phần 1 cũng như bài đăng diễn đàn ở phần 2, tất cả các gợi ý được cho bắt buộc phải được xử lý trọn vẹn. Một bài viết thành công nổi bật nhờ các đoạn văn logic, các từ nối phong phú và độ chính xác ngữ pháp cao. Ai lập luận thuyết phục cho quan điểm cá nhân và chứng minh bằng các ví dụ chân thực sẽ thuyết phục các giám khảo chấm thi ngay lập tức về năng lực ngôn ngữ của mình.\n\nSau cùng, kỹ năng Nói đòi hỏi, bên cạnh phát âm chuẩn xác, trước hết là sự linh hoạt trong giao tiếp. Trong cuộc đối thoại lên kế hoạch cùng bạn thi, mục tiêu hoàn toàn không phải là nói lấn lướt bạn thi vào chân tường. Đúng hơn, các giám khảo đánh giá cao sự lắng nghe tích cực, sự phản hồi tự nhiên trước các đề xuất đối nghịch và khả năng cùng nhau đạt được những giải pháp thỏa hiệp khả thi. Sau cùng nhưng không kém phần quan trọng, một bài thuyết trình có cấu trúc rõ ràng ở phần hai của kỹ năng Nói tạo nên một ấn tượng tổng thể xuất sắc trước các giám khảo. Bất cứ ai ghi nhớ những nguyên tắc cơ bản này và thường xuyên luyện tập với các đề thi mẫu xác thực đều sẽ bước vào phòng thi với sự tự tin chính đáng và chinh phục chứng chỉ B1 một cách xuất sắc.",
+    "glossary": [
+     {
+      "de": "fundierte Kenntnisse",
+      "vi": "kiến thức sâu rộng, vững vàng"
+     },
+     {
+      "de": "Paraphrase",
+      "vi": "cách diễn đạt lại bằng từ ngữ tương đương"
+     },
+     {
+      "de": "Flüchtigkeitsfehler",
+      "vi": "lỗi sai bất cẩn, sơ suất nhỏ"
+     },
+     {
+      "de": "an die Wand reden",
+      "vi": "nói lấn lướt, nói át lời người đối thoại"
+     }
+    ],
+    "questions": [
+     {
+      "question": "Was benötigt man laut Text neben einem breiten Wortschatz vor allem für den B1-Erfolg?",
+      "options": [
+       "Eine methodisch durchdachte Herangehensweise an alle vier Module",
+       "Ein mehrjähriges Studium der Germanistik an einer Universität",
+       "Ausschließliches Lernen von Grammatikregeln ohne Sprechpraxis",
+       "Das Auswendiglernen von fertigen Musteraufsätzen aus dem Internet"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn 1 nêu rõ: 'benötigt neben einem breiten Wortschatzumfang vor allem eine methodisch durchdachte Herangehensweise an alle vier Prüfungsmodule'."
+     },
+     {
+      "question": "Was sollten Prüflinge beim Leseverstehen zuerst tun?",
+      "options": [
+       "Den Text zügig überfliegen, um die Hauptaussage zu erfassen",
+       "Jedes einzelne unbekannte Wort sofort im Wörterbuch nachschlagen",
+       "Direkt die letzte Frage ankreuzen und raten",
+       "Den gesamten Text Wort für Wort laut vorlesen"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn 2 hướng dẫn: 'sollten Prüflinge den Text zunächst zügig überfliegen, um die globale Hauptaussage zu erfassen'."
+     },
+     {
+      "question": "Warum steht die richtige Antwort beim Lesen selten wortgleich im Text?",
+      "options": [
+       "Weil die Prüfer geschickte Paraphrasen verwenden",
+       "Weil der Prüfungstext grundsätzlich fehlerhaft gedruckt wird",
+       "Weil die Aufgaben absichtlich falsche Vokabeln enthalten",
+       "Weil das B1-Zertifikat keine Textfragen vorsieht"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn 2 giải thích: 'Häufig verwenden die Prüfer geschickte Paraphrasen, sodass die richtige Antwort selten wortgleich im Text steht'."
+     },
+     {
+      "question": "Welche formale Anforderung ist beim Modul Schreiben zwingend zu erfüllen?",
+      "options": [
+       "Sämtliche vorgegebenen Leitpunkte müssen behandelt werden",
+       "Man darf ausschließlich einfache Hauptsätze verwenden",
+       "Der Text muss genau fünfhundert Wörter umfassen",
+       "Es müssen mindestens zehn Zitate von Philosophen vorkommen"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn 3 khẳng định: 'müssen sämtliche vorgegebenen Leitpunkte zwingend behandelt werden'."
+     },
+     {
+      "question": "Worauf achten die Prüfenden beim gemeinsamen Planungsgespräch in Teil 1 besonders?",
+      "options": [
+       "Auf aktives Zuhören, spontanes Eingehen und gemeinsame Kompromisse",
+       "Darauf, dass ein Teilnehmer das gesamte Gespräch dominiert",
+       "Ausschließlich auf eine extrem schnelle Sprechgeschwindigkeit",
+       "Auf das Auswendiglernen eines langen Vortrags ohne Partner"
+      ],
+      "answer": 0,
+      "explanation": "Đoạn 4 nêu: 'honorieren die Prüfenden aktives Zuhören, spontanes Eingehen auf gegenteilige Vorschläge und die Fähigkeit, gemeinsam tragfähige Kompromisse zu erzielen'."
+     }
+    ]
+   },
+   "writing": {
+    "task": "Sie haben im Internet ein Diskussionsforum zum Thema 'Fremdsprachenlernen mit Apps und digitalen Medien' gefunden. Schreiben Sie einen Beitrag dazu (mindestens 80 Wörter).\nGehen Sie auf folgende Punkte ein:\n1. Äußern Sie Ihre persönliche Meinung zum Fremdsprachenlernen per App.\n2. Nennen Sie Gründe, warum Sprachlern-Apps heute so beliebt sind.\n3. Berichten Sie über Ihre eigenen Erfahrungen mit digitalen Medien beim Deutschlernen.\n4. Nennen Sie Vor- und Nachteile von Sprach-Apps im Vergleich zu klassischem Präsenzunterricht.",
+    "sample": "Ich möchte mich gern an der aktuellen Diskussion über das Fremdsprachenlernen mit Apps beteiligen. Meiner Ansicht nach stellen digitale Anwendungen eine äußerst praktische und motivierende Ergänzung zum traditionellen Unterricht dar, auch wenn sie den menschlichen Kontakt nicht völlig ersetzen können.\n\nEin wesentlicher Grund für die enorme Beliebtheit von Sprach-Apps liegt in ihrer uneingeschränkten Flexibilität. Man kann jederzeit und an jedem beliebigen Ort kurze Übungseinheiten einschieben, sei es in der U-Bahn oder in einer kurzen Pause. Zudem machen spielerische Elemente wie Punkte und Ranglisten das Lernen kurzweilig.\n\nAus eigener Erfahrung kann ich berichten, dass mir Vokabel-Apps bei der Vorbereitung auf das B1-Zertifikat enorm geholfen haben. Durch das tägliche Wiederholen mit einem digitalen Karteikartensystem konnte ich meinen Wortschatzumfang in wenigen Monaten verdoppeln.\n\nAllerdings gibt es auch Nachteile: Apps trainieren zwar Wortschatz und Grammatikstrukturen sehr gut, aber die freie mündliche Kommunikation und das spontane Reagieren in realen Gesprächssituationen kommen oft zu kurz. Daher halte ich eine sinnvolle Kombination aus App-Nutzung und lebendigem Sprachunterricht für den optimalen Weg zum Prüfungserfolg."
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Wie viele Punkte muss ein Kandidat mindestens erreichen, um ein B1-Modul erfolgreich zu bestehen?",
+     "options": [
+      "60 Punkte (60%)",
+      "50 Punkte (50%)",
+      "75 Punkte (75%)",
+      "80 Punkte (80%)"
+     ],
+     "answer": 0,
+     "explain": "Ngưỡng điểm đỗ (Bestehensgrenze) cho mỗi kỹ năng trong kỳ thi Goethe B1 là 60% (60/100 điểm)."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Redemittel eignet sich am besten, um im Planungsgespräch (Sprechen T1) höflich zu widersprechen?",
+     "options": [
+      "Das ist ein interessanter Vorschlag, aber könnten wir nicht auch...",
+      "Du hast völlig unrecht und dein Plan ist schlecht.",
+      "Ich will das auf keinen Fall machen, mach du das alleine.",
+      "Wir machen das jetzt so, wie ich es gesagt habe."
+     ],
+     "answer": 0,
+     "explain": "'Das ist ein interessanter Vorschlag, aber...' là mẫu câu phản bác lịch sự và mang tính xây dựng cao."
+    },
+    {
+     "type": "mcq",
+     "q": "Was passiert bei der Bewertung des Prüfungsteils Schreiben, wenn ein Leitpunkt völlig fehlt?",
+     "options": [
+      "Es gibt einen empfindlichen Punktabzug bei der Aufgabenerfüllung.",
+      "Die gesamte Prüfung wird sofort mit null Punkten bewertet.",
+      "Der Prüfling muss den Aufsatz sofort mündlich wiederholen.",
+      "Es hat keinerlei Einfluss auf die erreichte Note."
+     ],
+     "answer": 0,
+     "explain": "Bỏ sót Leitpunkt sẽ bị trừ nặng điểm ở tiêu chí Hoàn thành yêu cầu đề bài (Aufgabenerfüllung)."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Konjunktion verbindet zwei Sätze mit unterschiedlichen Subjekten für einen Zweck (mục đích)?",
+     "options": [
+      "damit",
+      "um... zu",
+      "obwohl",
+      "indem"
+     ],
+     "answer": 0,
+     "explain": "Khi hai mệnh đề khác chủ ngữ, để chỉ mục đích bắt buộc dùng liên từ 'damit'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Form von Konjunktiv II drückt eine höfliche Bitte an die Prüferin aus?",
+     "options": [
+      "Könnten Sie die Frage bitte noch einmal wiederholen?",
+      "Wiederholen Sie die Frage sofort!",
+      "Sie müssen die Frage wiederholen.",
+      "Wiederholst du die Frage bitte?"
+     ],
+     "answer": 0,
+     "explain": "'Könnten Sie bitte... wiederholen?' là cấu trúc Konjunktiv II lịch thiệp và chuẩn mực nhất khi đi thi."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Konnektor drückt eine gegensätzliche Einschränkung aus (tuy... nhưng)?",
+     "options": [
+      "zwar ... aber",
+      "sowohl ... als auch",
+      "entweder ... oder",
+      "nicht nur ... sondern auch"
+     ],
+     "answer": 0,
+     "explain": "'zwar ... aber' diễn tả sự thừa nhận một vế nhưng khẳng định vế tương phản đối lập."
+    },
+    {
+     "type": "mcq",
+     "q": "Was ist die wichtigste Strategie beim ersten Lesen eines Leseverstehen-Textes?",
+     "options": [
+      "Den Text zügig überfliegen, um das Hauptthema zu erfassen.",
+      "Jedes unbekannte Wort sofort im Wörterbuch nachschlagen.",
+      "Alle Sätze Wort für Wort ins Vietnamesische übersetzen.",
+      "Sofort mit dem Beantworten der Detailfragen beginnen."
+     ],
+     "answer": 0,
+     "explain": "Kỹ thuật 'überfliegen' (skimming) giúp nắm bắt ý chính toàn cục trước khi đi vào chi tiết."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Anrede ist für eine formelle Entschuldigung (Schreiben Teil 3) angemessen?",
+     "options": [
+      "Sehr geehrte Frau Müller,",
+      "Liebe Frau Müller,",
+      "Hallo Frau Müller,",
+      "Guten Morgen Müller,"
+     ],
+     "answer": 0,
+     "explain": "Thư trang trọng (formell) gửi cơ quan, giáo viên hay đối tác luôn mở đầu bằng 'Sehr geehrte(r)...'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Nomen bezeichnet die logische und inhaltliche Verknüpfung von Sätzen in einem Text?",
+     "options": [
+      "die Kohärenz",
+      "die Stornierung",
+      "die Durchsage",
+      "die Reklamation"
+     ],
+     "answer": 0,
+     "explain": "'die Kohärenz' là tính mạch lạc và liên kết logic của văn bản."
+    },
+    {
+     "type": "mcq",
+     "q": "Mit welcher Formulierung leitet man den Schluss einer Präsentation (Sprechen T2) ein?",
+     "options": [
+      "Zusammenfassend möchte ich festhalten, dass...",
+      "Zuerst spreche ich über meine persönlichen Erfahrungen.",
+      "Nun komme ich zum ersten Punkt meiner Gliederung.",
+      "Ich habe jetzt keine Lust mehr weiterzusprechen."
+     ],
+     "answer": 0,
+     "explain": "'Zusammenfassend möchte ich festhalten, dass...' là mẫu câu kết luận (Fazit) xuất sắc cho bài thuyết trình."
+    },
+    {
+     "type": "gap",
+     "text": "Ich lerne jeden Tag fleißig, ___ ich die B1-Prüfung auf Anhieb bestehe.",
+     "answers": [
+      "damit"
+     ],
+     "hint": "Konjunktion für Zweck (Ziel)",
+     "vi": "Tôi học chăm chỉ mỗi ngày để tôi thi đỗ kỳ thi B1 ngay lần đầu.",
+     "explain": "Liên từ chỉ mục đích 'damit' (có thể dùng cho cả cùng hoặc khác chủ ngữ, động từ đứng cuối)."
+    },
+    {
+     "type": "gap",
+     "text": "Wenn ich mehr Zeit gehabt hätte, ___ ich noch mehr Musterprüfungen gelöst.",
+     "answers": [
+      "hätte"
+     ],
+     "hint": "Hilfsverb für Konjunktiv II der Vergangenheit",
+     "vi": "Nếu tôi có nhiều thời gian hơn, tôi đã giải thêm nhiều đề thi mẫu hơn.",
+     "explain": "Konjunktiv II quá khứ: 'hätte ... gelöst'."
+    },
+    {
+     "type": "gap",
+     "text": "Der Vortrag war ___ informativ als auch sprachlich sehr überzeugend.",
+     "answers": [
+      "sowohl"
+     ],
+     "hint": "Erster Teil von als auch",
+     "vi": "Bài thuyết trình vừa cung cấp nhiều thông tin vừa rất thuyết phục về mặt ngôn ngữ.",
+     "explain": "Cặp liên từ sóng đôi: 'sowohl ... als auch'."
+    },
+    {
+     "type": "gap",
+     "text": "Die fleißige Kandidatin ___ gestern alle vier Module erfolgreich.",
+     "answers": [
+      "bestand"
+     ],
+     "hint": "Verb 'bestehen' im Präteritum",
+     "vi": "Nữ thí sinh chăm chỉ hôm qua đã thi đỗ thành công cả bốn kỹ năng.",
+     "explain": "Động từ 'bestehen' ở Präteritum ngôi thứ ba số ít là 'bestand'."
+    },
+    {
+     "type": "gap",
+     "text": "Um das Zertifikat zu erhalten, muss man die ___ von sechzig Punkten erreichen.",
+     "answers": [
+      "Bestehensgrenze"
+     ],
+     "hint": "Nomen für Mindestpunktzahl",
+     "vi": "Để nhận được chứng chỉ, người ta phải đạt ngưỡng điểm đỗ là sáu mươi điểm.",
+     "explain": "'die Bestehensgrenze' là ngưỡng điểm đỗ tối thiểu."
+    },
+    {
+     "type": "gap",
+     "text": "Könnten Sie mir bitte mitteilen, ___ die mündliche Prüfung morgen stattfindet?",
+     "answers": [
+      "wann|ob"
+     ],
+     "hint": "Indirekte Frage mit Fragewort oder ob",
+     "vi": "Thầy cô có thể vui lòng cho em biết khi nào cuộc thi nói ngày mai sẽ diễn ra không?",
+     "explain": "Câu hỏi gián tiếp: 'wann' (khi nào) hoặc 'ob' (liệu có hay không)."
+    },
+    {
+     "type": "gap",
+     "text": "Das Lernen mit der App ist ___ praktisch, aber es ersetzt keinen Sprachkurs.",
+     "answers": [
+      "zwar"
+     ],
+     "hint": "Erster Teil von aber",
+     "vi": "Học bằng ứng dụng tuy tiện lợi, nhưng nó không thay thế được khóa học tiếng.",
+     "explain": "Cặp liên từ: 'zwar ... aber'."
+    },
+    {
+     "type": "gap",
+     "text": "Der Prüfling begründete seine Meinung mit einem konkreten ___ aus dem Alltag.",
+     "answers": [
+      "Beispiel"
+     ],
+     "hint": "Nomen für Veranschaulichung",
+     "vi": "Thí sinh đã lập luận cho ý kiến của mình bằng một ví dụ cụ thể từ đời sống thường ngày.",
+     "explain": "'mit einem konkreten Beispiel belegen / begründen'."
+    },
+    {
+     "type": "gap",
+     "text": "Vor dem Schreiben sollte man den Aufsatz stichwortartig ___.",
+     "answers": [
+      "strukturieren|gliedern"
+     ],
+     "hint": "Verb für Aufbau planen",
+     "vi": "Trước khi viết, người ta nên phác thảo bố cục bài văn bằng các từ khóa.",
+     "explain": "'den Text strukturieren / gliedern' (sắp xếp bố cục văn bản)."
+    },
+    {
+     "type": "gap",
+     "text": "Die Kandidaten müssen sich strikt an die geltende ___ halten.",
+     "answers": [
+      "Prüfungsordnung"
+     ],
+     "hint": "Nomen für offizielle Prüfungsregeln",
+     "vi": "Các thí sinh phải tuân thủ nghiêm ngặt quy chế thi hiện hành.",
+     "explain": "'die Prüfungsordnung' (quy chế phòng thi)."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Wir",
+      "könnten",
+      "uns",
+      "am",
+      "Samstag",
+      "in",
+      "der",
+      "Bibliothek",
+      "treffen"
+     ],
+     "answer": "Wir könnten uns am Samstag in der Bibliothek treffen.",
+     "answers": [
+      "Wir könnten uns am Samstag in der Bibliothek treffen.",
+      "Am Samstag könnten wir uns in der Bibliothek treffen."
+     ],
+     "vi": "Chúng mình có thể gặp nhau vào thứ Bảy ở thư viện."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Zusammenfassend",
+      "möchte",
+      "ich",
+      "meine",
+      "persönliche",
+      "Meinung",
+      "nochmals",
+      "betonen"
+     ],
+     "answer": "Zusammenfassend möchte ich meine persönliche Meinung nochmals betonen.",
+     "answers": [
+      "Zusammenfassend möchte ich meine persönliche Meinung nochmals betonen."
+     ],
+     "vi": "Tóm lại tôi muốn nhấn mạnh lại lần nữa quan điểm cá nhân của mình."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Könnten",
+      "Sie",
+      "die",
+      "Frage",
+      "bitte",
+      "noch",
+      "einmal",
+      "wiederholen"
+     ],
+     "answer": "Könnten Sie die Frage bitte noch einmal wiederholen?",
+     "answers": [
+      "Könnten Sie die Frage bitte noch einmal wiederholen?"
+     ],
+     "vi": "Thầy cô có thể vui lòng lặp lại câu hỏi một lần nữa được không ạ?"
+    },
+    {
+     "type": "order",
+     "words": [
+      "Sie",
+      "hat",
+      "alle",
+      "vier",
+      "Module",
+      "auf",
+      "Anhieb",
+      "bestanden"
+     ],
+     "answer": "Sie hat alle vier Module auf Anhieb bestanden.",
+     "answers": [
+      "Sie hat alle vier Module auf Anhieb bestanden."
+     ],
+     "vi": "Cô ấy đã thi đỗ ngay lần đầu cả bốn kỹ năng."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Gutes",
+      "Zeitmanagement",
+      "ist",
+      "entscheidend",
+      "für",
+      "den",
+      "schriftlichen",
+      "Prüfungsteil"
+     ],
+     "answer": "Gutes Zeitmanagement ist entscheidend für den schriftlichen Prüfungsteil.",
+     "answers": [
+      "Gutes Zeitmanagement ist entscheidend für den schriftlichen Prüfungsteil.",
+      "Für den schriftlichen Prüfungsteil ist gutes Zeitmanagement entscheidend."
+     ],
+     "vi": "Quản lý thời gian tốt là điều mang tính quyết định cho phần thi viết."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Die",
+      "Kandidatin",
+      "belegte",
+      "ihre",
+      "Aussage",
+      "mit",
+      "einem",
+      "passenden",
+      "Beispiel"
+     ],
+     "answer": "Die Kandidatin belegte ihre Aussage mit einem passenden Beispiel.",
+     "answers": [
+      "Die Kandidatin belegte ihre Aussage mit einem passenden Beispiel."
+     ],
+     "vi": "Nữ thí sinh đã chứng minh nhận định của mình bằng một ví dụ phù hợp."
+    },
+    {
+     "type": "translate",
+     "vi": "Tôi học mỗi ngày để cải thiện khả năng diễn đạt của mình.",
+     "answers": [
+      "Ich lerne jeden Tag, um mein Ausdrucksvermögen zu verbessern.",
+      "Ich lerne täglich, um mein Ausdrucksvermögen zu verbessern."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Bạn nghĩ sao nếu chúng ta cùng nhau chuẩn bị cho bài thuyết trình?",
+     "answers": [
+      "Was hältst du davon, wenn wir die Präsentation gemeinsam vorbereiten?",
+      "Was hältst du davon, wenn wir uns gemeinsam auf die Präsentation vorbereiten?"
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Thí sinh đã đạt được tổng số điểm là tám mươi lăm điểm.",
+     "answers": [
+      "Der Kandidat erreichte eine Punktzahl von fünfundachtzig Punkten.",
+      "Der Teilnehmer hat eine Punktzahl von fünfundachtzig Punkten erreicht."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Mặc dù đề bài khó, cô ấy đã hoàn thành bài thi một cách xuất sắc.",
+     "answers": [
+      "Obwohl die Aufgabe schwer war, bestand sie die Prüfung mit Bravour.",
+      "Obwohl die Aufgabenstellung schwierig war, hat sie die Prüfung erfolgreich bestanden."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Thầy cô có thể giải thích lại tiêu chí chấm điểm này được không ạ?",
+     "answers": [
+      "Könnten Sie dieses Bewertungskriterium bitte noch einmal erklären?",
+      "Könnten Sie mir dieses Bewertungskriterium bitte noch einmal erläutern?"
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Bố cục bài viết cần phải rõ ràng và mạch lạc.",
+     "answers": [
+      "Der Textaufbau muss klar und kohärent sein.",
+      "Der Aufbau des Textes muss klar und logisch sein."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Eine gründliche Vorbereitung nimmt die Prüfungsangst und stärkt das Selbstvertrauen.",
+     "vi": "Một sự chuẩn bị chu đáo sẽ xua tan nỗi sợ thi cử và củng cố sự tự tin."
+    },
+    {
+     "type": "listen",
+     "de": "Die Kandidatin konnte die Prüfer durch überzeugende Argumente begeistern.",
+     "vi": "Nữ thí sinh đã có thể khiến các giám khảo hài lòng nhờ những lý lẽ đầy thuyết phục."
+    },
+    {
+     "type": "listen",
+     "de": "Um das Zertifikat zu erhalten, muss man alle vier Prüfungsteile bestehen.",
+     "vi": "Để nhận được chứng chỉ, người ta phải thi đỗ cả bốn phần thi."
+    },
+    {
+     "type": "listen",
+     "de": "Gutes Zeitmanagement verhindert Hektik in den letzten Minuten der Prüfung.",
+     "vi": "Quản lý thời gian tốt giúp tránh được sự luống cuống vội vã trong những phút cuối của kỳ thi."
+    },
+    {
+     "type": "speak",
+     "de": "Meiner Ansicht nach ist regelmäßiges Sprechen der beste Weg zum Prüfungserfolg.",
+     "vi": "Theo quan điểm của tôi, việc nói thường xuyên là con đường tốt nhất dẫn đến thành công trong kỳ thi."
+    },
+    {
+     "type": "speak",
+     "de": "Könnten Sie mir bitte mitteilen, wann die Ergebnisse bekannt gegeben werden?",
+     "vi": "Thầy cô có thể vui lòng cho em biết khi nào kết quả sẽ được công bố không ạ?"
+    },
+    {
+     "type": "speak",
+     "de": "Wir sollten die Aufgaben für das gemeinsame Projekt gerecht untereinander aufteilen.",
+     "vi": "Chúng ta nên phân chia các nhiệm vụ cho dự án chung một cách công bằng giữa đôi bên."
+    },
+    {
+     "type": "speak",
+     "de": "Zusammenfassend bin ich der festen Überzeugung, dass sich Fleiß immer auszahlt.",
+     "vi": "Tóm lại tôi có niềm tin vững chắc rằng sự chăm chỉ luôn luôn mang lại quả ngọt."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "die Bestehensgrenze",
+       "ngưỡng điểm đỗ kỳ thi"
+      ],
+      [
+       "die Prüfungsordnung",
+       "quy chế phòng thi"
+      ],
+      [
+       "das Ausdrucksvermögen",
+       "khả năng diễn đạt ngôn từ"
+      ],
+      [
+       "das Bewertungskriterium",
+       "tiêu chí chấm điểm"
+      ],
+      [
+       "die Fehlerquote",
+       "tỷ lệ lỗi sai ngữ pháp"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "eine Prüfung",
+       "bestehen"
+      ],
+      [
+       "seine Meinung",
+       "begründen"
+      ],
+      [
+       "einen Text",
+       "strukturieren"
+      ],
+      [
+       "einen Kompromiss",
+       "erzielen"
+      ],
+      [
+       "eine Musterprüfung",
+       "lösen"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });

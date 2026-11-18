@@ -2160,6 +2160,981 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b1-u04-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Tổng quan hệ thống câu bị động (Vorgangspassiv)\n\nCâu bị động (Vorgangspassiv) nhấn mạnh vào **hành động hoặc sự việc xảy ra**, thay vì quan tâm tới người thực hiện hành động.\n\n| Thì / Cấu trúc | Công thức cấu tạo | Ví dụ câu bị động |\n| :--- | :--- | :--- |\n| **Präsens** | werden + Partizip II | {{Die Ware wird heute verpackt und versendet.}} |\n| **Präteritum** | wurden + Partizip II | {{Das defekte Gerät wurde gestern repariert.}} |\n| **Perfekt** | sein + Partizip II + **worden** | {{Der Rechnungsbetrag ist bereits überwiesen worden.}} |\n| **Plusquamperfekt** | war + Partizip II + **worden** | {{Die Bestellung war schon storniert worden, bevor das Paket ankam.}} |\n| **Mit Modalverb (Präsens)** | Modalverb (Präsens) + Partizip II + **werden** | {{Die Reklamation muss innerhalb der Frist eingereicht werden.}} |\n| **Mit Modalverb (Präteritum)** | Modalverb (Präteritum) + Partizip II + **werden** | {{Der Kaufpreis konnte leider nicht erstattet werden.}} |\n\n## 2. Quy tắc chuyển đổi từ chủ động (Aktiv) sang bị động (Passiv)\n\nKhi chuyển một câu từ Aktiv sang Passiv:\n1. **Tân ngữ trực tiếp (Akkusativobjekt)** ở câu chủ động trở thành **Chủ ngữ (Subjekt im Nominativ)** ở câu bị động.\n2. Động từ chính chuyển thành dạng **Partizip II**, đi kèm trợ động từ **werden** được chia phù hợp theo thì và theo chủ ngữ mới.\n3. Chủ ngữ cũ (người gây ra hành động) biến thành tác nhân đi kèm giới từ:\n   - **von + Dativ**: Dùng cho tác nhân trực tiếp (con người, tổ chức, pháp nhân, thiên tai): {{Der Vertrag wird **vom Kunden** unterschrieben.}}\n   - **durch + Akkusativ**: Dùng cho phương tiện, công cụ, cách thức trung gian hoặc nguyên nhân gián tiếp: {{Der Fehler wurde **durch ein technisches Problem** verursacht.}}\n\n## 3. Những động từ KHÔNG tạo được câu bị động\n- Các động từ không có tân ngữ Akkusativ (Nội động từ: schlafen, existieren, gehen...).\n- Các động từ chỉ sự sở hữu hoặc trạng thái tâm lý: haben, besitzen, kennen, wissen, enthalten.\n- Các động từ phản thân (reflexive Verben: sich freuen, sich ärgern...).\n\n## 4. 6 lỗi điển hình người Việt hay mắc (✗ → ✓)\n\n### Lỗi 1: Dùng \"geworden\" thay vì \"worden\" trong Passiv Perfekt\n- ✗ *Die Rechnung ist gestern bezahlt geworden.*\n- ✓ {{Die Rechnung ist gestern bezahlt worden.}}\n- *Giải thích:* Trong câu bị động ở thì Perfekt và Plusquamperfekt, trợ động từ {{werden}} luôn có dạng rút gọn là {{worden}} (tuyệt đối không dùng *geworden*).\n\n### Lỗi 2: Nhầm lẫn giữa thì tương lai (Futur I) và câu bị động (Passiv Präsens)\n- ✗ *Der Verkäufer wird die Ware liefern.* (đây là tương lai chủ động: Người bán sẽ giao hàng)\n- ✓ {{Die Ware wird vom Verkäufer geliefert.}} (đây là bị động: Hàng hóa được người bán giao)\n- *Giải thích:* Cả hai cấu trúc đều dùng {{werden}}, nhưng Passiv đòi hỏi **Partizip II**, còn Futur I đi với **Infinitiv**.\n\n### Lỗi 3: Đặt sai trật tự từ khi bị động kết hợp với động từ khuyết thiếu\n- ✗ *Das Paket muss werden heute zugestellt.*\n- ✓ {{Das Paket muss heute zugestellt werden.}}\n- *Giải thích:* Với Modalverb, động từ chính ở dạng Partizip II đứng áp chót, và {{werden}} nguyên mẫu đứng ở vị trí cuối cùng của mệnh đề chính.\n\n### Lỗi 4: Dùng sai giới từ chỉ tác nhân (dùng durch thay vì von cho con người)\n- ✗ *Der Brief wurde durch den Chef unterschrieben.*\n- ✓ {{Der Brief wurde vom Chef unterschrieben.}}\n- *Giải thích:* Tác nhân là người trực tiếp ra quyết định/hành động bắt buộc đi với {{von + Dativ}} (von dem Chef → {{vom Chef}}).\n\n### Lỗi 5: Quên đổi mạo từ từ Akkusativ sang Nominativ\n- ✗ *Einen neuen Laptop wurde gestern gekauft.*\n- ✓ {{Ein neuer Laptop wurde gestern gekauft.}}\n- *Giải thích:* Khi chuyển sang bị động, tân ngữ trở thành chủ ngữ mới và bắt buộc phải chia ở cách **Nominativ** ({{Ein neuer Laptop}}).\n\n### Lỗi 6: Quên chia lại trợ động từ theo số nhiều của chủ ngữ mới\n- ✗ *Die fehlerhaften Produkte wurde sofort zurückgeschickt.*\n- ✓ {{Die fehlerhaften Produkte wurden sofort zurückgeschickt.}}\n- *Giải thích:* Chủ ngữ mới {{die fehlerhaften Produkte}} ở số nhiều (Plural), do đó trợ động từ Präteritum phải chia là {{wurden}}, không dùng *wurde*.\n\n## 5. Ví dụ củng cố bổ sung\n- {{Täglich werden Millionen von Werbemails an ahnungslose Kunden verschickt.}} (Hàng ngày hàng triệu email quảng cáo được gửi tới những khách hàng nhẹ dạ.)\n- {{Der Schaden wurde von der zuständigen Versicherung vollständig übernommen.}} (Thiệt hại đã được công ty bảo hiểm phụ trách chi trả toàn bộ.)\n- {{Alle offenen Fragen können telefonisch geklärt werden.}} (Mọi thắc mắc còn bỏ ngỏ đều có thể được làm rõ qua điện thoại.)\n- {{Das Geld war bereits abgebucht worden, als die Stornierung eintraf.}} (Tiền đã bị trừ khỏi tài khoản trước khi thông báo hủy đơn được gửi tới.)\n- {{In modernen Online-Shops werden Kunden durch gezielte Werbung zum Kauf verführt.}} (Trong các cửa hàng trực tuyến hiện đại, khách hàng bị dẫn dụ mua sắm qua quảng cáo nhắm mục tiêu.)\n",
+   "vocab": [
+    {
+     "de": "Datenschutz",
+     "article": "der",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈdaːtn̩ˌʃʊts",
+     "vi": "việc bảo vệ dữ liệu cá nhân, an toàn thông tin riêng tư",
+     "example": "Beim Online-Einkauf sollte man stets auf einen vertrauenswürdigen Datenschutz achten.",
+     "exampleVi": "Khi mua sắm trực tuyến, người ta luôn nên chú ý đến việc bảo vệ dữ liệu đáng tin cậy."
+    },
+    {
+     "de": "Kaufkraft",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈkaʊ̯fˌkʁaft",
+     "vi": "sức mua của người tiêu dùng",
+     "example": "Durch die steigende Inflation hat die reale Kaufkraft der Bevölkerung spürbar abgenommen.",
+     "exampleVi": "Do lạm phát gia tăng, sức mua thực tế của người dân đã giảm rõ rệt."
+    },
+    {
+     "de": "Konsumgesellschaft",
+     "article": "die",
+     "plural": "Konsumgesellschaften",
+     "pos": "noun",
+     "ipa": "kɔnˈzuːmɡəˌzɛlʃaft",
+     "vi": "xã hội tiêu dùng",
+     "example": "In der heutigen Konsumgesellschaft werden viele Dinge gekauft, die man kaum benötigt.",
+     "exampleVi": "Trong xã hội tiêu dùng ngày nay, nhiều thứ được mua về mà người ta hầu như không cần đến."
+    },
+    {
+     "de": "Fehlkauf",
+     "article": "der",
+     "plural": "Fehlkäufe",
+     "pos": "noun",
+     "ipa": "ˈfeːlˌkaʊ̯f",
+     "vi": "việc mua sắm sai lầm (món đồ mua về không dùng đến)",
+     "example": "Der teure Pullover erwies sich leider als totaler Fehlkauf und blieb im Schrank liegen.",
+     "exampleVi": "Chiếc áo len đắt tiền đáng tiếc đã trở thành một món mua sai lầm và cứ nằm im trong tủ."
+    },
+    {
+     "de": "Kundenzufriedenheit",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈkʊndntsuːˌfʁiːdn̩haɪ̯t",
+     "vi": "mức độ hài lòng của khách hàng",
+     "example": "Ein zuverlässiger Service nach dem Verkauf ist entscheidend für eine hohe Kundenzufriedenheit.",
+     "exampleVi": "Dịch vụ sau bán hàng đáng tin cậy là yếu tố quyết định cho mức độ hài lòng cao của khách hàng."
+    },
+    {
+     "de": "Mangel",
+     "article": "der",
+     "plural": "Mängel",
+     "pos": "noun",
+     "ipa": "ˈmaŋl̩",
+     "vi": "khiếm khuyết, lỗi hỏng hóc kỹ thuật của sản phẩm",
+     "example": "Das gelieferte Smartphone wies bereits beim Auspacken einen sichtbaren Mangel am Display auf.",
+     "exampleVi": "Chiếc điện thoại thông minh được giao đã xuất hiện lỗi nhìn thấy rõ ở màn hình ngay khi mở hộp."
+    },
+    {
+     "de": "Entschädigung",
+     "article": "die",
+     "plural": "Entschädigungen",
+     "pos": "noun",
+     "ipa": "ɛntˈʃɛːdɪɡʊŋ",
+     "vi": "tiền bồi thường, khoản đền bù thiệt hại",
+     "example": "Für die erhebliche Lieferverzögerung verlangte der verärgerte Kunde eine finanzielle Entschädigung.",
+     "exampleVi": "Vì sự chậm trễ giao hàng nghiêm trọng, vị khách bực bội đã yêu cầu một khoản tiền bồi thường."
+    },
+    {
+     "de": "Zahlungsweise",
+     "article": "die",
+     "plural": "Zahlungsweisen",
+     "pos": "noun",
+     "ipa": "ˈtsaːlʊŋsˌvaɪ̯zə",
+     "vi": "phương thức thanh toán",
+     "example": "Der Online-Shop bietet verschiedene sichere Zahlungsweisen wie Kreditkarte und PayPal an.",
+     "exampleVi": "Cửa hàng trực tuyến cung cấp nhiều phương thức thanh toán an toàn như thẻ tín dụng và PayPal."
+    },
+    {
+     "de": "Rechnung",
+     "article": "die",
+     "plural": "Rechnungen",
+     "pos": "noun",
+     "ipa": "ˈʁɛçnʊŋ",
+     "vi": "hóa đơn thanh toán tiền",
+     "example": "Bitte überweisen Sie den fälligen Betrag innerhalb von vierzehn Tagen nach Erhalt der Rechnung.",
+     "exampleVi": "Xin vui lòng chuyển khoản số tiền phải trả trong vòng mười bốn ngày sau khi nhận hóa đơn."
+    },
+    {
+     "de": "Preis-Leistungs-Verhältnis",
+     "article": "das",
+     "plural": "Preis-Leistungs-Verhältnisse",
+     "pos": "noun",
+     "ipa": "ˈpʁaɪ̯sˌlaɪ̯stʊŋsfɛɐ̯ˌhɛltnɪs",
+     "vi": "tương quan giữa giá cả và chất lượng (p/p)",
+     "example": "Dieses Notebook bietet zweifellos das beste Preis-Leistungs-Verhältnis in seiner Klasse.",
+     "exampleVi": "Chiếc máy tính xách tay này chắc chắn mang lại tỷ lệ giá cả trên chất lượng tốt nhất trong phân khúc."
+    },
+    {
+     "de": "Spontankauf",
+     "article": "der",
+     "plural": "Spontankäufe",
+     "pos": "noun",
+     "ipa": "ʃpɔnˈtaːnˌkaʊ̯f",
+     "vi": "việc mua sắm ngẫu hứng, bốc đồng tại chỗ",
+     "example": "Supermärkte platzieren Süßigkeiten an der Kasse, um gezielt Spontankäufe zu provozieren.",
+     "exampleVi": "Các siêu thị đặt bánh kẹo ở quầy tính tiền để cố ý kích thích việc mua sắm ngẫu hứng."
+    },
+    {
+     "de": "Markenware",
+     "article": "die",
+     "plural": "Markenwaren",
+     "pos": "noun",
+     "ipa": "ˈmaʁkn̩ˌvaːʁə",
+     "vi": "hàng hiệu, sản phẩm chính hãng có thương hiệu",
+     "example": "Für echte Markenware ist die Kundschaft oft bereit, einen deutlich höheren Preis zu zahlen.",
+     "exampleVi": "Đối với hàng hiệu chính hãng, khách hàng thường sẵn lòng trả mức giá cao hơn rõ rệt."
+    },
+    {
+     "de": "Vorkasse",
+     "article": "die",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈfoːɐ̯ˌkasə",
+     "vi": "hình thức thanh toán trả tiền trước khi nhận hàng",
+     "example": "Bei unbekannten Händlern im Internet sollte man eine Zahlung per Vorkasse lieber vermeiden.",
+     "exampleVi": "Với những người bán không rõ danh tính trên mạng, người ta nên tránh thanh toán trả tiền trước."
+    },
+    {
+     "de": "Ratenzahlung",
+     "article": "die",
+     "plural": "Ratenzahlungen",
+     "pos": "noun",
+     "ipa": "ˈʁaːtn̩ˌtsaːlʊŋ",
+     "vi": "hình thức mua hàng trả góp hàng tháng",
+     "example": "Viele teure Haushaltsgeräte werden heutzutage über eine bequeme Ratenzahlung finanziert.",
+     "exampleVi": "Nhiều thiết bị gia dụng đắt tiền ngày nay được tài trợ qua hình thức trả góp tiện lợi."
+    },
+    {
+     "de": "in Rechnung stellen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɪn ˈʁɛçnʊŋ ˈʃtɛlən",
+     "vi": "tính phí, đưa vào hóa đơn đòi thanh toán",
+     "example": "Die anfallenden zusätzlichen Versandkosten werden Ihnen gesondert in Rechnung gestellt.",
+     "exampleVi": "Chi phí vận chuyển phát sinh bổ sung sẽ được tính hóa đơn riêng cho quý khách."
+    },
+    {
+     "de": "Schadenersatz fordern",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈʃaːdn̩sʔɛɐ̯ˌzats ˈfɔʁdɐn",
+     "vi": "yêu cầu bồi thường thiệt hại tài chính",
+     "example": "Wegen der groben Vertragsverletzung forderte das Unternehmen gerichtlich Schadenersatz.",
+     "exampleVi": "Do vi phạm hợp đồng nghiêm trọng, công ty đã đâm đơn kiện đòi bồi thường thiệt hại."
+    },
+    {
+     "de": "Geld verschwenden",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ɡɛlt fɛɐ̯ˈʃvɛndn̩",
+     "vi": "phung phí, lãng phí tiền bạc vào việc vô bổ",
+     "example": "Wer ohne Einkaufszettel einkaufen geht, neigt dazu, unnötig viel Geld zu verschwenden.",
+     "exampleVi": "Ai đi mua sắm mà không có danh sách đồ cần mua thường có xu hướng phung phí nhiều tiền vô ích."
+    },
+    {
+     "de": "zur Kasse bitten",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "tsuːɐ̯ ˈkasə ˈbɪtn̩",
+     "vi": "bắt trả tiền, yêu cầu thanh toán chi phí",
+     "example": "Für die Rücksendung der Ware wird der Kunde nun unangekündigt zur Kasse gebeten.",
+     "exampleVi": "Đối với việc gửi trả hàng, khách hàng nay bất ngờ bị bắt phải tự trả tiền chi phí."
+    },
+    {
+     "de": "den Betrag überweisen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "deːn bəˈtʁaːk yːbɐˈvaɪ̯zn̩",
+     "vi": "chuyển khoản số tiền thanh toán",
+     "example": "Ich habe den fälligen Betrag heute Vormittag per Online-Banking überwiesen.",
+     "exampleVi": "Tôi đã chuyển khoản số tiền đến hạn sáng nay qua ngân hàng trực tuyến."
+    },
+    {
+     "de": "eine Quittung ausstellen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nə ˈkvɪtʊŋ ˈaʊ̯sˌʃtɛlən",
+     "vi": "viết biên lai, xuất chứng từ đã nhận tiền",
+     "example": "Auf Wunsch kann der Verkäufer Ihnen sofort eine offizielle Quittung ausstellen.",
+     "exampleVi": "Nếu có yêu cầu, người bán có thể xuất ngay cho bạn một biên lai chính thức."
+    },
+    {
+     "de": "abbuchen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "bucht ab, buchte ab, hat abgebucht",
+     "ipa": "ˈapˌbuːxn̩",
+     "vi": "trừ tiền tự động từ tài khoản ngân hàng (+ Akk)",
+     "example": "Der vereinbarte Monatsbeitrag wird automatisch per Lastschrift von meinem Girokonto abgebucht.",
+     "exampleVi": "Khoản phí hàng tháng đã thỏa thuận được tự động trừ từ tài khoản vãng lai của tôi."
+    },
+    {
+     "de": "verführen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "verführt, verführte, hat verführt",
+     "ipa": "fɛɐ̯ˈfyːʁən",
+     "vi": "cám dỗ, lôi kéo ai làm gì / mua sắm (+ Akk)",
+     "example": "Geschickte Rabattaktionen verführen viele Verbraucher zu unüberlegten Einkäufen.",
+     "exampleVi": "Những chiêu trò giảm giá khéo léo cám dỗ nhiều người tiêu dùng mua sắm thiếu suy nghĩ."
+    },
+    {
+     "de": "täuschen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "täuscht, täuschte, hat getäuscht",
+     "ipa": "ˈtɔʏ̯ʃn̩",
+     "vi": "lừa dối, đánh lừa, gây hiểu nhầm (+ Akk)",
+     "example": "Manche unrealistischen Werbebilder täuschen die Konsumenten über die wahre Qualität.",
+     "exampleVi": "Một số hình ảnh quảng cáo thiếu thực tế đánh lừa người tiêu dùng về chất lượng thực sự."
+    },
+    {
+     "de": "haften",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "haftet, haftete, hat gehaftet",
+     "ipa": "ˈhaftn̩",
+     "vi": "chịu trách nhiệm pháp lý, đền bù (für + Akk)",
+     "example": "Der Händler haftet gesetzlich für Schäden, die während des Transports entstehen.",
+     "exampleVi": "Người bán chịu trách nhiệm theo luật đối với những hư hỏng phát sinh trong quá trình vận chuyển."
+    },
+    {
+     "de": "zurückverlangen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "verlangt zurück, verlangte zurück, hat zurückverlangt",
+     "ipa": "tsuˈʁʏkfɛɐ̯ˌlaŋən",
+     "vi": "đòi lại tiền hoặc tài sản đã đưa (+ Akk)",
+     "example": "Nachdem die Ware nie ankam, verlangte sie die vollständige Zahlung zurück.",
+     "exampleVi": "Sau khi hàng không bao giờ được giao tới, cô ấy đã đòi lại toàn bộ số tiền thanh toán."
+    },
+    {
+     "de": "kostspielig",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈkɔstˌʃpiːlɪç",
+     "vi": "tốn kém nhiều tiền của, đắt đỏ",
+     "example": "Die ständige Anschaffung neuester Markengeräte ist auf Dauer äußerst kostspielig.",
+     "exampleVi": "Việc liên tục mua sắm những thiết bị hàng hiệu mới nhất về lâu dài là cực kỳ tốn kém."
+    },
+    {
+     "de": "mangelhaft",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈmaŋl̩haft",
+     "vi": "khiếm khuyết, bị lỗi, kém chất lượng",
+     "example": "Die mangelhafte Kaffeemaschine wurde sofort an den Kundendienst zurückgeschickt.",
+     "exampleVi": "Chiếc máy pha cà phê bị lỗi đã được gửi trả lại ngay cho bộ phận chăm sóc khách hàng."
+    },
+    {
+     "de": "preiswert",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈpʁaɪ̯sˌveːɐ̯t",
+     "vi": "đáng đồng tiền, giá cả phải chăng, hời",
+     "example": "Im Online-Vergleich fand er ein erstaunlich preiswertes Angebot für das Hotel.",
+     "exampleVi": "Khi so sánh trực tuyến, anh ấy đã tìm thấy một mức giá khách sạn hời đến kinh ngạc."
+    },
+    {
+     "de": "überflüssig",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈyːbɐˌflʏsɪç",
+     "vi": "thừa thãi, không cần thiết",
+     "example": "Viele Menschen kaufen Dinge, die für ihren eigentlichen Alltag völlig überflüssig sind.",
+     "exampleVi": "Nhiều người mua những thứ hoàn toàn thừa thãi đối với cuộc sống hàng ngày thực tế của họ."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "Lan",
+     "de": "Hallo Florian! Hast du das Paket mit der neuen Kaffeemaschine schon erhalten?",
+     "vi": "Chào Florian! Bạn đã nhận được bưu kiện chứa chiếc máy pha cà phê mới chưa?"
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Hallo Lan! Ja, es ist gestern geliefert worden. Aber leider weist das Gerät einen gravierenden Mangel auf.",
+     "vi": "Chào Lan! Rồi, nó đã được giao ngày hôm qua. Nhưng đáng tiếc là thiết bị lại xuất hiện một lỗi nghiêm trọng."
+    },
+    {
+     "speaker": "A",
+     "name": "Lan",
+     "de": "Das ist ja ärgerlich! Wurde das Paket etwa während des Transports beschädigt?",
+     "vi": "Thật bực mình! Bưu kiện bị hư hại trong quá trình vận chuyển sao?"
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Nein, die Verpackung war unversehrt. Der Wassertank scheint schon in der Fabrik fehlerhaft montiert worden zu sein.",
+     "vi": "Không, bao bì còn nguyên vẹn. Bình chứa nước dường như đã bị lắp đặt lỗi ngay từ trong nhà máy."
+    },
+    {
+     "speaker": "A",
+     "name": "Lan",
+     "de": "Kann das defekte Gerät denn problemlos umgetauscht werden?",
+     "vi": "Thiết bị hỏng này có thể được đổi mới dễ dàng không?"
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Laut Kundendienst muss die Reklamation schriftlich über das Online-Portal eingereicht werden.",
+     "vi": "Theo bộ phận chăm sóc khách hàng, yêu cầu khiếu nại phải được nộp bằng văn bản qua cổng thông tin trực tuyến."
+    },
+    {
+     "speaker": "A",
+     "name": "Lan",
+     "de": "Wurde dir auch schon ein kostenloses Rücksendeetikett zur Verfügung gestellt?",
+     "vi": "Bạn cũng đã được cung cấp nhãn gửi trả hàng miễn phí chưa?"
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Ja, das Etikett wurde mir vorhin per E-Mail zugeschickt und wird gleich ausgedruckt.",
+     "vi": "Rồi, nhãn đã được gửi qua email cho mình ban nãy và sẽ được in ra ngay bây giờ."
+    },
+    {
+     "speaker": "A",
+     "name": "Lan",
+     "de": "Wird der volle Kaufpreis erstattet oder soll eine Ersatzlieferung veranlasst werden?",
+     "vi": "Toàn bộ tiền mua sẽ được hoàn lại hay một chuyến giao hàng thay thế sẽ được thu xếp?"
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Ich habe verlangt, dass mir der Betrag auf mein Girokonto zurücküberwiesen wird.",
+     "vi": "Mình đã yêu cầu số tiền phải được chuyển khoản trả lại vào tài khoản vãng lai của mình."
+    },
+    {
+     "speaker": "A",
+     "name": "Lan",
+     "de": "Das ist verständlich. Bei Online-Käufen wird man leider oft durch verlockende Werbebilder getäuscht.",
+     "vi": "Điều đó hoàn toàn dễ hiểu. Khi mua trực tuyến, người ta đáng tiếc hay bị lừa bởi hình ảnh quảng cáo hấp dẫn."
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Genau. Ich dachte, das Gerät hätte das beste Preis-Leistungs-Verhältnis, aber es war ein Fehlkauf.",
+     "vi": "Chính xác. Mình từng nghĩ thiết bị này có tỷ lệ giá/chất lượng tốt nhất, nhưng đó lại là một lần mua sai lầm."
+    },
+    {
+     "speaker": "A",
+     "name": "Lan",
+     "de": "Zum Glück greift in Deutschland das gesetzliche Verbraucherrecht bei mangelhafter Ware.",
+     "vi": "Rất may là ở Đức luật bảo vệ người tiêu dùng sẽ can thiệp bảo vệ khi hàng hóa bị lỗi."
+    },
+    {
+     "speaker": "B",
+     "name": "Florian",
+     "de": "Stimmt. Jetzt hoffe ich nur noch, dass die Rückabwicklung schnell und unkompliziert abgewickelt wird.",
+     "vi": "Đúng vậy. Bây giờ mình chỉ hy vọng là việc hủy đơn hoàn tiền sẽ được tiến hành nhanh chóng và không rắc rối."
+    },
+    {
+     "speaker": "A",
+     "name": "Lan",
+     "de": "Bestimmt klappt alles! Sag Bescheid, sobald das Geld auf deinem Konto gutgeschrieben worden ist.",
+     "vi": "Chắc chắn mọi việc sẽ suôn sẻ! Hãy báo cho mình biết ngay khi tiền đã được ghi có vào tài khoản của bạn nhé."
+    }
+   ],
+   "reading": {
+    "title": "Der smarte Konsument: Verlockungen der Online-Werbung durchschauen",
+    "text": "Im Zeitalter des modernen digitalen Handels werden Verbraucherinnen und Verbraucher rund um die Uhr mit maßgeschneiderter und hochgradig personalisierter Online-Werbung konfrontiert. Was auf den ersten flüchtigen Blick wie ein äußerst praktischer Kundenservice erscheint, basiert in Wirklichkeit auf einer ausgeklügelten und detaillierten Analyse persönlicher Nutzerdaten. Durch intelligente Algorithmen werden die individuellen Interessen, Suchanfragen, Vorlieben und bisherigen Einkäufe jedes einzelnen Nutzers kontinuierlich und präzise ausgewertet. Auf dieser soliden datenbasierten Grundlage werden schließlich zielgerichtete Werbeanzeigen platziert, die den Konsumenten auf emotionaler Ebene ansprechen und ihn geschickt zu spontanen Kaufentscheidungen verführen sollen.\n\nBesonders auf beliebten Social-Media-Plattformen verschwimmen die Grenzen zwischen authentischen privaten Inhalten und kommerziellen Werbebotschaften zusehends. Influencer präsentieren scheinbar spontan und begeistert die neueste Markenware in stylischen Videos, während im Hintergrund lukrative und kostspielige Marketingverträge mit großen multinationalen Konzernen geschlossen werden. Künstliche Rabattaktionen mit dramatisch tickenden Zeitanzeigen wie „Nur noch heute verfügbar!“ erzeugen absichtlich psychologischen Zeitdruck, durch den rationale finanzielle Überlegungen gezielt ausgeschaltet werden. Auf diese raffinierte Weise wird täglich enorm viel Geld für Produkte verschwendet, die für das alltägliche Leben eigentlich völlig überflüssig sind und nach kurzer Zeit ungenutzt in dunklen Schränken verstauben.\n\nDoch aufgeklärte Verbraucher sind diesen psychologischen Verkaufstricks keineswegs hilflos ausgeliefert. Ein kritischer und smarter Konsument zeichnet sich dadurch aus, dass verlockende Angebote vor dem Kauf stets gründlich verglichen und Testberichte unabhängiger Verbraucherzentralen aufmerksam studiert werden. Zudem sollte man stets einen nüchternen Blick auf das tatsächliche Preis-Leistungs-Verhältnis werfen und sich ehrlich fragen, ob ein echter Bedarf für das Produkt besteht oder ob man lediglich einer kurzfristigen Werbeillusion erliegt.\n\nAuch die rechtlichen Rahmenbedingungen stärken die Position der Käufer in Europa erheblich. Im europäischen Online-Handel wird Verbrauchern ein gesetzliches Widerrufsrecht von mindestens vierzehn Tagen garantiert, innerhalb dessen die gelieferte Ware ohne Angabe von Gründen zurückgesendet werden darf. Sollte ein geliefertes Produkt Mängel aufweisen, muss es vom Verkäufer kostenfrei nachgebessert oder komplett ersetzt werden. Wer seine Rechte genau kennt und Datenschutz ernst nimmt, lässt sich nicht von bunten Werbeversprechen täuschen, sondern konsumiert bewusst, nachhaltig und selbstbestimmt.",
+    "vi": "Trong kỷ nguyên thương mại kỹ thuật số hiện đại, người tiêu dùng phải đối mặt với các quảng cáo trực tuyến được may đo riêng và cá nhân hóa ở mức độ cao suốt ngày đêm. Những gì thoạt nhìn lướt qua như một dịch vụ tiện ích khách hàng thực sự, trên thực tế lại dựa trên sự phân tích tinh vi và chi tiết các dữ liệu người dùng cá nhân. Nhờ các thuật toán thông minh, sở thích cá nhân, các truy vấn tìm kiếm, mối quan tâm và những lần mua sắm trước đây của từng người dùng đơn lẻ liên tục được đánh giá một cách chuẩn xác. Trên nền tảng dữ liệu vững chắc này, các quảng cáo nhắm mục tiêu cuối cùng được hiển thị nhằm tác động trực tiếp vào tầng cảm xúc của người tiêu dùng và dẫn dụ họ một cách khéo léo tới các quyết định mua sắm ngẫu hứng.\n\nĐặc biệt trên các nền tảng mạng xã hội phổ biến, ranh giới giữa nội dung riêng tư chân thực và thông điệp quảng cáo thương mại đang ngày càng bị xóa nhòa rõ rệt. Các nhân vật có tầm ảnh hưởng (influencer) xuất hiện tưởng như rất tự nhiên và đầy hào hứng để giới thiệu các sản phẩm hàng hiệu mới nhất trong các video thời thượng, trong khi đằng sau hậu trường là những hợp đồng tiếp thị béo bở và đắt giá đã được ký kết với các tập đoàn đa quốc gia lớn. Những chương trình giảm giá nhân tạo với đồng hồ đếm ngược kịch tính như 'Chỉ còn duy nhất hôm nay!' cố tình tạo ra áp lực thời gian tâm lý, qua đó chủ ý triệt tiêu những cân nhắc tài chính duy lý. Bằng cách tinh vi này, hàng ngày một lượng tiền khổng lồ đã bị phung phí vào những sản phẩm thực ra hoàn toàn thừa thãi đối với cuộc sống hàng ngày và sẽ nằm bám bụi trong các góc tủ tối tăm chỉ sau một thời gian ngắn.\n\nThế nhưng những người tiêu dùng tỉnh táo không hề bất lực trước những thủ thuật bán hàng tâm lý này. Một người tiêu dùng thông thái và có óc phản biện được nhận diện qua việc luôn so sánh kỹ lưỡng các ưu đãi hấp dẫn trước khi mua và nghiên cứu chăm chú các bài đánh giá độc lập của các trung tâm bảo vệ người tiêu dùng. Thêm vào đó, người ta nên luôn có cái nhìn tỉnh táo đối với tỷ lệ giữa giá cả và chất lượng thực tế, đồng thời tự vấn bản thân một cách trung thực xem liệu có nhu cầu thực sự đối với sản phẩm đó hay không, hay bản thân chỉ đang gục ngã trước một ảo tưởng quảng cáo ngắn hạn.\n\nCác điều kiện khung pháp lý cũng củng cố đáng kể vị thế của người mua hàng tại châu Âu. Trong thương mại trực tuyến tại châu Âu, người tiêu dùng được bảo đảm quyền hủy đơn rút lại giao dịch theo luật ít nhất mười bốn ngày, trong khoảng thời gian đó hàng hóa đã giao có thể được gửi trả lại mà không cần nêu lý do. Nếu một sản phẩm được giao xuất hiện khiếm khuyết lỗi, nó bắt buộc phải được người bán sửa chữa khắc phục hoặc đổi mới hoàn toàn miễn phí. Ai nắm vững quyền lợi của mình một cách chuẩn xác và coi trọng vấn đề bảo mật dữ liệu sẽ không bị đánh lừa bởi những lời hứa quảng cáo sặc sỡ, mà sẽ tiêu dùng một cách có ý thức, bền vững và tự chủ.",
+    "glossary": [
+     {
+      "de": "Algorithmus",
+      "article": "der",
+      "plural": "Algorithmen",
+      "pos": "noun",
+      "ipa": "alɡoˈʁɪtmʊs",
+      "vi": "thuật toán máy tính",
+      "example": "Moderne Algorithmen analysieren das Kaufverhalten im Netz.",
+      "exampleVi": "Các thuật toán hiện đại phân tích hành vi mua sắm trên mạng."
+     },
+     {
+      "de": "Werbebotschaft",
+      "article": "die",
+      "plural": "Werbebotschaften",
+      "pos": "noun",
+      "ipa": "ˈvɛʁbəboːtˌʃaft",
+      "vi": "thông điệp quảng cáo thương mại",
+      "example": "Viele Werbebotschaften manipulieren unbewusst unsere Wünsche.",
+      "exampleVi": "Nhiều thông điệp quảng cáo thao túng một cách vô thức những mong muốn của chúng ta."
+     },
+     {
+      "de": "Verkaufstrick",
+      "article": "der",
+      "plural": "Verkaufstricks",
+      "pos": "noun",
+      "ipa": "fɛɐ̯ˈkaʊ̯fstʁɪk",
+      "vi": "chiêu trò, thủ thuật bán hàng",
+      "example": "Der Kunde durchschaute den psychologischen Verkaufstrick des Händlers sofort.",
+      "exampleVi": "Khách hàng đã nhìn thấu ngay chiêu trò bán hàng tâm lý của người bán."
+     },
+     {
+      "de": "Verbraucherzentrale",
+      "article": "die",
+      "plural": "Verbraucherzentralen",
+      "pos": "noun",
+      "ipa": "fɛɐ̯ˈbʁaʊ̯xɐtsɛnˌtʁaːlə",
+      "vi": "trung tâm bảo vệ quyền lợi người tiêu dùng (tại Đức)",
+      "example": "Die Verbraucherzentrale berät Bürger kostenlos bei Rechtsfragen.",
+      "exampleVi": "Trung tâm bảo vệ người tiêu dùng tư vấn miễn phí cho công dân về các vấn đề pháp lý."
+     },
+     {
+      "de": "Rückabwicklung",
+      "article": "die",
+      "plural": "Rückabwicklungen",
+      "pos": "noun",
+      "ipa": "ˈʁʏkʔapˌvɪklʊŋ",
+      "vi": "quy trình hủy bỏ hợp đồng và hoàn trả tiền/hàng",
+      "example": "Die Rückabwicklung des Kaufvertrags verlief reibungslos.",
+      "exampleVi": "Quy trình hủy hợp đồng mua bán đã diễn ra êm đẹp."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Worauf basiert zielgerichtete Werbung im modernen Online-Handel?",
+      "options": [
+       "Auf dem reinen Zufall der Programmierung.",
+       "Auf der detaillierten Analyse von Nutzerdaten und Suchanfragen.",
+       "Auf handschriftlichen Briefen der Hersteller."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Welche Wirkung haben künstliche Zeitlimits wie „Nur noch heute!“ auf Käufer?",
+      "options": [
+       "Sie senken automatisch die Versandkosten.",
+       "Sie erzeugen Stress und schalten oft rationale Überlegungen aus.",
+       "Sie garantieren lebenslange Haltbarkeit."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Wie kann sich ein smarter Konsument vor Fehlkäufen schützen?",
+      "options": [
+       "Indem er stets das teuerste Produkt ohne Prüfung kauft.",
+       "Indem er Angebote vergleicht und unabhängige Testberichte liest.",
+       "Indem er überhaupt keine Rechnungen mehr bezahlt."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Welches gesetzliche Recht steht Online-Käufern in der EU grundsätzlich zu?",
+      "options": [
+       "Ein mindestens vierzehntägiges Widerrufsrecht ohne Angabe von Gründen.",
+       "Kostenloses Behalten aller Waren ohne Bezahlung.",
+       "Ein Anspruch auf tägliche Geschenke des Händlers."
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Was muss der Händler tun, wenn die gelieferte Ware Mängel aufweist?",
+      "options": [
+       "Den Kunden sofort verklagen.",
+       "Die Ware kostenfrei nachbessern oder ersetzen.",
+       "Den Preis für das Produkt nachträglich verdoppeln."
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "writing": {
+    "task": "Sie haben vor zehn Tagen bei einem Online-Shop ein Tablet gekauft. Gestern ist das Gerät angekommen, doch der Bildschirm flackert und das Ladekabel fehlt. Schreiben Sie eine formelle Beschwerde-E-Mail an den Kundenservice (ca. 80-100 Wörter). Schildern Sie das Problem genau, verlangen Sie eine kostenlose Ersatzlieferung und fordern Sie ein Rücksendeetikett an. (Bạn mua một chiếc máy tính bảng trực tuyến cách đây 10 ngày. Hôm qua máy đã đến nhưng màn hình bị nhấp nháy và thiếu cáp sạc. Viết email phàn nàn gửi chăm sóc khách hàng. Miêu tả cụ thể vấn đề, yêu cầu giao hàng thay thế miễn phí và xin nhãn gửi trả hàng.)",
+    "minWords": 80,
+    "sample": "Sehr geehrte Damen und Herren,\n\nvor zehn Tagen habe ich in Ihrem Online-Shop ein Tablet bestellt (Bestellnummer: DW-89214). Das Paket ist gestern zugestellt worden. Leider musste ich beim Auspacken feststellen, dass das gelieferte Gerät mangelhaft ist: Der Bildschirm flackert ununterbrochen und das dazugehörige Ladekabel wurde überhaupt nicht beigelegt.\n\nDa die Ware beschädigt und unvollständig geliefert worden ist, mache ich von meinem gesetzlichen Gewährleistungsrecht Gebrauch. Ich fordere Sie hiermit auf, mir unverzüglich eine einwandfreie Ersatzlieferung zuzusenden. Bitte stellen Sie mir außerdem ein kostenloses Rücksendeetikett zur Verfügung, damit das defekte Gerät an Sie zurückgeschickt werden kann.\n\nMit freundlichen Grüßen\nFlorian Schmidt"
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Wie lautet die korrekte Passivform im Perfekt für: „Der Kunde hat die Rechnung bezahlt“?",
+     "options": [
+      "Die Rechnung ist bezahlt geworden.",
+      "Die Rechnung ist bezahlt worden.",
+      "Die Rechnung wurde bezahlt worden.",
+      "Die Rechnung hat bezahlt werden."
+     ],
+     "answer": 1,
+     "explain": "Cấu trúc Passiv Perfekt luôn dùng trợ động từ 'sein' kết hợp với Partizip II và 'worden': 'ist bezahlt worden'."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Das defekte Smartphone ___ gestern vom Kundenservice repariert.",
+     "options": [
+      "wurde",
+      "worden",
+      "hat",
+      "wäre"
+     ],
+     "answer": 0,
+     "explain": "Thời Präteritum của Passiv với chủ ngữ số ít 'das Smartphone' là 'wurde'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welche Präposition bezeichnet den persönlichen Urheber einer Handlung im Passiv?",
+     "options": [
+      "durch (+ Akk)",
+      "von (+ Dat)",
+      "mit (+ Dat)",
+      "bei (+ Dat)"
+     ],
+     "answer": 1,
+     "explain": "Tác nhân trực tiếp (người, doanh nghiệp, pháp nhân) trong câu bị động luôn đi với 'von + Dativ'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
+     "options": [
+      "Die Reklamation muss innerhalb der Frist eingereicht werden.",
+      "Die Reklamation muss innerhalb der Frist werden eingereicht.",
+      "Die Reklamation muss innerhalb der Frist eingereicht worden.",
+      "Die Reklamation wird innerhalb der Frist eingereicht müssen."
+     ],
+     "answer": 0,
+     "explain": "Trong câu bị động có Modalverb, trợ động từ 'werden' ở dạng nguyên mẫu đứng ở vị trí cuối cùng của câu."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Der Rechnungsbetrag ___ bereits vom Konto abgebucht worden, als die Stornierung eintraf.",
+     "options": [
+      "hatte",
+      "war",
+      "wurde",
+      "ist"
+     ],
+     "answer": 1,
+     "explain": "Hành động đã bị trừ tiền xảy ra trước một hành động quá khứ khác ('eintraf'), dùng Plusquamperfekt Passiv: 'war ... abgebucht worden'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet das Substantiv „der Fehlkauf“?",
+     "options": [
+      "Ein besonders günstiger Einkauf",
+      "Der Kauf eines Gegenstandes, der sich als unbrauchbar oder unnötig erweist",
+      "Ein Diebstahl im Supermarkt",
+      "Ein Rabattgutschein"
+     ],
+     "answer": 1,
+     "explain": "'Der Fehlkauf' là việc mua sắm sai lầm khi mua phải món đồ không dùng được hoặc hoàn toàn thừa thãi."
+    },
+    {
+     "type": "mcq",
+     "q": "Welches Verb kann KEIN Passiv bilden?",
+     "options": [
+      "liefern",
+      "besitzen",
+      "reparieren",
+      "überweisen"
+     ],
+     "answer": 1,
+     "explain": "Động từ chỉ trạng thái sở hữu 'besitzen' (có, sở hữu) là ngoại lệ không thể tạo được câu bị động."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Die Lieferverzögerung wurde ___ einen Fehler im Computersystem verursacht.",
+     "options": [
+      "von",
+      "durch",
+      "mit",
+      "über"
+     ],
+     "answer": 1,
+     "explain": "Nguyên nhân gián tiếp, phương tiện trung gian ('ein Fehler') đi với giới từ 'durch + Akkusativ'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was ist das Gegenteil von „kostspielig“?",
+     "options": [
+      "preiswert",
+      "mangelhaft",
+      "überflüssig",
+      "schwierig"
+     ],
+     "answer": 0,
+     "explain": "Trái nghĩa với 'kostspielig' (đắt đỏ, tốn kém) là 'preiswert' (phải chăng, hợp túi tiền)."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet die Wendung „den Betrag überweisen“?",
+     "options": [
+      "Geld bar auf den Tisch legen",
+      "Geld per Banküberweisung auf ein anderes Konto transferieren",
+      "Geld verlieren",
+      "Geld leihen"
+     ],
+     "answer": 1,
+     "explain": "'den Betrag überweisen' có nghĩa là chuyển khoản số tiền vào một tài khoản ngân hàng khác."
+    },
+    {
+     "type": "gap",
+     "text": "Das Paket ___ gestern Vormittag an die falsche Adresse zugestellt.",
+     "answers": [
+      "wurde"
+     ],
+     "hint": "werden im Präteritum Passiv",
+     "vi": "Bưu kiện đã bị giao tới địa chỉ sai vào sáng hôm qua.",
+     "explain": "Câu bị động ở thì Präteritum với chủ ngữ số ít 'das Paket' dùng 'wurde'."
+    },
+    {
+     "type": "gap",
+     "text": "Die Bestellbestätigung ist dem Kunden per E-Mail zugeschickt ___ .",
+     "answers": [
+      "worden"
+     ],
+     "hint": "Partizip von werden im Passiv Perfekt",
+     "vi": "Xác nhận đơn hàng đã được gửi tới khách hàng qua email.",
+     "explain": "Trong câu bị động Perfekt, trợ động từ 'werden' luôn ở dạng 'worden'."
+    },
+    {
+     "type": "gap",
+     "text": "Die beschädigte Ware muss umgehend an den Verkäufer zurückgeschickt ___ .",
+     "answers": [
+      "werden"
+     ],
+     "hint": "werden als Infinitiv mit Modalverb",
+     "vi": "Hàng hóa bị hư hỏng phải được gửi trả lại ngay cho người bán.",
+     "explain": "Đi với động từ khuyết thiếu 'muss', cấu trúc bị động kết thúc bằng nguyên mẫu 'werden'."
+    },
+    {
+     "type": "gap",
+     "text": "Der Vertrag wurde ___ beiden Parteien persönlich unterschrieben.",
+     "answers": [
+      "von"
+     ],
+     "hint": "Präposition für Urheber",
+     "vi": "Hợp đồng đã được đích thân hai bên ký kết.",
+     "explain": "Tác nhân trực tiếp thực hiện hành động ký kết đi với giới từ 'von + Dativ' ('von beiden Parteien')."
+    },
+    {
+     "type": "gap",
+     "text": "Der technische Fehler wurde ___ eine defekte Softwarekomponente ausgelöst.",
+     "answers": [
+      "durch"
+     ],
+     "hint": "Präposition für Mittel/Ursache",
+     "vi": "Lỗi kỹ thuật đã bị kích hoạt bởi một thành phần phần mềm bị lỗi.",
+     "explain": "Nguyên nhân trung gian, công cụ khách quan đi với 'durch + Akkusativ'."
+    },
+    {
+     "type": "gap",
+     "text": "Wegen der groben Verzögerung verlangte die Kundin eine angemessene ___ .",
+     "answers": [
+      "Entschädigung"
+     ],
+     "hint": "Nomen: die Entschädigung",
+     "vi": "Vì sự chậm trễ nghiêm trọng, người khách hàng nữ đã yêu cầu một khoản bồi thường thỏa đáng.",
+     "explain": "Danh từ giống cái 'die Entschädigung' nghĩa là tiền bồi thường, khoản đền bù."
+    },
+    {
+     "type": "gap",
+     "text": "Beim Online-Kauf sollte man stets auf einen zuverlässigen ___ achten.",
+     "answers": [
+      "Datenschutz"
+     ],
+     "hint": "Nomen: der Datenschutz",
+     "vi": "Khi mua sắm trực tuyến, người ta luôn nên chú ý đến an toàn bảo mật dữ liệu.",
+     "explain": "Danh từ giống đực 'der Datenschutz' mang nghĩa bảo vệ dữ liệu cá nhân."
+    },
+    {
+     "type": "gap",
+     "text": "Früher ___ Rechnungen meist per Post verschickt, heute fast nur noch digital.",
+     "answers": [
+      "wurden"
+     ],
+     "hint": "werden im Präteritum Plural",
+     "vi": "Trước đây các hóa đơn hầu hết được gửi qua bưu điện, ngày nay gần như chỉ còn qua kỹ thuật số.",
+     "explain": "Chủ ngữ số nhiều 'Rechnungen' ở thì Präteritum Passiv dùng 'wurden'."
+    },
+    {
+     "type": "gap",
+     "text": "Die anfallenden Versandkosten werden Ihnen gesondert in Rechnung ___ .",
+     "answers": [
+      "gestellt"
+     ],
+     "hint": "Partizip II von stellen",
+     "vi": "Chi phí vận chuyển phát sinh sẽ được tính vào hóa đơn riêng cho quý khách.",
+     "explain": "Cụm cố định: 'in Rechnung gestellt werden'."
+    },
+    {
+     "type": "gap",
+     "text": "Das gelieferte Gerät wies bereits beim ersten Einschalten einen schweren ___ auf.",
+     "answers": [
+      "Mangel"
+     ],
+     "hint": "Nomen: der Mangel",
+     "vi": "Thiết bị được giao đã xuất hiện một khiếm khuyết nặng ngay khi bật máy lần đầu.",
+     "explain": "Danh từ giống đực 'der Mangel' (lỗi, hỏng hóc kỹ thuật)."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Die",
+      "Ware",
+      "wird",
+      "heute",
+      "vom",
+      "Paketdienst",
+      "zugestellt"
+     ],
+     "answer": "Die Ware wird heute vom Paketdienst zugestellt.",
+     "answers": [
+      "Die Ware wird heute vom Paketdienst zugestellt.",
+      "Heute wird die Ware vom Paketdienst zugestellt."
+     ],
+     "vi": "Hàng hóa hôm nay sẽ được giao bởi dịch vụ chuyển phát."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Der",
+      "Rechnungsbetrag",
+      "ist",
+      "bereits",
+      "überwiesen",
+      "worden"
+     ],
+     "answer": "Der Rechnungsbetrag ist bereits überwiesen worden.",
+     "answers": [
+      "Der Rechnungsbetrag ist bereits überwiesen worden.",
+      "Bereits überwiesen worden ist der Rechnungsbetrag."
+     ],
+     "vi": "Số tiền hóa đơn đã được chuyển khoản rồi."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Die",
+      "Reklamation",
+      "muss",
+      "innerhalb",
+      "von",
+      "vierzehn",
+      "Tagen",
+      "eingereicht",
+      "werden"
+     ],
+     "answer": "Die Reklamation muss innerhalb von vierzehn Tagen eingereicht werden.",
+     "answers": [
+      "Die Reklamation muss innerhalb von vierzehn Tagen eingereicht werden.",
+      "Innerhalb von vierzehn Tagen muss die Reklamation eingereicht werden."
+     ],
+     "vi": "Yêu cầu khiếu nại phải được nộp trong vòng mười bốn ngày."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Das",
+      "defekte",
+      "Gerät",
+      "wurde",
+      "vom",
+      "Händler",
+      "kostenfrei",
+      "ausgetauscht"
+     ],
+     "answer": "Das defekte Gerät wurde vom Händler kostenfrei ausgetauscht.",
+     "answers": [
+      "Das defekte Gerät wurde vom Händler kostenfrei ausgetauscht.",
+      "Kostenfrei ausgetauscht wurde das defekte Gerät vom Händler."
+     ],
+     "vi": "Thiết bị lỗi đã được người bán đổi mới miễn phí."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Kunden",
+      "werden",
+      "oft",
+      "durch",
+      "bunte",
+      "Werbung",
+      "getäuscht"
+     ],
+     "answer": "Kunden werden oft durch bunte Werbung getäuscht.",
+     "answers": [
+      "Kunden werden oft durch bunte Werbung getäuscht.",
+      "Oft werden Kunden durch bunte Werbung getäuscht."
+     ],
+     "vi": "Khách hàng thường bị đánh lừa bởi quảng cáo sặc sỡ."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Der",
+      "Betrag",
+      "konnte",
+      "gestern",
+      "leider",
+      "nicht",
+      "erstattet",
+      "werden"
+     ],
+     "answer": "Der Betrag konnte gestern leider nicht erstattet werden.",
+     "answers": [
+      "Der Betrag konnte gestern leider nicht erstattet werden.",
+      "Gestern konnte der Betrag leider nicht erstattet werden."
+     ],
+     "vi": "Số tiền hôm qua đáng tiếc đã không thể được hoàn trả."
+    },
+    {
+     "type": "translate",
+     "vi": "Hàng hóa đã được giao hôm qua.",
+     "answers": [
+      "Die Ware wurde gestern geliefert.",
+      "Die Ware ist gestern geliefert worden."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Hóa đơn phải được thanh toán trong vòng hai tuần.",
+     "answers": [
+      "Die Rechnung muss innerhalb von zwei Wochen bezahlt werden.",
+      "Die Rechnung muss innerhalb von zwei Wochen beglichen werden."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Khách hàng đã bị đánh lừa bởi quảng cáo.",
+     "answers": [
+      "Der Kunde wurde durch die Werbung getäuscht.",
+      "Der Kunde ist durch die Werbung getäuscht worden."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Tiền đã được trừ tự động từ tài khoản.",
+     "answers": [
+      "Das Geld wurde automatisch vom Konto abgebucht.",
+      "Das Geld ist automatisch vom Konto abgebucht worden."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Món đồ hỏng có thể được sửa chữa miễn phí không?",
+     "answers": [
+      "Kann das defekte Gerät kostenlos repariert werden?",
+      "Kann das kaputte Gerät kostenlos repariert werden?"
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Hợp đồng đã được ký bởi giám đốc.",
+     "answers": [
+      "Der Vertrag wurde vom Chef unterschrieben.",
+      "Der Vertrag wurde vom Direktor unterzeichnet."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Die beschädigte Sendung wurde noch am selben Tag an den Absender zurückgeschickt.",
+     "vi": "Bưu kiện bị hư hại đã được gửi trả lại cho người gửi ngay trong ngày hôm đó."
+    },
+    {
+     "type": "listen",
+     "de": "Vor Abschluss des Online-Kaufs muss die Datenschutzerklärung bestätigt werden.",
+     "vi": "Trước khi hoàn tất mua sắm trực tuyến, tuyên bố bảo vệ dữ liệu phải được xác nhận."
+    },
+    {
+     "type": "listen",
+     "de": "Für den entstandenen Transportschaden forderte das Unternehmen eine angemessene Entschädigung.",
+     "vi": "Đối với thiệt hại vận chuyển phát sinh, công ty đã đòi một khoản bồi thường thỏa đáng."
+    },
+    {
+     "type": "listen",
+     "de": "Täglich werden Millionen von Paketen durch moderne Logistikzentren weltweit verteilt.",
+     "vi": "Hàng ngày hàng triệu bưu kiện được phân phối trên toàn thế giới qua các trung tâm hậu cần hiện đại."
+    },
+    {
+     "type": "speak",
+     "de": "Die defekte Ware muss innerhalb der gesetzlichen Frist reklamiert werden.",
+     "vi": "Hàng hóa bị lỗi phải được khiếu nại trong thời hạn quy định của pháp luật."
+    },
+    {
+     "type": "speak",
+     "de": "Kann der offene Betrag auch bequem in monatlichen Raten bezahlt werden?",
+     "vi": "Số tiền còn nợ có thể được thanh toán tiện lợi theo các kỳ trả góp hàng tháng không?"
+    },
+    {
+     "type": "speak",
+     "de": "Wir wurden durch geschickte Werbung zu einem völlig unnötigen Kauf verführt.",
+     "vi": "Chúng tôi đã bị cám dỗ vào một lần mua sắm hoàn toàn không cần thiết qua quảng cáo khéo léo."
+    },
+    {
+     "type": "speak",
+     "de": "Das Geld ist gestern erfolgreich auf mein Girokonto zurücküberwiesen worden.",
+     "vi": "Tiền đã được chuyển khoản thành công trở lại vào tài khoản vãng lai của tôi vào hôm qua."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "der Datenschutz",
+       "bảo vệ dữ liệu cá nhân"
+      ],
+      [
+       "der Fehlkauf",
+       "việc mua sắm sai lầm"
+      ],
+      [
+       "die Entschädigung",
+       "khoản bồi thường thiệt hại"
+      ],
+      [
+       "die Zahlungsweise",
+       "phương thức thanh toán"
+      ],
+      [
+       "die Ratenzahlung",
+       "hình thức trả góp"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "in Rechnung stellen",
+       "tính vào hóa đơn"
+      ],
+      [
+       "den Betrag überweisen",
+       "chuyển khoản số tiền"
+      ],
+      [
+       "Geld verschwenden",
+       "lãng phí tiền bạc"
+      ],
+      [
+       "Schadenersatz fordern",
+       "đòi bồi thường thiệt hại"
+      ],
+      [
+       "zur Kasse bitten",
+       "yêu cầu thanh toán"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });

@@ -2186,6 +2186,990 @@
      ]
     }
    ]
+  },
+  {
+   "id": "b1-u05-l4",
+   "title": "Wiederholung und Vertiefung",
+   "titleVi": "Ôn tập & mở rộng",
+   "theory": "## 1. Cấu tạo Konjunktiv II trong quá khứ (Vergangenheit)\n\nKhác với Konjunktiv II ở hiện tại (würde + Infinitiv / wäre / hätte), Konjunktiv II trong quá khứ **chỉ có duy nhất một công thức cấu tạo**:\n\n$$\\textbf{hätte / wäre} + \\textbf{Partizip II}$$\n\n- **hätte + Partizip II**: Dùng cho các động từ đi với trợ động từ {{haben}} ở Perfekt:\n  - {{Er hätte sich gesünder ernährt, wenn er mehr Zeit gehabt hätte.}}\n- **wäre + Partizip II**: Dùng cho các động từ chỉ chuyển động, biến đổi trạng thái (đi với {{sein}} ở Perfekt):\n  - {{Sie wäre gestern zum Facharzt gegangen, wenn sie eine Überweisung gehabt hätte.}}\n\n## 2. Câu điều kiện không có thật trong quá khứ (Irreale Bedingungssätze)\n\nCấu trúc này dùng để giả định một điều trái ngược hoàn toàn với những gì đã thực sự xảy ra trong quá khứ (sự việc đã qua và không thể thay đổi được nữa).\n\n| Dạng câu | Cấu trúc ngữ pháp | Ví dụ minh họa |\n| :--- | :--- | :--- |\n| **Có liên từ \"wenn\"** | Wenn + S + ... + **hätte/wäre**, **wäre/hätte** + S + ... | {{Wenn ich mich früher geschont hätte, wäre ich schneller genesen.}} |\n| **Không có \"wenn\" (Đảo ngữ)** | **Hätte/Wäre** + S + ... , so/dann + **wäre/hätte** + S + ... | {{Hätte der Patient die Tabletten genommen, wäre das Fieber gesunken.}} |\n\n## 3. Câu ước không có thật trong quá khứ (Irreale Wunschsätze)\n\nDiễn tả sự tiếc nuối sâu sắc về một hành động đã hoặc chưa làm trong quá khứ. Thường đi kèm các tiểu từ tình thái nhấn mạnh: **doch**, **bloß**, **nur**.\n\n- {{Hätte ich doch bloß auf den Rat des Arztes gehört!}} (Giá mà tôi chịu nghe lời khuyên của bác sĩ!)\n- {{Wäre sie damals bloß nicht so unvorsichtig gewesen!}} (Giá mà hồi đó cô ấy đừng quá bất cẩn như vậy!)\n\n## 4. Konjunktiv II quá khứ với động từ khuyết thiếu (Modalverben)\n\nKhi câu điều kiện quá khứ có động từ khuyết thiếu, ta dùng cấu trúc **nguyên mẫu kép (doppelter Infinitiv)** với trợ động từ {{hätte}}:\n\n$$\\textbf{hätte} + \\textbf{Infinitiv Vollverb} + \\textbf{Infinitiv Modalverb}$$\n\n- {{Er **hätte** früher zum Arzt **gehen müssen**.}} (Lẽ ra anh ấy đã phải đi khám bác sĩ sớm hơn.)\n- {{Sie **hätte** sich mehr **schonen sollen**.}} (Lẽ ra cô ấy nên nghỉ ngơi giữ gìn sức khỏe nhiều hơn.)\n- Trong mệnh đề phụ với *wenn*, trợ động từ {{hätte}} đứng **trước cả hai nguyên mẫu**: {{Wenn er hätte mitkommen können, wäre er glücklich gewesen.}}\n\n## 5. 6 lỗi điển hình người Việt hay mắc (✗ → ✓)\n\n### Lỗi 1: Dùng \"würde\" trong quá khứ của Konjunktiv II\n- ✗ *Wenn ich mehr Sport getrieben hätte, würde ich gesund gewesen sein.*\n- ✓ {{Wenn ich mehr Sport getrieben hätte, wäre ich gesund geblieben.}}\n- *Giải thích:* Trong Konjunktiv II của quá khứ, tuyệt đối không dùng *würde*. Bắt buộc dùng {{hätte / wäre + Partizip II}}.\n\n### Lỗi 2: Nhầm lẫn trợ động từ wäre và hätte\n- ✗ *Wenn er rechtzeitig zum Arzt gegangen hätte, ...*\n- ✓ {{Wenn er rechtzeitig zum Arzt gegangen wäre, ...}}\n- *Giải thích:* Động từ chuyển động {{gehen}} ở Perfekt đi với {{sein}}, do đó ở Konjunktiv II quá khứ phải dùng {{wäre}}, không dùng *hätte*.\n\n### Lỗi 3: Quên đảo ngữ ở mệnh đề chính khi mệnh đề wenn đứng trước\n- ✗ *Wenn sie ballaststoffreich gegessen hätte, sie hätte keine Magenprobleme gehabt.*\n- ✓ {{Wenn sie ballaststoffreich gegessen hätte, hätte sie keine Magenprobleme gehabt.}}\n- *Giải thích:* Mệnh đề *wenn* đóng vai trò là thành phần chiếm vị trí 1, mệnh đề chính bắt buộc phải bắt đầu ngay bằng động từ chia ({{hätte sie...}}).\n\n### Lỗi 4: Dùng sai dạng Partizip II thay vì Infinitiv với Modalverben\n- ✗ *Ich hätte das Rezept früher abholen gemusst.*\n- ✓ {{Ich hätte das Rezept früher abholen müssen.}}\n- *Giải thích:* Với Modalverben trong quá khứ của Konjunktiv II, bắt buộc dùng hiện tượng nguyên mẫu kép (Ersatzinfinitiv): {{abholen müssen}}, không dùng *gemusst*.\n\n### Lỗi 5: Đặt sai vị trí của \"doch / bloß\" trong câu ước\n- ✗ *Ich hätte doch gehört auf den Arzt!*\n- ✓ {{Hätte ich doch auf den Arzt gehört!}}\n- *Giải thích:* Câu ước không có *wenn* bắt buộc phải đảo trợ động từ {{Hätte / Wäre}} lên đứng đầu câu, theo sau là chủ ngữ và các từ cảm thán {{doch / bloß}}.\n\n### Lỗi 6: Nhầm lẫn giữa triệu chứng bệnh và đơn thuốc\n- ✗ *Der Arzt hat mir eine Diagnose verschrieben.*\n- ✓ {{Der Arzt hat mir ein Rezept verschrieben.}}\n- *Giải thích:* Bác sĩ chẩn đoán bệnh ({{eine Diagnose stellen}}), nhưng kê đơn thuốc thì dùng ({{ein Rezept verschreiben}}).\n\n## 6. Ví dụ củng cố bổ sung\n- {{Wenn er sich rechtzeitig geschont hätte, wäre die Krankheit nicht chronisch geworden.}} (Nếu anh ấy nghỉ ngơi tĩnh dưỡng kịp thời, bệnh đã không trở thành mãn tính.)\n- {{Hätten wir damals bloß eine ausgewogene Ernährungsumstellung begonnen!}} (Giá mà hồi đó chúng ta bắt đầu thay đổi chế độ ăn uống cân bằng!)\n- {{Sie hätte die Packungsbeilage vor der Einnahme gründlich lesen sollen.}} (Lẽ ra cô ấy nên đọc kỹ tờ hướng dẫn sử dụng trước khi uống thuốc.)\n- {{Ohne die fachkundige Diagnose des Chefarztes wäre die Therapie nicht so erfolgreich verlaufen.}} (Nếu không có chẩn đoán chuyên môn của bác sĩ trưởng khoa, liệu trình điều trị đã không thành công như vậy.)\n- {{Hätte der Patient die verschriebenen Tabletten regelmäßig eingenommen, so hätte sich sein Wohlbefinden rasch verbessert.}} (Nếu bệnh nhân uống thuốc được kê đều đặn, cảm giác khỏe khoắn của ông ấy đã nhanh chóng được cải thiện.)\n",
+   "vocab": [
+    {
+     "de": "Wohlbefinden",
+     "article": "das",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "ˈvoːlˌbəfɪndn̩",
+     "vi": "cảm giác khỏe khoắn, sự an lành về thể chất và tinh thần",
+     "example": "Ausreichender Schlaf und gesunde Ernährung tragen wesentlich zum allgemeinen Wohlbefinden bei.",
+     "exampleVi": "Ngủ đủ giấc và dinh dưỡng lành mạnh đóng góp đáng kể vào cảm giác khỏe khoắn chung."
+    },
+    {
+     "de": "Ernährungsumstellung",
+     "article": "die",
+     "plural": "Ernährungsumstellungen",
+     "pos": "noun",
+     "ipa": "ɛɐ̯ˈnɛːʁʊŋsʔʊmˌʃtɛlʊŋ",
+     "vi": "việc thay đổi chế độ ăn uống lành mạnh hơn",
+     "example": "Eine schrittweise Ernährungsumstellung ist meist nachhaltiger als eine radikale Diät.",
+     "exampleVi": "Một sự thay đổi chế độ ăn uống từng bước thường bền vững hơn một chế độ ăn kiêng cực đoan."
+    },
+    {
+     "de": "Nährstoff",
+     "article": "der",
+     "plural": "Nährstoffe",
+     "pos": "noun",
+     "ipa": "ˈnɛːɐ̯ˌʃtɔf",
+     "vi": "chất dinh dưỡng thiết yếu cho cơ thể",
+     "example": "Frisches Gemüse liefert viele lebenswichtige Nährstoffe wie Vitamine und Mineralien.",
+     "exampleVi": "Rau tươi cung cấp nhiều chất dinh dưỡng thiết yếu cho sự sống như vitamin và khoáng chất."
+    },
+    {
+     "de": "Zutat",
+     "article": "die",
+     "plural": "Zutaten",
+     "pos": "noun",
+     "ipa": "ˈtsuːˌtaːt",
+     "vi": "thành phần, nguyên liệu món ăn",
+     "example": "Für diesen gesunden Salat verwende ich ausschließlich regionale und frische Zutaten.",
+     "exampleVi": "Đối với món salad lành mạnh này, tôi chỉ sử dụng các nguyên liệu tươi ngon của địa phương."
+    },
+    {
+     "de": "Unverträglichkeit",
+     "article": "die",
+     "plural": "Unverträglichkeiten",
+     "pos": "noun",
+     "ipa": "ˈʊnfɛɐ̯ˌtʁɛːklɪçkaɪ̯t",
+     "vi": "sự không dung nạp thức ăn, chứng dị ứng thực phẩm",
+     "example": "Immer mehr Menschen leiden heutzutage unter einer Gluten- oder Laktose-Unverträglichkeit.",
+     "exampleVi": "Ngày càng nhiều người ngày nay phải chịu đựng chứng không dung nạp gluten hoặc lactose."
+    },
+    {
+     "de": "Hausmittel",
+     "article": "das",
+     "plural": "Hausmittel",
+     "pos": "noun",
+     "ipa": "ˈhaʊ̯sˌmɪtl̩",
+     "vi": "bài thuốc dân gian, mẹo chữa bệnh tại nhà",
+     "example": "Heißer Kamillentee mit Honig ist ein bewährtes Hausmittel gegen Erkältungsbeschwerden.",
+     "exampleVi": "Trà hoa cúc nóng với mật ong là một mẹo dân gian hiệu nghiệm chống lại chứng cảm lạnh."
+    },
+    {
+     "de": "Genesung",
+     "article": "die",
+     "plural": "Genesungen",
+     "pos": "noun",
+     "ipa": "ɡəˈneːzʊŋ",
+     "vi": "sự bình phục, quá trình hồi phục sức khỏe",
+     "example": "Wir wünschen dem verletzten Kollegen eine rasche und vollständige Genesung.",
+     "exampleVi": "Chúng tôi chúc người đồng nghiệp bị chấn thương nhanh chóng bình phục hoàn toàn."
+    },
+    {
+     "de": "Bewegungsmangel",
+     "article": "der",
+     "plural": "–",
+     "pos": "noun",
+     "ipa": "bəˈveːɡʊŋsˌmaŋl̩",
+     "vi": "tình trạng lười vận động, thiếu hoạt động thể chất",
+     "example": "Dauerhafter Bewegungsmangel im Büroalltag kann zu chronischen Rückenschmerzen führen.",
+     "exampleVi": "Tình trạng thiếu vận động kéo dài trong công sở có thể dẫn đến đau lưng mãn tính."
+    },
+    {
+     "de": "Immunsystem",
+     "article": "das",
+     "plural": "Immunsysteme",
+     "pos": "noun",
+     "ipa": "ɪˈmuːnzʏsˌteːm",
+     "vi": "hệ miễn dịch tự nhiên của cơ thể",
+     "example": "Regelmäßige Spaziergänge an der frischen Luft stärken das menschliche Immunsystem.",
+     "exampleVi": "Đi dạo thường xuyên ngoài không khí trong lành giúp củng cố hệ miễn dịch của con người."
+    },
+    {
+     "de": "Überweisung",
+     "article": "die",
+     "plural": "Überweisungen",
+     "pos": "noun",
+     "ipa": "yːbɐˈvaɪ̯zʊŋ",
+     "vi": "giấy chuyển khám chuyên khoa (từ bác sĩ gia đình)",
+     "example": "Der Hausarzt gab mir eine Überweisung zur kardiologischen Fachpraxis.",
+     "exampleVi": "Bác sĩ gia đình đã cấp cho tôi một giấy chuyển tuyến tới phòng khám chuyên khoa tim mạch."
+    },
+    {
+     "de": "Diagnose",
+     "article": "die",
+     "plural": "Diagnosen",
+     "pos": "noun",
+     "ipa": "diaˈɡnoːzə",
+     "vi": "kết luận chẩn đoán bệnh",
+     "example": "Nach eingehenden Blutuntersuchungen konnte die Ärztin eine präzise Diagnose stellen.",
+     "exampleVi": "Sau các xét nghiệm máu kỹ lưỡng, nữ bác sĩ đã có thể đưa ra kết luận chẩn đoán chính xác."
+    },
+    {
+     "de": "Rezept",
+     "article": "das",
+     "plural": "Rezepte",
+     "pos": "noun",
+     "ipa": "ʁeˈtsɛpt",
+     "vi": "đơn thuốc, toa thuốc do bác sĩ kê",
+     "example": "Mit diesem ärztlichen Rezept können Sie die verschriebenen Medikamente in der Apotheke abholen.",
+     "exampleVi": "Với đơn thuốc của bác sĩ này, bạn có thể lấy các loại thuốc đã được kê tại hiệu thuốc."
+    },
+    {
+     "de": "Zuzahlung",
+     "article": "die",
+     "plural": "Zuzahlungen",
+     "pos": "noun",
+     "ipa": "ˈtsuːˌtsaːlʊŋ",
+     "vi": "khoản đồng chi trả y tế (khoản bệnh nhân tự trả thêm)",
+     "example": "Für verschreibungspflichtige Arzneimittel wird in der Regel eine kleine gesetzliche Zuzahlung fällig.",
+     "exampleVi": "Đối với thuốc kê đơn theo toa, thông thường người ta phải nộp một khoản đồng chi trả nhỏ theo luật."
+    },
+    {
+     "de": "Packungsbeilage",
+     "article": "die",
+     "plural": "Packungsbeilagen",
+     "pos": "noun",
+     "ipa": "ˈpakʊŋsˌbaɪ̯laːɡə",
+     "vi": "tờ hướng dẫn sử dụng kèm theo trong hộp thuốc",
+     "example": "Vor der ersten Einnahme sollte man die Packungsbeilage aufmerksam durchlesen.",
+     "exampleVi": "Trước khi uống thuốc lần đầu, người ta nên đọc kỹ tờ hướng dẫn sử dụng kèm theo."
+    },
+    {
+     "de": "ärztlichen Rat einholen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈɛːɐ̯tstlɪçn̩ ʁaːt ˈaɪ̯nˌhoːlən",
+     "vi": "hỏi xin lời khuyên / tư vấn y tế từ bác sĩ",
+     "example": "Bei anhaltenden starken Kopfschmerzen sollte man unbedingt fachärztlichen Rat einholen.",
+     "exampleVi": "Khi bị đau đầu dữ dội kéo dài, người ta nhất định nên xin lời khuyên từ bác sĩ chuyên khoa."
+    },
+    {
+     "de": "auf die Ernährung achten",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "aʊ̯f diː ɛɐ̯ˈnɛːʁʊŋ ˈaxtn̩",
+     "vi": "chú ý đến chế độ ăn uống dinh dưỡng",
+     "example": "Wer dauerhaft gesund bleiben will, muss konsequent auf die Ernährung achten.",
+     "exampleVi": "Ai muốn giữ gìn sức khỏe lâu dài đều phải kiên trì chú ý đến chế độ ăn uống."
+    },
+    {
+     "de": "eine Diagnose stellen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "ˈaɪ̯nə diaˈɡnoːzə ˈʃtɛlən",
+     "vi": "đưa ra chẩn đoán bệnh",
+     "example": "Erst nach mehreren Tests konnte der Chefarzt eine eindeutige Diagnose stellen.",
+     "exampleVi": "Chỉ sau nhiều xét nghiệm, bác sĩ trưởng khoa mới có thể đưa ra chẩn đoán rõ ràng."
+    },
+    {
+     "de": "zur Ruhe kommen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "tsuːɐ̯ ˈʁuːə ˈkɔmən",
+     "vi": "tìm lại sự tĩnh tâm, nghỉ ngơi thư giãn thực sự",
+     "example": "Im Urlaub im Gebirge konnte sie nach dem stressigen Projekt endlich zur Ruhe kommen.",
+     "exampleVi": "Trong kỳ nghỉ trên vùng núi, cô ấy cuối cùng đã có thể tìm lại sự tĩnh tâm sau dự án căng thẳng."
+    },
+    {
+     "de": "sich einer Behandlung unterziehen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "zɪç ˈaɪ̯nɐ bəˈhandlʊŋ ʊntɐˈtsiːən",
+     "vi": "trải qua một đợt trị liệu / điều trị y tế",
+     "example": "Er musste sich wegen der Sportverletzung einer längeren physiotherapeutischen Behandlung unterziehen.",
+     "exampleVi": "Anh ấy đã phải trải qua một đợt điều trị vật lý trị liệu kéo dài do chấn thương thể thao."
+    },
+    {
+     "de": "die Zähne zusammenbeißen",
+     "article": null,
+     "plural": null,
+     "pos": "phrase",
+     "ipa": "diː ˈtsɛːnə tsuˈzamənˌbaɪ̯sn̩",
+     "vi": "cắn răng chịu đựng, kiên trì vượt qua đau đớn khó khăn",
+     "example": "Bei der anstrengenden Reha hieß es für den Patienten: die Zähne zusammenbeißen und durchhalten.",
+     "exampleVi": "Trong đợt phục hồi chức năng vất vả, bệnh nhân phải tự nhủ: cắn răng chịu đựng và kiên trì đến cùng."
+    },
+    {
+     "de": "vorbeugen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "beugt vor, beugte vor, hat vorgebeugt",
+     "ipa": "ˈfoːɐ̯ˌbɔʏ̯ɡn̩",
+     "vi": "phòng ngừa, ngăn chặn trước (bệnh tật) (+ Dat)",
+     "example": "Durch regelmäßigen Ausdauersport kann man vielen Herz-Kreislauf-Erkrankungen wirksam vorbeugen.",
+     "exampleVi": "Bằng việc tập thể thao sức bền đều đặn, người ta có thể phòng ngừa hiệu quả nhiều bệnh tim mạch."
+    },
+    {
+     "de": "krankschreiben",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "schreibt krank, schrieb krank, hat krankgeschrieben",
+     "ipa": "ˈkʁaŋkˌʃʁaɪ̯bn̩",
+     "vi": "cấp giấy chứng nhận nghỉ ốm cho ai (+ Akk)",
+     "example": "Wegen der schweren Grippe schrieb die Ärztin den Patienten für eine ganze Woche krank.",
+     "exampleVi": "Do bệnh cúm nặng, nữ bác sĩ đã cấp giấy cho bệnh nhân nghỉ ốm cả một tuần."
+    },
+    {
+     "de": "verschreiben",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "verschreibt, verschrieb, hat verschrieben",
+     "ipa": "fɛɐ̯ˈʃʁaɪ̯bn̩",
+     "vi": "kê đơn thuốc men cho bệnh nhân (+ Dat + Akk)",
+     "example": "Der Facharzt verschrieb mir ein wirksames Antibiotikum gegen die bakterielle Entzündung.",
+     "exampleVi": "Bác sĩ chuyên khoa đã kê cho tôi một loại thuốc kháng sinh hiệu quả chống lại chứng viêm do vi khuẩn."
+    },
+    {
+     "de": "lindern",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "lindert, linderte, hat gelindert",
+     "ipa": "ˈlɪndɐn",
+     "vi": "làm dịu bớt, giảm nhẹ cơn đau (+ Akk)",
+     "example": "Die schmerzstillende Salbe konnte die akuten Beschwerden im Kniegelenk spürbar lindern.",
+     "exampleVi": "Tuýp thuốc mỡ giảm đau đã có thể làm dịu rõ rệt các cơn đau cấp tính ở khớp gối."
+    },
+    {
+     "de": "schonen",
+     "article": null,
+     "plural": null,
+     "pos": "verb",
+     "forms": "schont, schonte, hat geschont",
+     "ipa": "ˈʃoːnən",
+     "vi": "giữ gìn, nghỉ ngơi tĩnh dưỡng cơ thể (+ Akk)",
+     "example": "Nach der Operation muss sich der Patient mindestens zwei Wochen lang körperlich schonen.",
+     "exampleVi": "Sau ca mổ, bệnh nhân phải nghỉ ngơi giữ gìn thể lực ít nhất trong hai tuần."
+    },
+    {
+     "de": "ausgewogen",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ˈaʊ̯sɡəˌvoːɡn̩",
+     "vi": "cân đối, hài hòa đầy đủ chất",
+     "example": "Eine ausgewogene Mischkost liefert dem Organismus alle notwendigen Vitalstoffe.",
+     "exampleVi": "Một chế độ ăn uống hỗn hợp cân đối cung cấp cho cơ thể mọi dưỡng chất thiết yếu."
+    },
+    {
+     "de": "bekömmlich",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "bəˈkœmlɪç",
+     "vi": "dễ tiêu hóa, lành tính, không hại dạ dày",
+     "example": "Gedünstetes Gemüse ist für einen empfindlichen Magen besonders bekömmlich.",
+     "exampleVi": "Rau củ hấp đặc biệt lành tính và dễ tiêu hóa đối với dạ dày nhạy cảm."
+    },
+    {
+     "de": "ballaststoffreich",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "baˈlastʃtɔfˌʁaɪ̯ç",
+     "vi": "giàu chất xơ dinh dưỡng",
+     "example": "Vollkornbrot und Haferflocken sind ballaststoffreiche Lebensmittel, die lange sättigen.",
+     "exampleVi": "Bánh mì nguyên cám và yến mạch là những thực phẩm giàu chất xơ giúp no lâu."
+    },
+    {
+     "de": "erschöpft",
+     "article": null,
+     "plural": null,
+     "pos": "adj",
+     "ipa": "ɛɐ̯ˈʃœpft",
+     "vi": "kiệt sức, mệt mỏi rã rời",
+     "example": "Nach der anstrengenden Schicht im Krankenhaus fühlte sich die Krankenschwester völlig erschöpft.",
+     "exampleVi": "Sau ca làm việc căng thẳng tại bệnh viện, cô y tá cảm thấy hoàn toàn kiệt sức."
+    }
+   ],
+   "dialogue": [
+    {
+     "speaker": "A",
+     "name": "Bao",
+     "de": "Guten Tag, Sarah! Du siehst heute leider ziemlich blass und erschöpft aus. Geht es dir nicht gut?",
+     "vi": "Chào Sarah! Hôm nay trông bạn hơi xanh xao và kiệt sức. Bạn không khỏe à?"
+    },
+    {
+     "speaker": "B",
+     "name": "Sarah",
+     "de": "Hallo Bao! Ich habe seit drei Tagen starke Magenschmerzen. Hätte ich am Wochenende bloß nicht so fettig gegessen!",
+     "vi": "Chào Bao! Mình bị đau dạ dày dữ dội ba ngày nay rồi. Giá mà cuối tuần qua mình đừng ăn uống nhiều dầu mỡ như thế!"
+    },
+    {
+     "speaker": "A",
+     "name": "Bao",
+     "de": "Warst du denn schon bei deiner Hausärztin, um dir ärztlichen Rat einzuholen?",
+     "vi": "Bạn đã đến gặp bác sĩ gia đình để xin lời khuyên y tế chưa?"
+    },
+    {
+     "speaker": "B",
+     "name": "Sarah",
+     "de": "Noch nicht. Wenn ich gestern pünktlich Feierabend gemacht hätte, wäre ich noch in die Praxis gegangen.",
+     "vi": "Chưa. Nếu hôm qua mình tan làm đúng giờ thì mình đã đến phòng khám rồi."
+    },
+    {
+     "speaker": "A",
+     "name": "Bao",
+     "de": "Du hättest dich schon viel früher schonen müssen! Mit der Gesundheit sollte man keine riskanten Experimente machen.",
+     "vi": "Lẽ ra bạn đã phải nghỉ ngơi giữ gìn sớm hơn nhiều! Với sức khỏe người ta không nên mạo hiểm thử nghiệm."
+    },
+    {
+     "speaker": "B",
+     "name": "Sarah",
+     "de": "Du hast völlig recht. Hätte ich doch bloß gestern einen Termin vereinbart, dann müsste ich heute nicht so leiden.",
+     "vi": "Bạn hoàn toàn đúng. Giá mà hôm qua mình đặt lịch hẹn thì hôm nay mình đã không phải chịu đựng thế này."
+    },
+    {
+     "speaker": "A",
+     "name": "Bao",
+     "de": "Hast du denn bewährte Hausmittel ausprobiert, um die akuten Schmerzen etwas zu lindern?",
+     "vi": "Bạn đã thử những mẹo dân gian hiệu nghiệm để làm dịu bớt cơn đau cấp tính chưa?"
+    },
+    {
+     "speaker": "B",
+     "name": "Sarah",
+     "de": "Ja, ich habe Kamillentee getrunken. Er hat zwar ein wenig geholfen, aber die Beschwerden sind noch da.",
+     "vi": "Có, mình đã uống trà hoa cúc. Nó tuy có đỡ chút ít nhưng cảm giác khó chịu vẫn còn đó."
+    },
+    {
+     "speaker": "A",
+     "name": "Bao",
+     "de": "Vielleicht liegt bei dir eine Unverträglichkeit gegen bestimmte Lebensmittel vor?",
+     "vi": "Có lẽ bạn bị chứng không dung nạp đối với một loại thực phẩm nào đó chăng?"
+    },
+    {
+     "speaker": "B",
+     "name": "Sarah",
+     "de": "Das vermute ich auch. Wenn ich mich ballaststoffreicher und ausgewogener ernährt hätte, wäre das Immunsystem stabiler.",
+     "vi": "Mình cũng nghi ngờ điều đó. Nếu mình ăn uống giàu chất xơ và cân đối hơn thì hệ miễn dịch đã vững vàng hơn rồi."
+    },
+    {
+     "speaker": "A",
+     "name": "Bao",
+     "de": "Geh bitte gleich nach der Arbeit zur Ärztin. Sie kann eine Diagnose stellen und dir ein wirksames Rezept verschreiben.",
+     "vi": "Xin bạn hãy đến bác sĩ ngay sau giờ làm việc nhé. Bác sĩ có thể chẩn đoán và kê cho bạn một đơn thuốc hiệu quả."
+    },
+    {
+     "speaker": "B",
+     "name": "Sarah",
+     "de": "Vielleicht schreibt sie mich auch für zwei Tage krank, damit ich endlich richtig zur Ruhe kommen kann.",
+     "vi": "Có lẽ bác sĩ cũng sẽ cho mình nghỉ ốm hai ngày để mình cuối cùng có thể thực sự tĩnh tâm nghỉ ngơi."
+    },
+    {
+     "speaker": "A",
+     "name": "Bao",
+     "de": "Das wäre vernünftig. Denk daran: Deine vollständige Genesung steht jetzt an allererster Stelle!",
+     "vi": "Điều đó rất hợp lý. Hãy nhớ rằng: Sự bình phục hoàn toàn của bạn lúc này đứng ở vị trí ưu tiên hàng đầu!"
+    },
+    {
+     "speaker": "B",
+     "name": "Sarah",
+     "de": "Danke für deine fürsorglichen Ratschläge, Bao! Ich werde jetzt sofort in der Praxis anrufen.",
+     "vi": "Cảm ơn những lời khuyên chu đáo của bạn, Bao! Bây giờ mình sẽ gọi điện cho phòng khám ngay."
+    },
+    {
+     "speaker": "A",
+     "name": "Bao",
+     "de": "Gute Besserung, Sarah! Melde dich einfach, wenn ich dir etwas aus der Apotheke mitbringen soll.",
+     "vi": "Chúc bạn mau khỏe lại, Sarah! Cứ nhắn cho mình nếu bạn cần mình mang thứ gì từ hiệu thuốc về nhé."
+    }
+   ],
+   "reading": {
+    "title": "Gesunde Ernährung und seelisches Wohlbefinden: Ein untrennbares Gespann",
+    "text": "In unserer heutigen modernen und hektischen Leistungsgesellschaft neigen viele Menschen leider allzu oft dazu, die fundamentale Bedeutung einer gesunden und ausgewogenen Ernährung für das allgemeine seelische und körperliche Wohlbefinden dramatisch zu unterschätzen. Unter ständigem beruflichem Termindruck greifen unzählige gestresste Beschäftigte im Alltag vorschnell zu ungesundem Fast Food, stark zuckerhaltigen Snacks oder künstlich verarbeiteten Fertiggerichten. Diese bequeme und zeitsparende Ernährungsweise liefert zwar kurzfristig rasche Energie, enthält jedoch kaum jene lebensnotwendigen Nährstoffe, Vitamine und Spurenelemente, die unser menschlicher Organismus für eine langfristig stabile physische und geistige Leistungsfähigkeit so dringend benötigt.\n\nZahlreiche fundierte wissenschaftliche Studien der modernen Ernährungsmedizin belegen inzwischen sehr eindrucksvoll den direkten kausalen Zusammenhang zwischen unserer täglichen Nahrung und der seelischen Verfassung. Eine dauerhaft unausgewogene Kost, die chronisch arm an Ballaststoffen und reich an ungesunden industriellen Fetten ist, schwächt nachweislich das körpereigene Immunsystem und begünstigt gefährliche chronische Entzündungsprozesse im Körper. Nicht selten führt dieser schleichende Mangelzustand zu anhaltender Erschöpfung, schmerzhaften Magenbeschwerden, Konzentrationsschwächen und depressiven Verstimmungen. Viele Betroffene klagen im Nachhinein voller Bedauern: „Hätte ich mich damals bloß rechtzeitig mit den Grundlagen gesunder Ernährung beschäftigt, dann wären mir viele gesundheitliche Rückschläge und langwierige Facharztbesuche erspart geblieben!“\n\nGlücklicherweise ist es für eine nachhaltige und bewusste Ernährungsumstellung niemals zu spät. Erfahrene Ernährungsexperten betonen immer wieder, dass man keineswegs von heute auf morgen auf alle gewohnten kulinarischen Genüsse radikal verzichten muss. Vielmehr kommt es entscheidend darauf an, den täglichen Speiseplan schrittweise mit frischen, regionalen und naturbelassenen Zutaten sinnvoll anzureichern. Gedünstetes buntes Gemüse, vollwertige Vollkornprodukte, nahrhafte Hülsenfrüchte und gesunde pflanzliche Öle sind besonders bekömmlich und versorgen die empfindlichen Körperzellen mit unverzichtbaren Vitalstoffen. Ergänzt man diese bewusste Ernährung durch regelmäßige Bewegung an der frischen Luft, lässt sich dem modernen Zivilisationsproblem des Bewegungsmangels wirksam und dauerhaft vorbeugen.\n\nWer bereit ist, auf die feinen Signale des eigenen Körpers aufmerksam zu hören und rechtzeitig fachärztlichen Rat einzuholen, gewinnt ein Vielfaches an Vitalität, Ausgeglichenheit und Lebensfreude zurück. Denn wahre Gesundheit ist kein unbeeinflussbares Schicksal, sondern das erfreuliche Ergebnis täglicher bewusster Entscheidungen für den eigenen Körper und Geist.",
+    "vi": "Trong xã hội trọng thành tích hiện đại và hối hả ngày nay của chúng ta, nhiều người đáng tiếc thường quá dễ dãi đánh giá thấp một cách nghiêm trọng tầm quan trọng căn bản của một chế độ ăn uống lành mạnh và cân đối đối với cảm giác khỏe khoắn toàn diện cả về thể chất lẫn tinh thần. Dưới áp lực thời hạn công việc thường trực, vô số người đi làm bị căng thẳng trong cuộc sống thường nhật thường vội vàng tìm đến đồ ăn nhanh không tốt cho sức khỏe, đồ ăn vặt chứa nhiều đường hoặc các món ăn chế biến sẵn nhân tạo. Cách ăn uống tiện lợi và tiết kiệm thời gian này tuy cung cấp năng lượng tức thì trong ngắn hạn, nhưng lại hầu như không chứa những chất dinh dưỡng, vitamin và nguyên tố vi lượng thiết yếu cho sự sống mà cơ thể con người chúng ta đang rất cần cho năng lực hoạt động thể chất và trí tuệ ổn định lâu dài.\n\nNhiều nghiên cứu khoa học có cơ sở vững chắc của y học dinh dưỡng hiện đại giờ đây đã chứng minh rất ấn tượng mối liên hệ nhân quả trực tiếp giữa thực phẩm hàng ngày của chúng ta và trạng thái tinh thần. Một chế độ ăn uống mất cân bằng kéo dài, nghèo chất xơ kinh niên và giàu chất béo công nghiệp có hại, đã được chứng minh là làm suy yếu hệ miễn dịch tự nhiên của cơ thể và thúc đẩy các quá trình viêm mãn tính nguy hiểm trong cơ thể. Không hiếm khi tình trạng thiếu hụt âm thầm này dẫn tới sự kiệt sức kéo dài, những cơn đau dạ dày buốt nhói, suy giảm khả năng tập trung và tâm trạng u uất trầm cảm. Nhiều người trong cuộc sau này đã phải thốt lên đầy nuối tiếc: 'Giá mà hồi đó mình chịu tìm hiểu kịp thời về các nền tảng dinh dưỡng lành mạnh, thì mình đã tránh được nhiều bước thụt lùi sức khỏe và những lần đi khám bác sĩ chuyên khoa dai dẳng!'\n\nRất may mắn là chưa bao giờ là quá muộn cho một sự thay đổi chế độ ăn uống bền vững và có ý thức. Các chuyên gia dinh dưỡng giàu kinh nghiệm luôn nhấn mạnh rằng người ta hoàn toàn không cần phải từ bỏ triệt để mọi thói quen thưởng thức ẩm thực quen thuộc chỉ sau một đêm. Đúng hơn, điều quan trọng mang tính quyết định là từng bước làm phong phú thực đơn hàng ngày một cách hợp lý bằng những nguyên liệu tươi ngon, có nguồn gốc địa phương và tự nhiên. Rau củ hấp nhiều màu sắc, các sản phẩm ngũ cốc nguyên cám trọn vẹn, các loại đậu giàu dinh dưỡng và dầu thực vật lành mạnh đặc biệt dễ tiêu hóa và cung cấp cho các tế bào nhạy cảm của cơ thể các dưỡng chất sống không thể thiếu. Nếu người ta kết hợp chế độ ăn có ý thức này với việc vận động thường xuyên ngoài không khí trong lành, vấn nạn thiếu vận động của xã hội văn minh hiện đại hoàn toàn có thể được phòng ngừa hiệu quả và bền lâu.\n\nBất cứ ai sẵn lòng lắng nghe chăm chú những tín hiệu tinh tế của cơ thể mình và kịp thời xin lời khuyên của bác sĩ chuyên khoa sẽ nhận lại nguồn sinh lực, sự thanh thản và niềm vui sống gấp bội phần. Bởi vì sức khỏe thực sự không phải là một số phận bất biến, mà là thành quả đáng mừng của những quyết định có ý thức mỗi ngày dành cho cơ thể và tâm trí của chính mình.",
+    "glossary": [
+     {
+      "de": "Leistungsgesellschaft",
+      "article": "die",
+      "plural": "Leistungsgesellschaften",
+      "pos": "noun",
+      "ipa": "ˈlaɪ̯stʊŋsɡəˌzɛlʃaft",
+      "vi": "xã hội trọng thành tích",
+      "example": "In der Leistungsgesellschaft leiden viele Menschen unter Zeitmangel.",
+      "exampleVi": "Trong xã hội trọng thành tích, nhiều người phải chịu cảnh thiếu thốn thời gian."
+     },
+     {
+      "de": "Fertiggericht",
+      "article": "das",
+      "plural": "Fertiggerichte",
+      "pos": "noun",
+      "ipa": "ˈfɛʁtɪçɡəˌʁɪçt",
+      "vi": "món ăn chế biến sẵn đóng hộp",
+      "example": "Fertiggerichte enthalten oft zu viel Salz und künstliche Zusatzstoffe.",
+      "exampleVi": "Các món ăn chế biến sẵn thường chứa quá nhiều muối và chất phụ gia nhân tạo."
+     },
+     {
+      "de": "Verfassung",
+      "article": "die",
+      "plural": "Verfassungen",
+      "pos": "noun",
+      "ipa": "fɛɐ̯ˈfasʊŋ",
+      "vi": "tình trạng thể chất hoặc tâm trạng tinh thần",
+      "example": "Nach dem Urlaub war sie wieder in einer hervorragenden körperlichen Verfassung.",
+      "exampleVi": "Sau kỳ nghỉ, cô ấy đã lấy lại được thể trạng thể chất tuyệt vời."
+     },
+     {
+      "de": "Mangelzustand",
+      "article": "der",
+      "plural": "Mangelzustände",
+      "pos": "noun",
+      "ipa": "ˈmaŋl̩tsuːˌʃtant",
+      "vi": "tình trạng thiếu hụt dưỡng chất của cơ thể",
+      "example": "Ein chronischer Vitamin-D-Mangelzustand kann zu Müdigkeit führen.",
+      "exampleVi": "Tình trạng thiếu hụt vitamin D mãn tính có thể dẫn đến mệt mỏi."
+     },
+     {
+      "de": "Vitalität",
+      "article": "die",
+      "plural": "–",
+      "pos": "noun",
+      "ipa": "vitaliˈtɛːt",
+      "vi": "sức sống dồi dào, sinh lực",
+      "example": "Ausgewogene Ernährung verleiht dem Körper neue Vitalität.",
+      "exampleVi": "Dinh dưỡng cân đối mang lại cho cơ thể nguồn sinh lực mới."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Was unterschätzen viele Menschen im stressigen Alltag laut dem Text?",
+      "options": [
+       "Die Bedeutung moderner Computerspiele für das Wohlbefinden.",
+       "Die fundamentale Rolle einer ausgewogenen Ernährung für Körper und Geist.",
+       "Die Wichtigkeit von teurer Markenkleidung beim Sport."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Welche Folge hat eine dauerhaft unausgewogene, ballaststoffarme Ernährung?",
+      "options": [
+       "Sie stärkt das Immunsystem dauerhaft.",
+       "Sie schwächt die Abwehrkräfte und kann zu Erschöpfung und Entzündungen führen.",
+       "Sie senkt die Kosten für Nahrungsmittel auf null."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Was empfehlen Ernährungsexperten für eine nachhaltige Ernährungsumstellung?",
+      "options": [
+       "Den Speiseplan schrittweise mit frischen und naturbelassenen Zutaten zu bereichern.",
+       "Ab morgen überhaupt keine feste Nahrung mehr zu sich zu nehmen.",
+       "Ausschließlich Fertiggerichte aus dem Supermarkt zu konsumieren."
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Wie kann man dem modernen Bewegungsmangel wirksam vorbeugen?",
+      "options": [
+       "Indem man den ganzen Tag am Schreibtisch sitzen bleibt.",
+       "Durch bewusste Ernährung kombiniert mit regelmäßiger Bewegung im Freien.",
+       "Indem man mehr zuckerhaltige Softdrinks trinkt."
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Welches Fazit zieht der Autor am Ende des Textes über die Gesundheit?",
+      "options": [
+       "Gesundheit ist ein reines Zufallsprodukt, das man nicht beeinflussen kann.",
+       "Man sollte niemals einen Arzt aufsuchen.",
+       "Gesundheit ist das erfreuliche Ergebnis täglicher bewusster Entscheidungen."
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "writing": {
+    "task": "Sie haben sich vor drei Monaten entschieden, Ihre Ernährung grundlegend umzustellen und mehr Sport zu treiben. Schreiben Sie einen Beitrag für ein Gesundheitsforum (ca. 80-100 Wörter). Berichten Sie über Ihre früheren ungesunden Gewohnheiten, beschreiben Sie die Veränderungen und erklären Sie, wie sich Ihr Wohlbefinden seitdem verbessert hat. (Cách đây 3 tháng bạn quyết định thay đổi căn bản chế độ ăn uống và tập thể thao nhiều hơn. Viết bài chia sẻ trên diễn đàn sức khỏe. Kể về thói quen thiếu lành mạnh trước đây, miêu tả những thay đổi và giải thích cảm giác khỏe khoắn của bạn đã cải thiện ra sao.)",
+    "minWords": 80,
+    "sample": "Vor einigen Monaten fühlte ich mich im Alltag ständig erschöpft und kraftlos. Wegen Zeitmangels aß ich fast täglich ungesunde Fertiggerichte und bewegte mich kaum. Rückblickend sage ich mir oft: Hätte ich doch bloß viel früher etwas geändert! Vor drei Monaten fasste ich schließlich den Entschluss zu einer nachhaltigen Ernährungsumstellung: Seitdem koche ich täglich mit frischen Zutaten, verzichte weitgehend auf Zucker und gehe dreimal pro Woche joggen. Diese Veränderungen haben mein Wohlbefinden enorm gesteigert. Mein Immunsystem ist viel stabiler geworden und ich habe wieder viel Energie für meine Arbeit!"
+   },
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Welche Form bildet den Konjunktiv II der Vergangenheit für: „Er geht zum Arzt“?",
+     "options": [
+      "Er würde zum Arzt gegangen sein",
+      "Er wäre zum Arzt gegangen",
+      "Er hatte zum Arzt gegangen",
+      "Er sei zum Arzt gegangen"
+     ],
+     "answer": 1,
+     "explain": "Động từ 'gehen' đi với trợ động từ 'sein'. Konjunktiv II quá khứ là 'wäre + Partizip II': 'Er wäre zum Arzt gegangen'."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Wenn ich damals mehr auf meine Ernährung geachtet ___, hätte ich keine Magenprobleme bekommen.",
+     "options": [
+      "hätte",
+      "wäre",
+      "würde",
+      "habe"
+     ],
+     "answer": 0,
+     "explain": "'achten auf' dùng trợ động từ 'haben', ở Konjunktiv II quá khứ chia là 'hätte'."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz drückt einen irrealen Wunsch in der Vergangenheit korrekt aus?",
+     "options": [
+      "Hätte ich doch bloß früher mit dem Rauchen aufgehört!",
+      "Ich habe doch bloß früher mit dem Rauchen aufgehört!",
+      "Würde ich doch bloß früher mit dem Rauchen aufhören!",
+      "Habe ich doch bloß früher mit dem Rauchen aufgehört!"
+     ],
+     "answer": 0,
+     "explain": "Câu ước không có thật trong quá khứ đảo trợ động từ 'Hätte' lên đầu câu kèm theo tiểu từ tình thái 'doch bloß'."
+    },
+    {
+     "type": "mcq",
+     "q": "Wie bildet man den Konjunktiv II der Vergangenheit mit einem Modalverb korrekt?",
+     "options": [
+      "Er hatte sich mehr schonen gemusst.",
+      "Er hätte sich mehr schonen müssen.",
+      "Er wäre sich mehr schonen gemusst.",
+      "Er würde sich mehr schonen müssen haben."
+     ],
+     "answer": 1,
+     "explain": "Với Modalverben trong quá khứ của Konjunktiv II, dùng cấu trúc nguyên mẫu kép: 'hätte + Infinitiv Vollverb + Infinitiv Modalverb' ('hätte ... schonen müssen')."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet das Nomen „die Unverträglichkeit“ im medizinischen Kontext?",
+     "options": [
+      "Ein Streit zwischen zwei Ärzten",
+      "Die Unfähigkeit des Körpers, bestimmte Stoffe ohne Beschwerden zu verdauen",
+      "Eine falsche Rechnung der Krankenkasse",
+      "Ein abgelaufenes Medikament"
+     ],
+     "answer": 1,
+     "explain": "'Die Unverträglichkeit' là chứng dị ứng / không dung nạp thức ăn hoặc thuốc của cơ thể."
+    },
+    {
+     "type": "mcq",
+     "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
+     "options": [
+      "Wäre er gestern zu Hause geblieben, wäre er heute gesund.",
+      "Wenn er gestern zu Hause geblieben wäre, er wäre heute gesund.",
+      "Hätte er gestern zu Hause geblieben, wäre er heute gesund.",
+      "Würde er gestern zu Hause geblieben sein, wäre er heute gesund."
+     ],
+     "answer": 0,
+     "explain": "Câu điều kiện đảo ngữ trong quá khứ: 'Wäre er ... geblieben (sein đi với bleiben), wäre er ...'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was verschreibt die Ärztin dem Patienten in der Regel?",
+     "options": [
+      "Eine Diagnose",
+      "Ein Rezept",
+      "Eine Unverträglichkeit",
+      "Ein Hausmittel"
+     ],
+     "answer": 1,
+     "explain": "Bác sĩ kê đơn thuốc (ein Rezept verschreiben), còn chẩn đoán thì dùng 'eine Diagnose stellen'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was bedeutet das Adjektiv „bekömmlich“?",
+     "options": [
+      "Sehr scharf und ungenießbar",
+      "Leicht verdaulich und gut für den Magen",
+      "Besonders teuer",
+      "Kalt serviert"
+     ],
+     "answer": 1,
+     "explain": "'bekömmlich' có nghĩa là dễ tiêu hóa, lành tính đối với dạ dày và cơ thể."
+    },
+    {
+     "type": "mcq",
+     "q": "Ergänzen Sie: Sie hätte den Beipackzettel vor der Einnahme gründlich lesen ___ .",
+     "options": [
+      "gemusst",
+      "sollen",
+      "gesollt",
+      "gesollt haben"
+     ],
+     "answer": 1,
+     "explain": "Nguyên mẫu kép đi với 'hätte': 'lesen sollen'."
+    },
+    {
+     "type": "mcq",
+     "q": "Was versteht man unter dem Begriff „Hausmittel“?",
+     "options": [
+      "Ein teures Rezept aus der Universitätsklinik",
+      "Traditionelle, einfache Heilmittel zur Selbstbehandlung zu Hause",
+      "Ein Putzmittel für das Badezimmer",
+      "Ein Formular der Krankenversicherung"
+     ],
+     "answer": 1,
+     "explain": "'Das Hausmittel' là các bài thuốc, mẹo chữa bệnh dân gian đơn giản tại nhà (như trà thảo mộc, chườm nóng)."
+    },
+    {
+     "type": "gap",
+     "text": "Wenn ich gestern nicht so lange gearbeitet ___, wäre ich zum Sport gegangen.",
+     "answers": [
+      "hätte"
+     ],
+     "hint": "haben im Konjunktiv II der Vergangenheit",
+     "vi": "Nếu hôm qua tôi không làm việc lâu như vậy thì tôi đã đi tập thể thao rồi.",
+     "explain": "'arbeiten' dùng trợ động từ 'haben', ở Konjunktiv II quá khứ chia là 'hätte'."
+    },
+    {
+     "type": "gap",
+     "text": "Wäre der Patient rechtzeitig zum Facharzt gegangen, so ___ er schneller genesen.",
+     "answers": [
+      "wäre"
+     ],
+     "hint": "sein im Konjunktiv II der Vergangenheit",
+     "vi": "Nếu bệnh nhân đi khám bác sĩ chuyên khoa kịp thời thì ông ấy đã bình phục nhanh hơn.",
+     "explain": "'genesen' (bình phục) đi với trợ động từ 'sein', dạng Konjunktiv II quá khứ là 'wäre'."
+    },
+    {
+     "type": "gap",
+     "text": "Hätte ich doch bloß auf den Rat meiner Ärztin ___ !",
+     "answers": [
+      "gehört"
+     ],
+     "hint": "Partizip II von hören",
+     "vi": "Giá mà tôi chịu nghe theo lời khuyên của nữ bác sĩ!",
+     "explain": "Cấu trúc câu ước quá khứ: 'Hätte ich doch bloß ... gehört!'."
+    },
+    {
+     "type": "gap",
+     "text": "Wegen der schweren Bronchitis schrieb die Ärztin ihn für eine Woche ___ .",
+     "answers": [
+      "krank"
+     ],
+     "hint": "krankschreiben im Präteritum",
+     "vi": "Do viêm phế quản nặng, nữ bác sĩ đã cấp giấy cho anh ấy nghỉ ốm một tuần.",
+     "explain": "Cụm động từ tách 'jemanden krankschreiben'."
+    },
+    {
+     "type": "gap",
+     "text": "Du hättest die Packungsbeilage vor der Einnahme aufmerksam durchlesen ___ .",
+     "answers": [
+      "müssen|sollen"
+     ],
+     "hint": "Ersatzinfinitiv eines Modalverbs",
+     "vi": "Lẽ ra bạn đã phải đọc kỹ tờ hướng dẫn sử dụng trước khi uống thuốc.",
+     "explain": "Nguyên mẫu kép: 'durchlesen müssen / sollen'."
+    },
+    {
+     "type": "gap",
+     "text": "Eine ausgewogene und gesunde Ernährung steigert das persönliche ___ spürbar.",
+     "answers": [
+      "Wohlbefinden"
+     ],
+     "hint": "Nomen: das Wohlbefinden",
+     "vi": "Một chế độ ăn uống cân đối và lành mạnh giúp nâng cao cảm giác khỏe khoắn cá nhân rõ rệt.",
+     "explain": "Danh từ giống trung 'das Wohlbefinden' (cảm giác khỏe khoắn, an lành)."
+    },
+    {
+     "type": "gap",
+     "text": "Vor dem Facharztbesuch muss man sich meist eine ___ beim Hausarzt holen.",
+     "answers": [
+      "Überweisung"
+     ],
+     "hint": "Nomen: die Überweisung",
+     "vi": "Trước khi đến bác sĩ chuyên khoa, người ta thường phải xin giấy chuyển viện tại bác sĩ gia đình.",
+     "explain": "Danh từ giống cái 'die Überweisung' (giấy chuyển tuyến chuyên khoa)."
+    },
+    {
+     "type": "gap",
+     "text": "Durch regelmäßiges Joggen kann man Herz-Kreislauf-Problemen wirksam ___ .",
+     "answers": [
+      "vorbeugen"
+     ],
+     "hint": "Verb: vorbeugen (+ Dat)",
+     "vi": "Bằng việc chạy bộ đều đặn, người ta có thể phòng ngừa hiệu quả các vấn đề tim mạch.",
+     "explain": "Động từ 'vorbeugen (+ Dat)' mang nghĩa phòng ngừa."
+    },
+    {
+     "type": "gap",
+     "text": "Wäre sie damals nicht so unvorsichtig ___, wäre dieser Unfall nie passiert.",
+     "answers": [
+      "gewesen"
+     ],
+     "hint": "Partizip II von sein",
+     "vi": "Nếu hồi đó cô ấy không bất cẩn như vậy thì tai nạn này đã không bao giờ xảy ra.",
+     "explain": "Dạng Konjunktiv II quá khứ của 'sein' là 'wäre ... gewesen'."
+    },
+    {
+     "type": "gap",
+     "text": "Mit diesem ärztlichen ___ erhalten Sie das Medikament in jeder Apotheke.",
+     "answers": [
+      "Rezept"
+     ],
+     "hint": "Nomen: das Rezept",
+     "vi": "Với đơn thuốc của bác sĩ này, bạn sẽ nhận được thuốc tại bất kỳ hiệu thuốc nào.",
+     "explain": "Danh từ giống trung 'das Rezept' (đơn thuốc)."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Hätte",
+      "ich",
+      "doch",
+      "bloß",
+      "früher",
+      "mit",
+      "dem",
+      "Rauchen",
+      "aufgehört"
+     ],
+     "answer": "Hätte ich doch bloß früher mit dem Rauchen aufgehört!",
+     "answers": [
+      "Hätte ich doch bloß früher mit dem Rauchen aufgehört!",
+      "Hätte ich bloß doch früher mit dem Rauchen aufgehört!"
+     ],
+     "vi": "Giá mà tôi bỏ hút thuốc sớm hơn!"
+    },
+    {
+     "type": "order",
+     "words": [
+      "Wenn",
+      "er",
+      "mehr",
+      "Sport",
+      "getrieben",
+      "hätte",
+      "wäre",
+      "er",
+      "fitter",
+      "gewesen"
+     ],
+     "answer": "Wenn er mehr Sport getrieben hätte wäre er fitter gewesen.",
+     "answers": [
+      "Wenn er mehr Sport getrieben hätte wäre er fitter gewesen.",
+      "Er wäre fitter gewesen wenn er mehr Sport getrieben hätte."
+     ],
+     "vi": "Nếu anh ấy tập thể thao nhiều hơn thì anh ấy đã khỏe khoắn hơn rồi."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Du",
+      "hättest",
+      "gestern",
+      "wirklich",
+      "zum",
+      "Arzt",
+      "gehen",
+      "sollen"
+     ],
+     "answer": "Du hättest gestern wirklich zum Arzt gehen sollen.",
+     "answers": [
+      "Du hättest gestern wirklich zum Arzt gehen sollen.",
+      "Gestern hättest du wirklich zum Arzt gehen sollen."
+     ],
+     "vi": "Hôm qua lẽ ra bạn thực sự nên đi khám bác sĩ."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Wäre",
+      "sie",
+      "vorsichtiger",
+      "gewesen",
+      "hätte",
+      "sie",
+      "sich",
+      "nicht",
+      "verletzt"
+     ],
+     "answer": "Wäre sie vorsichtiger gewesen hätte sie sich nicht verletzt.",
+     "answers": [
+      "Wäre sie vorsichtiger gewesen hätte sie sich nicht verletzt.",
+      "Sie hätte sich nicht verletzt wäre sie vorsichtiger gewesen."
+     ],
+     "vi": "Nếu cô ấy cẩn thận hơn thì cô ấy đã không bị thương."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Eine",
+      "ausgewogene",
+      "Ernährung",
+      "stärkt",
+      "das",
+      "Immunsystem",
+      "nachhaltig"
+     ],
+     "answer": "Eine ausgewogene Ernährung stärkt das Immunsystem nachhaltig.",
+     "answers": [
+      "Eine ausgewogene Ernährung stärkt das Immunsystem nachhaltig.",
+      "Nachhaltig stärkt eine ausgewogene Ernährung das Immunsystem."
+     ],
+     "vi": "Một chế độ ăn uống cân đối củng cố hệ miễn dịch một cách bền vững."
+    },
+    {
+     "type": "order",
+     "words": [
+      "Die",
+      "Ärztin",
+      "konnte",
+      "nach",
+      "den",
+      "Tests",
+      "eine",
+      "klare",
+      "Diagnose",
+      "stellen"
+     ],
+     "answer": "Die Ärztin konnte nach den Tests eine klare Diagnose stellen.",
+     "answers": [
+      "Die Ärztin konnte nach den Tests eine klare Diagnose stellen.",
+      "Nach den Tests konnte die Ärztin eine klare Diagnose stellen."
+     ],
+     "vi": "Nữ bác sĩ đã có thể đưa ra một chẩn đoán rõ ràng sau các xét nghiệm."
+    },
+    {
+     "type": "translate",
+     "vi": "Nếu tôi ăn uống lành mạnh hơn thì tôi đã không bị ốm.",
+     "answers": [
+      "Wenn ich mich gesünder ernährt hätte, wäre ich nicht krank geworden.",
+      "Hätte ich mich gesünder ernährt, wäre ich nicht krank geworden."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Giá mà tôi đã đi khám bác sĩ sớm hơn!",
+     "answers": [
+      "Hätte ich doch früher einen Arzt aufgesucht!",
+      "Wäre ich doch früher zum Arzt gegangen!",
+      "Hätte ich doch bloß früher zum Arzt gegangen!"
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Lẽ ra anh ấy nên nghỉ ngơi giữ gìn sức khỏe nhiều hơn.",
+     "answers": [
+      "Er hätte sich mehr schonen sollen.",
+      "Er hätte sich mehr ausruhen sollen."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Bác sĩ đã kê cho tôi một đơn thuốc mới.",
+     "answers": [
+      "Der Arzt hat mir ein neues Rezept verschrieben.",
+      "Die Ärztin hat mir ein neues Rezept verschrieben."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Trà thảo mộc đã làm dịu các cơn đau cấp tính.",
+     "answers": [
+      "Der Kräutertee linderte die akuten Schmerzen.",
+      "Der Kräutertee hat die akuten Schmerzen gelindert."
+     ]
+    },
+    {
+     "type": "translate",
+     "vi": "Bạn nên chú ý đến chế độ ăn uống của mình.",
+     "answers": [
+      "Du solltest auf deine Ernährung achten.",
+      "Sie sollten auf Ihre Ernährung achten."
+     ]
+    },
+    {
+     "type": "listen",
+     "de": "Wenn ich damals mehr geschlafen hätte, wäre mein Immunsystem nicht so geschwächt gewesen.",
+     "vi": "Nếu hồi đó tôi ngủ nhiều hơn thì hệ miễn dịch của tôi đã không bị suy yếu như vậy."
+    },
+    {
+     "type": "listen",
+     "de": "Hätte der Patient die Packungsbeilage aufmerksam gelesen, hätte er die Nebenwirkungen gekannt.",
+     "vi": "Nếu bệnh nhân đọc kỹ tờ hướng dẫn sử dụng thì ông ấy đã biết rõ các tác dụng phụ."
+    },
+    {
+     "type": "listen",
+     "de": "Die Ärztin stellte nach gründlicher Untersuchung eine präzise Diagnose und verschrieb das Medikament.",
+     "vi": "Nữ bác sĩ sau khi khám kỹ lưỡng đã đưa ra chẩn đoán chính xác và kê đơn thuốc."
+    },
+    {
+     "type": "listen",
+     "de": "Eine schrittweise Ernährungsumstellung führt auf Dauer zu einem deutlich besseren Wohlbefinden.",
+     "vi": "Một sự thay đổi chế độ ăn uống từng bước về lâu dài sẽ đem lại cảm giác khỏe khoắn hơn rõ rệt."
+    },
+    {
+     "type": "speak",
+     "de": "Hätte ich doch bloß rechtzeitig fachärztlichen Rat eingeholt!",
+     "vi": "Giá mà tôi chịu xin lời khuyên của bác sĩ chuyên khoa kịp thời!"
+    },
+    {
+     "type": "speak",
+     "de": "Wenn ich mich ausgewogener ernährt hätte, wäre ich nicht so erschöpft gewesen.",
+     "vi": "Nếu tôi ăn uống cân đối hơn thì tôi đã không bị kiệt sức đến thế."
+    },
+    {
+     "type": "speak",
+     "de": "Man muss konsequent auf eine ausreichende Zufuhr von Nährstoffen achten.",
+     "vi": "Người ta cần phải kiên trì chú ý tới việc nạp đầy đủ các chất dinh dưỡng."
+    },
+    {
+     "type": "speak",
+     "de": "Sie hätte sich nach der schweren Grippe viel länger schonen müssen.",
+     "vi": "Lẽ ra cô ấy đã phải nghỉ ngơi tĩnh dưỡng lâu hơn nhiều sau trận cúm nặng."
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "das Wohlbefinden",
+       "cảm giác khỏe khoắn"
+      ],
+      [
+       "das Hausmittel",
+       "bài thuốc dân gian"
+      ],
+      [
+       "die Genesung",
+       "sự bình phục"
+      ],
+      [
+       "das Immunsystem",
+       "hệ miễn dịch"
+      ],
+      [
+       "die Diagnose",
+       "kết luận chẩn đoán"
+      ]
+     ]
+    },
+    {
+     "type": "match",
+     "pairs": [
+      [
+       "ärztlichen Rat einholen",
+       "xin lời khuyên bác sĩ"
+      ],
+      [
+       "auf die Ernährung achten",
+       "chú ý chế độ ăn uống"
+      ],
+      [
+       "zur Ruhe kommen",
+       "tìm lại sự tĩnh tâm"
+      ],
+      [
+       "die Zähne zusammenbeißen",
+       "cắn răng chịu đựng"
+      ],
+      [
+       "eine Diagnose stellen",
+       "đưa ra chẩn đoán"
+      ]
+     ]
+    }
+   ]
   }
  ]
 });
