@@ -56,6 +56,7 @@ window.CONTENT_FILES = [
  "units/c1-u02.js",
  "units/c1-u03.js",
  "units/c1-u04.js",
+ "units/c1-u05.js",
  "verbs/verbs-01.js",
  "verbs/verbs-02.js",
  "verbs/verbs-03.js",
