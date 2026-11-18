@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>DeutschWeg – Học tiếng Đức A1→C1</title>
+<meta name="description" content="Học tiếng Đức từ con số 0 đến C1: lộ trình CEFR, phát âm chuẩn, luyện nói có chấm điểm, ôn tập FSRS, gia sư AI.">
+<meta name="theme-color" content="#0E7C63">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231f3a8a'/%3E%3Crect x='12' y='16' width='40' height='10' rx='3' fill='%23111'/%3E%3Crect x='12' y='27' width='40' height='10' rx='3' fill='%23dd2c2c'/%3E%3Crect x='12' y='38' width='40' height='10' rx='3' fill='%23f5c400'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Lexend:wght@300;400;500;600;700&family=Noto+Sans+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <a class="brand" href="#/home">
+      <span class="flag"><i></i><i></i><i></i></span>
+      <span><b>Deutsch<span>Weg</span></b><small>A1 → C1</small></span>
+    </a>
+    <nav class="nav" id="nav">
+      <a href="#/home" data-nav="home"><span class="ico">⌂</span>Tổng quan</a>
+      <a href="#/path" data-nav="path"><span class="ico">◈</span>Lộ trình</a>
+      <a href="#/review" data-nav="review"><span class="ico">↻</span>Ôn tập <em class="badge" id="dueBadge"></em></a>
+      <a href="#/pron" data-nav="pron"><span class="ico">◉</span>Phát âm</a>
+      <div class="nav-sep">Luyện tập</div>
+      <a href="#/vocab" data-nav="vocab"><span class="ico">≡</span>Từ vựng</a>
+      <a href="#/articles" data-nav="articles"><span class="ico">◐</span>der · die · das</a>
+      <a href="#/verbs" data-nav="verbs"><span class="ico">⇄</span>Chia động từ</a>
+      <a href="#/listen" data-nav="listen"><span class="ico">♪</span>Nghe – chép</a>
+      <a href="#/shadow" data-nav="shadow"><span class="ico">◎</span>Shadowing</a>
+      <a href="#/tutor" data-nav="tutor"><span class="ico">✦</span>Gia sư AI</a>
+      <div class="nav-sep">Kho kiến thức</div>
+      <a href="#/grammar" data-nav="grammar"><span class="ico">§</span>Ngữ pháp</a>
+      <a href="#/library" data-nav="library"><span class="ico">❡</span>Thư viện đọc</a>
+      <a href="#/exams" data-nav="exams"><span class="ico">✓</span>Thi thử</a>
+      <div class="nav-sep">Hệ thống</div>
+      <a href="#/content" data-nav="content"><span class="ico">⊕</span>Nội dung & Prompt</a>
+      <a href="#/settings" data-nav="settings"><span class="ico">⚙</span>Cài đặt</a>
+    </nav>
+  </aside>
+  <main class="main">
+    <header class="topbar">
+      <button class="icon-btn only-mobile" id="menuBtn" aria-label="Menu">☰</button>
+      <div class="crumbs" id="crumbs"></div>
+      <div class="top-stats">
+        <span class="chip streak" title="Chuỗi ngày học" id="streakChip">🔥 0</span>
+        <span class="chip xp" title="XP hôm nay / mục tiêu" id="xpChip">⚡ 0</span>
+        <button class="icon-btn" id="themeBtn" title="Đổi giao diện sáng/tối" aria-label="Đổi giao diện">◑</button>
+      </div>
+    </header>
+    <section id="view" class="view" tabindex="-1"></section>
+  </main>
+</div>
+<div class="toast" id="toast"></div>
+<div class="modal" id="modal" hidden><div class="modal-card" id="modalCard"></div></div>
+
+<script src="js/db.js"></script>
+<script src="js/srs.js"></script>
+<script src="js/speech.js"></script>
+<script src="js/ai.js"></script>
+<script src="js/curriculum.js"></script>
+<script src="js/pron-data.js"></script>
+<script src="js/verbs.js"></script>
+<script src="js/prompts.js"></script>
+<script src="js/validate.js"></script>
+<script src="data/seed.js"></script>
+<script src="data/index.js"></script>
+<script src="js/app.js"></script>
+<script src="js/pages.js"></script>
+</body>
+</html>

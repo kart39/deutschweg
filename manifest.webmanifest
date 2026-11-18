@@ -1,0 +1,12 @@
+{
+  "name": "DeutschWeg – Học tiếng Đức A1→C1",
+  "short_name": "DeutschWeg",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#EAF6F0",
+  "theme_color": "#0E7C63",
+  "lang": "vi",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

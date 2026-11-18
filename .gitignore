@@ -1,0 +1,17 @@
+# Bản thô từ ChatGPT/Gemini và file làm việc – không đưa lên GitHub
+inbox/
+*.zip
+
+# Bản build để deploy (Cloudflare Pages tự build lại)
+dist/
+
+# Cấu hình máy & bí mật – không bao giờ commit
+.claude/
+.env
+.env.*
+*.key
+*.pem
+serviceAccount.json
+node_modules/
+.DS_Store
+Thumbs.db
