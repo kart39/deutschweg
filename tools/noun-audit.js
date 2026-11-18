@@ -22,10 +22,11 @@ for (const u of [...published(), ...refs.flatMap(units)]) for (const l of u.less
 
 // Hậu tố gần như không có ngoại lệ
 const RULES = [
-  [/(ung|heit|keit|schaft|ion|tät|ik|enz|anz|ei|ie|ur)$/, 'die', ['Abitur', 'Papagei', 'Brei', 'Ei', 'Genie', 'Knie', 'Abenteuer', 'Kurier', 'Blei', 'Geschrei', 'Polizei', 'Partei', 'Sprung', 'Schwung', 'Ursprung', 'Aufschwung', 'Ring', 'Ding', 'Vorsprung', 'Hering', 'Pfennig', 'Lehrling', 'Ruhm', 'Purpur', 'Flur', 'Schwur', 'Mut', 'Spion', 'Skorpion', 'Champion', 'Lion', 'Stadion', 'Ion', 'Million', 'Gymnasium', 'Plebiszit', 'Atelier', 'Studium', 'Zentrum', 'Museum', 'Ministerium', 'Datum', 'Labor', 'Motor', 'Doktor', 'Professor', 'Autor', 'Moderator', 'Kurier']],
-  [/(chen|lein)$/, 'das', []],
-  [/(ling|ismus|ant|ist)$/, 'der', ['Gift', 'List', 'Frist', 'Restaurant', 'Ambiente']],
-  [/(um|ment)$/, 'das', ['Konsum', 'Irrtum', 'Reichtum', 'Baum', 'Raum', 'Traum', 'Schaum', 'Zement', 'Moment', 'Konsument', 'Dokument', 'Student', 'Patient', 'Kunde', 'Turm', 'Sturm', 'Wurm', 'Rum', 'Saum', 'Zaum', 'Flaum']],
+  [/(ung|heit|keit|schaft|ion|tät|ik|enz|anz|ei|ie|(?<!e)ur)$/, 'die', ['Plastik', 'Abitur', 'Papagei', 'Brei', 'Ei', 'Genie', 'Knie', 'Abenteuer', 'Kurier', 'Blei', 'Geschrei', 'Polizei', 'Partei', 'Sprung', 'Schwung', 'Ursprung', 'Aufschwung', 'Ring', 'Ding', 'Vorsprung', 'Hering', 'Pfennig', 'Lehrling', 'Ruhm', 'Purpur', 'Flur', 'Schwur', 'Mut', 'Spion', 'Skorpion', 'Champion', 'Lion', 'Stadion', 'Ion', 'Million', 'Gymnasium', 'Plebiszit', 'Atelier', 'Studium', 'Zentrum', 'Museum', 'Ministerium', 'Datum', 'Labor', 'Motor', 'Doktor', 'Professor', 'Autor', 'Moderator', 'Kurier']],
+  [/(chen|lein)$/, 'das', ['Kuchen', 'Rachen', 'Drachen', 'Knochen', 'Rochen', 'Zeichen']],
+  [/(ling|ismus|ant|ist)$/, 'der', ['Gift', 'List', 'Frist', 'Restaurant', 'Ambiente', 'Mist']],
+  [/(um|ment)$/, 'das', ['Konsum', 'Irrtum', 'Reichtum', 'Baum', 'Raum', 'Traum', 'Schaum', 'Zement', 'Moment', 'Konsument', 'Turm', 'Sturm', 'Wurm', 'Rum', 'Saum', 'Zaum', 'Flaum', 'Brauchtum', 'Wachstum', 'Heiligtum']],
+  [/(eur|or)$/, 'der', ['Labor', 'Tor', 'Chor', 'Ohr', 'Rohr', 'Moor', 'Meteor', 'Dekor', 'Kontor', 'Korridor', 'Humor', 'Motor']],
 ];
 let issues = 0;
 for (const u of units(target)) for (const l of u.lessons) for (const v of l.vocab || []) {
@@ -34,8 +35,10 @@ for (const u of units(target)) for (const l of u.lessons) for (const v of l.voca
   if (r && r.article !== v.article) { issues++; console.log(`MẠO TỪ khác kho  ${l.id}: ${v.article} ${v.de}  ↔  kho đã duyệt: ${r.article} ${r.de}`); }
   else if (r && r.plural && v.plural && r.plural !== v.plural && r.plural !== '–' && v.plural !== '–') { issues++; console.log(`SỐ NHIỀU khác kho ${l.id}: ${v.de} ${v.plural}  ↔  kho: ${r.plural}`); }
   for (const [re, art, exc] of RULES) {
-    const last = v.de.split(/(?=[A-ZÄÖÜ])/).pop();       // thành tố cuối của từ ghép
-    if (re.test(last.toLowerCase()) && !exc.includes(last) && !exc.includes(v.de) && v.article !== art) {
+    const low = v.de.toLowerCase();
+    // từ ghép lấy giống của thành tố cuối: bỏ qua nếu từ kết thúc bằng một từ ngoại lệ (…raum, …frist, …traum)
+    const isException = exc.some(e => low.endsWith(e.toLowerCase()));
+    if (re.test(low) && !isException && v.article !== art) {
       issues++; console.log(`HẬU TỐ  ${l.id}: ${v.article} ${v.de} – hậu tố thường là ${art}`);
     }
   }

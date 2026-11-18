@@ -48,13 +48,27 @@ function reading(r) {
   return { ...r, title: deText(r.title), text: deText(r.text), glossary: (r.glossary || []).map(vocab),
     questions: (r.questions || []).map(q => ({ ...q, q: deText(q.q), options: q.options.map(deText) })) };
 }
+// Hội thoại: "speaker" phải là A/B (để đổi giọng đọc). Nếu AI ghi tên người → tên chuyển sang "name", người nói thứ nhất = A, thứ hai = B.
+function dialogue(list) {
+  const order = [];
+  return (list || []).map(d => {
+    const raw = String(d.speaker || '').trim();
+    let speaker = raw, name = d.name;
+    if (raw !== 'A' && raw !== 'B') {
+      if (!order.includes(raw)) order.push(raw);
+      speaker = order.indexOf(raw) % 2 === 0 ? 'A' : 'B';
+      name = name || raw;
+    }
+    return { ...d, speaker, name: deText(name), de: deText(d.de) };
+  });
+}
 function unit(u) {
   return { ...u, lessons: u.lessons.map(l => {
     const o = {
       ...l,
       theory: theory(l.theory),
       vocab: (l.vocab || []).map(vocab),
-      dialogue: (l.dialogue || []).map(d => ({ ...d, name: deText(d.name), de: deText(d.de) })),
+      dialogue: dialogue(l.dialogue),
       exercises: (l.exercises || []).map(exercise),
     };
     if (l.reading) o.reading = reading(l.reading);
