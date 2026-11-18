@@ -58,7 +58,8 @@
       if (x.type === 'mcq') {
         if (!Array.isArray(x.options) || x.options.length < 2) E(Q, 'cần ≥ 2 options');
         else if (typeof x.answer !== 'number' || x.answer < 0 || x.answer >= x.options.length) E(Q, 'answer phải là chỉ số 0..' + (x.options.length - 1));
-        else if (new Set(x.options.map(o => String(o).trim().toLowerCase())).size !== x.options.length) E(Q, 'có đáp án trùng nhau');
+        // so sánh có phân biệt hoa/thường: "Ihre" ≠ "ihre" là phương án hợp lệ khi luyện viết hoa
+        else if (new Set(x.options.map(o => String(o).trim())).size !== x.options.length) E(Q, 'có đáp án trùng nhau');
         if (!x.explain) W(Q, 'thiếu explain');
       }
       if (x.type === 'gap') {

@@ -1,5 +1,19 @@
 /* Danh sách file nội dung đã kiểm duyệt (tự cập nhật bởi tools/add-content.js). Mỗi file đẩy dữ liệu vào window.SEED. */
 window.CONTENT_FILES = [
  "units/a1-u02.js",
- "units/a1-u03.js"
+ "units/a1-u03.js",
+ "units/a1-u04.js",
+ "units/a1-u05.js",
+ "units/a1-u06.js",
+ "units/a1-u07.js",
+ "units/a1-u08.js",
+ "units/a1-u09.js",
+ "units/a1-u10.js",
+ "units/a1-u11.js",
+ "units/a1-u12.js",
+ "units/a2-u01.js",
+ "units/a2-u02.js",
+ "units/a2-u03.js",
+ "units/a2-u04.js",
+ "units/a2-u05.js"
 ];
