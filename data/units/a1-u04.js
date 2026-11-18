@@ -1280,7 +1280,7 @@
      "options": [
       "Einbauküche (bếp lắp sẵn)",
       "Einzelbett-Kabine (buồng giường đơn)",
-      "Erdgeschoss mit Balkon (tang tret co ban cong)",
+      "Erdgeschoss mit Balkon (tang tret có ban cong)",
       "Extrabreiter Keller (tầng hầm siêu rộng)"
      ],
      "answer": 0,
@@ -1887,7 +1887,7 @@
       "answer": 1
      },
      {
-      "q": "Chi tiet nao co trong tin rao?",
+      "q": "Chi tiet nao có trong tin rao?",
       "options": [
        "Căn hộ có ban công.",
        "Căn hộ không có đồ nội thất.",

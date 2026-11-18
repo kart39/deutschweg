@@ -1172,7 +1172,7 @@
     {
      "speaker": "B",
      "name": "Phong",
-     "de": "Am Vormittag habe ich von neun bis dreizehn Uhr meinen Deutschkurs. Und am Nachmittag arbeite ich im Cafe.",
+     "de": "Am Vormittag habe ich von neun bis dreizehn Uhr meinen Deutschkurs. Und am Nachmittag arbeite ich im Café.",
      "vi": "Vào buổi sáng tớ có khóa học tiếng Đức từ chín giờ đến mười ba giờ. Và vào buổi chiều tớ làm việc ở quán cà phê."
     },
     {
@@ -1219,7 +1219,7 @@
       "options": [
        "Sie sieht drei Stunden fern.",
        "Sie kauft auf dem Markt ein und schläft eine Stunde.",
-       "Sie arbeitet noch in einem Cafe."
+       "Sie arbeitet noch in einem Café."
       ],
       "answer": 1
      },

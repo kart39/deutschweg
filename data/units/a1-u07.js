@@ -127,7 +127,7 @@
      "pos": "noun",
      "ipa": "ˈkɛlnɐ",
      "vi": "nhân viên phục vụ bàn (nam)",
-     "example": "Am Wochenende arbeitet Lukas als Kellner im Cafe.",
+     "example": "Am Wochenende arbeitet Lukas als Kellner im Café.",
      "exampleVi": "Vào cuối tuần Lukas làm phục vụ bàn ở quán cà phê."
     },
     {
@@ -1309,7 +1309,7 @@
     },
     {
      "type": "gap",
-     "text": "Entschuldigung, ___ ich hier im Cafe mein Handy aufladen?",
+     "text": "Entschuldigung, ___ ich hier im Café mein Handy aufladen?",
      "answers": [
       "darf|kann"
      ],

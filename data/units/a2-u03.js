@@ -2534,7 +2534,7 @@
        "+ Akkusativ"
       ],
       [
-       "Wo? (Vị trí tĩnh)",
+       "Wo? (Vi trí tinh)",
        "+ Dativ"
       ],
       [

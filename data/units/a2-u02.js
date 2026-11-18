@@ -1964,7 +1964,7 @@
      "pos": "noun",
      "ipa": "loːn",
      "vi": "tiền công (thường tính theo giờ: der Stundenlohn)",
-     "example": "Als Student verdiene ich im Cafe vierzehn Euro Stundenlohn.",
+     "example": "Als Student verdiene ich im Café vierzehn Euro Stundenlohn.",
      "exampleVi": "Là sinh viên tôi kiếm được mười bốn Euro tiền công mỗi giờ ở quán cà phê."
     },
     {
@@ -2339,11 +2339,11 @@
    ],
    "reading": {
     "title": "Stellenanzeige und Bewerbungsschreiben",
-    "text": "STELLENANZEIGE:\nDas Cafe & Bäckerei „Sonnenblume“ in München-Schwabing sucht ab 1. Juni freundliche Mitarbeiter (m/w/d) für den Verkauf und Service (in Vollzeit oder Teilzeit, 20 Stunden/Woche).\nIhre Aufgaben: Sie verkaufen Backwaren und Kaffeespezialitäten, bedienen und beraten unsere Gäste und arbeiten an der Kasse.\nIhr Profil: Sie haben Freude am Kontakt mit Menschen, sind pünktlich, zuverlässig und sprechen gut Deutsch (mindestens Niveau A2/B1). Erfahrung in der Gastronomie ist ein Vorteil, aber keine Bedingung.\nWir bieten: Ein nettes Team, flexible Arbeitszeiten und 14,50 Euro Stundenlohn. Bewerbungen bitte per E-Mail an Herrn Thomas Richter: info@cafe-sonnenblume.de.\n\nBEWERBUNGSSCHREIBEN VON MAI PHAM:\nSehr geehrter Herr Richter,\nauf Ihrer Webseite habe ich gelesen, dass Sie ab dem 1. Juni Mitarbeiter für Ihr Cafe in Schwabing suchen. Hiermit bewerbe ich mich um die Stelle in Teilzeit (20 Stunden pro Woche).\nIch komme aus Vietnam und studiere aktuell Betriebswirtschaft an der Universität München. Weil ich am Vormittag Vorlesungen habe, kann ich am Nachmittag sowie am Wochenende sehr flexibel arbeiten. Ich glaube, dass die Arbeit in Ihrem Cafe sehr gut zu mir passt, weil ich schon ein Jahr als Kellnerin in einem Restaurant in Hanoi gearbeitet habe und gern mit Kunden spreche. Im Anhang schicke ich Ihnen meinen Lebenslauf und mein Deutsch-Zertifikat A2.\nÜber eine Einladung zu einem persönlichen Vorstellungsgespräch freue ich mich sehr.\nMit freundlichen Grüßen\nMai Pham",
+    "text": "STELLENANZEIGE:\nDas Café & Bäckerei „Sonnenblume“ in München-Schwabing sucht ab 1. Juni freundliche Mitarbeiter (m/w/d) für den Verkauf und Service (in Vollzeit oder Teilzeit, 20 Stunden/Woche).\nIhre Aufgaben: Sie verkaufen Backwaren und Kaffeespezialitäten, bedienen und beraten unsere Gäste und arbeiten an der Kasse.\nIhr Profil: Sie haben Freude am Kontakt mit Menschen, sind pünktlich, zuverlässig und sprechen gut Deutsch (mindestens Niveau A2/B1). Erfahrung in der Gastronomie ist ein Vorteil, aber keine Bedingung.\nWir bieten: Ein nettes Team, flexible Arbeitszeiten und 14,50 Euro Stundenlohn. Bewerbungen bitte per E-Mail an Herrn Thomas Richter: info@cafe-sonnenblume.de.\n\nBEWERBUNGSSCHREIBEN VON MAI PHAM:\nSehr geehrter Herr Richter,\nauf Ihrer Webseite habe ich gelesen, dass Sie ab dem 1. Juni Mitarbeiter für Ihr Café in Schwabing suchen. Hiermit bewerbe ich mich um die Stelle in Teilzeit (20 Stunden pro Woche).\nIch komme aus Vietnam und studiere aktuell Betriebswirtschaft an der Universität München. Weil ich am Vormittag Vorlesungen habe, kann ich am Nachmittag sowie am Wochenende sehr flexibel arbeiten. Ich glaube, dass die Arbeit in Ihrem Café sehr gut zu mir passt, weil ich schon ein Jahr als Kellnerin in einem Restaurant in Hanoi gearbeitet habe und gern mit Kunden spreche. Im Anhang schicke ich Ihnen meinen Lebenslauf und mein Deutsch-Zertifikat A2.\nÜber eine Einladung zu einem persönlichen Vorstellungsgespräch freue ich mich sehr.\nMit freundlichen Grüßen\nMai Pham",
     "vi": "TIN TUYỂN DỤNG:\nQuán Cà phê & Tiệm bánh mì \"Sonnenblume\" (Hoa Hướng Dương) tại München-Schwabing tìm kiếm nhân viên thân thiện (nam/nữ/khác) bắt đầu từ ngày 1 tháng 6 cho bộ phận bán hàng và phục vụ (toàn thời gian hoặc bán thời gian, 20 tiếng/tuần).\nNhiệm vụ của bạn: Bán các loại bánh nướng và cà phê đặc sản, phục vụ và tư vấn cho khách hàng cũng như làm việc tại quầy thu ngân.\nHồ sơ yêu cầu: Bạn yêu thích giao tiếp với mọi người, đúng giờ, đáng tin cậy và nói tốt tiếng Đức (tối thiểu trình độ A2/B1). Có kinh nghiệm trong ngành dịch vụ ăn uống là một lợi thế, nhưng không phải điều kiện bắt buộc.\nChúng tôi mang lại: Đội ngũ thân thiện, giờ làm việc linh hoạt và tiền công 14,50 Euro/giờ. Hồ sơ ứng tuyển xin gửi qua email cho ông Thomas Richter: info@cafe-sonnenblume.de.\n\nTHƯ XIN VIỆC CỦA MAI PHẠM:\nKính gửi ông Richter,\nTrên trang web của ông, tôi đọc được thông tin rằng từ ngày 1 tháng 6 ông đang tìm nhân viên cho quán cà phê tại Schwabing. Qua thư này tôi xin ứng tuyển vào vị trí làm bán thời gian (20 tiếng mỗi tuần).\nTôi đến từ Việt Nam và hiện đang học ngành Quản trị kinh doanh tại Đại học München. Bởi vì buổi sáng tôi có các bài giảng trên trường, nên tôi có thể làm việc rất linh hoạt vào buổi chiều cũng như vào cuối tuần. Tôi tin rằng công việc tại quán cà phê của ông rất phù hợp với tôi, bởi vì tôi đã từng làm nhân viên phục vụ bàn một năm tại một nhà hàng ở Hà Nội và rất thích trò chuyện với khách hàng. Trong tệp đính kèm tôi xin gửi ông sơ yếu lý lịch và chứng chỉ tiếng Đức A2 của mình.\nTôi rất vui mừng nếu nhận được lời mời tham dự một buổi phỏng vấn trực tiếp.\nTrân trọng kính chào,\nMai Phạm",
     "questions": [
      {
-      "q": "Was gehört zu den Aufgaben im Cafe „Sonnenblume“?",
+      "q": "Was gehört zu den Aufgaben im Café „Sonnenblume“?",
       "options": [
        "Man muss nachts in der Backstube Brot backen.",
        "Man verkauft Backwaren und Kaffee, berät die Gäste und arbeitet an der Kasse.",
@@ -2420,7 +2420,7 @@
      "options": [
       "Vào lúc 8 giờ sáng khi mới đến văn phòng.",
       "Vào cuối ngày làm việc khi tạm biệt nhau tan tầm về nhà.",
-      "Khi chuc mung ai moi sinh em be.",
+      "Khi chúc mung ai moi sinh em bé.",
       "Khi bắt đầu bữa ăn trưa ở căng-tin."
      ],
      "answer": 1,
@@ -2824,7 +2824,7 @@
      "type": "mcq",
      "q": "Tài liệu nào trong bộ hồ sơ xin việc tóm tắt quá trình học tập, bằng cấp và kinh nghiệm làm việc theo trình tự thời gian?",
      "options": [
-      "Der Lebenslauf (Sơ yếu lý lịch / CV)",
+      "Der Lebenslauf (So yeu lý lich / CV)",
       "Der Kassenbon",
       "Die Krankschreibung",
       "Der Mietvertrag"
@@ -2839,7 +2839,7 @@
       "Buổi họp giao ban đầu tuần",
       "Buổi phỏng vấn xin việc",
       "Hợp đồng lao động",
-      "Đơn xin nghỉ phép"
+      "Don xin nghi phép"
      ],
      "answer": 1,
      "explain": "„das Vorstellungsgespräch“ (hoặc Bewerbungsgespräch) là buổi phỏng vấn tuyển dụng trực tiếp giữa nhà tuyển dụng và ứng viên."

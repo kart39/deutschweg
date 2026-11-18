@@ -1735,7 +1735,7 @@
       "q": "Was hat Mia am Vormittag an Neujahr gemacht?",
       "options": [
        "Sie hat im Garten gearbeitet.",
-       "Sie ist ins Cafe gegangen.",
+       "Sie ist ins Café gegangen.",
        "Sie ist zu Hause geblieben."
       ],
       "answer": 2
@@ -2012,7 +2012,7 @@
     },
     {
      "type": "mcq",
-     "q": "Điền dạng quá khứ. {{Wir ___ gestern im Cafe.}}",
+     "q": "Điền dạng quá khứ. {{Wir ___ gestern im Café.}}",
      "options": [
       "waren",
       "wart",

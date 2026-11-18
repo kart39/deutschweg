@@ -280,7 +280,7 @@
       "Vé một chiều (chỉ lượt đi)",
       "Vé khứ hồi (cả lượt đi và lượt về)",
       "Vé tàu cao tốc hạng nhất",
-      "Vé dành cho trẻ em"
+      "Vé danh cho tre em"
      ],
      "answer": 1,
      "explain": "„hin und zurück“ nghĩa là khứ hồi (đi và về); còn vé một chiều là „einfache Fahrt“."
@@ -314,7 +314,7 @@
      "q": "Danh từ nào trái nghĩa với „die Abfahrt“ (giờ khởi hành) trên bảng thông tin ở nhà ga?",
      "options": [
       "die Ankunft (giờ đến nơi)",
-      "die Durchsage (thong bao qua loa)",
+      "die Durchsage (thong báo qua loa)",
       "die Rezeption (quầy lễ tân)",
       "die Haltestelle (tram dung)"
      ],
@@ -555,7 +555,7 @@
      "forms": "trinkt, trank, hat getrunken",
      "ipa": "ˈtʁɪŋkn̩",
      "vi": "uống (+ Akk) (Partizip II: getrunken)",
-     "example": "Im Cafe haben wir Kaffee getrunken und Kuchen gegessen.",
+     "example": "Im Café haben wir Kaffee getrunken und Kuchen gegessen.",
      "exampleVi": "Ở quán cà phê chúng tôi đã uống cà phê và ăn bánh ngọt."
     },
     {
@@ -1002,7 +1002,7 @@
      "pos": "noun",
      "ipa": "ˈɪnzl̩",
      "vi": "hòn đảo",
-     "example": "Seid ihr schon einmal auf die Insel Phu Quoc geflogen?",
+     "example": "Seid ihr schon einmal auf die Insel Phú Quoc geflogen?",
      "exampleVi": "Các bạn đã từng bay ra đảo Phú Quốc lần nào chưa?"
     },
     {

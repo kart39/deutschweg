@@ -3,9 +3,11 @@
 //  - Tên riêng tiếng Việt có dấu nằm trong văn bản TIẾNG ĐỨC → bỏ dấu (Đà Nẵng → Da Nang) để giọng Đức đọc trôi chảy.
 //    Văn bản tiếng Việt giữ nguyên. Chữ ä ö ü ß được giữ nguyên.
 const GERMAN_OK = /^[A-Za-zÄÖÜäöüß]+$/;
-const VI_MARK = /[À-ỹĐđ]/;
+// Chỉ ký tự RIÊNG của tiếng Việt (ă â ê ô ơ ư đ, dấu hỏi/ngã/nặng…). Không tính é/à… đơn thuần
+// vì từ mượn tiếng Pháp trong tiếng Đức dùng chúng (Café, Varieté, à la carte).
+const VI_MARK = /[ăâđêôơưĂÂĐÊÔƠƯãẽĩõũỹÃẼĨÕŨỸàèìòùÀÈÌÒÙẠ-ỹ]/;
 function stripVi(word) {
-  if (GERMAN_OK.test(word) || !VI_MARK.test(word)) return word;
+  if (GERMAN_OK.test(word) || !VI_MARK.test(word) || word === 'à') return word;
   const keep = { 'ä': '\u0001', 'ö': '\u0002', 'ü': '\u0003', 'Ä': '\u0004', 'Ö': '\u0005', 'Ü': '\u0006', 'ß': '\u0007' };
   let w = word.replace(/[äöüÄÖÜß]/g, c => keep[c]);
   w = w.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'D');
@@ -37,7 +39,7 @@ function exercise(x) {
   if (y.words) y.words = y.words.map(deText);
   if (y.type === 'mcq' && y.options) y.options = y.options.map(deText);
   if (y.type === 'mcq' && y.q) y.q = theory(y.q);
-  if (y.pairs) y.pairs = y.pairs.map(([a, b]) => [deText(a), b]);
+  if (y.pairs) y.pairs = y.pairs.map(p => Array.isArray(p) ? p : [p.a ?? p.de ?? p.left, p.b ?? p.vi ?? p.right]).map(([a, b]) => [deText(a), b]);
   if (y.explain) y.explain = theory(y.explain);
   return y;
 }
