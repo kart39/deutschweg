@@ -158,13 +158,17 @@ const App = (() => {
   const cardKey = v => (v.article ? v.article + ' ' : '') + v.de;
 
   function loadScript(src) {
-    return new Promise(res => { const s = document.createElement('script'); s.src = src; s.onload = res; s.onerror = () => { console.warn('Không tải được', src); res(); }; document.head.appendChild(s); });
+    // async = false: tải song song nhưng vẫn chạy đúng thứ tự
+    return new Promise(res => { const s = document.createElement('script'); s.src = src; s.async = false; s.onload = res; s.onerror = () => { console.warn('Không tải được', src); res(); }; document.head.appendChild(s); });
   }
   async function loadContent() {
     window.SEED = window.SEED || [];
     if (!loadContent.filesLoaded) {
       loadContent.filesLoaded = true;
-      for (const f of window.CONTENT_FILES || []) await loadScript('data/' + f);
+      const files = window.CONTENT_FILES || [], view = document.getElementById('view');
+      let done = 0;
+      const tick = () => { if (view) view.innerHTML = `<div class="card" style="margin:2rem auto;max-width:420px;text-align:center">Đang tải nội dung… ${++done}/${files.length}</div>`; };
+      await Promise.all(files.map(f => loadScript('data/' + f).then(tick)));
     }
     for (const k of ['units', 'lessons', 'decks', 'grammar', 'readings', 'exams', 'vocab']) C[k].clear();
     C.verbs = [];
