@@ -77,10 +77,44 @@ const Speech = (() => {
     audioMem.set(key, blob);
     return blob;
   }
-  function playBlob(blob) {
+  /* ---------- Gemini TTS (dùng chung key Gemini của Gia sư AI) ---------- */
+  function pcmToWav(b64, mime) {
+    const rate = +((/rate=(\d+)/.exec(mime || '') || [])[1] || 24000);
+    const bin = atob(b64);
+    const buf = new ArrayBuffer(44 + bin.length);
+    const v = new DataView(buf);
+    const str = (o, s) => { for (let i = 0; i < s.length; i++) v.setUint8(o + i, s.charCodeAt(i)); };
+    str(0, 'RIFF'); v.setUint32(4, 36 + bin.length, true); str(8, 'WAVE'); str(12, 'fmt ');
+    v.setUint32(16, 16, true); v.setUint16(20, 1, true); v.setUint16(22, 1, true); v.setUint32(24, rate, true);
+    v.setUint32(28, rate * 2, true); v.setUint16(32, 2, true); v.setUint16(34, 16, true); str(36, 'data'); v.setUint32(40, bin.length, true);
+    const u8 = new Uint8Array(buf, 44);
+    for (let i = 0; i < bin.length; i++) u8[i] = bin.charCodeAt(i);
+    return new Blob([buf], { type: 'audio/wav' });
+  }
+  async function geminiBlob(text, alt) {
+    const st = S();
+    const voice = alt ? (st.geminiVoiceB || 'Puck') : (st.geminiVoice || 'Kore');
+    const key = 'gem|' + voice + '|' + text;
+    let blob = audioMem.get(key) || await DB.get('audio', key);
+    if (!blob) {
+      const a = await AI.tts(text, voice);
+      blob = /wav|mpeg|mp3|ogg/.test(a.mimeType || '') ? new Blob([Uint8Array.from(atob(a.data), c => c.charCodeAt(0))], { type: a.mimeType }) : pcmToWav(a.data, a.mimeType);
+      DB.put('audio', blob, key).catch(() => {});
+    }
+    audioMem.set(key, blob);
+    return blob;
+  }
+  // Dùng Gemini khi người dùng chọn, hoặc tự động khi trình duyệt không có giọng tiếng Đức nào (tránh đọc tiếng Đức bằng giọng Anh)
+  const noGermanVoice = () => S().ttsEngine === 'browser' && 'speechSynthesis' in window && !voices.length && speechSynthesis.getVoices().length > 0;
+  const geminiTtsReady = () => AI.geminiReady() && (S().ttsEngine === 'gemini' || noGermanVoice());
+  let warned = false;
+
+  function playBlob(blob, rate = 1) {
     return new Promise((resolve, reject) => {
       const url = URL.createObjectURL(blob);
       const a = new Audio(url);
+      a.playbackRate = rate;
+      a.preservesPitch = true;
       currentAudio = a;
       a.onended = () => { URL.revokeObjectURL(url); resolve(); };
       a.onpause = () => resolve();
@@ -96,6 +130,11 @@ const Speech = (() => {
     if (!text) return;
     stop();
     const rate = opts.rate || (opts.slow ? S().slowRate : S().rate);
+    if (geminiTtsReady()) {
+      // Gemini đọc ở tốc độ tự nhiên; nút "chậm" chỉnh tốc độ phát (giữ cao độ) → mỗi câu chỉ gọi API một lần
+      try { return await playBlob(await geminiBlob(text, opts.alt), opts.slow ? Math.max(0.5, S().slowRate / 0.95) : Math.max(0.6, S().rate / 0.95)); }
+      catch (e) { console.warn(e); if (window.App && !warned) { warned = true; App.toast('Gemini TTS lỗi: ' + e.message.slice(0, 80) + ' → dùng giọng trình duyệt'); } }
+    }
     if (azureReady()) {
       try { return await playBlob(await azureBlob(text, rate, opts.alt)); }
       catch (e) { console.warn(e); if (window.App) App.toast('Azure lỗi – chuyển sang giọng trình duyệt'); }
@@ -190,6 +229,17 @@ const Speech = (() => {
       fluency: Math.round(pa.FluencyScore ?? 0), completeness: Math.round(pa.CompletenessScore ?? 0), heard: nb.Display || j.DisplayText || '', words };
   }
 
+  /* ---------- Chấm phát âm bằng Gemini (nghe file ghi âm, chấm từng từ) ---------- */
+  async function geminiAssess(blob, reference) {
+    const wav = await toWav16k(blob);
+    const b64 = await new Promise((res, rej) => { const fr = new FileReader(); fr.onload = () => res(String(fr.result).split(',')[1]); fr.onerror = rej; fr.readAsDataURL(wav); });
+    const j = await AI.assess(b64, reference);
+    return {
+      engine: 'gemini', score: Math.max(0, Math.min(100, Math.round(+j.score || 0))), heard: j.heard || '', tips: j.tips_vi || '',
+      words: (j.words || []).map(w => ({ word: w.word, score: Math.round(+w.score || 0), issue: w.issue || '' })),
+    };
+  }
+
   /* ---------- So khớp văn bản (dùng cho STT miễn phí & chấm câu gõ) ---------- */
   const NUM = { 0: 'null', 1: 'eins', 2: 'zwei', 3: 'drei', 4: 'vier', 5: 'fünf', 6: 'sechs', 7: 'sieben', 8: 'acht', 9: 'neun', 10: 'zehn', 11: 'elf', 12: 'zwölf', 13: 'dreizehn', 14: 'vierzehn', 15: 'fünfzehn', 16: 'sechzehn', 17: 'siebzehn', 18: 'achtzehn', 19: 'neunzehn', 20: 'zwanzig' };
   function tokens(s) {
@@ -242,7 +292,7 @@ const Speech = (() => {
   }
 
   return {
-    speak, stop, listen, record, azureAssess, align, tokens, lev, fold, loadVoices,
+    speak, stop, listen, record, azureAssess, geminiAssess, align, tokens, lev, fold, loadVoices, pcmToWav,
     get voices() { return voices; },
     get sttSupported() { return sttSupported; },
     azureReady, scoreVoice,

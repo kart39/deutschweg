@@ -271,7 +271,9 @@ const App = (() => {
   function scoreLabel(s) { return s >= 90 ? 'Xuất sắc! 🌟' : s >= 80 ? 'Rất tốt! 👏' : s >= 60 ? 'Khá – luyện thêm chút nữa' : 'Cần luyện thêm 💪'; }
   /** Gắn widget luyện nói vào host. onResult({score}) */
   function pronWidget(host, ref, onResult, opts = {}) {
-    const azure = !!(set().azureKey && set().azureRegion);
+    const azureOn = !!(set().azureKey && set().azureRegion);
+    const geminiOn = !azureOn && AI.geminiReady() && set().pronEngine !== 'stt';
+    const azure = azureOn || geminiOn;   // cả hai dùng chế độ: bấm để ghi – bấm lần nữa để chấm
     host.innerHTML = `
       <div class="row" style="gap:14px">
         <button class="mic-btn" type="button" title="Bấm để nói" aria-label="Ghi âm">🎤</button>
@@ -285,6 +287,10 @@ const App = (() => {
 
     function showResult(r) {
       const words = r.words.map(w => {
+        if (r.engine === 'gemini') {
+          const cls = w.score >= 80 ? 'w-ok' : w.score >= 60 ? 'w-close' : 'w-bad';
+          return `<span class="${cls}" style="text-decoration:none" title="${w.score}/100${w.issue ? ' · ' + esc(w.issue) : ''}">${esc(w.word)}</span>`;
+        }
         if (r.engine === 'azure') {
           const cls = w.error === 'Omission' ? 'w-miss' : w.score >= 80 ? 'w-ok' : w.score >= 60 ? 'w-close' : 'w-bad';
           const tip = w.phonemes && w.phonemes.length ? w.phonemes.map(p => `${p.p}:${p.score}`).join(' ') : '';
@@ -302,7 +308,9 @@ const App = (() => {
         </div>
         <div class="diff" style="margin-top:10px;font-size:1.15rem">${words}</div>
         ${r.heard ? `<div class="small muted" style="margin-top:6px">Máy nghe được: „${esc(r.heard)}“</div>` : ''}
-        ${r.engine === 'azure' ? '<div class="small muted">Rê chuột lên từng từ để xem điểm từng âm.</div>' : '<div class="small muted" style="margin-top:4px">Chấm theo mức máy hiểu được bạn nói. Muốn chấm chi tiết từng âm vị: thêm Azure Speech key trong Cài đặt.</div>'}`;
+        ${r.engine === 'gemini' ? `${r.words.filter(w => w.issue).length ? `<ul class="small" style="margin:8px 0 0">${r.words.filter(w => w.issue).map(w => `<li><b>${esc(w.word)}</b> (${w.score}): ${esc(w.issue)}</li>`).join('')}</ul>` : ''}
+          ${r.tips ? `<div class="notice small" style="margin-top:8px">💡 ${esc(r.tips)}</div>` : ''}<div class="small muted" style="margin-top:4px">Chấm bởi Gemini (nghe trực tiếp giọng bạn).</div>`
+        : r.engine === 'azure' ? '<div class="small muted">Rê chuột lên từng từ để xem điểm từng âm.</div>' : '<div class="small muted" style="margin-top:4px">Chấm theo mức máy hiểu được bạn nói. Muốn chấm chi tiết từng âm: chọn chấm bằng Gemini hoặc Azure trong Cài đặt.</div>'}`;
       const rp = $('.pw-replay', res);
       if (rp) rp.onclick = () => { const a = new Audio(URL.createObjectURL(lastBlob)); a.play(); };
       onResult && onResult(r);
@@ -319,7 +327,7 @@ const App = (() => {
           return;
         }
         mic.classList.remove('rec'); busy = true; status.textContent = 'Đang chấm điểm…';
-        try { lastBlob = await recording.stop(); recording = null; showResult(await Speech.azureAssess(lastBlob, ref)); status.textContent = 'Bấm 🎤 để thử lại'; }
+        try { lastBlob = await recording.stop(); recording = null; showResult(await (azureOn ? Speech.azureAssess(lastBlob, ref) : Speech.geminiAssess(lastBlob, ref))); status.textContent = 'Bấm 🎤 để thử lại'; }
         catch (e) { status.textContent = e.message; }
         finally { busy = false; recording = null; }
         return;
@@ -1007,6 +1015,8 @@ const App = (() => {
   };
 
   /* ================= Cài đặt ================= */
+  const GEMINI_VOICES = [['Kore', 'nữ, chắc, rõ ràng'], ['Puck', 'nam, vui tươi'], ['Charon', 'nam, trầm, thông tin'], ['Aoede', 'nữ, nhẹ nhàng'], ['Leda', 'nữ, trẻ trung'],
+    ['Fenrir', 'nam, hào hứng'], ['Orus', 'nam, chắc chắn'], ['Zephyr', 'nữ, tươi sáng'], ['Achernar', 'nữ, mềm'], ['Iapetus', 'nam, rõ ràng'], ['Sulafat', 'nữ, ấm'], ['Schedar', 'nam, đều đặn']];
   const AZURE_VOICES = ['de-DE-KatjaNeural', 'de-DE-ConradNeural', 'de-DE-SeraphinaMultilingualNeural', 'de-DE-FlorianMultilingualNeural', 'de-DE-AmalaNeural', 'de-DE-KillianNeural', 'de-DE-LouisaNeural', 'de-DE-BerndNeural', 'de-AT-IngridNeural', 'de-AT-JonasNeural', 'de-CH-LeniNeural', 'de-CH-JanNeural'];
   routes.settings = () => {
     crumbs([['Cài đặt']]);
@@ -1015,8 +1025,14 @@ const App = (() => {
     const vOpts = sel => `<option value="">Tự chọn giọng tốt nhất</option>` + vs.map(v => `<option value="${esc(v.name)}" ${v.name === sel ? 'selected' : ''}>${esc(v.name)} (${v.lang})${Speech.scoreVoice(v) >= 50 ? ' ★' : ''}</option>`).join('');
     view.innerHTML = `<h1>Cài đặt</h1>
       <div class="card"><h2>🔊 Giọng đọc</h2>
-        <label class="field"><span>Bộ máy đọc</span><select class="input" id="sEngine"><option value="browser">Giọng của trình duyệt (miễn phí)</option><option value="azure" ${st.ttsEngine === 'azure' ? 'selected' : ''}>Azure Neural TTS (chuẩn nhất – cần key)</option></select></label>
-        <div class="notice small" style="margin-bottom:12px">${vs.length ? `Tìm thấy ${vs.length} giọng tiếng Đức. ★ = giọng neural tự nhiên.` : 'Chưa thấy giọng tiếng Đức. Hãy dùng <b>Microsoft Edge</b> (có giọng Katja/Conrad/Seraphina Natural rất chuẩn) hoặc Chrome (Google Deutsch).'} Gợi ý: Edge cho chất lượng giọng miễn phí tốt nhất.</div>
+        <label class="field"><span>Bộ máy đọc</span><select class="input" id="sEngine"><option value="browser">Giọng của trình duyệt (miễn phí)</option><option value="gemini" ${st.ttsEngine === 'gemini' ? 'selected' : ''}>Gemini TTS – giọng AI tự nhiên (dùng key Gemini)</option><option value="azure" ${st.ttsEngine === 'azure' ? 'selected' : ''}>Azure Neural TTS (cần key Azure)</option></select></label>
+        <div class="notice small" style="margin-bottom:12px">${vs.length ? `Trình duyệt có ${vs.length} giọng tiếng Đức. ★ = giọng neural tự nhiên.` : `Trình duyệt này <b>không có giọng tiếng Đức</b>. ${AI.geminiReady() ? 'Hãy chọn <b>Gemini TTS</b> ở trên (đã có key Gemini).' : 'Hãy nhập key Gemini ở mục Gia sư AI rồi chọn <b>Gemini TTS</b>, hoặc mở web bằng <b>Microsoft Edge</b>.'}`}</div>
+        <div class="grid g3" id="gemBox" ${st.ttsEngine === 'gemini' ? '' : 'hidden'}>
+          <label class="field"><span>Giọng Gemini chính</span><select class="input" id="sGemV">${GEMINI_VOICES.map(([v, d]) => `<option value="${v}" ${v === st.geminiVoice ? 'selected' : ''}>${v} – ${d}</option>`).join('')}</select></label>
+          <label class="field"><span>Giọng Gemini thứ 2 (hội thoại)</span><select class="input" id="sGemV2">${GEMINI_VOICES.map(([v, d]) => `<option value="${v}" ${v === st.geminiVoiceB ? 'selected' : ''}>${v} – ${d}</option>`).join('')}</select></label>
+          <label class="field"><span>Model TTS (để trống = mặc định)</span><input class="input" id="sTtsM" value="${esc(st.ttsModel)}" placeholder="${AI.DEFAULT_TTS}"></label>
+        </div>
+        <label class="field"><span>Chấm điểm phát âm</span><select class="input" id="sPron"><option value="auto">Tự động: Azure nếu có key → Gemini nếu có key → nhận dạng giọng nói miễn phí</option><option value="gemini" ${st.pronEngine === 'gemini' ? 'selected' : ''}>Gemini (nghe giọng bạn, chấm từng từ, nhận xét tiếng Việt)</option><option value="stt" ${st.pronEngine === 'stt' ? 'selected' : ''}>Nhận dạng giọng nói của trình duyệt (miễn phí, nhanh)</option></select></label>
         <div class="grid g2"><label class="field"><span>Giọng chính</span><select class="input" id="sVoice">${vOpts(st.voice)}</select></label>
         <label class="field"><span>Giọng thứ 2 (hội thoại)</span><select class="input" id="sVoiceB">${vOpts(st.voiceB)}</select></label></div>
         <div class="grid g2"><label class="field"><span>Tốc độ thường: <b id="rv">${st.rate}</b></span><input type="range" id="sRate" min="0.6" max="1.2" step="0.05" value="${st.rate}" style="width:100%"></label>
@@ -1043,7 +1059,9 @@ const App = (() => {
       <div class="card"><h2>💾 Dữ liệu</h2><p class="small muted">Tiến độ lưu trong trình duyệt này. Hãy sao lưu định kỳ.</p>
         <div class="row"><button class="btn" id="bExp">⬇ Sao lưu tiến độ</button><label class="btn">⬆ Khôi phục<input type="file" id="bImp" accept=".json" hidden></label><button class="btn bad" id="bReset">Xoá toàn bộ tiến độ</button></div></div>`;
     const bind = (id, key, conv = v => v, ev = 'change') => { $('#' + id)[ev === 'input' ? 'oninput' : 'onchange'] = e => { st[key] = conv(e.target.type === 'checkbox' ? e.target.checked : e.target.value); Store.save(); }; };
-    bind('sEngine', 'ttsEngine'); bind('sVoice', 'voice'); bind('sVoiceB', 'voiceB');
+    bind('sVoice', 'voice'); bind('sVoiceB', 'voiceB');
+    $('#sEngine').onchange = e => { st.ttsEngine = e.target.value; Store.save(); $('#gemBox').hidden = st.ttsEngine !== 'gemini'; if (st.ttsEngine === 'gemini' && !AI.geminiReady()) toast('Cần nhập key Gemini ở mục Gia sư AI bên dưới'); };
+    bind('sGemV', 'geminiVoice'); bind('sGemV2', 'geminiVoiceB'); bind('sTtsM', 'ttsModel', v => v.trim(), 'input'); bind('sPron', 'pronEngine');
     $('#sRate').oninput = e => { st.rate = +e.target.value; $('#rv').textContent = st.rate; Store.save(); };
     $('#sSlow').oninput = e => { st.slowRate = +e.target.value; $('#srv').textContent = st.slowRate; Store.save(); };
     bind('sAzKey', 'azureKey', v => v.trim(), 'input'); bind('sAzReg', 'azureRegion', v => v.trim(), 'input'); bind('sAzV', 'azureVoice'); bind('sAzV2', 'azureVoiceB');

@@ -57,7 +57,9 @@ const Store = (() => {
     articleStats: { right: 0, total: 0 },
     settings: {
       theme: 'auto',
-      ttsEngine: 'browser',     // 'browser' | 'azure'
+      ttsEngine: 'browser',     // 'browser' | 'gemini' | 'azure'
+      geminiVoice: 'Kore', geminiVoiceB: 'Puck', ttsModel: '',
+      pronEngine: 'auto',       // 'auto' | 'gemini' | 'stt'  (Azure luôn được ưu tiên nếu có key)
       voice: '',                // tên giọng trình duyệt
       voiceB: '',               // giọng thứ 2 cho hội thoại
       rate: 0.95,
