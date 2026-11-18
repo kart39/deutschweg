@@ -6,8 +6,10 @@ node server.js
 ```
 Mở http://localhost:5173 bằng **Microsoft Edge** (giọng đọc tiếng Đức Natural miễn phí tốt nhất) hoặc Chrome. Mở trực tiếp `index.html` cũng chạy được.
 
-## Đưa lên mạng (Cloudflare Pages, giống hoccungkart)
-Repo GitHub để **Private**. Trên Cloudflare → Workers & Pages → Create → Pages → Connect to Git → chọn repo này:
+## Đưa lên mạng
+**GitHub Pages (đang dùng):** repo public, Settings → Pages → Source: **GitHub Actions**. Mỗi lần đẩy lên `main`, workflow `.github/workflows/pages.yml` tự build `dist/` và xuất bản tại https://kart39.github.io/deutschweg/
+
+**Hoặc Cloudflare Pages** (repo có thể để private): Workers & Pages → Create → Pages → Connect to Git → chọn repo này:
 - Build command: `node tools/build-site.js`
 - Build output directory: `dist`
 
