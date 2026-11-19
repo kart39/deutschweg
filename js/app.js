@@ -80,7 +80,7 @@ const App = (() => {
   function md(src) {
     const lines = esc(src || '').split(/\r?\n/);
     const out = [];
-    const isBlock = l => /^(#{1,4}\s|\s*\||&gt;|\s*[-*•]\s|\s*\d+[.)]\s)/.test(l);
+    const isBlock = l => /^(#{1,4}\s|\s*\||&gt;|\s*[-*•]\s|\s*\d+[.)]\s|\s*```)/.test(l);
     let i = 0;
     while (i < lines.length) {
       const l = lines[i];
