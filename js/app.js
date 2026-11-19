@@ -104,6 +104,14 @@ const App = (() => {
       if (/^&gt;/.test(l)) {
         const b = [];
         while (i < lines.length && /^&gt;/.test(lines[i])) b.push(lines[i++].replace(/^&gt;\s?/, ''));
+        // Hộp ghi chú kiểu GitHub: > [!NOTE] / [!IMPORTANT] / [!TIP] / [!WARNING] / [!CAUTION]
+        const CALLOUT = { NOTE: 'Lưu ý', TIP: 'Mẹo', IMPORTANT: 'Quan trọng', WARNING: 'Chú ý', CAUTION: 'Cẩn thận' };
+        const m = /^\[!(\w+)\]\s*/.exec(b[0] || '');
+        if (m && CALLOUT[m[1].toUpperCase()]) {
+          b[0] = b[0].slice(m[0].length);
+          const body = b.filter((x, k) => k > 0 || x.trim()).map(inline).join('<br>');
+          out.push(`<blockquote><strong>${CALLOUT[m[1].toUpperCase()]}:</strong> ${body}</blockquote>`); continue;
+        }
         out.push(`<blockquote>${b.map(inline).join('<br>')}</blockquote>`); continue;
       }
       if (/^\s*[-*•]\s+/.test(l)) {
