@@ -40,7 +40,7 @@
    "article": "die",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔɛltɐn",
+   "ipa": "ˈɛltɐn",
    "vi": "bố mẹ, phụ huynh (chỉ dùng số nhiều)",
    "example": "Meine Eltern wohnen auf dem Land.",
    "exampleVi": "Bố mẹ tôi sống ở nông thôn."
@@ -140,7 +140,7 @@
    "article": "der",
    "plural": "Opas",
    "pos": "noun",
-   "ipa": "ˈʔoːpa",
+   "ipa": "ˈoːpa",
    "vi": "ông (thân mật)",
    "example": "Mein Opa spielt mit den Kindern.",
    "exampleVi": "Ông tôi chơi với lũ trẻ."
@@ -150,7 +150,7 @@
    "article": "die",
    "plural": "Omas",
    "pos": "noun",
-   "ipa": "ˈʔoːma",
+   "ipa": "ˈoːma",
    "vi": "bà (thân mật)",
    "example": "Oma backt einen Kuchen.",
    "exampleVi": "Bà nướng bánh ngọt."
@@ -160,7 +160,7 @@
    "article": "der",
    "plural": "Enkel",
    "pos": "noun",
-   "ipa": "ˈʔɛŋkl̩",
+   "ipa": "ˈɛŋkl̩",
    "vi": "cháu (nội/ngoại, trai)",
    "example": "Der Großvater liebt seinen Enkel sehr.",
    "exampleVi": "Người ông rất yêu cháu trai của mình."
@@ -170,7 +170,7 @@
    "article": "die",
    "plural": "Enkelinnen",
    "pos": "noun",
-   "ipa": "ˈʔɛŋkəlɪn",
+   "ipa": "ˈɛŋkəlɪn",
    "vi": "cháu (nội/ngoại, gái)",
    "example": "Sie hat zwei Enkelinnen.",
    "exampleVi": "Bà ấy có hai đứa cháu gái."
@@ -180,7 +180,7 @@
    "article": "der",
    "plural": "Onkel",
    "pos": "noun",
-   "ipa": "ˈʔɔŋkl̩",
+   "ipa": "ˈɔŋkl̩",
    "vi": "chú, bác, cậu",
    "example": "Mein Onkel wohnt in Hue.",
    "exampleVi": "Chú tôi sống ở Huế."
@@ -240,7 +240,7 @@
    "article": "der",
    "plural": "Ehemänner",
    "pos": "noun",
-   "ipa": "ˈʔeːəˌman",
+   "ipa": "ˈeːəˌman",
    "vi": "người chồng hợp pháp",
    "example": "Ihr Ehemann ist sehr freundlich.",
    "exampleVi": "Chồng cô ấy rất thân thiện."
@@ -250,7 +250,7 @@
    "article": "die",
    "plural": "Ehefrauen",
    "pos": "noun",
-   "ipa": "ˈʔeːəˌfʁaʊ̯",
+   "ipa": "ˈeːəˌfʁaʊ̯",
    "vi": "người vợ hợp pháp",
    "example": "Er reist oft mit seiner Ehefrau.",
    "exampleVi": "Anh ấy thường đi du lịch cùng vợ."
@@ -260,7 +260,7 @@
    "article": "das",
    "plural": "Ehepaare",
    "pos": "noun",
-   "ipa": "ˈʔeːəˌpaːɐ̯",
+   "ipa": "ˈeːəˌpaːɐ̯",
    "vi": "cặp vợ chồng",
    "example": "Das junge Ehepaar sucht eine Wohnung.",
    "exampleVi": "Cặp vợ chồng trẻ đang tìm một căn hộ."
@@ -380,7 +380,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔaltɐ",
+   "ipa": "ˈaltɐ",
    "vi": "tuổi tác",
    "example": "Im Alter von 20 Jahren ging er nach Deutschland.",
    "exampleVi": "Ở tuổi 20, anh ấy đã sang Đức."
@@ -460,7 +460,7 @@
    "article": "die",
    "plural": "Adressen",
    "pos": "noun",
-   "ipa": "ʔaˈdʁɛsə",
+   "ipa": "aˈdʁɛsə",
    "vi": "địa chỉ",
    "example": "Geben Sie mir bitte Ihre Adresse.",
    "exampleVi": "Làm ơn cho tôi xin địa chỉ của ngài."
@@ -632,7 +632,7 @@
   {
    "de": "alt",
    "pos": "adj",
-   "ipa": "ʔalt",
+   "ipa": "alt",
    "vi": "già, cũ, độ tuổi",
    "example": "Wie alt bist du? – Ich bin 25 Jahre alt.",
    "exampleVi": "Bạn bao nhiêu tuổi? – Tôi 25 tuổi."
@@ -664,7 +664,7 @@
   {
    "de": "allein",
    "pos": "adv",
-   "ipa": "ʔaˈlaɪ̯n",
+   "ipa": "aˈlaɪ̯n",
    "vi": "một mình, đơn độc",
    "example": "Wohnst du allein oder in einer WG?",
    "exampleVi": "Bạn sống một mình hay ở trọ chung?"
@@ -696,7 +696,7 @@
   {
    "de": "Guten Abend",
    "pos": "phrase",
-   "ipa": "ˌɡuːtn̩ ˈʔaːbn̩t",
+   "ipa": "ˌɡuːtn̩ ˈaːbn̩t",
    "vi": "chào buổi tối",
    "example": "Guten Abend allerseits!",
    "exampleVi": "Chào buổi tối tất cả mọi người!"
@@ -704,7 +704,7 @@
   {
    "de": "Auf Wiedersehen",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f ˈviːdɐˌzeːən",
+   "ipa": "aʊ̯f ˈviːdɐˌzeːən",
    "vi": "tạm biệt (trang trọng)",
    "example": "Vielen Dank und auf Wiedersehen!",
    "exampleVi": "Cảm ơn nhiều và xin tạm biệt!"

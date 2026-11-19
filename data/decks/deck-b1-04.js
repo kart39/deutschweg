@@ -70,7 +70,7 @@
    "article": "die",
    "plural": "Anzeigen",
    "pos": "noun",
-   "ipa": "ˈʔanˌtsaɪ̯ɡə",
+   "ipa": "ˈanˌtsaɪ̯ɡə",
    "vi": "mẩu quảng cáo rao vặt trên báo/mạng",
    "example": "Er schaltete eine farbige Anzeige in der lokalen Tageszeitung.",
    "exampleVi": "Anh ấy đã đăng một mẩu quảng cáo màu trên tờ nhật báo địa phương."
@@ -280,7 +280,7 @@
    "article": "der",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔʊmˌtaʊ̯ʃ",
+   "ipa": "ˈʊmˌtaʊ̯ʃ",
    "vi": "sự đổi lấy sản phẩm khác",
    "example": "Der Umtausch reduzierter Ware ist in manchen Läden ausgeschlossen.",
    "exampleVi": "Việc đổi hàng giảm giá ở một số cửa tiệm là không áp dụng."
@@ -328,7 +328,7 @@
    "de": "umtauschen",
    "forms": "tauscht um, tauschte um, hat umgetauscht",
    "pos": "verb",
-   "ipa": "ˈʔʊmˌtaʊ̯ʃn̩",
+   "ipa": "ˈʊmˌtaʊ̯ʃn̩",
    "vi": "đổi lấy hàng khác (+ Akk)",
    "example": "Die Schuhe waren zu eng, deshalb tauschte er sie gegen eine Nummer größer um.",
    "exampleVi": "Đôi giày quá chật nên anh đã đổi lấy đôi cỡ to hơn một số."
@@ -472,7 +472,7 @@
   {
    "de": "eine Beschwerde einreichen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə bəˈʃveːɐ̯də ˈʔaɪ̯nˌʁaɪ̯çn̩",
+   "ipa": "ˈaɪ̯nə bəˈʃveːɐ̯də ˈaɪ̯nˌʁaɪ̯çn̩",
    "vi": "nộp đơn khiếu nại chính thức",
    "example": "Wegen des defekten Geräts reichte der Kunde eine schriftliche Beschwerde ein.",
    "exampleVi": "Vì thiết bị bị lỗi khách hàng đã nộp đơn khiếu nại bằng văn bản."
@@ -496,7 +496,7 @@
   {
    "de": "die Garantie in Anspruch nehmen",
    "pos": "phrase",
-   "ipa": "diː ɡaʁanˈtiː ʔɪn ˈʔanʃpʁʊx ˈneːmən",
+   "ipa": "diː ɡaʁanˈtiː ɪn ˈanʃpʁʊx ˈneːmən",
    "vi": "sử dụng quyền lợi bảo hành",
    "example": "Innerhalb der Garantiezeit kann man den kostenlosen Reparaturservice nutzen.",
    "exampleVi": "Trong thời hạn bảo hành người ta có thể dùng dịch vụ sửa chữa miễn phí."
@@ -504,7 +504,7 @@
   {
    "de": "einen Rabatt gewähren",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən ʁaˈbat ɡəˈveːʁən",
+   "ipa": "ˈaɪ̯nən ʁaˈbat ɡəˈveːʁən",
    "vi": "áp dụng mức chiết khấu giảm giá",
    "example": "Bei Abnahme größerer Mengen gewährt der Großhändler einen Rabatt.",
    "exampleVi": "Khi mua số lượng lớn nhà bán buôn áp dụng mức chiết khấu giảm giá."
@@ -520,7 +520,7 @@
   {
    "de": "auf Lager sein",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f ˈlaːɡɐ zaɪ̯n",
+   "ipa": "aʊ̯f ˈlaːɡɐ zaɪ̯n",
    "vi": "còn sẵn hàng trong kho",
    "example": "Der gewünschte Artikel in Größe M ist glücklicherweise noch auf Lager.",
    "exampleVi": "Món đồ mong muốn ở cỡ M may mắn là vẫn còn sẵn trong kho."
@@ -528,7 +528,7 @@
   {
    "de": "ausverkauft sein",
    "pos": "phrase",
-   "ipa": "ˈʔaʊ̯sfɛɐ̯ˌkaʊ̯ft zaɪ̯n",
+   "ipa": "ˈaʊ̯sfɛɐ̯ˌkaʊ̯ft zaɪ̯n",
    "vi": "đã bán sạch nhẵn, hết hàng",
    "example": "Dieses Modell war leider schon nach wenigen Stunden restlos ausverkauft.",
    "exampleVi": "Mẫu này tiếc là chỉ sau vài tiếng đã bán sạch nhẵn không còn chiếc nào."
@@ -536,7 +536,7 @@
   {
    "de": "im Angebot sein",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈʔanɡəˌboːt zaɪ̯n",
+   "ipa": "ɪm ˈanɡəˌboːt zaɪ̯n",
    "vi": "đang có đợt bán hạ giá khuyến mãi",
    "example": "Frischer Kaffee ist diese Woche im Supermarkt im Sonderangebot.",
    "exampleVi": "Cà phê tươi tuần này đang có đợt khuyến mãi giá hời ở siêu thị."
@@ -544,7 +544,7 @@
   {
    "de": "ein Schnäppchen machen",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈʃnɛpçən ˈmaxn̩",
+   "ipa": "aɪ̯n ˈʃnɛpçən ˈmaxn̩",
    "vi": "mua được món hời giá rẻ",
    "example": "Beim Winterschlussverkauf konnte sie ein tolles Schnäppchen machen.",
    "exampleVi": "Vào đợt xả hàng cuối đông cô đã mua được một món hời tuyệt vời."
@@ -568,7 +568,7 @@
   {
    "de": "einen Gutschein einlösen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən ˈɡuːtˌʃaɪ̯n ˈʔaɪ̯nˌløːzn̩",
+   "ipa": "ˈaɪ̯nən ˈɡuːtˌʃaɪ̯n ˈaɪ̯nˌløːzn̩",
    "vi": "sử dụng áp dụng phiếu giảm giá",
    "example": "Sie löste ihren fünfzig-Euro-Gutschein für den Kauf eines neuen Mantels ein.",
    "exampleVi": "Cô ấy đã dùng phiếu quà tặng 50 euro để mua một chiếc áo măng-tô mới."
@@ -584,7 +584,7 @@
   {
    "de": "ein Urteil fällen",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈʔuːɐ̯taɪ̯l ˈfɛlən",
+   "ipa": "aɪ̯n ˈuːɐ̯taɪ̯l ˈfɛlən",
    "vi": "đưa ra phán quyết, đánh giá",
    "example": "Bevor Sie ein voreiliges Urteil fällen, testen Sie das Produkt selbst.",
    "exampleVi": "Trước khi đưa ra đánh giá vội vàng hãy tự mình trải nghiệm sản phẩm."
@@ -642,7 +642,7 @@
    "article": "der",
    "plural": "Einkaufszettel",
    "pos": "noun",
-   "ipa": "ˈʔaɪ̯nkaʊ̯fsˌtsɛtl̩",
+   "ipa": "ˈaɪ̯nkaʊ̯fsˌtsɛtl̩",
    "vi": "mẩu giấy ghi danh sách đồ cần mua",
    "example": "Schreiben Sie vor dem Gang in den Laden einen strikten Einkaufszettel.",
    "exampleVi": "Hãy viết một danh sách mua sắm nghiêm ngặt trước khi bước vào cửa hàng."
@@ -650,7 +650,7 @@
   {
    "de": "einwandfrei",
    "pos": "adj",
-   "ipa": "ˈʔaɪ̯nvantˌfʁaɪ̯",
+   "ipa": "ˈaɪ̯nvantˌfʁaɪ̯",
    "vi": "hoàn hảo không tì vết",
    "example": "Das Ersatzgerät funktionierte nach dem Austausch vollkommen einwandfrei.",
    "exampleVi": "Chiếc máy đổi mới đã hoạt động hoàn hảo không chút tì vết."
@@ -668,7 +668,7 @@
   {
    "de": "Vielen Dank für Ihren Einkauf!",
    "pos": "phrase",
-   "ipa": "ˈfiːlən ˈdaŋk fyːɐ̯ ˈʔiːʁən ˈʔaɪ̯nˌkaʊ̯f",
+   "ipa": "ˈfiːlən ˈdaŋk fyːɐ̯ ˈiːʁən ˈaɪ̯nˌkaʊ̯f",
    "vi": "cảm ơn quý khách đã mua sắm!",
    "example": "Hier ist Ihr Wechselgeld. Vielen Dank für Ihren Einkauf und beehren Sie uns bald wieder!",
    "exampleVi": "Đây là tiền thừa của quý khách. Cảm ơn đã mua sắm và xin hẹn sớm gặp lại!"
@@ -676,7 +676,7 @@
   {
    "de": "Wie kann ich Ihnen helfen?",
    "pos": "phrase",
-   "ipa": "viː kan ʔɪç ˈʔiːnən ˈhɛlfn̩",
+   "ipa": "viː kan ɪç ˈiːnən ˈhɛlfn̩",
    "vi": "tôi có thể giúp gì cho quý khách?",
    "example": "Guten Tag, wie kann ich Ihnen heute behilflich sein?",
    "exampleVi": "Xin kính chào, tôi có thể hỗ trợ gì cho quý khách hôm nay ạ?"
@@ -684,7 +684,7 @@
   {
    "de": "Ich möchte diesen Artikel reklamieren",
    "pos": "phrase",
-   "ipa": "ʔɪç ˈmœçtə ˈdiːzn̩ ʔaʁˈtiːkl̩ ʁeklaˈmiːʁən",
+   "ipa": "ɪç ˈmœçtə ˈdiːzn̩ aʁˈtiːkl̩ ʁeklaˈmiːʁən",
    "vi": "tôi muốn khiếu nại đổi trả món hàng này",
    "example": "Guten Tag, das Gerät funktioniert leider nicht. Ich möchte diesen Artikel reklamieren.",
    "exampleVi": "Xin chào, máy này không hoạt động. Tôi muốn khiếu nại món hàng này."

@@ -17,7 +17,7 @@
   {
    "de": "ich bin der Ansicht, dass",
    "pos": "phrase",
-   "ipa": "ʔɪç bɪn deːɐ̯ ˈanˌzɪçt das",
+   "ipa": "ɪç bɪn deːɐ̯ ˈanˌzɪçt das",
    "vi": "tôi có quan điểm rằng",
    "example": "Ich bin der Ansicht, dass gesunde Ernährung bereits im Kindergarten gefördert werden muss.",
    "exampleVi": "Tôi có quan điểm rằng dinh dưỡng lành mạnh cần được bồi dưỡng ngay từ trường mầm non."
@@ -25,7 +25,7 @@
   {
    "de": "ich stehe auf dem Standpunkt, dass",
    "pos": "phrase",
-   "ipa": "ʔɪç ˈʃteːə ʔaʊ̯f deːm ˈʃtantpʊŋkt das",
+   "ipa": "ɪç ˈʃteːə aʊ̯f deːm ˈʃtantpʊŋkt das",
    "vi": "tôi giữ lập trường rằng",
    "example": "Ich stehe auf dem Standpunkt, dass öffentlicher Nahverkehr kostenlos sein sollte.",
    "exampleVi": "Tôi giữ lập trường rằng phương tiện giao thông công cộng nên được miễn phí."
@@ -33,7 +33,7 @@
   {
    "de": "ich bin davon überzeugt, dass",
    "pos": "phrase",
-   "ipa": "ʔɪç bɪn daˈfɔn yːbɐˈtsɔʏ̯kt das",
+   "ipa": "ɪç bɪn daˈfɔn yːbɐˈtsɔʏ̯kt das",
    "vi": "tôi tin chắc rằng",
    "example": "Ich bin fest davon überzeugt, dass lebenslanges Lernen immer wichtiger wird.",
    "exampleVi": "Tôi hoàn toàn tin chắc rằng việc học tập suốt đời ngày càng trở nên quan trọng hơn."
@@ -49,7 +49,7 @@
   {
    "de": "aus meiner Sicht",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯s ˈmaɪ̯nɐ zɪçt",
+   "ipa": "aʊ̯s ˈmaɪ̯nɐ zɪçt",
    "vi": "dưới góc nhìn của tôi",
    "example": "Aus meiner Sicht überwiegen die Vorteile dieser neuen Regelung deutlich.",
    "exampleVi": "Dưới góc nhìn của tôi, những ưu điểm của quy định mới này vượt trội rõ rệt."
@@ -57,7 +57,7 @@
   {
    "de": "ich finde, dass",
    "pos": "phrase",
-   "ipa": "ʔɪç ˈfɪndə das",
+   "ipa": "ɪç ˈfɪndə das",
    "vi": "tôi thấy rằng",
    "example": "Ich finde, dass man Kindern schon früh den verantwortungsvollen Umgang mit Geld beibringen sollte.",
    "exampleVi": "Tôi thấy rằng người ta nên dạy trẻ em cách quản lý tiền có trách nhiệm từ sớm."
@@ -65,7 +65,7 @@
   {
    "de": "ich glaube, dass",
    "pos": "phrase",
-   "ipa": "ʔɪç ˈɡlaʊ̯bə das",
+   "ipa": "ɪç ˈɡlaʊ̯bə das",
    "vi": "tôi nghĩ/tin rằng",
    "example": "Ich glaube, dass flexible Arbeitszeiten die Zufriedenheit im Team deutlich steigern.",
    "exampleVi": "Tôi tin rằng thời gian làm việc linh hoạt làm tăng đáng kể sự hài lòng trong nhóm."
@@ -73,7 +73,7 @@
   {
    "de": "ich denke, dass",
    "pos": "phrase",
-   "ipa": "ʔɪç ˈdɛŋkə das",
+   "ipa": "ɪç ˈdɛŋkə das",
    "vi": "tôi nghĩ rằng",
    "example": "Ich denke, dass diese Investition für unsere Zukunft unverzichtbar ist.",
    "exampleVi": "Tôi nghĩ rằng khoản đầu tư này là không thể thiếu cho tương lai của chúng ta."
@@ -89,7 +89,7 @@
   {
    "de": "ich stimme dir zu",
    "pos": "phrase",
-   "ipa": "ʔɪç ˈʃtɪmə diːɐ̯ tsuː",
+   "ipa": "ɪç ˈʃtɪmə diːɐ̯ tsuː",
    "vi": "tôi đồng ý với bạn",
    "example": "In diesem konkreten Punkt stimme ich dir voll und ganz zu.",
    "exampleVi": "Về điểm cụ thể này, tôi hoàn toàn đồng ý với bạn."
@@ -97,7 +97,7 @@
   {
    "de": "ich bin ganz deiner Meinung",
    "pos": "phrase",
-   "ipa": "ʔɪç bɪn ɡant͡s ˈdaɪ̯nɐ ˈmaɪ̯nʊŋ",
+   "ipa": "ɪç bɪn ɡants ˈdaɪ̯nɐ ˈmaɪ̯nʊŋ",
    "vi": "tôi hoàn toàn cùng ý kiến với bạn",
    "example": "Ich bin da ganz deiner Meinung: Wir sollten das Projekt unbedingt fortsetzen.",
    "exampleVi": "Tôi hoàn toàn cùng quan điểm với bạn: Chúng ta nhất định nên tiếp tục dự án."
@@ -105,7 +105,7 @@
   {
    "de": "das sehe ich genauso",
    "pos": "phrase",
-   "ipa": "das ˈzeːə ʔɪç ɡəˈnaʊ̯zoː",
+   "ipa": "das ˈzeːə ɪç ɡəˈnaʊ̯zoː",
    "vi": "tôi cũng nhìn nhận đúng y như vậy",
    "example": "Das sehe ich genauso wie du, es gibt keine bessere Alternative.",
    "exampleVi": "Tôi cũng thấy đúng như bạn, chẳng có lựa chọn nào tốt hơn cả."
@@ -129,7 +129,7 @@
   {
    "de": "ich teile diese Ansicht",
    "pos": "phrase",
-   "ipa": "ʔɪç ˈtaɪ̯lə ˈdiːzə ˈanˌzɪçt",
+   "ipa": "ɪç ˈtaɪ̯lə ˈdiːzə ˈanˌzɪçt",
    "vi": "tôi chia sẻ/ủng hộ quan điểm này",
    "example": "Ich teile diese Ansicht, denn Umweltschutz betrifft uns alle unmittelbar.",
    "exampleVi": "Tôi chia sẻ quan điểm này, bởi vì bảo vệ môi trường ảnh hưởng trực tiếp đến tất cả chúng ta."
@@ -137,7 +137,7 @@
   {
    "de": "dem kann ich nur zustimmen",
    "pos": "phrase",
-   "ipa": "deːm kan ʔɪç nuːɐ̯ ˈtsuːˌʃtɪmən",
+   "ipa": "deːm kan ɪç nuːɐ̯ ˈtsuːˌʃtɪmən",
    "vi": "về điều đó tôi chỉ có thể tán thành",
    "example": "Dem kann ich nur voll inhaltlich zustimmen, eine bessere Idee gibt es nicht.",
    "exampleVi": "Về điều đó tôi chỉ có thể hoàn toàn tán thành, không có ý tưởng nào tốt hơn."
@@ -153,7 +153,7 @@
   {
    "de": "da bin ich anderer Meinung",
    "pos": "phrase",
-   "ipa": "daː bɪn ʔɪç ˈandəʁɐ ˈmaɪ̯nʊŋ",
+   "ipa": "daː bɪn ɪç ˈandəʁɐ ˈmaɪ̯nʊŋ",
    "vi": "ở điểm đó tôi lại có ý kiến khác",
    "example": "Verzeihung, aber da bin ich doch ganz anderer Meinung als Sie.",
    "exampleVi": "Xin thứ lỗi, nhưng ở điểm đó tôi lại có ý kiến hoàn toàn khác với ngài."
@@ -161,7 +161,7 @@
   {
    "de": "ich sehe das etwas anders",
    "pos": "phrase",
-   "ipa": "ʔɪç ˈzeːə das ˈɛtvas ˈandɐs",
+   "ipa": "ɪç ˈzeːə das ˈɛtvas ˈandɐs",
    "vi": "tôi nhìn nhận điều đó hơi khác một chút",
    "example": "Ich sehe das etwas anders, denn man muss auch die hohen Kosten berücksichtigen.",
    "exampleVi": "Tôi nhìn nhận điều đó hơi khác một chút, bởi vì người ta cũng cần tính đến chi phí đắt đỏ."
@@ -177,7 +177,7 @@
   {
    "de": "dem muss ich widersprechen",
    "pos": "phrase",
-   "ipa": "deːm mʊs ʔɪç viːdɐˈʃpʁɛçn̩",
+   "ipa": "deːm mʊs ɪç viːdɐˈʃpʁɛçn̩",
    "vi": "về điều đó tôi buộc phải phản bác",
    "example": "Dem muss ich leider entschieden widersprechen, die Faktenlage spricht dagegen.",
    "exampleVi": "Về điều đó tôi đáng tiếc phải kiên quyết phản bác, tình hình thực tế chứng minh ngược lại."
@@ -185,7 +185,7 @@
   {
    "de": "das stimmt so nicht ganz",
    "pos": "phrase",
-   "ipa": "das ʃtɪmt zoː nɪçt ɡant͡s",
+   "ipa": "das ʃtɪmt zoː nɪçt ɡants",
    "vi": "điều đó không hoàn toàn đúng như vậy",
    "example": "Das stimmt so nicht ganz, denn die aktuellen Statistiken zeigen einen anderen Trend.",
    "exampleVi": "Điều đó không hoàn toàn đúng như thế, bởi các số liệu thống kê hiện tại cho thấy xu hướng khác."
@@ -193,7 +193,7 @@
   {
    "de": "ich bezweifle, dass",
    "pos": "phrase",
-   "ipa": "ʔɪç bəˈtsvaɪ̯flə das",
+   "ipa": "ɪç bəˈtsvaɪ̯flə das",
    "vi": "tôi nghi ngờ rằng",
    "example": "Ich bezweifle sehr, dass dieses Konzept in der Praxis problemlos funktionieren wird.",
    "exampleVi": "Tôi rất nghi ngờ liệu mô hình này có vận hành êm thấm trong thực tế hay không."
@@ -209,7 +209,7 @@
   {
    "de": "auf der einen Seite ..., auf der anderen Seite",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f deːɐ̯ ˈaɪ̯nən ˈzaɪ̯tə ʔaʊ̯f deːɐ̯ ˈandəʁən ˈzaɪ̯tə",
+   "ipa": "aʊ̯f deːɐ̯ ˈaɪ̯nən ˈzaɪ̯tə aʊ̯f deːɐ̯ ˈandəʁən ˈzaɪ̯tə",
    "vi": "một mặt ..., mặt khác",
    "example": "Auf der einen Seite will er reisen, auf der anderen Seite muss er sparen.",
    "exampleVi": "Một mặt anh ấy muốn đi du lịch, mặt khác anh ấy lại phải tiết kiệm."
@@ -217,7 +217,7 @@
   {
    "de": "sowohl ... als auch",
    "pos": "conj",
-   "ipa": "zoˈvoːl ʔals ʔaʊ̯x",
+   "ipa": "zoˈvoːl als aʊ̯x",
    "vi": "vừa ... vừa (cả hai)",
    "example": "Er spricht sowohl fließend Deutsch als auch hervorragend Englisch.",
    "exampleVi": "Anh ấy vừa nói trôi chảy tiếng Đức vừa nói xuất sắc tiếng Anh."
@@ -233,7 +233,7 @@
   {
    "de": "nicht nur ..., sondern auch",
    "pos": "conj",
-   "ipa": "nɪçt nuːɐ̯ ˈzɔndɐn ʔaʊ̯x",
+   "ipa": "nɪçt nuːɐ̯ ˈzɔndɐn aʊ̯x",
    "vi": "không những ... mà còn",
    "example": "Sport stärkt nicht nur den Körper, sondern auch das geistige Wohlbefinden.",
    "exampleVi": "Thể thao không những rèn luyện cơ thể mà còn củng cố tinh thần sảng khoái."
@@ -241,7 +241,7 @@
   {
    "de": "zwar ..., aber",
    "pos": "conj",
-   "ipa": "t͡svaːɐ̯ ˈaːbɐ",
+   "ipa": "tsvaːɐ̯ ˈaːbɐ",
    "vi": "tuy ... nhưng",
    "example": "Die Wohnung ist zwar relativ klein, aber sie liegt sehr zentral.",
    "exampleVi": "Căn hộ tuy tương đối nhỏ nhưng nó lại nằm ở vị trí rất trung tâm."
@@ -305,7 +305,7 @@
   {
    "de": "aus diesem Grund",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯s ˈdiːzəm ɡʁʊnt",
+   "ipa": "aʊ̯s ˈdiːzəm ɡʁʊnt",
    "vi": "vì lý do này",
    "example": "Aus diesem Grund haben wir uns für eine alternative Strategie entschieden.",
    "exampleVi": "Vì lý do này, chúng tôi đã quyết định chọn một chiến lược thay thế."
@@ -321,7 +321,7 @@
   {
    "de": "trotzdem",
    "pos": "adv",
-   "ipa": "ˈtʁɔt͡sdeːm",
+   "ipa": "ˈtʁɔtsdeːm",
    "vi": "dù vậy, tuy nhiên",
    "example": "Das Wetter war regnerisch, trotzdem machten wir einen langen Spaziergang.",
    "exampleVi": "Thời tiết mưa gió, dù vậy chúng tôi vẫn đi dạo một quãng dài."
@@ -385,7 +385,7 @@
   {
    "de": "um ... zu",
    "pos": "conj",
-   "ipa": "ʔʊm tsuː",
+   "ipa": "ʊm tsuː",
    "vi": "để mà (+ Infinitiv)",
    "example": "Sie ging früher ins Bett, um am nächsten Morgen ausgeruht zu sein.",
    "exampleVi": "Cô ấy đi ngủ sớm hơn để sáng hôm sau được nghỉ ngơi thoải mái."
@@ -529,7 +529,7 @@
   {
    "de": "zusammenfassend lässt sich sagen",
    "pos": "phrase",
-   "ipa": "t͡suˈzamənˌfasn̩t lɛst zɪç ˈzaːɡn̩",
+   "ipa": "tsuˈzamənˌfasn̩t lɛst zɪç ˈzaːɡn̩",
    "vi": "tóm lại có thể nói rằng",
    "example": "Zusammenfassend lässt sich sagen, dass das Experiment ein voller Erfolg war.",
    "exampleVi": "Tóm lại có thể nói rằng thí nghiệm đã thành công tốt đẹp."
@@ -537,7 +537,7 @@
   {
    "de": "ein wichtiges Argument dafür ist",
    "pos": "phrase",
-   "ipa": "aɪ̯n ˈvɪçtɪɡəs ʔaʁɡuˈmɛnt daˈfyːɐ̯ ɪst",
+   "ipa": "aɪ̯n ˈvɪçtɪɡəs aʁɡuˈmɛnt daˈfyːɐ̯ ɪst",
    "vi": "một luận điểm quan trọng ủng hộ điều đó là",
    "example": "Ein wichtiges Argument dafür ist der geringere Ausstoß von schädlichen Treibhausgasen.",
    "exampleVi": "Một luận cứ quan trọng ủng hộ điều đó là lượng khí thải nhà kính độc hại được giảm bớt."
@@ -553,7 +553,7 @@
   {
    "de": "als Beispiel lässt sich anführen",
    "pos": "phrase",
-   "ipa": "ʔals ˈbaɪ̯ˌʃpiːl lɛst zɪç ˈanˌfyːʁən",
+   "ipa": "als ˈbaɪ̯ˌʃpiːl lɛst zɪç ˈanˌfyːʁən",
    "vi": "như một ví dụ minh họa có thể nêu ra",
    "example": "Als Beispiel lässt sich anführen, wie skandinavische Länder Bildung organisieren.",
    "exampleVi": "Như một ví dụ minh chứng có thể nêu ra cách các nước Bắc Âu tổ chức nền giáo dục."
@@ -593,7 +593,7 @@
   {
    "de": "im Gegensatz zu",
    "pos": "phrase",
-   "ipa": "ɪm ˈɡeːɡn̩zat͡s tsuː",
+   "ipa": "ɪm ˈɡeːɡn̩zats tsuː",
    "vi": "ngược lại với, trái ngược với (+ Dat)",
    "example": "Im Gegensatz zu seinem Bruder ist er sehr extrovertiert und gesprächig.",
    "exampleVi": "Trái ngược với người anh trai, cậu ấy rất hướng ngoại và cởi mở hoạt ngôn."

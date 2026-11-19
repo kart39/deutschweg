@@ -9,7 +9,7 @@
    "de": "warten auf",
    "forms": "wartet auf, wartete auf, hat auf gewartet",
    "pos": "verb",
-   "ipa": "ˈvaʁtn̩ ʔaʊ̯f",
+   "ipa": "ˈvaʁtn̩ aʊ̯f",
    "vi": "chờ đợi ai/cái gì (+ Akk)",
    "example": "Wir warten seit zwanzig Minuten auf den Bus.",
    "exampleVi": "Chúng tôi chờ xe buýt hai mươi phút rồi."
@@ -18,7 +18,7 @@
    "de": "hoffen auf",
    "forms": "hofft auf, hoffte auf, hat auf gehofft",
    "pos": "verb",
-   "ipa": "ˈhɔfn̩ ʔaʊ̯f",
+   "ipa": "ˈhɔfn̩ aʊ̯f",
    "vi": "hy vọng vào điều gì (+ Akk)",
    "example": "Wir hoffen alle auf schönes Wetter am Wochenende.",
    "exampleVi": "Tất cả chúng tôi đều hy vọng thời tiết đẹp vào cuối tuần."
@@ -27,7 +27,7 @@
    "de": "sich freuen auf",
    "forms": "freut sich auf, freute sich auf, hat sich auf gefreut",
    "pos": "verb",
-   "ipa": "ˈfʁɔʏ̯ən zɪç ʔaʊ̯f",
+   "ipa": "ˈfʁɔʏ̯ən zɪç aʊ̯f",
    "vi": "vui mừng ngóng đợi điều sắp tới (+ Akk)",
    "example": "Ich freue mich schon riesig auf unseren Urlaub in Vietnam.",
    "exampleVi": "Tôi đang rất háo hức ngóng chờ kỳ nghỉ của chúng ta ở Việt Nam."
@@ -36,7 +36,7 @@
    "de": "sich freuen über",
    "forms": "freut sich über, freute sich über, hat sich über gefreut",
    "pos": "verb",
-   "ipa": "ˈfʁɔʏ̯ən zɪç ˈʔyːbɐ",
+   "ipa": "ˈfʁɔʏ̯ən zɪç ˈyːbɐ",
    "vi": "vui mừng về điều đã nhận được / đã qua (+ Akk)",
    "example": "Vielen Dank, ich habe mich sehr über dein schönes Geschenk gefreut.",
    "exampleVi": "Cảm ơn nhiều, tôi đã rất vui mừng vì món quà đẹp của bạn."
@@ -45,7 +45,7 @@
    "de": "denken an",
    "forms": "denkt an, dachte an, hat an gedacht",
    "pos": "verb",
-   "ipa": "ˈdɛŋkn̩ ʔan",
+   "ipa": "ˈdɛŋkn̩ an",
    "vi": "nghĩ về, nhớ tới ai/cái gì (+ Akk)",
    "example": "Denkst du bitte daran, heute Brot einzukaufen?",
    "exampleVi": "Bạn nhớ mua bánh mì hôm nay nhé?"
@@ -54,7 +54,7 @@
    "de": "sich erinnern an",
    "forms": "erinnert sich an, erinnerte sich an, hat sich an erinnert",
    "pos": "verb",
-   "ipa": "ɛɐ̯ˈʔɪnɐn zɪç ʔan",
+   "ipa": "ɛɐ̯ˈʔɪnɐn zɪç an",
    "vi": "nhớ lại kỷ niệm gì (+ Akk)",
    "example": "Ich erinnere mich noch sehr gern an unsere gemeinsame Schulzeit.",
    "exampleVi": "Tôi vẫn rất thích nhớ lại quãng thời gian đi học cùng nhau của chúng ta."
@@ -63,7 +63,7 @@
    "de": "glauben an",
    "forms": "glaubt an, glaubte an, hat an geglaubt",
    "pos": "verb",
-   "ipa": "ˈɡlaʊ̯bn̩ ʔan",
+   "ipa": "ˈɡlaʊ̯bn̩ an",
    "vi": "tin tưởng vào ai/cái gì (+ Akk)",
    "example": "Glaube fest an deine Träume, dann werden sie wahr.",
    "exampleVi": "Hãy tin tưởng vững chắc vào ước mơ của bạn, chúng sẽ thành hiện thực."
@@ -72,7 +72,7 @@
    "de": "schreiben an",
    "forms": "schreibt an, schrieb an, hat an geschrieben",
    "pos": "verb",
-   "ipa": "ˈʃʁaɪ̯bn̩ ʔan",
+   "ipa": "ˈʃʁaɪ̯bn̩ an",
    "vi": "viết thư cho ai (+ Akk)",
    "example": "Sie schreibt einen langen Brief an ihre Großeltern.",
    "exampleVi": "Cô ấy viết một bức thư dài gửi cho ông bà."
@@ -81,7 +81,7 @@
    "de": "sich interessieren für",
    "forms": "interessiert sich für, interessierte sich für, hat sich für interessiert",
    "pos": "verb",
-   "ipa": "ʔɪntəʁɛˈsiːʁən zɪç fyːɐ̯",
+   "ipa": "ɪntəʁɛˈsiːʁən zɪç fyːɐ̯",
    "vi": "quan tâm, hứng thú với (+ Akk)",
    "example": "Mein Sohn interessiert sich sehr für moderne Robotertechnik.",
    "exampleVi": "Con trai tôi rất quan tâm đến kỹ thuật rô-bốt hiện đại."
@@ -144,7 +144,7 @@
    "de": "sich ärgern über",
    "forms": "ärgert sich über, ärgerte sich über, hat sich über geärgert",
    "pos": "verb",
-   "ipa": "ˈʔɛʁɡɐn zɪç ˈʔyːbɐ",
+   "ipa": "ˈɛʁɡɐn zɪç ˈyːbɐ",
    "vi": "bực mình về điều gì (+ Akk)",
    "example": "Er ärgert sich maßlos über die ständige Unpünktlichkeit.",
    "exampleVi": "Anh ấy bực mình vô cùng trước thói quen luôn trễ giờ."
@@ -153,7 +153,7 @@
    "de": "sprechen über",
    "forms": "spricht über, sprach über, hat über gesprochen",
    "pos": "verb",
-   "ipa": "ˈʃpʁɛçn̩ ˈʔyːbɐ",
+   "ipa": "ˈʃpʁɛçn̩ ˈyːbɐ",
    "vi": "nói chuyện về chủ đề gì (+ Akk)",
    "example": "Wir haben gestern lange über unsere Zukunftspläne gesprochen.",
    "exampleVi": "Hôm qua chúng tôi đã nói chuyện rất lâu về kế hoạch tương lai."
@@ -162,7 +162,7 @@
    "de": "diskutieren über",
    "forms": "diskutiert über, diskutierte über, hat über diskutiert",
    "pos": "verb",
-   "ipa": "dɪskuˈtiːʁən ˈʔyːbɐ",
+   "ipa": "dɪskuˈtiːʁən ˈyːbɐ",
    "vi": "thảo luận, tranh luận về (+ Akk)",
    "example": "Die Experten diskutierten stundenlang über die wirtschaftliche Lage.",
    "exampleVi": "Các chuyên gia đã thảo luận hàng giờ về tình hình kinh tế."
@@ -171,7 +171,7 @@
    "de": "berichten über",
    "forms": "berichtet über, berichtete über, hat über berichtet",
    "pos": "verb",
-   "ipa": "bəˈʁɪçtn̩ ˈʔyːbɐ",
+   "ipa": "bəˈʁɪçtn̩ ˈyːbɐ",
    "vi": "tường thuật, đưa tin về (+ Akk)",
    "example": "Die Medien berichten ausführlich über das Gipfeltreffen.",
    "exampleVi": "Truyền thông đưa tin chi tiết về hội nghị thượng đỉnh."
@@ -180,7 +180,7 @@
    "de": "lachen über",
    "forms": "lacht über, lachte über, hat über gelacht",
    "pos": "verb",
-   "ipa": "ˈlaxn̩ ˈʔyːbɐ",
+   "ipa": "ˈlaxn̩ ˈyːbɐ",
    "vi": "cười về điều gì (+ Akk)",
    "example": "Wir haben alle herzlich über seinen witzigen Streich gelacht.",
    "exampleVi": "Tất cả chúng tôi đều cười sảng khoái trước trò đùa vui của anh ấy."
@@ -189,7 +189,7 @@
    "de": "weinen über",
    "forms": "weint über, weinte über, hat über geweint",
    "pos": "verb",
-   "ipa": "ˈvaɪ̯nən ˈʔyːbɐ",
+   "ipa": "ˈvaɪ̯nən ˈyːbɐ",
    "vi": "khóc vì điều gì (+ Akk)",
    "example": "Sie weinte vor Rührung über die wunderschönen Abschiedsworte.",
    "exampleVi": "Cô ấy đã rơi lệ vì xúc động trước những lời chia tay tuyệt đẹp."
@@ -198,7 +198,7 @@
    "de": "sich wundern über",
    "forms": "wundert sich über, wunderte sich über, hat sich über gewundert",
    "pos": "verb",
-   "ipa": "ˈvʊndɐn zɪç ˈʔyːbɐ",
+   "ipa": "ˈvʊndɐn zɪç ˈyːbɐ",
    "vi": "lấy làm ngạc nhiên về (+ Akk)",
    "example": "Ich wundere mich sehr über seine plötzliche Entscheidung.",
    "exampleVi": "Tôi rất đỗi ngạc nhiên trước quyết định đột ngột của anh ấy."
@@ -207,7 +207,7 @@
    "de": "bitten um",
    "forms": "bittet um, bat um, hat um gebeten",
    "pos": "verb",
-   "ipa": "ˈbɪtn̩ ʔʊm",
+   "ipa": "ˈbɪtn̩ ʊm",
    "vi": "xin, nhờ vả điều gì (+ Akk um + Akk)",
    "example": "Darf ich Sie um einen kleinen Gefallen bitten?",
    "exampleVi": "Tôi có thể xin ngài một sự giúp đỡ nhỏ được không?"
@@ -216,7 +216,7 @@
    "de": "sich bewerben um",
    "forms": "bewirbt sich um, bewarb sich um, hat sich um beworben",
    "pos": "verb",
-   "ipa": "bəˈvɛʁbn̩ zɪç ʔʊm",
+   "ipa": "bəˈvɛʁbn̩ zɪç ʊm",
    "vi": "nộp hồ sơ ứng tuyển vị trí (+ Akk)",
    "example": "Sie bewirbt sich um eine Festanstellung im Marketing.",
    "exampleVi": "Cô ấy nộp đơn xin một vị trí làm việc chính thức trong mảng tiếp thị."
@@ -225,7 +225,7 @@
    "de": "sich kümmern um",
    "forms": "kümmert sich um, kümmerte sich um, hat sich um gekümmert",
    "pos": "verb",
-   "ipa": "ˈkʏmɐn zɪç ʔʊm",
+   "ipa": "ˈkʏmɐn zɪç ʊm",
    "vi": "chăm lo, quán xuyến việc gì (+ Akk)",
    "example": "Wer kümmert sich während deiner Abwesenheit um die Haustiere?",
    "exampleVi": "Ai sẽ chăm sóc thú cưng trong lúc bạn vắng nhà?"
@@ -234,7 +234,7 @@
    "de": "sich sorgen um",
    "forms": "sorgt sich um, sorgte sich um, hat sich um gesorgt",
    "pos": "verb",
-   "ipa": "ˈzɔʁɡn̩ zɪç ʔʊm",
+   "ipa": "ˈzɔʁɡn̩ zɪç ʊm",
    "vi": "lo lắng cho ai/cái gì (+ Akk)",
    "example": "Eltern sorgen sich naturgemäß stets um die Zukunft ihrer Kinder.",
    "exampleVi": "Bố mẹ dĩ nhiên luôn luôn lo lắng cho tương lai của con cái."
@@ -243,7 +243,7 @@
    "de": "es geht um",
    "forms": "es geht um, es ging um, es ist um gegangen",
    "pos": "verb",
-   "ipa": "ʔɛs ɡeːt ʔʊm",
+   "ipa": "ɛs ɡeːt ʊm",
    "vi": "nội dung xoay quanh vấn đề gì (+ Akk)",
    "example": "In diesem interessanten Buch geht es um die Geschichte Vietnams.",
    "exampleVi": "Trong cuốn sách thú vị này nội dung xoay quanh lịch sử Việt Nam."
@@ -297,7 +297,7 @@
    "de": "sich unterhalten mit",
    "forms": "unterhält sich mit, unterhielt sich mit, hat sich mit unterhalten",
    "pos": "verb",
-   "ipa": "ʔʊntɐˈhɛlt zɪç mɪt",
+   "ipa": "ʊntɐˈhɛlt zɪç mɪt",
    "vi": "trò chuyện tâm sự với ai (+ Dat)",
    "example": "Er unterhielt sich sehr angeregt mit dem netten Tischnachbarn.",
    "exampleVi": "Anh ấy đã trò chuyện rất rôm rả với người bạn ngồi cạnh bàn."
@@ -306,7 +306,7 @@
    "de": "aufhören mit",
    "forms": "hört auf mit, hörte auf mit, hat mit aufgehört",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯fˌhøːʁən mɪt",
+   "ipa": "ˈaʊ̯fˌhøːʁən mɪt",
    "vi": "ngừng dứt khoát việc gì (+ Dat)",
    "example": "Er hat vor zwei Monaten endgültig mit dem Rauchen aufgehört.",
    "exampleVi": "Anh ấy đã dứt khoát bỏ hút thuốc từ hai tháng trước."
@@ -315,7 +315,7 @@
    "de": "anfangen mit",
    "forms": "fängt an mit, fing an mit, hat mit angefangen",
    "pos": "verb",
-   "ipa": "ˈʔanˌfaŋən mɪt",
+   "ipa": "ˈanˌfaŋən mɪt",
    "vi": "bắt tay bắt đầu việc gì (+ Dat)",
    "example": "Wann fangen wir endlich mit den Hausaufgaben an?",
    "exampleVi": "Khi nào chúng ta mới bắt tay vào làm bài tập về nhà đây?"
@@ -360,7 +360,7 @@
    "de": "einladen zu",
    "forms": "lädt ein zu, lud ein zu, hat zu eingeladen",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌlaːdn̩ tsuː",
+   "ipa": "ˈaɪ̯nˌlaːdn̩ tsuː",
    "vi": "mời tới dịp gì (+ Akk zu + Dat)",
    "example": "Wir möchten dich herzlich zu unserer Einweihungsfeier einladen.",
    "exampleVi": "Chúng tôi muốn thân ái mời bạn tới bữa tiệc tân gia của chúng tôi."
@@ -378,7 +378,7 @@
    "de": "teilnehmen an",
    "forms": "nimmt teil an, nahm teil an, hat an teilgenommen",
    "pos": "verb",
-   "ipa": "ˈtaɪ̯lˌneːmən ʔan",
+   "ipa": "ˈtaɪ̯lˌneːmən an",
    "vi": "tham gia vào hoạt động gì (+ Dat)",
    "example": "Morgen nehme ich an einem spannenden Workshop über KI teil.",
    "exampleVi": "Ngày mai tôi tham gia một buổi hội thảo thú vị về AI."
@@ -387,7 +387,7 @@
    "de": "arbeiten an",
    "forms": "arbeitet an, arbeitete an, hat an gearbeitet",
    "pos": "verb",
-   "ipa": "ˈʔaʁbaɪ̯tn̩ ʔan",
+   "ipa": "ˈaʁbaɪ̯tn̩ an",
    "vi": "làm việc miệt mài cho dự án (+ Dat)",
    "example": "Die Wissenschaftler arbeiten intensiv an einer neuen Softwarelösung.",
    "exampleVi": "Các nhà khoa học đang miệt mài nghiên cứu một giải pháp phần mềm mới."
@@ -396,7 +396,7 @@
    "de": "zweifeln an",
    "forms": "zweifelt an, zweifelte an, hat an gezweifelt",
    "pos": "verb",
-   "ipa": "ˈtsvaɪ̯fl̩n ʔan",
+   "ipa": "ˈtsvaɪ̯fl̩n an",
    "vi": "nghi ngờ về điều gì (+ Dat)",
    "example": "Niemand zweifelt an seinen außergewöhnlichen Fähigkeiten.",
    "exampleVi": "Không ai mảy may nghi ngờ về năng lực xuất chúng của anh ấy."
@@ -432,7 +432,7 @@
    "de": "abhängen von",
    "forms": "hängt ab von, hing ab von, hat von abgehangen",
    "pos": "verb",
-   "ipa": "ˈʔapˌhɛŋən fɔn",
+   "ipa": "ˈapˌhɛŋən fɔn",
    "vi": "phụ thuộc vào điều gì (+ Dat)",
    "example": "Der Erfolg des Ausflugs hängt maßgeblich vom Wetter ab.",
    "exampleVi": "Sự thành công của chuyến đi dạo phụ thuộc chủ yếu vào thời tiết."
@@ -477,7 +477,7 @@
    "de": "Angst haben vor",
    "forms": "hat Angst vor, hatte Angst vor, hat Angst vor gehabt",
    "pos": "verb",
-   "ipa": "ˈʔaŋst ˈhaːbn̩ foːɐ̯",
+   "ipa": "ˈaŋst ˈhaːbn̩ foːɐ̯",
    "vi": "lo sợ trước điều gì (+ Dat)",
    "example": "Viele kleine Kinder haben im Dunkeln Angst vor Monstern.",
    "exampleVi": "Nhiều trẻ nhỏ hay sợ quái vật trong bóng tối."
@@ -547,7 +547,7 @@
   {
    "de": "auf wen",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f veːn",
+   "ipa": "aʊ̯f veːn",
    "vi": "chờ đợi ai (hỏi người)",
    "example": "Auf wen wartest du hier am Bahnhof? – Auf meine Schwester.",
    "exampleVi": "Bạn đang chờ ai ở nhà ga thế này? – Chờ chị gái tôi."
@@ -579,7 +579,7 @@
   {
    "de": "über wen",
    "pos": "phrase",
-   "ipa": "ˈʔyːbɐ veːn",
+   "ipa": "ˈyːbɐ veːn",
    "vi": "về ai (hỏi người)",
    "example": "Über wen lacht ihr denn die ganze Zeit?",
    "exampleVi": "Các bạn đang cười đùa về ai suốt nãy giờ thế?"

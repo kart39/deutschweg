@@ -199,7 +199,7 @@
    "article": "die",
    "plural": "Pflichten",
    "pos": "noun",
-   "ipa": "p͡flɪçt",
+   "ipa": "pflɪçt",
    "vi": "nghĩa vụ, bổn phận",
    "example": "Neben vielen Rechten haben Bürger auch gesetzliche Pflichten wie die Steuerpflicht.",
    "exampleVi": "Bên cạnh nhiều quyền lợi, công dân cũng có nghĩa vụ pháp lý như nghĩa vụ nộp thuế."
@@ -299,7 +299,7 @@
    "article": "die",
    "plural": "Oppositionen",
    "pos": "noun",
-   "ipa": "ɔpoziˈt͡sjoːn",
+   "ipa": "ɔpoziˈtsjoːn",
    "vi": "phe đối lập",
    "example": "Die Opposition kritisiert die Steuerpläne der Regierung scharf.",
    "exampleVi": "Phe đối lập chỉ trích gay gắt kế hoạch thuế của chính phủ."
@@ -309,7 +309,7 @@
    "article": "die",
    "plural": "Koalitionen",
    "pos": "noun",
-   "ipa": "koaliˈt͡sjoːn",
+   "ipa": "koaliˈtsjoːn",
    "vi": "chính phủ liên hiệp, liên minh",
    "example": "Zwei Parteien einigten sich auf eine gemeinsame Koalition.",
    "exampleVi": "Hai đảng đã nhất trí thành lập một liên minh chung."
@@ -408,7 +408,7 @@
    "article": "die",
    "plural": "Demonstrationen",
    "pos": "noun",
-   "ipa": "demɔnstʁaˈt͡sjoːn",
+   "ipa": "demɔnstʁaˈtsjoːn",
    "vi": "cuộc biểu tình",
    "example": "Die Demonstration verlief glücklicherweise vollkommen friedlich.",
    "exampleVi": "Cuộc biểu tình may mắn diễn ra hoàn toàn ôn hòa."
@@ -566,7 +566,7 @@
    "article": "die",
    "plural": "Integrationen",
    "pos": "noun",
-   "ipa": "ɪnteɡʁaˈt͡sjoːn",
+   "ipa": "ɪnteɡʁaˈtsjoːn",
    "vi": "sự hòa nhập",
    "example": "Sprachkurse tragen entscheidend zu einer erfolgreichen Integration bei.",
    "exampleVi": "Các khóa học ngôn ngữ đóng góp quyết định vào sự hòa nhập thành công."
@@ -603,7 +603,7 @@
    "article": "die",
    "plural": "Organisationen",
    "pos": "noun",
-   "ipa": "ɔʁɡanizaˈt͡sjoːn",
+   "ipa": "ɔʁɡanizaˈtsjoːn",
    "vi": "tổ chức",
    "example": "Nichtregierungsorganisationen leisten unverzichtbare humanitäre Hilfe.",
    "exampleVi": "Các tổ chức phi chính phủ đóng góp những trợ giúp nhân đạo không thể thiếu."
@@ -662,7 +662,7 @@
    "article": "die",
    "plural": "Zensuren",
    "pos": "noun",
-   "ipa": "t͡sɛnˈzuːɐ̯",
+   "ipa": "tsɛnˈzuːɐ̯",
    "vi": "sự kiểm duyệt",
    "example": "In totalitären Regimen unterliegen Bücher und Nachrichten strenger Zensur.",
    "exampleVi": "Dưới các chế độ toàn trị, sách báo và tin tức chịu sự kiểm duyệt gắt gao."

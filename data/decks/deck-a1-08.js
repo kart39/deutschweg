@@ -70,7 +70,7 @@
    "article": "die",
    "plural": "Ampeln",
    "pos": "noun",
-   "ipa": "ˈʔampl̩",
+   "ipa": "ˈampl̩",
    "vi": "đèn tín hiệu giao thông",
    "example": "An der roten Ampel müssen Autos anhalten.",
    "exampleVi": "Đèn đỏ các phương tiện ô tô phải dừng lại."
@@ -80,7 +80,7 @@
    "article": "die",
    "plural": "Ecken",
    "pos": "noun",
-   "ipa": "ˈʔɛkə",
+   "ipa": "ˈɛkə",
    "vi": "góc đường",
    "example": "An der Ecke steht eine alte Bäckerei.",
    "exampleVi": "Ở góc đường có một tiệm bánh mì lâu đời."
@@ -160,7 +160,7 @@
    "article": "die",
    "plural": "S-Bahnen",
    "pos": "noun",
-   "ipa": "ˈʔɛsˌbaːn",
+   "ipa": "ˈɛsˌbaːn",
    "vi": "tàu điện nội đô",
    "example": "Mit der S-Bahn bin ich in zwanzig Minuten am Bahnhof.",
    "exampleVi": "Đi tàu S-Bahn tôi chỉ mất hai mươi phút tới ga."
@@ -170,7 +170,7 @@
    "article": "die",
    "plural": "U-Bahnen",
    "pos": "noun",
-   "ipa": "ˈʔuːˌbaːn",
+   "ipa": "ˈuːˌbaːn",
    "vi": "tàu điện ngầm",
    "example": "In Berlin fährt die U-Bahn alle fünf Minuten.",
    "exampleVi": "Ở Berlin tàu điện ngầm chạy 5 phút một chuyến."
@@ -200,7 +200,7 @@
    "article": "das",
    "plural": "Autos",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯to",
+   "ipa": "ˈaʊ̯to",
    "vi": "xe hơi, ô tô",
    "example": "Er fährt jeden Tag mit dem Auto zur Arbeit.",
    "exampleVi": "Anh ấy lái ô tô đi làm mỗi ngày."
@@ -340,7 +340,7 @@
    "article": "die",
    "plural": "Apotheken",
    "pos": "noun",
-   "ipa": "ʔapoˈteːkə",
+   "ipa": "apoˈteːkə",
    "vi": "tiệm thuốc tây",
    "example": "Die Apotheke hat heute Notdienst.",
    "exampleVi": "Tiệm thuốc hôm nay có ca trực đêm cấp bách."
@@ -396,7 +396,7 @@
    "de": "abfahren",
    "forms": "fährt ab, fuhr ab, ist abgefahren",
    "pos": "verb",
-   "ipa": "ˈʔapˌfaːʁən",
+   "ipa": "ˈapˌfaːʁən",
    "vi": "khởi hành (xe, tàu)",
    "example": "Der Bus fährt in fünf Minuten ab.",
    "exampleVi": "Xe buýt sẽ khởi hành trong năm phút nữa."
@@ -405,7 +405,7 @@
    "de": "ankommen",
    "forms": "kommt an, kam an, ist angekommen",
    "pos": "verb",
-   "ipa": "ˈʔanˌkɔmən",
+   "ipa": "ˈanˌkɔmən",
    "vi": "đến nơi (in + Dat)",
    "example": "Wann kommt der Zug in München an?",
    "exampleVi": "Khi nào tàu hỏa tới Munich?"
@@ -414,7 +414,7 @@
    "de": "einsteigen",
    "forms": "steigt ein, stieg ein, ist eingestiegen",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌʃtaɪ̯ɡn̩",
+   "ipa": "ˈaɪ̯nˌʃtaɪ̯ɡn̩",
    "vi": "lên xe, bước lên tàu (in + Akk)",
    "example": "Bitte alle einsteigen, die Türen schließen!",
    "exampleVi": "Xin mời tất cả hành khách lên xe, cửa chuẩn bị đóng!"
@@ -423,7 +423,7 @@
    "de": "aussteigen",
    "forms": "steigt aus, stieg aus, ist ausgestiegen",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯sˌʃtaɪ̯ɡn̩",
+   "ipa": "ˈaʊ̯sˌʃtaɪ̯ɡn̩",
    "vi": "xuống xe, bước xuống tàu (aus + Dat)",
    "example": "An der nächsten Haltestelle müssen wir aussteigen.",
    "exampleVi": "Ở trạm dừng kế tiếp chúng ta phải xuống xe."
@@ -432,7 +432,7 @@
    "de": "umsteigen",
    "forms": "steigt um, stieg um, ist umgestiegen",
    "pos": "verb",
-   "ipa": "ˈʔʊmˌʃtaɪ̯ɡn̩",
+   "ipa": "ˈʊmˌʃtaɪ̯ɡn̩",
    "vi": "chuyển tuyến xe/tàu (in + Akk)",
    "example": "In Hannover müssen Sie in den ICE umsteigen.",
    "exampleVi": "Ở Hannover ngài phải chuyển sang tàu ICE."
@@ -441,7 +441,7 @@
    "de": "abbiegen",
    "forms": "biegt ab, bog ab, ist abgebogen",
    "pos": "verb",
-   "ipa": "ˈʔapˌbiːɡn̩",
+   "ipa": "ˈapˌbiːɡn̩",
    "vi": "rẽ hướng (nach links / rechts)",
    "example": "Biegen Sie an der Kreuzung nach rechts ab.",
    "exampleVi": "Hãy rẽ phải ở ngã tư."
@@ -540,7 +540,7 @@
   {
    "de": "nach links abbiegen",
    "pos": "phrase",
-   "ipa": "naːx ˈlɪŋks ˈʔapˌbiːɡn̩",
+   "ipa": "naːx ˈlɪŋks ˈapˌbiːɡn̩",
    "vi": "rẽ sang bên trái",
    "example": "An der Ecke biegen Sie bitte nach links ab.",
    "exampleVi": "Ở góc đường xin vui lòng rẽ trái."
@@ -548,7 +548,7 @@
   {
    "de": "nach rechts abbiegen",
    "pos": "phrase",
-   "ipa": "naːx ˈʁɛçts ˈʔapˌbiːɡn̩",
+   "ipa": "naːx ˈʁɛçts ˈapˌbiːɡn̩",
    "vi": "rẽ sang bên phải",
    "example": "An der Kreuzung müssen Sie nach rechts abbiegen.",
    "exampleVi": "Tại ngã tư ngài phải rẽ phải."
@@ -556,7 +556,7 @@
   {
    "de": "immer geradeaus",
    "pos": "phrase",
-   "ipa": "ˈʔɪmɐ ɡəʁaːdəˈʔaʊ̯s",
+   "ipa": "ˈɪmɐ ɡəʁaːdəˈʔaʊ̯s",
    "vi": "cứ đi thẳng suốt",
    "example": "Gehen Sie immer geradeaus weiter.",
    "exampleVi": "Cứ tiếp tục đi thẳng về phía trước."
@@ -564,7 +564,7 @@
   {
    "de": "an der Ecke",
    "pos": "phrase",
-   "ipa": "ʔan deːɐ̯ ˈʔɛkə",
+   "ipa": "an deːɐ̯ ˈɛkə",
    "vi": "ở tại góc phố",
    "example": "Die Bäckerei liegt direkt an der Ecke.",
    "exampleVi": "Tiệm bánh mì nằm ngay tại góc phố."
@@ -572,7 +572,7 @@
   {
    "de": "um die Ecke",
    "pos": "phrase",
-   "ipa": "ʔʊm diː ˈʔɛkə",
+   "ipa": "ʊm diː ˈɛkə",
    "vi": "ngay quanh góc phố (rất gần)",
    "example": "Mein Supermarkt ist gleich um die Ecke.",
    "exampleVi": "Siêu thị của tôi ở ngay quanh góc phố thôi."
@@ -580,7 +580,7 @@
   {
    "de": "Wie komme ich zum ...?",
    "pos": "phrase",
-   "ipa": "viː ˈkɔmə ʔɪç tsʊm",
+   "ipa": "viː ˈkɔmə ɪç tsʊm",
    "vi": "làm sao tôi tới được ...?",
    "example": "Entschuldigung, wie komme ich zum Hauptbahnhof?",
    "exampleVi": "Xin lỗi, làm sao tôi tới được ga trung tâm?"
@@ -588,7 +588,7 @@
   {
    "de": "Ist das weit?",
    "pos": "phrase",
-   "ipa": "ʔɪst das ˈvaɪ̯t",
+   "ipa": "ɪst das ˈvaɪ̯t",
    "vi": "chỗ đó có xa không?",
    "example": "Ist das weit von hier zu Fuß?",
    "exampleVi": "Đi bộ từ đây tới đó có xa không?"
@@ -596,7 +596,7 @@
   {
    "de": "eine einfache Fahrt",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈʔaɪ̯nfaxə ˈfaːɐ̯t",
+   "ipa": "ˈaɪ̯nə ˈaɪ̯nfaxə ˈfaːɐ̯t",
    "vi": "vé đi một chiều",
    "example": "Ich möchte bitte eine einfache Fahrt nach Köln.",
    "exampleVi": "Làm ơn cho tôi một vé đi một chiều đến Köln."
@@ -604,7 +604,7 @@
   {
    "de": "hin und zurück",
    "pos": "phrase",
-   "ipa": "hɪn ʔʊnt tsuˈʁʏk",
+   "ipa": "hɪn ʊnt tsuˈʁʏk",
    "vi": "vé khứ hồi, đi và về",
    "example": "Ein Ticket nach Berlin hin und zurück, bitte.",
    "exampleVi": "Làm ơn cho một vé khứ hồi đi Berlin."
@@ -644,7 +644,7 @@
   {
    "de": "in der Nähe",
    "pos": "phrase",
-   "ipa": "ʔɪn deːɐ̯ ˈnɛːə",
+   "ipa": "ɪn deːɐ̯ ˈnɛːə",
    "vi": "ở gần đây, trong khu vực lân cận",
    "example": "Gibt es hier in der Nähe eine Bank?",
    "exampleVi": "Ở gần đây có ngân hàng nào không?"
@@ -652,7 +652,7 @@
   {
    "de": "die Straße überqueren",
    "pos": "phrase",
-   "ipa": "diː ˈʃtʁaːsə ʔyːbɐˈkveːʁən",
+   "ipa": "diː ˈʃtʁaːsə yːbɐˈkveːʁən",
    "vi": "băng qua đường",
    "example": "Pass auf, wenn du die Straße überquerst!",
    "exampleVi": "Hãy chú ý khi bạn băng qua đường!"
@@ -660,7 +660,7 @@
   {
    "de": "an der Haltestelle",
    "pos": "phrase",
-   "ipa": "ʔan deːɐ̯ ˈhaltəˌʃtɛlə",
+   "ipa": "an deːɐ̯ ˈhaltəˌʃtɛlə",
    "vi": "ở tại trạm dừng",
    "example": "Wir warten an der Haltestelle auf den Bus.",
    "exampleVi": "Chúng tôi đang đợi xe buýt ở trạm dừng."
@@ -668,7 +668,7 @@
   {
    "de": "im Stau stehen",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈʃtaʊ̯ ˌʃteːən",
+   "ipa": "ɪm ˈʃtaʊ̯ ˌʃteːən",
    "vi": "bị kẹt xe, tắc đường",
    "example": "Wir stehen seit zwanzig Minuten im Stau.",
    "exampleVi": "Chúng tôi bị kẹt xe hai mươi phút rồi."

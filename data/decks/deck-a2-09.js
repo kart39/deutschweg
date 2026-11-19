@@ -160,7 +160,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔoːstɐn",
+   "ipa": "ˈoːstɐn",
    "vi": "lễ Phục sinh",
    "example": "Zu Ostern suchen die Kinder bunt bemalte Eier im Garten.",
    "exampleVi": "Vào lễ Phục sinh lũ trẻ đi tìm những quả trứng nhuộm màu trong vườn."
@@ -170,7 +170,7 @@
    "article": "das",
    "plural": "Ostereier",
    "pos": "noun",
-   "ipa": "ˈʔoːstɐˌʔaɪ̯",
+   "ipa": "ˈoːstɐˌʔaɪ̯",
    "vi": "quả trứng Phục sinh",
    "example": "Wir bemalen gemeinsam schöne Ostereier mit Wasserfarben.",
    "exampleVi": "Chúng tôi cùng nhau vẽ những quả trứng Phục sinh đẹp bằng màu nước."
@@ -240,7 +240,7 @@
    "article": "die",
    "plural": "Einladungen",
    "pos": "noun",
-   "ipa": "ˈʔaɪ̯nˌlaːdʊŋ",
+   "ipa": "ˈaɪ̯nˌlaːdʊŋ",
    "vi": "lời mời, thiệp mời",
    "example": "Herzlichen Dank für Ihre freundliche Einladung zum Abendessen!",
    "exampleVi": "Chân thành cảm ơn ngài vì lời mời dùng bữa tối thân tình!"
@@ -348,7 +348,7 @@
    "de": "einladen",
    "forms": "lädt ein, lud ein, hat eingeladen",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌlaːdn̩",
+   "ipa": "ˈaɪ̯nˌlaːdn̩",
    "vi": "mời mọc (+ Akk zu + Dat)",
    "example": "Sie lädt alle ihre Kollegen zur Geburtstagsparty ein.",
    "exampleVi": "Cô ấy mời tất cả đồng nghiệp tới dự tiệc sinh nhật."
@@ -384,7 +384,7 @@
    "de": "anstoßen",
    "forms": "stößt an, stieß an, hat angestoßen",
    "pos": "verb",
-   "ipa": "ˈʔanˌʃtoːsn̩",
+   "ipa": "ˈanˌʃtoːsn̩",
    "vi": "nâng ly cụng ly (mit + Dat / auf + Akk)",
    "example": "Lasst uns auf das Wohl des Brautpaares anstoßen!",
    "exampleVi": "Nào chúng ta hãy cùng nâng ly chúc phúc cho đôi tân lang tân nương!"
@@ -393,7 +393,7 @@
    "de": "auspacken",
    "forms": "packt aus, packte aus, hat ausgepackt",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯sˌpakn̩",
+   "ipa": "ˈaʊ̯sˌpakn̩",
    "vi": "mở gói quà, bóc quà (+ Akk)",
    "example": "Das Kind packte neugierig die bunten Geschenke aus.",
    "exampleVi": "Đứa bé tò mò bóc những món quà bọc giấy sặc sỡ."
@@ -402,7 +402,7 @@
    "de": "einpacken",
    "forms": "packt ein, packte ein, hat eingepackt",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌpakn̩",
+   "ipa": "ˈaɪ̯nˌpakn̩",
    "vi": "gói quà cẩn thận (+ Akk)",
    "example": "Könnten Sie das Buch bitte als Geschenk einpacken?",
    "exampleVi": "Ngài có thể gói cuốn sách này thành quà tặng giúp tôi được không?"
@@ -420,7 +420,7 @@
    "de": "organisieren",
    "forms": "organisiert, organisierte, hat organisiert",
    "pos": "verb",
-   "ipa": "ʔɔʁɡaniˈziːʁən",
+   "ipa": "ɔʁɡaniˈziːʁən",
    "vi": "tổ chức, lo liệu (+ Akk)",
    "example": "Wer organisiert die Musik und die Getränke für den Abend?",
    "exampleVi": "Ai sẽ lo phần âm nhạc và đồ uống cho buổi tối?"
@@ -494,7 +494,7 @@
   {
    "de": "Alles Gute zum Geburtstag!",
    "pos": "phrase",
-   "ipa": "ˈʔaləs ˌɡuːtə tsʊm ɡəˈbuːɐ̯tsˌtaːk",
+   "ipa": "ˈaləs ˌɡuːtə tsʊm ɡəˈbuːɐ̯tsˌtaːk",
    "vi": "chúc mừng sinh nhật mọi điều tốt đẹp!",
    "example": "Liebe Anna, alles Gute zum Geburtstag und viel Gesundheit!",
    "exampleVi": "Anna thân mến, chúc sinh nhật mọi điều tốt lành và dồi dào sức khỏe!"
@@ -518,7 +518,7 @@
   {
    "de": "Ein frohes neues Jahr!",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈfʁoːəs ˈnɔʏ̯əs ˈjaːɐ̯",
+   "ipa": "aɪ̯n ˈfʁoːəs ˈnɔʏ̯əs ˈjaːɐ̯",
    "vi": "chúc mừng năm mới an khang!",
    "example": "Prost Neujahr! Ich wünsche dir ein frohes neues Jahr!",
    "exampleVi": "Cạn ly mừng năm mới! Chúc bạn một năm mới an khang thịnh vượng!"
@@ -526,7 +526,7 @@
   {
    "de": "Frohe Ostern!",
    "pos": "phrase",
-   "ipa": "ˈfʁoːə ˈʔoːstɐn",
+   "ipa": "ˈfʁoːə ˈoːstɐn",
    "vi": "chúc mừng lễ Phục sinh vui vẻ!",
    "example": "Frohe Ostern und viel Erfolg bei der Ostereiersuche!",
    "exampleVi": "Chúc lễ Phục sinh vui vẻ và tìm được nhiều trứng nhé!"
@@ -550,7 +550,7 @@
   {
    "de": "Vielen Dank für die Einladung!",
    "pos": "phrase",
-   "ipa": "ˈfiːlən ˈdaŋk fyːɐ̯ diː ˈʔaɪ̯nˌlaːdʊŋ",
+   "ipa": "ˈfiːlən ˈdaŋk fyːɐ̯ diː ˈaɪ̯nˌlaːdʊŋ",
    "vi": "cảm ơn rất nhiều vì lời mời!",
    "example": "Wir haben uns sehr gefreut. Vielen Dank für die Einladung!",
    "exampleVi": "Chúng tôi rất vui mừng. Cảm ơn nhiều vì lời mời!"
@@ -558,7 +558,7 @@
   {
    "de": "Auf dein Wohl!",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f daɪ̯n ˈvoːl",
+   "ipa": "aʊ̯f daɪ̯n ˈvoːl",
    "vi": "nâng ly chúc sức khỏe của bạn!",
    "example": "Auf dein Wohl, lieber Freund! Auf die Freundschaft!",
    "exampleVi": "Chúc sức khỏe của bạn, người bạn quý mến! Vì tình bạn của chúng ta!"
@@ -566,7 +566,7 @@
   {
    "de": "einen Toast aussprechen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən toːst ˈʔaʊ̯sˌʃpʁɛçn̩",
+   "ipa": "ˈaɪ̯nən toːst ˈaʊ̯sˌʃpʁɛçn̩",
    "vi": "nói lời nâng ly chúc mừng",
    "example": "Der Brautvater sprach einen bewegenden Toast auf das Paar aus.",
    "exampleVi": "Bố cô dâu đã nói lời chúc mừng đầy xúc động cho đôi trẻ."
@@ -574,7 +574,7 @@
   {
    "de": "die Kerzen ausblasen",
    "pos": "phrase",
-   "ipa": "diː ˈkɛʁtsn̩ ˈʔaʊ̯sˌblaːzn̩",
+   "ipa": "diː ˈkɛʁtsn̩ ˈaʊ̯sˌblaːzn̩",
    "vi": "thổi tắt các ngọn nến",
    "example": "Schließe die Augen, wünsch dir was und blas die Kerzen aus!",
    "exampleVi": "Hãy nhắm mắt lại, ước một điều và thổi tắt nến đi nào!"
@@ -582,7 +582,7 @@
   {
    "de": "ein Geschenk überreichen",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ɡəˈʃɛŋk yːbɐˈʁaɪ̯çn̩",
+   "ipa": "aɪ̯n ɡəˈʃɛŋk yːbɐˈʁaɪ̯çn̩",
    "vi": "trao tặng món quà trang trọng",
    "example": "Die Kollegen überreichten dem Jubilar ein wertvolles Buch.",
    "exampleVi": "Các đồng nghiệp đã trao tặng cuốn sách quý cho người kỷ niệm."
@@ -614,7 +614,7 @@
   {
    "de": "im kleinen Kreis feiern",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈklaɪ̯nən kʁaɪ̯s ˈfaɪ̯ɐn",
+   "ipa": "ɪm ˈklaɪ̯nən kʁaɪ̯s ˈfaɪ̯ɐn",
    "vi": "ăn mừng trong phạm vi nhỏ ấm cúng",
    "example": "Wegen der Pandemie feierten sie die Hochzeit im kleinen Kreis.",
    "exampleVi": "Vì dịch bệnh họ chỉ tổ chức đám cưới trong phạm vi gia đình nhỏ."
@@ -622,7 +622,7 @@
   {
    "de": "eine Feier veranstalten",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈfaɪ̯ɐ fɛɐ̯ˈʔanʃtaltn̩",
+   "ipa": "ˈaɪ̯nə ˈfaɪ̯ɐ fɛɐ̯ˈʔanʃtaltn̩",
    "vi": "đứng ra tổ chức một buổi lễ",
    "example": "Der Verein veranstaltet jedes Jahr im Sommer ein großes Fest.",
    "exampleVi": "Hội đoàn hàng năm đều đứng ra tổ chức một lễ hội mùa hè lớn."
@@ -630,7 +630,7 @@
   {
    "de": "ein Geheimnis behalten",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ɡəˈhaɪ̯mnɪs bəˈhaltn̩",
+   "ipa": "aɪ̯n ɡəˈhaɪ̯mnɪs bəˈhaltn̩",
    "vi": "giữ bí mật sự ngạc nhiên",
    "example": "Bitte behaltet die Überraschungsparty bis morgen als Geheimnis!",
    "exampleVi": "Làm ơn giữ kín bữa tiệc bất ngờ như một bí mật đến ngày mai nhé!"
@@ -639,7 +639,7 @@
    "de": "sich amüsieren",
    "forms": "amüsiert sich, amüsierte sich, hat sich amüsiert",
    "pos": "verb",
-   "ipa": "ʔamyˈziːʁən zɪç",
+   "ipa": "amyˈziːʁən zɪç",
    "vi": "vui vẻ tận hưởng tiệc tùng",
    "example": "Alle Gäste haben sich auf dem Fest köstlich amüsiert.",
    "exampleVi": "Tất cả khách mời đều đã vui vẻ tận hưởng hết mình tại bữa tiệc."
@@ -647,7 +647,7 @@
   {
    "de": "Sekt einschenken",
    "pos": "phrase",
-   "ipa": "zɛkt ˈʔaɪ̯nˌʃɛŋkn̩",
+   "ipa": "zɛkt ˈaɪ̯nˌʃɛŋkn̩",
    "vi": "rót rượu sủi bọt ra ly",
    "example": "Schenk bitte schon mal den Sekt zum Anstoßen ein.",
    "exampleVi": "Hãy rót sẵn rượu sủi ra ly để chuẩn bị cụng ly nhé."

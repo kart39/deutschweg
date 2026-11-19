@@ -529,7 +529,7 @@
   {
    "de": "elektronisch",
    "pos": "adj",
-   "ipa": "ʔelɛkˈtʁoːnɪʃ",
+   "ipa": "elɛkˈtʁoːnɪʃ",
    "vi": "thuộc về điện tử",
    "example": "Sie können die Unterlagen auch auf elektronischem Weg einreichen.",
    "exampleVi": "Bạn cũng có thể nộp hồ sơ theo đường điện tử."
@@ -537,7 +537,7 @@
   {
    "de": "interaktiv",
    "pos": "adj",
-   "ipa": "ʔɪntɐʔakˈtiːf",
+   "ipa": "ɪntɐʔakˈtiːf",
    "vi": "tương tác",
    "example": "Das Museum bietet spannende, interaktive Stationen für Besucher an.",
    "exampleVi": "Bảo tàng cung cấp các trạm tương tác thú vị cho khách tham quan."
@@ -673,7 +673,7 @@
    "article": "die",
    "plural": "Zwei-Faktor-Authentifizierungen",
    "pos": "noun",
-   "ipa": "tsvaɪ̯ ˈfaktoːɐ̯ ʔaʊ̯tɛntifiˈtsiːʁʊŋ",
+   "ipa": "tsvaɪ̯ ˈfaktoːɐ̯ aʊ̯tɛntifiˈtsiːʁʊŋ",
    "vi": "xác thực hai yếu tố",
    "example": "Die Zwei-Faktor-Authentifizierung bietet zusätzlichen Schutz vor Hackern.",
    "exampleVi": "Xác thực hai yếu tố cung cấp sự bảo vệ bổ sung trước các tin tặc."

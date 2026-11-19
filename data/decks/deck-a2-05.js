@@ -50,7 +50,7 @@
    "article": "der",
    "plural": "Arbeitsverträge",
    "pos": "noun",
-   "ipa": "ˈʔaʁbaɪ̯tsfɛɐ̯ˌtʁaːk",
+   "ipa": "ˈaʁbaɪ̯tsfɛɐ̯ˌtʁaːk",
    "vi": "hợp đồng lao động",
    "example": "Vor Arbeitsbeginn muss der Arbeitsvertrag unterschrieben werden.",
    "exampleVi": "Trước khi bắt đầu làm việc hợp đồng lao động phải được ký kết."
@@ -60,7 +60,7 @@
    "article": "die",
    "plural": "Arbeitszeiten",
    "pos": "noun",
-   "ipa": "ˈʔaʁbaɪ̯tsˌtsaɪ̯t",
+   "ipa": "ˈaʁbaɪ̯tsˌtsaɪ̯t",
    "vi": "thời gian làm việc",
    "example": "Meine reguläre Arbeitszeit beträgt 40 Stunden pro Woche.",
    "exampleVi": "Thời gian làm việc chính thức của tôi là 40 giờ một tuần."
@@ -100,7 +100,7 @@
    "article": "die",
    "plural": "Überstunden",
    "pos": "noun",
-   "ipa": "ˈʔyːbɐˌʃtʊndə",
+   "ipa": "ˈyːbɐˌʃtʊndə",
    "vi": "giờ làm thêm, tăng ca",
    "example": "Diesen Monat habe ich zwanzig Überstunden geleistet.",
    "exampleVi": "Tháng này tôi đã làm thêm hai mươi giờ tăng ca."
@@ -160,7 +160,7 @@
    "article": "der",
    "plural": "Urlaubstage",
    "pos": "noun",
-   "ipa": "ˈʔuːɐ̯laʊ̯psˌtaːk",
+   "ipa": "ˈuːɐ̯laʊ̯psˌtaːk",
    "vi": "ngày nghỉ phép có lương",
    "example": "Laut Vertrag habe ich 30 bezahlte Urlaubstage pro Jahr.",
    "exampleVi": "Theo hợp đồng tôi có 30 ngày nghỉ phép hưởng lương mỗi năm."
@@ -180,7 +180,7 @@
    "article": "die",
    "plural": "Ausbildungen",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯sˌbɪldʊŋ",
+   "ipa": "ˈaʊ̯sˌbɪldʊŋ",
    "vi": "đào tạo nghề",
    "example": "Eine duale Ausbildung in Deutschland dauert drei Jahre.",
    "exampleVi": "Khóa đào tạo nghề kép ở Đức kéo dài ba năm."
@@ -308,7 +308,7 @@
    "de": "einstellen",
    "forms": "stellt ein, stellte ein, hat eingestellt",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌʃtɛlən",
+   "ipa": "ˈaɪ̯nˌʃtɛlən",
    "vi": "tuyển dụng vào làm (+ Akk)",
    "example": "Die Firma stellt dieses Jahr zwanzig neue Mitarbeiter ein.",
    "exampleVi": "Năm nay công ty tuyển dụng hai mươi nhân viên mới."
@@ -362,7 +362,7 @@
    "de": "organisieren",
    "forms": "organisiert, organisierte, hat organisiert",
    "pos": "verb",
-   "ipa": "ʔɔʁɡaniˈziːʁən",
+   "ipa": "ɔʁɡaniˈziːʁən",
    "vi": "tổ chức, sắp xếp (+ Akk)",
    "example": "Er organisiert die Konferenz für das gesamte Team.",
    "exampleVi": "Anh ấy tổ chức hội nghị cho toàn thể đội ngũ."
@@ -389,7 +389,7 @@
    "de": "absagen",
    "forms": "sagt ab, sagte ab, hat abgesagt",
    "pos": "verb",
-   "ipa": "ˈʔapˌzaːɡn̩",
+   "ipa": "ˈapˌzaːɡn̩",
    "vi": "hủy bỏ lịch (+ Akk)",
    "example": "Wegen Krankheit musste er den Termin kurzfristig absagen.",
    "exampleVi": "Vì bị ốm anh ấy phải báo hủy lịch gấp."
@@ -439,7 +439,7 @@
   {
    "de": "angestellt",
    "pos": "adj",
-   "ipa": "ˈʔanɡəˌʃtɛlt",
+   "ipa": "ˈanɡəˌʃtɛlt",
    "vi": "làm công ăn lương",
    "example": "Er ist fest angestellt bei einem IT-Unternehmen.",
    "exampleVi": "Anh ấy là nhân viên chính thức tại một doanh nghiệp CNTT."
@@ -455,7 +455,7 @@
   {
    "de": "unbefristet",
    "pos": "adj",
-   "ipa": "ˈʔʊnbəˌfʁɪstət",
+   "ipa": "ˈʊnbəˌfʁɪstət",
    "vi": "không xác định thời hạn (vĩnh viễn)",
    "example": "Nach der Probezeit erhielt sie einen unbefristeten Vertrag.",
    "exampleVi": "Sau thời gian thử việc cô ấy nhận được hợp đồng dài hạn."
@@ -495,7 +495,7 @@
   {
    "de": "anstrengend",
    "pos": "adj",
-   "ipa": "ˈʔanˌʃtʁɛŋənt",
+   "ipa": "ˈanˌʃtʁɛŋənt",
    "vi": "vất vả, căng thẳng",
    "example": "Der lange Arbeitstag war heute unheimlich anstrengend.",
    "exampleVi": "Ngày làm việc dài hôm nay mệt mỏi vô cùng."
@@ -535,7 +535,7 @@
   {
    "de": "sich bewerben um",
    "pos": "phrase",
-   "ipa": "zɪç bəˈvɛʁbn̩ ʔʊm",
+   "ipa": "zɪç bəˈvɛʁbn̩ ʊm",
    "vi": "nộp hồ sơ ứng tuyển vị trí",
    "example": "Ich möchte mich um die ausgeschriebene Stelle bewerben.",
    "exampleVi": "Tôi muốn nộp đơn ứng tuyển cho vị trí đang đăng tuyển."
@@ -551,7 +551,7 @@
   {
    "de": "Überstunden machen",
    "pos": "phrase",
-   "ipa": "ˈʔyːbɐˌʃtʊndn̩ ˌmaxn̩",
+   "ipa": "ˈyːbɐˌʃtʊndn̩ ˌmaxn̩",
    "vi": "làm thêm giờ tăng ca",
    "example": "Wir müssen diese Woche leider viele Überstunden machen.",
    "exampleVi": "Tuần này tiếc là chúng tôi phải tăng ca rất nhiều."
@@ -559,7 +559,7 @@
   {
    "de": "einen Vertrag unterschreiben",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən fɛɐ̯ˈtʁaːk ʔʊntɐˈʃʁaɪ̯bn̩",
+   "ipa": "ˈaɪ̯nən fɛɐ̯ˈtʁaːk ʊntɐˈʃʁaɪ̯bn̩",
    "vi": "ký kết hợp đồng",
    "example": "Er unterschreibt morgen seinen neuen Festvertrag.",
    "exampleVi": "Ngày mai anh ấy sẽ ký hợp đồng chính thức mới."
@@ -575,7 +575,7 @@
   {
    "de": "ein Gehalt verhandeln",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ɡəˈhalt fɛɐ̯ˌhandl̩n",
+   "ipa": "aɪ̯n ɡəˈhalt fɛɐ̯ˌhandl̩n",
    "vi": "đàm phán lương bổng",
    "example": "Beim Vorstellungsgespräch sollte man das Gehalt geschickt verhandeln.",
    "exampleVi": "Khi phỏng vấn người ta nên khéo léo đàm phán mức lương."
@@ -591,7 +591,7 @@
   {
    "de": "Urlaub nehmen",
    "pos": "phrase",
-   "ipa": "ˈʔuːɐ̯ˌlaʊ̯p ˌneːmən",
+   "ipa": "ˈuːɐ̯ˌlaʊ̯p ˌneːmən",
    "vi": "xin nghỉ phép",
    "example": "Ich möchte für die Weihnachtszeit zwei Wochen Urlaub nehmen.",
    "exampleVi": "Tôi muốn xin nghỉ phép hai tuần cho đợt Giáng sinh."
@@ -607,7 +607,7 @@
   {
    "de": "eine Fortbildung machen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈfɔʁtˌbɪldʊŋ ˌmaxn̩",
+   "ipa": "ˈaɪ̯nə ˈfɔʁtˌbɪldʊŋ ˌmaxn̩",
    "vi": "học khóa bồi dưỡng nghiệp vụ",
    "example": "Die Firma bezahlt Mitarbeitern oft Fortbildungen.",
    "exampleVi": "Công ty thường chi trả các khóa bồi dưỡng cho nhân viên."
@@ -623,7 +623,7 @@
   {
    "de": "im Homeoffice arbeiten",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈhoːmˌʔɔfɪs ˈʔaʁbaɪ̯tn̩",
+   "ipa": "ɪm ˈhoːmˌʔɔfɪs ˈaʁbaɪ̯tn̩",
    "vi": "làm việc từ xa tại nhà",
    "example": "Zweimal pro Woche darf ich im Homeoffice arbeiten.",
    "exampleVi": "Mỗi tuần hai lần tôi được phép làm việc tại nhà."
@@ -639,7 +639,7 @@
   {
    "de": "eine Frist einhalten",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə fʁɪst ˈʔaɪ̯nˌhaltn̩",
+   "ipa": "ˈaɪ̯nə fʁɪst ˈaɪ̯nˌhaltn̩",
    "vi": "tuân thủ đúng kỳ hạn",
    "example": "Wir müssen die vereinbarte Frist unbedingt einhalten.",
    "exampleVi": "Chúng ta nhất định phải tuân thủ đúng kỳ hạn đã thỏa thuận."
@@ -656,7 +656,7 @@
   {
    "de": "eine Stelle finden",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈʃtɛlə ˈfɪndn̩",
+   "ipa": "ˈaɪ̯nə ˈʃtɛlə ˈfɪndn̩",
    "vi": "tìm được chỗ làm việc",
    "example": "Nach dem Abschluss hat er schnell eine gute Stelle gefunden.",
    "exampleVi": "Sau khi tốt nghiệp anh ấy đã nhanh chóng tìm được chỗ làm tốt."
@@ -664,7 +664,7 @@
   {
    "de": "in Rente gehen",
    "pos": "phrase",
-   "ipa": "ʔɪn ˈʁɛntə ˌɡeːən",
+   "ipa": "ɪn ˈʁɛntə ˌɡeːən",
    "vi": "nghỉ hưu theo chế độ",
    "example": "Mein Vater geht nächstes Jahr mit 65 Jahren in Rente.",
    "exampleVi": "Năm tới bố tôi sẽ nghỉ hưu ở tuổi 65."

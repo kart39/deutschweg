@@ -301,7 +301,7 @@
      "article": null,
      "plural": null,
      "pos": "phrase",
-     "ipa": "aʊ̯f ˈʔanhiːp",
+     "ipa": "aʊ̯f ˈanhiːp",
      "vi": "ngay lập tức, ngay lần đầu tiên",
      "example": "Nicht jedes Wort muss man auf Anhieb verstehen, um die Frage richtig zu lösen.",
      "exampleVi": "Không phải từ nào cũng cần hiểu ngay lập tức để giải đúng câu hỏi."
@@ -2534,7 +2534,7 @@
      "article": null,
      "plural": null,
      "pos": "phrase",
-     "ipa": "ˈaʊ̯sɐ ˈʔaxt ˈlasn̩",
+     "ipa": "ˈaʊ̯sɐ ˈaxt ˈlasn̩",
      "vi": "bỏ qua, không tính đến (+Akk)",
      "example": "Bei der Vorbereitung darf man das Hörverstehen keineswegs außer Acht lassen.",
      "exampleVi": "Trong quá trình ôn luyện, tuyệt đối không được bỏ qua kỹ năng nghe hiểu."

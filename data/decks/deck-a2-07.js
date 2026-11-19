@@ -90,7 +90,7 @@
    "article": "die",
    "plural": "Untersuchungen",
    "pos": "noun",
-   "ipa": "ʔʊntɐˈzuːxʊŋ",
+   "ipa": "ʊntɐˈzuːxʊŋ",
    "vi": "cuộc thăm khám y khoa",
    "example": "Die ärztliche Untersuchung dauerte etwa eine halbe Stunde.",
    "exampleVi": "Cuộc thăm khám của bác sĩ kéo dài khoảng nửa tiếng."
@@ -180,7 +180,7 @@
    "article": "der",
    "plural": "Augenärzte",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯ɡn̩ˌʔaːɐ̯tst",
+   "ipa": "ˈaʊ̯ɡn̩ˌʔaːɐ̯tst",
    "vi": "bác sĩ chuyên khoa mắt",
    "example": "Der Augenarzt überprüft meine Sehstärke für eine neue Brille.",
    "exampleVi": "Bác sĩ mắt đo thị lực của tôi để cắt kính mới."
@@ -250,7 +250,7 @@
    "article": "die",
    "plural": "Allergien",
    "pos": "noun",
-   "ipa": "ʔalɛʁˈɡiː",
+   "ipa": "alɛʁˈɡiː",
    "vi": "dị ứng",
    "example": "Haben Sie bekannte Allergien gegen bestimmte Arzneien?",
    "exampleVi": "Ngài có tiền sử dị ứng với loại thuốc nào không?"
@@ -260,7 +260,7 @@
    "article": "die",
    "plural": "Infektionen",
    "pos": "noun",
-   "ipa": "ʔɪnfɛkˈtsi̯oːn",
+   "ipa": "ɪnfɛkˈtsi̯oːn",
    "vi": "sự nhiễm trùng, lây nhiễm",
    "example": "Gegen bakterielle Infektionen verschreibt der Arzt Antibiotika.",
    "exampleVi": "Để chống nhiễm khuẩn bác sĩ kê thuốc kháng sinh."
@@ -289,7 +289,7 @@
    "de": "abnehmen",
    "forms": "nimmt ab, nahm ab, hat abgenommen",
    "pos": "verb",
-   "ipa": "ˈʔapˌneːmən",
+   "ipa": "ˈapˌneːmən",
    "vi": "giảm cân, sụt cân",
    "example": "Durch Sport und gesunde Ernährung hat er fünf Kilo abgenommen.",
    "exampleVi": "Nhờ thể thao và ăn uống điều độ anh ấy đã giảm năm cân."
@@ -343,7 +343,7 @@
    "de": "operieren",
    "forms": "operiert, operierte, hat operiert",
    "pos": "verb",
-   "ipa": "ʔopəˈʁiːʁən",
+   "ipa": "opəˈʁiːʁən",
    "vi": "phẫu thuật, mổ (+ Akk)",
    "example": "Das verletzte Knie musste sofort operiert werden.",
    "exampleVi": "Khớp gối bị thương phải được phẫu thuật ngay lập tức."
@@ -406,7 +406,7 @@
    "de": "atmen",
    "forms": "atmet, atmete, hat geatmet",
    "pos": "verb",
-   "ipa": "ˈʔaːtmən",
+   "ipa": "ˈaːtmən",
    "vi": "hít thở",
    "example": "Atmen Sie bitte tief durch die Nase ein und langsam aus.",
    "exampleVi": "Xin vui lòng hít thật sâu bằng mũi và thở chậm ra."
@@ -422,7 +422,7 @@
   {
    "de": "ungesund",
    "pos": "adj",
-   "ipa": "ˈʔʊnɡəˌzʊnt",
+   "ipa": "ˈʊnɡəˌzʊnt",
    "vi": "độc hại, không tốt sức khỏe",
    "example": "Ständiges Fast Food und Bewegungsmangel sind extrem ungesund.",
    "exampleVi": "Ăn đồ ăn nhanh liên tục và thiếu vận động cực kỳ có hại."
@@ -430,7 +430,7 @@
   {
    "de": "ausgewogen",
    "pos": "adj",
-   "ipa": "ˈʔaʊ̯sɡəˌvoːɡn̩",
+   "ipa": "ˈaʊ̯sɡəˌvoːɡn̩",
    "vi": "cân bằng, hài hòa",
    "example": "Eine ausgewogene Kost liefert dem Organismus alle Nährstoffe.",
    "exampleVi": "Khẩu phần ăn cân bằng cung cấp cho cơ thể mọi chất dinh dưỡng."
@@ -462,7 +462,7 @@
   {
    "de": "ansteckend",
    "pos": "adj",
-   "ipa": "ˈʔanˌʃtɛkn̩t",
+   "ipa": "ˈanˌʃtɛkn̩t",
    "vi": "dễ lây truyền, truyền nhiễm",
    "example": "Diese Virusinfektion ist leider hochgradig ansteckend.",
    "exampleVi": "Bệnh nhiễm vi-rút này tiếc là có tính lây lan rất cao."
@@ -478,7 +478,7 @@
   {
    "de": "akut",
    "pos": "adj",
-   "ipa": "ʔaˈkuːt",
+   "ipa": "aˈkuːt",
    "vi": "cấp tính, khẩn cấp",
    "example": "Bei akuten Schmerzen im Brustkorb sofort den Notarzt rufen!",
    "exampleVi": "Khi bị đau ngực cấp tính phải gọi ngay bác sĩ cấp cứu!"
@@ -494,7 +494,7 @@
   {
    "de": "übel",
    "pos": "adj",
-   "ipa": "ˈʔyːbl̩",
+   "ipa": "ˈyːbl̩",
    "vi": "buồn nôn (mir ist übel)",
    "example": "Nach der Bootsfahrt war vielen Passagieren furchtbar übel.",
    "exampleVi": "Sau chuyến đi thuyền nhiều hành khách cảm thấy rất buồn nôn."
@@ -518,7 +518,7 @@
   {
    "de": "auf die Ernährung achten",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f diː ɛɐ̯ˈnɛːʁʊŋ ˈʔaxtn̩",
+   "ipa": "aʊ̯f diː ɛɐ̯ˈnɛːʁʊŋ ˈaxtn̩",
    "vi": "chú trọng chế độ dinh dưỡng",
    "example": "Man sollte in jedem Lebensalter auf die Ernährung achten.",
    "exampleVi": "Ở bất kỳ lứa tuổi nào người ta cũng nên chú trọng ăn uống."
@@ -526,7 +526,7 @@
   {
    "de": "in Form bleiben",
    "pos": "phrase",
-   "ipa": "ʔɪn fɔʁm ˈblaɪ̯bn̩",
+   "ipa": "ɪn fɔʁm ˈblaɪ̯bn̩",
    "vi": "giữ được vóc dáng cân đối",
    "example": "Regelmäßiges Schwimmen hilft ihr, in Form zu bleiben.",
    "exampleVi": "Bơi lội điều đặn giúp cô ấy giữ được vóc dáng cân đối."
@@ -534,7 +534,7 @@
   {
    "de": "Stress abbauen",
    "pos": "phrase",
-   "ipa": "ʃtʁɛs ˈʔapˌbaʊ̯ən",
+   "ipa": "ʃtʁɛs ˈapˌbaʊ̯ən",
    "vi": "giải tỏa căng thẳng áp lực",
    "example": "Lange Waldspaziergänge helfen wirksam, Stress abzubauen.",
    "exampleVi": "Đi dạo trong rừng giúp giải tỏa áp lực rất hiệu quả."
@@ -542,7 +542,7 @@
   {
    "de": "eine Diät machen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə diˈɛːt ˌmaxn̩",
+   "ipa": "ˈaɪ̯nə diˈɛːt ˌmaxn̩",
    "vi": "thực hiện chế độ ăn kiêng",
    "example": "Sie möchte vor dem Sommerurlaub eine gesunde Diät machen.",
    "exampleVi": "Cô ấy muốn ăn kiêng lành mạnh trước kỳ nghỉ hè."
@@ -566,7 +566,7 @@
   {
    "de": "tief einatmen",
    "pos": "phrase",
-   "ipa": "tiːf ˈʔaɪ̯nˌʔaːtmən",
+   "ipa": "tiːf ˈaɪ̯nˌʔaːtmən",
    "vi": "hít vào thật sâu",
    "example": "Bitte tief einatmen und die Luft kurz anhalten!",
    "exampleVi": "Xin vui lòng hít thật sâu và nín thở trong giây lát!"
@@ -574,7 +574,7 @@
   {
    "de": "langsam ausatmen",
    "pos": "phrase",
-   "ipa": "ˈlaŋzaːm ˈʔaʊ̯sˌʔaːtmən",
+   "ipa": "ˈlaŋzaːm ˈaʊ̯sˌʔaːtmən",
    "vi": "thở ra từ từ",
    "example": "Und jetzt wieder ganz langsam durch den Mund ausatmen.",
    "exampleVi": "Và bây giờ hãy thở ra thật chậm qua đường miệng."
@@ -582,7 +582,7 @@
   {
    "de": "den Oberkörper freimachen",
    "pos": "phrase",
-   "ipa": "deːn ˈʔoːbɐˌkœʁpɐ ˈfʁaɪ̯ˌmaxn̩",
+   "ipa": "deːn ˈoːbɐˌkœʁpɐ ˈfʁaɪ̯ˌmaxn̩",
    "vi": "cởi áo phần thân trên (để bác sĩ khám)",
    "example": "Machen Sie bitte für das Abhören den Oberkörper frei.",
    "exampleVi": "Xin vui lòng cởi áo phần thân trên để nghe tim phổi."
@@ -590,7 +590,7 @@
   {
    "de": "auf dem Laufenden bleiben",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f deːm ˈlaʊ̯fndn̩ ˌblaɪ̯bn̩",
+   "ipa": "aʊ̯f deːm ˈlaʊ̯fndn̩ ˌblaɪ̯bn̩",
    "vi": "nắm bắt kịp thời thông tin y tế",
    "example": "Über moderne Behandlungsmethoden bleibt der Mediziner auf dem Laufenden.",
    "exampleVi": "Vị bác sĩ luôn cập nhật kịp thời các phương pháp chữa trị hiện đại."
@@ -614,7 +614,7 @@
   {
    "de": "eine Überweisung bekommen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə yːbɐˈvaɪ̯zʊŋ bəˌkɔmən",
+   "ipa": "ˈaɪ̯nə yːbɐˈvaɪ̯zʊŋ bəˌkɔmən",
    "vi": "nhận giấy chuyển tuyến bác sĩ chuyên khoa",
    "example": "Ich habe vom Hausarzt eine Überweisung zum Radiologen bekommen.",
    "exampleVi": "Tôi đã nhận giấy chuyển tuyến sang bác sĩ chẩn đoán hình ảnh."
@@ -622,7 +622,7 @@
   {
    "de": "ein Rezept einlösen",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ʁeˈtsɛpt ˈʔaɪ̯nˌløːzn̩",
+   "ipa": "aɪ̯n ʁeˈtsɛpt ˈaɪ̯nˌløːzn̩",
    "vi": "mua thuốc theo đơn tại hiệu thuốc",
    "example": "Sie löste das Rezept sofort in der nahegelegenen Apotheke ein.",
    "exampleVi": "Cô ấy đi mua thuốc theo đơn ngay tại tiệm thuốc gần đó."
@@ -646,7 +646,7 @@
   {
    "de": "einen Termin absagen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən tɛʁˈmiːn ˈʔapˌzaːɡn̩",
+   "ipa": "ˈaɪ̯nən tɛʁˈmiːn ˈapˌzaːɡn̩",
    "vi": "báo hủy cuộc hẹn khám",
    "example": "Wenn Sie verhindert sind, sagen Sie den Termin bitte rechtzeitig ab.",
    "exampleVi": "Nếu ngài bận việc đột xuất xin vui lòng báo hủy lịch sớm."
@@ -654,7 +654,7 @@
   {
    "de": "Mir ist schlecht",
    "pos": "phrase",
-   "ipa": "miːɐ̯ ʔɪst ʃlɛçt",
+   "ipa": "miːɐ̯ ɪst ʃlɛçt",
    "vi": "tôi thấy trong người cồn cào buồn nôn",
    "example": "Halt bitte kurz an, mir ist furchtbar schlecht.",
    "exampleVi": "Làm ơn dừng xe một lát, tôi thấy rất buồn nôn."

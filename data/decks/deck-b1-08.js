@@ -11,7 +11,7 @@
    "article": "die",
    "plural": "Alleinerziehenden",
    "pos": "noun",
-   "ipa": "ʔalaɪ̯nʔɛɐ̯ˈtsiːəndə",
+   "ipa": "alaɪ̯nʔɛɐ̯ˈtsiːəndə",
    "vi": "người mẹ/bố đơn thân",
    "example": "Der Staat unterstützt Alleinerziehende durch finanzielle Hilfen.",
    "exampleVi": "Nhà nước hỗ trợ các bậc cha mẹ đơn thân thông qua trợ cấp tài chính."
@@ -310,7 +310,7 @@
    "de": "adoptieren",
    "pos": "verb",
    "forms": "adoptiert, adoptierte, hat adoptiert",
-   "ipa": "ʔadɔpˈtiːʁən",
+   "ipa": "adɔpˈtiːʁən",
    "vi": "nhận làm con nuôi",
    "example": "Das kinderlose Ehepaar entschied sich dazu, ein Kind zu adoptieren.",
    "exampleVi": "Cặp vợ chồng hiếm muộn đã quyết định nhận một đứa con nuôi."
@@ -463,7 +463,7 @@
    "de": "unterstützen",
    "pos": "verb",
    "forms": "unterstützt, unterstützte, hat unterstützt",
-   "ipa": "ʔʊntɐˈʃtʏtsn̩",
+   "ipa": "ʊntɐˈʃtʏtsn̩",
    "vi": "ủng hộ, giúp đỡ",
    "example": "Meine Eltern unterstützen mich bei all meinen beruflichen Plänen.",
    "exampleVi": "Bố mẹ luôn ủng hộ tôi trong mọi dự định nghề nghiệp."
@@ -669,7 +669,7 @@
   {
    "de": "Verantwortung übernehmen für",
    "pos": "phrase",
-   "ipa": "fɛɐ̯ˈʔantvɔʁtʊŋ ʔyːbɐˈneːmən fyːɐ̯",
+   "ipa": "fɛɐ̯ˈʔantvɔʁtʊŋ yːbɐˈneːmən fyːɐ̯",
    "vi": "nhận trách nhiệm về (+ Akk)",
    "example": "Mit der Geburt eines Kindes muss man lebenslange Verantwortung übernehmen.",
    "exampleVi": "Với sự chào đời của một đứa con, người ta phải gánh vác trách nhiệm cả đời."

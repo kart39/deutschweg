@@ -71,7 +71,7 @@
    "article": "die",
    "plural": "Zuversichten",
    "pos": "noun",
-   "ipa": "ˈt͡suːfɛɐ̯ˌzɪçt",
+   "ipa": "ˈtsuːfɛɐ̯ˌzɪçt",
    "vi": "niềm tin tưởng lạc quan",
    "example": "Trotz der schwierigen Phase blickte sie voller Zuversicht in die Zukunft.",
    "exampleVi": "Dù trong giai đoạn cam go, cô ấy vẫn nhìn về tương lai với tràn đầy niềm tin tưởng lạc quan."
@@ -241,7 +241,7 @@
    "article": "die",
    "plural": "Toleranzen",
    "pos": "noun",
-   "ipa": "toleˈʁant͡s",
+   "ipa": "toleˈʁants",
    "vi": "sự khoan dung, lòng vị tha",
    "example": "Gegenseitige Toleranz ist unverzichtbar für ein friedliches Miteinander.",
    "exampleVi": "Sự khoan dung lẫn nhau là điều không thể thiếu cho việc cùng chung sống hòa bình."
@@ -291,7 +291,7 @@
   {
    "de": "zuversichtlich",
    "pos": "adj",
-   "ipa": "ˈt͡suːfɛɐ̯ˌzɪçtlɪç",
+   "ipa": "ˈtsuːfɛɐ̯ˌzɪçtlɪç",
    "vi": "lạc quan, tin tưởng",
    "example": "Wir sind sehr zuversichtlich, dass sich das Problem bald lösen lässt.",
    "exampleVi": "Chúng tôi rất lạc quan tin tưởng rằng vấn đề sẽ sớm được giải quyết."
@@ -515,7 +515,7 @@
   {
    "de": "in vollen Zügen genießen",
    "pos": "phrase",
-   "ipa": "ɪn ˈfɔlən ˈt͡syːɡn̩ ɡəˈniːsn̩",
+   "ipa": "ɪn ˈfɔlən ˈtsyːɡn̩ ɡəˈniːsn̩",
    "vi": "tận hưởng trọn vẹn, hết mình",
    "example": "Im wohlverdienten Urlaub genoss die Familie das sonnige Wetter in vollen Zügen.",
    "exampleVi": "Trong kỳ nghỉ xứng đáng, gia đình đã tận hưởng thời tiết nắng ấm một cách trọn vẹn."
@@ -539,7 +539,7 @@
   {
    "de": "aus dem Gleichgewicht geraten",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯s deːm ˈɡlaɪ̯çɡəˌvɪçt ɡəˈʁaːtn̩",
+   "ipa": "aʊ̯s deːm ˈɡlaɪ̯çɡəˌvɪçt ɡəˈʁaːtn̩",
    "vi": "bị mất thăng bằng (tâm lý/cuộc sống)",
    "example": "Durch die unerwartete Kündigung geriet sein gewohntes Leben aus dem Gleichgewicht.",
    "exampleVi": "Bởi sự sa thải bất ngờ, cuộc sống quen thuộc của anh ấy đã bị mất thăng bằng."
@@ -571,7 +571,7 @@
   {
    "de": "Wert legen auf",
    "pos": "phrase",
-   "ipa": "veːɐ̯t ˈleːɡn̩ ʔaʊ̯f",
+   "ipa": "veːɐ̯t ˈleːɡn̩ aʊ̯f",
    "vi": "coi trọng, đặt giá trị vào (+ Akk)",
    "example": "Sie legt großen Wert auf Pünktlichkeit und Zuverlässigkeit im Alltag.",
    "exampleVi": "Cô ấy rất coi trọng tính đúng giờ và sự đáng tin cậy trong đời sống thường ngày."
@@ -579,7 +579,7 @@
   {
    "de": "aus den Augen verlieren",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯s deːn ˈaʊ̯ɡn̩ fɛɐ̯ˈliːʁən",
+   "ipa": "aʊ̯s deːn ˈaʊ̯ɡn̩ fɛɐ̯ˈliːʁən",
    "vi": "để mất dấu, quên lãng mất",
    "example": "Man sollte auch in hektischen Phasen die eigenen Lebensziele nicht aus den Augen verlieren.",
    "exampleVi": "Dù trong những giai đoạn bận rộn, người ta cũng không nên để mất dấu các mục tiêu sống."
@@ -587,7 +587,7 @@
   {
    "de": "neue Kraft schöpfen",
    "pos": "phrase",
-   "ipa": "ˈnɔʏ̯ə kʁaft ˈʃœp͡fn̩",
+   "ipa": "ˈnɔʏ̯ə kʁaft ˈʃœpfn̩",
    "vi": "tiếp thêm năng lượng mới, hồi phục sinh lực",
    "example": "Am Meer konnte sie neue Kraft für die kommenden beruflichen Aufgaben schöpfen.",
    "exampleVi": "Ở bờ biển, cô ấy đã có thể tiếp thêm nguồn sinh lực mới cho các nhiệm vụ công việc sắp tới."
@@ -611,7 +611,7 @@
   {
    "de": "sich etwas zu Herzen nehmen",
    "pos": "phrase",
-   "ipa": "zɪç ˈɛtvas tsuː ˈhɛʁt͡sn̩ ˈneːmən",
+   "ipa": "zɪç ˈɛtvas tsuː ˈhɛʁtsn̩ ˈneːmən",
    "vi": "khắc ghi vào lòng, coi trọng lời khuyên",
    "example": "Nimm dir die konstruktive Kritik deiner Mentoren zu Herzen.",
    "exampleVi": "Hãy khắc ghi những lời phê bình mang tính xây dựng của người hướng dẫn vào lòng."
@@ -619,7 +619,7 @@
   {
    "de": "alles auf eine Karte setzen",
    "pos": "phrase",
-   "ipa": "ˈaləs ʔaʊ̯f ˈaɪ̯nə ˈkaʁtə ˈzɛtsn̩",
+   "ipa": "ˈaləs aʊ̯f ˈaɪ̯nə ˈkaʁtə ˈzɛtsn̩",
    "vi": "được ăn cả ngã về không, mạo hiểm tất cả",
    "example": "Mit der Unternehmensgründung setzte der junge Entwickler alles auf eine Karte.",
    "exampleVi": "Bằng việc thành lập công ty, nhà phát triển trẻ tuổi đã đặt cược tất cả vào một canh bạc."
@@ -627,7 +627,7 @@
   {
    "de": "Hoffnung schöpfen",
    "pos": "phrase",
-   "ipa": "ˈhɔfnʊŋ ˈʃœp͡fn̩",
+   "ipa": "ˈhɔfnʊŋ ˈʃœpfn̩",
    "vi": "nhen nhóm hy vọng",
    "example": "Durch die positiven Untersuchungsergebnisse schöpften die Patienten neue Hoffnung.",
    "exampleVi": "Nhờ các kết quả xét nghiệm tích cực, bệnh nhân đã nhen nhóm niềm hy vọng mới."
@@ -635,7 +635,7 @@
   {
    "de": "die Zügel in die Hand nehmen",
    "pos": "phrase",
-   "ipa": "diː ˈt͡syːɡl̩ ɪn diː hant ˈneːmən",
+   "ipa": "diː ˈtsyːɡl̩ ɪn diː hant ˈneːmən",
    "vi": "nắm quyền kiểm soát tình hình",
    "example": "Es wurde Zeit, dass sie die Zügel in die Hand nahm und ihr Schicksal selbst steuerte.",
    "exampleVi": "Đã đến lúc cô ấy tự mình nắm lấy dây cương và làm chủ số phận của bản thân."
@@ -643,7 +643,7 @@
   {
    "de": "an seine Grenzen stoßen",
    "pos": "phrase",
-   "ipa": "ʔan ˈzaɪ̯nə ˈɡʁɛntsn̩ ˈʃtoːsn̩",
+   "ipa": "an ˈzaɪ̯nə ˈɡʁɛntsn̩ ˈʃtoːsn̩",
    "vi": "chạm tới giới hạn chịu đựng của bản thân",
    "example": "Beim anstrengenden Marathonlauf stießen viele Läufer an ihre körperlichen Grenzen.",
    "exampleVi": "Trong cuộc chạy marathon khắc nghiệt, nhiều vận động viên đã chạm tới giới hạn thể lực."
@@ -651,7 +651,7 @@
   {
    "de": "sich Zeit nehmen für",
    "pos": "phrase",
-   "ipa": "zɪç t͡saɪ̯t ˈneːmən fyːɐ̯",
+   "ipa": "zɪç tsaɪ̯t ˈneːmən fyːɐ̯",
    "vi": "dành thời gian cho việc gì (+ Akk)",
    "example": "Erfolgreiche Menschen nehmen sich trotz vollem Terminkalender bewusst Zeit für die Familie.",
    "exampleVi": "Những người thành công dù lịch làm việc dày đặc vẫn chủ động dành thời gian cho gia đình."

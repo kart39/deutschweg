@@ -50,7 +50,7 @@
    "article": "der",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔʊntɐˌʁɪçt",
+   "ipa": "ˈʊntɐˌʁɪçt",
    "vi": "giờ học, tiết giảng dạy",
    "example": "Der Unterricht beginnt pünktlich um neun Uhr.",
    "exampleVi": "Giờ học bắt đầu đúng chín giờ."
@@ -140,7 +140,7 @@
    "article": "die",
    "plural": "Unis",
    "pos": "noun",
-   "ipa": "ˈʔuːni",
+   "ipa": "ˈuːni",
    "vi": "trường đại học (gọi tắt)",
    "example": "Kommst du heute mit zur Uni?",
    "exampleVi": "Hôm nay bạn có cùng đến trường đại học không?"
@@ -250,7 +250,7 @@
    "article": "die",
    "plural": "Aufgaben",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯fˌɡaːbə",
+   "ipa": "ˈaʊ̯fˌɡaːbə",
    "vi": "bài tập, nhiệm vụ",
    "example": "Macht bitte die Aufgabe 3 auf Seite 15.",
    "exampleVi": "Hãy làm bài tập 3 ở trang 15 nhé."
@@ -280,7 +280,7 @@
    "article": "die",
    "plural": "Antworten",
    "pos": "noun",
-   "ipa": "ˈʔantvɔʁt",
+   "ipa": "ˈantvɔʁt",
    "vi": "câu trả lời",
    "example": "Die Antwort ist vollkommen richtig.",
    "exampleVi": "Câu trả lời hoàn toàn chính xác."
@@ -330,7 +330,7 @@
    "article": "die",
    "plural": "Arbeiten",
    "pos": "noun",
-   "ipa": "ˈʔaʁbaɪ̯t",
+   "ipa": "ˈaʁbaɪ̯t",
    "vi": "công việc, việc làm",
    "example": "Ich fahre jeden Morgen um sieben zur Arbeit.",
    "exampleVi": "Mỗi sáng lúc 7 giờ tôi đi làm."
@@ -340,7 +340,7 @@
    "article": "der",
    "plural": "Arbeitsplätze",
    "pos": "noun",
-   "ipa": "ˈʔaʁbaɪ̯tsˌplats",
+   "ipa": "ˈaʁbaɪ̯tsˌplats",
    "vi": "nơi làm việc, chỗ làm",
    "example": "Mein Arbeitsplatz ist modern und aufgeräumt.",
    "exampleVi": "Chỗ làm việc của tôi hiện đại và ngăn nắp."
@@ -440,7 +440,7 @@
    "article": "der",
    "plural": "Urlaube",
    "pos": "noun",
-   "ipa": "ˈʔuːɐ̯ˌlaʊ̯p",
+   "ipa": "ˈuːɐ̯ˌlaʊ̯p",
    "vi": "kỳ nghỉ phép",
    "example": "Nächste Woche habe ich zwei Wochen Urlaub.",
    "exampleVi": "Tuần tới tôi có kỳ nghỉ phép hai tuần."
@@ -512,7 +512,7 @@
    "de": "antworten",
    "forms": "antwortet, antwortete, hat geantwortet",
    "pos": "verb",
-   "ipa": "ˈʔantvɔʁtn̩",
+   "ipa": "ˈantvɔʁtn̩",
    "vi": "trả lời (auf + Akk)",
    "example": "Er antwortet sofort auf meine Frage.",
    "exampleVi": "Anh ấy trả lời ngay câu hỏi của tôi."
@@ -530,7 +530,7 @@
    "de": "üben",
    "forms": "übt, übte, hat geübt",
    "pos": "verb",
-   "ipa": "ˈʔyːbn̩",
+   "ipa": "ˈyːbn̩",
    "vi": "luyện tập (+ Akk)",
    "example": "Wir müssen die Aussprache fleißig üben.",
    "exampleVi": "Chúng ta phải chăm chỉ luyện phát âm."
@@ -539,7 +539,7 @@
    "de": "arbeiten",
    "forms": "arbeitet, arbeitete, hat gearbeitet",
    "pos": "verb",
-   "ipa": "ˈʔaʁbaɪ̯tn̩",
+   "ipa": "ˈaʁbaɪ̯tn̩",
    "vi": "làm việc",
    "example": "Er arbeitet als Ingenieur bei Siemens.",
    "exampleVi": "Anh ấy làm kỹ sư tại hãng Siemens."
@@ -596,7 +596,7 @@
   {
    "de": "einfach",
    "pos": "adj",
-   "ipa": "ˈʔaɪ̯nfax",
+   "ipa": "ˈaɪ̯nfax",
    "vi": "đơn giản, dễ dàng",
    "example": "Diese Übung ist wirklich sehr einfach.",
    "exampleVi": "Bài tập này thực sự rất dễ."
@@ -620,7 +620,7 @@
   {
    "de": "arbeitslos",
    "pos": "adj",
-   "ipa": "ˈʔaʁbaɪ̯tsˌloːs",
+   "ipa": "ˈaʁbaɪ̯tsˌloːs",
    "vi": "thất nghiệp",
    "example": "Er ist seit zwei Monaten leider arbeitslos.",
    "exampleVi": "Tiếc là anh ấy đã thất nghiệp hai tháng nay."
@@ -644,7 +644,7 @@
   {
    "de": "Ich verstehe nicht",
    "pos": "phrase",
-   "ipa": "ʔɪç fɛɐ̯ˈʃteːə nɪçt",
+   "ipa": "ɪç fɛɐ̯ˈʃteːə nɪçt",
    "vi": "tôi không hiểu",
    "example": "Entschuldigung, ich verstehe das Wort nicht.",
    "exampleVi": "Xin lỗi, tôi không hiểu từ này."
@@ -652,7 +652,7 @@
   {
    "de": "Ich habe eine Frage",
    "pos": "phrase",
-   "ipa": "ʔɪç ˈhaːbə ˈʔaɪ̯nə ˈfʁaːɡə",
+   "ipa": "ɪç ˈhaːbə ˈaɪ̯nə ˈfʁaːɡə",
    "vi": "tôi có một câu hỏi",
    "example": "Frau Müller, ich habe eine Frage zur Hausaufgabe.",
    "exampleVi": "Thưa cô Müller, em có câu hỏi về bài tập về nhà."
@@ -676,7 +676,7 @@
   {
    "de": "eine Pause machen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈpaʊ̯zə ˌmaxn̩",
+   "ipa": "ˈaɪ̯nə ˈpaʊ̯zə ˌmaxn̩",
    "vi": "nghỉ giải lao",
    "example": "Wollen wir zehn Minuten Pause machen?",
    "exampleVi": "Chúng ta nghỉ giải lao mười phút nhé?"
@@ -692,7 +692,7 @@
   {
    "de": "eine Prüfung bestehen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈpʁyːfʊŋ bəˌʃteːən",
+   "ipa": "ˈaɪ̯nə ˈpʁyːfʊŋ bəˌʃteːən",
    "vi": "thi đỗ kỳ thi",
    "example": "Herzlichen Glückwunsch, du hast die Prüfung bestanden!",
    "exampleVi": "Chúc mừng nhé, bạn đã thi đỗ kỳ thi rồi!"

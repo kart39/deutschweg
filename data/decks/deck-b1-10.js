@@ -472,7 +472,7 @@
    "de": "vorbeifahren an",
    "pos": "verb",
    "forms": "fährt vorbei, fuhr vorbei, ist vorbeigefahren",
-   "ipa": "foːɐ̯ˈbaɪ̯ˌfaːʁən ʔan",
+   "ipa": "foːɐ̯ˈbaɪ̯ˌfaːʁən an",
    "vi": "lái xe chạy ngang qua (+ Dat)",
    "example": "Wir sind an vielen malerischen Dörfern und Schlössern vorbeigefahren.",
    "exampleVi": "Chúng tôi đã lái xe ngang qua nhiều ngôi làng và lâu đài đẹp như tranh."
@@ -481,7 +481,7 @@
    "de": "warten auf",
    "pos": "verb",
    "forms": "wartet, wartete, hat gewartet",
-   "ipa": "ˈvaʁtn̩ ʔaʊ̯f",
+   "ipa": "ˈvaʁtn̩ aʊ̯f",
    "vi": "đợi, chờ ai/cái gì (+ Akk)",
    "example": "Die Fahrgäste warten geduldig auf dem Bahnsteig auf den verspäteten Zug.",
    "exampleVi": "Hành khách kiên nhẫn đứng đợi trên sân ga chuyến tàu bị đến muộn."
@@ -593,7 +593,7 @@
   {
    "de": "unterwegs",
    "pos": "adv",
-   "ipa": "ʔʊntɐˈveːks",
+   "ipa": "ʊntɐˈveːks",
    "vi": "đang trên đường đi",
    "example": "Ich bin gerade unterwegs zum Bahnhof, wir sehen uns gleich.",
    "exampleVi": "Tôi đang trên đường tới nhà ga, chúng mình gặp nhau ngay nhé."
@@ -609,7 +609,7 @@
   {
    "de": "Anschluss haben an",
    "pos": "phrase",
-   "ipa": "ˈanˌʃlʊs ˈhaːbn̩ ʔan",
+   "ipa": "ˈanˌʃlʊs ˈhaːbn̩ an",
    "vi": "có chuyến tàu/xe nối tiếp đi (+ Akk)",
    "example": "In Mannheim haben Reisende direkten Anschluss an den ICE nach Paris.",
    "exampleVi": "Tại Mannheim, hành khách có chuyến kết nối trực tiếp sang tàu ICE đi Paris."

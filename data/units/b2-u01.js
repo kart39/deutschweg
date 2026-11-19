@@ -2167,7 +2167,7 @@
      "article": null,
      "plural": null,
      "pos": "phrase",
-     "ipa": "kʁiˈtiːk ˈyːbn̩ ʔan",
+     "ipa": "kʁiˈtiːk ˈyːbn̩ an",
      "vi": "chỉ trích, phê bình gay gắt (+ Dat)",
      "example": "Die Psychologin übte deutliche Kritik an der ständigen Erreichbarkeit nach Feierabend.",
      "exampleVi": "Nữ chuyên gia tâm lý đã chỉ trích gay gắt tình trạng liên tục phải trực điện thoại sau giờ tan sở."
@@ -2247,7 +2247,7 @@
      "article": null,
      "plural": null,
      "pos": "phrase",
-     "ipa": "ˈaɪ̯nən ˈʔanˌtʁaːk ˈʃtɛln̩",
+     "ipa": "ˈaɪ̯nən ˈanˌtʁaːk ˈʃtɛln̩",
      "vi": "nộp đơn xin, đệ trình văn bản đề nghị (auf + Akk)",
      "example": "Sie stellte bei ihrem Vorgesetzten einen formellen Antrag auf Teilzeitarbeit.",
      "exampleVi": "Cô ấy đã nộp lên cấp trên một lá đơn chính thức xin chuyển sang chế độ làm việc bán thời gian."
@@ -2287,7 +2287,7 @@
      "article": "die",
      "plural": "Achtsamkeiten",
      "pos": "noun",
-     "ipa": "ˈʔaxtzaːmkaɪ̯t",
+     "ipa": "ˈaxtzaːmkaɪ̯t",
      "vi": "sự chánh niệm, sự chú tâm tỉnh thức vào giây phút hiện tại",
      "example": "Durch tägliche Übungen der Achtsamkeit lässt sich der Alltagsstress spürbar reduzieren.",
      "exampleVi": "Nhờ những bài tập chánh niệm hàng ngày, người ta có thể giảm bớt rõ rệt áp lực cuộc sống thường nhật."
@@ -2297,7 +2297,7 @@
      "article": "die",
      "plural": "Entschleunigungen",
      "pos": "noun",
-     "ipa": "ʔɛntˈʃlɔʏ̯nɪɡʊŋ",
+     "ipa": "ɛntˈʃlɔʏ̯nɪɡʊŋ",
      "vi": "sự sống chậm lại, sự giảm bớt tốc độ hối hả của cuộc sống",
      "example": "Ein erholsamer Urlaub in den Bergen schenkt den Gestressten die ersehnte Entschleunigung.",
      "exampleVi": "Một kỳ nghỉ dưỡng thư thái trên núi đem lại cho những người căng thẳng sự sống chậm hằng mong ước."
@@ -2367,7 +2367,7 @@
      "article": null,
      "plural": null,
      "pos": "adj",
-     "ipa": "ˈʔaxtzaːm",
+     "ipa": "ˈaxtzaːm",
      "vi": "chánh niệm, chú tâm sâu sắc, có ý thức cẩn trọng",
      "example": "Ein achtsamer Umgang mit der Natur ist das Fundament einer lebenswerten Zukunft.",
      "exampleVi": "Cách ứng xử chánh niệm với thiên nhiên là nền tảng của một tương lai đáng sống."
@@ -2418,7 +2418,7 @@
      "plural": null,
      "pos": "verb",
      "forms": "entschleunigt, entschleunigte, hat entschleunigt",
-     "ipa": "ʔɛntˈʃlɔʏ̯nɪɡn̩",
+     "ipa": "ɛntˈʃlɔʏ̯nɪɡn̩",
      "vi": "sống chậm lại, giảm bớt nhịp sống hối hả",
      "example": "Am Wochenende schaltet sie das Diensthandy aus, um bewusst zu entschleunigen.",
      "exampleVi": "Vào cuối tuần, cô ấy tắt điện thoại công vụ để chủ động sống chậm lại."

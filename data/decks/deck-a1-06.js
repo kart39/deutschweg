@@ -220,7 +220,7 @@
    "article": "die",
    "plural": "Ausstellungen",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯sˌʃtɛlʊŋ",
+   "ipa": "ˈaʊ̯sˌʃtɛlʊŋ",
    "vi": "cuộc triển lãm",
    "example": "Die Kunstausstellung ist noch bis Sonntag geöffnet.",
    "exampleVi": "Triển lãm nghệ thuật còn mở cửa đến hết chủ nhật."
@@ -310,7 +310,7 @@
    "article": "die",
    "plural": "Eintrittskarten",
    "pos": "noun",
-   "ipa": "ˈʔaɪ̯ntʁɪtsˌkaʁtə",
+   "ipa": "ˈaɪ̯ntʁɪtsˌkaʁtə",
    "vi": "vé vào cửa",
    "example": "Die Eintrittskarte für das Museum kostet acht Euro.",
    "exampleVi": "Vé vào cửa bảo tàng có giá tám euro."
@@ -340,7 +340,7 @@
    "article": "der",
    "plural": "Ausflüge",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯sˌfluːk",
+   "ipa": "ˈaʊ̯sˌfluːk",
    "vi": "chuyến dã ngoại, chuyến đi chơi ngắn ngày",
    "example": "Am Wochenende machen wir einen Ausflug an den See.",
    "exampleVi": "Cuối tuần chúng tôi đi chơi hồ nước một chuyến."
@@ -585,7 +585,7 @@
   {
    "de": "aktiv",
    "pos": "adj",
-   "ipa": "ʔakˈtiːf",
+   "ipa": "akˈtiːf",
    "vi": "năng động, tích cực",
    "example": "Er ist auch im Alter noch sehr aktiv.",
    "exampleVi": "Dù đã có tuổi anh ấy vẫn rất năng động."
@@ -601,7 +601,7 @@
   {
    "de": "interessant",
    "pos": "adj",
-   "ipa": "ʔɪntəʁɛˈsant",
+   "ipa": "ɪntəʁɛˈsant",
    "vi": "thú vị",
    "example": "Ich habe gestern ein interessantes Buch gelesen.",
    "exampleVi": "Hôm qua tôi đã đọc một cuốn sách rất thú vị."
@@ -633,7 +633,7 @@
   {
    "de": "allein",
    "pos": "adv",
-   "ipa": "ʔaˈlaɪ̯n",
+   "ipa": "aˈlaɪ̯n",
    "vi": "một mình",
    "example": "Manchmal gehe ich gern allein ins Kino.",
    "exampleVi": "Thỉnh thoảng tôi thích đi xem phim một mình."
@@ -657,7 +657,7 @@
   {
    "de": "oft",
    "pos": "adv",
-   "ipa": "ˈʔɔft",
+   "ipa": "ˈɔft",
    "vi": "thường xuyên",
    "example": "Wie oft gehst du in der Woche joggen?",
    "exampleVi": "Mỗi tuần bạn đi chạy bộ bao nhiêu lần?"
@@ -681,7 +681,7 @@
   {
    "de": "am liebsten",
    "pos": "phrase",
-   "ipa": "ʔam ˈliːpstn̩",
+   "ipa": "am ˈliːpstn̩",
    "vi": "thích nhất",
    "example": "Am liebsten reise ich ans Meer.",
    "exampleVi": "Tôi thích đi du lịch biển nhất."

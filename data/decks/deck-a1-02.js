@@ -250,7 +250,7 @@
    "article": "der",
    "plural": "Aufzüge",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯fˌtsuːk",
+   "ipa": "ˈaʊ̯fˌtsuːk",
    "vi": "thang máy",
    "example": "Der Aufzug ist leider kaputt.",
    "exampleVi": "Thang máy không may bị hỏng rồi."
@@ -270,7 +270,7 @@
    "article": "das",
    "plural": "Erdgeschosse",
    "pos": "noun",
-   "ipa": "ˈʔeːɐ̯tɡəˌʃɔs",
+   "ipa": "ˈeːɐ̯tɡəˌʃɔs",
    "vi": "tầng trệt",
    "example": "Die Praxis liegt im Erdgeschoss.",
    "exampleVi": "Phòng khám nằm ở tầng trệt."
@@ -510,7 +510,7 @@
    "article": "die",
    "plural": "Uhren",
    "pos": "noun",
-   "ipa": "ʔuːɐ̯",
+   "ipa": "uːɐ̯",
    "vi": "đồng hồ; giờ",
    "example": "Die Uhr an der Wand geht genau.",
    "exampleVi": "Đồng hồ trên tường chạy rất chính xác."
@@ -600,7 +600,7 @@
    "article": "der",
    "plural": "Umzüge",
    "pos": "noun",
-   "ipa": "ˈʔʊmˌtsuːk",
+   "ipa": "ˈʊmˌtsuːk",
    "vi": "việc chuyển nhà",
    "example": "Der Umzug nach Berlin war sehr anstrengend.",
    "exampleVi": "Việc chuyển nhà tới Berlin rất vất vả."
@@ -656,7 +656,7 @@
    "de": "umziehen",
    "forms": "zieht um, zog um, ist umgezogen",
    "pos": "verb",
-   "ipa": "ˈʔʊmˌtsiːən",
+   "ipa": "ˈʊmˌtsiːən",
    "vi": "chuyển nhà (nach + Dat / in + Akk)",
    "example": "Nächste Woche ziehen wir in eine neue Wohnung um.",
    "exampleVi": "Tuần sau chúng tôi sẽ chuyển vào căn hộ mới."
@@ -665,7 +665,7 @@
    "de": "einrichten",
    "forms": "richtet ein, richtete ein, hat eingerichtet",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌʁɪçtn̩",
+   "ipa": "ˈaɪ̯nˌʁɪçtn̩",
    "vi": "bài trí, sắm sửa đồ đạc",
    "example": "Sie haben das Wohnzimmer sehr schön eingerichtet.",
    "exampleVi": "Họ đã bài trí phòng khách rất đẹp."
@@ -730,7 +730,7 @@
   {
    "de": "oben",
    "pos": "adv",
-   "ipa": "ˈʔoːbn̩",
+   "ipa": "ˈoːbn̩",
    "vi": "ở phía trên",
    "example": "Die Kinder schlafen oben im ersten Stock.",
    "exampleVi": "Lũ trẻ ngủ ở trên tầng một."

@@ -50,7 +50,7 @@
    "article": "die",
    "plural": "Pflichtversicherungen",
    "pos": "noun",
-   "ipa": "ˈp͡flɪçtfɛɐ̯ˌzɪçəʁʊŋ",
+   "ipa": "ˈpflɪçtfɛɐ̯ˌzɪçəʁʊŋ",
    "vi": "bảo hiểm bắt buộc",
    "example": "Die gesetzliche Krankenversicherung ist für die meisten Angestellten eine Pflichtversicherung.",
    "exampleVi": "Bảo hiểm y tế công lập là bảo hiểm bắt buộc đối với hầu hết nhân viên làm công ăn lương."
@@ -60,7 +60,7 @@
    "article": "der",
    "plural": "Beitragssätze",
    "pos": "noun",
-   "ipa": "ˈbaɪ̯tʁaːksˌzat͡s",
+   "ipa": "ˈbaɪ̯tʁaːksˌzats",
    "vi": "mức đóng phí bảo hiểm",
    "example": "Der Beitragssatz zur Krankenkasse wird zwischen Arbeitgeber und Arbeitnehmer aufgeteilt.",
    "exampleVi": "Mức đóng phí bảo hiểm y tế được chia đều giữa chủ lao động và người lao động."
@@ -70,7 +70,7 @@
    "article": "der",
    "plural": "Hausärzte",
    "pos": "noun",
-   "ipa": "ˈhaʊ̯sʔaːɐ̯t͡st",
+   "ipa": "ˈhaʊ̯sʔaːɐ̯tst",
    "vi": "bác sĩ gia đình",
    "example": "Bei gesundheitlichen Beschwerden geht man in Deutschland zuerst zum Hausarzt.",
    "exampleVi": "Khi có vấn đề sức khỏe, ở Đức người ta đến bác sĩ gia đình đầu tiên."
@@ -80,7 +80,7 @@
    "article": "der",
    "plural": "Fachärzte",
    "pos": "noun",
-   "ipa": "ˈfaxʔaːɐ̯t͡st",
+   "ipa": "ˈfaxʔaːɐ̯tst",
    "vi": "bác sĩ chuyên khoa",
    "example": "Der Hausarzt überwies den Patienten an einen Facharzt für Kardiologie.",
    "exampleVi": "Bác sĩ gia đình đã chuyển bệnh nhân đến một bác sĩ chuyên khoa tim mạch."
@@ -90,7 +90,7 @@
    "article": "der",
    "plural": "Allgemeinmediziner",
    "pos": "noun",
-   "ipa": "alɡəˈmaɪ̯nmediˌt͡siːnɐ",
+   "ipa": "alɡəˈmaɪ̯nmediˌtsiːnɐ",
    "vi": "bác sĩ đa khoa",
    "example": "Viele Allgemeinmediziner führen eine eigene Praxis auf dem Land.",
    "exampleVi": "Nhiều bác sĩ đa khoa mở phòng khám riêng ở nông thôn."
@@ -130,7 +130,7 @@
    "article": "das",
    "plural": "Rezepte",
    "pos": "noun",
-   "ipa": "ʁeˈt͡sɛpt",
+   "ipa": "ʁeˈtsɛpt",
    "vi": "đơn thuốc",
    "example": "Mit dem rosa Rezept kann man das Medikament in der Apotheke abholen.",
    "exampleVi": "Với đơn thuốc màu hồng, người ta có thể lấy thuốc ở hiệu thuốc."
@@ -160,7 +160,7 @@
    "article": "das",
    "plural": "Arzneimittel",
    "pos": "noun",
-   "ipa": "ˈʔaːɐ̯t͡snaɪ̯ˌmɪtl̩",
+   "ipa": "ˈaːɐ̯tsnaɪ̯ˌmɪtl̩",
    "vi": "dược phẩm, thuốc",
    "example": "Arzneimittel müssen stets trocken und für Kinder unzugänglich gelagert werden.",
    "exampleVi": "Dược phẩm phải luôn được bảo quản nơi khô ráo và xa tầm tay trẻ em."
@@ -190,7 +190,7 @@
    "article": "der",
    "plural": "Beipackzettel",
    "pos": "noun",
-   "ipa": "ˈbaɪ̯pakˌt͡sɛtl̩",
+   "ipa": "ˈbaɪ̯pakˌtsɛtl̩",
    "vi": "tờ hướng dẫn sử dụng kèm theo thuốc",
    "example": "Lesen Sie vor der Einnahme aufmerksam den Beipackzettel.",
    "exampleVi": "Hãy đọc kỹ tờ hướng dẫn sử dụng trước khi uống thuốc."
@@ -230,7 +230,7 @@
    "article": "der",
    "plural": "Notärzte",
    "pos": "noun",
-   "ipa": "ˈnoːtʔaːɐ̯t͡st",
+   "ipa": "ˈnoːtʔaːɐ̯tst",
    "vi": "bác sĩ cấp cứu",
    "example": "Der Notarzt versorgte den Patienten bereits während der Fahrt ins Spital.",
    "exampleVi": "Bác sĩ cấp cứu đã sơ cứu cho bệnh nhân ngay trên đường đến bệnh viện."
@@ -240,7 +240,7 @@
    "article": "die",
    "plural": "Operationen",
    "pos": "noun",
-   "ipa": "ʔopəʁaˈt͡sjoːn",
+   "ipa": "opəʁaˈtsjoːn",
    "vi": "ca mổ, ca phẫu thuật",
    "example": "Die komplizierte Operation verlief ohne jegliche Komplikationen.",
    "exampleVi": "Ca mổ phức tạp đã diễn ra mà không gặp bất kỳ biến chứng nào."
@@ -280,7 +280,7 @@
    "article": "die",
    "plural": "Rehabilitationen",
    "pos": "noun",
-   "ipa": "ʁehabiliˈtaˈt͡sjoːn",
+   "ipa": "ʁehabiliˈtaˈtsjoːn",
    "vi": "phục hồi chức năng",
    "example": "Nach dem Herzinfarkt verbrachte er vier Wochen in einer Reha-Klinik.",
    "exampleVi": "Sau cơn đau tim, ông ấy đã trải qua bốn tuần ở một phòng khám phục hồi chức năng."
@@ -300,7 +300,7 @@
    "article": "die",
    "plural": "Impfungen",
    "pos": "noun",
-   "ipa": "ˈʔɪmp͡fʊŋ",
+   "ipa": "ˈɪmpfʊŋ",
    "vi": "tiêm chủng, chích ngừa",
    "example": "Eine Impfung gegen Grippe wird älteren Menschen im Herbst empfohlen.",
    "exampleVi": "Tiêm chủng phòng cúm được khuyến nghị cho người lớn tuổi vào mùa thu."
@@ -310,7 +310,7 @@
    "article": "der",
    "plural": "Impfpässe",
    "pos": "noun",
-   "ipa": "ˈʔɪmp͡fˌpas",
+   "ipa": "ˈɪmpfˌpas",
    "vi": "sổ tiêm chủng",
    "example": "Alle durchgeführten Schutzimpfungen werden im gelben Impfpass dokumentiert.",
    "exampleVi": "Tất cả các mũi tiêm chủng phòng bệnh đều được ghi chép vào sổ tiêm chủng màu vàng."
@@ -320,7 +320,7 @@
    "article": "die",
    "plural": "Infektionen",
    "pos": "noun",
-   "ipa": "ʔɪnfɛkˈt͡sjoːn",
+   "ipa": "ɪnfɛkˈtsjoːn",
    "vi": "sự nhiễm trùng",
    "example": "Gegen bakterielle Infektionen verschreibt der Arzt häufig Antibiotika.",
    "exampleVi": "Để chống lại nhiễm trùng do vi khuẩn, bác sĩ thường kê kháng sinh."
@@ -330,7 +330,7 @@
    "article": "die",
    "plural": "Ansteckungen",
    "pos": "noun",
-   "ipa": "ˈʔanˌʃtɛkʊŋ",
+   "ipa": "ˈanˌʃtɛkʊŋ",
    "vi": "sự lây nhiễm",
    "example": "Händewaschen schützt wirksam vor einer Ansteckung mit Viren.",
    "exampleVi": "Rửa tay bảo vệ hiệu quả chống lại sự lây nhiễm vi-rút."
@@ -360,7 +360,7 @@
    "article": "die",
    "plural": "Entzündungen",
    "pos": "noun",
-   "ipa": "ʔɛntˈt͡sʏndʊŋ",
+   "ipa": "ɛntˈtsʏndʊŋ",
    "vi": "chỗ viêm, sưng viêm",
    "example": "Die Entzündung im Kniegelenk muss mit entzündungshemmenden Salben behandelt werden.",
    "exampleVi": "Chỗ viêm ở khớp gối cần được điều trị bằng thuốc mỡ chống viêm."
@@ -380,7 +380,7 @@
    "article": "der",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈbluːtˌt͡sʊkɐ",
+   "ipa": "ˈbluːtˌtsʊkɐ",
    "vi": "đường huyết",
    "example": "Menschen mit Diabetes müssen ihren Blutzucker mehrmals täglich kontrollieren.",
    "exampleVi": "Người mắc bệnh tiểu đường phải kiểm tra đường huyết nhiều lần mỗi ngày."
@@ -390,7 +390,7 @@
    "article": "die",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ʔɛɐ̯ˈnɛːʁʊŋ",
+   "ipa": "ɛɐ̯ˈnɛːʁʊŋ",
    "vi": "chế độ dinh dưỡng",
    "example": "Eine gesunde Ernährung bildet das Fundament für ein langes Leben.",
    "exampleVi": "Một chế độ dinh dưỡng lành mạnh tạo nên nền tảng cho cuộc sống thọ lâu."
@@ -400,7 +400,7 @@
    "article": "die",
    "plural": "Ernährungsweisen",
    "pos": "noun",
-   "ipa": "ʔɛɐ̯ˈnɛːʁʊŋsˌvaɪ̯zə",
+   "ipa": "ɛɐ̯ˈnɛːʁʊŋsˌvaɪ̯zə",
    "vi": "lối ăn uống, phong cách dinh dưỡng",
    "example": "Immer mehr junge Menschen entscheiden sich für eine pflanzliche Ernährungsweise.",
    "exampleVi": "Ngày càng nhiều người trẻ lựa chọn lối ăn uống từ thực vật."
@@ -430,7 +430,7 @@
    "article": "das",
    "plural": "Eiweiße",
    "pos": "noun",
-   "ipa": "ˈʔaɪ̯vaɪ̯s",
+   "ipa": "ˈaɪ̯vaɪ̯s",
    "vi": "chất đạm, protein",
    "example": "Sportler achten auf eine ausreichende Zufuhr von Eiweiß zum Muskelaufbau.",
    "exampleVi": "Vận động viên chú ý đến việc nạp đủ chất đạm để phát triển cơ bắp."
@@ -530,7 +530,7 @@
    "article": "das",
    "plural": "Nahrungsergänzungsmittel",
    "pos": "noun",
-   "ipa": "ˈnaːʁʊŋsʔɛɐ̯ˌɡɛnt͡sʊŋsˌmɪtl̩",
+   "ipa": "ˈnaːʁʊŋsʔɛɐ̯ˌɡɛntsʊŋsˌmɪtl̩",
    "vi": "thực phẩm chức năng bổ sung",
    "example": "Nahrungsergänzungsmittel können eine ausgewogene Ernährung keinesfalls ersetzen.",
    "exampleVi": "Thực phẩm chức năng bổ sung tuyệt đối không thể thay thế một chế độ ăn uống cân bằng."
@@ -540,7 +540,7 @@
    "article": "die",
    "plural": "Unverträglichkeiten",
    "pos": "noun",
-   "ipa": "ˈʔʊnfɛɐ̯ˌtʁɛːklɪçkaɪ̯t",
+   "ipa": "ˈʊnfɛɐ̯ˌtʁɛːklɪçkaɪ̯t",
    "vi": "sự không dung nạp (thực phẩm)",
    "example": "Bei einer Laktose-Unverträglichkeit verträgt der Darm keinen Milchzucker.",
    "exampleVi": "Khi không dung nạp lactose, đường ruột không thể hấp thụ đường sữa."
@@ -568,7 +568,7 @@
    "de": "diagnostizieren",
    "pos": "verb",
    "forms": "diagnostiziert, diagnostizierte, hat diagnostiziert",
-   "ipa": "diaɡnɔstiˈt͡siːʁən",
+   "ipa": "diaɡnɔstiˈtsiːʁən",
    "vi": "chẩn đoán",
    "example": "Der Facharzt konnte die seltene Krankheit zügig diagnostizieren.",
    "exampleVi": "Bác sĩ chuyên khoa đã có thể chẩn đoán căn bệnh hiếm gặp một cách nhanh chóng."
@@ -595,7 +595,7 @@
    "de": "impfen",
    "pos": "verb",
    "forms": "impft, impfte, hat geimpft",
-   "ipa": "ˈʔɪmp͡fn̩",
+   "ipa": "ˈɪmpfn̩",
    "vi": "tiêm chủng, tiêm phòng",
    "example": "Haben Sie sich schon gegen Tetanus impfen lassen?",
    "exampleVi": "Bạn đã đi tiêm phòng uốn ván chưa?"
@@ -604,7 +604,7 @@
    "de": "anstecken",
    "pos": "verb",
    "forms": "steckt an, steckte an, hat angesteckt",
-   "ipa": "ˈʔanˌʃtɛkn̩",
+   "ipa": "ˈanˌʃtɛkn̩",
    "vi": "lây nhiễm",
    "example": "Man sollte in die Armbeuge husten, um niemanden anzustecken.",
    "exampleVi": "Người ta nên ho vào khuỷu tay để không lây nhiễm cho bất kỳ ai."
@@ -631,7 +631,7 @@
    "de": "ernähren",
    "pos": "verb",
    "forms": "ernährt, ernährte, hat ernährt",
-   "ipa": "ʔɛɐ̯ˈnɛːʁən",
+   "ipa": "ɛɐ̯ˈnɛːʁən",
    "vi": "nuôi dưỡng, ăn uống (sich ernähren)",
    "example": "Wer sich gesund ernährt, fühlt sich im Alltag deutlich fitter.",
    "exampleVi": "Ai ăn uống lành mạnh thì cảm thấy khỏe khoắn hơn hẳn trong cuộc sống hàng ngày."
@@ -640,7 +640,7 @@
    "de": "zunehmen",
    "pos": "verb",
    "forms": "nimmt zu, nahm zu, hat zugenommen",
-   "ipa": "ˈt͡suːˌneːmən",
+   "ipa": "ˈtsuːˌneːmən",
    "vi": "tăng cân",
    "example": "Über die Wintermonate hat er leider drei Kilo zugenommen.",
    "exampleVi": "Trong những tháng mùa đông, anh ấy không may đã tăng thêm ba ký."
@@ -649,7 +649,7 @@
    "de": "abnehmen",
    "pos": "verb",
    "forms": "nimmt ab, nahm ab, hat abgenommen",
-   "ipa": "ˈʔapˌneːmən",
+   "ipa": "ˈapˌneːmən",
    "vi": "giảm cân",
    "example": "Durch konsequente Ernährungsumstellung konnte sie fünf Kilo abnehmen.",
    "exampleVi": "Nhờ kiên trì thay đổi chế độ ăn, cô ấy đã giảm được năm ký."
@@ -673,7 +673,7 @@
   {
    "de": "ansteckend",
    "pos": "adj",
-   "ipa": "ˈʔanˌʃtɛkn̩t",
+   "ipa": "ˈanˌʃtɛkn̩t",
    "vi": "dễ lây lan, truyền nhiễm",
    "example": "Windpocken sind eine extrem ansteckende Viruserkrankung.",
    "exampleVi": "Bệnh thủy đậu là một bệnh do vi-rút có tính lây lan cực kỳ cao."
@@ -681,7 +681,7 @@
   {
    "de": "ausgewogen",
    "pos": "adj",
-   "ipa": "ˈʔaʊ̯sɡəˌvoːɡn̩",
+   "ipa": "ˈaʊ̯sɡəˌvoːɡn̩",
    "vi": "cân bằng, hài hòa",
    "example": "Eine ausgewogene Kost liefert alle benötigten Vitamine und Spurenelemente.",
    "exampleVi": "Chế độ ăn cân bằng cung cấp tất cả các vitamin và nguyên tố vi lượng cần thiết."
@@ -705,7 +705,7 @@
   {
    "de": "Erste Hilfe leisten",
    "pos": "phrase",
-   "ipa": "ˈʔeːɐ̯stə ˈhɪlfə ˈlaɪ̯stn̩",
+   "ipa": "ˈeːɐ̯stə ˈhɪlfə ˈlaɪ̯stn̩",
    "vi": "sơ cứu, cấp cứu ban đầu",
    "example": "Jeder Führerscheininhaber muss in der Lage sein, Erste Hilfe zu leisten.",
    "exampleVi": "Mỗi người có bằng lái xe đều phải có khả năng sơ cứu ban đầu."
@@ -713,7 +713,7 @@
   {
    "de": "einen Termin vereinbaren",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən tɛʁˈmiːn fɛɐ̯ˈʔaɪ̯nbaːʁən",
+   "ipa": "ˈaɪ̯nən tɛʁˈmiːn fɛɐ̯ˈʔaɪ̯nbaːʁən",
    "vi": "hẹn lịch khám",
    "example": "Ich möchte gerne einen Kontrolltermin für nächste Woche vereinbaren.",
    "exampleVi": "Tôi muốn hẹn một lịch tái khám cho tuần tới."

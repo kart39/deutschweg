@@ -10,7 +10,7 @@
    "article": "das",
    "plural": "Ämter",
    "pos": "noun",
-   "ipa": "ʔamt",
+   "ipa": "amt",
    "vi": "cơ quan công quyền",
    "example": "Für die Anmeldung muss man persönlich zum Amt gehen.",
    "exampleVi": "Để đăng ký cư trú người ta phải đích thân tới cơ quan công quyền."
@@ -30,7 +30,7 @@
    "article": "die",
    "plural": "Ausländerbehörden",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯slɛndɐbəˌhøːɐ̯də",
+   "ipa": "ˈaʊ̯slɛndɐbəˌhøːɐ̯də",
    "vi": "sở ngoại kiều, cục xuất nhập cảnh",
    "example": "Bei der Ausländerbehörde beantragt er die Verlängerung des Visums.",
    "exampleVi": "Tại sở ngoại kiều anh ấy nộp đơn xin gia hạn thị thực."
@@ -80,7 +80,7 @@
    "article": "der",
    "plural": "Anträge",
    "pos": "noun",
-   "ipa": "ˈʔanˌtʁaːk",
+   "ipa": "ˈanˌtʁaːk",
    "vi": "đơn xin, hồ sơ yêu cầu",
    "example": "Er hat einen schriftlichen Antrag auf Wohngeld gestellt.",
    "exampleVi": "Anh ấy đã nộp đơn xin trợ cấp tiền nhà bằng văn bản."
@@ -100,7 +100,7 @@
    "article": "der",
    "plural": "Ausweise",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯sˌvaɪ̯s",
+   "ipa": "ˈaʊ̯sˌvaɪ̯s",
    "vi": "thẻ căn cước công dân",
    "example": "Zeigen Sie beim Betreten des Gebäudes bitte Ihren Ausweis vor.",
    "exampleVi": "Xin vui lòng xuất trình căn cước khi bước vào tòa nhà."
@@ -110,7 +110,7 @@
    "article": "die",
    "plural": "Anmeldungen",
    "pos": "noun",
-   "ipa": "ˈʔanˌmɛldʊŋ",
+   "ipa": "ˈanˌmɛldʊŋ",
    "vi": "việc đăng ký cư trú / ghi danh",
    "example": "Die Anmeldung der neuen Wohnadresse ist innerhalb von zwei Wochen Pflicht.",
    "exampleVi": "Đăng ký địa chỉ cư trú mới là nghĩa vụ bắt buộc trong vòng hai tuần."
@@ -370,7 +370,7 @@
    "article": "der",
    "plural": "Absender",
    "pos": "noun",
-   "ipa": "ˈʔapˌzɛndɐ",
+   "ipa": "ˈapˌzɛndɐ",
    "vi": "người gửi thư (ghi phía trên bên trái)",
    "example": "Schreiben Sie Ihren Namen und Ihre Adresse als Absender oben links.",
    "exampleVi": "Hãy ghi tên và địa chỉ của bạn làm người gửi ở góc trên bên trái."
@@ -380,7 +380,7 @@
    "article": "der",
    "plural": "Empfänger",
    "pos": "noun",
-   "ipa": "ɛmˈp͡p͡fɛŋɐ",
+   "ipa": "ɛmˈp͡pfɛŋɐ",
    "vi": "người nhận thư (ghi góc dưới bên phải)",
    "example": "Die Anschrift des Empfängers muss deutlich lesbar sein.",
    "exampleVi": "Địa chỉ của người nhận phải được ghi rõ ràng dễ đọc."
@@ -390,7 +390,7 @@
    "article": "die",
    "plural": "Unterschriften",
    "pos": "noun",
-   "ipa": "ˈʔʊntɐˌʃʁɪft",
+   "ipa": "ˈʊntɐˌʃʁɪft",
    "vi": "chữ ký cá nhân",
    "example": "Ihre eigenhändige Unterschrift fehlt noch unten auf dem Antrag.",
    "exampleVi": "Chữ ký tay của ngài còn thiếu ở phía dưới tờ đơn."
@@ -408,7 +408,7 @@
    "de": "ausfüllen",
    "forms": "füllt aus, füllte aus, hat ausgefüllt",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯sˌfʏlən",
+   "ipa": "ˈaʊ̯sˌfʏlən",
    "vi": "điền vào mẫu đơn (+ Akk)",
    "example": "Füllen Sie bitte alle Pflichtfelder im Dokument sorgfältig aus.",
    "exampleVi": "Xin vui lòng điền cẩn thận vào tất cả các ô bắt buộc."
@@ -417,7 +417,7 @@
    "de": "unterschreiben",
    "forms": "unterschreibt, unterschrieb, hat unterschrieben",
    "pos": "verb",
-   "ipa": "ʔʊntɐˈʃʁaɪ̯bn̩",
+   "ipa": "ʊntɐˈʃʁaɪ̯bn̩",
    "vi": "ký tên xác nhận (+ Akk)",
    "example": "Bitte unterschreiben Sie hier unten rechts mit Datum.",
    "exampleVi": "Xin vui lòng ký tên ở đây dưới góc phải kèm ghi ngày tháng."
@@ -426,7 +426,7 @@
    "de": "abheben",
    "forms": "hebt ab, hob ab, hat abgehoben",
    "pos": "verb",
-   "ipa": "ˈʔapˌheːbn̩",
+   "ipa": "ˈapˌheːbn̩",
    "vi": "rút tiền mặt (+ Akk)",
    "example": "Ich muss unterwegs noch 100 Euro am Geldautomaten abheben.",
    "exampleVi": "Trên đường đi tôi còn phải rút 100 euro tại cây ATM."
@@ -435,7 +435,7 @@
    "de": "einzahlen",
    "forms": "zahlt ein, zahlte ein, hat eingezahlt",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌtsaːlən",
+   "ipa": "ˈaɪ̯nˌtsaːlən",
    "vi": "nộp tiền gửi vào tài khoản (+ Akk auf + Akk)",
    "example": "Sie hat das Bargeld direkt auf ihr Girokonto eingezahlt.",
    "exampleVi": "Cô ấy đã nộp thẳng tiền mặt vào tài khoản thanh toán."
@@ -489,7 +489,7 @@
    "de": "abholen",
    "forms": "holt ab, holte ab, hat abgeholt",
    "pos": "verb",
-   "ipa": "ˈʔapˌhoːlən",
+   "ipa": "ˈapˌhoːlən",
    "vi": "đến nhận hàng, đón (+ Akk)",
    "example": "Das Paket liegt in der Filiale zur Abholung bereit.",
    "exampleVi": "Kiện hàng đang sẵn sàng tại bưu cục để đến nhận."
@@ -498,7 +498,7 @@
    "de": "einwerfen",
    "forms": "wirft ein, warf ein, hat eingeworfen",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌvɛʁfn̩",
+   "ipa": "ˈaɪ̯nˌvɛʁfn̩",
    "vi": "bỏ thư vào thùng thư (+ Akk in + Akk)",
    "example": "Er warf den frankierten Umschlag in den nächsten Briefkasten.",
    "exampleVi": "Anh ấy đã bỏ chiếc phong bì dán tem vào hòm thư gần nhất."
@@ -522,7 +522,7 @@
   {
    "de": "ungültig",
    "pos": "adj",
-   "ipa": "ˈʔʊnɡʏltɪç",
+   "ipa": "ˈʊnɡʏltɪç",
    "vi": "hết hạn, mất hiệu lực",
    "example": "Ohne Visum ist der Aufenthaltstitel leider ungültig.",
    "exampleVi": "Không có thị thực thì giấy phép cư trú tiếc là mất hiệu lực."
@@ -554,7 +554,7 @@
   {
    "de": "ein Konto eröffnen",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈkɔnto ɛɐ̯ˈʔœfnən",
+   "ipa": "aɪ̯n ˈkɔnto ɛɐ̯ˈʔœfnən",
    "vi": "mở tài khoản ngân hàng",
    "example": "Um mein Gehalt zu empfangen, muss ich ein Girokonto eröffnen.",
    "exampleVi": "Để nhận lương tôi phải mở một tài khoản thanh toán."
@@ -562,7 +562,7 @@
   {
    "de": "Geld abheben",
    "pos": "phrase",
-   "ipa": "ˈɡɛlt ˈʔapˌheːbn̩",
+   "ipa": "ˈɡɛlt ˈapˌheːbn̩",
    "vi": "rút tiền mặt từ thẻ",
    "example": "Ich gehe kurz zum Automaten, um etwas Geld abzuheben.",
    "exampleVi": "Tôi chạy ra cây ATM một lát để rút ít tiền."
@@ -570,7 +570,7 @@
   {
    "de": "einen Antrag stellen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən ˈʔanˌtʁaːk ˌʃtɛlən",
+   "ipa": "ˈaɪ̯nən ˈanˌtʁaːk ˌʃtɛlən",
    "vi": "nộp một lá đơn xin cấp",
    "example": "Sie hat einen offiziellen Antrag auf Einbürgerung gestellt.",
    "exampleVi": "Cô ấy đã nộp đơn chính thức xin nhập quốc tịch."
@@ -578,7 +578,7 @@
   {
    "de": "ein Formular ausfüllen",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n fɔʁmuˈlaːɐ̯ ˈʔaʊ̯sˌfʏlən",
+   "ipa": "aɪ̯n fɔʁmuˈlaːɐ̯ ˈaʊ̯sˌfʏlən",
    "vi": "điền vào biểu mẫu đơn",
    "example": "Bitte füllen Sie das Anmeldeformular vollständig aus.",
    "exampleVi": "Xin vui lòng điền đầy đủ vào biểu mẫu đăng ký."
@@ -594,7 +594,7 @@
   {
    "de": "einen Termin beim Amt vereinbaren",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən tɛʁˈmiːn baɪ̯m ʔamt fɛɐ̯ˈʔaɪ̯nbaːʁən",
+   "ipa": "ˈaɪ̯nən tɛʁˈmiːn baɪ̯m amt fɛɐ̯ˈʔaɪ̯nbaːʁən",
    "vi": "đặt lịch hẹn với cơ quan nhà nước",
    "example": "In Berlin muss man oft Wochen vorher einen Termin beim Amt vereinbaren.",
    "exampleVi": "Ở Berlin người ta thường phải đặt lịch hẹn với sở trước nhiều tuần."
@@ -602,7 +602,7 @@
   {
    "de": "in bar zahlen",
    "pos": "phrase",
-   "ipa": "ʔɪn baːɐ̯ ˈtsaːlən",
+   "ipa": "ɪn baːɐ̯ ˈtsaːlən",
    "vi": "thanh toán bằng tiền mặt",
    "example": "Auf manchen Ämtern kann man Gebühren nur bargeldlos zahlen.",
    "exampleVi": "Tại một số cơ quan người ta chỉ có thể nộp phí không dùng tiền mặt."
@@ -610,7 +610,7 @@
   {
    "de": "per Einschreiben schicken",
    "pos": "phrase",
-   "ipa": "pɛɐ̯ ˈʔaɪ̯nˌʃʁaɪ̯bn̩ ˈʃɪkn̩",
+   "ipa": "pɛɐ̯ ˈaɪ̯nˌʃʁaɪ̯bn̩ ˈʃɪkn̩",
    "vi": "gửi thư bảo đảm có ký nhận",
    "example": "Wichtige Kündigungen sollte man immer per Einschreiben schicken.",
    "exampleVi": "Những thông báo hủy hợp đồng quan trọng nên luôn gửi bảo đảm."
@@ -618,7 +618,7 @@
   {
    "de": "eine Nummer ziehen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈnʊmɐ ˈtsiːən",
+   "ipa": "ˈaɪ̯nə ˈnʊmɐ ˈtsiːən",
    "vi": "rút số thứ tự xếp hàng",
    "example": "Bitte ziehen Sie zuerst eine Nummer und nehmen Sie im Wartebereich Platz.",
    "exampleVi": "Xin vui lòng bấm số thứ tự trước và ngồi chờ ở khu vực phòng đợi."
@@ -626,7 +626,7 @@
   {
    "de": "im Wartezimmer Platz nehmen",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈvaʁtəˌtsɪmɐ plats ˈneːmən",
+   "ipa": "ɪm ˈvaʁtəˌtsɪmɐ plats ˈneːmən",
    "vi": "ngồi chờ trong phòng đợi",
    "example": "Sie werden aufgerufen, nehmen Sie bitte im Wartezimmer Platz.",
    "exampleVi": "Ngài sẽ được gọi tên theo số, xin mời ngồi đợi ở phòng chờ."
@@ -642,7 +642,7 @@
   {
    "de": "eine Quittung verlangen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈkvɪtʊŋ fɛɐ̯ˈlaŋən",
+   "ipa": "ˈaɪ̯nə ˈkvɪtʊŋ fɛɐ̯ˈlaŋən",
    "vi": "yêu cầu lấy biên lai thu tiền",
    "example": "Lassen Sie sich bei Barzahlung immer eine Quittung geben.",
    "exampleVi": "Khi thanh toán tiền mặt hãy luôn yêu cầu được cấp biên lai."
@@ -650,7 +650,7 @@
   {
    "de": "ein Paket abholen",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n paˈkeːt ˈʔapˌhoːlən",
+   "ipa": "aɪ̯n paˈkeːt ˈapˌhoːlən",
    "vi": "đi nhận kiện hàng bưu phẩm",
    "example": "Ich muss heute noch mit der Benachrichtigungskarte mein Paket abholen.",
    "exampleVi": "Hôm nay tôi còn phải cầm giấy báo ra lấy bưu phẩm."
@@ -658,7 +658,7 @@
   {
    "de": "die PIN eingeben",
    "pos": "phrase",
-   "ipa": "diː pɪn ˈʔaɪ̯nˌɡeːbn̩",
+   "ipa": "diː pɪn ˈaɪ̯nˌɡeːbn̩",
    "vi": "nhập mã số bí mật PIN",
    "example": "Verdecken Sie bitte die Tastatur, wenn Sie die PIN eingeben.",
    "exampleVi": "Xin vui lòng che bàn phím khi nhập mã PIN."
@@ -666,7 +666,7 @@
   {
    "de": "Kommen Sie bitte an Schalter 4",
    "pos": "phrase",
-   "ipa": "ˈkɔmən ziː ˈbɪtə ʔan ˈʃaltɐ fiːɐ̯",
+   "ipa": "ˈkɔmən ziː ˈbɪtə an ˈʃaltɐ fiːɐ̯",
    "vi": "xin mời ngài lại quầy số 4",
    "example": "Nummer 82, kommen Sie bitte an Schalter 4 heran!",
    "exampleVi": "Số 82, xin mời bước lại quầy số 4!"
@@ -674,7 +674,7 @@
   {
    "de": "Vielen Dank für Ihre Geduld",
    "pos": "phrase",
-   "ipa": "ˈfiːlən ˈdaŋk fyːɐ̯ ˈʔiːʁə ɡəˈdʊlt",
+   "ipa": "ˈfiːlən ˈdaŋk fyːɐ̯ ˈiːʁə ɡəˈdʊlt",
    "vi": "chân thành cảm ơn sự kiên nhẫn của quý vị",
    "example": "Die Bearbeitung hat etwas gedauert. Vielen Dank für Ihre Geduld!",
    "exampleVi": "Việc xử lý mất chút thời gian. Chân thành cảm ơn sự kiên nhẫn của ngài!"
@@ -682,7 +682,7 @@
   {
    "de": "Auf Wiedersehen und schönen Tag noch!",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f ˈviːdɐˌzeːən ʔʊnt ˈʃøːnən taːk nɔx",
+   "ipa": "aʊ̯f ˈviːdɐˌzeːən ʊnt ˈʃøːnən taːk nɔx",
    "vi": "xin tạm biệt và chúc một ngày tốt lành!",
    "example": "Hier sind Ihre Unterlagen. Auf Wiedersehen und einen schönen Tag noch!",
    "exampleVi": "Đây là toàn bộ giấy tờ của ngài. Xin chào và chúc một ngày tốt lành!"

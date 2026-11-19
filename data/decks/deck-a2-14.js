@@ -40,7 +40,7 @@
   {
    "de": "intelligent",
    "pos": "adj",
-   "ipa": "ʔɪntɛliˈɡɛnt",
+   "ipa": "ɪntɛliˈɡɛnt",
    "vi": "thông minh, tài trí",
    "example": "Delfine sind erstaunlich intelligente Meeressäuger.",
    "exampleVi": "Cá heo là loài thú biển thông minh đáng kinh ngạc."
@@ -56,7 +56,7 @@
   {
    "de": "unpünktlich",
    "pos": "adj",
-   "ipa": "ˈʔʊnpʏŋktlɪç",
+   "ipa": "ˈʊnpʏŋktlɪç",
    "vi": "không đúng giờ, hay trễ",
    "example": "Wer unpünktlich zum Vorstellungsgespräch kommt, hat schlechte Karten.",
    "exampleVi": "Ai đến trễ buổi phỏng vấn xin việc sẽ chịu thế bất lợi."
@@ -120,7 +120,7 @@
   {
    "de": "arm",
    "pos": "adj",
-   "ipa": "ʔaʁm",
+   "ipa": "aʁm",
    "vi": "nghèo khó; tội nghiệp",
    "example": "Viele Menschen auf der Welt leben leider in armen Verhältnissen.",
    "exampleVi": "Nhiều người trên thế giới tiếc là đang sống trong cảnh bần hàn."
@@ -160,7 +160,7 @@
   {
    "de": "unbequem",
    "pos": "adj",
-   "ipa": "ˈʔʊnbəˌkveːm",
+   "ipa": "ˈʊnbəˌkveːm",
    "vi": "gò bó, khó chịu",
    "example": "Die harten Holzstühle waren auf Dauer sehr unbequem zum Sitzen.",
    "exampleVi": "Những chiếc ghế gỗ cứng về lâu dài ngồi rất khó chịu."
@@ -176,7 +176,7 @@
   {
    "de": "unhöflich",
    "pos": "adj",
-   "ipa": "ˈʔʊnhoːflɪç",
+   "ipa": "ˈʊnhoːflɪç",
    "vi": "bất lịch sự, thô lỗ",
    "example": "Es ist unhöflich, andere Leute beim Reden ständig zu unterbrechen.",
    "exampleVi": "Thật bất lịch sự khi liên tục ngắt lời người khác đang nói."
@@ -192,7 +192,7 @@
   {
    "de": "ungeduldig",
    "pos": "adj",
-   "ipa": "ˈʔʊnɡəˌdʊldɪç",
+   "ipa": "ˈʊnɡəˌdʊldɪç",
    "vi": "nôn nóng, mất kiên nhẫn",
    "example": "Sei doch nicht so ungeduldig, der Zug kommt gleich an!",
    "exampleVi": "Đừng có sốt ruột như thế, đoàn tàu sắp tới nơi rồi!"
@@ -216,7 +216,7 @@
   {
    "de": "ehrlich",
    "pos": "adj",
-   "ipa": "ˈʔeːɐ̯lɪç",
+   "ipa": "ˈeːɐ̯lɪç",
    "vi": "thành thật trung thực",
    "example": "Ehrlichkeit währt am längsten, lautet ein deutsches Sprichwort.",
    "exampleVi": "Thành thật là thượng sách, như câu tục ngữ Đức."
@@ -224,7 +224,7 @@
   {
    "de": "unehrlich",
    "pos": "adj",
-   "ipa": "ˈʔʊnʔeːɐ̯lɪç",
+   "ipa": "ˈʊnʔeːɐ̯lɪç",
    "vi": "gian dối, không thật thà",
    "example": "Unehrliche Menschen verlieren auf Dauer alle guten Freunde.",
    "exampleVi": "Những kẻ gian dối về lâu dài sẽ đánh mất mọi bạn bè tốt."
@@ -240,7 +240,7 @@
   {
    "de": "untreu",
    "pos": "adj",
-   "ipa": "ˈʔʊntʁɔʏ̯",
+   "ipa": "ˈʊntʁɔʏ̯",
    "vi": "phản bội, không chung thủy",
    "example": "Er wurde seiner Partnerin leider untreu.",
    "exampleVi": "Tiếc là anh ấy đã không chung thủy với bạn đời."
@@ -320,7 +320,7 @@
   {
    "de": "unruhig",
    "pos": "adj",
-   "ipa": "ˈʔʊnʁuːɪç",
+   "ipa": "ˈʊnʁuːɪç",
    "vi": "bồn chồn náo động",
    "example": "Das Baby schlief in der Nacht sehr unruhig und weinte oft.",
    "exampleVi": "Em bé ngủ đêm rất trằn trọc và hay khóc."
@@ -344,7 +344,7 @@
   {
    "de": "einfach",
    "pos": "adj",
-   "ipa": "ˈʔaɪ̯nfax",
+   "ipa": "ˈaɪ̯nfax",
    "vi": "mộc mạc đơn sơ",
    "example": "Das Rezept ist genial einfach und schmeckt wunderbar.",
    "exampleVi": "Công thức nấu ăn đơn giản tuyệt vời và có vị ngon xuất sắc."
@@ -392,7 +392,7 @@
   {
    "de": "eng",
    "pos": "adj",
-   "ipa": "ʔɛŋ",
+   "ipa": "ɛŋ",
    "vi": "chật hẹp bó sát",
    "example": "Die mittelalterlichen Gassen der Altstadt sind sehr eng.",
    "exampleVi": "Những con hẻm thời trung cổ ở phố cổ rất chật hẹp."
@@ -504,7 +504,7 @@
   {
    "de": "altbacken",
    "pos": "adj",
-   "ipa": "ˈʔaltˌbakn̩",
+   "ipa": "ˈaltˌbakn̩",
    "vi": "cũ kỹ, bánh mì để ỉu",
    "example": "Aus altbackenem Brot kann man noch leckere Knödel zubereiten.",
    "exampleVi": "Từ bánh mì để ỉu người ta vẫn chế biến được món bánh bao ngon."
@@ -520,7 +520,7 @@
   {
    "de": "altmodisch",
    "pos": "adj",
-   "ipa": "ˈʔaltˌmoːdɪʃ",
+   "ipa": "ˈaltˌmoːdɪʃ",
    "vi": "cổ lỗ sĩ, lạc hậu",
    "example": "Ihre Ansichten über Geschlechterrollen wirken ziemlich altmodisch.",
    "exampleVi": "Quan điểm của ông ta về vai trò giới trông khá cổ hủ."
@@ -544,7 +544,7 @@
   {
    "de": "angenehm",
    "pos": "adj",
-   "ipa": "ˈʔanɡəˌneːm",
+   "ipa": "ˈanɡəˌneːm",
    "vi": "dễ chịu khoan khoái",
    "example": "Das milde Herbstwetter war für alle Wanderer ausgesprochen angenehm.",
    "exampleVi": "Thời tiết mùa thu dịu mát hết sức dễ chịu cho mọi người đi bộ."
@@ -552,7 +552,7 @@
   {
    "de": "unangenehm",
    "pos": "adj",
-   "ipa": "ˈʔʊnʔanɡəˌneːm",
+   "ipa": "ˈʊnʔanɡəˌneːm",
    "vi": "khó chịu chướng tai gai mắt",
    "example": "Der beißende Rauch war in den Augen extrem unangenehm.",
    "exampleVi": "Khói cay nồng xộc vào mắt vô cùng khó chịu."
@@ -568,7 +568,7 @@
   {
    "de": "unfreundlich",
    "pos": "adj",
-   "ipa": "ˈʔʊnfʁɔʏ̯ntlɪç",
+   "ipa": "ˈʊnfʁɔʏ̯ntlɪç",
    "vi": "cau có khó gần",
    "example": "Lass dich von unfreundlichen Bemerkungen nicht entmutigen!",
    "exampleVi": "Đừng để những lời lẽ khó nghe làm bạn nản lòng nhé!"
@@ -584,7 +584,7 @@
   {
    "de": "unzufrieden",
    "pos": "adj",
-   "ipa": "ˈʔʊntsuˌfʁiːdn̩",
+   "ipa": "ˈʊntsuˌfʁiːdn̩",
    "vi": "bất mãn hậm hực",
    "example": "Ein unzufriedener Kunde beschwerte sich lautstark an der Kasse.",
    "exampleVi": "Một vị khách bất mãn đã lớn tiếng phàn nàn tại quầy thu ngân."
@@ -600,7 +600,7 @@
   {
    "de": "unvorsichtig",
    "pos": "adj",
-   "ipa": "ˈʔʊnfoːɐ̯ˌzɪçtɪç",
+   "ipa": "ˈʊnfoːɐ̯ˌzɪçtɪç",
    "vi": "bất cẩn sơ suất",
    "example": "Unvorsichtiges Fahren führt schnell zu gefährlichen Verkehrsunfällen.",
    "exampleVi": "Lái xe bất cẩn nhanh chóng dẫn tới những tai nạn giao thông nguy hiểm."

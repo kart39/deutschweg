@@ -151,7 +151,7 @@
    "article": "die",
    "plural": "Publikationen",
    "pos": "noun",
-   "ipa": "publikaˈt͡sjoːn",
+   "ipa": "publikaˈtsjoːn",
    "vi": "ấn phẩm khoa học",
    "example": "Zahlreiche Publikationen belegen die herausragende Fachkompetenz der Professorin.",
    "exampleVi": "Nhiều ấn phẩm khoa học chứng minh trình độ chuyên môn vượt bậc của nữ giáo sư."
@@ -221,7 +221,7 @@
    "article": "die",
    "plural": "Disziplinen",
    "pos": "noun",
-   "ipa": "dɪst͡siˈpliːn",
+   "ipa": "dɪstsiˈpliːn",
    "vi": "ngành khoa học, kỷ luật",
    "example": "Die Bioinformatik ist eine relativ junge, aber zukunftsweisende wissenschaftliche Disziplin.",
    "exampleVi": "Tin sinh học là một ngành khoa học tương đối non trẻ nhưng mang tính định hướng tương lai."
@@ -307,7 +307,7 @@
   {
    "de": "präzise",
    "pos": "adj",
-   "ipa": "pʁɛˈt͡siːzə",
+   "ipa": "pʁɛˈtsiːzə",
    "vi": "chính xác, tỉ mỉ",
    "example": "Wissenschaftliche Messgeräte müssen außerordentlich präzise kalibriert sein.",
    "exampleVi": "Các dụng cụ đo lường khoa học phải được hiệu chỉnh vô cùng chính xác."
@@ -315,7 +315,7 @@
   {
    "de": "reproduzierbar",
    "pos": "adj",
-   "ipa": "ʁepʁoduˈt͡siːɐ̯baːɐ̯",
+   "ipa": "ʁepʁoduˈtsiːɐ̯baːɐ̯",
    "vi": "có thể tái lặp lại được (kết quả thí nghiệm)",
    "example": "Ein wissenschaftliches Experiment ist nur dann gültig, wenn es reproduzierbar ist.",
    "exampleVi": "Một thí nghiệm khoa học chỉ có giá trị khi nó có thể được tái lập lại."
@@ -331,7 +331,7 @@
   {
    "de": "interdisziplinär",
    "pos": "adj",
-   "ipa": "ɪntɐdɪst͡sipliˈnɛːɐ̯",
+   "ipa": "ɪntɐdɪstsipliˈnɛːɐ̯",
    "vi": "liên ngành",
    "example": "Moderne Herausforderungen wie der Klimawandel verlangen interdisziplinäre Lösungsansätze.",
    "exampleVi": "Những thách thức hiện đại như biến đổi khí hậu đòi hỏi các cách tiếp cận liên ngành."
@@ -429,7 +429,7 @@
    "de": "konzipieren",
    "forms": "konzipiert, konzipierte, hat konzipiert",
    "pos": "verb",
-   "ipa": "kɔnt͡siˈpiːʁən",
+   "ipa": "kɔntsiˈpiːʁən",
    "vi": "lên ý tưởng thiết kế, phác thảo",
    "example": "Die Ingenieure konzipierten eine völlig neuartige Windkraftanlage.",
    "exampleVi": "Các kỹ sư đã lên ý tưởng thiết kế một tuabin gió hoàn toàn mới mẻ."
@@ -558,7 +558,7 @@
    "article": "die",
    "plural": "Korrelationen",
    "pos": "noun",
-   "ipa": "kɔʁelaˈt͡sjoːn",
+   "ipa": "kɔʁelaˈtsjoːn",
    "vi": "sự tương quan thống kê",
    "example": "Eine statistische Korrelation bedeutet noch lange keinen ursächlichen Zusammenhang.",
    "exampleVi": "Một mối tương quan thống kê chưa hẳn đã đồng nghĩa với một mối liên hệ nhân quả."
@@ -617,7 +617,7 @@
    "de": "verifizieren",
    "forms": "verifiziert, verifizierte, hat verifiziert",
    "pos": "verb",
-   "ipa": "veʁifiˈt͡siːʁən",
+   "ipa": "veʁifiˈtsiːʁən",
    "vi": "kiểm chứng, xác thực tính đúng đắn",
    "example": "Mehrere unabhängige Teams konnten die Messergebnisse erfolgreich verifizieren.",
    "exampleVi": "Nhiều nhóm nghiên cứu độc lập đã có thể kiểm chứng thành công các kết quả đo lường."
@@ -626,7 +626,7 @@
    "de": "falsifizieren",
    "forms": "falsifiziert, falsifizierte, hat falsifiziert",
    "pos": "verb",
-   "ipa": "falzifiˈt͡siːʁən",
+   "ipa": "falzifiˈtsiːʁən",
    "vi": "chứng minh là sai (bác bỏ giả thuyết)",
    "example": "Ein einziges Gegenbeispiel genügt oft, um eine wissenschaftliche Hypothese zu falsifizieren.",
    "exampleVi": "Một phản ví dụ duy nhất thường là đủ để bác bỏ một giả thuyết khoa học."
@@ -661,7 +661,7 @@
   {
    "de": "einer Sache auf den Grund gehen",
    "pos": "phrase",
-   "ipa": "ˈaɪ̯nɐ ˈzaxə ʔaʊ̯f deːn ɡʁʊnt ˈɡeːən",
+   "ipa": "ˈaɪ̯nɐ ˈzaxə aʊ̯f deːn ɡʁʊnt ˈɡeːən",
    "vi": "điều tra tìm hiểu ngọn ngành gốc rễ vấn đề",
    "example": "Die Kommission will den Ursachen des Unglücks gründlich auf den Grund gehen.",
    "exampleVi": "Ủy ban muốn tìm hiểu cặn kẽ ngọn ngành gốc rễ các nguyên nhân gây ra thảm họa."
@@ -669,7 +669,7 @@
   {
    "de": "eine Schlussfolgerung ziehen",
    "pos": "phrase",
-   "ipa": "ˈaɪ̯nə ˈʃlʊsˌfɔlɡəʁʊŋ ˈt͡siːən",
+   "ipa": "ˈaɪ̯nə ˈʃlʊsˌfɔlɡəʁʊŋ ˈtsiːən",
    "vi": "rút ra một kết luận",
    "example": "Welche praktischen Schlussfolgerungen ziehen die Autoren aus den Studiendaten?",
    "exampleVi": "Các tác giả rút ra những kết luận thực tế nào từ dữ liệu nghiên cứu?"
@@ -677,7 +677,7 @@
   {
    "de": "in Betracht ziehen",
    "pos": "phrase",
-   "ipa": "ɪn bəˈtʁaxt ˈt͡siːən",
+   "ipa": "ɪn bəˈtʁaxt ˈtsiːən",
    "vi": "cân nhắc tính tới khả năng",
    "example": "Bei der Datenanalyse muss man auch mögliche Messfehler in Betracht ziehen.",
    "exampleVi": "Khi phân tích dữ liệu, người ta cũng phải tính tới các sai số đo đạc khả dĩ."

@@ -70,7 +70,7 @@
    "article": "die",
    "plural": "Ängste",
    "pos": "noun",
-   "ipa": "ʔaŋst",
+   "ipa": "aŋst",
    "vi": "nỗi sợ hãi",
    "example": "Viele Menschen haben Angst vor Prüfungen.",
    "exampleVi": "Nhiều người có nỗi sợ kỳ thi."
@@ -100,7 +100,7 @@
    "article": "der",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔɛʁɡɐ",
+   "ipa": "ˈɛʁɡɐ",
    "vi": "sự bực mình, phiền toái",
    "example": "Es gab leider viel Ärger mit den Nachbarn.",
    "exampleVi": "Tiếc là đã có nhiều phiền toái với những người hàng xóm."
@@ -235,7 +235,7 @@
    "de": "sich ärgern",
    "forms": "ärgert sich, ärgerte sich, hat sich geärgert",
    "pos": "verb",
-   "ipa": "ˈʔɛʁɡɐn zɪç",
+   "ipa": "ˈɛʁɡɐn zɪç",
    "vi": "bực mình, tức giận (über + Akk)",
    "example": "Er ärgert sich über den verpassten Zug.",
    "exampleVi": "Anh ấy bực mình vì bị lỡ chuyến tàu."
@@ -321,7 +321,7 @@
   {
    "de": "unzufrieden",
    "pos": "adj",
-   "ipa": "ˈʔʊntsuˌfʁiːdn̩",
+   "ipa": "ˈʊntsuˌfʁiːdn̩",
    "vi": "bất mãn, không hài lòng",
    "example": "Viele Kunden waren mit dem Service unzufrieden.",
    "exampleVi": "Nhiều khách hàng không hài lòng với dịch vụ."
@@ -353,7 +353,7 @@
   {
    "de": "eifersüchtig",
    "pos": "adj",
-   "ipa": "ˈʔaɪ̯fɐˌzʏçtɪç",
+   "ipa": "ˈaɪ̯fɐˌzʏçtɪç",
    "vi": "ghen tuông (auf + Akk)",
    "example": "Er ist grundlos eifersüchtig auf ihre Freunde.",
    "exampleVi": "Anh ấy ghen tuông vô cớ với bạn bè của cô ấy."
@@ -369,7 +369,7 @@
   {
    "de": "einsam",
    "pos": "adj",
-   "ipa": "ˈʔaɪ̯nzaːm",
+   "ipa": "ˈaɪ̯nzaːm",
    "vi": "cô đơn",
    "example": "In der neuen Stadt fühlte er sich anfangs einsam.",
    "exampleVi": "Ở thành phố mới ban đầu anh ấy cảm thấy cô đơn."
@@ -401,7 +401,7 @@
   {
    "de": "unsympathisch",
    "pos": "adj",
-   "ipa": "ˈʔʊnzʏmˌpaːtɪʃ",
+   "ipa": "ˈʊnzʏmˌpaːtɪʃ",
    "vi": "khó ưa, không có cảm tình",
    "example": "Sein arrogantes Auftreten wirkt unsympathisch.",
    "exampleVi": "Vẻ kiêu ngạo của anh ta tạo cảm giác khó ưa."
@@ -417,7 +417,7 @@
   {
    "de": "ehrlich",
    "pos": "adj",
-   "ipa": "ˈʔeːɐ̯lɪç",
+   "ipa": "ˈeːɐ̯lɪç",
    "vi": "thành thật, trung thực",
    "example": "Sag mir bitte ganz ehrlich deine Meinung.",
    "exampleVi": "Làm ơn nói cho tôi ý kiến thật lòng của bạn."
@@ -449,7 +449,7 @@
   {
    "de": "ungeduldig",
    "pos": "adj",
-   "ipa": "ˈʔʊnɡəˌdʊldɪç",
+   "ipa": "ˈʊnɡəˌdʊldɪç",
    "vi": "nóng vội, thiếu kiên nhẫn",
    "example": "Warte doch kurz, sei nicht so ungeduldig!",
    "exampleVi": "Hãy đợi một chút, đừng nóng vội như vậy!"
@@ -481,7 +481,7 @@
   {
    "de": "ernst",
    "pos": "adj",
-   "ipa": "ʔɛʁnst",
+   "ipa": "ɛʁnst",
    "vi": "nghiêm túc, nghiêm trọng",
    "example": "Warum schaust du mich so ernst an?",
    "exampleVi": "Sao bạn nhìn tôi nghiêm nghị thế?"
@@ -521,7 +521,7 @@
   {
    "de": "offen",
    "pos": "adj",
-   "ipa": "ˈʔɔfn̩",
+   "ipa": "ˈɔfn̩",
    "vi": "cởi mở, thẳng thắn",
    "example": "Sie spricht sehr offen über ihre Gefühle.",
    "exampleVi": "Cô ấy nói rất cởi mở về cảm xúc của mình."
@@ -553,7 +553,7 @@
   {
    "de": "Liebe auf den ersten Blick",
    "pos": "phrase",
-   "ipa": "ˈliːbə ʔaʊ̯f deːn ˈʔeːɐ̯stn̩ ˈblɪk",
+   "ipa": "ˈliːbə aʊ̯f deːn ˈeːɐ̯stn̩ ˈblɪk",
    "vi": "tình yêu sét đánh",
    "example": "Bei den beiden war es Liebe auf den ersten Blick.",
    "exampleVi": "Với hai người họ đó là tình yêu sét đánh."
@@ -561,7 +561,7 @@
   {
    "de": "Angst haben vor",
    "pos": "phrase",
-   "ipa": "ˈʔaŋst ˈhaːbn̩ foːɐ̯",
+   "ipa": "ˈaŋst ˈhaːbn̩ foːɐ̯",
    "vi": "lo sợ điều gì (+ Dat)",
    "example": "Hast du Angst vor Hunden?",
    "exampleVi": "Bạn có sợ chó không?"
@@ -569,7 +569,7 @@
   {
    "de": "stolz sein auf",
    "pos": "phrase",
-   "ipa": "ʃtɔlts zaɪ̯n ʔaʊ̯f",
+   "ipa": "ʃtɔlts zaɪ̯n aʊ̯f",
    "vi": "tự hào về ai/cái gì (+ Akk)",
    "example": "Ich bin sehr stolz auf deine Leistung.",
    "exampleVi": "Tôi rất tự hào về thành tích của bạn."
@@ -577,7 +577,7 @@
   {
    "de": "wütend sein auf",
    "pos": "phrase",
-   "ipa": "ˈvyːtn̩t zaɪ̯n ʔaʊ̯f",
+   "ipa": "ˈvyːtn̩t zaɪ̯n aʊ̯f",
    "vi": "nổi giận với ai (+ Akk)",
    "example": "Sei bitte nicht mehr wütend auf mich!",
    "exampleVi": "Xin đừng giận tôi nữa nhé!"
@@ -609,7 +609,7 @@
   {
    "de": "in Kontakt bleiben",
    "pos": "phrase",
-   "ipa": "ʔɪn kɔnˈtakt ˌblaɪ̯bn̩",
+   "ipa": "ɪn kɔnˈtakt ˌblaɪ̯bn̩",
    "vi": "giữ liên lạc (mit + Dat)",
    "example": "Wir wollen auch nach dem Kurs in Kontakt bleiben.",
    "exampleVi": "Chúng tôi muốn giữ liên lạc với nhau cả sau khóa học."

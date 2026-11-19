@@ -30,7 +30,7 @@
    "article": "das",
    "plural": "Augen",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯ɡə",
+   "ipa": "ˈaʊ̯ɡə",
    "vi": "con mắt",
    "example": "Sie hat große, strahlende Augen.",
    "exampleVi": "Cô ấy có đôi mắt to và sáng ngời."
@@ -40,7 +40,7 @@
    "article": "das",
    "plural": "Ohren",
    "pos": "noun",
-   "ipa": "ʔoːɐ̯",
+   "ipa": "oːɐ̯",
    "vi": "cái tai",
    "example": "Mein linkes Ohr tut seit gestern weh.",
    "exampleVi": "Tai trái của tôi bị đau từ hôm qua."
@@ -130,7 +130,7 @@
    "article": "der",
    "plural": "Arme",
    "pos": "noun",
-   "ipa": "ʔaʁm",
+   "ipa": "aʁm",
    "vi": "cánh tay",
    "example": "Sie hält das Baby liebevoll im Arm.",
    "exampleVi": "Cô ấy ẵm em bé âu yếm trong tay."
@@ -280,7 +280,7 @@
    "article": "der",
    "plural": "Ärzte",
    "pos": "noun",
-   "ipa": "ʔaːɐ̯tst",
+   "ipa": "aːɐ̯tst",
    "vi": "bác sĩ nam",
    "example": "Der Arzt untersucht den Patienten sehr gründlich.",
    "exampleVi": "Bác sĩ thăm khám bệnh nhân rất kỹ lưỡng."
@@ -290,7 +290,7 @@
    "article": "die",
    "plural": "Ärztinnen",
    "pos": "noun",
-   "ipa": "ˈʔɛːɐ̯tstɪn",
+   "ipa": "ˈɛːɐ̯tstɪn",
    "vi": "bác sĩ nữ",
    "example": "Meine Ärztin hat mir viel Ruhe verordnet.",
    "exampleVi": "Nữ bác sĩ của tôi dặn tôi phải nghỉ ngơi nhiều."
@@ -360,7 +360,7 @@
    "article": "die",
    "plural": "Apotheken",
    "pos": "noun",
-   "ipa": "ʔapoˈteːkə",
+   "ipa": "apoˈteːkə",
    "vi": "tiệm thuốc tây",
    "example": "Ich hole das Medikament gleich in der Apotheke.",
    "exampleVi": "Tôi sẽ ra ngay tiệm thuốc để lấy thuốc."
@@ -457,7 +457,7 @@
    "de": "untersuchen",
    "forms": "untersucht, untersuchte, hat untersucht",
    "pos": "verb",
-   "ipa": "ʔʊntɐˈzuːxn̩",
+   "ipa": "ʊntɐˈzuːxn̩",
    "vi": "thăm khám, khám xét (+ Akk)",
    "example": "Der Doktor untersucht das kranke Kind gründlich.",
    "exampleVi": "Bác sĩ thăm khám kỹ lưỡng cho đứa trẻ bị ốm."
@@ -475,7 +475,7 @@
    "de": "einnehmen",
    "forms": "nimmt ein, nahm ein, hat eingenommen",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌneːmən",
+   "ipa": "ˈaɪ̯nˌneːmən",
    "vi": "uống thuốc, dùng thuốc (+ Akk)",
    "example": "Muss ich das Medikament vor dem Essen einnehmen?",
    "exampleVi": "Tôi có phải uống thuốc trước bữa ăn không?"
@@ -565,7 +565,7 @@
   {
    "de": "einen Termin vereinbaren",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən tɛʁˈmiːn fɛɐ̯ˈʔaɪ̯nbaːʁən",
+   "ipa": "ˈaɪ̯nən tɛʁˈmiːn fɛɐ̯ˈʔaɪ̯nbaːʁən",
    "vi": "đặt lịch hẹn",
    "example": "Ich möchte bitte einen Termin beim Arzt vereinbaren.",
    "exampleVi": "Tôi muốn đặt một lịch hẹn khám bác sĩ."
@@ -573,7 +573,7 @@
   {
    "de": "Was fehlt Ihnen?",
    "pos": "phrase",
-   "ipa": "vas ˈfeːlt ˈʔiːnən",
+   "ipa": "vas ˈfeːlt ˈiːnən",
    "vi": "ngài cảm thấy bất ổn ở đâu? (bác sĩ hỏi bệnh)",
    "example": "Nehmen Sie bitte Platz. Was fehlt Ihnen denn?",
    "exampleVi": "Xin mời ngồi. Ngài thấy khó chịu ở đâu ạ?"
@@ -581,7 +581,7 @@
   {
    "de": "im Bett bleiben",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈbɛt ˌblaɪ̯bn̩",
+   "ipa": "ɪm ˈbɛt ˌblaɪ̯bn̩",
    "vi": "nằm nghỉ trên giường",
    "example": "Bei hohem Fieber sollten Sie drei Tage im Bett bleiben.",
    "exampleVi": "Khi bị sốt cao bạn nên nằm nghỉ trên giường ba ngày."
@@ -689,7 +689,7 @@
    "article": "der",
    "plural": "Unfälle",
    "pos": "noun",
-   "ipa": "ˈʔʊnˌfal",
+   "ipa": "ˈʊnˌfal",
    "vi": "tai nạn",
    "example": "Er hatte zum Glück nur einen kleinen Unfall mit dem Rad.",
    "exampleVi": "May mắn là anh ấy chỉ bị một vụ tai nạn xe đạp nhỏ."
@@ -718,7 +718,7 @@
    "de": "ausruhen",
    "forms": "ruht aus, ruhte aus, hat ausgeruht",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯sˌʁuːən",
+   "ipa": "ˈaʊ̯sˌʁuːən",
    "vi": "nghỉ ngơi tĩnh dưỡng (sich ausruhen)",
    "example": "Ich muss mich am Wochenende unbedingt ausruhen.",
    "exampleVi": "Cuối tuần tôi nhất định phải nghỉ ngơi tĩnh dưỡng."

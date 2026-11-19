@@ -90,7 +90,7 @@
    "article": "der",
    "plural": "Esslöffel",
    "pos": "noun",
-   "ipa": "ˈʔɛsˌlœfl̩",
+   "ipa": "ˈɛsˌlœfl̩",
    "vi": "thìa canh, muỗng ăn súp",
    "example": "Zwei Esslöffel Olivenöl reichen für das Dressing.",
    "exampleVi": "Hai thìa canh dầu ô liu là đủ cho phần nước xốt."
@@ -637,7 +637,7 @@
   {
    "de": "einen Tisch reservieren",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən ˈtɪʃ ʁezɛʁˈviːʁən",
+   "ipa": "ˈaɪ̯nən ˈtɪʃ ʁezɛʁˈviːʁən",
    "vi": "đặt trước bàn ăn",
    "example": "Wir sollten für Samstagabend lieber einen Tisch reservieren.",
    "exampleVi": "Tối thứ bảy chúng ta nên đặt bàn trước thì hơn."
@@ -653,7 +653,7 @@
   {
    "de": "Zusammen oder getrennt?",
    "pos": "phrase",
-   "ipa": "tsuˈzamən ˈʔoːdɐ ɡəˈtʁɛnt",
+   "ipa": "tsuˈzamən ˈoːdɐ ɡəˈtʁɛnt",
    "vi": "tính chung hay tính riêng từng người?",
    "example": "Zahlen Sie zusammen oder getrennt? – Getrennt, bitte.",
    "exampleVi": "Quý khách trả chung hay trả riêng ạ? – Làm ơn tính riêng."
@@ -669,7 +669,7 @@
   {
    "de": "Guten Appetit!",
    "pos": "phrase",
-   "ipa": "ˌɡuːtn̩ ʔapeˈtiːt",
+   "ipa": "ˌɡuːtn̩ apeˈtiːt",
    "vi": "chúc ngon miệng!",
    "example": "Das Essen ist fertig. Guten Appetit allerseits!",
    "exampleVi": "Cơm chín rồi. Chúc cả nhà ngon miệng!"
@@ -677,7 +677,7 @@
   {
    "de": "Hat es Ihnen geschmeckt?",
    "pos": "phrase",
-   "ipa": "hat ʔɛs ˈʔiːnən ɡəˈʃmɛkt",
+   "ipa": "hat ɛs ˈiːnən ɡəˈʃmɛkt",
    "vi": "quý khách dùng bữa có ngon miệng không?",
    "example": "War alles zu Ihrer Zufriedenheit? Hat es geschmeckt?",
    "exampleVi": "Mọi thứ có vừa ý quý khách không ạ? Dùng có ngon không?"
@@ -685,7 +685,7 @@
   {
    "de": "Ich möchte bitte bestellen",
    "pos": "phrase",
-   "ipa": "ʔɪç ˈmœçtə ˈbɪtə bəˈʃtɛlən",
+   "ipa": "ɪç ˈmœçtə ˈbɪtə bəˈʃtɛlən",
    "vi": "tôi muốn gọi món",
    "example": "Entschuldigung, wir möchten bitte bestellen.",
    "exampleVi": "Xin lỗi bồi bàn, chúng tôi muốn gọi món ạ."

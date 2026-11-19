@@ -91,7 +91,7 @@
    "article": "die",
    "plural": "Geheimzahlen",
    "pos": "noun",
-   "ipa": "ɡəˈhaɪ̯mˌt͡saːl",
+   "ipa": "ɡəˈhaɪ̯mˌtsaːl",
    "vi": "mã PIN bí mật",
    "example": "Geben Sie Ihre persönliche Geheimzahl niemals an Dritte weiter.",
    "exampleVi": "Đừng bao giờ tiết lộ mã PIN cá nhân của bạn cho người thứ ba."
@@ -188,7 +188,7 @@
    "article": "der",
    "plural": "Kontoauszüge",
    "pos": "noun",
-   "ipa": "ˈkɔntoʔaʊ̯sˌt͡suːk",
+   "ipa": "ˈkɔntoʔaʊ̯sˌtsuːk",
    "vi": "bản sao kê tài khoản",
    "example": "Laden Sie die monatlichen Kontoauszüge als PDF-Dateien herunter.",
    "exampleVi": "Hãy tải các bản sao kê tài khoản hàng tháng dưới dạng file PDF."
@@ -274,7 +274,7 @@
    "article": "die",
    "plural": "Aktien",
    "pos": "noun",
-   "ipa": "ˈakt͡si̯ə",
+   "ipa": "ˈaktsi̯ə",
    "vi": "cổ phiếu",
    "example": "Der Wert der Aktien stieg nach der Bekanntgabe des Jahresgewinns.",
    "exampleVi": "Giá trị cổ phiếu đã tăng sau khi công bố lợi nhuận cả năm."
@@ -294,7 +294,7 @@
    "article": "die",
    "plural": "Inflationen",
    "pos": "noun",
-   "ipa": "ɪnflaˈt͡sjoːn",
+   "ipa": "ɪnflaˈtsjoːn",
    "vi": "sự lạm phát",
    "example": "Die hohe Inflation führt dazu, dass Lebensmittel deutlich teurer werden.",
    "exampleVi": "Lạm phát cao dẫn đến việc thực phẩm trở nên đắt đỏ rõ rệt."
@@ -353,7 +353,7 @@
    "article": "die",
    "plural": "Haftpflichtversicherungen",
    "pos": "noun",
-   "ipa": "ˈhaftp͡flɪçtfɛɐ̯ˌzɪçəʁʊŋ",
+   "ipa": "ˈhaftpflɪçtfɛɐ̯ˌzɪçəʁʊŋ",
    "vi": "bảo hiểm trách nhiệm dân sự",
    "example": "Eine private Haftpflichtversicherung zahlt, wenn man versehentlich fremdes Eigentum beschädigt.",
    "exampleVi": "Bảo hiểm trách nhiệm dân sự cá nhân sẽ bồi thường khi bạn vô tình làm hỏng tài sản của người khác."
@@ -393,7 +393,7 @@
    "article": "die",
    "plural": "Pflegeversicherungen",
    "pos": "noun",
-   "ipa": "ˈp͡fleːɡəfɛɐ̯ˌzɪçəʁʊŋ",
+   "ipa": "ˈpfleːɡəfɛɐ̯ˌzɪçəʁʊŋ",
    "vi": "bảo hiểm chăm sóc y tế (điều dưỡng)",
    "example": "Die Pflegeversicherung springt ein, wenn Menschen im Alter pflegebedürftig werden.",
    "exampleVi": "Bảo hiểm điều dưỡng hỗ trợ khi con người về già cần người chăm sóc."
@@ -518,7 +518,7 @@
    "article": "die",
    "plural": "Finanzen",
    "pos": "noun",
-   "ipa": "fiˈnant͡sn̩",
+   "ipa": "fiˈnantsn̩",
    "vi": "tài chính",
    "example": "Sie plant ihre persönlichen Finanzen mit einer praktischen Tabellenkalkulation.",
    "exampleVi": "Cô ấy lập kế hoạch tài chính cá nhân bằng một bảng tính tiện lợi."
@@ -526,7 +526,7 @@
   {
    "de": "finanziell",
    "pos": "adj",
-   "ipa": "finanˈt͡si̯ɛl",
+   "ipa": "finanˈtsi̯ɛl",
    "vi": "thuộc về tài chính",
    "example": "Der unerwartete Jobwechsel brachte eine willkommene finanzielle Erleichterung.",
    "exampleVi": "Việc đổi việc bất ngờ mang lại sự giải tỏa tài chính đáng hoan nghênh."

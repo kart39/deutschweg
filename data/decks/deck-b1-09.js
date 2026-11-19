@@ -171,7 +171,7 @@
    "article": "der",
    "plural": "Energiebedarfe",
    "pos": "noun",
-   "ipa": "ʔenɛʁˈɡiːbəˌdaʁf",
+   "ipa": "enɛʁˈɡiːbəˌdaʁf",
    "vi": "nhu cầu năng lượng",
    "example": "Durch effiziente Geräte lässt sich der Energiebedarf im Haushalt senken.",
    "exampleVi": "Nhờ các thiết bị hiệu quả, người ta có thể giảm nhu cầu năng lượng trong gia đình."
@@ -181,7 +181,7 @@
    "article": "die",
    "plural": "Energiesparlampen",
    "pos": "noun",
-   "ipa": "ʔenɛʁˈɡiːʃpaːɐ̯ˌlampə",
+   "ipa": "enɛʁˈɡiːʃpaːɐ̯ˌlampə",
    "vi": "bóng đèn tiết kiệm điện",
    "example": "Wir haben alle alten Glühbirnen durch moderne Energiesparlampen ersetzt.",
    "exampleVi": "Chúng tôi đã thay thế tất cả bóng đèn dây tóc cũ bằng bóng đèn tiết kiệm điện hiện đại."
@@ -271,7 +271,7 @@
    "article": "der",
    "plural": "Umweltschutz",
    "pos": "noun",
-   "ipa": "ˈʔʊmvɛltˌʃʊts",
+   "ipa": "ˈʊmvɛltˌʃʊts",
    "vi": "bảo vệ môi trường",
    "example": "Jeder Bürger kann einen konkreten Beitrag zum Umweltschutz leisten.",
    "exampleVi": "Mỗi công dân đều có thể đóng góp một phần cụ thể vào việc bảo vệ môi trường."
@@ -569,7 +569,7 @@
   {
    "de": "umweltbewusst",
    "pos": "adj",
-   "ipa": "ˈʔʊmvɛltbəˌvʊst",
+   "ipa": "ˈʊmvɛltbəˌvʊst",
    "vi": "có ý thức bảo vệ môi trường",
    "example": "Immer mehr junge Konsumenten verhalten sich vorbildlich umweltbewusst.",
    "exampleVi": "Ngày càng nhiều người tiêu dùng trẻ hành xử có ý thức bảo vệ môi trường mẫu mực."
@@ -577,7 +577,7 @@
   {
    "de": "umweltfreundlich",
    "pos": "adj",
-   "ipa": "ˈʔʊmvɛltˌfʁɔʏ̯ntlɪç",
+   "ipa": "ˈʊmvɛltˌfʁɔʏ̯ntlɪç",
    "vi": "thân thiện với môi trường",
    "example": "Fahrradfahren ist die umweltfreundlichste Fortbewegungsart in der Großstadt.",
    "exampleVi": "Đi xe đạp là hình thức di chuyển thân thiện với môi trường nhất trong thành phố lớn."
@@ -627,7 +627,7 @@
   {
    "de": "Energie sparen",
    "pos": "phrase",
-   "ipa": "ʔenɛʁˈɡiː ˈʃpaːʁən",
+   "ipa": "enɛʁˈɡiː ˈʃpaːʁən",
    "vi": "tiết kiệm năng lượng",
    "example": "Das Absenken der Raumtemperatur um ein Grad hilft, Energie zu sparen.",
    "exampleVi": "Hạ nhiệt độ phòng xuống một độ giúp tiết kiệm năng lượng."
@@ -635,7 +635,7 @@
   {
    "de": "erneuerbare Energien",
    "pos": "phrase",
-   "ipa": "ɛɐ̯ˈnɔʏ̯ɐbaːʁə ʔenɛʁˈɡiːən",
+   "ipa": "ɛɐ̯ˈnɔʏ̯ɐbaːʁə enɛʁˈɡiːən",
    "vi": "các nguồn năng lượng tái tạo",
    "example": "Deutschland investiert massiv in den Ausbau erneuerbarer Energien.",
    "exampleVi": "Đức đang đầu tư mạnh mẽ vào việc mở rộng các nguồn năng lượng tái tạo."

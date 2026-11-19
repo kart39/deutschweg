@@ -2381,7 +2381,7 @@
      "article": null,
      "plural": null,
      "pos": "adj",
-     "ipa": "ˈʔanɡəˌmɛsn̩",
+     "ipa": "ˈanɡəˌmɛsn̩",
      "vi": "phù hợp, tương xứng với ngữ cảnh và cấp độ",
      "example": "Verwenden Sie stets eine der Prüfungssituation angemessene und höfliche Sprache.",
      "exampleVi": "Hãy luôn sử dụng ngôn ngữ lịch thiệp và phù hợp với tình huống phòng thi."

@@ -2304,7 +2304,7 @@
      "article": null,
      "plural": null,
      "pos": "phrase",
-     "ipa": "ˈaɪ̯nə ˈʔɛp ɪnstaliːʁən",
+     "ipa": "ˈaɪ̯nə ˈɛp ɪnstaliːʁən",
      "vi": "cài đặt một ứng dụng phần mềm",
      "example": "Sie können die neue Fahrkarten-App ganz einfach über den App-Store installieren.",
      "exampleVi": "Bạn có thể cài đặt ứng dụng mua vé mới rất dễ dàng qua kho ứng dụng."

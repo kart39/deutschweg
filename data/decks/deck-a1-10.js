@@ -20,7 +20,7 @@
    "article": "der",
    "plural": "Urlaube",
    "pos": "noun",
-   "ipa": "ˈʔuːɐ̯ˌlaʊ̯p",
+   "ipa": "ˈuːɐ̯ˌlaʊ̯p",
    "vi": "kỳ nghỉ, đợt nghỉ mát",
    "example": "Im August machen viele Familien Urlaub am Meer.",
    "exampleVi": "Vào tháng Tám nhiều gia đình đi nghỉ mát ở biển."
@@ -60,7 +60,7 @@
    "article": "der",
    "plural": "Ausweise",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯sˌvaɪ̯s",
+   "ipa": "ˈaʊ̯sˌvaɪ̯s",
    "vi": "chứng minh thư, thẻ căn cước",
    "example": "Zeigen Sie mir bitte Ihren Ausweis.",
    "exampleVi": "Xin vui lòng cho tôi xem căn cước của ngài."
@@ -130,7 +130,7 @@
    "article": "die",
    "plural": "Inseln",
    "pos": "noun",
-   "ipa": "ˈʔɪnzl̩",
+   "ipa": "ˈɪnzl̩",
    "vi": "hòn đảo",
    "example": "Rügen ist eine sehr bekannte deutsche Insel.",
    "exampleVi": "Rügen là một hòn đảo rất nổi tiếng của Đức."
@@ -340,7 +340,7 @@
    "article": "der",
    "plural": "Aprile",
    "pos": "noun",
-   "ipa": "ʔaˈpʁɪl",
+   "ipa": "aˈpʁɪl",
    "vi": "tháng Tư",
    "example": "Der April macht sprichwörtlich, was er will.",
    "exampleVi": "Tháng Tư thời tiết thay đổi thất thường như câu tục ngữ."
@@ -380,7 +380,7 @@
    "article": "der",
    "plural": "Auguste",
    "pos": "noun",
-   "ipa": "ʔaʊ̯ˈɡʊst",
+   "ipa": "aʊ̯ˈɡʊst",
    "vi": "tháng Tám",
    "example": "Der August bringt oft sonniges und heißes Wetter.",
    "exampleVi": "Tháng Tám thường mang lại thời tiết nắng nóng."
@@ -400,7 +400,7 @@
    "article": "der",
    "plural": "Oktober",
    "pos": "noun",
-   "ipa": "ʔɔkˈtoːbɐ",
+   "ipa": "ɔkˈtoːbɐ",
    "vi": "tháng Mười",
    "example": "Am dritten Oktober ist der Tag der Deutschen Einheit.",
    "exampleVi": "Ngày mùng ba tháng Mười là ngày Thống nhất nước Đức."
@@ -604,7 +604,7 @@
   {
    "de": "ans Meer fahren",
    "pos": "phrase",
-   "ipa": "ʔans ˈmeːɐ̯ ˌfaːʁən",
+   "ipa": "ans ˈmeːɐ̯ ˌfaːʁən",
    "vi": "đi nghỉ ở biển",
    "example": "Im Sommer fahren wir für zwei Wochen ans Meer.",
    "exampleVi": "Vào mùa hè chúng tôi đi nghỉ ở biển hai tuần."
@@ -612,7 +612,7 @@
   {
    "de": "in die Berge fahren",
    "pos": "phrase",
-   "ipa": "ʔɪn diː ˈbɛʁɡə ˌfaːʁən",
+   "ipa": "ɪn diː ˈbɛʁɡə ˌfaːʁən",
    "vi": "đi lên vùng núi",
    "example": "Im Winter fahren wir zum Wandern in die Berge.",
    "exampleVi": "Vào mùa đông chúng tôi lên núi leo núi dã ngoại."
@@ -620,7 +620,7 @@
   {
    "de": "im Urlaub sein",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈʔuːɐ̯ˌlaʊ̯p zaɪ̯n",
+   "ipa": "ɪm ˈuːɐ̯ˌlaʊ̯p zaɪ̯n",
    "vi": "đang trong kỳ nghỉ phép",
    "example": "Mein Kollege ist diese Woche im Urlaub.",
    "exampleVi": "Đồng nghiệp của tôi tuần này đang đi nghỉ phép."
@@ -628,7 +628,7 @@
   {
    "de": "Urlaub machen",
    "pos": "phrase",
-   "ipa": "ˈʔuːɐ̯ˌlaʊ̯p ˌmaxn̩",
+   "ipa": "ˈuːɐ̯ˌlaʊ̯p ˌmaxn̩",
    "vi": "đi nghỉ dưỡng, du lịch",
    "example": "Wo macht ihr dieses Jahr Urlaub?",
    "exampleVi": "Năm nay các bạn đi nghỉ mát ở đâu?"
@@ -636,7 +636,7 @@
   {
    "de": "Es regnet",
    "pos": "phrase",
-   "ipa": "ʔɛs ˈʁeːɡnət",
+   "ipa": "ɛs ˈʁeːɡnət",
    "vi": "trời đang mưa",
    "example": "Es regnet in Strömen, bleib lieber drinnen!",
    "exampleVi": "Trời đang mưa như trút nước, bạn ở trong nhà đi!"
@@ -644,7 +644,7 @@
   {
    "de": "Es schneit",
    "pos": "phrase",
-   "ipa": "ʔɛs ˈʃnaɪ̯t",
+   "ipa": "ɛs ˈʃnaɪ̯t",
    "vi": "tuyết đang rơi",
    "example": "Schau mal aus dem Fenster, es schneit!",
    "exampleVi": "Nhìn ra ngoài cửa sổ xem, tuyết đang rơi kìa!"
@@ -660,7 +660,7 @@
   {
    "de": "Wie ist das Wetter?",
    "pos": "phrase",
-   "ipa": "viː ˈʔɪst das ˈvɛtɐ",
+   "ipa": "viː ˈɪst das ˈvɛtɐ",
    "vi": "thời tiết thế nào?",
    "example": "Wie ist das Wetter heute bei euch in Da Nang?",
    "exampleVi": "Thời tiết hôm nay chỗ các bạn ở Đà Nẵng thế nào?"
@@ -668,7 +668,7 @@
   {
    "de": "im Frühling",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈfʁyːlɪŋ",
+   "ipa": "ɪm ˈfʁyːlɪŋ",
    "vi": "vào mùa xuân",
    "example": "Im Frühling erwacht die Natur zu neuem Leben.",
    "exampleVi": "Vào mùa xuân thiên nhiên bừng tỉnh một sức sống mới."
@@ -676,7 +676,7 @@
   {
    "de": "im Sommer",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈzɔmɐ",
+   "ipa": "ɪm ˈzɔmɐ",
    "vi": "vào mùa hè",
    "example": "Im Sommer baden wir jeden Tag im Fluss.",
    "exampleVi": "Vào mùa hè chúng tôi tắm sông mỗi ngày."
@@ -684,7 +684,7 @@
   {
    "de": "im Herbst",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈhɛʁpst",
+   "ipa": "ɪm ˈhɛʁpst",
    "vi": "vào mùa thu",
    "example": "Im Herbst sammeln wir Äpfel im Garten.",
    "exampleVi": "Vào mùa thu chúng tôi thu hoạch táo trong vườn."
@@ -692,7 +692,7 @@
   {
    "de": "im Winter",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈvɪntɐ",
+   "ipa": "ɪm ˈvɪntɐ",
    "vi": "vào mùa đông",
    "example": "Im Winter trinken wir gern heißen Tee am Kamin.",
    "exampleVi": "Vào mùa đông chúng tôi thích uống trà nóng bên lò sưởi."

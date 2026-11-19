@@ -20,7 +20,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔɪntɐnɛt",
+   "ipa": "ˈɪntɐnɛt",
    "vi": "mạng In-tơ-nét",
    "example": "Ohne Internet kann man heute kaum noch arbeiten.",
    "exampleVi": "Ngày nay không có mạng Internet người ta hầu như không làm việc được."
@@ -110,7 +110,7 @@
    "article": "die",
    "plural": "Apps",
    "pos": "noun",
-   "ipa": "ʔɛp",
+   "ipa": "ɛp",
    "vi": "ứng dụng phần mềm",
    "example": "Mit dieser nützlichen App lerne ich täglich Deutschvokabeln.",
    "exampleVi": "Nhờ ứng dụng hữu ích này tôi học từ vựng tiếng Đức hàng ngày."
@@ -150,7 +150,7 @@
    "article": "der",
    "plural": "Anrufe",
    "pos": "noun",
-   "ipa": "ˈʔanˌʁuːf",
+   "ipa": "ˈanˌʁuːf",
    "vi": "cuộc gọi điện thoại",
    "example": "Ich habe während der Besprechung drei Anrufe verpasst.",
    "exampleVi": "Tôi đã bị lỡ ba cuộc gọi trong lúc họp."
@@ -160,7 +160,7 @@
    "article": "der",
    "plural": "Anrufbeantworter",
    "pos": "noun",
-   "ipa": "ˈʔanʁuːfbəˌʔantvɔʁtɐ",
+   "ipa": "ˈanʁuːfbəˌʔantvɔʁtɐ",
    "vi": "hộp thư thoại ghi âm tự động",
    "example": "Hinterlassen Sie bitte eine Nachricht auf dem Anrufbeantworter.",
    "exampleVi": "Xin vui lòng để lại tin nhắn trong hộp thư thoại."
@@ -220,7 +220,7 @@
    "article": "der",
    "plural": "Ordner",
    "pos": "noun",
-   "ipa": "ˈʔɔʁdnɐ",
+   "ipa": "ˈɔʁdnɐ",
    "vi": "thư mục tệp; bìa hồ sơ",
    "example": "Speichern Sie das Dokument im richtigen Ordner ab.",
    "exampleVi": "Hãy lưu tài liệu vào đúng thư mục nhé."
@@ -367,7 +367,7 @@
    "de": "installieren",
    "forms": "installiert, installierte, hat installiert",
    "pos": "verb",
-   "ipa": "ʔɪnstaˈliːʁən",
+   "ipa": "ɪnstaˈliːʁən",
    "vi": "cài đặt phần mềm (+ Akk)",
    "example": "Ich habe mir gestern das neue Update installiert.",
    "exampleVi": "Hôm qua tôi đã cài đặt bản cập nhật mới."
@@ -376,7 +376,7 @@
    "de": "aktualisieren",
    "forms": "aktualisiert, aktualisierte, hat aktualisiert",
    "pos": "verb",
-   "ipa": "ʔaktualiˈziːʁən",
+   "ipa": "aktualiˈziːʁən",
    "vi": "cập nhật mới (+ Akk)",
    "example": "Aktualisieren Sie die Seite bitte durch Drücken von F5.",
    "exampleVi": "Xin hãy cập nhật lại trang web bằng cách nhấn F5."
@@ -394,7 +394,7 @@
    "de": "abheben",
    "forms": "hebt ab, hob ab, hat abgehoben",
    "pos": "verb",
-   "ipa": "ˈʔapˌheːbn̩",
+   "ipa": "ˈapˌheːbn̩",
    "vi": "nhấc máy nghe điện thoại; rút tiền",
    "example": "Er hob sofort beim ersten Klingeln ab.",
    "exampleVi": "Anh ấy nhấc máy ngay từ hồi chuông đầu tiên."
@@ -403,7 +403,7 @@
    "de": "auflegen",
    "forms": "legt auf, legte auf, hat aufgelegt",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯fˌleːɡn̩",
+   "ipa": "ˈaʊ̯fˌleːɡn̩",
    "vi": "gác máy điện thoại",
    "example": "Bitte legen Sie noch nicht auf, ich verbinde Sie.",
    "exampleVi": "Xin vui lòng đừng gác máy, tôi sẽ nối máy cho ngài."
@@ -428,7 +428,7 @@
   {
    "de": "online",
    "pos": "adj",
-   "ipa": "ˈʔɔnlaɪ̯n",
+   "ipa": "ˈɔnlaɪ̯n",
    "vi": "trực tuyến, nối mạng",
    "example": "Bist du heute Abend online für ein Gespräch?",
    "exampleVi": "Tối nay bạn có lên mạng để nói chuyện không?"
@@ -436,7 +436,7 @@
   {
    "de": "offline",
    "pos": "adj",
-   "ipa": "ˈʔɔflaɪ̯n",
+   "ipa": "ˈɔflaɪ̯n",
    "vi": "ngoại tuyến, không kết nối",
    "example": "Im Urlaub schalte ich mein Handy bewusst offline.",
    "exampleVi": "Khi đi nghỉ mát tôi chủ động tắt điện thoại ngoại tuyến."
@@ -500,7 +500,7 @@
   {
    "de": "im Internet surfen",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈʔɪntɐnɛt ˈsœːɐ̯fn̩",
+   "ipa": "ɪm ˈɪntɐnɛt ˈsœːɐ̯fn̩",
    "vi": "lướt mạng In-tơ-nét",
    "example": "Ich surfe gern abends auf der Couch im Internet.",
    "exampleVi": "Tôi thích ngồi ghế sofa lướt mạng vào buổi tối."
@@ -508,7 +508,7 @@
   {
    "de": "eine Nachricht hinterlassen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈnaːxˌʁɪçt hɪntɐˈlasn̩",
+   "ipa": "ˈaɪ̯nə ˈnaːxˌʁɪçt hɪntɐˈlasn̩",
    "vi": "để lại lời nhắn",
    "example": "Möchten Sie eine Nachricht für Frau Klein hinterlassen?",
    "exampleVi": "Ngài có muốn để lại lời nhắn cho bà Klein không?"
@@ -516,7 +516,7 @@
   {
    "de": "den Hörer auflegen",
    "pos": "phrase",
-   "ipa": "deːn ˈhøːʁɐ ˈʔaʊ̯fˌleːɡn̩",
+   "ipa": "deːn ˈhøːʁɐ ˈaʊ̯fˌleːɡn̩",
    "vi": "đặt ống nghe xuống",
    "example": "Nach dem kurzen Gespräch legte er erleichtert den Hörer auf.",
    "exampleVi": "Sau cuộc trao đổi ngắn anh ấy thở phào đặt ống nghe xuống."
@@ -524,7 +524,7 @@
   {
    "de": "am Apparat sein",
    "pos": "phrase",
-   "ipa": "ʔam ʔapaˈʁaːt zaɪ̯n",
+   "ipa": "am apaˈʁaːt zaɪ̯n",
    "vi": "đang ở đầu dây điện thoại (tôi đây)",
    "example": "Guten Tag, Schmidt am Apparat. Wie kann ich helfen?",
    "exampleVi": "Xin chào, Schmidt đang nghe máy đây. Tôi có thể giúp gì?"
@@ -549,7 +549,7 @@
   {
    "de": "eine E-Mail weiterleiten",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈiːmeːl ˈvaɪ̯tɐˌlaɪ̯tn̩",
+   "ipa": "ˈaɪ̯nə ˈiːmeːl ˈvaɪ̯tɐˌlaɪ̯tn̩",
    "vi": "chuyển tiếp thư điện tử",
    "example": "Ich leite die E-Mail gleich an die Kollegen weiter.",
    "exampleVi": "Tôi sẽ chuyển tiếp ngay bức email này tới các đồng nghiệp."
@@ -557,7 +557,7 @@
   {
    "de": "einen Anhang beifügen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən ˈʔanˌhaŋ ˈbaɪ̯ˌfyːɡn̩",
+   "ipa": "ˈaɪ̯nən ˈanˌhaŋ ˈbaɪ̯ˌfyːɡn̩",
    "vi": "đính kèm tệp tin",
    "example": "Vergessen Sie nicht, den Lebenslauf als Anhang beizufügen.",
    "exampleVi": "Đừng quên đính kèm bản sơ yếu lý lịch nhé."
@@ -565,7 +565,7 @@
   {
    "de": "den Akku aufladen",
    "pos": "phrase",
-   "ipa": "deːn ˈʔaku ˈʔaʊ̯fˌlaːdn̩",
+   "ipa": "deːn ˈaku ˈaʊ̯fˌlaːdn̩",
    "vi": "sạc pin điện thoại/máy móc",
    "example": "Mein Handy hat nur noch 5 Prozent, ich muss den Akku aufladen.",
    "exampleVi": "Điện thoại tôi chỉ còn 5 phần trăm, tôi phải sạc pin ngay."
@@ -573,7 +573,7 @@
   {
    "de": "auf lautlos stellen",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f ˈlaʊ̯tloːs ˌʃtɛlən",
+   "ipa": "aʊ̯f ˈlaʊ̯tloːs ˌʃtɛlən",
    "vi": "chuyển sang chế độ rung/im lặng",
    "example": "Stellen Sie bitte während der Prüfung alle Handys auf lautlos.",
    "exampleVi": "Xin vui lòng tắt chuông tất cả điện thoại trong giờ thi."
@@ -581,7 +581,7 @@
   {
    "de": "den Flugmodus aktivieren",
    "pos": "phrase",
-   "ipa": "deːn ˈfluːkmoːdʊs ʔaktiˈviːʁən",
+   "ipa": "deːn ˈfluːkmoːdʊs aktiˈviːʁən",
    "vi": "bật chế độ máy bay",
    "example": "Vor dem Start des Flugzeugs muss man den Flugmodus aktivieren.",
    "exampleVi": "Trước khi máy bay cất cánh người ta phải bật chế độ máy bay."
@@ -589,7 +589,7 @@
   {
    "de": "eine Datei anhängen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə daˈtaɪ̯ ˈʔanˌhɛŋən",
+   "ipa": "ˈaɪ̯nə daˈtaɪ̯ ˈanˌhɛŋən",
    "vi": "đính kèm tài liệu vào thư",
    "example": "Ich habe die Präsentation als PDF an die E-Mail angehängt.",
    "exampleVi": "Tôi đã đính kèm bài thuyết trình dưới dạng PDF vào email."
@@ -605,7 +605,7 @@
   {
    "de": "ein Passwort eingeben",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈpasˌvɔʁt ˈʔaɪ̯nˌɡeːbn̩",
+   "ipa": "aɪ̯n ˈpasˌvɔʁt ˈaɪ̯nˌɡeːbn̩",
    "vi": "nhập mật mã",
    "example": "Bitte geben Sie Ihr persönliches Passwort zur Bestätigung ein.",
    "exampleVi": "Xin vui lòng nhập mật khẩu cá nhân để xác nhận."
@@ -621,7 +621,7 @@
   {
    "de": "Ich rufe später noch einmal an",
    "pos": "phrase",
-   "ipa": "ʔɪç ˈʁuːfə ˈʃpɛːtɐ nɔx ˈʔaɪ̯nmaːl ˈʔan",
+   "ipa": "ɪç ˈʁuːfə ˈʃpɛːtɐ nɔx ˈaɪ̯nmaːl ˈan",
    "vi": "lát nữa tôi sẽ gọi lại sau",
    "example": "Herr Weber ist gerade außer Haus, ich rufe später noch einmal an.",
    "exampleVi": "Ông Weber đang ra ngoài, lát nữa tôi sẽ gọi lại sau."

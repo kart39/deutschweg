@@ -234,7 +234,7 @@
    "de": "antworten",
    "forms": "antwortet, antwortete, hat geantwortet",
    "pos": "verb",
-   "ipa": "ˈʔantvɔʁtn̩",
+   "ipa": "ˈantvɔʁtn̩",
    "vi": "trả lời (auf + Akk)",
    "example": "Er hat sofort auf meine Nachricht geantwortet.",
    "exampleVi": "Anh ấy đã trả lời ngay tin nhắn của tôi."
@@ -450,7 +450,7 @@
    "de": "essen",
    "forms": "isst, aß, hat gegessen",
    "pos": "verb",
-   "ipa": "ˈʔɛsn̩",
+   "ipa": "ˈɛsn̩",
    "vi": "ăn (+ Akk)",
    "example": "Wir essen mittags gern in der Kantine.",
    "exampleVi": "Buổi trưa chúng tôi thích ăn ở nhà ăn tập thể."
@@ -486,7 +486,7 @@
    "de": "aufstehen",
    "forms": "steht auf, stand auf, ist aufgestanden",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯fˌʃteːən",
+   "ipa": "ˈaʊ̯fˌʃteːən",
    "vi": "thức dậy, đứng dậy",
    "example": "Um wie viel Uhr stehst du morgens auf?",
    "exampleVi": "Buổi sáng bạn thức dậy lúc mấy giờ?"
@@ -495,7 +495,7 @@
    "de": "arbeiten",
    "forms": "arbeitet, arbeitete, hat gearbeitet",
    "pos": "verb",
-   "ipa": "ˈʔaʁbaɪ̯tn̩",
+   "ipa": "ˈaʁbaɪ̯tn̩",
    "vi": "làm việc",
    "example": "Sie arbeitet als Ärztin im Krankenhaus.",
    "exampleVi": "Cô ấy làm bác sĩ tại bệnh viện."
@@ -540,7 +540,7 @@
    "de": "öffnen",
    "forms": "öffnet, öffnete, hat geöffnet",
    "pos": "verb",
-   "ipa": "ˈʔœfnən",
+   "ipa": "ˈœfnən",
    "vi": "mở ra (+ Akk)",
    "example": "Öffnen Sie bitte das Fenster ein Stück.",
    "exampleVi": "Xin vui lòng mở hé cửa sổ một chút."
@@ -567,7 +567,7 @@
    "de": "enden",
    "forms": "endet, endete, hat geendet",
    "pos": "verb",
-   "ipa": "ˈʔɛndn̩",
+   "ipa": "ˈɛndn̩",
    "vi": "kết thúc",
    "example": "Die Besprechung endet um zwölf Uhr.",
    "exampleVi": "Cuộc họp kết thúc vào lúc mười hai giờ."
@@ -594,7 +594,7 @@
    "de": "einladen",
    "forms": "lädt ein, lud ein, hat eingeladen",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌlaːdn̩",
+   "ipa": "ˈaɪ̯nˌlaːdn̩",
    "vi": "mời (zu + Dat)",
    "example": "Ich möchte dich zu meiner Party einladen.",
    "exampleVi": "Tôi muốn mời bạn tới dự bữa tiệc của mình."
@@ -621,7 +621,7 @@
    "de": "anrufen",
    "forms": "ruft an, rief an, hat angerufen",
    "pos": "verb",
-   "ipa": "ˈʔanˌʁuːfn̩",
+   "ipa": "ˈanˌʁuːfn̩",
    "vi": "gọi điện thoại cho (+ Akk)",
    "example": "Ich rufe dich heute Abend nach acht Uhr an.",
    "exampleVi": "Tối nay sau 8 giờ tôi sẽ gọi cho bạn."
@@ -630,7 +630,7 @@
    "de": "einkaufen",
    "forms": "kauft ein, kaufte ein, hat eingekauft",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌkaʊ̯fn̩",
+   "ipa": "ˈaɪ̯nˌkaʊ̯fn̩",
    "vi": "đi mua sắm",
    "example": "Wir müssen heute noch Lebensmittel einkaufen.",
    "exampleVi": "Hôm nay chúng ta còn phải đi mua thực phẩm."
@@ -639,7 +639,7 @@
    "de": "aufräumen",
    "forms": "räumt auf, räumte auf, hat aufgeräumt",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯fˌʁɔʏ̯mən",
+   "ipa": "ˈaʊ̯fˌʁɔʏ̯mən",
    "vi": "dọn dẹp (+ Akk)",
    "example": "Räum bitte dein Zimmer gründlich auf!",
    "exampleVi": "Hãy dọn dẹp phòng của bạn thật sạch sẽ nhé!"

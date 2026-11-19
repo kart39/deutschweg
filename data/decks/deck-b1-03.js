@@ -260,7 +260,7 @@
    "article": "das",
    "plural": "Auslandssemester",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯slantseˌmɛstɐ",
+   "ipa": "ˈaʊ̯slantseˌmɛstɐ",
    "vi": "học kỳ trao đổi tại nước ngoài",
    "example": "Ein Auslandssemester erweitert den persönlichen und akademischen Horizont.",
    "exampleVi": "Một học kỳ tại nước ngoài mở rộng tầm nhìn cá nhân và học thuật."
@@ -270,7 +270,7 @@
    "article": "das",
    "plural": "Austauschprogramme",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯staʊ̯ʃpʁoˌɡʁam",
+   "ipa": "ˈaʊ̯staʊ̯ʃpʁoˌɡʁam",
    "vi": "chương trình trao đổi sinh viên",
    "example": "Über das Erasmus-Programm absolvieren viele europäische Studenten ein Austauschjahr.",
    "exampleVi": "Qua chương trình Erasmus nhiều sinh viên châu Âu hoàn thành một năm trao đổi."
@@ -299,7 +299,7 @@
    "de": "sich immatrikulieren",
    "forms": "immatrikuliert sich, immatrikulierte sich, hat sich immatrikuliert",
    "pos": "verb",
-   "ipa": "ʔɪmatʁikuˈliːʁən zɪç",
+   "ipa": "ɪmatʁikuˈliːʁən zɪç",
    "vi": "nhập học, ghi danh vào đại học",
    "example": "Sie hat sich diese Woche an der Universität Heidelberg immatrikuliert.",
    "exampleVi": "Tuần này cô ấy đã làm thủ tục ghi danh nhập học tại Đại học Heidelberg."
@@ -308,7 +308,7 @@
    "de": "sich einschreiben",
    "forms": "schreibt sich ein, schrieb sich ein, hat sich eingeschrieben",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌʃʁaɪ̯bn̩ zɪç",
+   "ipa": "ˈaɪ̯nˌʃʁaɪ̯bn̩ zɪç",
    "vi": "đăng ký ngành học (für + Akk)",
    "example": "Er hat sich für den Studiengang Wirtschaftsinformatik eingeschrieben.",
    "exampleVi": "Anh ấy đã đăng ký vào ngành tin học kinh tế."
@@ -326,7 +326,7 @@
    "de": "analysieren",
    "forms": "analysiert, analysierte, hat analysiert",
    "pos": "verb",
-   "ipa": "ʔanalyˈziːʁən",
+   "ipa": "analyˈziːʁən",
    "vi": "phân tích sâu (+ Akk)",
    "example": "Die Forscher analysieren die Testergebnisse mit statistischen Methoden.",
    "exampleVi": "Các nhà nghiên cứu phân tích kết quả thử nghiệm bằng các phương pháp thống kê."
@@ -344,7 +344,7 @@
    "de": "abgeben",
    "forms": "gibt ab, gab ab, hat abgegeben",
    "pos": "verb",
-   "ipa": "ˈʔapˌɡeːbn̩",
+   "ipa": "ˈapˌɡeːbn̩",
    "vi": "nộp bài tiểu luận/khóa luận (+ Akk)",
    "example": "Pünktlich um zwölf Uhr gab sie ihre fertige Masterarbeit ab.",
    "exampleVi": "Đúng 12 giờ trưa cô ấy đã nộp xong luận văn thạc sĩ hoàn chỉnh."
@@ -370,7 +370,7 @@
   {
    "de": "akademisch",
    "pos": "adj",
-   "ipa": "ʔakaˈdeːmɪʃ",
+   "ipa": "akaˈdeːmɪʃ",
    "vi": "mang tính học thuật viện hàn lâm",
    "example": "Das Verfassen akademischer Texte erfordert einen präzisen Schreibstil.",
    "exampleVi": "Việc viết các bài học thuật đòi hỏi một văn phong chính xác."
@@ -402,7 +402,7 @@
   {
    "de": "anspruchsvoll",
    "pos": "adj",
-   "ipa": "ˈʔanʃpʁʊxsˌfɔl",
+   "ipa": "ˈanʃpʁʊxsˌfɔl",
    "vi": "đòi hỏi cao, khó khăn",
    "example": "Das Studium der Humanmedizin gilt als überaus anspruchsvoll.",
    "exampleVi": "Ngành học y khoa đa khoa được coi là cực kỳ gian nan đòi hỏi cao."
@@ -418,7 +418,7 @@
   {
    "de": "ein Referat halten",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ʁefeˈʁaːt ˈhaltn̩",
+   "ipa": "aɪ̯n ʁefeˈʁaːt ˈhaltn̩",
    "vi": "thuyết trình một bài báo cáo",
    "example": "Morgen muss ich im Seminar ein zwanzigminütiges Referat halten.",
    "exampleVi": "Ngày mai trong lớp chuyên đề tôi phải thuyết trình một bài 20 phút."
@@ -426,7 +426,7 @@
   {
    "de": "eine Prüfung ablegen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈpʁyːfʊŋ ˈʔapˌleːɡn̩",
+   "ipa": "ˈaɪ̯nə ˈpʁyːfʊŋ ˈapˌleːɡn̩",
    "vi": "tham gia dự thi",
    "example": "Am Ende des Semesters legen die Studierenden ihre Prüfungen ab.",
    "exampleVi": "Vào cuối kỳ các bạn sinh viên bước vào tham gia dự thi."
@@ -434,7 +434,7 @@
   {
    "de": "ein Stipendium erhalten",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ʃtiˈpɛndi̯ʊm ɛɐ̯ˈhaltn̩",
+   "ipa": "aɪ̯n ʃtiˈpɛndi̯ʊm ɛɐ̯ˈhaltn̩",
    "vi": "nhận được học bổng",
    "example": "Dank ihrer exzellenten Noten erhielt sie ein Vollstipendium.",
    "exampleVi": "Nhờ điểm số xuất sắc cô ấy đã nhận được học bổng toàn phần."
@@ -442,7 +442,7 @@
   {
    "de": "sich an einer Universität einschreiben",
    "pos": "phrase",
-   "ipa": "zɪç ʔan ˈʔaɪ̯nɐ univɛʁziˈtɛːt ˈʔaɪ̯nˌʃʁaɪ̯bn̩",
+   "ipa": "zɪç an ˈaɪ̯nɐ univɛʁziˈtɛːt ˈaɪ̯nˌʃʁaɪ̯bn̩",
    "vi": "làm thủ tục đăng ký học tại trường đại học",
    "example": "Im September schrieb er sich an der Technischen Universität München ein.",
    "exampleVi": "Vào tháng Chín anh ấy đã đăng ký học tại Đại học Kỹ thuật Munich."
@@ -458,7 +458,7 @@
   {
    "de": "eine Hausarbeit schreiben",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈhaʊ̯sʔaʁˌbaɪ̯t ˈʃʁaɪ̯bn̩",
+   "ipa": "ˈaɪ̯nə ˈhaʊ̯sʔaʁˌbaɪ̯t ˈʃʁaɪ̯bn̩",
    "vi": "viết bài tiểu luận kết thúc môn",
    "example": "Ich verbringe das ganze Wochenende damit, meine Hausarbeit zu schreiben.",
    "exampleVi": "Tôi dành cả cuối tuần để viết bài tiểu luận của mình."
@@ -466,7 +466,7 @@
   {
    "de": "in die Bibliothek gehen",
    "pos": "phrase",
-   "ipa": "ʔɪn diː biblioˈteːk ˈɡeːən",
+   "ipa": "ɪn diː biblioˈteːk ˈɡeːən",
    "vi": "đến thư viện tra cứu học bài",
    "example": "Vor wichtigen Klausuren gehen fast alle Studenten täglich in die Bibliothek.",
    "exampleVi": "Trước các kỳ thi quan trọng hầu như sinh viên nào cũng lên thư viện mỗi ngày."
@@ -474,7 +474,7 @@
   {
    "de": "einen Studienabschluss erwerben",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən ˈʃtuːdi̯ənʔapˌʃlʊs ɛɐ̯ˈvɛʁbn̩",
+   "ipa": "ˈaɪ̯nən ˈʃtuːdi̯ənʔapˌʃlʊs ɛɐ̯ˈvɛʁbn̩",
    "vi": "đạt được tấm bằng tốt nghiệp đại học",
    "example": "Mit dem Bachelorabschluss erwarb sie ihren ersten akademischen Grad.",
    "exampleVi": "Với bằng cử nhân cô ấy đã đạt được học vị đại học đầu tiên."
@@ -490,7 +490,7 @@
   {
    "de": "ein Auslandssemester absolvieren",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈʔaʊ̯slantseˌmɛstɐ ʔapzɔlˈviːʁən",
+   "ipa": "aɪ̯n ˈaʊ̯slantseˌmɛstɐ apzɔlˈviːʁən",
    "vi": "hoàn thành học kỳ trao đổi ở nước ngoài",
    "example": "Sie möchte unbedingt ein Auslandssemester in Frankreich absolvieren.",
    "exampleVi": "Cô ấy nhất định muốn hoàn thành một học kỳ trao đổi ở Pháp."
@@ -506,7 +506,7 @@
   {
    "de": "einen Vortrag halten",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən ˈfoːɐ̯ˌtʁaːk ˈhaltn̩",
+   "ipa": "ˈaɪ̯nən ˈfoːɐ̯ˌtʁaːk ˈhaltn̩",
    "vi": "thuyết giảng một bài diễn thuyết",
    "example": "Der Gastprofessor hielt einen hochinteressanten Vortrag über Quantenphysik.",
    "exampleVi": "Vị giáo sư thỉnh giảng đã thuyết trình một bài cực kỳ thú vị về vật lý lượng tử."
@@ -514,7 +514,7 @@
   {
    "de": "eine Quelle zitieren",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈkvɛlə tsiˈtiːʁən",
+   "ipa": "ˈaɪ̯nə ˈkvɛlə tsiˈtiːʁən",
    "vi": "trích dẫn nguồn tài liệu học thuật",
    "example": "Vergessen Sie nicht, jede übernommene Quelle wissenschaftlich sauber zu zitieren.",
    "exampleVi": "Đừng quên trích dẫn khoa học chuẩn xác mọi nguồn tài liệu đã sử dụng."
@@ -522,7 +522,7 @@
   {
    "de": "Wissen aneignen",
    "pos": "phrase",
-   "ipa": "ˈvɪsn̩ ˈʔanˌʔaɪ̯ɡnən",
+   "ipa": "ˈvɪsn̩ ˈanˌʔaɪ̯ɡnən",
    "vi": "tiếp thu lĩnh hội tri thức (sich)",
    "example": "Im Studium eignet man sich fundiertes theoretisches Wissen an.",
    "exampleVi": "Trong quá trình học đại học người ta lĩnh hội tri thức lý thuyết vững vàng."
@@ -600,7 +600,7 @@
    "article": "der",
    "plural": "Absolventen",
    "pos": "noun",
-   "ipa": "ʔapzɔlˈvɛnt",
+   "ipa": "apzɔlˈvɛnt",
    "vi": "người tốt nghiệp ra trường (nam)",
    "example": "Die Absolventen der Universität sind auf dem Arbeitsmarkt heiß begehrt.",
    "exampleVi": "Những sinh viên tốt nghiệp trường đại học này rất được săn đón trên thị trường việc làm."
@@ -610,7 +610,7 @@
    "article": "die",
    "plural": "Absolventinnen",
    "pos": "noun",
-   "ipa": "ʔapzɔlˈvɛntɪn",
+   "ipa": "apzɔlˈvɛntɪn",
    "vi": "nữ sinh tốt nghiệp ra trường",
    "example": "Die junge Absolventin feierte ihren Erfolg ausgelassen mit ihren Eltern.",
    "exampleVi": "Cô cử nhân trẻ đã ăn mừng thành công tưng bừng cùng cha mẹ."
@@ -618,7 +618,7 @@
   {
    "de": "Promotion anstreben",
    "pos": "phrase",
-   "ipa": "pʁomoˈtsi̯oːn ˈʔanˌʃtʁeːbn̩",
+   "ipa": "pʁomoˈtsi̯oːn ˈanˌʃtʁeːbn̩",
    "vi": "hướng tới làm nghiên cứu sinh tiến sĩ",
    "example": "Nach dem glänzenden Masterabschluss strebt sie nun eine Promotion an.",
    "exampleVi": "Sau tấm bằng thạc sĩ rạng rỡ giờ đây cô hướng tới bảo vệ tiến sĩ."
@@ -626,7 +626,7 @@
   {
    "de": "eine Deadline einhalten",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈdɛtˌlaɪ̯n ˈʔaɪ̯nˌhaltn̩",
+   "ipa": "ˈaɪ̯nə ˈdɛtˌlaɪ̯n ˈaɪ̯nˌhaltn̩",
    "vi": "tuân thủ thời hạn chót nộp bài",
    "example": "Es ist im Studium unabdingbar, jede gesetzte Deadline strikt einzuhalten.",
    "exampleVi": "Trong học đại học điều tối quan trọng là phải tuân thủ nghiêm ngặt mọi hạn chót."
@@ -634,7 +634,7 @@
   {
    "de": "Viel Erfolg im Studium!",
    "pos": "phrase",
-   "ipa": "fiːl ɛɐ̯ˈfɔlk ʔɪm ˈʃtuːdi̯ʊm",
+   "ipa": "fiːl ɛɐ̯ˈfɔlk ɪm ˈʃtuːdi̯ʊm",
    "vi": "chúc học tập đại học nhiều thành công!",
    "example": "Wir wünschen dir einen guten Start an der Uni und viel Erfolg im Studium!",
    "exampleVi": "Chúc bạn có bước khởi đầu thuận lợi tại trường đại học và gặt hái nhiều thành công!"

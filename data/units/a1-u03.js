@@ -1595,7 +1595,7 @@
      "article": null,
      "plural": null,
      "pos": "phrase",
-     "ipa": "ˈɡuːtn̩ ʔapəˈtiːt",
+     "ipa": "ˈɡuːtn̩ apəˈtiːt",
      "vi": "Chúc ngon miệng!",
      "example": "Hier ist Ihre Suppe. Guten Appetit!",
      "exampleVi": "Món súp của Ngài đây ạ. Chúc Ngài ngon miệng!"

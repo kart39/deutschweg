@@ -90,7 +90,7 @@
    "article": "die",
    "plural": "Ausstellungen",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯sˌʃtɛlʊŋ",
+   "ipa": "ˈaʊ̯sˌʃtɛlʊŋ",
    "vi": "cuộc triển lãm",
    "example": "Die neue Ausstellung über den Impressionismus beginnt am kommenden Freitag.",
    "exampleVi": "Cuộc triển lãm mới về trường phái ấn tượng bắt đầu vào thứ Sáu tới."
@@ -220,7 +220,7 @@
    "article": "die",
    "plural": "Aufführungen",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯fˌfyːʁʊŋ",
+   "ipa": "ˈaʊ̯fˌfyːʁʊŋ",
    "vi": "buổi biểu diễn",
    "example": "Wegen des großen Erfolgs gab es fünf zusätzliche Aufführungen der Oper.",
    "exampleVi": "Do thành công lớn, vở opera đã có thêm năm buổi biểu diễn bổ sung."
@@ -270,7 +270,7 @@
    "article": "das",
    "plural": "Konzerte",
    "pos": "noun",
-   "ipa": "kɔnˈt͡sɛʁt",
+   "ipa": "kɔnˈtsɛʁt",
    "vi": "buổi hòa nhạc",
    "example": "Das Sinfonieorchester gibt heute Abend ein festliches Konzert.",
    "exampleVi": "Dàn nhạc giao hưởng tối nay sẽ biểu diễn một buổi hòa nhạc long trọng."
@@ -290,7 +290,7 @@
    "article": "das",
    "plural": "Orchester",
    "pos": "noun",
-   "ipa": "ʔɔʁˈkɛstɐ",
+   "ipa": "ɔʁˈkɛstɐ",
    "vi": "dàn nhạc",
    "example": "Über achtzig Musiker spielen gemeinsam in diesem renommierten Orchester.",
    "exampleVi": "Hơn tám mươi nhạc công cùng chơi trong dàn nhạc lừng danh này."
@@ -410,7 +410,7 @@
    "article": "die",
    "plural": "Rezensionen",
    "pos": "noun",
-   "ipa": "ʁet͡sɛnˈzi̯oːn",
+   "ipa": "ʁetsɛnˈzi̯oːn",
    "vi": "bài phê bình, điểm sách/phim",
    "example": "Die Zeitung druckte eine sehr positive Rezension des neuen Romans ab.",
    "exampleVi": "Tờ báo đã đăng một bài phê bình rất tích cực về cuốn tiểu thuyết mới."
@@ -470,7 +470,7 @@
    "article": "der",
    "plural": "Fernsehzuschauer",
    "pos": "noun",
-   "ipa": "ˈfɛʁnzeːˌt͡suːˌʃaʊ̯ɐ",
+   "ipa": "ˈfɛʁnzeːˌtsuːˌʃaʊ̯ɐ",
    "vi": "khán giả truyền hình",
    "example": "Millionen Fernsehzuschauer verfolgten die spannende Live-Übertragung.",
    "exampleVi": "Hàng triệu khán giả truyền hình đã theo dõi buổi phát sóng trực tiếp đầy kịch tính."
@@ -480,7 +480,7 @@
    "article": "die",
    "plural": "Einschaltquoten",
    "pos": "noun",
-   "ipa": "ˈʔaɪ̯nʃaltˌkvoːtə",
+   "ipa": "ˈaɪ̯nʃaltˌkvoːtə",
    "vi": "tỷ lệ người xem (rating)",
    "example": "Die Fernsehserie erzielte am Sonntagabend eine Rekord-Einschaltquote.",
    "exampleVi": "Bộ phim truyền hình nhiều tập đã đạt tỷ lệ người xem kỷ lục vào tối Chủ Nhật."
@@ -490,7 +490,7 @@
    "article": "die",
    "plural": "Schlagzeilen",
    "pos": "noun",
-   "ipa": "ˈʃlaːkˌt͡saɪ̯lə",
+   "ipa": "ˈʃlaːkˌtsaɪ̯lə",
    "vi": "tít báo giật gân, tiêu đề trang nhất",
    "example": "Der politische Skandal beherrschte tagelang die Schlagzeilen der Tageszeitungen.",
    "exampleVi": "Vụ bê bối chính trị đã thống trị các tít báo của các tờ nhật báo trong nhiều ngày."
@@ -540,7 +540,7 @@
    "article": "die",
    "plural": "–",
    "pos": "noun",
-   "ipa": "t͡sɛnˈzuːɐ̯",
+   "ipa": "tsɛnˈzuːɐ̯",
    "vi": "sự kiểm duyệt",
    "example": "In autoritären Staaten unterliegen kritische Medien oft strenger Zensur.",
    "exampleVi": "Ở các quốc gia độc tài, truyền thông mang tính phản biện thường chịu sự kiểm duyệt khắt khe."
@@ -568,7 +568,7 @@
    "de": "aufführen",
    "pos": "verb",
    "forms": "führt auf, führte auf, hat aufgeführt",
-   "ipa": "ˈʔaʊ̯fˌfyːʁən",
+   "ipa": "ˈaʊ̯fˌfyːʁən",
    "vi": "trình diễn, công diễn",
    "example": "Die Laienschauspielgruppe führt am Wochenende eine Komödie auf.",
    "exampleVi": "Đoàn kịch nghiệp dư sẽ trình diễn một vở hài kịch vào cuối tuần."
@@ -577,7 +577,7 @@
    "de": "inszenieren",
    "pos": "verb",
    "forms": "inszeniert, inszenierte, hat inszeniert",
-   "ipa": "ɪnst͡seˈniːʁən",
+   "ipa": "ɪnstseˈniːʁən",
    "vi": "dàn dựng sân khấu",
    "example": "Die Regisseurin inszenierte das klassische Stück auf eine provokante Art.",
    "exampleVi": "Nữ đạo diễn đã dàn dựng vở kịch cổ điển theo một cách đầy khiêu khích."
@@ -622,7 +622,7 @@
    "de": "rezensieren",
    "pos": "verb",
    "forms": "rezensiert, rezensierte, hat rezensiert",
-   "ipa": "ʁet͡sɛnˈziːʁən",
+   "ipa": "ʁetsɛnˈziːʁən",
    "vi": "điểm sách, bình luận đánh giá",
    "example": "Kritiker rezensierten das neue Theaterstück überwiegend begeistert.",
    "exampleVi": "Các nhà phê bình đã đánh giá vở kịch mới chủ yếu với sự nhiệt thành hào hứng."
@@ -649,7 +649,7 @@
    "de": "faszinieren",
    "pos": "verb",
    "forms": "fasziniert, faszinierte, hat fasziniert",
-   "ipa": "fast͡siˈniːʁən",
+   "ipa": "fastsiˈniːʁən",
    "vi": "mê hoặc, cuốn hút",
    "example": "Die ausdrucksstarken Farben seiner Gemälde faszinieren Kunstkenner weltweit.",
    "exampleVi": "Màu sắc đầy biểu cảm trong các bức họa của ông mê hoặc những người sành nghệ thuật khắp thế giới."
@@ -657,7 +657,7 @@
   {
    "de": "zeitgenössisch",
    "pos": "adj",
-   "ipa": "ˈt͡saɪ̯tɡəˌnœsɪʃ",
+   "ipa": "ˈtsaɪ̯tɡəˌnœsɪʃ",
    "vi": "đương đại",
    "example": "Die Ausstellung widmet sich vor allem zeitgenössischer Kunst aus Asien.",
    "exampleVi": "Triển lãm chủ yếu dành riêng cho nghệ thuật đương đại đến từ châu Á."
@@ -665,7 +665,7 @@
   {
    "de": "abstrakt",
    "pos": "adj",
-   "ipa": "ʔapˈstʁakt",
+   "ipa": "apˈstʁakt",
    "vi": "trừu tượng",
    "example": "Abstrakte Kunstformen fordern die Fantasie des Betrachters heraus.",
    "exampleVi": "Các hình thức nghệ thuật trừu tượng thách thức trí tưởng tượng của người thưởng lãm."
@@ -721,7 +721,7 @@
   {
    "de": "eine Rolle spielen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈʁɔlə ˈʃpiːln̩",
+   "ipa": "ˈaɪ̯nə ˈʁɔlə ˈʃpiːln̩",
    "vi": "đóng một vai trò",
    "example": "Kultur spielt eine unverzichtbare Rolle im gesellschaftlichen Zusammenhalt.",
    "exampleVi": "Văn hóa đóng một vai trò không thể thiếu đối với sự gắn kết xã hội."

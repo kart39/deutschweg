@@ -2483,7 +2483,7 @@
      "plural": null,
      "pos": "verb",
      "forms": "lehnt ab, lehnte ab, hat abgelehnt",
-     "ipa": "ˈʔapˌleːnən",
+     "ipa": "ˈapˌleːnən",
      "vi": "từ chối, bác bỏ (một kiến nghị, dự luật)",
      "example": "Der Stadtrat lehnte den unüberlegten Kürzungsplan der Verwaltung nach langer Debatte ab.",
      "exampleVi": "Hội đồng thành phố đã bác bỏ kế hoạch cắt giảm thiếu suy nghĩ của ban quản lý sau cuộc thảo luận dài."

@@ -210,7 +210,7 @@
    "article": "der",
    "plural": "Eimer",
    "pos": "noun",
-   "ipa": "ˈʔaɪ̯mɐ",
+   "ipa": "ˈaɪ̯mɐ",
    "vi": "cái xô nước",
    "example": "Hol bitte einen Eimer mit warmem Wasser zum Putzen.",
    "exampleVi": "Hãy lấy một xô nước ấm để lau dọn nhé."
@@ -279,7 +279,7 @@
    "de": "umziehen",
    "forms": "zieht um, zog um, ist umgezogen",
    "pos": "verb",
-   "ipa": "ˈʔʊmˌtsiːən",
+   "ipa": "ˈʊmˌtsiːən",
    "vi": "chuyển nhà (in + Akk / nach + Dat)",
    "example": "Nächsten Monat ziehen wir in eine größere Wohnung um.",
    "exampleVi": "Tháng sau chúng tôi chuyển vào một căn hộ lớn hơn."
@@ -288,7 +288,7 @@
    "de": "einziehen",
    "forms": "zieht ein, zog ein, ist eingezogen",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌtsiːən",
+   "ipa": "ˈaɪ̯nˌtsiːən",
    "vi": "chuyển vào ở (in + Akk)",
    "example": "Wann können die neuen Mieter endlich einziehen?",
    "exampleVi": "Khi nào những người thuê mới có thể dọn vào ở?"
@@ -297,7 +297,7 @@
    "de": "ausziehen",
    "forms": "zieht aus, zog aus, ist ausgezogen",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯sˌtsiːən",
+   "ipa": "ˈaʊ̯sˌtsiːən",
    "vi": "dọn đi, chuyển ra ngoài (aus + Dat)",
    "example": "Er zieht zum Monatsende aus dem Wohnheim aus.",
    "exampleVi": "Vào cuối tháng anh ấy chuyển ra khỏi ký túc xá."
@@ -315,7 +315,7 @@
    "de": "unterschreiben",
    "forms": "unterschreibt, unterschrieb, hat unterschrieben",
    "pos": "verb",
-   "ipa": "ʔʊntɐˈʃʁaɪ̯bn̩",
+   "ipa": "ʊntɐˈʃʁaɪ̯bn̩",
    "vi": "ký tên xác nhận (+ Akk)",
    "example": "Sie hat den Mietvertrag gestern unterschrieben.",
    "exampleVi": "Cô ấy đã ký hợp đồng thuê nhà vào ngày hôm qua."
@@ -387,7 +387,7 @@
    "de": "abwaschen",
    "forms": "wäscht ab, wusch ab, hat abgewaschen",
    "pos": "verb",
-   "ipa": "ˈʔapˌvaʃn̩",
+   "ipa": "ˈapˌvaʃn̩",
    "vi": "rửa bát đĩa xong (+ Akk)",
    "example": "Ich wasche schnell die Töpfe und Pfannen ab.",
    "exampleVi": "Tôi rửa nhanh mấy chiếc xoong chảo."
@@ -515,7 +515,7 @@
   {
    "de": "unmöbliert",
    "pos": "adj",
-   "ipa": "ˈʔʊnmøˌbliːɐ̯t",
+   "ipa": "ˈʊnmøˌbliːɐ̯t",
    "vi": "chưa có đồ nội thất, phòng trống",
    "example": "Die Wohnung wird komplett unmöbliert übergeben.",
    "exampleVi": "Căn hộ được bàn giao hoàn toàn không có đồ đạc."
@@ -571,7 +571,7 @@
   {
    "de": "den Tisch abräumen",
    "pos": "phrase",
-   "ipa": "deːn ˈtɪʃ ˈʔapˌʁɔʏ̯mən",
+   "ipa": "deːn ˈtɪʃ ˈapˌʁɔʏ̯mən",
    "vi": "dọn dẹp bàn ăn sau bữa ăn",
    "example": "Nach dem Essen räumen wir gemeinsam den Tisch ab.",
    "exampleVi": "Sau bữa ăn chúng tôi cùng nhau dọn dẹp bàn ăn."
@@ -587,7 +587,7 @@
   {
    "de": "einen Mietvertrag unterschreiben",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən ˈmiːtfɛɐ̯ˌtʁaːk ʔʊntɐˈʃʁaɪ̯bn̩",
+   "ipa": "ˈaɪ̯nən ˈmiːtfɛɐ̯ˌtʁaːk ʊntɐˈʃʁaɪ̯bn̩",
    "vi": "ký hợp đồng thuê nhà",
    "example": "Morgen unterschreiben wir endlich den Mietvertrag.",
    "exampleVi": "Ngày mai cuối cùng chúng tôi cũng ký hợp đồng thuê nhà."
@@ -595,7 +595,7 @@
   {
    "de": "die Kaution überweisen",
    "pos": "phrase",
-   "ipa": "diː kaʊ̯ˈtsi̯oːn ʔyːbɐˈvaɪ̯zn̩",
+   "ipa": "diː kaʊ̯ˈtsi̯oːn yːbɐˈvaɪ̯zn̩",
    "vi": "chuyển khoản tiền đặt cọc nhà",
    "example": "Vergessen Sie nicht, die Kaution rechtzeitig zu überweisen.",
    "exampleVi": "Đừng quên chuyển khoản tiền cọc nhà đúng hạn nhé."
@@ -603,7 +603,7 @@
   {
    "de": "zur Untermiete wohnen",
    "pos": "phrase",
-   "ipa": "tsuːɐ̯ ˈʔʊntɐˌmiːtə ˌvoːnən",
+   "ipa": "tsuːɐ̯ ˈʊntɐˌmiːtə ˌvoːnən",
    "vi": "ở thuê lại (thuê từ người thuê chính)",
    "example": "Als Student wohnte er zwei Jahre zur Untermiete.",
    "exampleVi": "Thời sinh viên anh ấy ở thuê lại trong hai năm."
@@ -611,7 +611,7 @@
   {
    "de": "eine Wohnung suchen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈvoːnʊŋ ˌzuːxn̩",
+   "ipa": "ˈaɪ̯nə ˈvoːnʊŋ ˌzuːxn̩",
    "vi": "tìm kiếm nhà ở",
    "example": "Wir suchen schon seit drei Monaten eine bezahlbare Wohnung.",
    "exampleVi": "Chúng tôi tìm kiếm căn hộ giá vừa phải suốt ba tháng nay."
@@ -619,7 +619,7 @@
   {
    "de": "im ersten Stock",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈʔeːɐ̯stn̩ ˈʃtɔk",
+   "ipa": "ɪm ˈeːɐ̯stn̩ ˈʃtɔk",
    "vi": "ở tầng một (tầng trên trệt)",
    "example": "Die Wohnung liegt im ersten Stock ohne Aufzug.",
    "exampleVi": "Căn hộ nằm ở tầng một và không có thang máy."
@@ -627,7 +627,7 @@
   {
    "de": "im Erdgeschoss",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈʔeːɐ̯tɡəˌʃɔs",
+   "ipa": "ɪm ˈeːɐ̯tɡəˌʃɔs",
    "vi": "ở tầng trệt",
    "example": "Im Erdgeschoss befindet sich eine kleine Bäckerei.",
    "exampleVi": "Ở tầng trệt có một tiệm bánh mì nhỏ."
@@ -635,7 +635,7 @@
   {
    "de": "im Dachgeschoss",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈdaxɡəˌʃɔs",
+   "ipa": "ɪm ˈdaxɡəˌʃɔs",
    "vi": "ở tầng áp mái",
    "example": "Die gemütliche Dachgeschosswohnung hat schöne Balken.",
    "exampleVi": "Căn hộ tầng áp mái ấm cúng có những xà gỗ đẹp."
@@ -667,7 +667,7 @@
   {
    "de": "die Heizung aufdrehen",
    "pos": "phrase",
-   "ipa": "diː ˈhaɪ̯tsʊŋ ˈʔaʊ̯fˌdʁeːən",
+   "ipa": "diː ˈhaɪ̯tsʊŋ ˈaʊ̯fˌdʁeːən",
    "vi": "vặn mở sưởi to lên",
    "example": "Es ist kalt hier, dreh bitte die Heizung ein bisschen auf.",
    "exampleVi": "Ở đây lạnh quá, hãy vặn sưởi to lên một chút nhé."

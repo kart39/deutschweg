@@ -21,7 +21,7 @@
    "article": "die",
    "plural": "Automatisierungen",
    "pos": "noun",
-   "ipa": "ʔaʊ̯tomatiˈziːʁʊŋ",
+   "ipa": "aʊ̯tomatiˈziːʁʊŋ",
    "vi": "sự tự động hóa",
    "example": "In vielen Fabriken übernimmt die Automatisierung gefährliche und schwere Aufgaben.",
    "exampleVi": "Tại nhiều nhà máy, sự tự động hóa đảm nhận các công việc nguy hiểm và nặng nhọc."
@@ -41,7 +41,7 @@
    "article": "die",
    "plural": "Gleitzeiten",
    "pos": "noun",
-   "ipa": "ˈɡlaɪ̯tˌt͡saɪ̯t",
+   "ipa": "ˈɡlaɪ̯tˌtsaɪ̯t",
    "vi": "thời gian làm việc linh hoạt",
    "example": "Dank der Gleitzeit können Angestellte ihren Arbeitstag flexibel gestalten.",
    "exampleVi": "Nhờ thời gian làm việc linh hoạt, nhân viên có thể tự sắp xếp ngày làm việc của mình."
@@ -91,7 +91,7 @@
    "article": "die",
    "plural": "Qualifikationen",
    "pos": "noun",
-   "ipa": "kvalifikaˈt͡sjoːn",
+   "ipa": "kvalifikaˈtsjoːn",
    "vi": "trình độ chuyên môn, bằng cấp năng lực",
    "example": "Für diese anspruchsvolle Stelle wird eine fundierte Qualifikation im Projektmanagement verlangt.",
    "exampleVi": "Đối với vị trí khắt khe này, yêu cầu trình độ chuyên môn vững vàng về quản lý dự án."
@@ -241,7 +241,7 @@
    "article": "die",
    "plural": "Vollzeitstellen",
    "pos": "noun",
-   "ipa": "ˈfɔlt͡saɪ̯tˌʃtɛlə",
+   "ipa": "ˈfɔltsaɪ̯tˌʃtɛlə",
    "vi": "vị trí làm việc toàn thời gian",
    "example": "Nach erfolgreichem Abschluss erhielt sie eine feste Vollzeitstelle im Betrieb.",
    "exampleVi": "Sau khi tốt nghiệp xuất sắc, cô ấy nhận được một vị trí chính thức toàn thời gian tại công ty."
@@ -261,7 +261,7 @@
    "article": "die",
    "plural": "Probezeiten",
    "pos": "noun",
-   "ipa": "ˈpʁoːbəˌt͡saɪ̯t",
+   "ipa": "ˈpʁoːbəˌtsaɪ̯t",
    "vi": "thời gian thử việc",
    "example": "In der Probezeit können beide Seiten den Vertrag mit verkürzter Frist beenden.",
    "exampleVi": "Trong thời gian thử việc, cả hai bên đều có thể chấm dứt hợp đồng với thời hạn ngắn hơn."
@@ -311,7 +311,7 @@
    "article": "die",
    "plural": "Kernkompetenzen",
    "pos": "noun",
-   "ipa": "ˈkɛʁnkɔmpəˌtɛnt͡s",
+   "ipa": "ˈkɛʁnkɔmpəˌtɛnts",
    "vi": "năng lực cốt lõi",
    "example": "Zu ihren Kernkompetenzen gehören analytisches Denken und interkulturelle Kommunikation.",
    "exampleVi": "Trong các năng lực cốt lõi của cô ấy có tư duy phân tích và giao tiếp liên văn hóa."
@@ -399,7 +399,7 @@
   {
    "de": "effizient",
    "pos": "adj",
-   "ipa": "ɛfiˈt͡si̯ɛnt",
+   "ipa": "ɛfiˈtsi̯ɛnt",
    "vi": "hiệu quả, năng suất",
    "example": "Durch optimierte Arbeitsabläufe arbeitet das Team jetzt wesentlich effizienter.",
    "exampleVi": "Nhờ quy trình làm việc được tối ưu hóa, nhóm hiện làm việc năng suất hơn đáng kể."
@@ -500,7 +500,7 @@
    "de": "überstürzen",
    "forms": "überstürzt, überstürzte, hat überstürzt",
    "pos": "verb",
-   "ipa": "yːbɐˈʃtʏʁt͡sn̩",
+   "ipa": "yːbɐˈʃtʏʁtsn̩",
    "vi": "vội vã, hấp tấp (sich nicht überstürzen)",
    "example": "Bei einem wichtigen Karrierewechsel sollte man nichts überstürzen.",
    "exampleVi": "Khi thay đổi sự nghiệp quan trọng, người ta không nên làm bất cứ điều gì hấp tấp."
@@ -610,7 +610,7 @@
   {
    "de": "Druck ausüben auf",
    "pos": "phrase",
-   "ipa": "dʁʊk ˈaʊ̯sˌʔyːbn̩ ʔaʊ̯f",
+   "ipa": "dʁʊk ˈaʊ̯sˌʔyːbn̩ aʊ̯f",
    "vi": "gây áp lực lên (+ Akk)",
    "example": "Die Belegschaft übte mit Protestaktionen spürbaren Druck auf den Vorstand aus.",
    "exampleVi": "Tập thể công nhân viên bằng các hành động phản kháng đã gây áp lực rõ rệt lên ban quản trị."
@@ -626,7 +626,7 @@
   {
    "de": "an die Arbeit gehen",
    "pos": "phrase",
-   "ipa": "ʔan diː ˈaʁbaɪ̯t ˈɡeːən",
+   "ipa": "an diː ˈaʁbaɪ̯t ˈɡeːən",
    "vi": "bắt tay vào công việc",
    "example": "Nach der Kaffeepause gingen alle Mitarbeiter wieder hochkonzentriert an die Arbeit.",
    "exampleVi": "Sau giờ giải lao uống cà phê, mọi nhân viên lại tập trung cao độ bắt tay vào công việc."
@@ -642,7 +642,7 @@
   {
    "de": "zur Kündigung zwingen",
    "pos": "phrase",
-   "ipa": "tsuːɐ̯ ˈkʏndɪɡʊŋ ˈt͡svɪŋən",
+   "ipa": "tsuːɐ̯ ˈkʏndɪɡʊŋ ˈtsvɪŋən",
    "vi": "buộc phải nghỉ việc",
    "example": "Ungünstige Arbeitsbedingungen zwangen mehrere Kollegen zur vorzeitigen Kündigung.",
    "exampleVi": "Điều kiện làm việc bất lợi đã buộc nhiều đồng nghiệp phải nộp đơn xin nghỉ việc trước hạn."

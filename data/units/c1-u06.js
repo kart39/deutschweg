@@ -1904,7 +1904,7 @@
      "article": null,
      "plural": null,
      "pos": "phrase",
-     "ipa": "ˈaʊ̯sɐ ˈʔaxt ˌlasn̩",
+     "ipa": "ˈaʊ̯sɐ ˈaxt ˌlasn̩",
      "vi": "bỏ qua, không tính đến (+ Akk)",
      "example": "Eine einseitige Debatte lässt oft die Perspektive der Betroffenen außer Acht.",
      "exampleVi": "Một cuộc tranh luận phiến diện thường bỏ qua góc nhìn của những người trong cuộc."

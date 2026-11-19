@@ -10,7 +10,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔɛsn̩",
+   "ipa": "ˈɛsn̩",
    "vi": "thức ăn, bữa ăn",
    "example": "Das Essen schmeckt wirklich ausgezeichnet.",
    "exampleVi": "Thức ăn có vị thực sự rất ngon."
@@ -50,7 +50,7 @@
    "article": "das",
    "plural": "Abendessen",
    "pos": "noun",
-   "ipa": "ˈʔaːbn̩tˌʔɛsn̩",
+   "ipa": "ˈaːbn̩tˌʔɛsn̩",
    "vi": "bữa ăn tối",
    "example": "Um 19 Uhr machen wir Abendessen.",
    "exampleVi": "Lúc 19 giờ chúng tôi chuẩn bị bữa tối."
@@ -130,7 +130,7 @@
    "article": "das",
    "plural": "Eier",
    "pos": "noun",
-   "ipa": "ʔaɪ̯",
+   "ipa": "aɪ̯",
    "vi": "quả trứng",
    "example": "Ich koche mir ein weiches Ei.",
    "exampleVi": "Tôi luộc cho mình một quả trứng lòng đào."
@@ -250,7 +250,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ʔoːpst",
+   "ipa": "oːpst",
    "vi": "trái cây, hoa quả",
    "example": "Wir kaufen auf dem Markt frisches Obst.",
    "exampleVi": "Chúng tôi mua trái cây tươi ở chợ."
@@ -260,7 +260,7 @@
    "article": "der",
    "plural": "Äpfel",
    "pos": "noun",
-   "ipa": "ˈʔapfl̩",
+   "ipa": "ˈapfl̩",
    "vi": "quả táo",
    "example": "Ein Apfel am Tag hält gesund.",
    "exampleVi": "Một quả táo mỗi ngày giúp giữ sức khỏe."
@@ -280,7 +280,7 @@
    "article": "die",
    "plural": "Orangen",
    "pos": "noun",
-   "ipa": "ʔoˈʁɑ̃ːʒə",
+   "ipa": "oˈʁɑ̃ːʒə",
    "vi": "quả cam",
    "example": "Ich trinke morgens den Saft einer Orange.",
    "exampleVi": "Buổi sáng tôi uống nước ép từ một quả cam."
@@ -370,7 +370,7 @@
    "article": "das",
    "plural": "Öle",
    "pos": "noun",
-   "ipa": "ʔøːl",
+   "ipa": "øːl",
    "vi": "dầu ăn",
    "example": "Wir braten das Gemüse mit Olivenöl an.",
    "exampleVi": "Chúng tôi xào rau củ với dầu ô liu."
@@ -440,7 +440,7 @@
    "article": "der",
    "plural": "Apfelsäfte",
    "pos": "noun",
-   "ipa": "ˈʔapfl̩ˌzaft",
+   "ipa": "ˈapfl̩ˌzaft",
    "vi": "nước ép táo",
    "example": "Apfelsaftschorle ist in Deutschland sehr beliebt.",
    "exampleVi": "Nước táo pha khoáng có ga rất được ưa chuộng ở Đức."
@@ -490,7 +490,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ʔaɪ̯s",
+   "ipa": "aɪ̯s",
    "vi": "kem; đá lạnh",
    "example": "Im Sommer essen wir jeden Tag ein Eis.",
    "exampleVi": "Vào mùa hè mỗi ngày chúng tôi đều ăn kem."
@@ -559,7 +559,7 @@
    "de": "essen",
    "forms": "isst, aß, hat gegessen",
    "pos": "verb",
-   "ipa": "ˈʔɛsn̩",
+   "ipa": "ˈɛsn̩",
    "vi": "ăn (+ Akk)",
    "example": "Was isst du am liebsten?",
    "exampleVi": "Bạn thích ăn món gì nhất?"
@@ -711,7 +711,7 @@
   {
    "de": "Guten Appetit",
    "pos": "phrase",
-   "ipa": "ˌɡuːtn̩ ʔapeˈtiːt",
+   "ipa": "ˌɡuːtn̩ apeˈtiːt",
    "vi": "chúc ngon miệng",
    "example": "Guten Appetit allerseits!",
    "exampleVi": "Chúc tất cả mọi người ngon miệng!"

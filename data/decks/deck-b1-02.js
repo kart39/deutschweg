@@ -10,7 +10,7 @@
    "article": "die",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔaʁbaɪ̯tsˌvɛlt",
+   "ipa": "ˈaʁbaɪ̯tsˌvɛlt",
    "vi": "thế giới việc làm, môi trường công sở",
    "example": "Die Digitalisierung verändert die moderne Arbeitswelt rasant.",
    "exampleVi": "Quá trình số hóa đang thay đổi thế giới việc làm hiện đại một cách chóng mặt."
@@ -20,7 +20,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔaʁbaɪ̯tsˌkliːma",
+   "ipa": "ˈaʁbaɪ̯tsˌkliːma",
    "vi": "bầu không khí làm việc",
    "example": "Ein wertschätzendes Arbeitsklima steigert die Motivation der Mitarbeiter.",
    "exampleVi": "Một môi trường làm việc coi trọng nhau nâng cao động lực của nhân viên."
@@ -70,7 +70,7 @@
    "article": "der",
    "plural": "Arbeitgeber",
    "pos": "noun",
-   "ipa": "ˈʔaʁbaɪ̯tˌɡeːbɐ",
+   "ipa": "ˈaʁbaɪ̯tˌɡeːbɐ",
    "vi": "người sử dụng lao động, chủ doanh nghiệp",
    "example": "Das Unternehmen gilt in der Region als attraktiver Arbeitgeber.",
    "exampleVi": "Doanh nghiệp được coi là nhà tuyển dụng hấp dẫn trong khu vực."
@@ -80,7 +80,7 @@
    "article": "der",
    "plural": "Arbeitnehmer",
    "pos": "noun",
-   "ipa": "ˈʔaʁbaɪ̯tˌneːmɐ",
+   "ipa": "ˈaʁbaɪ̯tˌneːmɐ",
    "vi": "người lao động làm thuê",
    "example": "Die Rechte der Arbeitnehmer sind im Gesetz fest verankert.",
    "exampleVi": "Quyền lợi của người lao động được quy định vững chắc trong luật."
@@ -180,7 +180,7 @@
    "article": "die",
    "plural": "Überstunden",
    "pos": "noun",
-   "ipa": "ˈʔyːbɐˌʃtʊndə",
+   "ipa": "ˈyːbɐˌʃtʊndə",
    "vi": "giờ làm việc tăng ca",
    "example": "Er kann die angesammelten Überstunden als Urlaub abfeiern.",
    "exampleVi": "Anh ấy có thể dùng số giờ tăng ca tích lũy để đổi lấy ngày nghỉ phép."
@@ -319,7 +319,7 @@
    "de": "sich engagieren",
    "forms": "engagiert sich, engagierte sich, hat sich engagiert",
    "pos": "verb",
-   "ipa": "ʔɑ̃ɡaˈʒiːʁən zɪç",
+   "ipa": "ɑ̃ɡaˈʒiːʁən zɪç",
    "vi": "dốc lòng cống hiến, tận tụy (für + Akk)",
    "example": "Sie engagiert sich mit großer Leidenschaft für das neue Projekt.",
    "exampleVi": "Cô ấy dốc lòng tận tụy với niềm đam mê lớn cho dự án mới."
@@ -465,7 +465,7 @@
   {
    "de": "anspruchsvoll",
    "pos": "adj",
-   "ipa": "ˈʔanʃpʁʊxsˌfɔl",
+   "ipa": "ˈanʃpʁʊxsˌfɔl",
    "vi": "đòi hỏi cao, đầy thử thách",
    "example": "Die Entwicklung der neuen Software ist eine anspruchsvolle Aufgabe.",
    "exampleVi": "Việc phát triển phần mềm mới là một nhiệm vụ đòi hỏi chuyên môn cao."
@@ -481,7 +481,7 @@
   {
    "de": "unbefristet",
    "pos": "adj",
-   "ipa": "ˈʔʊnbəˌfʁɪstət",
+   "ipa": "ˈʊnbəˌfʁɪstət",
    "vi": "vô thời hạn (hợp đồng dài hạn)",
    "example": "Sie erhielt nach der Probezeit einen unbefristeten Arbeitsvertrag.",
    "exampleVi": "Cô ấy đã nhận được hợp đồng dài hạn sau thời gian thử việc."
@@ -513,7 +513,7 @@
   {
    "de": "ein Gehalt verhandeln",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ɡəˈhalt fɛɐ̯ˌhandl̩n",
+   "ipa": "aɪ̯n ɡəˈhalt fɛɐ̯ˌhandl̩n",
    "vi": "thương lượng mức lương",
    "example": "Bereiten Sie überzeugende Argumente vor, wenn Sie Ihr Gehalt verhandeln.",
    "exampleVi": "Hãy chuẩn bị những lập luận thuyết phục khi đàm phán lương."
@@ -521,7 +521,7 @@
   {
    "de": "Überstunden abbauen",
    "pos": "phrase",
-   "ipa": "ˈʔyːbɐˌʃtʊndn̩ ˈʔapˌbaʊ̯ən",
+   "ipa": "ˈyːbɐˌʃtʊndn̩ ˈapˌbaʊ̯ən",
    "vi": "nghỉ bù cho giờ làm tăng ca",
    "example": "Nächste Woche nehme ich zwei Tage frei, um Überstunden abzubauen.",
    "exampleVi": "Tuần tới tôi nghỉ hai ngày để trừ vào số giờ làm tăng ca."
@@ -529,7 +529,7 @@
   {
    "de": "Druck ausüben",
    "pos": "phrase",
-   "ipa": "dʁʊk ˈʔaʊ̯sˌʔyːbn̩",
+   "ipa": "dʁʊk ˈaʊ̯sˌʔyːbn̩",
    "vi": "gây sức ép, tạo áp lực (auf + Akk)",
    "example": "Der Vorgesetzte sollte keinen unfairen Druck auf das Team ausüben.",
    "exampleVi": "Cấp trên không nên tạo sức ép thiếu công bằng lên đội ngũ."
@@ -537,7 +537,7 @@
   {
    "de": "Aufgaben verteilen",
    "pos": "phrase",
-   "ipa": "ˈʔaʊ̯fˌɡaːbn̩ fɛɐ̯ˈtaɪ̯lən",
+   "ipa": "ˈaʊ̯fˌɡaːbn̩ fɛɐ̯ˈtaɪ̯lən",
    "vi": "phân chia công việc hợp lý",
    "example": "Der Projektleiter verteilt die Aufgaben gerecht nach Stärken der Kollegen.",
    "exampleVi": "Trưởng dự án phân chia công việc công bằng theo thế mạnh của đồng nghiệp."
@@ -553,7 +553,7 @@
   {
    "de": "eine Frist setzen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə fʁɪst ˈzɛtsn̩",
+   "ipa": "ˈaɪ̯nə fʁɪst ˈzɛtsn̩",
    "vi": "đặt ra kỳ hạn chót",
    "example": "Der Kunde hat uns eine strikte Frist bis Ende des Monats gesetzt.",
    "exampleVi": "Khách hàng đã đặt ra cho chúng tôi hạn chót nghiêm ngặt vào cuối tháng."
@@ -561,7 +561,7 @@
   {
    "de": "einen Kompromiss schließen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən kɔmpʁoˈmɪs ˈʃliːsn̩",
+   "ipa": "ˈaɪ̯nən kɔmpʁoˈmɪs ˈʃliːsn̩",
    "vi": "đạt được thỏa hiệp chung",
    "example": "Nach langen Verhandlungen schlossen beide Seiten einen tragfähigen Kompromiss.",
    "exampleVi": "Sau những cuộc thương lượng dài hai bên đã đạt thỏa hiệp khả thi."
@@ -569,7 +569,7 @@
   {
    "de": "Geduld aufbringen",
    "pos": "phrase",
-   "ipa": "ɡəˈdʊlt ˈʔaʊ̯fˌbʁɪŋən",
+   "ipa": "ɡəˈdʊlt ˈaʊ̯fˌbʁɪŋən",
    "vi": "kiên nhẫn nhẫn nại",
    "example": "Bei der Einarbeitung neuer Kollegen muss man Geduld aufbringen.",
    "exampleVi": "Khi hướng dẫn đồng nghiệp mới người ta phải có sự kiên nhẫn."
@@ -577,7 +577,7 @@
   {
    "de": "einen Streik ankündigen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən ʃtʁaɪ̯k ˈʔanˌkʏndɪɡn̩",
+   "ipa": "ˈaɪ̯nən ʃtʁaɪ̯k ˈanˌkʏndɪɡn̩",
    "vi": "thông báo cuộc đình công",
    "example": "Die Gewerkschaft kündigte für kommenden Dienstag einen Warnstreik an.",
    "exampleVi": "Công đoàn đã ra thông báo về cuộc đình công cảnh báo vào thứ ba tới."
@@ -593,7 +593,7 @@
   {
    "de": "in den Streik treten",
    "pos": "phrase",
-   "ipa": "ʔɪn deːn ʃtʁaɪ̯k ˈtʁeːtn̩",
+   "ipa": "ɪn deːn ʃtʁaɪ̯k ˈtʁeːtn̩",
    "vi": "bước vào cuộc đình công bãi công",
    "example": "Die Flughafenmitarbeiter traten gestern überraschend in den Streik.",
    "exampleVi": "Nhân viên sân bay hôm qua đã bất ngờ bước vào cuộc đình công."
@@ -601,7 +601,7 @@
   {
    "de": "mit Rat und Tat zur Seite stehen",
    "pos": "phrase",
-   "ipa": "mɪt ʁaːt ʔʊnt taːt tsuːɐ̯ ˈzaɪ̯tə ˈʃteːən",
+   "ipa": "mɪt ʁaːt ʊnt taːt tsuːɐ̯ ˈzaɪ̯tə ˈʃteːən",
    "vi": "hết lòng hỗ trợ bằng lời khuyên và hành động",
    "example": "Erfahrene Kollegen standen den Neulingen mit Rat und Tat zur Seite.",
    "exampleVi": "Những đồng nghiệp giàu kinh nghiệm đã hết lòng chỉ bảo và giúp đỡ người mới."
@@ -617,7 +617,7 @@
   {
    "de": "ein offenes Ohr haben",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈʔɔfnəs ˈʔoːɐ̯ ˈhaːbn̩",
+   "ipa": "aɪ̯n ˈɔfnəs ˈoːɐ̯ ˈhaːbn̩",
    "vi": "luôn sẵn lòng lắng nghe (für + Akk)",
    "example": "Unsere Chefin hat für Probleme der Mitarbeiter stets ein offenes Ohr.",
    "exampleVi": "Nữ sếp của chúng tôi luôn luôn sẵn lòng lắng nghe khó khăn của nhân viên."
@@ -625,7 +625,7 @@
   {
    "de": "die Kündigung einreichen",
    "pos": "phrase",
-   "ipa": "diː ˈkʏndɪɡʊŋ ˈʔaɪ̯nˌʁaɪ̯çn̩",
+   "ipa": "diː ˈkʏndɪɡʊŋ ˈaɪ̯nˌʁaɪ̯çn̩",
    "vi": "nộp đơn xin thôi việc",
    "example": "Er reichte gestern seine schriftliche Kündigung beim Personalbüro ein.",
    "exampleVi": "Hôm qua anh ấy đã nộp đơn xin thôi việc bằng văn bản tại phòng nhân sự."
@@ -633,7 +633,7 @@
   {
    "de": "eine Gehaltserhöhung fordern",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ɡəˈhaltsʔɛɐ̯ˌhøːʊŋ ˈfɔʁdɐn",
+   "ipa": "ˈaɪ̯nə ɡəˈhaltsʔɛɐ̯ˌhøːʊŋ ˈfɔʁdɐn",
    "vi": "yêu cầu được tăng lương",
    "example": "Nach fünf Jahren treuer Arbeit forderte sie berechtigt eine Gehaltserhöhung.",
    "exampleVi": "Sau 5 năm cống hiến trung thành cô ấy đòi hỏi tăng lương là hoàn toàn chính đáng."
@@ -641,7 +641,7 @@
   {
    "de": "unter Zeitdruck stehen",
    "pos": "phrase",
-   "ipa": "ˈʔʊntɐ ˈtsaɪ̯tˌdʁʊk ˈʃteːən",
+   "ipa": "ˈʊntɐ ˈtsaɪ̯tˌdʁʊk ˈʃteːən",
    "vi": "chịu áp lực về thời gian gấp rút",
    "example": "Vor der Messe standen alle Abteilungen unter extremem Zeitdruck.",
    "exampleVi": "Trước hội chợ tất cả các phòng ban đều chịu sức ép thời gian gấp rút."
@@ -649,7 +649,7 @@
   {
    "de": "Hand in Hand arbeiten",
    "pos": "phrase",
-   "ipa": "hant ʔɪn hant ˈʔaʁbaɪ̯tn̩",
+   "ipa": "hant ɪn hant ˈaʁbaɪ̯tn̩",
    "vi": "làm việc kề vai sát cánh cùng nhau",
    "example": "Marketing und Vertrieb arbeiteten bei der Kampagne Hand in Hand.",
    "exampleVi": "Mảng tiếp thị và bán hàng đã kề vai sát cánh trong chiến dịch này."
@@ -657,7 +657,7 @@
   {
    "de": "ein gutes Wort einlegen",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈɡuːtəs vɔʁt ˈʔaɪ̯nˌleːɡn̩",
+   "ipa": "aɪ̯n ˈɡuːtəs vɔʁt ˈaɪ̯nˌleːɡn̩",
    "vi": "nói giúp đỡ lời cho ai",
    "example": "Mein Kollege legte beim Chef ein gutes Wort für mich ein.",
    "exampleVi": "Đồng nghiệp đã nói đỡ lời tốt cho tôi trước mặt sếp."
@@ -665,7 +665,7 @@
   {
    "de": "den Arbeitsplatz wechseln",
    "pos": "phrase",
-   "ipa": "deːn ˈʔaʁbaɪ̯tsˌplats ˈvɛksl̩n",
+   "ipa": "deːn ˈaʁbaɪ̯tsˌplats ˈvɛksl̩n",
    "vi": "chuyển sang chỗ làm mới",
    "example": "Sie wechselte den Arbeitsplatz, um sich beruflich weiterzuentwickeln.",
    "exampleVi": "Cô ấy đổi chỗ làm để phát triển bản thân hơn nữa trong sự nghiệp."
@@ -673,7 +673,7 @@
   {
    "de": "auf gute Zusammenarbeit!",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f ˌɡuːtə tsuˈzamənʔaʁbaɪ̯t",
+   "ipa": "aʊ̯f ˌɡuːtə tsuˈzamənʔaʁbaɪ̯t",
    "vi": "chúc cho sự hợp tác tốt đẹp của chúng ta!",
    "example": "Herzlich willkommen im Team, auf eine erfolgreiche und gute Zusammenarbeit!",
    "exampleVi": "Chào mừng gia nhập đội ngũ, chúc cho sự hợp tác của chúng ta thành công rực rỡ!"

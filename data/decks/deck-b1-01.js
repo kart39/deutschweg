@@ -70,7 +70,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔaltɐ",
+   "ipa": "ˈaltɐ",
    "vi": "tuổi già; độ tuổi",
    "example": "Im hohen Alter schätzt man vor allem Ruhe, Gesundheit und Geborgenheit.",
    "exampleVi": "Khi tuổi đã cao người ta trân trọng nhất là sự thanh thản, sức khỏe và bình yên."
@@ -160,7 +160,7 @@
    "article": "die",
    "plural": "Einschulungen",
    "pos": "noun",
-   "ipa": "ˈʔaɪ̯nˌʃuːlʊŋ",
+   "ipa": "ˈaɪ̯nˌʃuːlʊŋ",
    "vi": "ngày đầu tiên cắp sách tới trường tiểu học",
    "example": "Bei der Einschulung erhalten deutsche Kinder traditionell eine bunte Schultüte.",
    "exampleVi": "Trong ngày đầu vào lớp một trẻ em Đức truyền thống nhận một nón quà kẹo."
@@ -290,7 +290,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔeːɐ̯bə",
+   "ipa": "ˈeːɐ̯bə",
    "vi": "di sản thừa kế",
    "example": "Sie trat das väterliche Erbe mit großem Respekt und Demut an.",
    "exampleVi": "Cô ấy tiếp nhận phần thừa kế của cha với lòng kính trọng và khiêm nhường."
@@ -299,7 +299,7 @@
    "de": "aufwachsen",
    "forms": "wächst auf, wuchs auf, ist aufgewachsen",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯fˌvaksn̩",
+   "ipa": "ˈaʊ̯fˌvaksn̩",
    "vi": "lớn lên, trưởng thành (in + Dat)",
    "example": "Er ist zweisprachig in einer idyllischen Kleinstadt aufgewachsen.",
    "exampleVi": "Anh ấy lớn lên với hai thứ tiếng tại một thị trấn nhỏ nên thơ."
@@ -335,7 +335,7 @@
    "de": "sich erinnern an",
    "forms": "erinnert sich an, erinnerte sich an, hat sich an erinnert",
    "pos": "verb",
-   "ipa": "ɛɐ̯ˈʔɪnɐn zɪç ʔan",
+   "ipa": "ɛɐ̯ˈʔɪnɐn zɪç an",
    "vi": "nhớ lại kỷ niệm gì (+ Akk)",
    "example": "Wir erinnern uns alle noch lebhaft an die damaligen Sommerabende.",
    "exampleVi": "Tất cả chúng tôi vẫn còn nhớ như in những buổi chiều hè thuở ấy."
@@ -398,7 +398,7 @@
    "de": "erben",
    "forms": "erbt, erbte, hat geerbt",
    "pos": "verb",
-   "ipa": "ˈʔɛʁbn̩",
+   "ipa": "ˈɛʁbn̩",
    "vi": "thừa kế tài sản (+ Akk von + Dat)",
    "example": "Er erbte von seiner Tante ein idyllisches kleines Häuschen am See.",
    "exampleVi": "Anh ấy thừa kế từ người cô một ngôi nhà nhỏ thơ mộng bên hồ."
@@ -406,7 +406,7 @@
   {
    "de": "in Rente gehen",
    "pos": "phrase",
-   "ipa": "ʔɪn ˈʁɛntə ˌɡeːən",
+   "ipa": "ɪn ˈʁɛntə ˌɡeːən",
    "vi": "bước vào thời kỳ nghỉ hưu",
    "example": "Nächstes Jahr wird sie mit 66 Jahren wohlverdient in Rente gehen.",
    "exampleVi": "Năm tới bà sẽ nghỉ hưu xứng đáng ở độ tuổi 66."
@@ -438,7 +438,7 @@
   {
    "de": "unvergesslich",
    "pos": "adj",
-   "ipa": "ˈʔʊnfɛɐ̯ˌɡɛslɪç",
+   "ipa": "ˈʊnfɛɐ̯ˌɡɛslɪç",
    "vi": "không thể nào quên, khắc sâu",
    "example": "Die gemeinsame Reise nach Vietnam bleibt für alle unvergesslich.",
    "exampleVi": "Chuyến đi chung tới Việt Nam sẽ mãi là kỷ niệm không thể phai mờ."
@@ -462,7 +462,7 @@
   {
    "de": "eine Familie gründen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə faˈmiːli̯ə ˈɡʁʏndn̩",
+   "ipa": "ˈaɪ̯nə faˈmiːli̯ə ˈɡʁʏndn̩",
    "vi": "lập gia đình, xây dựng tổ ấm",
    "example": "Nach dem erfolgreichen Berufseinstieg wollten die beiden eine Familie gründen.",
    "exampleVi": "Sau khi sự nghiệp ổn định bước đầu hai người muốn lập gia đình."
@@ -470,7 +470,7 @@
   {
    "de": "ins Berufsleben einsteigen",
    "pos": "phrase",
-   "ipa": "ʔɪns bəˈʁuːfsˌleːbn̩ ˈʔaɪ̯nˌʃtaɪ̯ɡn̩",
+   "ipa": "ɪns bəˈʁuːfsˌleːbn̩ ˈaɪ̯nˌʃtaɪ̯ɡn̩",
    "vi": "bước vào cuộc sống đi làm chuyên nghiệp",
    "example": "Nach dem Masterstudium stieg sie sofort ins Berufsleben ein.",
    "exampleVi": "Sau khi học xong thạc sĩ cô bước ngay vào cuộc sống đi làm."
@@ -494,7 +494,7 @@
   {
    "de": "aus dem Leben scheiden",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯s deːm ˈleːbn̩ ˈʃaɪ̯dn̩",
+   "ipa": "aʊ̯s deːm ˈleːbn̩ ˈʃaɪ̯dn̩",
    "vi": "từ trần, giã từ cõi đời",
    "example": "Er schied nach langer schwerer Krankheit friedlich aus dem Leben.",
    "exampleVi": "Ông đã thanh thản từ trần sau cơn bạo bệnh kéo dài."
@@ -502,7 +502,7 @@
   {
    "de": "ein Kind erwarten",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n kɪnt ɛɐ̯ˈvaʁtn̩",
+   "ipa": "aɪ̯n kɪnt ɛɐ̯ˈvaʁtn̩",
    "vi": "đang mang thai, đón chờ con yêu",
    "example": "Das junge Paar erwartet im Herbst freudig sein erstes Kind.",
    "exampleVi": "Đôi vợ chồng trẻ hân hoan đón chờ đứa con đầu lòng vào mùa thu."
@@ -510,7 +510,7 @@
   {
    "de": "die Schule abschließen",
    "pos": "phrase",
-   "ipa": "diː ˈʃuːlə ˈʔapˌʃliːsn̩",
+   "ipa": "diː ˈʃuːlə ˈapˌʃliːsn̩",
    "vi": "hoàn thành bậc học phổ thông",
    "example": "Er schloss die Schule mit einem beachtlichen Notendurchschnitt ab.",
    "exampleVi": "Anh ấy đã tốt nghiệp phổ thông với điểm số trung bình đáng nể."
@@ -518,7 +518,7 @@
   {
    "de": "auf eigenen Beinen stehen",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f ˈʔaɪ̯ɡnən ˈbaɪ̯nən ˈʃteːən",
+   "ipa": "aʊ̯f ˈaɪ̯ɡnən ˈbaɪ̯nən ˈʃteːən",
    "vi": "tự lập tự đứng trên đôi chân mình",
    "example": "Mit Beginn der Lehre wollte er endlich auf eigenen Beinen stehen.",
    "exampleVi": "Bắt đầu học nghề anh ấy muốn tự lập trên đôi chân của chính mình."
@@ -526,7 +526,7 @@
   {
    "de": "ein neues Kapitel aufschlagen",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈnɔʏ̯əs kaˈpɪtl̩ ˈʔaʊ̯fˌʃlaːɡn̩",
+   "ipa": "aɪ̯n ˈnɔʏ̯əs kaˈpɪtl̩ ˈaʊ̯fˌʃlaːɡn̩",
    "vi": "mở ra một trang mới trong cuộc sống",
    "example": "Mit dem Umzug in die neue Stadt schlug sie ein neues Kapitel auf.",
    "exampleVi": "Việc dọn tới thành phố mới đã mở ra một trang đời mới đối với cô."
@@ -542,7 +542,7 @@
   {
    "de": "in Erinnerung behalten",
    "pos": "phrase",
-   "ipa": "ʔɪn ɛɐ̯ˈʔɪnəʁʊŋ bəˈhaltn̩",
+   "ipa": "ɪn ɛɐ̯ˈʔɪnəʁʊŋ bəˈhaltn̩",
    "vi": "khắc ghi mãi trong tâm trí",
    "example": "Wir werden seinen Humor und seine Güte stets in Erinnerung behalten.",
    "exampleVi": "Chúng tôi sẽ luôn khắc ghi trong lòng sự hóm hỉnh và lòng nhân từ của ông."
@@ -580,7 +580,7 @@
    "article": "das",
    "plural": "Altersheime",
    "pos": "noun",
-   "ipa": "ˈʔaltɐsˌhaɪ̯m",
+   "ipa": "ˈaltɐsˌhaɪ̯m",
    "vi": "viện dưỡng lão",
    "example": "In diesem modernen Altersheim werden Senioren liebevoll betreut.",
    "exampleVi": "Tại viện dưỡng lão hiện đại này các cụ già được chăm sóc tận tình."
@@ -698,7 +698,7 @@
   {
    "de": "Alles hat seine Zeit",
    "pos": "phrase",
-   "ipa": "ˈʔaləs hat ˈzaɪ̯nə tsaɪ̯t",
+   "ipa": "ˈaləs hat ˈzaɪ̯nə tsaɪ̯t",
    "vi": "mọi sự đều có thời điểm của nó",
    "example": "Sei geduldig und verliere nicht den Mut: Alles hat seine Zeit.",
    "exampleVi": "Hãy kiên nhẫn và đừng nản lòng: Mọi sự đều có thời điểm của nó."

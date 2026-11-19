@@ -22,11 +22,17 @@ const deText = s => {
   if (!words.length || vi / words.length > 0.5) return s;
   return s.replace(/\p{L}+/gu, stripVi);
 };
-const ipa = s => typeof s === 'string' ? s.replace(/t͡s/g, 'ts').replace(/t͡ʃ/g, 'tʃ').replace(/p͡f/g, 'pf').replace(/d͡ʒ/g, 'dʒ').replace(/g/g, 'ɡ') : s;
+// ʔ chỉ ghi bên trong từ (beachten = bəˈʔaxtn̩); ở đầu từ thì bỏ (kể cả sau dấu trọng âm ˈ/ˌ)
+const ipa = s => typeof s === 'string' ? s.replace(/t͡s/g, 'ts').replace(/t͡ʃ/g, 'tʃ').replace(/p͡f/g, 'pf').replace(/d͡ʒ/g, 'dʒ').replace(/g/g, 'ɡ')
+  .replace(/(^|\s)([ˈˌ]?)ʔ/g, '$1$2') : s;
 const theory = s => typeof s === 'string' ? s
   .replace(/\s*\[([^\]]+)\]\((https?:[^)]+)\)/g, '')           // bỏ đường link nguồn (ứng dụng không hiển thị link)
   .replace(/\{\{(.+?)\}\}/g, (_, t) => '{{' + deText(t) + '}}')
-  .replace(/`([^`]*)`/g, (_, t) => '`' + ipa(t) + '`') : s;
+  // chỉ chuẩn hoá đoạn `…` trông như IPA (có ký hiệu IPA, không có chữ số/gạch nối như `gr-b2-01`)
+  .replace(/`([^`]*)`/g, (_, t) => '`' + (/[ːˈˌʁəɐɛɔʊɪʏøœçŋʃʒ]/.test(t) && !/[\d-]/.test(t) ? ipa(t) : t) + '`') : s;
+// Chỉ chuẩn hoá các trường "ipa" (an toàn cho mọi loại nội dung, không đụng tới chữ)
+const ipaFields = x => Array.isArray(x) ? x.map(ipaFields)
+  : x && typeof x === 'object' ? Object.fromEntries(Object.entries(x).map(([k, v]) => [k, k === 'ipa' ? ipa(v) : ipaFields(v)])) : x;
 
 function vocab(v) {
   if (!v) return v;
@@ -84,4 +90,4 @@ function item(x) {
   if (x.type === 'exam') return { ...x, sections: x.sections.map(s => ({ ...s, text: deText(s.text), audio: deText(s.audio), sample: deText(s.sample), exercises: (s.exercises || []).map(exercise) })) };
   return x;
 }
-module.exports = { item, unit, vocab, exercise, deText, ipa, theory };
+module.exports = { item, unit, vocab, exercise, deText, ipa, theory, ipaFields };

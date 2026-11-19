@@ -20,7 +20,7 @@
    "article": "die",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔʊmvɛlt",
+   "ipa": "ˈʊmvɛlt",
    "vi": "môi trường sống",
    "example": "Jeder Einzelne kann einen Beitrag zum Schutz der Umwelt leisten.",
    "exampleVi": "Mỗi cá nhân đều có thể đóng góp một phần vào việc bảo vệ môi trường."
@@ -30,7 +30,7 @@
    "article": "der",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔʊmvɛltˌʃʊts",
+   "ipa": "ˈʊmvɛltˌʃʊts",
    "vi": "sự bảo vệ môi trường",
    "example": "Umweltschutz ist eine der wichtigsten Aufgaben unserer Zeit.",
    "exampleVi": "Bảo vệ môi trường là một trong những nhiệm vụ trọng đại của thời đại chúng ta."
@@ -50,7 +50,7 @@
    "article": "die",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔeːɐ̯də",
+   "ipa": "ˈeːɐ̯də",
    "vi": "Trái Đất; đất đai trồng trọt",
    "example": "Wir haben nur diese eine Erde, wir müssen sie bewahren.",
    "exampleVi": "Chúng ta chỉ có một Trái Đất này thôi, chúng ta phải giữ gìn nó."
@@ -210,7 +210,7 @@
    "article": "die",
    "plural": "Inseln",
    "pos": "noun",
-   "ipa": "ˈʔɪnzl̩",
+   "ipa": "ˈɪnzl̩",
    "vi": "hòn đảo",
    "example": "Sylt ist eine sehr exklusive deutsche Nordseeinsel.",
    "exampleVi": "Sylt là một hòn đảo rất sang trọng ở Biển Bắc của Đức."
@@ -320,7 +320,7 @@
    "article": "das",
    "plural": "Insekten",
    "pos": "noun",
-   "ipa": "ʔɪnˈzɛkt",
+   "ipa": "ɪnˈzɛkt",
    "vi": "côn trùng",
    "example": "Insekten sind unverzichtbar für die Bestäubung der Obstbäume.",
    "exampleVi": "Côn trùng là nhân tố không thể thiếu trong việc thụ phấn cây ăn quả."
@@ -380,7 +380,7 @@
    "article": "der",
    "plural": "Abfälle",
    "pos": "noun",
-   "ipa": "ˈʔapˌfal",
+   "ipa": "ˈapˌfal",
    "vi": "rác thải, chất thải",
    "example": "Vermeiden Sie unnötigen Plastikabfall beim täglichen Einkauf.",
    "exampleVi": "Hãy tránh rác thải nhựa không cần thiết khi mua sắm hàng ngày."
@@ -546,7 +546,7 @@
   {
    "de": "ungefährlich",
    "pos": "adj",
-   "ipa": "ˈʔʊnɡəˌfɛːɐ̯lɪç",
+   "ipa": "ˈʊnɡəˌfɛːɐ̯lɪç",
    "vi": "vô hại, an toàn",
    "example": "Diese einheimische Spinne ist für Menschen völlig ungefährlich.",
    "exampleVi": "Loài nhện bản địa này hoàn toàn vô hại đối với con người."
@@ -562,7 +562,7 @@
   {
    "de": "die Umwelt schonen",
    "pos": "phrase",
-   "ipa": "diː ˈʔʊmvɛlt ˈʃoːnən",
+   "ipa": "diː ˈʊmvɛlt ˈʃoːnən",
    "vi": "gìn giữ, bảo vệ môi trường",
    "example": "Öffentliche Verkehrsmittel schonen die Umwelt nachhaltig.",
    "exampleVi": "Phương tiện công cộng gìn giữ môi trường một cách bền vững."
@@ -602,7 +602,7 @@
   {
    "de": "in der Natur sein",
    "pos": "phrase",
-   "ipa": "ʔɪn deːɐ̯ naˈtuːɐ̯ zaɪ̯n",
+   "ipa": "ɪn deːɐ̯ naˈtuːɐ̯ zaɪ̯n",
    "vi": "hòa mình vào thiên nhiên",
    "example": "Am Wochenende bin ich am liebsten stundenlang in der Natur.",
    "exampleVi": "Vào cuối tuần tôi thích hòa mình vào thiên nhiên hàng giờ liền."
@@ -610,7 +610,7 @@
   {
    "de": "an die frische Luft gehen",
    "pos": "phrase",
-   "ipa": "ʔan diː ˈfʁɪʃə lʊft ˈɡeːən",
+   "ipa": "an diː ˈfʁɪʃə lʊft ˈɡeːən",
    "vi": "ra ngoài hít thở không khí trong lành",
    "example": "Wenn der Kopf raucht, sollte man an die frische Luft gehen.",
    "exampleVi": "Khi đầu óc căng thẳng người ta nên ra ngoài hít thở khí trời."
@@ -634,7 +634,7 @@
   {
    "de": "einen Baum pflanzen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən baʊ̯m ˈpflantsn̩",
+   "ipa": "ˈaɪ̯nən baʊ̯m ˈpflantsn̩",
    "vi": "trồng một cái cây",
    "example": "Traditionell soll man im Leben ein Haus bauen und einen Baum pflanzen.",
    "exampleVi": "Theo truyền thống trong đời người ta nên xây một ngôi nhà và trồng một cái cây."
@@ -650,7 +650,7 @@
   {
    "de": "vor dem Aussterben bedroht",
    "pos": "phrase",
-   "ipa": "foːɐ̯ deːm ˈʔaʊ̯sˌʃtɛʁbn̩ bəˈdʁoːt",
+   "ipa": "foːɐ̯ deːm ˈaʊ̯sˌʃtɛʁbn̩ bəˈdʁoːt",
    "vi": "bị đe dọa tuyệt chủng",
    "example": "Der Berggorilla ist leider akut vor dem Aussterben bedroht.",
    "exampleVi": "Loài khỉ đột núi tiếc là đang bị đe dọa tuyệt chủng nghiêm trọng."
@@ -658,7 +658,7 @@
   {
    "de": "ein Haustier halten",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈhaʊ̯sˌtiːɐ̯ ˈhaltn̩",
+   "ipa": "aɪ̯n ˈhaʊ̯sˌtiːɐ̯ ˈhaltn̩",
    "vi": "nuôi một con thú cưng trong nhà",
    "example": "In vielen Mietwohnungen darf man ohne Erlaubnis keine Hunde halten.",
    "exampleVi": "Ở nhiều căn hộ thuê người ta không được nuôi chó nếu không có phép."
@@ -666,7 +666,7 @@
   {
    "de": "aus Liebe zur Natur",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯s ˈliːbə tsuːɐ̯ naˈtuːɐ̯",
+   "ipa": "aʊ̯s ˈliːbə tsuːɐ̯ naˈtuːɐ̯",
    "vi": "xuất phát từ tình yêu thiên nhiên",
    "example": "Aus Liebe zur Natur ernähren sich immer mehr Menschen vegetarisch.",
    "exampleVi": "Từ tình yêu với thiên nhiên ngày càng nhiều người chuyển sang ăn chay."
@@ -690,7 +690,7 @@
   {
    "de": "ein Gesetz erlassen",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ɡəˈzɛts ɛɐ̯ˈlasn̩",
+   "ipa": "aɪ̯n ɡəˈzɛts ɛɐ̯ˈlasn̩",
    "vi": "ban hành một đạo luật",
    "example": "Das Parlament erließ ein strenges Gesetz gegen Umweltverschmutzung.",
    "exampleVi": "Nghị viện đã ban hành một đạo luật nghiêm khắc chống ô nhiễm môi trường."

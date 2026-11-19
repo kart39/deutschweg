@@ -70,7 +70,7 @@
    "article": "das",
    "plural": "Einzelzimmer",
    "pos": "noun",
-   "ipa": "ˈʔaɪ̯ntsl̩ˌtsɪmɐ",
+   "ipa": "ˈaɪ̯ntsl̩ˌtsɪmɐ",
    "vi": "phòng đơn (cho một người)",
    "example": "Ich möchte bitte ein ruhiges Einzelzimmer mit Bad buchen.",
    "exampleVi": "Tôi muốn đặt một phòng đơn yên tĩnh có phòng tắm riêng."
@@ -200,7 +200,7 @@
    "article": "das",
    "plural": "Abteile",
    "pos": "noun",
-   "ipa": "ʔapˈtaɪ̯l",
+   "ipa": "apˈtaɪ̯l",
    "vi": "khoang tàu có vách ngăn riêng (6 chỗ)",
    "example": "Wir sitzen im ruhigen Sechser-Abteil.",
    "exampleVi": "Chúng tôi ngồi trong khoang sáu chỗ yên tĩnh."
@@ -230,7 +230,7 @@
    "article": "der",
    "plural": "Anschlüsse",
    "pos": "noun",
-   "ipa": "ˈʔanˌʃlʊs",
+   "ipa": "ˈanˌʃlʊs",
    "vi": "chuyến chuyển tiếp tàu/xe",
    "example": "Wegen der Verspätung verpassen wir unseren Anschlusszug nach Leipzig.",
    "exampleVi": "Do bị chậm chuyến chúng tôi sẽ lỡ chuyến tàu nối đi Leipzig."
@@ -327,7 +327,7 @@
    "de": "einchecken",
    "forms": "checkt ein, checkte ein, hat eingecheckt",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌtʃɛkn̩",
+   "ipa": "ˈaɪ̯nˌtʃɛkn̩",
    "vi": "làm thủ tục nhận phòng / lên máy bay",
    "example": "Ab wie viel Uhr kann man im Hotel einchecken?",
    "exampleVi": "Từ mấy giờ thì có thể làm thủ tục nhận phòng ở khách sạn?"
@@ -336,7 +336,7 @@
    "de": "auschecken",
    "forms": "checkt aus, checkte aus, hat ausgecheckt",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯sˌtʃɛkn̩",
+   "ipa": "ˈaʊ̯sˌtʃɛkn̩",
    "vi": "làm thủ tục trả phòng khách sạn",
    "example": "Wir müssen bis spätestens elf Uhr auschecken.",
    "exampleVi": "Chúng tôi phải làm thủ tục trả phòng muộn nhất là 11 giờ."
@@ -363,7 +363,7 @@
    "de": "umsteigen",
    "forms": "steigt um, stieg um, ist umgestiegen",
    "pos": "verb",
-   "ipa": "ˈʔʊmˌʃtaɪ̯ɡn̩",
+   "ipa": "ˈʊmˌʃtaɪ̯ɡn̩",
    "vi": "chuyển sang tàu/tuyến khác (in + Akk)",
    "example": "In Köln müssen alle Fahrgäste in Gleis 7 umsteigen.",
    "exampleVi": "Tại Köln tất cả hành khách phải chuyển tàu ở đường ray số 7."
@@ -430,7 +430,7 @@
   {
    "de": "ausgebucht",
    "pos": "adj",
-   "ipa": "ˈʔaʊ̯sɡəˌbuːxt",
+   "ipa": "ˈaʊ̯sɡəˌbuːxt",
    "vi": "hết sạch phòng, kín chỗ",
    "example": "In der Hochsaison sind alle Hotels restlos ausgebucht.",
    "exampleVi": "Vào mùa cao điểm mọi khách sạn đều kín sạch phòng."
@@ -470,7 +470,7 @@
   {
    "de": "eine Reise buchen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈʁaɪ̯zə ˈbuːxn̩",
+   "ipa": "ˈaɪ̯nə ˈʁaɪ̯zə ˈbuːxn̩",
    "vi": "đặt một chuyến du lịch",
    "example": "Wir möchten eine zehntägige Reise nach Italien buchen.",
    "exampleVi": "Chúng tôi muốn đặt một chuyến đi mười ngày tới Ý."
@@ -478,7 +478,7 @@
   {
    "de": "ein Zimmer reservieren",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈtsɪmɐ ʁezɛʁˈviːʁən",
+   "ipa": "aɪ̯n ˈtsɪmɐ ʁezɛʁˈviːʁən",
    "vi": "đặt trước phòng khách sạn",
    "example": "Haben Sie ein freies Doppelzimmer für zwei Nächte?",
    "exampleVi": "Khách sạn có phòng đôi trống cho hai đêm không ạ?"
@@ -486,7 +486,7 @@
   {
    "de": "an der Rezeption einchecken",
    "pos": "phrase",
-   "ipa": "ʔan deːɐ̯ ʁetsepˈtsi̯oːn ˈʔaɪ̯nˌtʃɛkn̩",
+   "ipa": "an deːɐ̯ ʁetsepˈtsi̯oːn ˈaɪ̯nˌtʃɛkn̩",
    "vi": "làm thủ tục nhận phòng ở lễ tân",
    "example": "Wir haben soeben an der Rezeption eingecheckt.",
    "exampleVi": "Chúng tôi vừa làm thủ tục nhận phòng tại lễ tân."
@@ -494,7 +494,7 @@
   {
    "de": "den Anschluss verpassen",
    "pos": "phrase",
-   "ipa": "deːn ˈʔanˌʃlʊs fɛɐ̯ˈpasn̩",
+   "ipa": "deːn ˈanˌʃlʊs fɛɐ̯ˈpasn̩",
    "vi": "bị lỡ chuyến tàu nối tiếp",
    "example": "Durch die Verzögerung haben wir leider den Anschluss verpasst.",
    "exampleVi": "Do sự chậm trễ nên chúng tôi đã lỡ mất chuyến nối."
@@ -502,7 +502,7 @@
   {
    "de": "den Schlüssel abgeben",
    "pos": "phrase",
-   "ipa": "deːn ˈʃlʏsl̩ ˈʔapˌɡeːbn̩",
+   "ipa": "deːn ˈʃlʏsl̩ ˈapˌɡeːbn̩",
    "vi": "trả lại chìa khóa phòng",
    "example": "Beim Auschecken müssen Sie den Schlüssel an der Rezeption abgeben.",
    "exampleVi": "Khi trả phòng ngài phải nộp lại chìa khóa ở quầy lễ tân."
@@ -510,7 +510,7 @@
   {
    "de": "eine Sehenswürdigkeit besichtigen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈzeːənsˌvʏʁdɪçkaɪ̯t bəˈzɪçtɪɡn̩",
+   "ipa": "ˈaɪ̯nə ˈzeːənsˌvʏʁdɪçkaɪ̯t bəˈzɪçtɪɡn̩",
    "vi": "đi tham quan danh lam thắng cảnh",
    "example": "Morgen früh besichtigen wir den Kölner Dom.",
    "exampleVi": "Sáng mai chúng tôi sẽ đi tham quan nhà thờ chính tòa Köln."
@@ -518,7 +518,7 @@
   {
    "de": "in den Urlaub fahren",
    "pos": "phrase",
-   "ipa": "ʔɪn deːn ˈʔuːɐ̯ˌlaʊ̯p ˌfaːʁən",
+   "ipa": "ɪn deːn ˈuːɐ̯ˌlaʊ̯p ˌfaːʁən",
    "vi": "đi nghỉ mát, đi du lịch",
    "example": "Nächste Woche fahren wir endlich für zwei Wochen in den Urlaub.",
    "exampleVi": "Tuần sau cuối cùng chúng tôi cũng đi nghỉ mát hai tuần."
@@ -526,7 +526,7 @@
   {
    "de": "am Schalter nachfragen",
    "pos": "phrase",
-   "ipa": "ʔam ˈʃaltɐ ˈnaːxˌfʁaːɡn̩",
+   "ipa": "am ˈʃaltɐ ˈnaːxˌfʁaːɡn̩",
    "vi": "hỏi thông tin tại quầy vé",
    "example": "Fragen Sie bitte am Schalter nach alternativen Verbindungen.",
    "exampleVi": "Xin hãy hỏi nhân viên tại quầy về các chuyến tàu thay thế."
@@ -542,7 +542,7 @@
   {
    "de": "Angenehme Reise!",
    "pos": "phrase",
-   "ipa": "ˈʔanɡəˌneːmə ˈʁaɪ̯zə",
+   "ipa": "ˈanɡəˌneːmə ˈʁaɪ̯zə",
    "vi": "chúc chuyến đi dễ chịu!",
    "example": "Vielen Dank für Ihre Buchung und eine angenehme Reise!",
    "exampleVi": "Cảm ơn ngài đã đặt vé và chúc một chuyến đi dễ chịu!"
@@ -550,7 +550,7 @@
   {
    "de": "auf Gleis 3 einfahren",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f ɡlaɪ̯s dʁaɪ̯ ˈʔaɪ̯nˌfaːʁən",
+   "ipa": "aʊ̯f ɡlaɪ̯s dʁaɪ̯ ˈaɪ̯nˌfaːʁən",
    "vi": "tiến vào đường ray số 3 (tàu)",
    "example": "Der ICE 502 fährt jetzt auf Gleis 3 ein. Vorsicht bei der Einfahrt!",
    "exampleVi": "Tàu ICE 502 đang tiến vào ray số 3. Chú ý tàu vào ga!"
@@ -574,7 +574,7 @@
   {
    "de": "eine Beschwerde einreichen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə bəˈʃveːɐ̯də ˈʔaɪ̯nˌʁaɪ̯çn̩",
+   "ipa": "ˈaɪ̯nə bəˈʃveːɐ̯də ˈaɪ̯nˌʁaɪ̯çn̩",
    "vi": "nộp đơn khiếu nại dịch vụ",
    "example": "Wegen des Lärms reichte er eine offizielle Beschwerde ein.",
    "exampleVi": "Vì tiếng ồn anh ấy đã nộp đơn khiếu nại chính thức."
@@ -610,7 +610,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯slant",
+   "ipa": "ˈaʊ̯slant",
    "vi": "nước ngoài",
    "example": "Er reist geschäftlich oft ins Ausland.",
    "exampleVi": "Anh ấy thường đi công tác nước ngoài."
@@ -620,7 +620,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔɪnlant",
+   "ipa": "ˈɪnlant",
    "vi": "trong nước, nội địa",
    "example": "Urlaub im Inland ist in diesem Sommer sehr beliebt.",
    "exampleVi": "Nghỉ mát trong nước rất được ưa chuộng vào mùa hè này."

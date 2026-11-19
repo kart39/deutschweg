@@ -9,7 +9,7 @@
   {
    "de": "achten auf",
    "pos": "phrase",
-   "ipa": "ˈaxtn̩ ʔaʊ̯f",
+   "ipa": "ˈaxtn̩ aʊ̯f",
    "vi": "chú ý đến, để ý tới (+ Akk)",
    "example": "Achten Sie beim Überqueren der Straße bitte genau auf den Verkehr.",
    "exampleVi": "Xin hãy chú ý cẩn thận đến giao thông khi băng qua đường."
@@ -25,7 +25,7 @@
   {
    "de": "antworten auf",
    "pos": "phrase",
-   "ipa": "ˈantvɔʁtn̩ ʔaʊ̯f",
+   "ipa": "ˈantvɔʁtn̩ aʊ̯f",
    "vi": "trả lời cho cái gì (+ Akk)",
    "example": "Der Sprecher antwortete ausführlich auf alle Fragen der Journalisten.",
    "exampleVi": "Người phát ngôn đã trả lời cặn kẽ mọi câu hỏi của các nhà báo."
@@ -49,7 +49,7 @@
   {
    "de": "aufpassen auf",
    "pos": "phrase",
-   "ipa": "ˈaʊ̯fˌpasn̩ ʔaʊ̯f",
+   "ipa": "ˈaʊ̯fˌpasn̩ aʊ̯f",
    "vi": "trông nom, để mắt trông chừng (+ Akk)",
    "example": "Könntest du heute Nachmittag bitte kurz auf meine Kinder aufpassen?",
    "exampleVi": "Chiều nay bạn có thể trông giúp con tôi một lát được không?"
@@ -81,7 +81,7 @@
   {
    "de": "sich bemühen um",
    "pos": "phrase",
-   "ipa": "zɪç bəˈmyːən ʔʊm",
+   "ipa": "zɪç bəˈmyːən ʊm",
    "vi": "nỗ lực, cố gắng giành lấy (+ Akk)",
    "example": "Sie bemüht sich intensiv um ein Stipendium für ihr Masterstudium.",
    "exampleVi": "Cô ấy nỗ lực hết mình để giành học bổng cho chương trình thạc sĩ."
@@ -121,7 +121,7 @@
   {
    "de": "bestehen aus",
    "pos": "phrase",
-   "ipa": "bəˈʃteːən ʔaʊ̯s",
+   "ipa": "bəˈʃteːən aʊ̯s",
    "vi": "bao gồm, cấu thành từ (+ Dat)",
    "example": "Die Prüfung besteht aus vier Teilen: Lesen, Hören, Schreiben und Sprechen.",
    "exampleVi": "Kỳ thi bao gồm 4 phần: Đọc, Nghe, Viết và Nói."
@@ -129,7 +129,7 @@
   {
    "de": "bestehen auf",
    "pos": "phrase",
-   "ipa": "bəˈʃteːən ʔaʊ̯f",
+   "ipa": "bəˈʃteːən aʊ̯f",
    "vi": "khăng khăng, kiên quyết đòi (+ Dat)",
    "example": "Der Kunde bestand auf einer sofortigen Rückerstattung des Kaufpreises.",
    "exampleVi": "Khách hàng khăng khăng đòi hoàn lại tiền mua sắm ngay lập tức."
@@ -137,7 +137,7 @@
   {
    "de": "sich beteiligen an",
    "pos": "phrase",
-   "ipa": "zɪç bəˈtaɪ̯lɪɡn̩ ʔan",
+   "ipa": "zɪç bəˈtaɪ̯lɪɡn̩ an",
    "vi": "tham gia đóng góp vào (+ Dat)",
    "example": "Alle Kursteilnehmer beteiligen sich lebhaft an der Diskussion.",
    "exampleVi": "Mọi học viên đều tham gia sôi nổi vào cuộc thảo luận."
@@ -145,7 +145,7 @@
   {
    "de": "sich bewerben um",
    "pos": "phrase",
-   "ipa": "zɪç bəˈvɛʁbn̩ ʔʊm",
+   "ipa": "zɪç bəˈvɛʁbn̩ ʊm",
    "vi": "nộp đơn ứng tuyển cho vị trí (+ Akk)",
    "example": "Er bewirbt sich um eine Stelle als Softwareentwickler in München.",
    "exampleVi": "Anh ấy ứng tuyển cho vị trí lập trình viên phần mềm tại Munich."
@@ -153,7 +153,7 @@
   {
    "de": "bitten um",
    "pos": "phrase",
-   "ipa": "ˈbɪtn̩ ʔʊm",
+   "ipa": "ˈbɪtn̩ ʊm",
    "vi": "xin, thỉnh cầu điều gì (+ Akk)",
    "example": "Darf ich Sie um einen kurzen Moment Geduld bitten?",
    "exampleVi": "Tôi có thể xin ngài kiên nhẫn một lát được không?"
@@ -169,7 +169,7 @@
   {
    "de": "denken an",
    "pos": "phrase",
-   "ipa": "ˈdɛŋkn̩ ʔan",
+   "ipa": "ˈdɛŋkn̩ an",
    "vi": "nghĩ tới, nhớ tới (+ Akk)",
    "example": "Denkst du bitte daran, auf dem Heimweg Brot einzukaufen?",
    "exampleVi": "Bạn có nhớ mua bánh mì trên đường về nhà không đấy?"
@@ -185,7 +185,7 @@
   {
    "de": "sich einigen auf",
    "pos": "phrase",
-   "ipa": "zɪç ˈaɪ̯nɪɡn̩ ʔaʊ̯f",
+   "ipa": "zɪç ˈaɪ̯nɪɡn̩ aʊ̯f",
    "vi": "thống nhất, đồng thuận về (+ Akk)",
    "example": "Nach zähen Verhandlungen einigten sich die Parteien auf einen Kompromiss.",
    "exampleVi": "Sau đàm phán cam go, các đảng phái đã thống nhất về một giải pháp thỏa hiệp."
@@ -241,7 +241,7 @@
   {
    "de": "sich erinnern an",
    "pos": "phrase",
-   "ipa": "zɪç ɛɐ̯ˈʔɪnɐn ʔan",
+   "ipa": "zɪç ɛɐ̯ˈʔɪnɐn an",
    "vi": "nhớ lại, nhớ về (+ Akk)",
    "example": "Er erinnert sich noch genau an seinen ersten Schultag.",
    "exampleVi": "Anh ấy vẫn nhớ rất rõ về ngày đầu tiên cắp sách tới trường."
@@ -249,7 +249,7 @@
   {
    "de": "erkennen an",
    "pos": "phrase",
-   "ipa": "ɛɐ̯ˈkɛnən ʔan",
+   "ipa": "ɛɐ̯ˈkɛnən an",
    "vi": "nhận ra nhờ vào dấu hiệu gì (+ Dat)",
    "example": "Man erkennt den Vogel leicht an seinen leuchtend roten Federn.",
    "exampleVi": "Người ta dễ dàng nhận ra loài chim này nhờ vào bộ lông màu đỏ rực."
@@ -289,7 +289,7 @@
   {
    "de": "sich freuen auf",
    "pos": "phrase",
-   "ipa": "zɪç ˈfʁɔʏ̯ən ʔaʊ̯f",
+   "ipa": "zɪç ˈfʁɔʏ̯ən aʊ̯f",
    "vi": "mong đợi, hào hứng chờ đón sự việc tương lai (+ Akk)",
    "example": "Die Schulkinder freuen sich schon riesig auf die kommenden Sommerferien.",
    "exampleVi": "Các em học sinh đang vô cùng hào hứng mong đợi kỳ nghỉ hè sắp tới."
@@ -313,7 +313,7 @@
   {
    "de": "sich gewöhnen an",
    "pos": "phrase",
-   "ipa": "zɪç ɡəˈvøːnən ʔan",
+   "ipa": "zɪç ɡəˈvøːnən an",
    "vi": "làm quen, thích nghi với (+ Akk)",
    "example": "Nach wenigen Monaten hatte er sich vollständig an das kalte Winterwetter gewöhnt.",
    "exampleVi": "Chỉ sau vài tháng, anh ấy đã hoàn toàn quen với thời tiết mùa đông giá lạnh."
@@ -321,7 +321,7 @@
   {
    "de": "glauben an",
    "pos": "phrase",
-   "ipa": "ˈɡlaʊ̯bn̩ ʔan",
+   "ipa": "ˈɡlaʊ̯bn̩ an",
    "vi": "tin tưởng vào (+ Akk)",
    "example": "Wenn du fest an dich selbst glaubst, kannst du deine Ziele erreichen.",
    "exampleVi": "Nếu bạn tin tưởng vững chắc vào bản thân mình, bạn có thể đạt được các mục tiêu."
@@ -337,7 +337,7 @@
   {
    "de": "hoffen auf",
    "pos": "phrase",
-   "ipa": "ˈhɔfn̩ ʔaʊ̯f",
+   "ipa": "ˈhɔfn̩ aʊ̯f",
    "vi": "hy vọng vào cái gì (+ Akk)",
    "example": "Die Landwirte hoffen nach der langen Trockenheit dringend auf ergiebigen Regen.",
    "exampleVi": "Những người nông dân tha thiết hy vọng trời mưa rào sau đợt hạn hán kéo dài."
@@ -361,7 +361,7 @@
   {
    "de": "kämpfen für",
    "pos": "phrase",
-   "ipa": "ˈkɛmp͡fn̩ fyːɐ̯",
+   "ipa": "ˈkɛmpfn̩ fyːɐ̯",
    "vi": "đấu tranh cho cái gì (+ Akk)",
    "example": "Bürgerrechtler kämpfen weltweit unermüdlich für Meinungsfreiheit.",
    "exampleVi": "Các nhà hoạt động dân quyền không mệt mỏi đấu tranh cho tự do ngôn luận trên toàn cầu."
@@ -369,7 +369,7 @@
   {
    "de": "kämpfen gegen",
    "pos": "phrase",
-   "ipa": "ˈkɛmp͡fn̩ ˈɡeːɡn̩",
+   "ipa": "ˈkɛmpfn̩ ˈɡeːɡn̩",
    "vi": "chiến đấu chống lại (+ Akk)",
    "example": "Internationale Organisationen kämpfen weltweit gegen die Armut.",
    "exampleVi": "Các tổ chức quốc tế chiến đấu chống lại nạn nghèo đói trên khắp thế giới."
@@ -377,7 +377,7 @@
   {
    "de": "sich konzentrieren auf",
    "pos": "phrase",
-   "ipa": "zɪç kɔnt͡sɛnˈtʁiːʁən ʔaʊ̯f",
+   "ipa": "zɪç kɔntsɛnˈtʁiːʁən aʊ̯f",
    "vi": "tập trung vào (+ Akk)",
    "example": "Bitte schalte die Musik aus, damit ich mich auf meine Hausaufgaben konzentrieren kann.",
    "exampleVi": "Làm ơn tắt nhạc đi để tôi có thể tập trung vào bài tập về nhà."
@@ -385,7 +385,7 @@
   {
    "de": "sich kümmern um",
    "pos": "phrase",
-   "ipa": "zɪç ˈkʏmɐn ʔʊm",
+   "ipa": "zɪç ˈkʏmɐn ʊm",
    "vi": "chăm sóc, lo liệu việc gì (+ Akk)",
    "example": "Wer kümmert sich während eures Urlaubs um die Haustiere und Pflanzen?",
    "exampleVi": "Ai sẽ chăm sóc thú cưng và cây cối trong thời gian bạn đi nghỉ?"
@@ -473,7 +473,7 @@
   {
    "de": "sterben an",
    "pos": "phrase",
-   "ipa": "ˈʃtɛʁbn̩ ʔan",
+   "ipa": "ˈʃtɛʁbn̩ an",
    "vi": "qua đời vì bệnh tật gì (+ Dat)",
    "example": "Noch immer sterben weltweit viele Menschen an behandelbaren Infektionskrankheiten.",
    "exampleVi": "Trên toàn thế giới vẫn còn nhiều người qua đời vì những bệnh truyền nhiễm có thể chữa được."
@@ -497,7 +497,7 @@
   {
    "de": "teilnehmen an",
    "pos": "phrase",
-   "ipa": "ˈtaɪ̯lˌneːmən ʔan",
+   "ipa": "ˈtaɪ̯lˌneːmən an",
    "vi": "tham dự, góp mặt vào (+ Dat)",
    "example": "Mehr als fünfzig Experten nahmen an der wissenschaftlichen Tagung teil.",
    "exampleVi": "Hơn năm mươi chuyên gia đã tham dự hội nghị khoa học."
@@ -545,7 +545,7 @@
   {
    "de": "sich verlassen auf",
    "pos": "phrase",
-   "ipa": "zɪç fɛɐ̯ˈlasn̩ ʔaʊ̯f",
+   "ipa": "zɪç fɛɐ̯ˈlasn̩ aʊ̯f",
    "vi": "trông cậy, tin tưởng vào (+ Akk)",
    "example": "Auf meine beste Freundin kann ich mich in jeder Situation hundertprozentig verlassen.",
    "exampleVi": "Vào cô bạn thân nhất của mình, tôi có thể trông cậy 100% trong mọi hoàn cảnh."
@@ -553,7 +553,7 @@
   {
    "de": "sich verlieben in",
    "pos": "phrase",
-   "ipa": "zɪç fɛɐ̯ˈliːbn̩ ʔɪn",
+   "ipa": "zɪç fɛɐ̯ˈliːbn̩ ɪn",
    "vi": "phải lòng, yêu ai (+ Akk)",
    "example": "Im Urlaub verliebte er sich Hals über Kopf in eine nette Spanierin.",
    "exampleVi": "Trong kỳ nghỉ, anh ấy đã say đắm phải lòng một cô gái Tây Ban Nha dễ mến."
@@ -561,7 +561,7 @@
   {
    "de": "verzichten auf",
    "pos": "phrase",
-   "ipa": "fɛɐ̯ˈt͡sɪçtn̩ ʔaʊ̯f",
+   "ipa": "fɛɐ̯ˈtsɪçtn̩ aʊ̯f",
    "vi": "từ bỏ, không dùng tới (+ Akk)",
    "example": "Für das Klima verzichtet sie bewusst auf Flugreisen innerhalb Europas.",
    "exampleVi": "Vì khí hậu, cô ấy chủ động từ bỏ các chuyến bay nội địa châu Âu."
@@ -569,7 +569,7 @@
   {
    "de": "sich vorbereiten auf",
    "pos": "phrase",
-   "ipa": "zɪç ˈfoːɐ̯bəˌʁaɪ̯tn̩ ʔaʊ̯f",
+   "ipa": "zɪç ˈfoːɐ̯bəˌʁaɪ̯tn̩ aʊ̯f",
    "vi": "chuẩn bị cho cái gì (+ Akk)",
    "example": "Der Schüler bereitet sich gründlich auf die anstehende Mathematikprüfung vor.",
    "exampleVi": "Học sinh chuẩn bị kỹ lưỡng cho kỳ thi môn Toán sắp tới."
@@ -585,7 +585,7 @@
   {
    "de": "warten auf",
    "pos": "phrase",
-   "ipa": "ˈvaʁtn̩ ʔaʊ̯f",
+   "ipa": "ˈvaʁtn̩ aʊ̯f",
    "vi": "chờ đợi ai/cái gì (+ Akk)",
    "example": "Wir warten schon seit über einer halben Stunde ungeduldig auf den verspäteten Bus.",
    "exampleVi": "Chúng tôi đã sốt ruột đứng đợi chuyến xe buýt bị trễ hơn nửa tiếng đồng hồ rồi."
@@ -601,7 +601,7 @@
   {
    "de": "zweifeln an",
    "pos": "phrase",
-   "ipa": "ˈtsvaɪ̯fl̩n ʔan",
+   "ipa": "ˈtsvaɪ̯fl̩n an",
    "vi": "nghi ngờ điều gì (+ Dat)",
    "example": "Niemand zweifelt an der fachlichen Kompetenz des erfahrenen Chefkochs.",
    "exampleVi": "Không ai nghi ngờ năng lực chuyên môn của người bếp trưởng dày dạn kinh nghiệm."

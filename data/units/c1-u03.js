@@ -1908,7 +1908,7 @@
      "article": null,
      "plural": null,
      "pos": "phrase",
-     "ipa": "aʊ̯f ˈʔaʊ̯ɡn̩ˌhøːə",
+     "ipa": "aʊ̯f ˈaʊ̯ɡn̩ˌhøːə",
      "vi": "bình đẳng, ngang hàng tôn trọng lẫn nhau",
      "example": "In diesem Team kommunizieren Auszubildende und Abteilungsleitung ganz selbstverständlich auf Augenhöhe.",
      "exampleVi": "Trong nhóm này, người học nghề và trưởng phòng giao tiếp hoàn toàn tự nhiên trên tinh thần bình đẳng."

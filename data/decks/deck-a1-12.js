@@ -40,7 +40,7 @@
   {
    "de": "alt",
    "pos": "adj",
-   "ipa": "ʔalt",
+   "ipa": "alt",
    "vi": "già, cũ, tuổi tác",
    "example": "Wie alt bist du? – Ich bin dreißig Jahre alt.",
    "exampleVi": "Bạn bao nhiêu tuổi? – Tôi ba mươi tuổi."
@@ -136,7 +136,7 @@
   {
    "de": "einfach",
    "pos": "adj",
-   "ipa": "ˈʔaɪ̯nfax",
+   "ipa": "ˈaɪ̯nfax",
    "vi": "đơn giản",
    "example": "Die Erklärung war sehr einfach und verständlich.",
    "exampleVi": "Lời giải thích rất đơn giản và dễ hiểu."
@@ -280,7 +280,7 @@
   {
    "de": "interessant",
    "pos": "adj",
-   "ipa": "ʔɪntəʁɛˈsant",
+   "ipa": "ɪntəʁɛˈsant",
    "vi": "thú vị",
    "example": "Ich finde deutsche Kultur sehr interessant.",
    "exampleVi": "Tôi thấy văn hóa Đức rất thú vị."
@@ -376,7 +376,7 @@
   {
    "de": "etwas",
    "pos": "adv",
-   "ipa": "ˈʔɛtvas",
+   "ipa": "ˈɛtvas",
    "vi": "một chút, một ít",
    "example": "Möchten Sie noch etwas Tee?",
    "exampleVi": "Ngài có muốn dùng thêm chút trà nữa không?"
@@ -392,7 +392,7 @@
   {
    "de": "auch",
    "pos": "adv",
-   "ipa": "ʔaʊ̯x",
+   "ipa": "aʊ̯x",
    "vi": "cũng",
    "example": "Ich lerne auch Deutsch am Goethe-Institut.",
    "exampleVi": "Tôi cũng học tiếng Đức ở Viện Goethe."
@@ -440,7 +440,7 @@
   {
    "de": "oft",
    "pos": "adv",
-   "ipa": "ˈʔɔft",
+   "ipa": "ˈɔft",
    "vi": "thường xuyên",
    "example": "Wie oft fährst du im Jahr nach Hause?",
    "exampleVi": "Mỗi năm bạn về nhà bao nhiêu lần?"
@@ -464,7 +464,7 @@
   {
    "de": "immer",
    "pos": "adv",
-   "ipa": "ˈʔɪmɐ",
+   "ipa": "ˈɪmɐ",
    "vi": "luôn luôn",
    "example": "Er ist immer gut gelaunt und hilfsbereit.",
    "exampleVi": "Anh ấy luôn luôn vui vẻ và sẵn lòng giúp đỡ."
@@ -520,7 +520,7 @@
   {
    "de": "oben",
    "pos": "adv",
-   "ipa": "ˈʔoːbn̩",
+   "ipa": "ˈoːbn̩",
    "vi": "ở phía trên",
    "example": "Das Büro liegt oben im zweiten Stock.",
    "exampleVi": "Văn phòng nằm ở trên tầng hai."
@@ -528,7 +528,7 @@
   {
    "de": "unten",
    "pos": "adv",
-   "ipa": "ˈʔʊntn̩",
+   "ipa": "ˈʊntn̩",
    "vi": "ở phía dưới",
    "example": "Die Kisten stehen unten im Keller.",
    "exampleVi": "Những chiếc thùng để ở dưới tầng hầm."
@@ -560,7 +560,7 @@
   {
    "de": "allein",
    "pos": "adv",
-   "ipa": "ʔaˈlaɪ̯n",
+   "ipa": "aˈlaɪ̯n",
    "vi": "một mình",
    "example": "Reist du lieber allein oder in einer Gruppe?",
    "exampleVi": "Bạn thích đi du lịch một mình hay theo đoàn?"
@@ -568,7 +568,7 @@
   {
    "de": "und",
    "pos": "conj",
-   "ipa": "ʔʊnt",
+   "ipa": "ʊnt",
    "vi": "và (liên từ)",
    "example": "Ich trinke Kaffee und esse ein Brötchen.",
    "exampleVi": "Tôi uống cà phê và ăn bánh mì."
@@ -576,7 +576,7 @@
   {
    "de": "aber",
    "pos": "conj",
-   "ipa": "ˈʔaːbɐ",
+   "ipa": "ˈaːbɐ",
    "vi": "nhưng (liên từ)",
    "example": "Ich möchte gern kommen, aber ich habe keine Zeit.",
    "exampleVi": "Tôi rất muốn đến, nhưng tôi không có thời gian."
@@ -584,7 +584,7 @@
   {
    "de": "oder",
    "pos": "conj",
-   "ipa": "ˈʔoːdɐ",
+   "ipa": "ˈoːdɐ",
    "vi": "hoặc, hay là (liên từ)",
    "example": "Möchtest du Kaffee oder Tee?",
    "exampleVi": "Bạn muốn dùng cà phê hay trà?"

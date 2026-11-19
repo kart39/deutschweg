@@ -160,7 +160,7 @@
    "article": "der",
    "plural": "Abende",
    "pos": "noun",
-   "ipa": "ˈʔaːbn̩t",
+   "ipa": "ˈaːbn̩t",
    "vi": "buổi tối",
    "example": "Am Abend sehen wir einen spannenden Film.",
    "exampleVi": "Vào buổi tối chúng tôi xem một bộ phim hay."
@@ -180,7 +180,7 @@
    "article": "die",
    "plural": "Uhren",
    "pos": "noun",
-   "ipa": "ʔuːɐ̯",
+   "ipa": "uːɐ̯",
    "vi": "giờ, đồng hồ",
    "example": "Es ist genau acht Uhr morgens.",
    "exampleVi": "Bây giờ đúng tám giờ sáng."
@@ -190,7 +190,7 @@
    "article": "die",
    "plural": "Uhrzeiten",
    "pos": "noun",
-   "ipa": "ˈʔuːɐ̯ˌtsaɪ̯t",
+   "ipa": "ˈuːɐ̯ˌtsaɪ̯t",
    "vi": "thời gian giờ giấc",
    "example": "Können Sie mir bitte die genaue Uhrzeit sagen?",
    "exampleVi": "Ngài có thể nói cho tôi biết giờ chính xác không?"
@@ -319,7 +319,7 @@
    "de": "aufstehen",
    "forms": "steht auf, stand auf, ist aufgestanden",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯fˌʃteːən",
+   "ipa": "ˈaʊ̯fˌʃteːən",
    "vi": "thức dậy, rời giường",
    "example": "Ich stehe unter der Woche um sechs Uhr auf.",
    "exampleVi": "Trong tuần tôi thức dậy lúc sáu giờ."
@@ -328,7 +328,7 @@
    "de": "aufwachen",
    "forms": "wacht auf, wachte auf, ist aufgewacht",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯fˌvaxn̩",
+   "ipa": "ˈaʊ̯fˌvaxn̩",
    "vi": "tỉnh giấc",
    "example": "Ich bin heute sehr früh aufgewacht.",
    "exampleVi": "Hôm nay tôi tỉnh giấc từ rất sớm."
@@ -346,7 +346,7 @@
    "de": "einschlafen",
    "forms": "schläft ein, schlief ein, ist eingeschlafen",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌʃlaːfn̩",
+   "ipa": "ˈaɪ̯nˌʃlaːfn̩",
    "vi": "bắt đầu chìm vào giấc ngủ",
    "example": "Ich kann abends oft nicht schnell einschlafen.",
    "exampleVi": "Buổi tối tôi thường không thể ngủ ngay được."
@@ -408,7 +408,7 @@
    "de": "anfangen",
    "forms": "fängt an, fing an, hat angefangen",
    "pos": "verb",
-   "ipa": "ˈʔanˌfaŋən",
+   "ipa": "ˈanˌfaŋən",
    "vi": "bắt đầu",
    "example": "Wann fängt der neue Sprachkurs an?",
    "exampleVi": "Khi nào khóa học tiếng mới bắt đầu?"
@@ -417,7 +417,7 @@
    "de": "enden",
    "forms": "endet, endete, hat geendet",
    "pos": "verb",
-   "ipa": "ˈʔɛndn̩",
+   "ipa": "ˈɛndn̩",
    "vi": "kết thúc",
    "example": "Die Konferenz endet um 17 Uhr.",
    "exampleVi": "Hội nghị kết thúc vào lúc 17 giờ."
@@ -426,7 +426,7 @@
    "de": "aufhören",
    "forms": "hört auf, hörte auf, hat aufgehört",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯fˌhøːʁən",
+   "ipa": "ˈaʊ̯fˌhøːʁən",
    "vi": "ngừng lại, chấm dứt (mit + Dat)",
    "example": "Um 18 Uhr höre ich mit der Arbeit auf.",
    "exampleVi": "Lúc 18 giờ tôi dừng công việc lại."
@@ -435,7 +435,7 @@
    "de": "arbeiten",
    "forms": "arbeitet, arbeitete, hat gearbeitet",
    "pos": "verb",
-   "ipa": "ˈʔaʁbaɪ̯tn̩",
+   "ipa": "ˈaʁbaɪ̯tn̩",
    "vi": "làm việc (bei + Dat / an + Dat)",
    "example": "Sie arbeitet von acht bis siebzehn Uhr.",
    "exampleVi": "Cô ấy làm việc từ 8 giờ đến 17 giờ."
@@ -471,7 +471,7 @@
    "de": "aufräumen",
    "forms": "räumt auf, räumte auf, hat aufgeräumt",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯fˌʁɔʏ̯mən",
+   "ipa": "ˈaʊ̯fˌʁɔʏ̯mən",
    "vi": "dọn dẹp ngăn nắp (+ Akk)",
    "example": "Samstags räume ich meine ganze Wohnung auf.",
    "exampleVi": "Thứ bảy tôi dọn dẹp toàn bộ căn hộ của mình."
@@ -497,7 +497,7 @@
   {
    "de": "ins Bett gehen",
    "pos": "phrase",
-   "ipa": "ʔɪns ˈbɛt ˌɡeːən",
+   "ipa": "ɪns ˈbɛt ˌɡeːən",
    "vi": "đi ngủ, lên giường nằm",
    "example": "Ich bin müde und gehe jetzt ins Bett.",
    "exampleVi": "Tôi mệt rồi và tôi đi ngủ đây."
@@ -569,7 +569,7 @@
   {
    "de": "immer",
    "pos": "adv",
-   "ipa": "ˈʔɪmɐ",
+   "ipa": "ˈɪmɐ",
    "vi": "luôn luôn",
    "example": "Er kommt immer fünf Minuten vor Beginn.",
    "exampleVi": "Anh ấy luôn tới trước giờ bắt đầu 5 phút."
@@ -577,7 +577,7 @@
   {
    "de": "oft",
    "pos": "adv",
-   "ipa": "ˈʔɔft",
+   "ipa": "ˈɔft",
    "vi": "thường xuyên",
    "example": "Wir gehen oft am Wochenende im Park spazieren.",
    "exampleVi": "Chúng tôi thường đi dạo công viên vào cuối tuần."
@@ -625,7 +625,7 @@
   {
    "de": "Wie spät ist es?",
    "pos": "phrase",
-   "ipa": "viː ˈʃpɛːt ʔɪst ʔɛs",
+   "ipa": "viː ˈʃpɛːt ɪst ɛs",
    "vi": "mấy giờ rồi?",
    "example": "Entschuldigung, wie spät ist es bitte?",
    "exampleVi": "Xin lỗi, bây giờ là mấy giờ rồi ạ?"
@@ -633,7 +633,7 @@
   {
    "de": "Wie viel Uhr ist es?",
    "pos": "phrase",
-   "ipa": "viː fiːl ˈʔuːɐ̯ ʔɪst ʔɛs",
+   "ipa": "viː fiːl ˈuːɐ̯ ɪst ɛs",
    "vi": "mấy giờ rồi?",
    "example": "Weißt du, wie viel Uhr es ist?",
    "exampleVi": "Bạn có biết bây giờ là mấy giờ không?"
@@ -641,7 +641,7 @@
   {
    "de": "um wie viel Uhr",
    "pos": "phrase",
-   "ipa": "ʔʊm viː fiːl ˈʔuːɐ̯",
+   "ipa": "ʊm viː fiːl ˈuːɐ̯",
    "vi": "vào lúc mấy giờ",
    "example": "Um wie viel Uhr beginnt der Film heute Abend?",
    "exampleVi": "Bộ phim bắt đầu vào lúc mấy giờ tối nay?"
@@ -657,7 +657,7 @@
   {
    "de": "am Vormittag",
    "pos": "phrase",
-   "ipa": "ʔam ˈfoːɐ̯mɪˌtaːk",
+   "ipa": "am ˈfoːɐ̯mɪˌtaːk",
    "vi": "vào buổi sáng muộn",
    "example": "Am Vormittag lerne ich für die Prüfung.",
    "exampleVi": "Vào buổi sáng muộn tôi ôn bài cho kỳ thi."
@@ -665,7 +665,7 @@
   {
    "de": "am Nachmittag",
    "pos": "phrase",
-   "ipa": "ʔam ˈnaxmɪˌtaːk",
+   "ipa": "am ˈnaxmɪˌtaːk",
    "vi": "vào buổi chiều",
    "example": "Am Nachmittag trinken wir zusammen Tee.",
    "exampleVi": "Vào buổi chiều chúng tôi cùng nhau uống trà."
@@ -673,7 +673,7 @@
   {
    "de": "am Abend",
    "pos": "phrase",
-   "ipa": "ʔam ˈʔaːbn̩t",
+   "ipa": "am ˈaːbn̩t",
    "vi": "vào buổi tối",
    "example": "Am Abend koche ich für meine Familie.",
    "exampleVi": "Vào buổi tối tôi nấu cơm cho gia đình."
@@ -681,7 +681,7 @@
   {
    "de": "in der Nacht",
    "pos": "phrase",
-   "ipa": "ʔɪn deːɐ̯ ˈnaxt",
+   "ipa": "ɪn deːɐ̯ ˈnaxt",
    "vi": "vào ban đêm",
    "example": "In der Nacht ist die Stadt ganz ruhig.",
    "exampleVi": "Vào ban đêm thành phố hoàn toàn yên tĩnh."

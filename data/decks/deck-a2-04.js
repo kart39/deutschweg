@@ -20,7 +20,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯sˌzeːən",
+   "ipa": "ˈaʊ̯sˌzeːən",
    "vi": "ngoại hình, diện mạo",
    "example": "Gutes Aussehen ist nicht alles im Leben.",
    "exampleVi": "Ngoại hình đẹp không phải là tất cả trong cuộc sống."
@@ -80,7 +80,7 @@
    "article": "das",
    "plural": "Augen",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯ɡə",
+   "ipa": "ˈaʊ̯ɡə",
    "vi": "đôi mắt",
    "example": "Er hat auffallend schöne, tiefblaue Augen.",
    "exampleVi": "Anh ấy có đôi mắt màu xanh thẳm đẹp nổi bật."
@@ -120,7 +120,7 @@
    "article": "der",
    "plural": "Ohrringe",
    "pos": "noun",
-   "ipa": "ˈʔoːɐ̯ˌʁɪŋ",
+   "ipa": "ˈoːɐ̯ˌʁɪŋ",
    "vi": "khuyên tai, hoa tai",
    "example": "Sie hat sich ein Paar funkelnde Ohrringe gekauft.",
    "exampleVi": "Cô ấy đã mua cho mình một đôi hoa tai lấp lánh."
@@ -130,7 +130,7 @@
    "article": "das",
    "plural": "Armbänder",
    "pos": "noun",
-   "ipa": "ˈʔaʁmˌbant",
+   "ipa": "ˈaʁmˌbant",
    "vi": "vòng đeo tay, lắc tay",
    "example": "Das lederne Armband war ein Geburtstagsgeschenk.",
    "exampleVi": "Chiếc lắc tay bằng da là món quà sinh nhật."
@@ -140,7 +140,7 @@
    "article": "die",
    "plural": "Uhren",
    "pos": "noun",
-   "ipa": "ʔuːɐ̯",
+   "ipa": "uːɐ̯",
    "vi": "đồng hồ đeo tay",
    "example": "Er trägt eine klassische Armbanduhr aus der Schweiz.",
    "exampleVi": "Anh ấy đeo một chiếc đồng hồ đeo tay cổ điển của Thụy Sĩ."
@@ -250,7 +250,7 @@
    "article": "der",
    "plural": "Eindrücke",
    "pos": "noun",
-   "ipa": "ˈʔaɪ̯nˌdʁʊk",
+   "ipa": "ˈaɪ̯nˌdʁʊk",
    "vi": "ấn tượng",
    "example": "Ein gepflegtes Äußeres hinterlässt einen guten Eindruck.",
    "exampleVi": "Vẻ ngoài chỉn chu để lại ấn tượng tốt."
@@ -260,7 +260,7 @@
    "article": "die",
    "plural": "Umkleidekabinen",
    "pos": "noun",
-   "ipa": "ˈʔʊmklaɪ̯dəkaˌbiːnə",
+   "ipa": "ˈʊmklaɪ̯dəkaˌbiːnə",
    "vi": "phòng thử đồ trong tiệm",
    "example": "Die Umkleidekabinen befinden sich ganz hinten links.",
    "exampleVi": "Các phòng thử đồ nằm ở tít phía sau bên trái."
@@ -269,7 +269,7 @@
    "de": "aussehen",
    "forms": "sieht aus, sah aus, hat ausgesehen",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯sˌzeːən",
+   "ipa": "ˈaʊ̯sˌzeːən",
    "vi": "trông có vẻ, có diện mạo",
    "example": "Du siehst heute wirklich blendend aus!",
    "exampleVi": "Hôm nay trông bạn thực sự rạng rỡ!"
@@ -305,7 +305,7 @@
    "de": "anprobieren",
    "forms": "probiert an, probierte an, hat anprobiert",
    "pos": "verb",
-   "ipa": "ˈʔanpʁoˌbiːʁən",
+   "ipa": "ˈanpʁoˌbiːʁən",
    "vi": "thử quần áo (+ Akk)",
    "example": "Darf ich die Jacke eine Nummer größer anprobieren?",
    "exampleVi": "Tôi có thể thử chiếc áo khoác này to hơn một số được không?"
@@ -314,7 +314,7 @@
    "de": "umtauschen",
    "forms": "tauscht um, tauschte um, hat umgetauscht",
    "pos": "verb",
-   "ipa": "ˈʔʊmˌtaʊ̯ʃn̩",
+   "ipa": "ˈʊmˌtaʊ̯ʃn̩",
    "vi": "đổi trả hàng (+ Akk)",
    "example": "Kann ich diesen Pullover innerhalb von 14 Tagen umtauschen?",
    "exampleVi": "Tôi có thể đổi chiếc áo len này trong vòng 14 ngày không?"
@@ -332,7 +332,7 @@
    "de": "sich anziehen",
    "forms": "zieht sich an, zog sich an, hat sich angezogen",
    "pos": "verb",
-   "ipa": "ˈʔanˌtsiːən zɪç",
+   "ipa": "ˈanˌtsiːən zɪç",
    "vi": "mặc quần áo vào",
    "example": "Zieh dich schnell an, wir müssen gleich losgehen.",
    "exampleVi": "Mặc đồ nhanh lên nào, chúng ta phải đi ngay rồi."
@@ -341,7 +341,7 @@
    "de": "sich umziehen",
    "forms": "zieht sich um, zog sich um, hat sich umgezogen",
    "pos": "verb",
-   "ipa": "ˈʔʊmˌtsiːən zɪç",
+   "ipa": "ˈʊmˌtsiːən zɪç",
    "vi": "thay trang phục",
    "example": "Vor dem festlichen Abendessen möchte ich mich noch umziehen.",
    "exampleVi": "Trước bữa tối trang trọng tôi muốn thay đồ cái đã."
@@ -392,7 +392,7 @@
   {
    "de": "attraktiv",
    "pos": "adj",
-   "ipa": "ʔatʁakˈtiːf",
+   "ipa": "atʁakˈtiːf",
    "vi": "cuốn hút, quyến rũ",
    "example": "Er ist ein charmanter und sehr attraktiver Mann.",
    "exampleVi": "Anh ấy là một người đàn ông hào hoa và rất cuốn hút."
@@ -520,7 +520,7 @@
   {
    "de": "einfarbig",
    "pos": "adj",
-   "ipa": "ˈʔaɪ̯nˌfaʁbɪç",
+   "ipa": "ˈaɪ̯nˌfaʁbɪç",
    "vi": "một màu trơn, đơn sắc",
    "example": "Für formelle Anlässe wähle ich lieber einfarbige Hemden.",
    "exampleVi": "Cho các dịp trang trọng tôi thích chọn sơ mi màu trơn hơn."
@@ -536,7 +536,7 @@
   {
    "de": "elegant",
    "pos": "adj",
-   "ipa": "ʔeleˈɡant",
+   "ipa": "eleˈɡant",
    "vi": "thanh lịch, trang nhã",
    "example": "Zur Opernpremiere erschien sie in einem eleganten Abendkleid.",
    "exampleVi": "Tới buổi công diễn opera cô ấy xuất hiện trong bộ đầm dạ hội thanh lịch."
@@ -560,7 +560,7 @@
   {
    "de": "unbequem",
    "pos": "adj",
-   "ipa": "ˈʔʊnbəˌkveːm",
+   "ipa": "ˈʊnbəˌkveːm",
    "vi": "bất tiện, gò bó",
    "example": "Die neuen Lederschuhe waren anfangs noch sehr unbequem.",
    "exampleVi": "Đôi giày da mới lúc đầu còn khá gò bó."
@@ -576,7 +576,7 @@
   {
    "de": "altmodisch",
    "pos": "adj",
-   "ipa": "ˈʔaltˌmoːdɪʃ",
+   "ipa": "ˈaltˌmoːdɪʃ",
    "vi": "lỗi thời, cổ hủ",
    "example": "Diese weiten Krawatten wirken heute etwas altmodisch.",
    "exampleVi": "Những chiếc cà vạt bản rộng này trông hơi cổ lỗ sĩ."
@@ -592,7 +592,7 @@
   {
    "de": "ungepflegt",
    "pos": "adj",
-   "ipa": "ˈʔʊnɡəˌpfleːkt",
+   "ipa": "ˈʊnɡəˌpfleːkt",
    "vi": "nhếch nhác, luộm thuộm",
    "example": "Ungeputzte Schuhe wirken schnell ungepflegt.",
    "exampleVi": "Giày không đánh xi nhanh chóng tạo cảm giác luộm thuộm."
@@ -600,7 +600,7 @@
   {
    "de": "eng",
    "pos": "adj",
-   "ipa": "ʔɛŋ",
+   "ipa": "ɛŋ",
    "vi": "bó sát, chật",
    "example": "Die Skinny-Jeans ist mir nach dem Urlaub etwas zu eng.",
    "exampleVi": "Chiếc quần bò bó sát hơi chật với tôi sau kỳ nghỉ."
@@ -616,7 +616,7 @@
   {
    "de": "Wie sehe ich aus?",
    "pos": "phrase",
-   "ipa": "viː ˈzeːə ʔɪç ˈʔaʊ̯s",
+   "ipa": "viː ˈzeːə ɪç ˈaʊ̯s",
    "vi": "trông tôi thế nào?",
    "example": "Ehrlich gesagt: Wie sehe ich in diesem Anzug aus?",
    "exampleVi": "Thật lòng nhé: trông tôi ra sao trong bộ âu phục này?"
@@ -632,7 +632,7 @@
   {
    "de": "eine Nummer größer",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈnʊmɐ ˈɡʁøːsɐ",
+   "ipa": "ˈaɪ̯nə ˈnʊmɐ ˈɡʁøːsɐ",
    "vi": "to hơn một cỡ",
    "example": "Haben Sie das Hemd vielleicht eine Nummer größer?",
    "exampleVi": "Ngài có chiếc áo này ở cỡ to hơn một số không?"
@@ -640,7 +640,7 @@
   {
    "de": "eine Nummer kleiner",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈnʊmɐ ˈklaɪ̯nɐ",
+   "ipa": "ˈaɪ̯nə ˈnʊmɐ ˈklaɪ̯nɐ",
    "vi": "nhỏ hơn một cỡ",
    "example": "Die Hose rutscht, ich brauche eine Nummer kleiner.",
    "exampleVi": "Chiếc quần bị tuột, tôi cần cỡ nhỏ hơn một số."
@@ -648,7 +648,7 @@
   {
    "de": "Wert legen auf",
    "pos": "phrase",
-   "ipa": "veːɐ̯t ˈleːɡn̩ ʔaʊ̯f",
+   "ipa": "veːɐ̯t ˈleːɡn̩ aʊ̯f",
    "vi": "coi trọng điều gì (+ Akk)",
    "example": "Sie legt großen Wert auf hochwertige Kleidung.",
    "exampleVi": "Cô ấy rất coi trọng trang phục chất lượng cao."
@@ -656,7 +656,7 @@
   {
    "de": "wie angegossen passen",
    "pos": "phrase",
-   "ipa": "viː ˈʔanɡəˌɡɔsn̩ ˈpasn̩",
+   "ipa": "viː ˈanɡəˌɡɔsn̩ ˈpasn̩",
    "vi": "vừa như in, khít khao",
    "example": "Das maßgeschneiderte Kleid passt ihr wie angegossen.",
    "exampleVi": "Chiếc đầm may đo vừa vặn với cô ấy như in."
@@ -664,7 +664,7 @@
   {
    "de": "aus der Mode kommen",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯s deːɐ̯ ˈmoːdə ˌkɔmən",
+   "ipa": "aʊ̯s deːɐ̯ ˈmoːdə ˌkɔmən",
    "vi": "lỗi thời, hết mốt",
    "example": "Klassische Schnitte kommen eigentlich nie aus der Mode.",
    "exampleVi": "Những phom may cổ điển thực ra không bao giờ hết mốt."

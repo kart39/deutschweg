@@ -130,7 +130,7 @@
    "article": "der",
    "plural": "Anzüge",
    "pos": "noun",
-   "ipa": "ˈʔanˌtsuːk",
+   "ipa": "ˈanˌtsuːk",
    "vi": "bộ com-lê, âu phục nam",
    "example": "Zur Hochzeit zieht er einen dunklen Anzug an.",
    "exampleVi": "Tới lễ cưới anh ấy mặc một bộ com-lê tối màu."
@@ -330,7 +330,7 @@
    "article": "der",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ˈʔɔʏ̯ʁo",
+   "ipa": "ˈɔʏ̯ʁo",
    "vi": "đồng Ơ-rô",
    "example": "Das T-Shirt kostet 15 Euro.",
    "exampleVi": "Chiếc áo phông có giá 15 euro."
@@ -449,7 +449,7 @@
    "de": "einkaufen",
    "forms": "kauft ein, kaufte ein, hat eingekauft",
    "pos": "verb",
-   "ipa": "ˈʔaɪ̯nˌkaʊ̯fn̩",
+   "ipa": "ˈaɪ̯nˌkaʊ̯fn̩",
    "vi": "đi mua sắm",
    "example": "Wir kaufen jeden Samstag im Supermarkt ein.",
    "exampleVi": "Mỗi thứ bảy chúng tôi đều đi sắm đồ ở siêu thị."
@@ -494,7 +494,7 @@
    "de": "anziehen",
    "forms": "zieht an, zog an, hat angezogen",
    "pos": "verb",
-   "ipa": "ˈʔanˌtsiːən",
+   "ipa": "ˈanˌtsiːən",
    "vi": "mặc đồ vào (+ Akk)",
    "example": "Ich ziehe schnell eine warme Jacke an.",
    "exampleVi": "Tôi nhanh chóng mặc một chiếc áo khoác ấm vào."
@@ -503,7 +503,7 @@
    "de": "ausziehen",
    "forms": "zieht aus, zog aus, hat ausgezogen",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯sˌtsiːən",
+   "ipa": "ˈaʊ̯sˌtsiːən",
    "vi": "cởi đồ ra (+ Akk)",
    "example": "Zieh bitte den nassen Mantel aus.",
    "exampleVi": "Làm ơn cởi chiếc áo măng-tô bị ướt ra."
@@ -512,7 +512,7 @@
    "de": "anprobieren",
    "forms": "probiert an, probierte an, hat anprobiert",
    "pos": "verb",
-   "ipa": "ˈʔanpʁoˌbiːʁən",
+   "ipa": "ˈanpʁoˌbiːʁən",
    "vi": "thử đồ (+ Akk)",
    "example": "Kann ich diese Hose kurz anprobieren?",
    "exampleVi": "Tôi có thể mặc thử chiếc quần này một lát được không?"
@@ -674,7 +674,7 @@
   {
    "de": "eng",
    "pos": "adj",
-   "ipa": "ʔɛŋ",
+   "ipa": "ɛŋ",
    "vi": "chật chội, ôm sát",
    "example": "Diese Hose ist mir leider etwas zu eng.",
    "exampleVi": "Chiếc quần này tiếc là hơi chật so với tôi."

@@ -141,7 +141,7 @@
    "article": "die",
    "plural": "Ironien",
    "pos": "noun",
-   "ipa": "ʔiʁoˈniː",
+   "ipa": "iʁoˈniː",
    "vi": "sự mỉa mai, nói mỉa, châm biếm nhẹ",
    "example": "Nicht jeder Gesprächspartner versteht subtile Ironie in einer Fremdsprache sofort.",
    "exampleVi": "Không phải bạn đối thoại nào cũng hiểu ngay sự mỉa mai tinh tế bằng ngoại ngữ."
@@ -161,7 +161,7 @@
    "article": "die",
    "plural": "Konversationen",
    "pos": "noun",
-   "ipa": "kɔnvɛʁzaˈt͡sjoːn",
+   "ipa": "kɔnvɛʁzaˈtsjoːn",
    "vi": "cuộc đàm đạo, chuyện trò",
    "example": "Er führte mit den Gästen eine anregende Konversation über zeitgenössische Kunst.",
    "exampleVi": "Anh ấy đã có cuộc chuyện trò sôi nổi với quan khách về nghệ thuật đương đại."
@@ -181,7 +181,7 @@
    "article": "der",
    "plural": "Zuhörer",
    "pos": "noun",
-   "ipa": "ˈt͡suːˌhøːʁɐ",
+   "ipa": "ˈtsuːˌhøːʁɐ",
    "vi": "thính giả, người nghe",
    "example": "Der fesselnde Redner zog alle Zuhörer von der ersten Minute an in seinen Bann.",
    "exampleVi": "Người diễn thuyết lôi cuốn đã mê hoặc toàn thể thính giả ngay từ phút đầu tiên."
@@ -211,7 +211,7 @@
    "article": "der",
    "plural": "Zwischentöne",
    "pos": "noun",
-   "ipa": "ˈt͡svɪʃn̩ˌtoːn",
+   "ipa": "ˈtsvɪʃn̩ˌtoːn",
    "vi": "sắc thái ẩn ý, ý nhị giữa các dòng chữ",
    "example": "Bei diplomatischen Verhandlungen muss man aufmerksam auf die feinen Zwischentöne achten.",
    "exampleVi": "Trong đàm phán ngoại giao, người ta phải chú ý lắng nghe những ẩn ý tinh tế."
@@ -241,7 +241,7 @@
    "article": "der",
    "plural": "Akzente",
    "pos": "noun",
-   "ipa": "akˈt͡sɛnt",
+   "ipa": "akˈtsɛnt",
    "vi": "giọng điệu ngoại ngữ (accent)",
    "example": "Obwohl sie seit zwanzig Jahren in Berlin lebt, hört man noch ihren leichten französischen Akzent.",
    "exampleVi": "Mặc dù sống ở Berlin 20 năm, người ta vẫn nghe thấy giọng Pháp nhẹ của cô ấy."
@@ -291,7 +291,7 @@
    "article": "der",
    "plural": "Wortschätze",
    "pos": "noun",
-   "ipa": "ˈvɔʁtˌʃat͡s",
+   "ipa": "ˈvɔʁtˌʃats",
    "vi": "vốn từ vựng",
    "example": "Regelmäßiges Lesen erweitert den aktiven und passiven Wortschatz spürbar.",
    "exampleVi": "Đọc sách đều đặn mở rộng rõ rệt vốn từ vựng chủ động và thụ động."
@@ -406,7 +406,7 @@
    "de": "kommunizieren",
    "forms": "kommuniziert, kommunizierte, hat kommuniziert",
    "pos": "verb",
-   "ipa": "kɔmuniˈt͡siːʁən",
+   "ipa": "kɔmuniˈtsiːʁən",
    "vi": "giao tiếp, liên lạc",
    "example": "In internationalen Teams kommuniziert man überwiegend auf Englisch.",
    "exampleVi": "Trong các nhóm làm việc quốc tế, người ta chủ yếu giao tiếp bằng tiếng Anh."
@@ -496,7 +496,7 @@
    "de": "artikulieren",
    "forms": "artikuliert, artikulierte, hat artikuliert",
    "pos": "verb",
-   "ipa": "ʔaʁtikuˈliːʁən",
+   "ipa": "aʁtikuˈliːʁən",
    "vi": "phát âm rõ ràng, nói lên suy nghĩ",
    "example": "Sie artikulierte ihre berechtigten Kritikpunkte ruhig und unmissverständlich.",
    "exampleVi": "Cô ấy đã nói lên những điểm phê bình chính đáng của mình một cách điềm tĩnh và dứt khoát không thể hiểu lầm."
@@ -537,7 +537,7 @@
   {
    "de": "um den heißen Brei herumreden",
    "pos": "phrase",
-   "ipa": "ʔʊm deːn ˈhaɪ̯sn̩ bʁaɪ̯ hɛˈʁʊmˌʁeːdn̩",
+   "ipa": "ʊm deːn ˈhaɪ̯sn̩ bʁaɪ̯ hɛˈʁʊmˌʁeːdn̩",
    "vi": "nói vòng vo tam quốc, né tránh vấn đề chính",
    "example": "Reden Sie bitte nicht lange um den heißen Brei herum, sondern sagen Sie offen, was Sache ist.",
    "exampleVi": "Xin đừng nói vòng vo tam quốc nữa mà hãy nói thẳng xem vấn đề là gì."
@@ -545,7 +545,7 @@
   {
    "de": "auf den Punkt bringen",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f deːn pʊŋkt ˈbʁɪŋən",
+   "ipa": "aʊ̯f deːn pʊŋkt ˈbʁɪŋən",
    "vi": "nói trúng tim đen, đúc kết ngắn gọn cốt lõi",
    "example": "Sie verstand es meisterhaft, das komplexe Problem in einem einzigen Satz auf den Punkt zu bringen.",
    "exampleVi": "Cô ấy hiểu cách đúc kết bậc thầy vấn đề phức tạp chỉ trong một câu trúng ngay trọng tâm."
@@ -553,7 +553,7 @@
   {
    "de": "zwischen den Zeilen lesen",
    "pos": "phrase",
-   "ipa": "ˈt͡svɪʃn̩ deːn ˈt͡saɪ̯lən ˈleːzn̩",
+   "ipa": "ˈtsvɪʃn̩ deːn ˈtsaɪ̯lən ˈleːzn̩",
    "vi": "hiểu được ẩn ý, đọc giữa các dòng chữ",
    "example": "Wer offizielle Stellungnahmen verstehen will, muss oft aufmerksam zwischen den Zeilen lesen.",
    "exampleVi": "Ai muốn hiểu các tuyên bố chính thức thường phải chú ý đọc hiểu những ẩn ý giữa các dòng chữ."
@@ -593,7 +593,7 @@
   {
    "de": "auf taube Ohren stoßen",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f ˈtaʊ̯bə ˈʔoːʁən ˈʃtoːsn̩",
+   "ipa": "aʊ̯f ˈtaʊ̯bə ˈoːʁən ˈʃtoːsn̩",
    "vi": "nói như nước đổ lá khoai, không ai đoái hoài",
    "example": "Ihre wiederholten Warnungen stießen im Vorstand leider auf völlig taube Ohren.",
    "exampleVi": "Những lời cảnh báo lặp đi lặp lại của cô ấy đáng tiếc đã không được ban quản trị đoái hoài tới."
@@ -609,7 +609,7 @@
   {
    "de": "auf einer Wellenlänge sein",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯f ˈaɪ̯nɐ ˈvɛlənˌlɛŋə zaɪ̯n",
+   "ipa": "aʊ̯f ˈaɪ̯nɐ ˈvɛlənˌlɛŋə zaɪ̯n",
    "vi": "tâm đầu ý hợp, cùng tần số",
    "example": "Schon nach dem ersten Kennenlernen merkten die beiden, dass sie auf einer Wellenlänge waren.",
    "exampleVi": "Ngay sau lần đầu gặp gỡ, hai người đã nhận ra rằng họ hoàn toàn cùng một tần số tư tưởng."
@@ -633,7 +633,7 @@
   {
    "de": "aus der Nase ziehen",
    "pos": "phrase",
-   "ipa": "ʔaʊ̯s deːɐ̯ ˈnaːzə ˈt͡siːən",
+   "ipa": "aʊ̯s deːɐ̯ ˈnaːzə ˈtsiːən",
    "vi": "cạy miệng mãi mới nói (etw. aus der Nase ziehen)",
    "example": "Dem schweigsamen Teenager musste man jedes Wort mühsam aus der Nase ziehen.",
    "exampleVi": "Đối với cậu thiếu niên ít nói, người ta phải cạy miệng mãi cậu mới chịu nói từng từ một."

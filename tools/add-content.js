@@ -5,6 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 const V = require('../js/validate.js');
+const N = require('./normalize.js');
 const root = path.join(__dirname, '..');
 const [mode, ...files] = process.argv.slice(2);
 if (!['check', 'add'].includes(mode) || !files.length) { console.log('Dùng: node tools/add-content.js check|add <file...>'); process.exit(1); }
@@ -66,7 +67,9 @@ if (mode === 'add') {
   const idxFile = path.join(root, 'data/index.js');
   const idx = new Set(JSON.parse(fs.readFileSync(idxFile, 'utf8').match(/CONTENT_FILES = (\[[\s\S]*?\]);/)[1]));
   for (const x of [...units.map(u => ({ ...u, type: 'unit' })), ...others]) {
-    const { _review, ...clean } = x;
+    const { _review, ...raw } = x;
+    // chuẩn hoá IPA theo Duden (ts, ɡ, bỏ ʔ đầu từ); phần chữ đã được merge-batch chuẩn hoá nếu cần
+    const clean = N.ipaFields(raw);
     const dir = { unit: 'units', deck: 'decks', grammar: 'grammar', reading: 'readings', exam: 'exams', verbs: 'verbs' }[clean.type] || 'misc';
     const rel = `${dir}/${clean.id}.js`;
     fs.mkdirSync(path.join(root, 'data', dir), { recursive: true });

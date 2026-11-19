@@ -80,7 +80,7 @@
    "article": "das",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ʔabiˈtuːɐ̯",
+   "ipa": "abiˈtuːɐ̯",
    "vi": "bằng tốt nghiệp phổ thông trung học (vào đại học)",
    "example": "Mit dem Abitur erlangt man die Berechtigung zum Universitätsstudium.",
    "exampleVi": "Với bằng Abitur người ta đủ điều kiện để theo học đại học."
@@ -90,7 +90,7 @@
    "article": "der",
    "plural": "Abschlüsse",
    "pos": "noun",
-   "ipa": "ˈʔapˌʃlʊs",
+   "ipa": "ˈapˌʃlʊs",
    "vi": "bằng cấp tốt nghiệp, sự hoàn thành khóa học",
    "example": "Sie machte einen hervorragenden Abschluss in Betriebswirtschaft.",
    "exampleVi": "Cô ấy đã tốt nghiệp xuất sắc ngành quản trị kinh doanh."
@@ -140,7 +140,7 @@
    "article": "die",
    "plural": "Ausbildungen",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯sˌbɪldʊŋ",
+   "ipa": "ˈaʊ̯sˌbɪldʊŋ",
    "vi": "quá trình đào tạo nghề",
    "example": "Eine duale Ausbildung kombiniert Theorie in der Schule mit Praxis im Betrieb.",
    "exampleVi": "Khóa học nghề kép kết hợp lý thuyết tại trường và thực hành tại doanh nghiệp."
@@ -150,7 +150,7 @@
    "article": "der",
    "plural": "Ausbildungsplätze",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯sbɪldʊŋsˌplats",
+   "ipa": "ˈaʊ̯sbɪldʊŋsˌplats",
    "vi": "chỗ học nghề tại doanh nghiệp",
    "example": "Er hat erfolgreich einen Ausbildungsplatz als Mechatroniker bekommen.",
    "exampleVi": "Anh ấy đã trúng tuyển một chỗ học nghề kỹ thuật cơ điện tử."
@@ -160,7 +160,7 @@
    "article": "der",
    "plural": "Auszubildenden",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯stsuˌbɪldndə",
+   "ipa": "ˈaʊ̯stsuˌbɪldndə",
    "vi": "học viên học nghề (Azubi)",
    "example": "Der Meister erklärt dem Auszubildenden die Bedienung der Fräsmaschine.",
    "exampleVi": "Người thợ cả giải thích cho học viên nghề cách vận hành máy phay."
@@ -170,7 +170,7 @@
    "article": "der",
    "plural": "Azubis",
    "pos": "noun",
-   "ipa": "ˈʔaˌtsuːbi",
+   "ipa": "ˈaˌtsuːbi",
    "vi": "học viên nghề (tên thân mật)",
    "example": "Im ersten Lehrjahr verdienen viele Azubis eine tarifliche Ausbildungsvergütung.",
    "exampleVi": "Vào năm học nghề đầu tiên nhiều học viên nhận thù lao theo thỏa ước."
@@ -250,7 +250,7 @@
    "article": "die",
    "plural": "Abschlussprüfungen",
    "pos": "noun",
-   "ipa": "ˈʔapʃlʊsˌpʁyːfʊŋ",
+   "ipa": "ˈapʃlʊsˌpʁyːfʊŋ",
    "vi": "kỳ thi tốt nghiệp ra trường",
    "example": "Die praktische Abschlussprüfung fand in der Werkstatt statt.",
    "exampleVi": "Kỳ thi tốt nghiệp thực hành đã diễn ra tại xưởng chế tạo."
@@ -329,7 +329,7 @@
    "de": "unterrichten",
    "forms": "unterrichtet, unterrichtete, hat unterrichtet",
    "pos": "verb",
-   "ipa": "ʔʊntɐˈʁɪçtn̩",
+   "ipa": "ʊntɐˈʁɪçtn̩",
    "vi": "giảng dạy, dạy học (+ Akk in + Dat)",
    "example": "Sie unterrichtet seit fünfzehn Jahren Deutsch als Fremdsprache.",
    "exampleVi": "Cô ấy dạy tiếng Đức như một ngoại ngữ suốt mười lăm năm nay."
@@ -374,7 +374,7 @@
    "de": "aufpassen",
    "forms": "passt auf, passte auf, hat aufgepasst",
    "pos": "verb",
-   "ipa": "ˈʔaʊ̯fˌpasn̩",
+   "ipa": "ˈaʊ̯fˌpasn̩",
    "vi": "chú ý lắng nghe (auf + Akk)",
    "example": "Pass im Unterricht gut auf, dann fällt das Lernen zu Hause leichter.",
    "exampleVi": "Hãy chú ý trong giờ học, khi đó việc học ở nhà sẽ nhẹ nhàng hơn."
@@ -392,7 +392,7 @@
    "de": "absolvieren",
    "forms": "absolviert, absolvierte, hat absolviert",
    "pos": "verb",
-   "ipa": "ʔapzɔlˈviːʁən",
+   "ipa": "apzɔlˈviːʁən",
    "vi": "hoàn thành, tốt nghiệp (+ Akk)",
    "example": "Er hat erfolgreich eine kaufmännische Ausbildung absolviert.",
    "exampleVi": "Anh ấy đã hoàn thành xuất sắc khóa đào tạo nghề thương mại."
@@ -401,7 +401,7 @@
    "de": "anwenden",
    "forms": "wendet an, wandte an, hat angewandt",
    "pos": "verb",
-   "ipa": "ˈʔanˌvɛndn̩",
+   "ipa": "ˈanˌvɛndn̩",
    "vi": "vận dụng, áp dụng kiến thức (+ Akk)",
    "example": "In der Werkstatt kann man die erlernte Theorie direkt praktisch anwenden.",
    "exampleVi": "Tại xưởng người ta có thể áp dụng ngay lý thuyết đã học vào thực tế."
@@ -490,7 +490,7 @@
   {
    "de": "eine Prüfung bestehen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈpʁyːfʊŋ bəˌʃteːən",
+   "ipa": "ˈaɪ̯nə ˈpʁyːfʊŋ bəˌʃteːən",
    "vi": "thi đỗ kỳ thi",
    "example": "Herzlichen Glückwunsch, du hast die schwierige Prüfung bestanden!",
    "exampleVi": "Nhiệt liệt chúc mừng, bạn đã thi đỗ kỳ thi khó khăn rồi!"
@@ -514,7 +514,7 @@
   {
    "de": "eine Ausbildung machen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈʔaʊ̯sˌbɪldʊŋ ˌmaxn̩",
+   "ipa": "ˈaɪ̯nə ˈaʊ̯sˌbɪldʊŋ ˌmaxn̩",
    "vi": "học một nghề nghiệp",
    "example": "Nach der Realschule entschied er sich, eine Ausbildung zu machen.",
    "exampleVi": "Sau khi học xong trường Realschule anh ấy quyết định đi học nghề."
@@ -522,7 +522,7 @@
   {
    "de": "einen Abschluss machen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nən ˈʔapˌʃlʊs ˌmaxn̩",
+   "ipa": "ˈaɪ̯nən ˈapˌʃlʊs ˌmaxn̩",
    "vi": "tốt nghiệp lấy bằng",
    "example": "Sie möchte nächstes Jahr ihren Bachelor-Abschluss machen.",
    "exampleVi": "Cô ấy muốn tốt nghiệp cử nhân vào năm sau."
@@ -530,7 +530,7 @@
   {
    "de": "im Unterricht aufpassen",
    "pos": "phrase",
-   "ipa": "ʔɪm ˈʔʊntɐˌʁɪçt ˈʔaʊ̯fˌpasn̩",
+   "ipa": "ɪm ˈʊntɐˌʁɪçt ˈaʊ̯fˌpasn̩",
    "vi": "chú ý lắng nghe bài giảng",
    "example": "Wenn du im Unterricht aufpasst, musst du zu Hause weniger lernen.",
    "exampleVi": "Nếu bạn chú ý nghe giảng thì về nhà bạn sẽ phải học ít hơn."
@@ -538,7 +538,7 @@
   {
    "de": "Hausaufgaben aufhaben",
    "pos": "phrase",
-   "ipa": "ˈhaʊ̯sʔaʊ̯fˌɡaːbn̩ ˈʔaʊ̯fˌhaːbn̩",
+   "ipa": "ˈhaʊ̯sʔaʊ̯fˌɡaːbn̩ ˈaʊ̯fˌhaːbn̩",
    "vi": "có bài tập về nhà cần làm",
    "example": "Wie viele Seiten Mathe habt ihr heute als Hausaufgabe auf?",
    "exampleVi": "Hôm nay các bạn được giao bao nhiêu trang bài tập toán về nhà?"
@@ -546,7 +546,7 @@
   {
    "de": "den Stundenplan ansehen",
    "pos": "phrase",
-   "ipa": "deːn ˈʃtʊndn̩ˌplaːn ˈʔanˌzeːən",
+   "ipa": "deːn ˈʃtʊndn̩ˌplaːn ˈanˌzeːən",
    "vi": "xem thời khóa biểu",
    "example": "Schau mal auf den Stundenplan, welches Fach wir als Nächstes haben.",
    "exampleVi": "Nhìn vào thời khóa biểu xem tiết tiếp theo chúng ta học môn gì."
@@ -554,7 +554,7 @@
   {
    "de": "eine Lehrstelle finden",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈleːɐ̯ˌʃtɛlə ˈfɪndn̩",
+   "ipa": "ˈaɪ̯nə ˈleːɐ̯ˌʃtɛlə ˈfɪndn̩",
    "vi": "tìm được chỗ học nghề",
    "example": "Er freut sich riesig, eine begehrte Lehrstelle gefunden zu haben.",
    "exampleVi": "Cậu ấy mừng khôn xiết vì đã tìm được chỗ học nghề mong ước."
@@ -570,7 +570,7 @@
   {
    "de": "an der Universität studieren",
    "pos": "phrase",
-   "ipa": "ʔan deːɐ̯ univɛʁziˈtɛːt ʃtuˈdiːʁən",
+   "ipa": "an deːɐ̯ univɛʁziˈtɛːt ʃtuˈdiːʁən",
    "vi": "học tại trường đại học",
    "example": "Mein ältester Bruder studiert Wirtschaft an der Universität zu Köln.",
    "exampleVi": "Anh cả tôi học ngành kinh tế tại Đại học Köln."
@@ -578,7 +578,7 @@
   {
    "de": "sich auf die Prüfung vorbereiten",
    "pos": "phrase",
-   "ipa": "zɪç ʔaʊ̯f diː ˈpʁyːfʊŋ ˈfoːɐ̯bəˌʁaɪ̯tn̩",
+   "ipa": "zɪç aʊ̯f diː ˈpʁyːfʊŋ ˈfoːɐ̯bəˌʁaɪ̯tn̩",
    "vi": "chuẩn bị ôn thi",
    "example": "In den Ferien bereite ich mich intensiv auf die Sprachprüfung vor.",
    "exampleVi": "Trong kỳ nghỉ tôi chuẩn bị ôn luyện kỹ cho kỳ thi ngôn ngữ."
@@ -594,7 +594,7 @@
   {
    "de": "das Abitur machen",
    "pos": "phrase",
-   "ipa": "das ʔabiˈtuːɐ̯ ˈmaxn̩",
+   "ipa": "das abiˈtuːɐ̯ ˈmaxn̩",
    "vi": "thi tốt nghiệp phổ thông trung học Abitur",
    "example": "Nach zwölf Schuljahren kann man in Deutschland das Abitur machen.",
    "exampleVi": "Sau 12 năm học người ta có thể thi tốt nghiệp Abitur ở Đức."
@@ -602,7 +602,7 @@
   {
    "de": "an einer Vorlesung teilnehmen",
    "pos": "phrase",
-   "ipa": "ʔan ˈʔaɪ̯nɐ ˈfoːɐ̯ˌleːzʊŋ ˈtaɪ̯lˌneːmən",
+   "ipa": "an ˈaɪ̯nɐ ˈfoːɐ̯ˌleːzʊŋ ˈtaɪ̯lˌneːmən",
    "vi": "tham dự một buổi giảng bài ở đại học",
    "example": "Hundert Studierende nahmen heute an der Vorlesung teil.",
    "exampleVi": "Một trăm sinh viên đã tham dự buổi thuyết giảng hôm nay."
@@ -610,7 +610,7 @@
   {
    "de": "ein Praktikum absolvieren",
    "pos": "phrase",
-   "ipa": "ʔaɪ̯n ˈpʁaktikʊm ʔapzɔlˈviːʁən",
+   "ipa": "aɪ̯n ˈpʁaktikʊm apzɔlˈviːʁən",
    "vi": "hoàn thành kỳ thực tập",
    "example": "Vor dem Masterstudium muss er noch ein Pflichtpraktikum absolvieren.",
    "exampleVi": "Trước khi học thạc sĩ anh ấy còn phải hoàn thành một kỳ thực tập bắt buộc."
@@ -618,7 +618,7 @@
   {
    "de": "eine Fremdsprache beherrschen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə ˈfʁɛmtˌʃpʁaːxə bəˈhɛʁʃn̩",
+   "ipa": "ˈaɪ̯nə ˈfʁɛmtˌʃpʁaːxə bəˈhɛʁʃn̩",
    "vi": "thành thạo một ngoại ngữ",
    "example": "Er beherrscht neben Deutsch auch fließend Englisch und Vietnamesisch.",
    "exampleVi": "Bên cạnh tiếng Đức anh ấy còn thành thạo tiếng Anh và tiếng Việt lưu loát."
@@ -626,7 +626,7 @@
   {
    "de": "die Schulpflicht erfüllen",
    "pos": "phrase",
-   "ipa": "diː ˈʃuːlˌp͡flɪçt ɛɐ̯ˈfʏlən",
+   "ipa": "diː ˈʃuːlˌpflɪçt ɛɐ̯ˈfʏlən",
    "vi": "hoàn thành nghĩa vụ phổ cập giáo dục",
    "example": "Alle Eltern müssen dafür sorgen, dass ihre Kinder die Schulpflicht erfüllen.",
    "exampleVi": "Mọi phụ huynh phải đảm bảo con em mình hoàn thành nghĩa vụ đến trường."
@@ -636,7 +636,7 @@
    "article": "der",
    "plural": "–",
    "pos": "noun",
-   "ipa": "ɛɐ̯ˈfɔlk ʔɪn deːɐ̯ ˈʔaʊ̯sˌbɪldʊŋ",
+   "ipa": "ɛɐ̯ˈfɔlk ɪn deːɐ̯ ˈaʊ̯sˌbɪldʊŋ",
    "vi": "sự thành công trong học nghề",
    "example": "Ich wünsche dir viel Freude und großen Erfolg in deiner Ausbildung!",
    "exampleVi": "Chúc bạn nhiều niềm vui và thành công rực rỡ trong khóa học nghề!"
@@ -644,7 +644,7 @@
   {
    "de": "eine duale Ausbildung machen",
    "pos": "phrase",
-   "ipa": "ˈʔaɪ̯nə duˈaːlə ˈʔaʊ̯sˌbɪldʊŋ ˌmaxn̩",
+   "ipa": "ˈaɪ̯nə duˈaːlə ˈaʊ̯sˌbɪldʊŋ ˌmaxn̩",
    "vi": "học nghề theo mô hình kép",
    "example": "Viele junge Leute aus Vietnam machen in Deutschland eine duale Ausbildung.",
    "exampleVi": "Nhiều bạn trẻ từ Việt Nam sang Đức học nghề theo mô hình kép."
@@ -672,7 +672,7 @@
    "article": "der",
    "plural": "Ausbildungsverträge",
    "pos": "noun",
-   "ipa": "ˈʔaʊ̯sbɪldʊŋsfɛɐ̯ˌtʁaːk",
+   "ipa": "ˈaʊ̯sbɪldʊŋsfɛɐ̯ˌtʁaːk",
    "vi": "hợp đồng đào tạo nghề",
    "example": "Der Ausbildungsvertrag regelt Arbeitszeit, Urlaub und Vergütung.",
    "exampleVi": "Hợp đồng đào tạo nghề quy định thời gian làm việc, ngày nghỉ và thù lao."
