@@ -2485,7 +2485,7 @@
     {
      "de": "Arbeitsklima",
      "article": "das",
-     "plural": "Arbeitsklimata",
+     "plural": "Arbeitsklimas",
      "pos": "noun",
      "ipa": "ˈaʁbaɪ̯tsˌkliːma",
      "vi": "bầu không khí làm việc (số nhiều cũng dùng Arbeitsklimas)",

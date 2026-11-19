@@ -28,7 +28,7 @@ for (const u of [...published(), ...refs.flatMap(units)]) for (const l of u.less
 
 // Hậu tố gần như không có ngoại lệ
 const RULES = [
-  [/(ung|heit|keit|schaft|ion|tät|ik|enz|anz|ei|ie|(?<!e)ur)$/, 'die', ['Plastik', 'Abitur', 'Papagei', 'Brei', 'Ei', 'Genie', 'Knie', 'Abenteuer', 'Kurier', 'Blei', 'Geschrei', 'Polizei', 'Partei', 'Sprung', 'Schwung', 'Ursprung', 'Aufschwung', 'Ring', 'Ding', 'Vorsprung', 'Hering', 'Pfennig', 'Lehrling', 'Ruhm', 'Purpur', 'Flur', 'Schwur', 'Mut', 'Spion', 'Skorpion', 'Champion', 'Lion', 'Stadion', 'Ion', 'Million', 'Gymnasium', 'Plebiszit', 'Atelier', 'Studium', 'Zentrum', 'Museum', 'Ministerium', 'Datum', 'Labor', 'Motor', 'Doktor', 'Professor', 'Autor', 'Moderator', 'Kurier']],
+  [/(ung|heit|keit|schaft|ion|tät|ik|enz|anz|ei|ie|(?<!e)ur)$/, 'die', ['Streik', 'Plastik', 'Abitur', 'Papagei', 'Brei', 'Ei', 'Genie', 'Knie', 'Abenteuer', 'Kurier', 'Blei', 'Geschrei', 'Polizei', 'Partei', 'Sprung', 'Schwung', 'Ursprung', 'Aufschwung', 'Ring', 'Ding', 'Vorsprung', 'Hering', 'Pfennig', 'Lehrling', 'Ruhm', 'Purpur', 'Flur', 'Schwur', 'Mut', 'Spion', 'Skorpion', 'Champion', 'Lion', 'Stadion', 'Ion', 'Million', 'Gymnasium', 'Plebiszit', 'Atelier', 'Studium', 'Zentrum', 'Museum', 'Ministerium', 'Datum', 'Labor', 'Motor', 'Doktor', 'Professor', 'Autor', 'Moderator', 'Kurier']],
   [/(chen|lein)$/, 'das', ['Kuchen', 'Rachen', 'Drachen', 'Knochen', 'Rochen', 'Zeichen']],
   [/(ling|ismus|ant|ist)$/, 'der', ['Recycling', 'Gift', 'List', 'Frist', 'Restaurant', 'Ambiente', 'Mist']],
   [/(um|ment)$/, 'das', ['Konsum', 'Irrtum', 'Reichtum', 'Baum', 'Raum', 'Traum', 'Schaum', 'Zement', 'Moment', 'Konsument', 'Turm', 'Sturm', 'Wurm', 'Rum', 'Saum', 'Zaum', 'Flaum', 'Brauchtum', 'Wachstum', 'Heiligtum']],
