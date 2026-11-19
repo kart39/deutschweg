@@ -24,7 +24,9 @@ const deText = s => {
 };
 // ʔ chỉ ghi bên trong từ (beachten = bəˈʔaxtn̩); ở đầu từ thì bỏ (kể cả sau dấu trọng âm ˈ/ˌ)
 const ipa = s => typeof s === 'string' ? s.replace(/t͡s/g, 'ts').replace(/t͡ʃ/g, 'tʃ').replace(/p͡f/g, 'pf').replace(/d͡ʒ/g, 'dʒ').replace(/g/g, 'ɡ')
-  .replace(/(^|\s)([ˈˌ]?)ʔ/g, '$1$2') : s;
+  .replace(/(^|\s)([ˈˌ]?)ʔ/g, '$1$2')
+  // -gen/-ken: Duden ghi âm tiết n̩ (ˈvoːɡn̩), không ghi dạng đồng hoá khẩu ngữ ŋ̩
+  .replace(/([ɡk])ŋ̩/g, '$1n̩') : s;
 const theory = s => typeof s === 'string' ? s
   .replace(/\s*\[([^\]]+)\]\((https?:[^)]+)\)/g, '')           // bỏ đường link nguồn (ứng dụng không hiển thị link)
   .replace(/\{\{(.+?)\}\}/g, (_, t) => '{{' + deText(t) + '}}')

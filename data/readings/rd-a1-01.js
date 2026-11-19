@@ -61,7 +61,7 @@
   {
    "de": "Bescheid sagen",
    "pos": "phrase",
-   "ipa": "bəˈʃaɪ̯t ˈzaːɡŋ̩",
+   "ipa": "bəˈʃaɪ̯t ˈzaːɡn̩",
    "vi": "báo tin, thông báo",
    "example": "Sag mir morgen bitte Bescheid.",
    "exampleVi": "Ngày mai hãy báo tin cho tôi nhé."

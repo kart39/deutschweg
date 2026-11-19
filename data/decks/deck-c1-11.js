@@ -184,7 +184,7 @@
    "de": "rumkriegen",
    "pos": "verb",
    "forms": "kriegt rum, kriegte rum, hat rumgekriegt",
-   "ipa": "ˈʁʊmˌkʁiːɡŋ̩",
+   "ipa": "ˈʁʊmˌkʁiːɡn̩",
    "vi": "dỗ ngon dỗ ngọt, xiêu lòng ai (khẩu ngữ)",
    "example": "Sie hat ihren Chef rumgekriegt, ihr frei zu geben.",
    "exampleVi": "Cô ấy đã dỗ ngon dỗ ngọt được sếp cho nghỉ phép."
@@ -202,7 +202,7 @@
    "de": "überzeugen",
    "pos": "verb",
    "forms": "überzeugt, überzeugte, hat überzeugt",
-   "ipa": "yːbɐˈtsɔʏ̯ɡŋ̩",
+   "ipa": "yːbɐˈtsɔʏ̯ɡn̩",
    "vi": "thuyết phục bằng lý lẽ vững vàng (trung tính)",
    "example": "Ihre schlüssige Argumentation überzeugte das gesamte Gremium.",
    "exampleVi": "Lập luận xác đáng của cô ấy đã thuyết phục được toàn bộ hội đồng."
@@ -210,7 +210,7 @@
   {
    "de": "bewegen zu",
    "pos": "phrase",
-   "ipa": "bəˈveːɡŋ̩ tsuː",
+   "ipa": "bəˈveːɡn̩ tsuː",
    "vi": "thôi thúc, dẫn dắt ai đi tới quyết định (trang trọng)",
    "example": "Welche edlen Motive bewogen den Mäzen zu dieser großzügigen Stiftung?",
    "exampleVi": "Động lực cao đẹp nào đã thôi thúc nhà bảo trợ trao tặng khoản tài trợ hào phóng này?"
@@ -283,7 +283,7 @@
    "de": "kündigen",
    "pos": "verb",
    "forms": "kündigt, kündigte, hat gekündigt",
-   "ipa": "ˈkʏndɪɡŋ̩",
+   "ipa": "ˈkʏndɪɡn̩",
    "vi": "sa thải, thôi việc, hủy hợp đồng (trung tính)",
    "example": "Der Arbeitgeber kündigte dem Angestellten fristgerecht zum Monatsende.",
    "exampleVi": "Người sử dụng lao động đã sa thải nhân viên đúng thời hạn vào cuối tháng."
@@ -500,7 +500,7 @@
   {
    "de": "sich unermüdlich betätigen",
    "pos": "phrase",
-   "ipa": "zɪç ˈʊnʔɛɐ̯ˌmyːtlɪç bəˈtɛːtɪɡŋ̩",
+   "ipa": "zɪç ˈʊnʔɛɐ̯ˌmyːtlɪç bəˈtɛːtɪɡn̩",
    "vi": "hoạt động không mệt mỏi, miệt mài cống hiến (trang trọng)",
    "example": "Die Ehrenamtlichen betätigen sich unermüdlich für den Naturschutz.",
    "exampleVi": "Những người tình nguyện viên miệt mài cống hiến không mệt mỏi cho công tác bảo tồn thiên nhiên."

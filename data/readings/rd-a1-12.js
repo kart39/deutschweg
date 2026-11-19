@@ -92,7 +92,7 @@
    "de": "untersagen",
    "pos": "verb",
    "forms": "untersagt, untersagte, hat untersagt",
-   "ipa": "ʊntɐˈzaːɡŋ̩",
+   "ipa": "ʊntɐˈzaːɡn̩",
    "vi": "cấm đoán",
    "example": "Rauchen ist hier streng untersagt.",
    "exampleVi": "Hút thuốc bị nghiêm cấm tại đây."

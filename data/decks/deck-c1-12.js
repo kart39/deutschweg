@@ -129,7 +129,7 @@
   {
    "de": "wohingegen",
    "pos": "conj",
-   "ipa": "voːhɪnˈɡeːɡŋ̩",
+   "ipa": "voːhɪnˈɡeːɡn̩",
    "vi": "trái lại, trong khi ngược lại",
    "example": "Einige Länder bauten Schulden ab, wohingegen andere neue Kredite aufnahmen.",
    "exampleVi": "Một số quốc gia đã giảm nợ công, trái lại các quốc gia khác lại vay thêm những khoản tín dụng mới."
@@ -137,7 +137,7 @@
   {
    "de": "dahingegen",
    "pos": "adv",
-   "ipa": "daːhɪnˈɡeːɡŋ̩",
+   "ipa": "daːhɪnˈɡeːɡn̩",
    "vi": "ngược lại, trái lại về phần đó",
    "example": "Die Jugend bevorzugt Streaming; ältere Generationen dahingegen schauen traditionelles Fernsehen.",
    "exampleVi": "Giới trẻ ưa chuộng phát trực tuyến; các thế hệ cao tuổi ngược lại thì xem truyền hình truyền thống."
@@ -417,7 +417,7 @@
   {
    "de": "hingegen",
    "pos": "adv",
-   "ipa": "hɪnˈɡeːɡŋ̩",
+   "ipa": "hɪnˈɡeːɡn̩",
    "vi": "ngược lại, trái lại",
    "example": "Die Industrieproduktion brach ein; die Dienstleistungen hingegen expandierten.",
    "exampleVi": "Sản xuất công nghiệp sụt giảm; các ngành dịch vụ ngược lại tiếp tục mở rộng."

@@ -81,7 +81,7 @@
   {
    "de": "zum Erliegen kommen",
    "pos": "phrase",
-   "ipa": "tsʊm ɛɐ̯ˈliːɡŋ̩ ˈkɔmən",
+   "ipa": "tsʊm ɛɐ̯ˈliːɡn̩ ˈkɔmən",
    "vi": "bị đình trệ hoàn toàn, tê liệt",
    "example": "Infolge des Generalstreiks kam der Bahnverkehr völlig zum Erliegen.",
    "exampleVi": "Do cuộc tổng đình công, giao thông đường sắt đã tê liệt hoàn toàn."
@@ -265,7 +265,7 @@
   {
    "de": "Aufsehen erregen",
    "pos": "phrase",
-   "ipa": "ˈaʊ̯fzeːən ɛɐ̯ˈʁeːɡŋ̩",
+   "ipa": "ˈaʊ̯fzeːən ɛɐ̯ˈʁeːɡn̩",
    "vi": "gây xôn xao, thu hút sự chú ý lớn",
    "example": "Die unerwartete Entdeckung erregte weltweit großes Aufsehen.",
    "exampleVi": "Phát hiện bất ngờ đã gây xôn xao lớn trên toàn thế giới."
@@ -345,7 +345,7 @@
   {
    "de": "Rechenschaft ablegen",
    "pos": "phrase",
-   "ipa": "ˈʁɛçn̩ʃaft ˈapleːɡŋ̩",
+   "ipa": "ˈʁɛçn̩ʃaft ˈapleːɡn̩",
    "vi": "giải trình, báo cáo trách nhiệm",
    "example": "Der Vorstand muss vor der Hauptversammlung lückenlos Rechenschaft ablegen.",
    "exampleVi": "Ban điều hành phải giải trình đầy đủ trước đại hội cổ đông."
@@ -369,7 +369,7 @@
   {
    "de": "Widerstand leisten gegen",
    "pos": "phrase",
-   "ipa": "ˈviːdɐʃtant ˈlaɪ̯stn̩ ˈɡeːɡŋ̩",
+   "ipa": "ˈviːdɐʃtant ˈlaɪ̯stn̩ ˈɡeːɡn̩",
    "vi": "kháng cự, chống cự lại",
    "example": "Die Anwohner leisteten erbitterten Widerstand gegen den Autobahnbau.",
    "exampleVi": "Các cư dân địa phương đã kháng cự quyết liệt chống lại việc xây dựng đường cao tốc."
@@ -409,7 +409,7 @@
   {
    "de": "zu Grunde liegen",
    "pos": "phrase",
-   "ipa": "tsuː ˈɡʁʊndə ˈliːɡŋ̩",
+   "ipa": "tsuː ˈɡʁʊndə ˈliːɡn̩",
    "vi": "làm nền tảng cho, là căn nguyên của",
    "example": "Dem Phänomen liegen komplexe physikalische Prozesse zu Grunde.",
    "exampleVi": "Nằm sau hiện tượng này là các quá trình vật lý phức tạp làm nền tảng."
@@ -417,7 +417,7 @@
   {
    "de": "die Konsequenzen tragen",
    "pos": "phrase",
-   "ipa": "diː kɔnzeˈkvɛntsn̩ ˈtʁaːɡŋ̩",
+   "ipa": "diː kɔnzeˈkvɛntsn̩ ˈtʁaːɡn̩",
    "vi": "gánh chịu hậu quả",
    "example": "Wer gegen vertragliche Pflichten verstößt, muss die Konsequenzen tragen.",
    "exampleVi": "Ai vi phạm các nghĩa vụ hợp đồng thì phải gánh chịu hậu quả."
