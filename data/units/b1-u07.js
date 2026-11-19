@@ -405,46 +405,46 @@
       "q": "Warum möchte Faruk das Gerät wechseln?",
       "options": [
        "Der Akku reicht oft nicht bis zum Abend.",
-       "Das alte Gerät hat keinen Kalender.",
-       "Er braucht zwei zusätzliche Kameras."
+       "Er braucht zwei zusätzliche Kameras.",
+       "Das alte Gerät hat keinen Kalender."
       ],
       "answer": 0
      },
      {
       "q": "Was hat für Faruk beim Kauf Vorrang?",
       "options": [
-       "Ein möglichst großes Gehäuse.",
        "Gut lesbare Schrift und Platz für Fotos.",
-       "Die größte Kamera im Laden."
+       "Die größte Kamera im Laden.",
+       "Ein möglichst großes Gehäuse."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welche Daten möchte er nur teilweise übertragen?",
       "options": [
-       "Die Kontakte.",
        "Die Kalendereinträge.",
-       "Die alten Videos."
+       "Die alten Videos.",
+       "Die Kontakte."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Wann will Faruk die Sprachsteuerung testen?",
       "options": [
+       "Noch vor dem Übertragen der Kontakte.",
        "Wenn er sich auf dem Startbildschirm zurechtfindet.",
-       "Vor dem Gerätewechsel im Laden.",
-       "Noch vor dem Übertragen der Kontakte."
+       "Vor dem Gerätewechsel im Laden."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was wird Faruk auf die Rückseite der Karte schreiben?",
       "options": [
        "Die Modellnummer.",
-       "Seine Fragen.",
-       "Seine wichtigsten Kontakte."
+       "Seine wichtigsten Kontakte.",
+       "Seine Fragen."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -459,48 +459,48 @@
      "type": "mcq",
      "q": "Chọn câu Futur I đúng cho ‘Ngày mai tôi sẽ chuyển danh bạ’.",
      "options": [
-      "Ich werde morgen die Kontakte zu übertragen.",
       "Ich werde morgen die Kontakte übertragen.",
       "Ich morgen werde übertragen die Kontakte.",
-      "Ich wird morgen die Kontakte übertragen."
+      "Ich wird morgen die Kontakte übertragen.",
+      "Ich werde morgen die Kontakte zu übertragen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{ich werde}} đi với nguyên mẫu trực tiếp {{übertragen}}."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng trợ động từ: {{Ihr ___ das Gerät am Samstag einrichten.}}",
      "options": [
-      "wird",
       "werden",
-      "wirst",
-      "werdet"
+      "wird",
+      "werdet",
+      "wirst"
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "Chủ ngữ {{ihr}} đi với {{werdet}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có trật tự đúng trong mệnh đề với {{dass}}.",
      "options": [
-      "Derya sagt, dass sie die Schriftgröße anpassen wird.",
+      "Derya sagt, dass sie die Schriftgröße wird anpasst.",
       "Derya sagt, dass sie wird die Schriftgröße anpassen.",
       "Derya sagt, dass wird sie die Schriftgröße anpassen.",
-      "Derya sagt, dass sie die Schriftgröße wird anpasst."
+      "Derya sagt, dass sie die Schriftgröße anpassen wird."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Trong câu này, {{anpassen wird}} đứng ở cuối mệnh đề phụ."
     },
     {
      "type": "mcq",
      "q": "Câu nào nhấn mạnh lời hứa trực tiếp bằng Futur I?",
      "options": [
-      "Das Handy ist gestern angekommen.",
       "Das Gerät wird gerade eingerichtet.",
-      "Ich werde dir morgen bei der Einrichtung helfen.",
-      "Du hast die Schrift schon geändert."
+      "Das Handy ist gestern angekommen.",
+      "Du hast die Schrift schon geändert.",
+      "Ich werde dir morgen bei der Einrichtung helfen."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{werde … helfen}} là Futur I. Người nói cam kết sẽ giúp."
     },
     {
@@ -508,8 +508,8 @@
      "q": "Từ nào chỉ thời gian thiết bị hoạt động bằng pin?",
      "options": [
       "die Bildschirmhelligkeit",
-      "der Speicherplatz",
       "der Ladestand",
+      "der Speicherplatz",
       "die Akkulaufzeit"
      ],
      "answer": 3,
@@ -1109,20 +1109,20 @@
      {
       "q": "Warum lässt Jana eine Kurzfassung erstellen?",
       "options": [
-       "Sie kennt den Ort nicht.",
+       "Die Bibliothek hat ihr keinen Text geschickt.",
        "Der Platz auf der Startseite ist begrenzt.",
-       "Die Bibliothek hat ihr keinen Text geschickt."
+       "Sie kennt den Ort nicht."
       ],
       "answer": 1
      },
      {
       "q": "Wie ist Nikos Aussage über 17 Uhr zunächst einzuordnen?",
       "options": [
+       "Als Vermutung ohne Beleg.",
        "Als bestätigte Auskunft der Bibliothek.",
-       "Als Information aus einem veröffentlichten Artikel.",
-       "Als Vermutung ohne Beleg."
+       "Als Information aus einem veröffentlichten Artikel."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Welche Information fehlt in der Kurzfassung?",
@@ -1145,11 +1145,11 @@
      {
       "q": "Welche Arbeit will das Team weiterhin selbst durchführen?",
       "options": [
-       "Die erste Gliederung entwerfen.",
+       "Wichtige Angaben und Bedingungen prüfen.",
        "Sätze grundsätzlich kürzen.",
-       "Wichtige Angaben und Bedingungen prüfen."
+       "Die erste Gliederung entwerfen."
       ],
-      "answer": 2
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1166,8 +1166,8 @@
      "options": [
       "Wir werden den Text morgen prüfen.",
       "Die Meldung wird wohl unvollständig sein.",
-      "Die Redaktion hat die Meldung gestern veröffentlicht.",
-      "Die Bibliothek öffnet morgen um neun."
+      "Die Bibliothek öffnet morgen um neun.",
+      "Die Redaktion hat die Meldung gestern veröffentlicht."
      ],
      "answer": 1,
      "explain": "{{wird wohl unvollständig sein}} thể hiện phỏng đoán, không cần chỉ tương lai."
@@ -1176,48 +1176,48 @@
      "type": "mcq",
      "q": "Chọn câu diễn tả ‘Ban biên tập có lẽ sẽ sửa tiêu đề ngày mai’.",
      "options": [
+      "Die Redaktion wird die Schlagzeile wohl morgen ändern.",
       "Die Redaktion wird morgen wohl die Schlagzeile zu ändern.",
       "Die Redaktion wohl morgen wird die Schlagzeile ändern.",
-      "Die Redaktion hat die Schlagzeile morgen wohl geändert.",
-      "Die Redaktion wird die Schlagzeile wohl morgen ändern."
+      "Die Redaktion hat die Schlagzeile morgen wohl geändert."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Dùng {{wird}} ở vị trí 2, {{wohl}} ở giữa, {{ändern}} cuối câu."
     },
     {
      "type": "mcq",
      "q": "Cụm nào nêu rõ nguồn của mốc giờ?",
      "options": [
+      "Vielleicht beginnt das Treffen um 18 Uhr.",
       "Laut Mitteilung der Bibliothek beginnt es um 18 Uhr.",
       "Das Treffen wird wohl um 18 Uhr beginnen.",
-      "Ich vermute, dass es um 18 Uhr beginnt.",
-      "Vielleicht beginnt das Treffen um 18 Uhr."
+      "Ich vermute, dass es um 18 Uhr beginnt."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{laut Mitteilung der Bibliothek}} nói rõ thông tin lấy từ thông báo của thư viện."
     },
     {
      "type": "mcq",
      "q": "Chọn câu giữ nghĩa gần nhất với {{Die Meldung wird wohl zu kurz sein.}}.",
      "options": [
-      "Die Meldung war eindeutig zu kurz.",
-      "Die Meldung muss morgen gekürzt werden.",
       "Die Meldung ist wahrscheinlich zu kurz.",
-      "Die Meldung ist laut Quelle vollständig."
+      "Die Meldung ist laut Quelle vollständig.",
+      "Die Meldung muss morgen gekürzt werden.",
+      "Die Meldung war eindeutig zu kurz."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{wahrscheinlich}} ở đây diễn đạt phỏng đoán tương đương {{wohl}}."
     },
     {
      "type": "mcq",
      "q": "Danh từ nào chỉ thông tin ghi nguồn?",
      "options": [
-      "die Berichtigung",
       "die Quellenangabe",
-      "das Veröffentlichungsdatum",
-      "die Vermutung"
+      "die Vermutung",
+      "die Berichtigung",
+      "das Veröffentlichungsdatum"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{Quellenangabe}} cho biết nguồn đã dùng."
     },
     {
@@ -1225,8 +1225,8 @@
      "q": "Điều nào là căn cứ có thể xem lại trực tiếp trong ngữ cảnh bài?",
      "options": [
       "Eine Vermutung aus dem Gespräch.",
-      "Ein Eindruck beim ersten Lesen.",
       "Eine plausible Erklärung ohne Beleg.",
+      "Ein Eindruck beim ersten Lesen.",
       "Die schriftliche Mitteilung der Bibliothek."
      ],
      "answer": 3,
@@ -1817,29 +1817,29 @@
      {
       "q": "Weshalb findet Lea die erste Nachricht verdächtig?",
       "options": [
-       "Sie hat die App gerade gelöscht.",
        "Sie kennt die Absenderadresse nicht und erwartet keine Anmeldung.",
+       "Sie hat die App gerade gelöscht.",
        "Ihr Laptop fehlt in der Geräteübersicht."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Wie prüft Lea zuerst, ob es eine Sicherheitsmeldung gibt?",
       "options": [
-       "Sie antwortet auf die Nachricht.",
+       "Sie öffnet die App auf dem üblichen Weg.",
        "Sie fragt jemanden aus dem Lesekreis.",
-       "Sie öffnet die App auf dem üblichen Weg."
+       "Sie antwortet auf die Nachricht."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Was sieht Lea in der Geräteübersicht?",
       "options": [
-       "Nur ihre beiden bekannten Geräte.",
        "Ein neues Tablet.",
-       "Eine Warnung über einen unbekannten Laptop."
+       "Eine Warnung über einen unbekannten Laptop.",
+       "Nur ihre beiden bekannten Geräte."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was bestätigt der Support?",
@@ -1853,11 +1853,11 @@
      {
       "q": "Was beschließt der Lesekreis?",
       "options": [
-       "Verdächtige Nachrichten nicht ungeprüft weiterzuleiten.",
+       "Alle Nachrichten von unbekannten Geräten zu öffnen.",
        "Künftig alle Sicherheitsmeldungen zu ignorieren.",
-       "Alle Nachrichten von unbekannten Geräten zu öffnen."
+       "Verdächtige Nachrichten nicht ungeprüft weiterzuleiten."
       ],
-      "answer": 0
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1872,45 +1872,45 @@
      "type": "mcq",
      "q": "Chọn dạng của {{Experte}} sau {{mit einem}}.",
      "options": [
+      "Experten",
       "Experte",
       "Expertes",
-      "Experten",
       "Expert"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{mit}} dùng Dativ. Với danh từ yếu, dùng {{einem Experten}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có dạng Akkusativ đúng của {{Abonnent}}.",
      "options": [
-      "Die Redaktion informiert einen Abonnenten.",
-      "Die Redaktion informiert einen Abonnent.",
       "Die Redaktion informiert einen Abonnents.",
-      "Die Redaktion informiert einem Abonnent."
+      "Die Redaktion informiert einen Abonnent.",
+      "Die Redaktion informiert einem Abonnent.",
+      "Die Redaktion informiert einen Abonnenten."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{informieren}} dùng Akkusativ cho người nhận thông tin. {{Abonnent}} thêm {{-en}}."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng Genitiv số ít đúng của {{Journalist}}.",
      "options": [
-      "des Journalist",
+      "des Journalisten",
       "des Journalistens",
       "des Journalists",
-      "des Journalisten"
+      "des Journalist"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{Journalist}} thuộc nhóm yếu. Genitiv số ít là {{des Journalisten}}."
     },
     {
      "type": "mcq",
      "q": "Danh từ nào trong các lựa chọn ở đây giữ nguyên thân ở Akkusativ số ít?",
      "options": [
-      "der Experte",
-      "der Kontoinhaber",
       "der Zeuge",
+      "der Kontoinhaber",
+      "der Experte",
       "der Adressat"
      ],
      "answer": 1,
@@ -1920,12 +1920,12 @@
      "type": "mcq",
      "q": "Chọn cách phản ứng của Lea trong bài khi thấy một yêu cầu bất ngờ.",
      "options": [
-      "Cô gửi mã dùng một lần cho người lạ.",
-      "Co chuyen tin nhan ngay cho ca nhóm.",
       "Cô mở trực tiếp ứng dụng quen dùng để kiểm tra.",
-      "Cô xác nhận yêu cầu chưa rõ nguồn."
+      "Cô xác nhận yêu cầu chưa rõ nguồn.",
+      "Cô gửi mã dùng một lần cho người lạ.",
+      "Co chuyen tin nhan ngay cho ca nhóm."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Lea kiểm tra qua ứng dụng, rồi dùng kênh hỗ trợ đã biết."
     },
     {
@@ -1933,9 +1933,9 @@
      "q": "Câu nào diễn đạt phỏng đoán và dùng đúng dạng của {{Experte}}?",
      "options": [
       "Der Experte wird wohl schon von der Meldung wissen.",
-      "Der Experten wird wohl schon von der Meldung wissen.",
       "Der Experte wohl wird schon von der Meldung zu wissen.",
-      "Der Experte hat gestern sicher von der Meldung erfahren."
+      "Der Experte hat gestern sicher von der Meldung erfahren.",
+      "Der Experten wird wohl schon von der Meldung wissen."
      ],
      "answer": 0,
      "explain": "{{der Experte}} là chủ ngữ số ít. {{wird wohl … wissen}} diễn đạt suy đoán."
@@ -2587,29 +2587,29 @@
      {
       "q": "Wie verändern moderne Sprachmodelle und KI laut dem Text die Arbeit in Redaktionen?",
       "options": [
-       "Sie verbieten Journalisten das Schreiben von Berichten.",
+       "Sie führen zur sofortigen Schließung aller Zeitungen.",
        "Sie erstellen in Sekundenschnelle Textentwürfe, Zusammenfassungen und Übersetzungen.",
-       "Sie führen zur sofortigen Schließung aller Zeitungen."
+       "Sie verbieten Journalisten das Schreiben von Berichten."
       ],
       "answer": 1
      },
      {
       "q": "Welche Gefahr geht von frei zugänglichen Deepfake-Programmen aus?",
       "options": [
-       "Dass Computerakkus schneller entladen werden.",
        "Dass Fotos, Stimmen und Videos täuschend echt manipuliert und gefälscht werden können.",
-       "Dass Bildschirme automatisch schwarz werden."
+       "Dass Bildschirme automatisch schwarz werden.",
+       "Dass Computerakkus schneller entladen werden."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Warum ist digitale Medienkompetenz heute eine Schlüsselqualifikation?",
       "options": [
-       "Damit man Fake News und Manipulationen im Internet kritisch erkennen und hinterfragen kann.",
+       "Damit man keine Tastatur mehr benutzen muss.",
        "Damit man möglichst viele Computerspiele gewinnt.",
-       "Damit man keine Tastatur mehr benutzen muss."
+       "Damit man Fake News und Manipulationen im Internet kritisch erkennen und hinterfragen kann."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was sollte man tun, bevor man brisante Nachrichten im Netz weiterleitet?",
@@ -2624,10 +2624,10 @@
       "q": "Was bleibt laut dem Autor die wirksamste Verteidigung gegen digitale Desinformation?",
       "options": [
        "Das vollständige Verbot aller elektronischen Geräte.",
-       "Der kritische und wachsame menschliche Verstand.",
-       "Ausschließlich automatisierte Werbespots."
+       "Ausschließlich automatisierte Werbespots.",
+       "Der kritische und wachsame menschliche Verstand."
       ],
-      "answer": 1
+      "answer": 2
      }
     ]
    },
@@ -2641,118 +2641,118 @@
      "type": "mcq",
      "q": "Welche Form von „werden“ gehört zu „du“ im Futur I?",
      "options": [
-      "wirst",
-      "wird",
       "werdet",
+      "wird",
+      "wirst",
       "wurdest"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Động từ 'werden' chia ở ngôi 'du' là 'wirst': 'Du wirst das Backup erstellen'."
     },
     {
      "type": "mcq",
      "q": "Wie lautet die korrekte Akkusativform für „der Kollege“ (n-Deklination)?",
      "options": [
-      "den Kollege",
       "den Kollegen",
       "dem Kollegen",
+      "den Kollege",
       "des Kollegen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'der Kollege' thuộc biến cách n. Ở tân ngữ Akkusativ, danh từ thêm '-n': 'den Kollegen'."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Der Chef sprach gestern lange mit dem neuen ___ .",
      "options": [
-      "Praktikant",
-      "Praktikanten",
+      "Praktikants",
       "Praktikantem",
-      "Praktikants"
+      "Praktikanten",
+      "Praktikant"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'der Praktikant' thuộc n-Deklination. Sau giới từ 'mit (+ Dat)', danh từ nhận đuôi '-en': 'dem neuen Praktikanten'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz drückt eine Vermutung mit Futur I aus?",
      "options": [
-      "Er wird morgen bestimmt nach Berlin fahren.",
       "Er wird wohl noch im Büro arbeiten.",
       "Er wird das Formular gestern ausgefüllt haben.",
-      "Er wird vom Arzt untersucht."
+      "Er wird vom Arzt untersucht.",
+      "Er wird morgen bestimmt nach Berlin fahren."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Cấu trúc 'werden + wohl + Infinitiv' diễn tả một phỏng đoán ở hiện tại: 'Er wird wohl noch im Büro arbeiten' (Có lẽ anh ấy vẫn đang làm việc ở văn phòng)."
     },
     {
      "type": "mcq",
      "q": "Was ist die Genitivform von „der Kunde“?",
      "options": [
+      "den Kunden",
       "des Kundes",
       "des Kunden",
-      "dem Kunden",
-      "den Kunden"
+      "dem Kunden"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Danh từ n-Deklination nhận đuôi '-en' ở Genitiv: 'des Kunden' (không thêm -s)."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet das Substantiv „die Benutzeroberfläche“?",
      "options": [
+      "Die Rechnung eines Online-Kaufs",
       "Die Hülle des Smartphones",
-      "Die visuelle Schnittstelle zur Bedienung eines Computerprogramms",
       "Die Tastatur eines Laptops",
-      "Die Rechnung eines Online-Kaufs"
+      "Die visuelle Schnittstelle zur Bedienung eines Computerprogramms"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "'Die Benutzeroberfläche' là giao diện người dùng (UI) cho phép con người thao tác trực quan với phần mềm."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
      "options": [
-      "Wir werden nächste Woche das neue Betriebssystem installieren.",
+      "Wir werden nächste Woche das neue Betriebssystem zu installieren.",
       "Wir werden nächste Woche installieren das neue Betriebssystem.",
-      "Wir werden nächste Woche das neue Betriebssystem installiert.",
-      "Wir werden nächste Woche das neue Betriebssystem zu installieren."
+      "Wir werden nächste Woche das neue Betriebssystem installieren.",
+      "Wir werden nächste Woche das neue Betriebssystem installiert."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Trong câu chính thì Futur I, động từ nguyên mẫu 'installieren' phải đứng ở vị trí cuối cùng của câu."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Die Sicherheitswarnung wurde an Herrn Schmidt ___ .",
      "options": [
-      "weitergeleitet",
+      "gelöscht",
       "heruntergeladen",
-      "verschlüsselt",
-      "gelöscht"
+      "weitergeleitet",
+      "verschlüsselt"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'weiterleiten an + Akk' có nghĩa là chuyển tiếp thông tin tới ai đó."
     },
     {
      "type": "mcq",
      "q": "Welches Maskulinum gehört NICHT zur n-Deklination?",
      "options": [
-      "der Experte",
+      "der Assistent",
       "der Journalist",
-      "der Computer",
-      "der Assistent"
+      "der Experte",
+      "der Computer"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "'der Computer' biến cách mạnh thông thường (des Computers, den Computer), không thuộc n-Deklination."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die Redewendung „Zweifel hegen an etwas (+ Dat)“?",
      "options": [
-      "Etwas ohne Prüfung glauben",
-      "Misstrauisch sein und die Richtigkeit von etwas bezweifeln",
       "Eine E-Mail löschen",
-      "Ein Passwort vergessen"
+      "Misstrauisch sein und die Richtigkeit von etwas bezweifeln",
+      "Ein Passwort vergessen",
+      "Etwas ohne Prüfung glauben"
      ],
      "answer": 1,
      "explain": "'Zweifel hegen' mang nghĩa là nuôi dưỡng sự hoài nghi, nghi ngờ tính xác thực của điều gì."

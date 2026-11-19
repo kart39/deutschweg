@@ -417,18 +417,18 @@
       "q": "Was kritisiert Abschnitt 1 an alltäglichen Charakterzuschreibungen?",
       "options": [
        "Dass sie völlig ohne Sprache auskommen.",
-       "Dass sie die Komplexität menschlicher Persönlichkeit zu stark vereinfachen.",
+       "Dass sie immer negativ gemeint sind.",
        "Dass sie ausschließlich im Berufsleben vorkommen.",
-       "Dass sie immer negativ gemeint sind."
+       "Dass sie die Komplexität menschlicher Persönlichkeit zu stark vereinfachen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 1 nêu các nhãn mác nhanh chóng tuy giúp định hướng nhưng nhìn kỹ thì quá phiến diện (greifen viel zu kurz) so với bức tranh đa diện thực tế."
      },
      {
       "q": "Welches Verhältnis zwischen Genen und Umwelt beschreibt Abschnitt 2?",
       "options": [
-       "Die Persönlichkeit wird zu hundert Prozent genetisch festgelegt.",
        "Umwelt und Bildung spielen nach dem Kindesalter keine Rolle mehr.",
+       "Die Persönlichkeit wird zu hundert Prozent genetisch festgelegt.",
        "Etwa die Hälfte der Unterschiede ist genetisch bedingt, doch prägende Lebensereignisse können Muster nachhaltig verändern.",
        "Gene beeinflussen ausschließlich das äußere Erscheinungsbild."
       ],
@@ -438,31 +438,31 @@
      {
       "q": "Wie verändert sich die Persönlichkeit im Durchschnitt zwischen 20 und 40 Jahren laut Abschnitt 3?",
       "options": [
+       "Die Offenheit steigt unabhängig von jeder Lebenssituation automatisch an.",
        "Sie wird in der Regel impulsiver und unbeständiger.",
        "Menschen werden durchschnittlich verlässlicher, ausgeglichener und konfliktfähiger.",
-       "Die Offenheit steigt unabhängig von jeder Lebenssituation automatisch an.",
        "Es treten keinerlei Veränderungen mehr auf."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 3 mô tả hiện tượng Persönlichkeitsreifung: đáng tin cậy hơn, cân bằng cảm xúc hơn và xử lý xung đột tốt hơn."
      },
      {
       "q": "Was bedeutet „Stabilität“ laut der Persönlichkeitsforschung im Text?",
       "options": [
        "Absolute Unveränderlichkeit von der Geburt bis ins hohe Alter.",
-       "Eine dynamische Balance zwischen Kontinuität und Anpassungsfähigkeit.",
        "Die vollständige Vermeidung von Stress und Konflikten.",
+       "Eine dynamische Balance zwischen Kontinuität und Anpassungsfähigkeit.",
        "Das strenge Befolgen eines Online-Persönlichkeitstests."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Cuối đoạn 3 định nghĩa rõ ổn định không phải cứng nhắc mà là sự cân bằng động giữa tính liên tục và khả năng thích nghi."
      },
      {
       "q": "Warum warnen Fachleute in Abschnitt 4 vor populären Online-Typentests?",
       "options": [
-       "Weil sie zu viel Zeit in Anspruch nehmen.",
-       "Weil sie meist eine zweifelhafte wissenschaftliche Basis haben und durch starre Schubladen Entwicklung hemmen können.",
        "Weil sie ausschließlich für Introvertierte konzipiert wurden.",
+       "Weil sie meist eine zweifelhafte wissenschaftliche Basis haben und durch starre Schubladen Entwicklung hemmen können.",
+       "Weil sie zu viel Zeit in Anspruch nehmen.",
        "Weil sie gesetzlich verboten sind."
       ],
       "answer": 1,
@@ -473,10 +473,10 @@
       "options": [
        "Man sollte seine ursprüngliche Wesensart vollständig ablegen.",
        "Nur wer eine tadellose Persönlichkeit besitzt, kann beruflich erfolgreich sein.",
-       "Selbstkenntnis ermöglicht gezieltes persönliches Wachstum, ohne das eigene Wesen zu verleugnen.",
-       "Kulturelle Prägung verhindert jede bewusste Veränderung."
+       "Kulturelle Prägung verhindert jede bewusste Veränderung.",
+       "Selbstkenntnis ermöglicht gezieltes persönliches Wachstum, ohne das eigene Wesen zu verleugnen."
       ],
-      "answer": 2,
+      "answer": 3,
       "explain": "Đoạn 5 khẳng định không cần phủ nhận bản chất cốt lõi mà chỉ cần hiểu mình thực tế để rèn thói quen mới và trưởng thành suốt đời."
      }
     ],
@@ -493,48 +493,48 @@
      "type": "mcq",
      "q": "Welches Adjektiv ersetzt die Phrase „ohne auf andere Rücksicht zu nehmen“ präzise?",
      "options": [
-      "rücksichtsvoll",
       "rücksichtslos",
+      "rücksichtsarm",
       "rücksichtsmäßig",
-      "rücksichtsarm"
+      "rücksichtsvoll"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Hậu tố „-los“ diễn tả sự thiếu vắng hoàn toàn („ohne Rücksicht“ → „rücksichtslos“)."
     },
     {
      "type": "mcq",
      "q": "Worin liegt der Bedeutungsunterschied zwischen „konfliktlos“ und „konfliktarm“?",
      "options": [
-      "Beide Wörter sind völlig identisch.",
       "„konfliktlos“ bedeutet ganz ohne Konflikte, „konfliktarm“ bedeutet mit wenigen Konflikten.",
       "„konfliktarm“ bedeutet besonders viele Konflikte.",
+      "Beide Wörter sind völlig identisch.",
       "„konfliktlos“ kann nur für Personen verwendet werden."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„-los“ là không có hoàn toàn (0), còn „-arm“ là ít, nghèo nàn."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektiv mit „-haft“ bedeutet „sorgfältig, pflichtbewusst und genau“?",
      "options": [
-      "zweifelhaft",
       "sprunghaft",
       "gewissenhaft",
-      "rätselhaft"
+      "rätselhaft",
+      "zweifelhaft"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„gewissenhaft“ = tận tâm, chu đáo, có lương tâm nghề nghiệp."
     },
     {
      "type": "mcq",
      "q": "Welche Bildung mit „-mäßig“ ist grammatisch und orthografisch korrekt?",
      "options": [
+      "gewohnheitsmässig",
       "gewohnheitmäßig",
       "gewohnheitsmäßig",
-      "gewohnheitenmäßig",
-      "gewohnheitsmässig"
+      "gewohnheitenmäßig"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Danh từ đuôi „-heit“ cần phụ âm nối „-s-“ trước „-mäßig“ và giữ „ß“ theo chính tả chuẩn Đức (Hochdeutsch)."
     },
     {
@@ -553,24 +553,24 @@
      "type": "mcq",
      "q": "Welches Verb verlangt den Dativ der Person und den Akkusativ der Sache? „Man sollte ihr diese Eigenschaft nicht pauschal ___.“",
      "options": [
-      "ausprägen",
-      "zuschreiben",
       "widersprechen",
-      "eingehen"
+      "eingehen",
+      "ausprägen",
+      "zuschreiben"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„jemandem (Dat) etwas (Akk) zuschreiben“ = gán cho ai đặc điểm gì."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „vorbehaltlos zustimmen“?",
      "options": [
+      "erst nach langer Bedenkzeit zustimmen",
       "nur unter strengen Bedingungen zustimmen",
-      "ohne jede Einschränkung oder Skepsis zustimmen",
       "aus Höflichkeit heimlich widersprechen",
-      "erst nach langer Bedenkzeit zustimmen"
+      "ohne jede Einschränkung oder Skepsis zustimmen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„vorbehaltlos“ = vô điều kiện, không có bất kỳ sự dè dặt nào."
     },
     {
@@ -1222,10 +1222,10 @@
      {
       "q": "Ab wann wird das Einnehmen verschiedener sozialer Rollen laut Abschnitt 1 problematisch?",
       "options": [
-       "Sobald man im Berufsleben Verantwortung übernimmt.",
-       "Wenn flexible Anpassung zu dauerhafter Verstellung und Verdrängung eigener Gefühle wird.",
        "Immer dann, wenn man mit Freunden anders spricht als mit Vorgesetzten.",
-       "Sobald man seine Überzeugungen einmal im Leben ändert."
+       "Wenn flexible Anpassung zu dauerhafter Verstellung und Verdrängung eigener Gefühle wird.",
+       "Sobald man seine Überzeugungen einmal im Leben ändert.",
+       "Sobald man im Berufsleben Verantwortung übernimmt."
       ],
       "answer": 1,
       "explain": "Đoạn 1 phân biệt thích ứng linh hoạt là tự nhiên; vấn đề nảy sinh khi nó biến thành sự đóng kịch kéo dài và dồn nén cảm xúc."
@@ -1233,10 +1233,10 @@
      {
       "q": "Welche Dynamik entsteht laut Abschnitt 2 in stark wettbewerbsorientierten Umfeldern?",
       "options": [
-       "Fehler werden besonders offen als Lernchance gefeiert.",
+       "Feedbackgespräche werden vollständig abgeschafft.",
        "Schwächen werden verborgen, wodurch sich eine Kultur des Misstrauens verfestigt.",
        "Alle Beschäftigten schätzen den Projektaufwand immer exakt ein.",
-       "Feedbackgespräche werden vollständig abgeschafft."
+       "Fehler werden besonders offen als Lernchance gefeiert."
       ],
       "answer": 1,
       "explain": "Đoạn 2 chỉ rõ nỗi sợ bị hiểu sai lỗi lầm thành thất bại cá nhân khiến mọi người che giấu bất an và củng cố văn hóa nghi ngờ."
@@ -1244,32 +1244,32 @@
      {
       "q": "Wie beschreibt Abschnitt 3 die „innere Zerrissenheit“ Betroffener?",
       "options": [
+       "Sie wechseln ständig ihren Arbeitsplatz.",
        "Sie äußern ihre Wut ausschließlich gegenüber Vorgesetzten.",
-       "Sie funktionieren äußerlich scheinbar makellos, sind innerlich aber erschöpft und verunsichert.",
        "Sie verlieren innerhalb weniger Tage alle beruflichen Kompetenzen.",
-       "Sie wechseln ständig ihren Arbeitsplatz."
+       "Sie funktionieren äußerlich scheinbar makellos, sind innerlich aber erschöpft und verunsichert."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 mô tả sự đối lập giữa vẻ ngoài vận hành tưởng không tì vết và sự kiệt quệ, hoang mang bên trong."
      },
      {
       "q": "Was versteht der Autor in Abschnitt 4 unter einer reifen Form von Authentizität?",
       "options": [
-       "Jeden flüchtigen Impuls ungefiltert auszusprechen.",
        "Soziale Regeln grundsätzlich zu missachten.",
        "Eigene Werte zu kennen und zwischen berechtigter Rücksichtnahme und Selbstverleugnung zu unterscheiden.",
-       "Niemals eine Entscheidung anderer zu missbilligen."
+       "Niemals eine Entscheidung anderer zu missbilligen.",
+       "Jeden flüchtigen Impuls ungefiltert auszusprechen."
       ],
-      "answer": 2,
+      "answer": 1,
       "explain": "Đoạn 4 định nghĩa sự chân thực trưởng thành là hiểu giá trị bản thân và phân biệt giữa chu đáo chính đáng với tự đánh mất mình."
      },
      {
       "q": "Welche Wirkung hat psychologische Sicherheit in Teams laut Abschnitt 5?",
       "options": [
        "Sie senkt den Druck zur ständigen Verstellung und fördert Kreativität sowie Gesundheit.",
-       "Sie sorgt dafür, dass gute Ideen häufiger zerredet werden.",
+       "Sie verhindert jede sachliche Kritik.",
        "Sie macht berufliche Leistung überflüssig.",
-       "Sie verhindert jede sachliche Kritik."
+       "Sie sorgt dafür, dass gute Ideen häufiger zerredet werden."
       ],
       "answer": 0,
       "explain": "Đoạn 5 nêu an toàn tâm lý là điều kiện cốt lõi cho sáng tạo và sức khỏe, làm giảm rõ rệt áp lực phải đóng kịch."
@@ -1278,11 +1278,11 @@
       "q": "Welchen Rat gibt der Schlusssatz dem einzelnen Menschen?",
       "options": [
        "Sich noch intensiver an fremden Idealbildern zu orientieren.",
-       "Sich statt ständigen Grübelns über fremde Erwartungen auf die eigenen tragenden Werte zu besinnen.",
        "Berufliche Rollen komplett abzulehnen.",
+       "Sich statt ständigen Grübelns über fremde Erwartungen auf die eigenen tragenden Werte zu besinnen.",
        "Fehleinschätzungen künftig vollständig zu verbergen."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Câu cuối khuyên thay vì vắt óc đáp ứng hình mẫu của người khác, hãy tự hỏi giá trị nào thực sự dẫn dắt hành động của mình."
      }
     ],
@@ -1299,24 +1299,24 @@
      "type": "mcq",
      "q": "Welche Perfektform von „misslingen“ ist grammatisch korrekt?",
      "options": [
+      "Der Plan ist missgelungen.",
       "Der Plan hat missgelungen.",
-      "Der Plan ist misslungen.",
       "Der Plan hat gemisslungen.",
-      "Der Plan ist missgelungen."
+      "Der Plan ist misslungen."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„misslingen“ là động từ không tách (không thêm „ge-“) và dùng trợ động từ „sein“: „ist misslungen“."
     },
     {
      "type": "mcq",
      "q": "Welchen Kasus verlangt das Verb „misstrauen“?",
      "options": [
-      "Akkusativ",
-      "Genitiv",
       "Dativ",
-      "Nominativ"
+      "Nominativ",
+      "Akkusativ",
+      "Genitiv"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "„jemandem/etwas (Dativ) misstrauen“ (vd. „Er misstraut den Versprechungen.“)."
     },
     {
@@ -1325,8 +1325,8 @@
      "options": [
       "etwas zu teuer verkaufen",
       "etwas falsch einschätzen oder falsch berechnen",
-      "jemanden heimlich bewundern",
-      "einen Schatz verstecken"
+      "einen Schatz verstecken",
+      "jemanden heimlich bewundern"
      ],
      "answer": 1,
      "explain": "Tiền tố „ver-“ với động từ phản thân diễn tả làm sai: „sich verschätzen“ = ước lượng/đánh giá sai."
@@ -1335,48 +1335,48 @@
      "type": "mcq",
      "q": "Welches Verb passt? „Jahrelanges Schweigen kann das Vertrauen tief ___.“",
      "options": [
-      "zerrütten",
       "verfestigen",
-      "misslingen",
-      "ausprägen"
+      "zerrütten",
+      "ausprägen",
+      "misslingen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„Vertrauen/eine Beziehung zerrütten“ = làm rạn nứt trầm trọng từ bên trong."
     },
     {
      "type": "mcq",
      "q": "Welche Bedeutung hat „eine gute Idee zerreden“?",
      "options": [
-      "eine Idee begeistert weiterempfehlen",
       "eine Idee durch zu viel negatives Diskutieren kaputtmachen",
-      "eine Idee schriftlich zusammenfassen",
-      "eine Idee in eine andere Sprache übersetzen"
+      "eine Idee in eine andere Sprache übersetzen",
+      "eine Idee begeistert weiterempfehlen",
+      "eine Idee schriftlich zusammenfassen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„zerreden“ (zer- = phá vỡ + reden = nói) = bàn tán quá đà đến mức làm hỏng ý tưởng."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz verwendet „sich verrennen“ korrekt?",
      "options": [
+      "Er verrannte eine Position aus.",
       "Er hat sich in eine unhaltbare Position verrannt.",
-      "Er ist in eine Position geverrannt.",
       "Er hat eine Position verrannt.",
-      "Er verrannte eine Position aus."
+      "Er ist in eine Position geverrannt."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„sich in + Akkusativ verrennen“, Partizip II là „verrannt“ với trợ động từ „haben“."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „unangenehme Gefühle unbewusst aus dem Bewusstsein drängen“?",
      "options": [
+      "verunsichern",
       "verbergen",
-      "verdrängen",
       "versäumen",
-      "verunsichern"
+      "verdrängen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„verdrängen“ là thuật ngữ tâm lý học cho cơ chế dồn nén, đẩy ký ức/cảm xúc khó chịu khỏi ý thức."
     },
     {
@@ -2018,21 +2018,21 @@
      {
       "q": "Wie hat sich das Verständnis von Identität laut Abschnitt 1 verändert?",
       "options": [
-       "Identität wird heute ausschließlich durch den Reisepass bestimmt.",
-       "Statt als feste, eindimensionale Zugehörigkeit wird sie heute als vielschichtiges Geflecht aus Herkunft und Erfahrungen verstanden.",
        "Herkunft und Sprache spielen im 21. Jahrhundert keinerlei Rolle mehr.",
-       "Nur Menschen ohne Auslandsaufenthalt besitzen heute noch eine klare Identität."
+       "Nur Menschen ohne Auslandsaufenthalt besitzen heute noch eine klare Identität.",
+       "Identität wird heute ausschließlich durch den Reisepass bestimmt.",
+       "Statt als feste, eindimensionale Zugehörigkeit wird sie heute als vielschichtiges Geflecht aus Herkunft und Erfahrungen verstanden."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 1 đối lập quan niệm cũ như cuốn hộ chiếu bất biến với quan niệm hiện đại là mạng lưới nhiều tầng gồm xuất thân, trải nghiệm và lựa chọn."
      },
      {
       "q": "Welches Beispiel nennt Abschnitt 2 für eine Diskrepanz zwischen Selbstbild und Fremdbild?",
       "options": [
-       "Dass alle Menschen im Ausland sofort perfekt die Landessprache sprechen.",
+       "Dass berufliche Qualifikationen im Ausland immer höher bewertet werden.",
        "Dass eine ruhige, umsichtige Art als zögerlich oder direkte Kritik als taktlos fehlgedeutet werden kann.",
-       "Dass Humor in allen Kulturen identisch verstanden wird.",
-       "Dass berufliche Qualifikationen im Ausland immer höher bewertet werden."
+       "Dass alle Menschen im Ausland sofort perfekt die Landessprache sprechen.",
+       "Dass Humor in allen Kulturen identisch verstanden wird."
       ],
       "answer": 1,
       "explain": "Đoạn 2 nêu rõ ví dụ phong thái chu toàn bị hiểu thành lưỡng lự, còn góp ý thẳng thắn bị xem là cộc cằn/thiếu tế nhị."
@@ -2051,32 +2051,32 @@
      {
       "q": "Welche Rolle spielt die aufnehmende Gesellschaft laut Abschnitt 4?",
       "options": [
-       "Sie sollte genau vorschreiben, wie sich Zugewanderte zu definieren haben.",
-       "Sie hat keinen Einfluss auf das Zugehörigkeitsgefühl des Einzelnen.",
        "Aufrichtige Wertschätzung ermöglicht echte Zugehörigkeit, während Stereotype und Entscheidungszwang Abgrenzung fördern.",
-       "Sie sollte kulturelle Traditionen gesetzlich vereinheitlichen."
+       "Sie sollte kulturelle Traditionen gesetzlich vereinheitlichen.",
+       "Sie sollte genau vorschreiben, wie sich Zugewanderte zu definieren haben.",
+       "Sie hat keinen Einfluss auf das Zugehörigkeitsgefühl des Einzelnen."
       ],
-      "answer": 2,
+      "answer": 0,
       "explain": "Đoạn 4 đối chiếu sự trân trọng chân thành (giúp thực sự thuộc về) với định kiến và áp đặt chọn một phía (gây vạch ranh giới)."
      },
      {
       "q": "Womit vergleicht der Autor moderne Identität in Abschnitt 5?",
       "options": [
-       "Mit einem unveränderlichen Reisepass.",
-       "Mit einem starren Bauwerk aus Stein.",
        "Mit einem lebendigen Baum mit tiefen Wurzeln und einer offenen Krone.",
-       "Mit einer vorübergehenden Modeströmung."
+       "Mit einem starren Bauwerk aus Stein.",
+       "Mit einer vorübergehenden Modeströmung.",
+       "Mit einem unveränderlichen Reisepass."
       ],
-      "answer": 2,
+      "answer": 0,
       "explain": "Đoạn 5 dùng ẩn dụ cái cây sống động (lebendiger Baum): rễ cắm sâu vào lịch sử, tán cây mở ra với ảnh hưởng mới."
      },
      {
       "q": "Wie bewertet der Text abschließend die Mehrfachzugehörigkeit?",
       "options": [
-       "Als unvermeidlichen Verlust an Orientierung.",
+       "Als Hindernis für familiäre Bindungen.",
        "Als unschätzbaren geistigen Reichtum.",
        "Als vorübergehendes Problem junger Studierender.",
-       "Als Hindernis für familiäre Bindungen."
+       "Als unvermeidlichen Verlust an Orientierung."
       ],
       "answer": 1,
       "explain": "Câu cuối khẳng định sự thuộc về đa chiều không phải sự mất rõ ràng mà là kho báu tinh thần vô giá."
@@ -2096,83 +2096,83 @@
      "q": "Welches Adjektiv trägt eine eindeutig negative Konnotation im Gegensatz zu „beharrlich“?",
      "options": [
       "zielstrebig",
-      "starrköpfig",
       "besonnen",
-      "umsichtig"
+      "umsichtig",
+      "starrköpfig"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„beharrlich“ (bền bỉ – khen) đối lập sắc thái với „starrköpfig“ (cố chấp, cứng đầu – chê)."
     },
     {
      "type": "mcq",
      "q": "Welcher Gegensatz passt im Paar „selbstbewusst (positiv) ↔ ___ (negativ)“?",
      "options": [
-      "offenherzig",
       "überheblich",
-      "besonnen",
-      "umsichtig"
+      "offenherzig",
+      "umsichtig",
+      "besonnen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„überheblich“ (kiêu ngạo, tự phụ) là mặt tiêu cực quá mức của „selbstbewusst“."
     },
     {
      "type": "mcq",
      "q": "Welchen Kasus verlangt der Ausdruck „sich einer Sache bewusst sein“?",
      "options": [
-      "Akkusativ",
-      "Dativ",
       "Genitiv",
-      "Nominativ"
+      "Nominativ",
+      "Dativ",
+      "Akkusativ"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "„sich + Genitiv + bewusst sein“ (vd. „Sie ist sich ihrer Stärken bewusst.“)."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die Redewendung „über den eigenen Schatten springen“?",
      "options": [
-      "sehr schnell weglaufen",
-      "innere Hemmungen oder Stolz überwinden und ungewohnt handeln",
       "seine Fehler auf andere schieben",
-      "im Dunkeln die Orientierung verlieren"
+      "sehr schnell weglaufen",
+      "im Dunkeln die Orientierung verlieren",
+      "innere Hemmungen oder Stolz überwinden und ungewohnt handeln"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Thành ngữ chỉ việc vượt qua cái tôi, sự ngại ngùng hay thói quen cố hữu của chính mình."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt? „Gemeinsame Erinnerungen ___ ein starkes Zugehörigkeitsgefühl.“",
      "options": [
-      "stiften",
       "einlenken",
       "hinterfragen",
+      "stiften",
       "zerreden"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Collocation chuẩn C1: „Identität / Sinn / Zugehörigkeit stiften“."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektiv beschreibt jemanden, der vorausschauend, sorgfältig und verantwortungsbewusst plant?",
      "options": [
-      "kleinlich",
-      "taktlos",
+      "zögerlich",
       "umsichtig",
-      "zögerlich"
+      "taktlos",
+      "kleinlich"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„umsichtig“ = chu toàn, cẩn trọng và nhìn xa trông rộng."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „einlenken“ in einer kontroversen Diskussion?",
      "options": [
-      "die Diskussion wütend abbrechen",
-      "nachgeben und sich der anderen Position annähern",
       "den Gesprächspartner taktlos unterbrechen",
-      "ein völlig neues Thema vorschlagen"
+      "ein völlig neues Thema vorschlagen",
+      "die Diskussion wütend abbrechen",
+      "nachgeben und sich der anderen Position annähern"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„einlenken“ = nhượng bộ, dịu giọng chấp thuận sau khi lắng nghe lập luận hợp lý."
     },
     {
@@ -2729,20 +2729,20 @@
      {
       "q": "Warum war die blitzschnelle Einschätzung anderer laut Abschnitt 1 ursprünglich nützlich?",
       "options": [
+       "Um das eigene Selbstwertgefühl zu erhöhen.",
        "Um im modernen Bewerbungsgespräch Zeit zu sparen.",
-       "Um aus evolutionärer Sicht mögliche Gefahren rasch zu erkennen.",
        "Um kulturelle Unterschiede besser zu analysieren.",
-       "Um das eigene Selbstwertgefühl zu erhöhen."
+       "Um aus evolutionärer Sicht mögliche Gefahren rasch zu erkennen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 1 giải thích xét về tiến hóa, phản xạ phân loại chớp nhoáng từng giúp nhận diện nhanh nguy hiểm sống còn."
      },
      {
       "q": "Was versteht man laut Abschnitt 2 unter dem Bestätigungsfehler?",
       "options": [
-       "Man korrigiert sein erstes Urteil sofort bei neuen Informationen.",
-       "Man sucht gewohnheitsmäßig nach Belegen für sein Vorurteil und blendet widersprüchliche Hinweise aus.",
        "Man verwechselt ruhige Menschen stets mit Führungskräften.",
+       "Man sucht gewohnheitsmäßig nach Belegen für sein Vorurteil und blendet widersprüchliche Hinweise aus.",
+       "Man korrigiert sein erstes Urteil sofort bei neuen Informationen.",
        "Man verlässt sich ausschließlich auf schriftliche Zeugnisse."
       ],
       "answer": 1,
@@ -2751,31 +2751,31 @@
      {
       "q": "Welche Gefahr besteht laut Abschnitt 3 im interkulturellen Kontext?",
       "options": [
-       "Dass alle Kulturen exakt dieselben Höflichkeitsregeln besitzen.",
-       "Dass kulturell geprägte Zurückhaltung fälschlicherweise als Unsicherheit gedeutet wird.",
        "Dass Menschen mit Auslandserfahrung gar keine ersten Eindrücke mehr haben.",
-       "Dass Blickkontakt in Deutschland grundsätzlich verboten ist."
+       "Dass alle Kulturen exakt dieselben Höflichkeitsregeln besitzen.",
+       "Dass Blickkontakt in Deutschland grundsätzlich verboten ist.",
+       "Dass kulturell geprägte Zurückhaltung fälschlicherweise als Unsicherheit gedeutet wird."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 nêu rõ sự chừng mực mang tính tôn trọng ở văn hóa này dễ bị hiểu nhầm là do dự hay thiếu tự tin ở văn hóa khác."
      },
      {
       "q": "Wann zeigt sich laut Abschnitt 4 die wahre Stabilität des Wertesystems eines Menschen?",
       "options": [
        "Bereits in den ersten fünf Minuten eines Kennenlernens.",
-       "Ausschließlich bei perfekten, planmäßigen Abläufen.",
        "Erst unter realer Belastung, in Konflikten und im Umgang mit eigenen Fehleinschätzungen.",
-       "Nur in anonymen Online-Diskussionen."
+       "Nur in anonymen Online-Diskussionen.",
+       "Ausschließlich bei perfekten, planmäßigen Abläufen."
       ],
-      "answer": 2,
+      "answer": 1,
       "explain": "Đoạn 4 khẳng định giá trị thực sự chỉ bộc lộ dưới áp lực thực tế, trong xung đột và sau quyết định thất bại."
      },
      {
       "q": "Wie definiert der Text echte Menschenkenntnis?",
       "options": [
-       "Als die Fähigkeit, andere innerhalb von Sekunden endgültig zu durchschauen.",
-       "Als die Bereitschaft, eigene erste Eindrücke zu hinterfragen und Menschen geduldig Raum zur Entfaltung zu lassen.",
        "Als das konsequente Misstrauen gegenüber Fremden.",
+       "Als die Bereitschaft, eigene erste Eindrücke zu hinterfragen und Menschen geduldig Raum zur Entfaltung zu lassen.",
+       "Als die Fähigkeit, andere innerhalb von Sekunden endgültig zu durchschauen.",
        "Als das Auswendiglernen psychologischer Fachbegriffe."
       ],
       "answer": 1,
@@ -2784,10 +2784,10 @@
      {
       "q": "Welchen Nutzen hat die bewusste Reflexion über eigene Vorurteile laut Abschnitt 5?",
       "options": [
-       "Man erlebt überhaupt keine Konflikte mehr.",
-       "Man begegnet anderen gelassener, fördert Wertschätzung und erkennt verborgenes Potenzial.",
        "Man muss im Beruf keine Entscheidungen mehr treffen.",
-       "Man verliert die Fähigkeit zur sachlichen Kritik."
+       "Man begegnet anderen gelassener, fördert Wertschätzung und erkennt verborgenes Potenzial.",
+       "Man verliert die Fähigkeit zur sachlichen Kritik.",
+       "Man erlebt überhaupt keine Konflikte mehr."
       ],
       "answer": 1,
       "explain": "Đoạn 5 kết luận sự ý thức về cơ chế tâm lý giúp điềm tĩnh hơn, nuôi dưỡng sự trân trọng và nhìn thấy tiềm năng ẩn giấu."
@@ -2806,12 +2806,12 @@
      "type": "mcq",
      "q": "Welche Bildung mit „-los“ ist grammatisch und orthografisch korrekt?",
      "options": [
-      "bedeutunglos",
       "bedeutungslos",
+      "unbedeutungslos",
       "bedeutungenlos",
-      "unbedeutungslos"
+      "bedeutunglos"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Danh từ đuôi „-ung“ luôn cần âm nối „-s-“ trước „-los“: „bedeutungslos“."
     },
     {
@@ -2819,23 +2819,23 @@
      "q": "Welcher Satz verwendet das Verb „misslingen“ korrekt im Perfekt?",
      "options": [
       "Das Experiment hat misslungen.",
-      "Das Experiment ist misslungen.",
       "Das Experiment ist gemisslungen.",
-      "Das Experiment hat gemisslungen."
+      "Das Experiment hat gemisslungen.",
+      "Das Experiment ist misslungen."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„misslingen“ là động từ không tách và chia Perfekt với „sein“: „ist misslungen“."
     },
     {
      "type": "mcq",
      "q": "Welche Wortwahl drückt eine positive Eigenschaft aus?",
      "options": [
-      "anmaßend",
-      "kleinlich",
+      "taktlos",
       "besonnen",
-      "taktlos"
+      "kleinlich",
+      "anmaßend"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„besonnen“ (điềm đạm, chín chắn) mang sắc thái tích cực; ba từ còn lại đều mang sắc thái phê phán."
     },
     {
@@ -2843,11 +2843,11 @@
      "q": "Welcher Satz enthält die korrekte Genitiv-Ergänzung zu „sich bewusst sein“?",
      "options": [
       "Er ist sich seinen Stärken bewusst.",
-      "Er ist sich seiner Stärken bewusst.",
       "Er ist sich seine Stärken bewusst.",
-      "Er ist sich von seinen Stärken bewusst."
+      "Er ist sich von seinen Stärken bewusst.",
+      "Er ist sich seiner Stärken bewusst."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„sich + Genitiv Plural + bewusst sein“ → „seiner Stärken“."
     },
     {
@@ -2866,12 +2866,12 @@
      "type": "mcq",
      "q": "Welches Verb passt? „Erfahrene Prüfer ___ aufgesetzte Antworten sofort.“",
      "options": [
-      "durchschauen",
       "einlenken",
+      "durchschauen",
       "misslingen",
       "zerfallen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„etwas durchschauen“ (không tách) = nhìn thấu bản chất, phát hiện ra sự giả tạo."
     },
     {
@@ -2879,23 +2879,23 @@
      "q": "Welche Passivform von „missdeuten“ ist richtig?",
      "options": [
       "Die Geste wurde missgedeutet.",
-      "Die Geste wurde missdeutet.",
+      "Die Geste hat missdeutet worden.",
       "Die Geste ist missgedeutet worden.",
-      "Die Geste hat missdeutet worden."
+      "Die Geste wurde missdeutet."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„missdeuten“ là động từ không tách nên Partizip II là „missdeutet“ (không thêm „ge-“)."
     },
     {
      "type": "mcq",
      "q": "Welcher Unterschied besteht zwischen „ausdruckslos“ und „ausdrucksarm“?",
      "options": [
-      "„ausdruckslos“ bedeutet völlig ohne Ausdruck, „ausdrucksarm“ bedeutet mit wenig Ausdruck.",
-      "„ausdrucksarm“ bedeutet extrem ausdrucksstark.",
       "Beide Adjektive sind grammatisch falsch.",
-      "„ausdruckslos“ darf nur im Plural stehen."
+      "„ausdrucksarm“ bedeutet extrem ausdrucksstark.",
+      "„ausdruckslos“ darf nur im Plural stehen.",
+      "„ausdruckslos“ bedeutet völlig ohne Ausdruck, „ausdrucksarm“ bedeutet mit wenig Ausdruck."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Hậu tố „-los“ = hoàn toàn không có; „-arm“ = ít, nghèo nàn."
     },
     {
@@ -2903,11 +2903,11 @@
      "q": "Welches Nomen beschreibt die Tendenz, Menschen in starre Kategorien einzuordnen?",
      "options": [
       "das Selbstwertgefühl",
-      "das Schubladendenken",
       "die Eigenverantwortung",
-      "die Menschenkenntnis"
+      "die Menschenkenntnis",
+      "das Schubladendenken"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„das Schubladendenken“ = tư duy rập khuôn, nhét người khác vào các ngăn kéo cứng nhắc."
     },
     {
@@ -2915,9 +2915,9 @@
      "q": "Welches Verb ergänzt den Satz richtig? „In einem offenen Klima können sich Talente frei ___.“",
      "options": [
       "entfalten",
-      "verrennen",
       "zerrütten",
-      "misstrauen"
+      "misstrauen",
+      "verrennen"
      ],
      "answer": 0,
      "explain": "Collocation chuẩn: „sich frei entfalten“ (nở rộ, phát huy trọn vẹn)."

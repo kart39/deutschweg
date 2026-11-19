@@ -377,8 +377,8 @@
       "q": "Warum kommt Jonas diese Woche erst um zwölf?",
       "options": [
        "Er hat Spätschicht.",
-       "Er hat früher eine andere Besprechung.",
-       "Er öffnet zuerst ein Lager."
+       "Er öffnet zuerst ein Lager.",
+       "Er hat früher eine andere Besprechung."
       ],
       "answer": 0
      },
@@ -394,11 +394,11 @@
      {
       "q": "Was gefällt Mara an der Zusammenarbeit?",
       "options": [
-       "Die Kollegen helfen einander.",
        "Alle haben dieselbe Arbeitszeit.",
+       "Die Kollegen helfen einander.",
        "Alle reparieren dieselben Fahrräder."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -413,12 +413,12 @@
      "type": "mcq",
      "q": "Chọn mệnh đề đúng để hoàn thành câu {{Ich arbeite gern hier, ___}}.",
      "options": [
-      "weil ist das Team freundlich.",
       "weil das Team ist freundlich.",
-      "weil das Team freundlich ist.",
-      "weil freundlich ist das Team."
+      "weil ist das Team freundlich.",
+      "weil freundlich ist das Team.",
+      "weil das Team freundlich ist."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Weil}} đưa động từ đã chia {{ist}} xuống cuối mệnh đề phụ."
     },
     {
@@ -426,9 +426,9 @@
      "q": "Câu nào đặt động từ tách đúng chỗ trong mệnh đề với {{weil}}?",
      "options": [
       "Ich komme früh, weil ich den Auftrag vorbereite.",
+      "Ich komme früh, weil bereite ich den Auftrag vor.",
       "Ich komme früh, weil ich den Auftrag bereite vor.",
-      "Ich komme früh, weil ich vorbereite den Auftrag.",
-      "Ich komme früh, weil bereite ich den Auftrag vor."
+      "Ich komme früh, weil ich vorbereite den Auftrag."
      ],
      "answer": 0,
      "explain": "Trong mệnh đề phụ, viết {{vorbereite}} liền và đặt ở cuối."
@@ -437,10 +437,10 @@
      "type": "mcq",
      "q": "Câu nào kể ‘Amir ở lại lâu hơn vì anh ấy phải phục vụ một khách’?",
      "options": [
-      "Amir bleibt länger, weil er muss einen Kunden bedienen.",
+      "Amir bleibt länger, weil muss er einen Kunden bedienen.",
       "Amir bleibt länger, weil er einen Kunden bedienen muss.",
-      "Amir bleibt länger, weil er einen Kunden muss bedienen.",
-      "Amir bleibt länger, weil muss er einen Kunden bedienen."
+      "Amir bleibt länger, weil er muss einen Kunden bedienen.",
+      "Amir bleibt länger, weil er einen Kunden muss bedienen."
      ],
      "answer": 1,
      "explain": "{{Bedienen}} ở nguyên mẫu. Động từ chia {{muss}} đứng cuối."
@@ -449,24 +449,24 @@
      "type": "mcq",
      "q": "Câu nào đúng khi đưa lý do lên trước?",
      "options": [
+      "Weil Mara Frühschicht hat, kommt sie früh.",
       "Weil Mara Frühschicht hat, sie kommt früh.",
-      "Weil hat Mara Frühschicht, kommt sie früh.",
       "Weil Mara hat Frühschicht, sie kommt früh.",
-      "Weil Mara Frühschicht hat, kommt sie früh."
+      "Weil hat Mara Frühschicht, kommt sie früh."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Sau mệnh đề phụ đặt đầu câu, mệnh đề chính bắt đầu bằng động từ đã chia {{kommt}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào nói đúng ‘Hôm nay anh ấy làm ca muộn’?",
      "options": [
-      "Heute hat er Spätschicht.",
-      "Heute hat er Frühschicht.",
       "Heute macht er Feierabend.",
+      "Heute hat er Frühschicht.",
+      "Heute hat er Spätschicht.",
       "Heute arbeitet er in Vollzeit."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{Spätschicht}} là ca muộn. {{Frühschicht}} là ca sáng sớm."
     },
     {
@@ -1005,29 +1005,29 @@
      {
       "q": "Wann arbeitet die gesuchte Aushilfe?",
       "options": [
-       "Montags bis freitags von zehn bis vierzehn Uhr.",
        "Samstags von zehn bis vierzehn Uhr.",
-       "Samstags nur am Abend."
+       "Samstags nur am Abend.",
+       "Montags bis freitags von zehn bis vierzehn Uhr."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was macht die Aushilfe am Ende ihrer Schicht?",
       "options": [
-       "Sie hilft allein an der Kasse.",
        "Sie bringt die Bücher ins Lager.",
-       "Sie räumt mit dem Team den Verkaufsraum auf."
+       "Sie räumt mit dem Team den Verkaufsraum auf.",
+       "Sie hilft allein an der Kasse."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was steht über Berufserfahrung in der Anzeige?",
       "options": [
-       "Sie ist hilfreich, aber keine Voraussetzung.",
        "Ohne Berufserfahrung darf man sich nicht bewerben.",
-       "Man braucht mindestens ein Jahr Erfahrung."
+       "Man braucht mindestens ein Jahr Erfahrung.",
+       "Sie ist hilfreich, aber keine Voraussetzung."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was soll man an die E-Mail anhängen?",
@@ -1051,12 +1051,12 @@
      "type": "mcq",
      "q": "Chọn phần nối đúng. {{In der Anzeige steht, ___}}.",
      "options": [
-      "dass die Stelle am ersten Oktober beginnt.",
-      "dass beginnt die Stelle am ersten Oktober.",
       "dass die Stelle beginnt am ersten Oktober.",
-      "das die Stelle am ersten Oktober beginnt."
+      "dass die Stelle am ersten Oktober beginnt.",
+      "das die Stelle am ersten Oktober beginnt.",
+      "dass beginnt die Stelle am ersten Oktober."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Dùng liên từ {{dass}} và đặt {{beginnt}} ở cuối mệnh đề phụ."
     },
     {
@@ -1065,8 +1065,8 @@
      "options": [
       "Ich bewerbe mich, weil ich die Anzeige gelesen habe.",
       "Ich habe gelesen, dass der Betrieb eine Aushilfe sucht.",
-      "Ich habe die Anzeige gelesen, weil ich Arbeit suche.",
-      "Ich arbeite ab Samstag, weil die Stelle frei ist."
+      "Ich arbeite ab Samstag, weil die Stelle frei ist.",
+      "Ich habe die Anzeige gelesen, weil ich Arbeit suche."
      ],
      "answer": 1,
      "explain": "{{Dass der Betrieb eine Aushilfe sucht}} là nội dung tôi đọc được."
@@ -1075,10 +1075,10 @@
      "type": "mcq",
      "q": "Câu nào đặt trợ động từ đúng vị trí?",
      "options": [
+      "Ich hoffe, dass Sie meine Bewerbung haben bekommen.",
       "Ich hoffe, dass Sie haben meine Bewerbung bekommen.",
-      "Ich hoffe, dass haben Sie meine Bewerbung bekommen.",
       "Ich hoffe, dass Sie meine Bewerbung bekommen haben.",
-      "Ich hoffe, dass Sie meine Bewerbung haben bekommen."
+      "Ich hoffe, dass haben Sie meine Bewerbung bekommen."
      ],
      "answer": 2,
      "explain": "Trong mệnh đề phụ Perfekt, {{bekommen}} đứng ngay trước trợ động từ đã chia {{haben}}."
@@ -1087,24 +1087,24 @@
      "type": "mcq",
      "q": "Chọn cách viết đúng cho hai chỗ trống. {{Ich weiß, ___ ___ Praktikum im Mai beginnt.}}",
      "options": [
-      "das / dass",
       "das / das",
       "dass / dass",
-      "dass / das"
+      "dass / das",
+      "das / dass"
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "Liên từ là {{dass}}. Mạo từ của {{Praktikum}} là {{das}}."
     },
     {
      "type": "mcq",
      "q": "Cụm nào phù hợp ở dòng chủ đề của email ứng tuyển?",
      "options": [
+      "Im Anhang finden Sie eine Datei.",
       "Mit freundlichen Grüßen",
       "Bewerbung als Aushilfe",
-      "Sehr geehrte Frau Dahl",
-      "Im Anhang finden Sie eine Datei."
+      "Sehr geehrte Frau Dahl"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Dòng chủ đề cần nêu mục đích và tên vị trí. Các phần chào và kết thư đứng trong nội dung email."
     },
     {
@@ -1660,17 +1660,17 @@
      {
       "q": "Wann ist das Vorstellungsgespräch?",
       "options": [
+       "Am Dienstag vor seinem Deutschkurs.",
        "Am Dienstag um vierzehn Uhr.",
-       "Am Donnerstag um zwölf Uhr.",
-       "Am Dienstag vor seinem Deutschkurs."
+       "Am Donnerstag um zwölf Uhr."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Warum fragt Minh nach der Adresse?",
       "options": [
-       "Er kann die Adresse in der E-Mail nicht lesen.",
        "Er ist noch nie am Bahnhof gewesen.",
+       "Er kann die Adresse in der E-Mail nicht lesen.",
        "Die Buchhandlung hat zwei Läden."
       ],
       "answer": 2
@@ -1678,11 +1678,11 @@
      {
       "q": "Was muss Minh laut Terminbestätigung mitbringen?",
       "options": [
-       "Ein Bewerbungsfoto.",
        "Seinen Lebenslauf.",
+       "Ein Bewerbungsfoto.",
        "Ein neues Zeugnis."
       ],
-      "answer": 1
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1698,44 +1698,44 @@
      "q": "Câu nào phù hợp để mở đầu cuộc gọi hỏi việc?",
      "options": [
       "Hi, gib mir die Personalabteilung.",
+      "Ich wünsche Ihnen einen schönen Feierabend.",
       "Warum rufst du denn an?",
-      "Guten Tag, mein Name ist Minh Tran. Ich rufe wegen der Stelle an.",
-      "Ich wünsche Ihnen einen schönen Feierabend."
+      "Guten Tag, mein Name ist Minh Tran. Ich rufe wegen der Stelle an."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Mở đầu bằng lời chào lịch sự, tên và lý do gọi."
     },
     {
      "type": "mcq",
      "q": "Chọn liên từ dẫn lý do. {{Ich rufe an, ___ ich noch eine Frage habe.}}",
      "options": [
-      "weil",
       "dass",
-      "denn",
-      "und"
+      "und",
+      "weil",
+      "denn"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Dùng {{weil}} để nêu lý do. Vị trí cuối của {{habe}} cho thấy đây là mệnh đề phụ."
     },
     {
      "type": "mcq",
      "q": "Chọn câu hỏi xác nhận thông tin có trật tự hoàn chỉnh.",
      "options": [
+      "Stimmt es, dass die Stelle im Oktober beginnt?",
       "Stimmt es, dass die Stelle beginnt im Oktober?",
-      "Stimmt es, die Stelle dass im Oktober beginnt?",
       "Stimmt es dass die Stelle im Oktober beginnt?",
-      "Stimmt es, dass die Stelle im Oktober beginnt?"
+      "Stimmt es, die Stelle dass im Oktober beginnt?"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Đặt dấu phẩy trước {{dass}} và {{beginnt}} cuối mệnh đề phụ. Cả câu kết thúc bằng dấu hỏi."
     },
     {
      "type": "mcq",
      "q": "Nếu nghe không rõ vì kết nối kém, câu nào xin nhắc lại lịch sự?",
      "options": [
-      "Sind Sie morgen nicht erreichbar?",
-      "Könnten Sie das bitte wiederholen?",
       "Sie müssen mir eine E-Mail schreiben.",
+      "Könnten Sie das bitte wiederholen?",
+      "Sind Sie morgen nicht erreichbar?",
       "Wofür ist diese Stelle geeignet?"
      ],
      "answer": 1,
@@ -1745,12 +1745,12 @@
      "type": "mcq",
      "q": "Câu nào nêu đúng ‘Tôi đã hiểu rằng tôi cần mang CV’?",
      "options": [
+      "Ich verstehe den Lebenslauf, weil ich ihn mitbringe.",
       "Ich habe verstanden, weil ich den Lebenslauf mitbringen soll.",
       "Ich habe verstanden, dass ich soll den Lebenslauf mitbringen.",
-      "Ich habe verstanden, dass ich den Lebenslauf mitbringen soll.",
-      "Ich verstehe den Lebenslauf, weil ich ihn mitbringe."
+      "Ich habe verstanden, dass ich den Lebenslauf mitbringen soll."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Sau {{verstanden}} dùng {{dass}} để dẫn nội dung. Dạng chia {{soll}} đứng cuối."
     },
     {
@@ -2345,29 +2345,29 @@
      {
       "q": "Was gehört zu den Aufgaben im Café „Sonnenblume“?",
       "options": [
-       "Man muss nachts in der Backstube Brot backen.",
        "Man verkauft Backwaren und Kaffee, berät die Gäste und arbeitet an der Kasse.",
+       "Man muss nachts in der Backstube Brot backen.",
        "Man muss mit dem Auto Kuchen ausliefern."
-      ],
-      "answer": 1
-     },
-     {
-      "q": "Warum möchte Mai Pham nur in Teilzeit (am Nachmittag und am Wochenende) arbeiten?",
-      "options": [
-       "Weil sie an der Universität München studiert und am Vormittag Vorlesungen hat.",
-       "Weil sie am Vormittag immer bis elf Uhr schläft.",
-       "Weil sie noch in einem anderen Restaurant arbeitet."
       ],
       "answer": 0
      },
      {
-      "q": "Welche Berufserfahrung bringt Mai Pham schon mit?",
+      "q": "Warum möchte Mai Pham nur in Teilzeit (am Nachmittag und am Wochenende) arbeiten?",
       "options": [
-       "Sie hat drei Jahre in einer Bank gearbeitet.",
-       "Sie hat noch nie gearbeitet.",
-       "Sie hat schon ein Jahr als Kellnerin in einem Restaurant in Hanoi gearbeitet."
+       "Weil sie am Vormittag immer bis elf Uhr schläft.",
+       "Weil sie noch in einem anderen Restaurant arbeitet.",
+       "Weil sie an der Universität München studiert und am Vormittag Vorlesungen hat."
       ],
       "answer": 2
+     },
+     {
+      "q": "Welche Berufserfahrung bringt Mai Pham schon mit?",
+      "options": [
+       "Sie hat noch nie gearbeitet.",
+       "Sie hat schon ein Jahr als Kellnerin in einem Restaurant in Hanoi gearbeitet.",
+       "Sie hat drei Jahre in einer Bank gearbeitet."
+      ],
+      "answer": 1
      }
     ],
     "glossary": []
@@ -2383,21 +2383,21 @@
      "q": "Chọn mệnh đề phụ với „weil“ đúng ngữ pháp:",
      "options": [
       "Ich bin heute müde, weil ich habe gestern bis spät gearbeitet.",
-      "Ich bin heute müde, weil ich gestern bis spät gearbeitet habe.",
+      "Ich bin heute müde, weil ich gestern gearbeitet habe bis spät.",
       "Ich bin heute müde, weil habe ich gestern bis spät gearbeitet.",
-      "Ich bin heute müde, weil ich gestern gearbeitet habe bis spät."
+      "Ich bin heute müde, weil ich gestern bis spät gearbeitet habe."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Trong mệnh đề phụ với „weil“ ở thì Perfekt, Partizip II („gearbeitet“) đứng sát trước và trợ động từ đã chia („habe“) phải đứng ở vị trí CUỐI CÙNG của câu."
     },
     {
      "type": "mcq",
      "q": "Khi có một động từ tách (như „aufstehen“) trong mệnh đề phụ với „weil“, nó được viết như thế nào?",
      "options": [
-      "... weil er jeden Tag um fünf Uhr steht auf.",
-      "... weil er jeden Tag um fünf Uhr aufsteht.",
       "... weil steht er jeden Tag um fünf Uhr auf.",
-      "... weil er auf jeden Tag um fünf Uhr steht."
+      "... weil er jeden Tag um fünf Uhr aufsteht.",
+      "... weil er auf jeden Tag um fünf Uhr steht.",
+      "... weil er jeden Tag um fünf Uhr steht auf."
      ],
      "answer": 1,
      "explain": "Trong mệnh đề phụ (Nebensatz), động từ tách được đưa xuống cuối câu nên tiền tố „auf-“ và động từ chia „steht“ nối liền lại thành một từ: „... weil er ... aufsteht“."
@@ -2406,12 +2406,12 @@
      "type": "mcq",
      "q": "Chọn mệnh đề phụ đúng khi có động từ khuyết thiếu „müssen“:",
      "options": [
-      "Anna arbeitet nur in Teilzeit, weil sie muss ihre Kinder betreuen.",
-      "Anna arbeitet nur in Teilzeit, weil sie ihre Kinder betreuen muss.",
       "Anna arbeitet nur in Teilzeit, weil muss sie ihre Kinder betreuen.",
-      "Anna arbeitet nur in Teilzeit, weil sie betreuen muss ihre Kinder."
+      "Anna arbeitet nur in Teilzeit, weil sie betreuen muss ihre Kinder.",
+      "Anna arbeitet nur in Teilzeit, weil sie ihre Kinder betreuen muss.",
+      "Anna arbeitet nur in Teilzeit, weil sie muss ihre Kinder betreuen."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Trong mệnh đề phụ, động từ nguyên mẫu („betreuen“) đứng trước và động từ khuyết thiếu đã chia („muss“) đứng ở vị trí cuối cùng."
     },
     {
@@ -2419,11 +2419,11 @@
      "q": "Cụm từ „Schönen Feierabend!“ được đồng nghiệp ở Đức nói với nhau khi nào?",
      "options": [
       "Vào lúc 8 giờ sáng khi mới đến văn phòng.",
-      "Vào cuối ngày làm việc khi tạm biệt nhau tan tầm về nhà.",
+      "Khi bắt đầu bữa ăn trưa ở căng-tin.",
       "Khi chúc mung ai moi sinh em bé.",
-      "Khi bắt đầu bữa ăn trưa ở căng-tin."
+      "Vào cuối ngày làm việc khi tạm biệt nhau tan tầm về nhà."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„der Feierabend“ là thời gian nghỉ ngơi buổi tối sau khi kết thúc giờ làm việc. Khi tan làm ra về, đồng nghiệp chúc nhau „Schönen Feierabend!“."
     },
     {
@@ -2603,36 +2603,36 @@
      "type": "mcq",
      "q": "Phân biệt „das“ và „dass“ để điền vào câu: „Ich finde, ___ ___ Angebot von dieser Firma sehr gut ist.“",
      "options": [
-      "das ... dass",
-      "dass ... das",
+      "das ... das",
       "dass ... dass",
-      "das ... das"
+      "das ... dass",
+      "dass ... das"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Từ đầu tiên đứng sau dấu phẩy mở đầu mệnh đề phụ là liên từ „dass“ (rằng); từ thứ hai đứng trước danh từ giống Trung „Angebot“ là mạo từ xác định „das“ (das Angebot)."
     },
     {
      "type": "mcq",
      "q": "Trong tin tuyển dụng ở Đức, tính từ „zuverlässig“ có nghĩa là gì?",
      "options": [
-      "Thất nghiệp",
       "Đáng tin cậy, làm việc có trách nhiệm",
-      "Lười biếng",
-      "Bị cấm"
+      "Bị cấm",
+      "Thất nghiệp",
+      "Lười biếng"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„zuverlässig“ là phẩm chất rất được coi trọng trong công việc ở Đức, có nghĩa là đáng tin cậy, giữ chữ tín và làm việc có trách nhiệm."
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng khi nối với „Es ist wichtig, dass ...“ và động từ tách „ankommen“:",
      "options": [
-      "Es ist wichtig, dass Sie morgen pünktlich kommen an.",
-      "Es ist wichtig, dass Sie morgen pünktlich ankommen.",
+      "Es ist wichtig, dass Sie ankommen morgen pünktlich.",
       "Es ist wichtig, dass kommen Sie morgen pünktlich an.",
-      "Es ist wichtig, dass Sie ankommen morgen pünktlich."
+      "Es ist wichtig, dass Sie morgen pünktlich kommen an.",
+      "Es ist wichtig, dass Sie morgen pünktlich ankommen."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Trong mệnh đề phụ với „dass“, động từ tách „ankommen“ được đưa xuống cuối câu và viết liền thành một từ: „... dass Sie morgen pünktlich ankommen“."
     },
     {
@@ -2800,48 +2800,48 @@
      "type": "mcq",
      "q": "Chọn câu đúng ngữ pháp khi đặt mệnh đề phụ „Weil ...“ đứng ở ĐẦU câu:",
      "options": [
+      "Weil ich gern mit Menschen arbeite, mich bewerbe ich um diese Stelle.",
       "Weil ich gern mit Menschen arbeite, ich bewerbe mich um diese Stelle.",
       "Weil ich gern mit Menschen arbeite, bewerbe ich mich um diese Stelle.",
-      "Weil arbeite ich gern mit Menschen, bewerbe ich mich um diese Stelle.",
-      "Weil ich gern mit Menschen arbeite, mich bewerbe ich um diese Stelle."
+      "Weil arbeite ich gern mit Menschen, bewerbe ich mich um diese Stelle."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Khi mệnh đề phụ „Weil ... arbeite,“ đứng đầu câu (chiếm vị trí số 1), mệnh đề chính phía sau dấu phẩy phải bắt đầu ngay bằng động từ đã chia („bewerbe ich mich...“ – quy tắc Verb, Verb)."
     },
     {
      "type": "mcq",
      "q": "Chọn giới từ đúng đi kèm với động từ „sich bewerben“ (ứng tuyển vào vị trí nào): „Ich bewerbe mich ___ die Stelle als Ingenieur.“",
      "options": [
-      "für",
       "um",
-      "auf",
-      "an"
+      "für",
+      "an",
+      "auf"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Cấu trúc chuẩn: „sich bewerben um + Akkusativ“ (ứng tuyển vào vị trí công việc nào) hoặc „sich bewerben bei + Dativ“ (ứng tuyển tại công ty nào)."
     },
     {
      "type": "mcq",
      "q": "Tài liệu nào trong bộ hồ sơ xin việc tóm tắt quá trình học tập, bằng cấp và kinh nghiệm làm việc theo trình tự thời gian?",
      "options": [
+      "Die Krankschreibung",
       "Der Lebenslauf (So yeu lý lich / CV)",
       "Der Kassenbon",
-      "Die Krankschreibung",
       "Der Mietvertrag"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„der Lebenslauf“ là bản sơ yếu lý lịch (CV) liệt kê thông tin cá nhân, học vấn và kinh nghiệm làm việc."
     },
     {
      "type": "mcq",
      "q": "Danh từ „das Vorstellungsgespräch“ có nghĩa là gì?",
      "options": [
+      "Don xin nghi phép",
       "Buổi họp giao ban đầu tuần",
-      "Buổi phỏng vấn xin việc",
       "Hợp đồng lao động",
-      "Don xin nghi phép"
+      "Buổi phỏng vấn xin việc"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„das Vorstellungsgespräch“ (hoặc Bewerbungsgespräch) là buổi phỏng vấn tuyển dụng trực tiếp giữa nhà tuyển dụng và ứng viên."
     },
     {

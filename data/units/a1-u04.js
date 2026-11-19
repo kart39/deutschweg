@@ -278,12 +278,12 @@
      "type": "mcq",
      "q": "Mạo từ đúng của danh từ ghép „Schlafzimmer“ là gì?",
      "options": [
+      "den",
       "der",
       "die",
-      "das",
-      "den"
+      "das"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Trong tiếng Đức, giống của danh từ ghép được quyết định bởi từ cuối cùng: „das Zimmer“ → „das Schlafzimmer“."
     },
     {
@@ -291,23 +291,23 @@
      "q": "Dạng số nhiều đúng của „das Haus“ là gì?",
      "options": [
       "die Hause",
-      "die Häuser",
       "die Hausen",
+      "die Häuser",
       "die Häuse"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„das Haus“ thuộc nhóm danh từ giống Trung một âm tiết thêm đuôi -er và biến âm Umlaut (au → äu): „die Häuser“."
     },
     {
      "type": "mcq",
      "q": "Danh từ nào sau đây giữ nguyên dạng (không thêm đuôi, không đổi nguyên âm) khi chuyển sang số nhiều?",
      "options": [
-      "die Wohnung",
-      "das Fenster",
+      "die Wand",
       "der Balkon",
-      "die Wand"
+      "das Fenster",
+      "die Wohnung"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Danh từ giống Trung kết thúc bằng đuôi „-er“ như „das Fenster“ giữ nguyên ở số nhiều: „die Fenster“."
     },
     {
@@ -315,11 +315,11 @@
      "q": "Ở đâu trong căn hộ người ta thường nấu ăn?",
      "options": [
       "Im Flur",
-      "Im Keller",
       "In der Küche",
-      "Im Schlafzimmer"
+      "Im Schlafzimmer",
+      "Im Keller"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„die Küche“ là nhà bếp – nơi nấu ăn. „Flur“ là hành lang, „Keller“ là tầng hầm, „Schlafzimmer“ là phòng ngủ."
     },
     {
@@ -753,12 +753,12 @@
      "type": "mcq",
      "q": "Chọn đại từ đúng để điền vào câu: „Wie findest du den Schreibtisch? – ___ ist sehr praktisch, aber teuer.“",
      "options": [
-      "Es",
-      "Sie",
+      "Ihn",
       "Er",
-      "Ihn"
+      "Sie",
+      "Es"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„der Schreibtisch“ mang giống Đực (der), làm chủ ngữ ở câu sau (Nominativ) nên được thay thế bằng đại từ „er“."
     },
     {
@@ -766,23 +766,23 @@
      "q": "Chọn từ phủ định đúng: „Meine Wohnung ist schön, aber sie hat leider ___ Balkon.“",
      "options": [
       "nicht",
-      "kein",
       "keine",
-      "keinen"
+      "keinen",
+      "kein"
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "Động từ „haben“ đi với tân ngữ cách Akkusativ. „der Balkon“ là danh từ giống Đực không xác định, nên phủ định ở Akkusativ là „keinen Balkon“."
     },
     {
      "type": "mcq",
      "q": "Chọn từ phủ định đúng: „Der Schrank ist ___ neu, aber er ist noch sehr gut.“",
      "options": [
-      "kein",
-      "keine",
+      "nichts",
       "nicht",
-      "nichts"
+      "keine",
+      "kein"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Để phủ định một tính từ („neu“), ta luôn dùng „nicht“ đứng ngay trước tính từ đó."
     },
     {
@@ -791,8 +791,8 @@
      "options": [
       "klein",
       "dunkel",
-      "hässlich",
-      "bequem"
+      "bequem",
+      "hässlich"
      ],
      "answer": 1,
      "explain": "„hell“ là sáng sủa, trái nghĩa với „dunkel“ là tối tăm."
@@ -1238,20 +1238,20 @@
      {
       "q": "Was ist bei Anzeige B schon im Zimmer vorhanden?",
       "options": [
-       "Eine eigene Küche und ein Balkon.",
        "Möbel wie ein Bett, ein Schreibtisch und ein Schrank.",
+       "Eine eigene Küche und ein Balkon.",
        "Eine Badewanne und ein Fernseher."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welche Aussage ist richtig?",
       "options": [
-       "Die Wohnung in Anzeige A hat keinen Aufzug.",
+       "In der WG (Anzeige B) gibt es zwei Badezimmer und einen Garten.",
        "Das WG-Zimmer in Anzeige B hat einen großen Balkon.",
-       "In der WG (Anzeige B) gibt es zwei Badezimmer und einen Garten."
+       "Die Wohnung in Anzeige A hat keinen Aufzug."
       ],
-      "answer": 2
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1266,12 +1266,12 @@
      "type": "mcq",
      "q": "Chọn dạng đúng để hoàn thành câu: „In meinem Zimmer gibt es ___ großen Schreibtisch.“",
      "options": [
-      "ein",
-      "eine",
       "einen",
+      "eine",
+      "ein",
       "einem"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Cấu trúc „es gibt“ luôn đi với cách Akkusativ. „der Schreibtisch“ là giống Đực nên mạo từ đổi từ „ein“ sang „einen“."
     },
     {
@@ -1280,8 +1280,8 @@
      "options": [
       "Einbauküche (bếp lắp sẵn)",
       "Einzelbett-Kabine (buồng giường đơn)",
-      "Erdgeschoss mit Balkon (tang tret có ban cong)",
-      "Extrabreiter Keller (tầng hầm siêu rộng)"
+      "Extrabreiter Keller (tầng hầm siêu rộng)",
+      "Erdgeschoss mit Balkon (tang tret có ban cong)"
      ],
      "answer": 0,
      "explain": "„EBK“ là viết tắt của „die Einbauküche“ (nhà bếp đã được trang bị sẵn tủ bếp và bếp nấu)."
@@ -1290,24 +1290,24 @@
      "type": "mcq",
      "q": "Nếu một căn hộ có Kaltmiete là 500 Euro và Nebenkosten là 150 Euro, thì Warmmiete là bao nhiêu?",
      "options": [
-      "350 Euro",
-      "500 Euro",
       "650 Euro",
-      "1.000 Euro"
+      "500 Euro",
+      "1.000 Euro",
+      "350 Euro"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Warmmiete = Kaltmiete (500 €) + Nebenkosten (150 €) = 650 Euro."
     },
     {
      "type": "mcq",
      "q": "Câu nào sau đây đúng ngữ pháp?",
      "options": [
-      "In der Küche geben es zwei Stühle.",
       "In der Küche gibt es zwei Stühle.",
+      "In der Küche es gibt zwei Stühle.",
       "In der Küche gibt zwei Stühle.",
-      "In der Küche es gibt zwei Stühle."
+      "In der Küche geben es zwei Stühle."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Cụm „es gibt“ luôn chia ở số ít „gibt“ (kể cả khi đi với số nhiều „zwei Stühle“), và khi đảo „In der Küche“ lên đầu câu thì động từ „gibt“ đứng ở vị trí số 2: „In der Küche gibt es...“."
     },
     {
@@ -1899,8 +1899,8 @@
       "q": "Tiền thuê đã gồm phụ phí là bao nhiêu?",
       "options": [
        "660 Euro.",
-       "520 Euro.",
-       "140 Euro."
+       "140 Euro.",
+       "520 Euro."
       ],
       "answer": 0
      }
@@ -1919,8 +1919,8 @@
      "options": [
       "Stuhlen",
       "Stühle",
-      "Stuhler",
-      "Stuhls"
+      "Stuhls",
+      "Stuhler"
      ],
      "answer": 1,
      "explain": "{{Stuhl}} đổi nguyên âm {{u}} thành {{ü}} và thêm {{-e}}, tạo thành {{Stühle}}."
@@ -1929,24 +1929,24 @@
      "type": "mcq",
      "q": "Câu nào nghĩa là ‘Đây là hai cái tủ’?",
      "options": [
-      "Das ist zwei Schränke.",
-      "Das sind zwei Schrank.",
       "Das sind zwei Schranke.",
-      "Das sind zwei Schränke."
+      "Das sind zwei Schränke.",
+      "Das sind zwei Schrank.",
+      "Das ist zwei Schränke."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Sau {{zwei}}, dùng số nhiều {{Schränke}}. Khi giới thiệu nhiều vật, dùng {{Das sind …}}."
     },
     {
      "type": "mcq",
      "q": "Chọn mục có cả mạo từ số ít và dạng số nhiều đúng của ‘cửa sổ’.",
      "options": [
-      "das Fenster → die Fenster",
-      "der Fenster → die Fenster",
+      "die Fenster → die Fensteren",
       "das Fenster → die Fensters",
-      "die Fenster → die Fensteren"
+      "der Fenster → die Fenster",
+      "das Fenster → die Fenster"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Fenster}} là danh từ giống trung, giữ nguyên hình thức ở số nhiều. Mạo từ xác định số nhiều trong câu này là {{die}}."
     },
     {
@@ -1955,22 +1955,22 @@
      "options": [
       "Bette",
       "Betts",
-      "Betten",
-      "Better"
+      "Better",
+      "Betten"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Bett}} thêm {{-en}} để thành {{Betten}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu hỏi nghĩa là ‘Căn hộ có mấy phòng?’",
      "options": [
-      "Wo ist die Wohnung?",
       "Wie viele Zimmer hat die Wohnung?",
       "Hat die Wohnung drei Zimmer?",
-      "Wie viele Küchen hat die Wohnung?"
+      "Wie viele Küchen hat die Wohnung?",
+      "Wo ist die Wohnung?"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{Wie viele Zimmer}} hỏi về số phòng. {{Hat die Wohnung drei Zimmer?}} hỏi để xác nhận một số lượng cụ thể."
     },
     {
@@ -2155,45 +2155,45 @@
      "type": "mcq",
      "q": "Dịch ‘Cái kệ màu trắng’.",
      "options": [
-      "Das Regal ist weißes.",
       "Das Regal sind weiß.",
       "Das Regal ist weiß.",
+      "Das Regal ist weißes.",
       "Das Regal ist weißen."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Chủ ngữ {{das Regal}} là số ít, nên dùng {{ist}}. Tính từ {{weiß}} đứng sau {{sein}} giữ nguyên."
     },
     {
      "type": "mcq",
      "q": "Dịch ‘Phòng tắm không tối’.",
      "options": [
+      "Das Bad nicht ist dunkel.",
       "Das Bad ist nicht dunkel.",
       "Das Bad ist kein dunkel.",
-      "Das Bad nicht ist dunkel.",
       "Das Bad ist keine dunkel."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Trong mẫu {{sein}} với tính từ, đặt {{nicht}} ngay trước từ cần phủ định là {{dunkel}}."
     },
     {
      "type": "mcq",
      "q": "Dịch ‘Mình không có ban công’.",
      "options": [
-      "Ich habe kein Balkon.",
-      "Ich habe keine Balkon.",
       "Ich habe nicht Balkon.",
-      "Ich habe keinen Balkon."
+      "Ich habe keinen Balkon.",
+      "Ich habe kein Balkon.",
+      "Ich habe keine Balkon."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{Balkon}} là giống đực và đứng ở {{Akkusativ}} sau {{haben}}, nên dùng {{keinen}}."
     },
     {
      "type": "mcq",
      "q": "Dịch ‘Đây không phải là cái giường’.",
      "options": [
-      "Das ist keinen Bett.",
-      "Das ist kein Bett.",
       "Das ist keine Bett.",
+      "Das ist kein Bett.",
+      "Das ist keinen Bett.",
       "Das ist keine Betten."
      ],
      "answer": 1,
@@ -2203,12 +2203,12 @@
      "type": "mcq",
      "q": "Câu nào dùng động từ đúng với chủ ngữ số nhiều?",
      "options": [
-      "Die Teppiche ist lila.",
-      "Die Teppich sind lila.",
       "Die Teppiche sind lila.",
-      "Die Teppiche sein lila."
+      "Die Teppiche sein lila.",
+      "Die Teppiche ist lila.",
+      "Die Teppich sind lila."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{Teppiche}} là số nhiều và đi với {{sind}}. Tính từ {{lila}} giữ nguyên."
     },
     {
@@ -2392,60 +2392,60 @@
      "type": "mcq",
      "q": "Dịch ‘Có một tầng hầm’.",
      "options": [
-      "Es gibt einen Keller.",
-      "Es gibt ein Keller.",
       "Es gibt einem Keller.",
-      "Es gibt eine Keller."
+      "Es gibt einen Keller.",
+      "Es gibt eine Keller.",
+      "Es gibt ein Keller."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Danh từ giống đực {{Keller}} đứng sau {{es gibt}} ở {{Akkusativ}}, nên dùng {{einen}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào nghĩa là ‘Có hai ghế tựa’?",
      "options": [
-      "Es sind zwei Stuhl.",
       "Es geben zwei Stühle.",
+      "Es gibt zwei Stühle.",
       "Es gibt zwei Stuhl.",
-      "Es gibt zwei Stühle."
+      "Es sind zwei Stuhl."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Với mẫu {{es gibt}}, động từ giữ nguyên. Danh từ đứng sau {{zwei}} dùng dạng số nhiều {{Stühle}}."
     },
     {
      "type": "mcq",
      "q": "Trong tin cho thuê, {{EG}} là viết tắt của từ nào?",
      "options": [
-      "Etage",
       "Erdgeschoss",
+      "Garten",
       "Garage",
-      "Garten"
+      "Etage"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{EG}} là viết tắt của {{Erdgeschoss}}, nghĩa là tầng trệt."
     },
     {
      "type": "mcq",
      "q": "Dòng nào cho biết số tiền thuê đã cộng phụ phí?",
      "options": [
-      "Wohnfläche: 48 m²",
-      "Kaltmiete: 520 Euro",
       "Warmmiete: 660 Euro",
+      "Kaltmiete: 520 Euro",
+      "Wohnfläche: 48 m²",
       "Nebenkosten: 140 Euro"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{Warmmiete}} là tiền thuê có tính phụ phí. {{Nebenkosten}} chỉ riêng các khoản phụ phí, còn {{Kaltmiete}} là tiền thuê cơ bản."
     },
     {
      "type": "mcq",
      "q": "Cách hỏi trực tiếp nào có nghĩa ‘Có thang máy không?’",
      "options": [
-      "Gibt es einen Aufzug?",
       "Wie viele Aufzüge gibt es?",
+      "Ist der Aufzug neu?",
       "Gibt es ein Zimmer?",
-      "Ist der Aufzug neu?"
+      "Gibt es einen Aufzug?"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Đưa {{gibt}} lên đầu câu hỏi có hoặc không. {{Aufzug}} là giống đực nên đi với {{einen}}."
     },
     {

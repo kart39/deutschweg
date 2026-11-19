@@ -282,24 +282,24 @@
      "type": "mcq",
      "q": "Chọn dạng đúng của động từ „wehtun“ cho danh từ số nhiều: „Ich bin zwanzig Kilometer gelaufen. Jetzt ___ meine Füße ___.“",
      "options": [
-      "tut ... weh",
       "tun ... weh",
       "wehtut ...",
-      "wehtun ..."
+      "wehtun ...",
+      "tut ... weh"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„meine Füße“ (hai bàn chân) là danh từ số nhiều, nên động từ tách „wehtun“ chia ở ngôi thứ 3 số nhiều: „Meine Füße tun weh.“"
     },
     {
      "type": "mcq",
      "q": "Dạng số nhiều đúng của các bộ phận cơ thể „der Zahn“, „die Hand“ và „der Fuß“ là gì?",
      "options": [
-      "die Zahne / die Hande / die Fuße",
       "die Zähne / die Hände / die Füße",
-      "die Zähner / die Händen / die Füßen",
-      "die Zahnen / die Händer / die Füßer"
+      "die Zahnen / die Händer / die Füßer",
+      "die Zahne / die Hande / die Fuße",
+      "die Zähner / die Händen / die Füßen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Cả 3 danh từ „der Zahn“, „die Hand“, „der Fuß“ đều thuộc nhóm thêm đuôi „-e“ kèm biến âm Umlaut ở số nhiều: „die Zähne“, „die Hände“, „die Füße“."
     },
     {
@@ -319,11 +319,11 @@
      "q": "Danh từ bộ phận cơ thể nào sau đây mang giống Trung („das“)?",
      "options": [
       "Kopf",
-      "Hand",
       "Auge",
+      "Hand",
       "Rücken"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„das Auge“ (con mắt), „das Ohr“ (cái tai), „das Bein“ (cẳng chân), „das Knie“ (đầu gối) mang giống Trung. Còn „der Kopf“, „der Rücken“ là giống Đực; „die Hand“ là giống Cái."
     },
     {
@@ -734,10 +734,10 @@
      "type": "mcq",
      "q": "Chọn dạng chia đúng của động từ „sollen“: „Der Arzt sagt, ich ___ drei Tage zu Hause bleiben und meine Frau ___ mich pflegen.“",
      "options": [
-      "solle ... sollt",
-      "soll ... soll",
       "söll ... söllt",
-      "sollst ... soll"
+      "soll ... soll",
+      "sollst ... soll",
+      "solle ... sollt"
      ],
      "answer": 1,
      "explain": "Động từ khuyết thiếu „sollen“ ở ngôi thứ nhất (ich) và ngôi thứ ba số ít (er/sie/es) giống hệt nhau và giữ nguyên âm o: „ich soll / sie soll“."
@@ -746,12 +746,12 @@
      "type": "mcq",
      "q": "Chọn câu mệnh lệnh (Imperativ) đúng ở ngôi thân mật „du“ (bạn):",
      "options": [
+      "Nehmt deine Tabletten und schlaft viel!",
       "Nehme deine Tabletten und schläf viel!",
       "Nimm deine Tabletten und schlaf viel!",
-      "Nimmst deine Tabletten und schläfst viel!",
-      "Nehmt deine Tabletten und schlaft viel!"
+      "Nimmst deine Tabletten und schläfst viel!"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Ở Imperativ ngôi „du“: „nehmen“ đổi e → i („Nimm!“), còn „schlafen“ giữ nguyên a không có Umlaut („schlaf!“)."
     },
     {
@@ -759,23 +759,23 @@
      "q": "Khi đi khám bác sĩ ở Đức, bạn luôn phải mang theo thẻ gì?",
      "options": [
       "Die Speisekarte",
-      "Die Gesundheitskarte (Versicherungskarte)",
+      "Die Postkarte",
       "Die Fahrkarte",
-      "Die Postkarte"
+      "Die Gesundheitskarte (Versicherungskarte)"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Khi đi khám bệnh tại Đức, bệnh nhân phải xuất trình thẻ bảo hiểm y tế: „die Gesundheitskarte“ (hoặc „die Krankenversicherungskarte“)."
     },
     {
      "type": "mcq",
      "q": "Chọn câu mệnh lệnh ngôi „du“ đúng với động từ „essen“ (ăn):",
      "options": [
-      "Ess bitte mehr Obst und Gemüse!",
       "Iss bitte mehr Obst und Gemüse!",
-      "Isst bitte mehr Obst und Gemüse!",
-      "Esst bitte mehr Obst und Gemüse!"
+      "Esst bitte mehr Obst und Gemüse!",
+      "Ess bitte mehr Obst und Gemüse!",
+      "Isst bitte mehr Obst und Gemüse!"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Động từ „essen“ đổi nguyên âm e → i ở ngôi du (du isst). Ở dạng mệnh lệnh ngôi „du“, ta bỏ đuôi -t và giữ nguyên âm i: „Iss!“."
     },
     {
@@ -1168,29 +1168,29 @@
      {
       "q": "Warum soll man im Winter mindestens zwei Liter Wasser oder Tee am Tag trinken?",
       "options": [
+       "Weil es im Winter kein frisches Obst gibt.",
        "Weil man im Winter beim Sport sehr viel schwitzt.",
-       "Weil die trockene Heizungsluft im Zimmer nicht gut für Nase und Hals ist.",
-       "Weil es im Winter kein frisches Obst gibt."
+       "Weil die trockene Heizungsluft im Zimmer nicht gut für Nase und Hals ist."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was empfiehlt Dr. Lindner zum Thema Bewegung im Winter?",
       "options": [
+       "Man soll nur im Sommer Sport machen.",
        "Man soll den ganzen Tag im warmen Bett bleiben.",
-       "Man soll täglich dreißig Minuten an der frischen Luft im Park spazieren gehen.",
-       "Man soll nur im Sommer Sport machen."
+       "Man soll täglich dreißig Minuten an der frischen Luft im Park spazieren gehen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wie viele Stunden soll man laut Dr. Lindner in der Nacht schlafen?",
       "options": [
+       "Mindestens zehn Stunden.",
        "Fünf bis sechs Stunden.",
-       "Sieben bis acht Stunden.",
-       "Mindestens zehn Stunden."
+       "Sieben bis acht Stunden."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1206,9 +1206,9 @@
      "q": "Chọn mạo từ sở hữu đúng ở cách Dativ: „Ich bin heute Vormittag bei ___ Hausarzt.“",
      "options": [
       "mein",
-      "meinen",
+      "meiner",
       "meinem",
-      "meiner"
+      "meinen"
      ],
      "answer": 2,
      "explain": "Giới từ „bei“ luôn đi với cách Dativ. „der Hausarzt“ mang giống Đực nên mạo từ sở hữu „mein“ nhận đuôi „-em“: „bei meinem Hausarzt“."
@@ -1230,23 +1230,23 @@
      "q": "Chọn câu hỏi đúng với mạo từ sở hữu ở Dativ: „Was ist denn mit ___ Hand passiert, Lukas?“",
      "options": [
       "deine",
-      "deiner",
       "deinem",
-      "deinen"
+      "deinen",
+      "deiner"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Giới từ „mit“ luôn đi với cách Dativ. „die Hand“ là danh từ giống Cái, nên mạo từ sở hữu của Lukas (du → dein) ở Dativ là „mit deiner Hand“."
     },
     {
      "type": "mcq",
      "q": "Ở Đức, khi gặp tai nạn nghiêm trọng hoặc ca cấp cứu y tế (Notfall), người ta gọi số điện thoại khẩn cấp nào?",
      "options": [
-      "11880",
       "112",
-      "100",
-      "999"
+      "11880",
+      "999",
+      "100"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Trên toàn nước Đức và Liên minh Châu Âu, số điện thoại gọi xe cứu thương và cứu hỏa khẩn cấp miễn phí là 112."
     },
     {
@@ -1917,26 +1917,26 @@
       "q": "Mai được hẹn lúc mấy giờ?",
       "options": [
        "Um zehn Uhr.",
-       "Um elf Uhr.",
-       "Um zwölf Uhr."
+       "Um zwölf Uhr.",
+       "Um elf Uhr."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Mai duoc dan mang theo gi?",
       "options": [
-       "Ihre Tasche.",
        "Ihr Rezept.",
-       "Ihre Gesundheitskarte."
+       "Ihre Gesundheitskarte.",
+       "Ihre Tasche."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Mai làm gì sau khi báo tên ở quầy tiếp đón?",
       "options": [
        "Cô đợi trong phòng chờ.",
-       "Cô gọi điện về nhà.",
-       "Cô vào gặp bác sĩ ngay."
+       "Cô vào gặp bác sĩ ngay.",
+       "Cô gọi điện về nhà."
       ],
       "answer": 0
      }
@@ -1953,33 +1953,33 @@
      "type": "mcq",
      "q": "Số nhiều của {{der Fuß}} là gì?",
      "options": [
-      "Fuße",
-      "Füßen",
       "Füße",
-      "Fußen"
+      "Fuße",
+      "Fußen",
+      "Füßen"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{Fuß}} đổi {{u}} thành {{ü}} và thêm {{-e}} để thành {{Füße}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào nghĩa là ‘Lina vẽ cái miệng của mình’?",
      "options": [
-      "Lina malt ihren Mund.",
-      "Lina malt ihr Mund.",
       "Lina malt seinen Mund.",
-      "Lina malt ihre Mund."
+      "Lina malt ihre Mund.",
+      "Lina malt ihren Mund.",
+      "Lina malt ihr Mund."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Chọn gốc {{ihr}} chỉ Lina. {{Mund}} giống đực và làm tân ngữ trực tiếp, nên dùng {{ihren}}."
     },
     {
      "type": "mcq",
      "q": "‘Đây là hai bàn tay của các bạn’ nói với một nhóm bạn là câu nào?",
      "options": [
+      "Das sind eure Hand.",
       "Das sind euer Hände.",
       "Das ist eure Hände.",
-      "Das sind eure Hand.",
       "Das sind eure Hände."
      ],
      "answer": 3,
@@ -1989,24 +1989,24 @@
      "type": "mcq",
      "q": "Hỏi một người lớn bằng lối xưng hô lịch sự ‘Đây có phải bàn tay của ông/bà không?’",
      "options": [
-      "Ist das Ihr Hand?",
-      "Ist das Ihre Hand?",
       "Ist das ihre Hand?",
-      "Ist das deine Hand?"
+      "Ist das Ihr Hand?",
+      "Ist das deine Hand?",
+      "Ist das Ihre Hand?"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Hand}} là giống cái, nên dùng {{Ihre}}. Chữ hoa cho biết người nói đang xưng hô lịch sự với người đối diện."
     },
     {
      "type": "mcq",
      "q": "Dạng số nhiều nào ghép đúng với danh từ trong câu ‘Đây là hai đầu gối’?",
      "options": [
-      "Das sind zwei Knien.",
       "Das sind zwei Knies.",
       "Das sind zwei Knie.",
+      "Das sind zwei Knien.",
       "Das sind zwei Kniene."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Knie}} giữ nguyên dạng viết ở số nhiều trong mẫu {{zwei Knie}}."
     },
     {
@@ -2188,10 +2188,10 @@
      "type": "mcq",
      "q": "Câu nào nghĩa là ‘Mình đau họng từ thứ Hai’?",
      "options": [
-      "Am Montag habe ich Halsschmerzen.",
+      "Seit Montag habe ich Kopfschmerzen.",
       "Seit Montag habe ich Halsschmerzen.",
       "Ich habe bis Montag Halsschmerzen.",
-      "Seit Montag habe ich Kopfschmerzen."
+      "Am Montag habe ich Halsschmerzen."
      ],
      "answer": 1,
      "explain": "{{Seit Montag}} nêu mốc bắt đầu là thứ Hai và tình trạng còn tiếp diễn. {{Halsschmerzen}} là đau họng."
@@ -2200,12 +2200,12 @@
      "type": "mcq",
      "q": "Câu nào nghĩa là ‘Cả hai bàn chân mình đau’?",
      "options": [
-      "Meine Füße tut weh.",
       "Mein Fuß tut weh.",
       "Meine Füße sind weh.",
-      "Meine Füße tun weh."
+      "Meine Füße tun weh.",
+      "Meine Füße tut weh."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Meine Füße}} là chủ ngữ số nhiều, nên dùng {{tun}} và đặt {{weh}} ở cuối."
     },
     {
@@ -2213,9 +2213,9 @@
      "q": "Chọn câu hỏi nghĩa là ‘Mình có cần gọi cho cô giáo không?’",
      "options": [
       "Soll ich die Lehrerin anrufen?",
+      "Kann die Lehrerin mich anrufen?",
       "Ich soll die Lehrerin anrufen.",
-      "Sollst du die Lehrerin anrufen?",
-      "Kann die Lehrerin mich anrufen?"
+      "Sollst du die Lehrerin anrufen?"
      ],
      "answer": 0,
      "explain": "Đưa {{soll}} lên đầu câu hỏi với chủ ngữ {{ich}}. Giữ nguyên {{anrufen}} ở cuối."
@@ -2224,8 +2224,8 @@
      "type": "mcq",
      "q": "Chọn câu với {{sollen}} diễn đạt ‘Các bạn được dặn chờ ở đây’.",
      "options": [
-      "Ihr sollen hier warten.",
       "Ihr soll hier warten.",
+      "Ihr sollen hier warten.",
       "Ihr sollt hier warten.",
       "Ihr sollst hier warten."
      ],
@@ -2236,12 +2236,12 @@
      "type": "mcq",
      "q": "Câu nào nói ‘Mình thấy buồn nôn’?",
      "options": [
-      "Mir ist besser.",
-      "Mir ist übel.",
+      "Mein Bauch tut weh.",
       "Mir ist schwindelig.",
-      "Mein Bauch tut weh."
+      "Mir ist übel.",
+      "Mir ist besser."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Học cả cụm {{Mir ist übel.}} để diễn đạt cảm giác buồn nôn."
     },
     {
@@ -2426,33 +2426,33 @@
      "type": "mcq",
      "q": "Bạn muốn đặt lịch khám. Câu nào nói đúng mục đích?",
      "options": [
-      "Ich möchte meinen Termin absagen.",
       "Ich möchte meinen Termin verschieben.",
       "Ich möchte einen Termin vereinbaren.",
-      "Ich habe schon einen Termin."
+      "Ich habe schon einen Termin.",
+      "Ich möchte meinen Termin absagen."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Einen Termin vereinbaren}} nghĩa là đặt hoặc thỏa thuận một lịch. {{Absagen}} là hủy, {{verschieben}} là dời."
     },
     {
      "type": "mcq",
      "q": "Nhân viên nói lịch sự ‘Ông/bà vui lòng đợi ở đây’. Chọn câu mệnh lệnh phù hợp.",
      "options": [
-      "Warten Sie bitte hier.",
       "Warte bitte hier.",
       "Wartet bitte hier.",
-      "Sie warten bitte dort."
+      "Sie warten bitte dort.",
+      "Warten Sie bitte hier."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Dạng lịch sự dùng {{warten}} ở đầu, rồi đến {{Sie}}. {{Hier}} nghĩa là ở đây."
     },
     {
      "type": "mcq",
      "q": "Nhờ hai người bạn khép cửa. Câu nào phù hợp với {{ihr}}?",
      "options": [
-      "Mach bitte die Tür zu.",
       "Machen Sie bitte die Tür zu.",
       "Macht bitte die Tür auf.",
+      "Mach bitte die Tür zu.",
       "Macht bitte die Tür zu."
      ],
      "answer": 3,
@@ -2462,24 +2462,24 @@
      "type": "mcq",
      "q": "Nhân viên hỏi người đến khám có mang theo thẻ bảo hiểm y tế của họ không. Chọn câu xưng hô lịch sự.",
      "options": [
-      "Haben Sie Ihr Gesundheitskarte dabei?",
-      "Haben Sie Ihre Gesundheitskarte dabei?",
       "Haben Sie Ihren Gesundheitskarte dabei?",
-      "Haben Sie seine Gesundheitskarte dabei?"
+      "Haben Sie seine Gesundheitskarte dabei?",
+      "Haben Sie Ihre Gesundheitskarte dabei?",
+      "Haben Sie Ihr Gesundheitskarte dabei?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Dùng gốc {{Ihr}} khi hỏi lịch sự người đối diện. {{Gesundheitskarte}} là giống cái, nên chọn {{Ihre}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào nghĩa ‘Tôi có thể dời lịch hẹn của tôi sang thứ Sáu không?’",
      "options": [
-      "Kann ich meinen Termin auf Freitag verschieben?",
       "Kann ich mein Termin auf Freitag verschieben?",
       "Kann ich meine Termine am Freitag absagen?",
-      "Kann ich am Freitag einen Termin vereinbaren?"
+      "Kann ich am Freitag einen Termin vereinbaren?",
+      "Kann ich meinen Termin auf Freitag verschieben?"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Dùng {{meinen Termin}} vì {{Termin}} là tân ngữ giống đực. Cụm {{auf Freitag verschieben}} chỉ việc dời lịch sang thứ Sáu."
     },
     {

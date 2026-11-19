@@ -14,9 +14,9 @@
    "q": "Welche subjektive Bedeutung hat der Satz: 'Der Zeuge will den Täter genau gesehen haben.'?",
    "options": [
     "Der Zeuge behauptet über sich selbst, den Täter gesehen zu haben.",
+    "Der Zeuge muss den Täter unbedingt sehen.",
     "Man sagt, dass der Zeuge den Täter gesehen hat.",
-    "Der Zeuge möchte den Täter in Zukunft sehen.",
-    "Der Zeuge muss den Täter unbedingt sehen."
+    "Der Zeuge möchte den Täter in Zukunft sehen."
    ],
    "answer": 0,
    "explain": "'wollen' ở nghĩa chủ quan diễn tả lời tự khẳng định của chủ ngữ về bản thân (thường bị nghi ngờ)."
@@ -25,60 +25,60 @@
    "type": "mcq",
    "q": "Was drückt 'sollen' in 'Der neue Nachbar soll Millionär sein.' aus?",
    "options": [
-    "Ein Gerücht / eine fremde Behauptung (Man sagt, dass er Millionär ist).",
     "Eine Pflicht (Er muss Millionär werden).",
+    "Ein Gerücht / eine fremde Behauptung (Man sagt, dass er Millionär ist).",
     "Eine Absicht (Er will Millionär sein).",
     "Eine Erlaubnis (Er darf Millionär sein)."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'sollen' chủ quan diễn tả thông tin truyền tai, tin đồn từ người khác (Gerücht)."
   },
   {
    "type": "mcq",
    "q": "Welches Modalverb drückt eine hohe Wahrscheinlichkeit (~80%) aus?",
    "options": [
-    "dürfte",
-    "kann",
     "mag",
-    "will"
+    "kann",
+    "will",
+    "dürfte"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'dürfte' diễn tả mức độ suy đoán cao (khoảng 75-80%), tương đương với 'wahrscheinlich'."
   },
   {
    "type": "mcq",
    "q": "Wie drückt man aus, dass man sich zu 100% sicher ist, dass Thomas den Zug verpasst hat?",
    "options": [
-    "Thomas muss den Zug verpasst haben.",
-    "Thomas kann den Zug verpasst haben.",
+    "Thomas mag den Zug verpasst haben.",
     "Thomas will den Zug verpasst haben.",
-    "Thomas mag den Zug verpasst haben."
+    "Thomas muss den Zug verpasst haben.",
+    "Thomas kann den Zug verpasst haben."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'müssen' ở nghĩa chủ quan diễn tả mức độ chắc chắn gần như tuyệt đối (~100%)."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz drückt eine Einräumung (zwar ... aber) aus?",
    "options": [
-    "Er mag recht haben, aber seine Methode ist falsch.",
-    "Er muss recht haben, das ist sicher.",
     "Er will recht haben, sagt die Polizei.",
-    "Er soll recht haben, habe ich gehört."
+    "Er soll recht haben, habe ich gehört.",
+    "Er mag recht haben, aber seine Methode ist falsch.",
+    "Er muss recht haben, das ist sicher."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'mögen' (mag) ở nghĩa chủ quan dùng để thừa nhận một sự thật (zwar ... aber)."
   },
   {
    "type": "mcq",
    "q": "Wie lautet die subjektive Vermutung in der Vergangenheit: 'Er ist sicher krank gewesen.'?",
    "options": [
-    "Er muss krank gewesen sein.",
+    "Er muss krank gewesen haben.",
     "Er musste krank gewesen sein.",
-    "Er hat krank sein müssen.",
-    "Er muss krank gewesen haben."
+    "Er muss krank gewesen sein.",
+    "Er hat krank sein müssen."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Công thức: Modalverb Präsens (muss) + Infinitiv Perfekt (krank gewesen sein)."
   },
   {

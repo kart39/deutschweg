@@ -107,18 +107,18 @@
   {
    "q": "Wann schließt das Café Einstein abends?",
    "options": [
+    "Um 22:00 Uhr",
     "Um 18:00 Uhr",
-    "Um 20:00 Uhr",
-    "Um 22:00 Uhr"
+    "Um 20:00 Uhr"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Was gehört zum Frühstück 'Klassik'?",
    "options": [
-    "Müsli und Joghurt",
+    "Schnitzel mit Kartoffelsalat",
     "Zwei Brötchen, Butter, Marmelade und Ei",
-    "Schnitzel mit Kartoffelsalat"
+    "Müsli und Joghurt"
    ],
    "answer": 1
   },
@@ -135,10 +135,10 @@
    "q": "Was kostet ein Apfelstrudel mit Vanillesoße?",
    "options": [
     "3,90 Euro",
-    "4,50 Euro",
-    "5,80 Euro"
+    "5,80 Euro",
+    "4,50 Euro"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Ab wie viel Euro kann man mit Karte bezahlen?",

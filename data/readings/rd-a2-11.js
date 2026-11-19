@@ -107,29 +107,29 @@
   {
    "q": "Wie viele Tage pro Woche arbeitet der Autor im Homeoffice?",
    "options": [
+    "Nur einen Tag",
     "Fünf Tage",
-    "Drei Tage",
-    "Nur einen Tag"
+    "Drei Tage"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Welchen Vorteil des Homeoffice nennt der Autor?",
    "options": [
-    "Mehr Gehalt",
+    "Kostenloses Mittagessen",
     "Zeitersparnis beim Arbeitsweg",
-    "Kostenloses Mittagessen"
+    "Mehr Gehalt"
    ],
    "answer": 1
   },
   {
    "q": "Welcher Nachteil wird im Text beschrieben?",
    "options": [
-    "Man verdient weniger Geld",
     "Die Grenze zwischen Arbeit und Freizeit verschwimmt",
+    "Man verdient weniger Geld",
     "Man hat keinen Strom"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Was vermisst der Autor am Arbeiten zu Hause?",
@@ -143,11 +143,11 @@
   {
    "q": "Welches Modell findet der Autor ideal?",
    "options": [
-    "Reine Büroarbeit",
+    "Eine Mischung aus Homeoffice und Büropräsenz",
     "Reines Homeoffice",
-    "Eine Mischung aus Homeoffice und Büropräsenz"
+    "Reine Büroarbeit"
    ],
-   "answer": 2
+   "answer": 0
   }
  ]
 });

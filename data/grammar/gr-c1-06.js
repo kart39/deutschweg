@@ -13,72 +13,72 @@
    "type": "mcq",
    "q": "Welcher Satz ist stilistisch am ELEGANTISTEN bei identischem Subjekt (er = er)?",
    "options": [
-    "Er verließ das Zimmer, ohne ein Wort zu sagen.",
     "Er verließ das Zimmer, ohne dass er ein Wort sagte.",
     "Er verließ das Zimmer ohne er sagte ein Wort.",
+    "Er verließ das Zimmer, ohne ein Wort zu sagen.",
     "Er verließ das Zimmer, ohne dass ein Wort sagen."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Khi cùng chủ ngữ, cấu trúc 'ohne ... zu + Infinitiv' là chuẩn mực và thanh thoát nhất trong văn phong C1."
   },
   {
    "type": "mcq",
    "q": "Wann MUSS 'ohne dass' anstelle von 'ohne ... zu' verwendet werden?",
    "options": [
-    "Wenn die Subjekte in Haupt- und Nebensatz unterschiedlich sind.",
-    "Wenn der Satz in der Vergangenheit steht.",
     "Wenn das Verb trennbar ist.",
-    "Wenn man besonders höflich klingen möchte."
+    "Wenn man besonders höflich klingen möchte.",
+    "Wenn die Subjekte in Haupt- und Nebensatz unterschiedlich sind.",
+    "Wenn der Satz in der Vergangenheit steht."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Bắt buộc phải dùng 'ohne dass' khi hai mệnh đề có chủ ngữ khác nhau (verschiedene Subjekte)."
   },
   {
    "type": "mcq",
    "q": "Welche Subjunktion beantwortet die Frage 'Auf welche Art und Weise? / Wodurch?'",
    "options": [
+    "damit",
     "indem",
-    "obwohl",
     "sodass",
-    "damit"
+    "obwohl"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'indem' là liên từ phương thức chính, trả lời cho câu hỏi 'Wodurch? Wie?' (bằng cách nào)."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz mit 'dadurch, dass' ist grammatisch KORREKT?",
    "options": [
-    "Er überzeugte die Jury dadurch, dass er präzise Daten vorlegte.",
+    "Dadurch er legte Daten vor, überzeugte er die Jury.",
     "Er überzeugte die Jury dadurch, dass er legte präzise Daten vor.",
     "Er überzeugte dadurch die Jury, indem dass er Daten vorlegte.",
-    "Dadurch er legte Daten vor, überzeugte er die Jury."
+    "Er überzeugte die Jury dadurch, dass er präzise Daten vorlegte."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'dadurch, dass' dẫn mệnh đề phụ với động từ chia đứng ở cuối câu: vorlegte."
   },
   {
    "type": "mcq",
    "q": "Was drückt 'anstatt dass / anstatt ... zu' aus?",
    "options": [
+    "Eine Bedingung",
     "Einen gegensätzlichen Ersatz (Substitutiv)",
     "Einen kausalen Grund",
-    "Eine zeitliche Gleichzeitigkeit",
-    "Eine Bedingung"
+    "Eine zeitliche Gleichzeitigkeit"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'anstatt dass / anstatt ... zu' diễn tả sự thay thế đối lập (Substitutiv: thay vì làm A thì lại làm B)."
   },
   {
    "type": "mcq",
    "q": "Welche Nominalisierung entspricht: 'indem er Prozesse automatisierte'?",
    "options": [
-    "durch die Automatisierung von Prozessen",
-    "trotz der Automatisierung von Prozessen",
     "ohne die Automatisierung von Prozessen",
-    "wegen automatisierten Prozessen"
+    "wegen automatisierten Prozessen",
+    "durch die Automatisierung von Prozessen",
+    "trotz der Automatisierung von Prozessen"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'indem' chuyển sang Nominalstil bằng giới từ 'durch + Akkusativ' hoặc 'mittels + Genitiv'."
   },
   {

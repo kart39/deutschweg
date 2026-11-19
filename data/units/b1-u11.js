@@ -414,26 +414,26 @@
      {
       "q": "Wofür setzte sich Aylin ein?",
       "options": [
-       "Für längere Öffnungszeiten.",
        "Für mehr Platz für Musik.",
+       "Für längere Öffnungszeiten.",
        "Für ein neues Sportangebot."
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Warum nahm Mina an der Diskussion teil?",
-      "options": [
-       "Sie wollte selbst kandidieren.",
-       "Sie interessierte sich für die Öffnungszeiten.",
-       "Sie sollte die Stimmen zählen."
       ],
       "answer": 1
      },
      {
+      "q": "Warum nahm Mina an der Diskussion teil?",
+      "options": [
+       "Sie interessierte sich für die Öffnungszeiten.",
+       "Sie sollte die Stimmen zählen.",
+       "Sie wollte selbst kandidieren."
+      ],
+      "answer": 0
+     },
+     {
       "q": "Was stand auf den Stimmzetteln?",
       "options": [
-       "Nur die Namen der später Gewählten.",
        "Die Öffnungszeiten des Hauses.",
+       "Nur die Namen der später Gewählten.",
        "Die Namen aller vier Kandidaten."
       ],
       "answer": 2
@@ -450,11 +450,11 @@
      {
       "q": "Wozu will Aylin die Vorschläge nach Themen ordnen?",
       "options": [
-       "Damit alle Vorschläge angenommen werden.",
        "Damit man anschließend jeden Punkt einzeln besprechen kann.",
-       "Damit Minas Frage verschwindet."
+       "Damit Minas Frage verschwindet.",
+       "Damit alle Vorschläge angenommen werden."
       ],
-      "answer": 1
+      "answer": 0
      }
     ],
     "glossary": []
@@ -469,10 +469,10 @@
      "type": "mcq",
      "q": "Chọn cụm đi với {{teilnehmen}}.",
      "options": [
+      "von der Wahl",
       "über die Wahl",
-      "für die Wahl",
       "an der Wahl",
-      "von der Wahl"
+      "für die Wahl"
      ],
      "answer": 2,
      "explain": "{{Teilnehmen an}} đi với {{Dativ}}. {{Die Wahl}} thành {{der Wahl}}."
@@ -483,8 +483,8 @@
      "options": [
       "Sie setzt sich für einen öffentlichen Treffpunkt ein.",
       "Sie setzt sich über einen öffentlichen Treffpunkt ein.",
-      "Sie setzt einen öffentlichen Treffpunkt aus.",
-      "Sie setzt sich mit einem öffentlichen Treffpunkt ein."
+      "Sie setzt sich mit einem öffentlichen Treffpunkt ein.",
+      "Sie setzt einen öffentlichen Treffpunkt aus."
      ],
      "answer": 0,
      "explain": "Cụm {{sich einsetzen für}} dùng {{Akkusativ}}."
@@ -493,12 +493,12 @@
      "type": "mcq",
      "q": "{{Die Mehrheit stimmte gegen den Vorschlag.}} cho biết gì?",
      "options": [
-      "Đa số ủng hộ đề xuất.",
       "Thiểu số đồng ý với đề xuất.",
+      "Đa số bỏ phiếu chống đề xuất.",
       "Chưa có ai bỏ phiếu.",
-      "Đa số bỏ phiếu chống đề xuất."
+      "Đa số ủng hộ đề xuất."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{Gegen}} nghĩa là chống hoặc không tán thành trong tình huống biểu quyết."
     },
     {
@@ -506,23 +506,23 @@
      "q": "Nơi kín để đánh dấu lá phiếu gọi là gì?",
      "options": [
       "Wahlurne",
-      "Wahlkabine",
       "Wahlergebnis",
+      "Wahlkabine",
       "Wahlbeteiligung"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Wahlkabine}} là buồng đánh dấu phiếu kín. {{Wahlurne}} là hòm phiếu."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có cụm ‘hài lòng với kết quả’.",
      "options": [
-      "Sie ist mit dem Ergebnis zufrieden.",
       "Sie ist an dem Ergebnis zufrieden.",
-      "Sie ist für das Ergebnis zufrieden.",
-      "Sie ist von dem Ergebnis zufrieden."
+      "Sie ist mit dem Ergebnis zufrieden.",
+      "Sie ist von dem Ergebnis zufrieden.",
+      "Sie ist für das Ergebnis zufrieden."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Zufrieden mit}} đi với {{Dativ}}."
     },
     {
@@ -530,11 +530,11 @@
      "q": "Hỏi ‘Họ bỏ phiếu cho đề xuất gì?’ mà không nhắc lại từ {{Vorschlag}}.",
      "options": [
       "Für wen stimmen sie?",
-      "Woran stimmen sie?",
       "Wofür stimmen sie?",
+      "Woran stimmen sie?",
       "Wozu stimmen sie?"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Dùng {{wofür}} hỏi về một vật hoặc chủ đề với {{für}}."
     },
     {
@@ -1140,20 +1140,20 @@
      {
       "q": "Warum bot das Café diesmal einen Fahrdienst an?",
       "options": [
-       "Manche Leute konnten ihre Jacken nicht selbst bringen.",
        "Die Besucher wollten ihre neuen Jacken nach Hause liefern lassen.",
-       "Das Café hatte keinen Platz für Kleiderspenden."
+       "Das Café hatte keinen Platz für Kleiderspenden.",
+       "Manche Leute konnten ihre Jacken nicht selbst bringen."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was änderte die Leiterin nach dem Ausfall eines Fahrers?",
       "options": [
+       "Die Zahl der Größen auf den Schildern",
        "Die Öffnungszeit des Cafés",
-       "Die Reihenfolge der Abholungen",
-       "Die Zahl der Größen auf den Schildern"
+       "Die Reihenfolge der Abholungen"
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wo wurden die Jacken schließlich sortiert?",
@@ -1167,20 +1167,20 @@
      {
       "q": "Wie half die Tochter bei der Aktion?",
       "options": [
-       "Sie malte Schilder mit den Größen.",
        "Sie fuhr Jacken zu den Besuchern.",
+       "Sie malte Schilder mit den Größen.",
        "Sie erklärte der Leiterin den Einsatzplan."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Welche Information möchte das Team auf den nächsten Aushang schreiben?",
       "options": [
        "Nur angemeldete Besucher können Schuhe mitnehmen.",
-       "Hilfe beim Sortieren ist auch ohne Anmeldung möglich.",
-       "Die Leiterin nimmt persönliche Spenden nur zu Hause an."
+       "Die Leiterin nimmt persönliche Spenden nur zu Hause an.",
+       "Hilfe beim Sortieren ist auch ohne Anmeldung möglich."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1195,11 +1195,11 @@
      "type": "mcq",
      "q": "Đâu là cách nối đúng để nói rằng mọi người vẫn đến giúp dù trời mưa?",
      "options": [
-      "Obwohl es regnete, kamen viele zum Helfen.",
       "Obwohl regnete es, kamen viele zum Helfen.",
-      "Obwohl es regnete, viele kamen zum Helfen."
+      "Obwohl es regnete, viele kamen zum Helfen.",
+      "Obwohl es regnete, kamen viele zum Helfen."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Ở mệnh đề với {{obwohl}}, động từ chia đứng cuối. Mệnh đề phụ đứng trước, sau dấu phẩy là động từ chia của mệnh đề chính."
     },
     {
@@ -1207,10 +1207,10 @@
      "q": "Câu nào đặt động từ đúng khi mở đầu bằng {{Trotzdem}}?",
      "options": [
       "Trotzdem die Aktion fand statt.",
-      "Trotzdem die Aktion stattfand.",
-      "Trotzdem fand die Aktion statt."
+      "Trotzdem fand die Aktion statt.",
+      "Trotzdem die Aktion stattfand."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Khi {{Trotzdem}} đứng đầu mệnh đề chính, động từ chia đứng thứ hai, như {{Trotzdem fand die Aktion statt.}}."
     },
     {
@@ -1218,10 +1218,10 @@
      "q": "Chọn giới từ trong {{Viele Nachbarn beteiligen sich ___ der Spendenaktion.}}.",
      "options": [
       "für",
-      "an",
-      "über"
+      "über",
+      "an"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Cụm {{sich an etwas beteiligen}} dùng {{an}} với Dativ."
     },
     {
@@ -1229,10 +1229,10 @@
      "q": "Chọn giới từ trong {{Noor engagiert sich ___ den Lernkreis.}}.",
      "options": [
       "bei",
-      "an",
-      "für"
+      "für",
+      "an"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Cụm {{sich für etwas engagieren}} dùng {{für}} với Akkusativ."
     },
     {
@@ -1251,10 +1251,10 @@
      "q": "Chọn từ nối chỉ hệ quả theo nguyên nhân đã nêu. {{Der Innenhof war wegen des Regens nass. ___ sortierten wir die Jacken im Saal.}}",
      "options": [
       "Trotzdem",
-      "Deshalb",
-      "Obwohl"
+      "Obwohl",
+      "Deshalb"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Sân ướt là lý do chuyển vào hội trường. {{Deshalb}} đưa hệ quả vào mệnh đề chính."
     },
     {
@@ -1878,47 +1878,47 @@
      {
       "q": "Warum war ein Treffen am Samstag sinnvoll?",
       "options": [
-       "Einige Eltern arbeiteten mittwochs bis spät.",
        "Der Kiosk durfte nur am Wochenende öffnen.",
+       "Einige Eltern arbeiteten mittwochs bis spät.",
        "Ältere Nachbarn wollten den Mittwoch abschaffen."
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Was veranlasste die Gruppe, einen Plan mit beiden Zugängen aufzuhängen?",
-      "options": [
-       "Zwei Jugendliche hatten Brettspiele mitgebracht.",
-       "Einige Leute hatten den Eingang am Hof nicht gefunden.",
-       "Die Hoftür sollte geschlossen werden."
       ],
       "answer": 1
      },
      {
+      "q": "Was veranlasste die Gruppe, einen Plan mit beiden Zugängen aufzuhängen?",
+      "options": [
+       "Einige Leute hatten den Eingang am Hof nicht gefunden.",
+       "Zwei Jugendliche hatten Brettspiele mitgebracht.",
+       "Die Hoftür sollte geschlossen werden."
+      ],
+      "answer": 0
+     },
+     {
       "q": "Welche zwei Angebote wollte die Gruppe ausprobieren?",
       "options": [
-       "Ein Sprachcafé und einen Fahrdienst",
        "Einen Büchertausch und einen Spieltisch",
-       "Ein Sprachcafé und einen Spieltisch"
+       "Ein Sprachcafé und einen Spieltisch",
+       "Ein Sprachcafé und einen Fahrdienst"
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was taten die Nachbarn für die Willkommensmappe?",
       "options": [
-       "Sie übersetzten und prüften Texte.",
        "Sie druckten nur den Plan mit den Türen.",
+       "Sie übersetzten und prüften Texte.",
        "Sie baten alle um einen schriftlichen Sprachtest."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was will die Gruppe am Monatsende unter anderem besprechen?",
       "options": [
        "Wer den Kiosk früher betrieben hat",
-       "Welche Personen bisher kaum erreicht wurden",
-       "Wie viel die Brettspiele im Geschäft kosten"
+       "Wie viel die Brettspiele im Geschäft kosten",
+       "Welche Personen bisher kaum erreicht wurden"
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1933,9 +1933,9 @@
      "type": "mcq",
      "q": "Từ nào diễn đạt hệ quả của việc nhiều người chỉ rảnh buổi tối? {{Viele haben erst abends Zeit. ___ öffnet das Café länger.}}",
      "options": [
-      "Dennoch",
+      "Dagegen",
       "Daher",
-      "Dagegen"
+      "Dennoch"
      ],
      "answer": 1,
      "explain": "{{Daher}} dẫn hệ quả của nguyên nhân vừa nêu. Vì nhiều người chỉ rảnh buổi tối nên quán mở cửa lâu hơn."
@@ -1944,44 +1944,44 @@
      "type": "mcq",
      "q": "Chọn từ nối để bổ sung một dịch vụ. {{Der Verein vermittelt Tandems. ___ bietet er einen Leseabend an.}}",
      "options": [
+      "Dennoch",
       "Zudem",
-      "Dagegen",
-      "Dennoch"
+      "Dagegen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Zudem}} thêm một thông tin cùng hướng. Cả hai câu đều nói về hoạt động của hội."
     },
     {
      "type": "mcq",
      "q": "Câu nào đối chiếu hai địa điểm?",
      "options": [
-      "Im Saal ist es hell. Im Hof dagegen ist es dunkel.",
+      "Im Saal ist es hell. Zudem gibt es dort einen Tisch.",
       "Im Saal ist es hell. Daher sitzen wir dort.",
-      "Im Saal ist es hell. Zudem gibt es dort einen Tisch."
+      "Im Saal ist es hell. Im Hof dagegen ist es dunkel."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{Im Hof dagegen}} đối chiếu sân với hội trường."
     },
     {
      "type": "mcq",
      "q": "Chọn từ nối cho kết quả trái dự đoán. {{Der Raum war sehr klein. ___ fanden alle einen Platz.}}",
      "options": [
+      "Dennoch",
       "Daher",
-      "Zudem",
-      "Dennoch"
+      "Zudem"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{Dennoch}} báo hiệu điều vẫn xảy ra dù có trở ngại."
     },
     {
      "type": "mcq",
      "q": "Câu nào đưa ra một ưu điểm và một hạn chế của cùng địa điểm?",
      "options": [
+      "Der Hof ist klein. Daher suchen wir einen Saal.",
       "Der Hof liegt zentral. Zudem ist er groß.",
-      "Einerseits liegt der Hof zentral, andererseits ist er im Winter kalt.",
-      "Der Hof ist klein. Daher suchen wir einen Saal."
+      "Einerseits liegt der Hof zentral, andererseits ist er im Winter kalt."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Cặp {{einerseits … andererseits}} giúp cân nhắc hai mặt của sân, vị trí trung tâm và tình trạng lạnh vào mùa đông."
     },
     {
@@ -1989,10 +1989,10 @@
      "q": "Chọn giới từ trong {{Wir tauschen uns ___ die Öffnungszeiten aus.}}.",
      "options": [
       "mit",
-      "bei",
-      "über"
+      "über",
+      "bei"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Trong {{sich über etwas austauschen}}, {{über + Akkusativ}} nêu chủ đề trao đổi."
     },
     {
@@ -2607,34 +2607,34 @@
      {
       "question": "Worauf beschränkt sich die politische Teilhabe in einer lebendigen Demokratie laut Text nicht?",
       "options": [
-       "Auf das bloße Wählen alle vier oder fünf Jahre",
+       "Auf den Schutz von städtischen Grünflächen",
        "Auf das Mitwirken in lokalen Bürgerinitiativen",
-       "Auf das Engagement in gemeinnützigen Vereinen",
-       "Auf den Schutz von städtischen Grünflächen"
+       "Auf das bloße Wählen alle vier oder fünf Jahre",
+       "Auf das Engagement in gemeinnützigen Vereinen"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Câu đầu tiên nêu rõ sự tham gia chính trị không chỉ giới hạn ở việc định kỳ đi bầu cử: 'beschränkt sich die politische Teilhabe der Bevölkerung keineswegs auf den regelmäßigen Gang zur Wahlurne alle vier oder fünf Jahre'."
      },
      {
       "question": "Was tun engagierte Bürger, wenn sie mit einer Verwaltungsentscheidung unzufrieden sind?",
       "options": [
-       "Sie organisieren Proteste, schreiben Petitionen und sammeln Unterschriften",
+       "Sie gründen umgehend eine bundesweite politische Partei",
        "Sie ziehen sofort vor das Bundesverfassungsgericht",
        "Sie verweigern ausnahmslos die Zahlung von Kommunalsteuern",
-       "Sie gründen umgehend eine bundesweite politische Partei"
+       "Sie organisieren Proteste, schreiben Petitionen und sammeln Unterschriften"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Theo đoạn 2: 'Sie organisieren friedliche Demonstrationen, verfassen Petitionen und sammeln im Wohnviertel Unterschriften'."
      },
      {
       "question": "Wozu zwingen Bürgerinitiativen die lokalen Politiker?",
       "options": [
-       "Zur Suche nach tragfähigen Kompromissen und zur Beachtung von Bürgeranliegen",
+       "Zur Einführung von verpflichtenden Mitgliedsbeiträgen",
        "Zum sofortigen Rücktritt aus ihren politischen Ämtern",
-       "Zu einem vollständigen Verzicht auf Haushaltspläne",
-       "Zur Einführung von verpflichtenden Mitgliedsbeiträgen"
+       "Zur Suche nach tragfähigen Kompromissen und zur Beachtung von Bürgeranliegen",
+       "Zu einem vollständigen Verzicht auf Haushaltspläne"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Đoạn 2 nêu: 'Durch diese zielgerichteten Aktionen zwingen sie die verantwortlichen Politiker, tragfähige Kompromisse zu suchen und die berechtigten Anliegen der Nachbarschaft ernst zu nehmen'."
      },
      {
@@ -2651,12 +2651,12 @@
      {
       "question": "Wie wird die Demokratie im Schlusssatz des Textes charakterisiert?",
       "options": [
-       "Als lebendiger Prozess, der vom ständigen Mitmachen und Zivilcourage lebt",
-       "Als abgeschlossener Zustand, der für alle Zeiten garantiert ist",
        "Als rein bürokratisches System ohne Bürgerbeteiligung",
-       "Als theoretisches Modell ohne praktischen Nutzen im Alltag"
+       "Als theoretisches Modell ohne praktischen Nutzen im Alltag",
+       "Als lebendiger Prozess, der vom ständigen Mitmachen und Zivilcourage lebt",
+       "Als abgeschlossener Zustand, der für alle Zeiten garantiert ist"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Đoạn cuối nhấn mạnh: 'Demokratie ist kein fertiger Zustand... sondern ein lebendiger Prozess, der vom ständigen Mitmachen und dem Mut zur Zivilcourage lebt'."
      }
     ]
@@ -2670,36 +2670,36 @@
      "type": "mcq",
      "q": "Welche Konjunktion leitet einen Nebensatz mit Verb am Ende ein und drückt einen Gegensatz aus?",
      "options": [
-      "Obwohl",
+      "Wegen",
       "Trotzdem",
       "Deshalb",
-      "Wegen"
+      "Obwohl"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Obwohl' là liên từ phụ diễn tả sự nhượng bộ / tương phản, đẩy động từ xuống cuối mệnh đề."
     },
     {
      "type": "mcq",
      "q": "Es regnete am Samstag in Strömen. ______ kamen hunderte Menschen zur friedlichen Kundgebung.",
      "options": [
-      "Trotzdem",
       "Obwohl",
-      "Weil",
-      "Da"
+      "Trotzdem",
+      "Da",
+      "Weil"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'Trotzdem' là trạng từ liên kết đứng ở đầu câu làm đảo động từ lên vị trí 2 (kamen hunderte Menschen)."
     },
     {
      "type": "mcq",
      "q": "______ hat die Mehrheit der Fraktion bei der gestrigen Abstimmung gestimmt?",
      "options": [
-      "Für wen",
-      "Wofür",
       "Worüber",
-      "Dafür"
+      "Dafür",
+      "Wofür",
+      "Für wen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Khi hỏi về việc bỏ phiếu ủng hộ ứng viên nào (người), ta dùng giới từ + wen: 'Für wen'."
     },
     {
@@ -2707,9 +2707,9 @@
      "q": "Die Anwohner fordern eine Verkehrsberuhigung. Die Politiker debattieren schon seit Wochen ______.",
      "options": [
       "darüber",
-      "über ihn",
+      "daran",
       "wofür",
-      "daran"
+      "über ihn"
      ],
      "answer": 0,
      "explain": "Thảo luận về vấn đề gì (Sache/Thema): 'debattieren über + Akkusativ' -> thay bằng 'darüber'."
@@ -2718,12 +2718,12 @@
      "type": "mcq",
      "q": "Trotz ______ konnte das neue Jugendzentrum wie geplant eröffnet werden.",
      "options": [
-      "des knappen Budgets",
-      "dem knappen Budget",
       "das knappe Budget",
-      "den knappen Budgets"
+      "des knappen Budgets",
+      "den knappen Budgets",
+      "dem knappen Budget"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'Trotz' đòi cách Genitiv: 'des knappen Budgets'."
     },
     {
@@ -2731,9 +2731,9 @@
      "q": "Das bürgerschaftliche Projekt fördert ______ den gesellschaftlichen Zusammenhalt als auch das gegenseitige Verständnis.",
      "options": [
       "sowohl",
-      "weder",
+      "zwar",
       "entweder",
-      "zwar"
+      "weder"
      ],
      "answer": 0,
      "explain": "Cặp liên từ đi với 'als auch' là 'sowohl ... als auch' (vừa ... vừa)."
@@ -2742,12 +2742,12 @@
      "type": "mcq",
      "q": "Die Stadtverwaltung hat zu wenig Personal. ______ dauern viele Antragsverfahren mehrere Monate.",
      "options": [
-      "Daher",
+      "Dennoch",
       "Obwohl",
       "Trotz",
-      "Dennoch"
+      "Daher"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Daher' nêu kết quả nguyên nhân (Do đó, vì thế) và đứng ở vị trí 1, động từ 'dauern' đứng ở vị trí 2."
     },
     {
@@ -2756,8 +2756,8 @@
      "options": [
       "erzielen",
       "ablehnen",
-      "demonstrieren",
-      "überweisen"
+      "überweisen",
+      "demonstrieren"
      ],
      "answer": 0,
      "explain": "Kollokation: 'einen Kompromiss erzielen / schließen' (đạt được một thỏa hiệp)."
@@ -2766,12 +2766,12 @@
      "type": "mcq",
      "q": "Artikel 1 des Grundgesetzes garantiert, dass die Würde des Menschen ______ ist.",
      "options": [
-      "unantastbar",
-      "überflüssig",
       "kompliziert",
-      "geheilt"
+      "überflüssig",
+      "geheilt",
+      "unantastbar"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'die Würde des Menschen ist unantastbar' (phẩm giá con người là bất khả xâm phạm)."
     },
     {
@@ -2779,9 +2779,9 @@
      "q": "Die Bürgerinitiative kämpft beharrlich ______ den Bau der geplanten Hochhaustrassen.",
      "options": [
       "gegen",
+      "an",
       "für",
-      "über",
-      "an"
+      "über"
      ],
      "answer": 0,
      "explain": "'kämpfen gegen + Akkusativ' (đấu tranh chống lại điều gì)."

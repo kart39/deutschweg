@@ -396,56 +396,56 @@
      {
       "q": "Wo zeigt sich laut Abschnitt 1 die Bedeutung aktiver Bürgerrechte besonders deutlich?",
       "options": [
-       "Ausschließlich bei nationalen Fernsehdebatten.",
-       "Vor allem direkt vor Ort in den Kommunen durch Meinungsfreiheit, Proteste und Petitionen.",
        "Nur in großen Buchhandlungen.",
-       "Nur alle zehn Jahre bei Verfassungsänderungen."
+       "Ausschließlich bei nationalen Fernsehdebatten.",
+       "Nur alle zehn Jahre bei Verfassungsänderungen.",
+       "Vor allem direkt vor Ort in den Kommunen durch Meinungsfreiheit, Proteste und Petitionen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 1 nhấn mạnh quyền công dân thể hiện rõ nhất hằng ngày ngay tại địa phương (Kommunen)."
      },
      {
       "q": "Warum sinkt in manchen Stadtteilen die Wahlbeteiligung?",
       "options": [
-       "Weil viele das Gefühl haben, die Politik nehme zu wenig Rücksicht auf ihre Alltagssorgen.",
-       "Weil es keine Wahlzettel mehr gibt.",
        "Weil Petitionen verboten wurden.",
-       "Weil die Bibliotheken zu lange geöffnet sind."
+       "Weil die Bibliotheken zu lange geöffnet sind.",
+       "Weil viele das Gefühl haben, die Politik nehme zu wenig Rücksicht auf ihre Alltagssorgen.",
+       "Weil es keine Wahlzettel mehr gibt."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 2 chỉ ra sự xa cách và cảm giác tiếng nói không được lắng nghe gây thất vọng."
      },
      {
       "q": "Wie funktionieren ‚Bürgerhaushalte‘ laut Abschnitt 3?",
       "options": [
+       "Nur der Bürgermeister entscheidet über Radwege.",
        "Einwohner dürfen selbst mitbestimmen, wofür ein Teil der städtischen Gelder genutzt wird.",
        "Alle Bürger müssen höhere Steuern zahlen.",
-       "Nur der Bürgermeister entscheidet über Radwege.",
        "Die Opposition wird ausgeschlossen."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 3 giải thích cư dân được đề xuất cách chi một phần ngân sách thành phố."
      },
      {
       "q": "Welche Grenze betont Abschnitt 4 für direkte Demokratie?",
       "options": [
-       "Abstimmungen dürfen niemals Grundrechte verletzen und müssen verfassungsgemäß sein.",
-       "Volksentscheide dürfen nur im Winter stattfinden.",
+       "Gesetzentwürfe brauchen keine Prüfung.",
        "Minderheiten dürfen nicht abstimmen.",
-       "Gesetzentwürfe brauchen keine Prüfung."
+       "Volksentscheide dürfen nur im Winter stattfinden.",
+       "Abstimmungen dürfen niemals Grundrechte verletzen und müssen verfassungsgemäß sein."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 4 khẳng định mọi biểu quyết phải hợp hiến và bảo vệ quyền cơ bản của thiểu số."
      },
      {
       "q": "Wie beschreibt der Schlussabsatz eine lebendige Demokratie?",
       "options": [
-       "Als fertiges Produkt, das man nach der Wahl vergisst.",
-       "Als tägliche gemeinsame Aufgabe durch aktives Mitmachen und Diskutieren.",
        "Als reine Aufgabe des Parlaments.",
-       "Als Verzicht auf jede Kritik."
+       "Als Verzicht auf jede Kritik.",
+       "Als tägliche gemeinsame Aufgabe durch aktives Mitmachen und Diskutieren.",
+       "Als fertiges Produkt, das man nach der Wahl vergisst."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Câu kết khẳng định dân chủ là nhiệm vụ chung cần được bồi đắp mỗi ngày."
      }
     ],
@@ -462,96 +462,96 @@
      "type": "mcq",
      "q": "Welches Funktionsverb passt zu „eine Entscheidung ___“?",
      "options": [
-      "treffen",
-      "machen",
       "tun",
+      "machen",
+      "treffen",
       "geben"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Cụm FVG chuẩn bắt buộc là 'eine Entscheidung treffen'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb gehört zu „Kritik ___ an + Dativ“?",
      "options": [
-      "üben",
-      "stellen",
+      "ziehen",
       "treten",
-      "ziehen"
+      "üben",
+      "stellen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Cụm chuẩn: 'Kritik üben an + Dativ'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „ein Gesetz tritt in Kraft“?",
      "options": [
-      "Das Gesetz wird ab diesem Datum offiziell gültig und angewendet.",
-      "Das Gesetz wird vom Parlament abgelehnt.",
+      "Das Gesetz wird in einer Petition kritisiert.",
       "Das Gesetz ist nicht verfassungsgemäß.",
-      "Das Gesetz wird in einer Petition kritisiert."
+      "Das Gesetz wird ab diesem Datum offiziell gültig und angewendet.",
+      "Das Gesetz wird vom Parlament abgelehnt."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'in Kraft treten' = bắt đầu có hiệu lực pháp lý."
     },
     {
      "type": "mcq",
      "q": "Welches Funktionsverbgefüge ersetzt das Verb „beantragen“?",
      "options": [
-      "einen Antrag stellen",
-      "Rücksicht nehmen",
       "in Betracht ziehen",
-      "Verantwortung tragen"
+      "Rücksicht nehmen",
+      "Verantwortung tragen",
+      "einen Antrag stellen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'beantragen' = 'einen Antrag stellen'."
     },
     {
      "type": "mcq",
      "q": "Welche Präposition folgt auf „Rücksicht nehmen“?",
      "options": [
-      "auf + Akkusativ",
-      "an + Dativ",
       "für + Akkusativ",
+      "an + Dativ",
+      "auf + Akkusativ",
       "über + Akkusativ"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Rücksicht nehmen auf + Akkusativ'."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Volksentscheid“?",
      "options": [
-      "der",
-      "die",
+      "–",
       "das",
-      "–"
+      "der",
+      "die"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Danh từ chuẩn là 'der Volksentscheid, die Volksentscheide'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „etwas in Betracht ziehen“?",
      "options": [
-      "Eine Möglichkeit oder Option ernsthaft überlegen und prüfen",
-      "Einen Gesetzentwurf sofort ablehnen",
       "Bei einer Wahl nicht abstimmen",
+      "Einen Gesetzentwurf sofort ablehnen",
+      "Eine Möglichkeit oder Option ernsthaft überlegen und prüfen",
       "Eine Straße für Autos sperren"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'in Betracht ziehen' = cân nhắc, tính đến một phương án."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektiv beschreibt ein Gesetz, das den Regeln der Verfassung entspricht?",
      "options": [
-      "verfassungsgemäß",
       "rechtskräftig",
+      "unbequem",
       "knapp",
-      "unbequem"
+      "verfassungsgemäß"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'verfassungsgemäß' = hợp hiến, đúng theo hiến pháp."
     },
     {
@@ -1144,21 +1144,21 @@
      {
       "q": "Warum suchen immer mehr Menschen nach Alternativen zu einem klassischen Gerichtsprozess?",
       "options": [
-       "Weil Gerichte überlastet sind und Prozesse oft lange dauern sowie teuer werden.",
        "Weil es keine Anwälte mehr gibt.",
-       "Weil Richter keine Verträge lesen.",
-       "Weil Geldstrafen abgeschafft wurden."
+       "Weil Geldstrafen abgeschafft wurden.",
+       "Weil Gerichte überlastet sind und Prozesse oft lange dauern sowie teuer werden.",
+       "Weil Richter keine Verträge lesen."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 1 nêu lý do quá tải tòa án, thời gian kéo dài và chi phí cao."
      },
      {
       "q": "Worin unterscheidet sich eine Schlichtung von einem Gerichtsverfahren?",
       "options": [
        "Es geht um einen gemeinsamen Kompromiss statt um Gewinner und Verlierer.",
-       "Es werden besonders hohe Geldstrafen verhängt.",
+       "Sie ist für Verbraucher immer extrem teuer.",
        "Es gibt keine neutrale Vermittlungsperson.",
-       "Sie ist für Verbraucher immer extrem teuer."
+       "Es werden besonders hohe Geldstrafen verhängt."
       ],
       "answer": 0,
       "explain": "Đoạn 2 giải thích mục tiêu hòa giải là tìm thỏa hiệp chung chứ không phân thắng bại."
@@ -1166,34 +1166,34 @@
      {
       "q": "Wann bleibt der Weg vor Gericht laut Abschnitt 3 unverzichtbar?",
       "options": [
-       "Bei jedem kleinen Streit um ein beschädigtes Paket.",
-       "Bei schweren Straftaten oder grundsätzlichen Rechtsfragen.",
+       "Wenn jemand keine Frist kennt.",
        "Wenn Verträge zu kurz sind.",
-       "Wenn jemand keine Frist kennt."
+       "Bei jedem kleinen Streit um ein beschädigtes Paket.",
+       "Bei schweren Straftaten oder grundsätzlichen Rechtsfragen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 nêu rõ các vụ án hình sự nghiêm trọng và vấn đề pháp lý nguyên tắc vẫn phải ra tòa."
      },
      {
       "q": "Was bedeutet die ‚Unschuldsvermutung‘ vor Gericht?",
       "options": [
-       "Dass niemand als schuldig gilt, bevor ein rechtskräftiges Urteil vorliegt.",
-       "Dass alle Zeugen immer unschuldig sind.",
+       "Dass jeder Prozess mit einem Freispruch endet.",
        "Dass keine Beweise nötig sind.",
-       "Dass jeder Prozess mit einem Freispruch endet."
+       "Dass niemand als schuldig gilt, bevor ein rechtskräftiges Urteil vorliegt.",
+       "Dass alle Zeugen immer unschuldig sind."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 3 nhấn mạnh suy đoán vô tội cho đến khi có bản án chung thẩm."
      },
      {
       "q": "Wie lassen sich Alltagsstreitigkeiten laut dem letzten Abschnitt oft schon vorab vermeiden?",
       "options": [
-       "Durch verständliche Verträge, klare Fristen und schnelles Einlenken bei berechtigten Beschwerden.",
        "Durch ein Verbot von Online-Bestellungen.",
-       "Durch höhere Gebühren für Anwälte.",
-       "Durch Verzicht auf Schlichtungsstellen."
+       "Durch verständliche Verträge, klare Fristen und schnelles Einlenken bei berechtigten Beschwerden.",
+       "Durch Verzicht auf Schlichtungsstellen.",
+       "Durch höhere Gebühren für Anwälte."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn cuối nêu 3 cách phòng ngừa tranh chấp từ sớm."
      }
     ],
@@ -1210,72 +1210,72 @@
      "type": "mcq",
      "q": "Wie lautet der korrekte Satz im Passiv mit Modalverb im Präteritum?",
      "options": [
+      "Der Vertrag wurde vom Anwalt geprüft müssen.",
       "Der Vertrag musste vom Anwalt geprüft werden.",
-      "Der Vertrag musste vom Anwalt geprüft worden.",
       "Der Vertrag hat vom Anwalt geprüft musste werden.",
-      "Der Vertrag wurde vom Anwalt geprüft müssen."
+      "Der Vertrag musste vom Anwalt geprüft worden."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Präteritum bị động với Modalverb: musste + Partizip II + werden."
     },
     {
      "type": "mcq",
      "q": "Welche Wortstellung ist im Hauptsatz im Perfekt (Passiv + Modalverb) richtig?",
      "options": [
-      "Das Urteil hat gestern verkündet werden müssen.",
       "Das Urteil ist gestern verkündet werden müssen.",
       "Das Urteil hat gestern müssen verkündet werden.",
-      "Das Urteil hat gestern verkündet müssen worden."
+      "Das Urteil hat gestern verkündet müssen worden.",
+      "Das Urteil hat gestern verkündet werden müssen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Perfekt bị động với Modalverb dùng trợ động từ 'haben' + [Partizip II + werden + Modalverb Infinitiv]."
     },
     {
      "type": "mcq",
      "q": "Wo steht das Hilfsverb ‚hat‘ im Nebensatz: „..., weil die Beweise genau ___“?",
      "options": [
-      "haben gesichert werden müssen",
-      "gesichert werden müssen haben",
       "sind gesichert werden müssen",
-      "müssen gesichert werden haben"
+      "müssen gesichert werden haben",
+      "gesichert werden müssen haben",
+      "haben gesichert werden müssen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Trong mệnh đề phụ có 3 động từ cuối, trợ động từ 'haben' đứng TRƯỚC cụm 3 động từ đó."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet ein „Freispruch“?",
      "options": [
-      "Das Gericht erklärt den Angeklagten für nicht schuldig.",
       "Der Angeklagte muss eine hohe Geldstrafe zahlen.",
-      "Die Staatsanwaltschaft geht in Berufung.",
-      "Ein Vertrag wird für unwirksam erklärt."
+      "Ein Vertrag wird für unwirksam erklärt.",
+      "Das Gericht erklärt den Angeklagten für nicht schuldig.",
+      "Die Staatsanwaltschaft geht in Berufung."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Freispruch' = phán quyết tuyên trắng án."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Urteil“?",
      "options": [
-      "das",
-      "der",
       "die",
-      "–"
+      "–",
+      "das",
+      "der"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Danh từ chuẩn là 'das Urteil, die Urteile'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „einen Anspruch offiziell vor Gericht durchsetzen wollen“?",
      "options": [
+      "ermitteln",
       "einklagen",
       "freisprechen",
-      "ermitteln",
       "verurteilen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'einklagen' = khởi kiện để đòi quyền lợi."
     },
     {
@@ -1283,8 +1283,8 @@
      "q": "Was bedeutet „eine unwirksame Vertragsklausel“?",
      "options": [
       "Eine Regel im Vertrag, die rechtlich nicht gültig ist",
-      "Ein besonders teurer Anwalt",
       "Eine erfolgreiche Schlichtung",
+      "Ein besonders teurer Anwalt",
       "Eine eingehaltene Frist"
      ],
      "answer": 0,
@@ -1294,12 +1294,12 @@
      "type": "mcq",
      "q": "Welche Behörde erhebt bei Straftaten Anklage?",
      "options": [
-      "die Staatsanwaltschaft",
       "die Bürgerinitiative",
       "die Schlichtungsstelle",
+      "die Staatsanwaltschaft",
       "der Mieterschutzbund"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Viện kiểm sát ('die Staatsanwaltschaft') là cơ quan công tố khởi tố vụ án."
     },
     {
@@ -1894,56 +1894,56 @@
      {
       "q": "Warum lassen sich viele Gesetze in Deutschland nicht im Schnellverfahren durchsetzen?",
       "options": [
-       "Weil strittige Details in Ausschüssen geprüft und mit dem Bundesrat abgestimmt werden müssen.",
-       "Weil Abgeordnete keine Sitzungen abhalten.",
        "Weil es keine Verfassung gibt.",
-       "Weil alle Gesetze geheim bleiben."
+       "Weil Abgeordnete keine Sitzungen abhalten.",
+       "Weil alle Gesetze geheim bleiben.",
+       "Weil strittige Details in Ausschüssen geprüft und mit dem Bundesrat abgestimmt werden müssen."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 1 giải thích vai trò thẩm định tại ủy ban và phối hợp giữa các cấp chính quyền."
      },
      {
       "q": "Welchen Nachteil des Föderalismus nennen Kritiker in Abschnitt 2?",
       "options": [
-       "Dass unterschiedliche Länderregeln im Alltag – etwa bei Schulen – zu Hürden führen können.",
        "Dass es keine Großstädte gibt.",
-       "Dass Steuergelder abgeschafft wurden.",
-       "Dass Ministerien zu schnell arbeiten."
+       "Dass Ministerien zu schnell arbeiten.",
+       "Dass unterschiedliche Länderregeln im Alltag – etwa bei Schulen – zu Hürden führen können.",
+       "Dass Steuergelder abgeschafft wurden."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 2 nêu ví dụ 16 quy định giáo dục khác nhau gây khó khăn khi chuyển trường."
      },
      {
       "q": "Wie schützt der Föderalismus vor Machtmissbrauch?",
       "options": [
-       "Indem er politische Kompetenzen auf mehrere Schultern verteilt und gegenseitige Kontrolle sichert.",
+       "Indem er Kompromisse verbietet.",
        "Indem er alle Wahlen abschafft.",
-       "Indem er nur ein einziges Ministerium zulässt.",
-       "Indem er Kompromisse verbietet."
+       "Indem er politische Kompetenzen auf mehrere Schultern verteilt und gegenseitige Kontrolle sichert.",
+       "Indem er nur ein einziges Ministerium zulässt."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 3 nêu ưu điểm phân tán quyền lực và kiểm soát chéo."
      },
      {
       "q": "Welchen Vorteil haben tragfähige Kompromisse laut Abschnitt 4?",
       "options": [
+       "Sie gelten nur für sechs Monate.",
        "Sie überdauern oft auch einen späteren Regierungswechsel.",
-       "Sie sparen jede Diskussion.",
        "Sie verhindern Transparenzregister.",
-       "Sie gelten nur für sechs Monate."
+       "Sie sparen jede Diskussion."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 4 nhấn mạnh thỏa hiệp bền vững đứng vững qua cả các kỳ đổi chính phủ."
      },
      {
       "q": "Welche Schlussfolgerung zieht Abschnitt 5?",
       "options": [
-       "Demokratische Prozesse sind zwar langsamer, erzeugen aber höhere Stabilität und Verlässlichkeit.",
-       "Einsame Anordnungen von oben sind immer besser.",
+       "Der Rechtsstaat braucht keine Steuergelder.",
        "Gesetze sollten nicht kontrolliert werden.",
-       "Der Rechtsstaat braucht keine Steuergelder."
+       "Einsame Anordnungen von oben sind immer besser.",
+       "Demokratische Prozesse sind zwar langsamer, erzeugen aber höhere Stabilität und Verlässlichkeit."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn cuối đối chiếu tốc độ chậm hơn nhưng đổi lại sự ổn định và đáng tin cậy cao hơn."
      }
     ],
@@ -1972,36 +1972,36 @@
      "type": "mcq",
      "q": "Welcher Satz ist eine korrekte Passiversatzform mit ‚Funktionsverbgefüge‘?",
      "options": [
-      "Der Entwurf kommt nächste Woche zur Abstimmung.",
-      "Der Entwurf hat den Entwurf geprüft.",
       "Der Entwurf muss die Abgeordneten fragen.",
-      "Der Entwurf tritt keine Mehrheit."
+      "Der Entwurf tritt keine Mehrheit.",
+      "Der Entwurf hat den Entwurf geprüft.",
+      "Der Entwurf kommt nächste Woche zur Abstimmung."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'zur Abstimmung kommen' = được đưa ra biểu quyết (nghĩa bị động)."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „Die Reform ist kaum in einem Jahr umzusetzen“?",
      "options": [
-      "Die Reform kann kaum in einem Jahr umgesetzt werden.",
       "Die Reform wurde schon vor einem Jahr umgesetzt.",
+      "Die Reform hat niemand gelesen.",
       "Die Reform muss verboten werden.",
-      "Die Reform hat niemand gelesen."
+      "Die Reform kann kaum in einem Jahr umgesetzt werden."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Với 'kaum', cấu trúc 'sein + zu + Infinitiv' mang nghĩa khả năng ('kann kaum umgesetzt werden')."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz drückt AKTIVE Pflicht aus (KEIN Passiversatz)?",
      "options": [
+      "Der Bericht kommt heute zur Prüfung.",
       "Die Ministerin hat den Bericht genau zu prüfen.",
       "Der Bericht ist von der Ministerin genau zu prüfen.",
-      "Der Bericht lässt sich leicht prüfen.",
-      "Der Bericht kommt heute zur Prüfung."
+      "Der Bericht lässt sich leicht prüfen."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'haben + zu + Infinitiv' mang nghĩa chủ động bắt buộc ('Die Ministerin muss prüfen')."
     },
     {
@@ -2020,36 +2020,36 @@
      "type": "mcq",
      "q": "Was ist der „Bundesrat“ in Deutschland?",
      "options": [
-      "Die Vertretung der sechzehn Bundesländer bei der Gesetzgebung",
       "Eine lokale Bürgerinitiative",
+      "Ein Verband für Lobbyismus",
       "Ein Gericht für Mietstreitigkeiten",
-      "Ein Verband für Lobbyismus"
+      "Die Vertretung der sechzehn Bundesländer bei der Gesetzgebung"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Bundesrat' đại diện cho 16 bang trong quy trình lập pháp."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektiv beschreibt einen Kompromiss, der stabil und langfristig haltbar ist?",
      "options": [
-      "tragfähig",
       "strittig",
-      "unwirksam",
-      "strafbar"
+      "strafbar",
+      "tragfähig",
+      "unwirksam"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'tragfähig' = bền vững, có thể đứng vững lâu dài."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „sich auf einen Entwurf einigen“?",
      "options": [
-      "Nach Verhandlungen zu einer gemeinsamen Zustimmung gelangen",
+      "Steuergelder verschwenden",
       "Ein Veto gegen alles einlegen",
       "Eine Debatte komplett blockieren",
-      "Steuergelder verschwenden"
+      "Nach Verhandlungen zu einer gemeinsamen Zustimmung gelangen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'sich einigen auf + Akk' = thống nhất được với nhau về điều gì."
     },
     {
@@ -2559,54 +2559,54 @@
      {
       "q": "Welchen Zweck verfolgt das Prinzip der Gewaltenteilung laut Abschnitt 1?",
       "options": [
-       "Es dient als Schutzschild gegen Machtmissbrauch durch gegenseitige Kontrolle.",
-       "Es beschleunigt Wahlkämpfe.",
        "Es überträgt alle Macht auf die Regierung.",
-       "Es schafft alle Verordnungen ab."
+       "Es schafft alle Verordnungen ab.",
+       "Es dient als Schutzschild gegen Machtmissbrauch durch gegenseitige Kontrolle.",
+       "Es beschleunigt Wahlkämpfe."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 1 giải thích phân chia quyền lực là lá chắn chống lạm quyền."
      },
      {
       "q": "Welche drei Aufgabenbereiche unterscheidet Abschnitt 2?",
       "options": [
        "Wirtschaft, Medien und Vereine.",
-       "Legislative (Gesetze machen), Exekutive (umsetzen) und Judikative (prüfen).",
        "Bundestag, Rathaus und Schulen.",
-       "Anwälte, Zeugen und Publikum."
+       "Anwälte, Zeugen und Publikum.",
+       "Legislative (Gesetze machen), Exekutive (umsetzen) und Judikative (prüfen)."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 2 phân biệt 3 nhánh: lập pháp, hành pháp và tư pháp."
      },
      {
       "q": "Welche Aufgabe hat das Bundesverfassungsgericht?",
       "options": [
-       "Es führt Wahlkämpfe durch.",
-       "Es prüft auf Antrag, ob Gesetze Grundrechte verletzen, und fällt verbindliche Entscheidungen.",
        "Es verteilt Steuergelder an Vereine.",
-       "Es ersetzt das Parlament komplett."
+       "Es ersetzt das Parlament komplett.",
+       "Es führt Wahlkämpfe durch.",
+       "Es prüft auf Antrag, ob Gesetze Grundrechte verletzen, und fällt verbindliche Entscheidungen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 nêu vai trò thẩm định tính hợp hiến và ra phán quyết ràng buộc ngay cả với quốc hội."
      },
      {
       "q": "Was kann ein Bürger laut Abschnitt 4 gegen einen fehlerhaften Bescheid tun?",
       "options": [
+       "Die Amtsperiode verkürzen.",
        "Fristgerecht Einspruch einlegen und bei Bedarf eine Rechtsberatung nutzen.",
-       "Den Bescheid einfach wegwerfen.",
        "Eine Geldstrafe verlangen.",
-       "Die Amtsperiode verkürzen."
+       "Den Bescheid einfach wegwerfen."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 4 hướng dẫn nộp đơn phản đối đúng hạn và tìm tư vấn pháp lý."
      },
      {
       "q": "Warum wird die Balance im Rechtsstaat in Krisenzeiten auf die Probe gestellt?",
       "options": [
        "Weil zwischen schneller Handlungsfähigkeit und individueller Freiheit Konflikte entstehen können.",
-       "Weil niemand mehr Gesetze liest.",
+       "Weil Stimmzettel fehlen.",
        "Weil Richter in den Urlaub fahren.",
-       "Weil Stimmzettel fehlen."
+       "Weil niemand mehr Gesetze liest."
       ],
       "answer": 0,
       "explain": "Đoạn cuối chỉ ra căng thẳng giữa phản ứng nhanh và tự do cá nhân trong khủng hoảng."
@@ -2614,12 +2614,12 @@
      {
       "q": "Was bedeutet der letzte Satz ‚Nicht das Recht des Stärkeren gilt, sondern die Stärke des Rechts‘?",
       "options": [
-       "Verbindliche Gesetze und unabhängige Gerichte schützen alle gleichermaßen vor Willkür.",
+       "Krisen lösen sich ohne Gerichte.",
        "Nur starke Parteien dürfen Gesetze erlassen.",
-       "Die Opposition hat keine Rechte.",
-       "Krisen lösen sich ohne Gerichte."
+       "Verbindliche Gesetze und unabhängige Gerichte schützen alle gleichermaßen vor Willkür.",
+       "Die Opposition hat keine Rechte."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Câu kết khẳng định pháp luật công bằng đứng trên sức mạnh tùy tiện."
      }
     ],
@@ -2638,8 +2638,8 @@
      "options": [
       "Der Bescheid hat sofort überprüft werden müssen.",
       "Der Bescheid ist sofort überprüft werden müssen.",
-      "Der Bescheid hat sofort müssen überprüft werden.",
-      "Der Bescheid hat sofort überprüft müssen worden."
+      "Der Bescheid hat sofort überprüft müssen worden.",
+      "Der Bescheid hat sofort müssen überprüft werden."
      ],
      "answer": 0,
      "explain": "Perfekt bị động với Modalverb luôn dùng 'hat/haben' + [Partizip II + werden + Modalverb]."
@@ -2648,60 +2648,60 @@
      "type": "mcq",
      "q": "Welches Funktionsverbgefüge bedeutet „jemanden für einen Fehler verantwortlich machen und bestrafen“?",
      "options": [
-      "jemanden zur Rechenschaft ziehen",
       "etwas auf die Probe stellen",
-      "einen Antrag stellen",
-      "Rücksicht nehmen"
+      "Rücksicht nehmen",
+      "jemanden zur Rechenschaft ziehen",
+      "einen Antrag stellen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'zur Rechenschaft ziehen' = truy cứu trách nhiệm, bắt giải trình."
     },
     {
      "type": "mcq",
      "q": "Welches Verb ergänzt das FVG: „eine Gesetzeslücke ___“?",
      "options": [
-      "schließen",
+      "treten",
       "treffen",
       "üben",
-      "treten"
+      "schließen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'eine Gesetzeslücke schließen' = lấp đầy lỗ hổng pháp luật."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz hat dieselbe Bedeutung wie „Alle Grundrechte müssen geschützt werden“?",
      "options": [
-      "Alle Grundrechte sind zu schützen.",
+      "Alle Grundrechte stehen zur Prüfung.",
       "Alle Grundrechte haben zu schützen.",
       "Alle Grundrechte können kaum geschützt werden.",
-      "Alle Grundrechte stehen zur Prüfung."
+      "Alle Grundrechte sind zu schützen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'sein + zu + Infinitiv' diễn tả bị động bắt buộc."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „die Gewaltenteilung“?",
      "options": [
-      "Die Aufteilung der Staatsmacht auf Parlament, Regierung und unabhängige Gerichte",
       "Eine Abstimmung mit knapper Mehrheit",
+      "Die Aufteilung der Staatsmacht auf Parlament, Regierung und unabhängige Gerichte",
       "Ein Streit im Wahlkampf",
       "Das Einlegen eines Einspruchs"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'Gewaltenteilung' = sự phân chia quyền lực giữa lập pháp, hành pháp và tư pháp."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Stimmzettel“?",
      "options": [
-      "der",
       "die",
+      "der",
       "das",
       "–"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Danh từ chuẩn là 'der Stimmzettel, die Stimmzettel'."
     },
     {
@@ -2709,9 +2709,9 @@
      "q": "Was bedeutet „Einspruch einlegen“?",
      "options": [
       "Einer offiziellen Entscheidung einer Behörde fristgerecht widersprechen",
-      "Einen Stimmzettel in die Urne werfen",
+      "Eine neue Amtsperiode beginnen",
       "Einen Kompromiss im Ausschuss schließen",
-      "Eine neue Amtsperiode beginnen"
+      "Einen Stimmzettel in die Urne werfen"
      ],
      "answer": 0,
      "explain": "'Einspruch einlegen' = nộp đơn phản đối, khiếu nại quyết định."
@@ -2720,12 +2720,12 @@
      "type": "mcq",
      "q": "Wo steht ‚hat‘ im Nebensatz: „..., weil die Lücke ___“?",
      "options": [
+      "werden müssen hat geschlossen",
       "hat geschlossen werden müssen",
-      "geschlossen werden müssen hat",
       "ist geschlossen werden müssen",
-      "werden müssen hat geschlossen"
+      "geschlossen werden müssen hat"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Trong mệnh đề phụ, 'hat' đứng ngay trước cụm 3 động từ cuối."
     },
     {
@@ -2734,8 +2734,8 @@
      "options": [
       "unantastbar",
       "strittig",
-      "unwirksam",
-      "langwierig"
+      "langwierig",
+      "unwirksam"
      ],
      "answer": 0,
      "explain": "'unantastbar' = bất khả xâm phạm."
@@ -2745,9 +2745,9 @@
      "q": "Was ist Aufgabe des Bundesverfassungsgerichts?",
      "options": [
       "Es prüft, ob Gesetze mit der Verfassung und den Grundrechten vereinbar sind.",
+      "Es übernimmt die Regierung nach einer Wahl.",
       "Es organisiert den Wahlkampf der Parteien.",
-      "Es schreibt jeden Bescheid im Rathaus.",
-      "Es übernimmt die Regierung nach einer Wahl."
+      "Es schreibt jeden Bescheid im Rathaus."
      ],
      "answer": 0,
      "explain": "Tòa án Hiến pháp kiểm tra tính hợp hiến của các đạo luật."

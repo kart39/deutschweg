@@ -349,38 +349,38 @@
      {
       "q": "Warum möchte Hana bei der Gruppe mitlaufen?",
       "options": [
-       "Sie möchte sich öfter bewegen.",
        "Sie sucht eine Arbeit am See.",
+       "Sie möchte sich öfter bewegen.",
        "Sie möchte schneller als Cem laufen."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was machen Hana und Cem nach der Brücke?",
       "options": [
-       "Sie laufen schneller.",
        "Sie gehen ein Stück zu Fuß.",
+       "Sie laufen schneller.",
        "Sie setzen sich auf eine Bank."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Wo treffen sie die anderen am Ende wieder?",
       "options": [
        "Am Eingang.",
-       "Auf der Brücke.",
-       "Auf der Wiese."
+       "Auf der Wiese.",
+       "Auf der Brücke."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was will Hana nächstes Mal mitbringen?",
       "options": [
-       "Ihren Trainingsplan.",
        "Ihre Trinkflasche.",
-       "Ihr Fahrrad."
+       "Ihr Fahrrad.",
+       "Ihren Trainingsplan."
       ],
-      "answer": 1
+      "answer": 0
      }
     ],
     "glossary": []
@@ -396,20 +396,20 @@
      "q": "Chọn câu nói “Tôi thư giãn một lát sau giờ làm”.",
      "options": [
       "Nach der Arbeit entspanne ich sich kurz.",
-      "Nach der Arbeit entspanne ich mich kurz.",
       "Nach der Arbeit entspanne ich mir kurz.",
-      "Nach der Arbeit entspanne mich ich kurz."
+      "Nach der Arbeit entspanne mich ich kurz.",
+      "Nach der Arbeit entspanne ich mich kurz."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Ich}} đi với {{mich}} trong {{sich entspannen}}."
     },
     {
      "type": "mcq",
      "q": "Điền đại từ: {{Wärmt ihr ___ vor dem Lauf auf?}}",
      "options": [
-      "uns",
-      "sich",
       "dich",
+      "sich",
+      "uns",
       "euch"
      ],
      "answer": 3,
@@ -421,8 +421,8 @@
      "options": [
       "Ich freue mich auf unseren Lauf morgen.",
       "Ich freue dir auf unseren Lauf morgen.",
-      "Ich freue mich mit unseren Lauf morgen.",
-      "Ich freue uns auf unseren Lauf morgen."
+      "Ich freue uns auf unseren Lauf morgen.",
+      "Ich freue mich mit unseren Lauf morgen."
      ],
      "answer": 0,
      "explain": "{{sich freuen auf}} + Akkusativ nói điều sắp tới. {{Ich}} đi với {{mich}}."
@@ -431,12 +431,12 @@
      "type": "mcq",
      "q": "Chọn đúng trật tự câu với {{weil}}.",
      "options": [
-      "Ich gehe mit, weil möchte ich mich bewegen.",
-      "Ich gehe mit, weil ich möchte mich bewegen.",
       "Ich gehe mit, weil ich mich bewegen möchte.",
-      "Ich gehe mit, weil mich ich bewegen möchte."
+      "Ich gehe mit, weil ich möchte mich bewegen.",
+      "Ich gehe mit, weil mich ich bewegen möchte.",
+      "Ich gehe mit, weil möchte ich mich bewegen."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Trong mệnh đề với {{weil}}, đặt {{bewegen möchte}} ở cuối."
     },
     {
@@ -444,11 +444,11 @@
      "q": "Chọn cụm có nghĩa là “nghỉ lấy sức” trong đoạn này.",
      "options": [
       "sich anstrengen",
-      "sich ausruhen",
       "sich aufwärmen",
-      "sich dehnen"
+      "sich dehnen",
+      "sich ausruhen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{sich ausruhen}} nghĩa là nghỉ lấy lại sức."
     },
     {
@@ -976,17 +976,17 @@
      {
       "q": "Was bereitet sich Nora heute zu?",
       "options": [
-       "Joghurt mit Nüssen.",
        "Vollkornbrot mit Käse.",
-       "Haferflocken mit Obst."
+       "Haferflocken mit Obst.",
+       "Joghurt mit Nüssen."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Wann treffen sie sich im Hof?",
       "options": [
-       "Um halb neun.",
        "Um zehn Uhr.",
+       "Um halb neun.",
        "Um halb zehn."
       ],
       "answer": 2
@@ -994,11 +994,11 @@
      {
       "q": "Was bekommt Mina beim Tauschen?",
       "options": [
-       "Einen halben Apfel.",
        "Eine Handvoll Nüsse.",
-       "Ein Stück Käse."
+       "Ein Stück Käse.",
+       "Einen halben Apfel."
       ],
-      "answer": 0
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1013,24 +1013,24 @@
      "type": "mcq",
      "q": "Chọn câu đúng nghĩa “Tôi rửa tay”.",
      "options": [
-      "Ich wasche mich die Hände.",
-      "Ich wasche sich die Hände.",
       "Ich wasche mir die Hände.",
+      "Ich wasche sich die Hände.",
+      "Ich wasche mich die Hände.",
       "Ich wasche dir die Hände."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{die Hände}} là tân ngữ trực tiếp. Đại từ chỉ lại {{ich}} ở Dativ là {{mir}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có đại từ phản thân Akkusativ.",
      "options": [
-      "Ich kämme mich.",
-      "Ich kämme mir die Haare.",
+      "Ich bereite mir ein Brot zu.",
       "Ich schenke mir Tee ein.",
-      "Ich bereite mir ein Brot zu."
+      "Ich kämme mir die Haare.",
+      "Ich kämme mich."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Trong {{Ich kämme mich.}}, {{mich}} là tân ngữ trực tiếp."
     },
     {
@@ -1050,11 +1050,11 @@
      "q": "Chọn câu đúng để hỏi “Bạn đánh răng chưa?”",
      "options": [
       "Hast du dich schon die Zähne geputzt?",
+      "Hast du sich schon die Zähne geputzt?",
       "Hast du dir schon die Zähne geputzt?",
-      "Hast du mir schon die Zähne geputzt?",
-      "Hast du sich schon die Zähne geputzt?"
+      "Hast du mir schon die Zähne geputzt?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Trong câu này dùng {{dir}} vì có tân ngữ {{die Zähne}}."
     },
     {
@@ -1062,11 +1062,11 @@
      "q": "Trong {{Sie nimmt sich etwas Obst mit.}}, {{sich}} ở cách nào?",
      "options": [
       "Nominativ",
-      "Akkusativ",
       "Dativ",
+      "Akkusativ",
       "Genitiv"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Cụm {{etwas Obst}} là món cô ấy mang theo, còn {{sich}} chỉ người hưởng lợi và ở Dativ."
     },
     {
@@ -1590,9 +1590,9 @@
      {
       "q": "Wozu rät Mona Ravi?",
       "options": [
-       "Er soll länger arbeiten.",
+       "Er soll immer mit ihr laufen.",
        "Er soll mit einem kleinen Ziel anfangen.",
-       "Er soll immer mit ihr laufen."
+       "Er soll länger arbeiten."
       ],
       "answer": 1
      },
@@ -1609,17 +1609,17 @@
       "q": "Was gönnen sich Ravi und Mona nach der Runde?",
       "options": [
        "Eine Mahlzeit.",
-       "Eine Stunde am Handy.",
-       "Einen Tee."
+       "Einen Tee.",
+       "Eine Stunde am Handy."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was nimmt sich Ravi für nächste Woche vor?",
       "options": [
        "Wieder zwei Spaziergänge.",
-       "Jeden Abend eine längere Runde.",
-       "Eine Woche ohne Spaziergang."
+       "Eine Woche ohne Spaziergang.",
+       "Jeden Abend eine längere Runde."
       ],
       "answer": 0
      }
@@ -1636,60 +1636,60 @@
      "type": "mcq",
      "q": "Chọn câu có nghĩa “Tôi dự định đi dạo một vòng ngắn”.",
      "options": [
-      "Ich nehme mich eine kurze Runde vor.",
       "Ich nehme dir eine kurze Runde vor.",
-      "Ich nehme mir eine kurze Runde vor.",
-      "Ich nehme sich eine kurze Runde vor."
+      "Ich nehme mich eine kurze Runde vor.",
+      "Ich nehme sich eine kurze Runde vor.",
+      "Ich nehme mir eine kurze Runde vor."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Dùng {{mir}} ở Dativ vì cụm {{eine kurze Runde}} là tân ngữ."
     },
     {
      "type": "mcq",
      "q": "Trong {{Fühlst du dich hier wohl?}}, đại từ {{dich}} ở cách nào?",
      "options": [
-      "Akkusativ",
       "Dativ",
-      "Nominativ",
-      "Genitiv"
+      "Akkusativ",
+      "Genitiv",
+      "Nominativ"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{sich wohlfühlen}} ở đây dùng đại từ phản thân Akkusativ. Với {{du}} là {{dich}}."
     },
     {
      "type": "mcq",
      "q": "Chọn gợi ý có nghĩa “Hay đi dạo một vòng ngắn?”.",
      "options": [
+      "Wie wäre es mit einer kurzen Runde zu Fuß?",
       "Wie wäre es mit einer längeren Pause?",
       "Wie wäre es mit einer Tasse Tee?",
-      "Wie wäre es mit einem langen Lauf?",
-      "Wie wäre es mit einer kurzen Runde zu Fuß?"
+      "Wie wäre es mit einem langen Lauf?"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{eine kurze Runde zu Fuß}} là một vòng đi bộ ngắn."
     },
     {
      "type": "mcq",
      "q": "Điền từ nói việc sẽ bỏ dần: {{Ich möchte mir diese Gewohnheit ___.}}",
      "options": [
-      "angewöhnen",
       "abgewöhnen",
+      "angewöhnen",
       "vornehmen",
       "gönnen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{sich etwas abgewöhnen}} chỉ việc bỏ một thói quen đang có."
     },
     {
      "type": "mcq",
      "q": "Chọn câu nói “Chúng tôi tự thưởng một tách trà”.",
      "options": [
-      "Wir gönnen euch einen Tee.",
-      "Wir gönnt uns einen Tee.",
       "Wir gönnen uns einen Tee.",
-      "Wir gönnen sich einen Tee."
+      "Wir gönnen sich einen Tee.",
+      "Wir gönnt uns einen Tee.",
+      "Wir gönnen euch einen Tee."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Với {{wir}}, đại từ phản thân là {{uns}}. Nó ở Dativ vì {{einen Tee}} là tân ngữ trực tiếp."
     },
     {
@@ -2327,29 +2327,29 @@
      {
       "q": "Was hat Claudia geändert, um gesünder zu leben und abzunehmen?",
       "options": [
-       "Sie fährt jetzt jeden Tag mit dem Fahrrad zur Arbeit und verzichtet auf Limonade und Süßigkeiten.",
        "Sie isst jetzt zweimal täglich Fast Food in der Kantine.",
-       "Sie hat ihre Arbeit als Buchhalterin gekündigt."
+       "Sie hat ihre Arbeit als Buchhalterin gekündigt.",
+       "Sie fährt jetzt jeden Tag mit dem Fahrrad zur Arbeit und verzichtet auf Limonade und Süßigkeiten."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Welche zwei großen Vorteile hat der Sportverein für den Studenten Nam?",
       "options": [
        "Er bekommt dort kostenloses Mittagessen und muss nicht mehr studieren.",
-       "Er bewegt sich regelmäßig beim Badminton für nur 15 Euro im Monat und hat viele deutsche Freunde kennengelernt.",
-       "Er verdient dort viel Geld als Fußballtrainer."
+       "Er verdient dort viel Geld als Fußballtrainer.",
+       "Er bewegt sich regelmäßig beim Badminton für nur 15 Euro im Monat und hat viele deutsche Freunde kennengelernt."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was macht Herr Weber jetzt jeden Abend ab zwanzig Uhr, um besser zu schlafen?",
       "options": [
+       "Er fährt mit dem Auto durch Hamburg.",
        "Er trinkt drei Tassen schwarzen Kaffee und arbeitet am Computer.",
-       "Er schaltet Handy und Fernseher aus, geht mit seinem Hund spazieren und trinkt Kräutertee.",
-       "Er fährt mit dem Auto durch Hamburg."
+       "Er schaltet Handy und Fernseher aus, geht mit seinem Hund spazieren und trinkt Kräutertee."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -2364,10 +2364,10 @@
      "type": "mcq",
      "q": "Chọn đại từ phản thân đúng cho ngôi „ich“ và ngôi „wir“: „Am Abend ruhe ich ___ aus, und am Wochenende entspannen wir ___ im Garten.“",
      "options": [
-      "sich ... sich",
+      "mich ... sich",
       "mich ... uns",
       "mir ... euch",
-      "mich ... sich"
+      "sich ... sich"
      ],
      "answer": 1,
      "explain": "Đại từ phản thân ở cách Akkusativ cho ngôi „ich“ là „mich“ và cho ngôi „wir“ là „uns“."
@@ -2378,8 +2378,8 @@
      "options": [
       "Khong có gi khác nhau.",
       "„umziehen“ là chuyển nhà (sang căn hộ khác); còn „sich umziehen“ là thay quần áo.",
-      "„umziehen“ là mặc quần áo; còn „sich umziehen“ là bán nhà.",
-      "„umziehen“ chi dung cho tre em."
+      "„umziehen“ chi dung cho tre em.",
+      "„umziehen“ là mặc quần áo; còn „sich umziehen“ là bán nhà."
      ],
      "answer": 1,
      "explain": "„umziehen“ (Wir sind nach Berlin umgezogen) = chuyển nhà. Còn động từ phản thân „sich umziehen“ (Ich habe mich schnell umgezogen) = thay quần áo!"
@@ -2388,24 +2388,24 @@
      "type": "mcq",
      "q": "Ở ngôi lịch sự „Sie“ (Ngài), đại từ phản thân „sich“ được viết như thế nào ở giữa câu?",
      "options": [
-      "Viet hoa: Bitte setzen Sie Sich!",
-      "Luon viet thuong: Bitte setzen Sie sich!",
       "Doi thanh Ihnen: Bitte setzen Sie Ihnen!",
-      "Doi thanh euch: Bitte setzen Sie euch!"
+      "Doi thanh euch: Bitte setzen Sie euch!",
+      "Luon viet thuong: Bitte setzen Sie sich!",
+      "Viet hoa: Bitte setzen Sie Sich!"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Trong tiếng Đức, đại từ phản thân „sich“ (dù dùng cho er/sie/es, sie số nhiều hay ngôi lịch sự Sie) đều LUÔN VIẾT THƯỜNG ở giữa câu!"
     },
     {
      "type": "mcq",
      "q": "Chọn câu mệnh lệnh đúng với động từ phản thân „sich beeilen“ (khẩn trương lên) ở ngôi „du“:",
      "options": [
+      "Dich beeil bitte!",
       "Beeil sich bitte!",
       "Beeil dich bitte!",
-      "Beeilst du dich bitte!",
-      "Dich beeil bitte!"
+      "Beeilst du dich bitte!"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Khi chuyển động từ phản thân sang câu mệnh lệnh ngôi „du“, ta bỏ chủ ngữ „du“ nhưng vẫn giữ đại từ phản thân „dich“ ngay sau động từ: „Beeil dich bitte!“."
     },
     {
@@ -2579,34 +2579,34 @@
      "type": "mcq",
      "q": "Phân biệt đại từ phản thân Akkusativ (mich) và Dativ (mir) trong hai câu sau: „Ich dusche ___ jeden Morgen. Danach putze ich ___ die Zähne.“",
      "options": [
-      "mir ... mich",
-      "mich ... mir",
+      "mir ... mir",
       "mich ... mich",
-      "mir ... mir"
+      "mir ... mich",
+      "mich ... mir"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Câu 1 „Ich dusche mich“ không có bộ phận cơ thể đi kèm nên đại từ phản thân ở Akkusativ („mich“). Câu 2 có tân ngữ trực tiếp „die Zähne“ (Akkusativ) nên đại từ phản thân chuyển sang Dativ („mir“)."
     },
     {
      "type": "mcq",
      "q": "Chọn đại từ phản thân đúng cho ngôi „du“ khi có tân ngữ chỉ bộ phận cơ thể: „Hast du ___ vor dem Essen schon die Hände gewaschen?“",
      "options": [
-      "dich",
-      "dir",
+      "dein",
       "sich",
-      "dein"
+      "dich",
+      "dir"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Vì câu đã có tân ngữ Akkusativ „die Hände“ (đôi bàn tay), nên đại từ phản thân của ngôi „du“ phải đứng ở cách Dativ là „dir“."
     },
     {
      "type": "mcq",
      "q": "Chọn đại từ phản thân đúng cho câu: „Es ist kalt draußen! Zieh ___ bitte einen warmen Mantel an!“",
      "options": [
-      "dich",
-      "dir",
       "du",
-      "deinen"
+      "dir",
+      "deinen",
+      "dich"
      ],
      "answer": 1,
      "explain": "„sich anziehen“ (mặc quần áo nói chung) dùng Akkusativ („Zieh dich warm an!“). Nhưng khi nêu rõ món đồ mặc vào là „einen warmen Mantel“ (Akkusativ), đại từ phản thân chuyển sang Dativ: „Zieh dir bitte einen warmen Mantel an!“."
@@ -2615,12 +2615,12 @@
      "type": "mcq",
      "q": "Cụm từ cố định „Mach dir keine Sorgen!“ có nghĩa là gì?",
      "options": [
-      "Hãy làm bài tập về nhà đi!",
       "Dung lo lang nhé!",
+      "Đừng quên đánh răng!",
       "Hãy chải tóc đi!",
-      "Đừng quên đánh răng!"
+      "Hãy làm bài tập về nhà đi!"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„sich (Dativ: mir/dir/sich) Sorgen machen“ có nghĩa là lo lắng; „Mach dir keine Sorgen!“ = Đừng lo lắng!"
     },
     {
@@ -2791,24 +2791,24 @@
      "type": "mcq",
      "q": "Chọn giới từ đúng đi kèm với động từ „verzichten“ (từ bỏ, kiêng cái gì): „Für meine Gesundheit verzichte ich ___ Zucker und Fast Food.“",
      "options": [
-      "über",
       "auf",
       "mit",
+      "über",
       "von"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Cấu trúc cố định: „verzichten auf + Akkusativ“ (từ bỏ, kiêng, nhịn cái gì)."
     },
     {
      "type": "mcq",
      "q": "Hai động từ tách đối lập nhau chỉ việc „giảm cân“ và „tăng cân“ trong tiếng Đức là gì?",
      "options": [
+      "ausschalten / einschalten",
       "abnehmen / zunehmen",
-      "aussteigen / einsteigen",
       "abfahren / ankommen",
-      "ausschalten / einschalten"
+      "aussteigen / einsteigen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„abnehmen“ (hat abgenommen) = giảm cân; trái nghĩa với „zunehmen“ (hat zugenommen) = tăng cân."
     },
     {
@@ -2816,23 +2816,23 @@
      "q": "Nếu bạn muốn thử tập tại một phòng gym ở Đức trước khi ký hợp đồng chính thức, bạn xin đăng ký buổi tập gì?",
      "options": [
       "Ein Vorstellungsgespräch",
-      "Ein kostenloses Probetraining",
       "Eine Stadtrundfahrt",
-      "Eine Einweihungsparty"
+      "Eine Einweihungsparty",
+      "Ein kostenloses Probetraining"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„das Probetraining“ là buổi tập thử tại phòng tập thể hình (Fitnessstudio) hoặc câu lạc bộ thể thao (Sportverein)."
     },
     {
      "type": "mcq",
      "q": "Trong câu „Im Sportverein habe ich mich angemeldet und mir neue Sportschuhe gekauft“, tại sao vế đầu dùng „mich“ còn vế sau dùng „mir“?",
      "options": [
+      "Vì „Sportschuhe“ là danh từ giống Đực.",
       "Vì vế đầu là quá khứ, vế sau là hiện tại.",
-      "Vì „sich anmelden“ không có tân ngữ phụ nên dùng Akkusativ („mich“), còn „sich etwas kaufen“ đã có tân ngữ trực tiếp „neue Sportschuhe“ nên dùng Dativ („mir“).",
       "Vì cả hai từ đều dùng tùy ý.",
-      "Vì „Sportschuhe“ là danh từ giống Đực."
+      "Vì „sich anmelden“ không có tân ngữ phụ nên dùng Akkusativ („mich“), còn „sich etwas kaufen“ đã có tân ngữ trực tiếp „neue Sportschuhe“ nên dùng Dativ („mir“)."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Khi động từ phản thân không có tân ngữ trực tiếp khác („sich anmelden“), ngôi ich dùng „mich“ (Akkusativ). Khi mua cho bản thân mình một món đồ („neue Sportschuhe“ là Akkusativ), bản thân mình ở cách Dativ là „mir“."
     },
     {

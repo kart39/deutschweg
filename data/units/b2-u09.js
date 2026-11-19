@@ -400,21 +400,21 @@
      {
       "q": "Was zeigen volle Hallen auf Buchmessen laut dem ersten Abschnitt?",
       "options": [
-       "Dass gedruckte Bücher bald verboten werden.",
-       "Dass das Bedürfnis nach Geschichten und literarischer Tiefe weiterhin lebendig ist.",
        "Dass niemand mehr Videoclips anschaut.",
-       "Dass Lesungen immer kostenlos sind."
+       "Dass Lesungen immer kostenlos sind.",
+       "Dass gedruckte Bücher bald verboten werden.",
+       "Dass das Bedürfnis nach Geschichten und literarischer Tiefe weiterhin lebendig ist."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 1 đối chiếu tỷ lệ đọc giảm với hội trường đông kín người chứng tỏ nhu cầu văn học vẫn còn mạnh mẽ."
      },
      {
       "q": "Welche Rolle spielte Literatur nach schweren historischen Krisen?",
       "options": [
-       "Sie verdrängte alle Erinnerungen an die Geschichte.",
+       "Sie erschien nur als Lyrik.",
        "Sie spiegelte Ängste, Hoffnungen und Brüche wider, über die im Alltag geschwiegen wurde.",
        "Sie bestand ausschließlich aus Bestsellern.",
-       "Sie erschien nur als Lyrik."
+       "Sie verdrängte alle Erinnerungen an die Geschichte."
       ],
       "answer": 1,
       "explain": "Đoạn 2 giải thích văn học phản ánh nỗi sợ, hy vọng và những vết rạn ít được nói đến hằng ngày."
@@ -422,23 +422,23 @@
      {
       "q": "Worüber schreiben Autorinnen der Gegenwartsliteratur heute verstärkt?",
       "options": [
-       "Über technische Bauanleitungen.",
        "Über persönliche Identität, Familienerinnerungen und das Leben zwischen Kulturen.",
+       "Über technische Bauanleitungen.",
        "Ausschließlich über das Mittelalter.",
        "Über schnelle Klickzahlen."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 3 nêu rõ các chủ đề bản sắc, ký ức gia đình và đa văn hóa."
      },
      {
       "q": "Welchen psychologischen Vorteil bietet das Lesen eines Romans laut Abschnitt 4?",
       "options": [
-       "Es trainiert Empathie, weil man tief in die Gefühlswelt anderer eintaucht.",
        "Es verkürzt die Aufmerksamkeitsspanne.",
-       "Es ersetzt alle persönlichen Gespräche.",
-       "Es macht jedes Zeitgeschehen unwichtig."
+       "Es trainiert Empathie, weil man tief in die Gefühlswelt anderer eintaucht.",
+       "Es macht jedes Zeitgeschehen unwichtig.",
+       "Es ersetzt alle persönlichen Gespräche."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 4 nhấn mạnh việc đọc tiểu thuyết giúp rèn luyện lòng thấu cảm."
      },
      {
@@ -467,9 +467,9 @@
      "q": "Welche Genitivform ist nach „aufgrund“ korrekt?",
      "options": [
       "aufgrund des großen Erfolgs",
-      "aufgrund dem großen Erfolg",
+      "aufgrund der große Erfolg",
       "aufgrund den großen Erfolg",
-      "aufgrund der große Erfolg"
+      "aufgrund dem großen Erfolg"
      ],
      "answer": 0,
      "explain": "'Erfolg' là giống đực → Genitiv là 'des großen Erfolgs'."
@@ -478,12 +478,12 @@
      "type": "mcq",
      "q": "Welche Präposition passt nur zu einem positiven Ergebnis?",
      "options": [
-      "dank",
       "infolge",
-      "trotz",
-      "wegen"
+      "wegen",
+      "dank",
+      "trotz"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'dank' (nhờ vào) dùng cho nguyên nhân mang lại kết quả tích cực."
     },
     {
@@ -492,8 +492,8 @@
      "options": [
       "Genitiv",
       "Akkusativ",
-      "Dativ",
-      "Nominativ"
+      "Nominativ",
+      "Dativ"
      ],
      "answer": 0,
      "explain": "'angesichts + Genitiv' (vd: angesichts der starken Konkurrenz)."
@@ -502,24 +502,24 @@
      "type": "mcq",
      "q": "Wie lautet der Genitiv Singular von „das Werk“?",
      "options": [
-      "des Werkes",
       "dem Werk",
-      "den Werk",
-      "die Werke"
+      "die Werke",
+      "des Werkes",
+      "den Werk"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Danh từ giống trung 1 âm tiết trong Genitiv thêm '-es' hoặc '-s': des Werkes / des Werks."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „ein gesellschaftskritischer Roman“?",
      "options": [
+      "Ein kurzer Text für Zeitungen",
       "Ein Roman, der Missstände und Probleme der Gesellschaft offen anspricht",
-      "Ein Roman ohne menschliche Figuren",
       "Ein Buch über technische Erfindungen",
-      "Ein kurzer Text für Zeitungen"
+      "Ein Roman ohne menschliche Figuren"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'gesellschaftskritisch' = phê phán các vấn đề, bất cập của xã hội."
     },
     {
@@ -527,9 +527,9 @@
      "q": "Welcher Artikel gehört zu „Exil“?",
      "options": [
       "das",
-      "der",
+      "–",
       "die",
-      "–"
+      "der"
      ],
      "answer": 0,
      "explain": "Danh từ chuẩn là 'das Exil, die Exile'."
@@ -538,24 +538,24 @@
      "type": "mcq",
      "q": "Welches Verb bedeutet „Alltag und Gefühle lebendig beschreiben“?",
      "options": [
-      "schildern",
       "auszeichnen",
       "widerspiegeln",
-      "beeinflussen"
+      "beeinflussen",
+      "schildern"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'schildern' = miêu tả, khắc họa sinh động."
     },
     {
      "type": "mcq",
      "q": "Was ist eine „Lesung“?",
      "options": [
-      "Eine Veranstaltung, bei der ein Autor öffentlich aus seinem Buch vorliest",
-      "Eine Übersetzung in eine andere Sprache",
       "Die dritte Auflage eines Romans",
-      "Ein Gespräch zwischen zwei Verlagen"
+      "Ein Gespräch zwischen zwei Verlagen",
+      "Eine Übersetzung in eine andere Sprache",
+      "Eine Veranstaltung, bei der ein Autor öffentlich aus seinem Buch vorliest"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Lesung' = buổi đọc sách giao lưu công khai của tác giả."
     },
     {
@@ -1148,54 +1148,54 @@
      {
       "q": "Was irritiert manche Leser beim ersten Kontakt mit einer Kurzgeschichte?",
       "options": [
-       "Dass sie mitten in der Handlung beginnt und oft keine klare Auflösung bietet.",
-       "Dass sie immer über tausend Seiten lang ist.",
        "Dass darin nur historische Daten stehen.",
-       "Dass es keine Dialoge gibt."
+       "Dass es keine Dialoge gibt.",
+       "Dass sie mitten in der Handlung beginnt und oft keine klare Auflösung bietet.",
+       "Dass sie immer über tausend Seiten lang ist."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 1 nêu đặc trưng mở đầu đột ngột giữa đời thường và kết mở thiếu lời giải đáp trọn vẹn."
      },
      {
       "q": "Warum erlebte die Kurzgeschichte nach dem Zweiten Weltkrieg eine Blütezeit?",
       "options": [
-       "Weil Papier besonders billig war.",
        "Weil Autorinnen eine knappe, ehrliche Sprache suchten, um Krisen anhand kleiner Alltagsmomente zu zeigen.",
+       "Weil alle Menschen viel Freizeit hatten.",
        "Weil Romane damals verboten waren.",
-       "Weil alle Menschen viel Freizeit hatten."
+       "Weil Papier besonders billig war."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 2 giải thích nhu cầu tìm ngôn ngữ súc tích chân thực phản ánh hậu chiến qua chi tiết đời thường."
      },
      {
       "q": "Welche Funktion haben Symbole wie eine verschlossene Tür in Kurzgeschichten?",
       "options": [
-       "Sie zeigen unausgesprochene innere Konflikte der Figuren.",
-       "Sie verlängern die Handlung künstlich.",
+       "Sie ersetzen den Titel der Geschichte.",
        "Sie beschreiben nur die Architektur von Häusern.",
-       "Sie ersetzen den Titel der Geschichte."
+       "Sie verlängern die Handlung künstlich.",
+       "Sie zeigen unausgesprochene innere Konflikte der Figuren."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 3 giải thích biểu tượng đại diện cho xung đột nội tâm chưa nói thành lời."
      },
      {
       "q": "Warum eignen sich Kurzgeschichten besonders gut für Lernende auf B2-Niveau?",
       "options": [
-       "Weil sie keine schwierigen Wörter enthalten.",
        "Weil der überschaubare Umfang eine genaue Analyse einzelner Textstellen und Diskussionen ermöglicht.",
-       "Weil es immer nur eine einzige richtige Deutung gibt.",
-       "Weil sie nur aus Metaphern bestehen."
+       "Weil sie nur aus Metaphern bestehen.",
+       "Weil sie keine schwierigen Wörter enthalten.",
+       "Weil es immer nur eine einzige richtige Deutung gibt."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 4 nêu rõ dung lượng vừa phải giúp phân tích kỹ chi tiết văn bản và thảo luận mở."
      },
      {
       "q": "Was beweist die Kurzgeschichte laut dem letzten Satz?",
       "options": [
        "Dass wenige sorgfältig geschriebene Seiten reichen, um die Welt mit neuen Augen zu sehen.",
+       "Dass Autoren keine Geduld mehr haben.",
        "Dass lange Romane bald verschwinden.",
-       "Dass man Literatur nur noch auf dem Handy liest.",
-       "Dass Autoren keine Geduld mehr haben."
+       "Dass man Literatur nur noch auf dem Handy liest."
       ],
       "answer": 0,
       "explain": "Câu kết khẳng định vài trang viết chọn lọc đủ để người đọc nhìn thế giới bằng góc nhìn mới."
@@ -1214,72 +1214,72 @@
      "type": "mcq",
      "q": "Welche Präposition passt: „___ des ersten Satzes erkennt man sofort die kalte Atmosphäre.“?",
      "options": [
+      "Trotzdem",
       "Anhand",
       "Hinsichtlich",
-      "Statt",
-      "Trotzdem"
+      "Statt"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'anhand + Genitiv' = dựa vào bằng chứng/chi tiết cụ thể."
     },
     {
      "type": "mcq",
      "q": "Welche Präposition drückt den Aspekt aus, unter dem man etwas betrachtet?",
      "options": [
-      "hinsichtlich",
-      "infolge",
       "mittels",
-      "dank"
+      "dank",
+      "infolge",
+      "hinsichtlich"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'hinsichtlich + Genitiv' = xét về mặt, liên quan đến khía cạnh..."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist grammatikalisch richtig?",
      "options": [
-      "Mithilfe genauer Textstellen lässt sich die These belegen.",
       "Mithilfe genaue Textstellen lässt sich die These belegen.",
       "Mithilfe genauem Textstelle lässt sich die These belegen.",
+      "Mithilfe genauer Textstellen lässt sich die These belegen.",
       "Mithilfe der Textstelle belegen lässt sich die These."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'mithilfe + Genitiv số nhiều không mạo từ': tính từ đuôi '-er' ('genauer Textstellen')."
     },
     {
      "type": "mcq",
      "q": "Was ist typisch für den Schluss einer klassischen Kurzgeschichte?",
      "options": [
-      "Ein offenes, vieldeutiges Ende ohne komplette Auflösung",
-      "Eine ausführliche Zusammenfassung der Zukunft aller Figuren",
       "Ein langes Gedicht des Verlags",
-      "Eine Liste aller Literaturpreise"
+      "Ein offenes, vieldeutiges Ende ohne komplette Auflösung",
+      "Eine Liste aller Literaturpreise",
+      "Eine ausführliche Zusammenfassung der Zukunft aller Figuren"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Truyện ngắn kinh điển thường có kết mở đa nghĩa."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Wendepunkt“?",
      "options": [
-      "der",
-      "die",
       "das",
-      "–"
+      "–",
+      "die",
+      "der"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Danh từ chuẩn là 'der Wendepunkt, die Wendepunkte'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „etwas nicht direkt sagen, sondern nur leicht darauf hinweisen“?",
      "options": [
-      "andeuten",
-      "hervorheben",
       "interpretieren",
-      "veröffentlichen"
+      "veröffentlichen",
+      "hervorheben",
+      "andeuten"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'andeuten' = gợi ý ngầm, ám chỉ nhẹ."
     },
     {
@@ -1287,9 +1287,9 @@
      "q": "Was ist ein „allwissender Erzähler“?",
      "options": [
       "Ein Erzähler, der über alle Figuren, Orte und geheimen Gedanken Bescheid weiß",
-      "Eine Hauptfigur, die nur ‚ich‘ sagt",
+      "Ein Symbol für Gleichgültigkeit",
       "Ein Leser auf einer Buchmesse",
-      "Ein Symbol für Gleichgültigkeit"
+      "Eine Hauptfigur, die nur ‚ich‘ sagt"
      ],
      "answer": 0,
      "explain": "Người kể chuyện toàn tri biết toàn bộ suy nghĩ và diễn biến."
@@ -1299,8 +1299,8 @@
      "q": "Wie ersetzt man „anhand + Genitiv“, wenn ein artikelloses Pluralnomen ohne Adjektiv folgt (z. B. ‚Beispiele‘)?",
      "options": [
       "anhand von Beispielen (Dativ)",
-      "anhand Beispieles",
       "anhand dem Beispielen",
+      "anhand Beispieles",
       "anhand den Beispiele"
      ],
      "answer": 0,
@@ -1894,56 +1894,56 @@
      {
       "q": "Warum fühlten sich manche Menschen früher in klassischen Kunstmuseen unwohl?",
       "options": [
+       "Weil der Eintritt immer kostenlos war.",
        "Wegen zu lauter Musik in den Sälen.",
        "Wegen der stillen, strengen Atmosphäre und fehlenden Vorwissens.",
-       "Weil alle Bilder abstrakt waren.",
-       "Weil der Eintritt immer kostenlos war."
+       "Weil alle Bilder abstrakt waren."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 1 mô tả không gian nghiêm trang khép kín khiến người ngoài giới hàn lâm thấy lạc lõng."
      },
      {
       "q": "Wie gestalten Kuratorinnen heute moderne Ausstellungen anders?",
       "options": [
        "Sie verbieten jede Fotografie.",
-       "Sie verbinden historische Werke mit zeitgenössischer Kunst und interaktiven Räumen.",
        "Sie hängen nur noch schwarze Leinwände auf.",
-       "Sie schließen die Museen am Wochenende."
+       "Sie schließen die Museen am Wochenende.",
+       "Sie verbinden historische Werke mit zeitgenössischer Kunst und interaktiven Räumen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 2 nêu các cuộc đối thoại liên thời kỳ và không gian tương tác giác quan."
      },
      {
       "q": "Wie versuchen Initiativen, Schwellenängste vor Kunst abzubauen?",
       "options": [
-       "Durch Pop-up-Galerien im Alltag, Skulpturen im Park und eintrittsfreie Tage.",
        "Durch höhere Eintrittspreise.",
-       "Durch strengere Aufsichtspersonen.",
-       "Durch reine Online-Kataloge ohne Originale."
+       "Durch reine Online-Kataloge ohne Originale.",
+       "Durch Pop-up-Galerien im Alltag, Skulpturen im Park und eintrittsfreie Tage.",
+       "Durch strengere Aufsichtspersonen."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 3 liệt kê các sáng kiến đưa nghệ thuật ra không gian công cộng và miễn vé Chủ nhật."
      },
      {
       "q": "Was befürchten konservative Kunstkritiker bei zu viel Eventcharakter?",
       "options": [
-       "Dass die ruhige Konzentration auf das einzelne Kunstwerk verloren geht.",
+       "Dass Skulpturen zu schwer sind.",
        "Dass niemand mehr ins Museum geht.",
        "Dass Restaurierungen zu schnell fertig werden.",
-       "Dass Skulpturen zu schwer sind."
+       "Dass die ruhige Konzentration auf das einzelne Kunstwerk verloren geht."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 4 nêu lo ngại tính giải trí lấn át sự chiêm ngưỡng sâu lắng."
      },
      {
       "q": "Wie beschreibt der letzte Abschnitt den idealen Mittelweg?",
       "options": [
-       "Lebendige Wissensvermittlung, ohne die künstlerische Tiefe zu opfern.",
+       "Museen komplett in Freizeitparks umzubauen.",
        "Verzicht auf jede Restaurierung alter Gemälde.",
-       "Nur noch abstrakte Kunst zu zeigen.",
-       "Museen komplett in Freizeitparks umzubauen."
+       "Lebendige Wissensvermittlung, ohne die künstlerische Tiefe zu opfern.",
+       "Nur noch abstrakte Kunst zu zeigen."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn cuối đề xuất truyền đạt sống động nhưng vẫn giữ chiều sâu nghệ thuật."
      }
     ],
@@ -1960,12 +1960,12 @@
      "type": "mcq",
      "q": "Welche Präposition drückt aus „getrennt von der großen Masse / dem Üblichen“?",
      "options": [
-      "abseits",
-      "innerhalb",
       "infolge",
+      "innerhalb",
+      "abseits",
       "dank"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'abseits + Genitiv' = tách biệt khỏi (vd: abseits des Mainstreams)."
     },
     {
@@ -1973,9 +1973,9 @@
      "q": "Welcher Satz verwendet „statt“ korrekt?",
      "options": [
       "Statt eines klassischen Gemäldes hing dort ein Videobild.",
-      "Statt einem klassischen Gemälde hing dort ein Videobild.",
+      "Statt der klassische Gemälde hing dort ein Videobild.",
       "Statt ein klassisches Gemälde hing dort ein Videobild.",
-      "Statt der klassische Gemälde hing dort ein Videobild."
+      "Statt einem klassischen Gemälde hing dort ein Videobild."
      ],
      "answer": 0,
      "explain": "'statt + Genitiv': eines klassischen Gemäldes."
@@ -1986,8 +1986,8 @@
      "options": [
       "Statt nur zu schauen, dürfen Gäste aktiv mitmachen.",
       "Statt nur schauen, dürfen Gäste aktiv mitmachen.",
-      "Statt nur zu geschaut, dürfen Gäste aktiv mitmachen.",
-      "Statt zu nur schauen, dürfen Gäste aktiv mitmachen."
+      "Statt zu nur schauen, dürfen Gäste aktiv mitmachen.",
+      "Statt nur zu geschaut, dürfen Gäste aktiv mitmachen."
      ],
      "answer": 0,
      "explain": "Đi với động từ dùng 'statt ... zu + Infinitiv'."
@@ -1996,60 +1996,60 @@
      "type": "mcq",
      "q": "Was bedeutet „jenseits bekannter Grenzen“?",
      "options": [
-      "Über die bekannten Grenzen hinausgehend",
       "Genau in der Mitte der Grenze",
-      "Innerhalb eines kleinen Raums",
-      "Aufgrund eines alten Gesetzes"
+      "Aufgrund eines alten Gesetzes",
+      "Über die bekannten Grenzen hinausgehend",
+      "Innerhalb eines kleinen Raums"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'jenseits + Genitiv' = vượt ra ngoài, ở phía bên kia của."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Gemälde“?",
      "options": [
+      "–",
       "das",
-      "der",
       "die",
-      "–"
+      "der"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Danh từ chuẩn là 'das Gemälde, die Gemälde'."
     },
     {
      "type": "mcq",
      "q": "Was ist eine „Vernissage“?",
      "options": [
-      "Die feierliche Eröffnung einer Kunstausstellung",
-      "Das Material für eine Skulptur",
       "Ein Verbot für Fotos im Museum",
+      "Das Material für eine Skulptur",
+      "Die feierliche Eröffnung einer Kunstausstellung",
       "Die Restaurierung einer alten Leinwand"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Vernissage' = buổi khai mạc triển lãm nghệ thuật."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „aufmerksam und ruhig anschauen“?",
      "options": [
-      "betrachten",
-      "provozieren",
       "ausstellen",
-      "entstehen"
+      "entstehen",
+      "provozieren",
+      "betrachten"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'betrachten' = ngắm nhìn, chiêm ngưỡng kỹ lưỡng."
     },
     {
      "type": "mcq",
      "q": "Welche Genitivform ist korrekt?",
      "options": [
-      "innerhalb des Museums",
-      "innerhalb dem Museum",
       "innerhalb das Museum",
-      "innerhalb den Museen"
+      "innerhalb den Museen",
+      "innerhalb des Museums",
+      "innerhalb dem Museum"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'innerhalb + Genitiv': des Museums."
     },
     {
@@ -2555,21 +2555,21 @@
      {
       "q": "Warum fühlen sich viele lebende Künstlerinnen durch KI-Programme benachteiligt?",
       "options": [
-       "Weil KI-Systeme geschützte Werke ohne Zustimmung und Vergütung zum Lernen nutzen und Stile nachahmen.",
        "Weil niemand mehr ins Museum geht.",
        "Weil Bilder zu langsam berechnet werden.",
+       "Weil KI-Systeme geschützte Werke ohne Zustimmung und Vergütung zum Lernen nutzen und Stile nachahmen.",
        "Weil es zu viele Ateliers gibt."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 2 chỉ rõ nghệ sĩ lo ngại tác phẩm có bản quyền bị dùng làm dữ liệu huấn luyện không phép và không trả thù lao."
      },
      {
       "q": "Welches historische Gegenargument nennen Befürworter von KI-Werkzeugen?",
       "options": [
        "Dass schon frühere Meister zunächst Werke in Ateliers kopierten, um zu lernen.",
+       "Dass Farben früher teurer waren.",
        "Dass Urheberrecht früher nicht existierte.",
-       "Dass Gedichte nie geschützt waren.",
-       "Dass Farben früher teurer waren."
+       "Dass Gedichte nie geschützt waren."
       ],
       "answer": 0,
       "explain": "Đoạn 3 nêu lập luận các bậc thầy xưa cũng học từ việc mô phỏng tiền nhân."
@@ -2577,45 +2577,45 @@
      {
       "q": "Wie kann KI laut Abschnitt 3 der Kunstwissenschaft positiv helfen?",
       "options": [
-       "Sie ersetzt alle Kuratoren im Museum.",
-       "Sie macht versteckte Skizzen sichtbar und hilft, Fälschungen zu entlarven.",
+       "Sie senkt die Eintrittspreise.",
        "Sie schreibt automatisch Bestseller.",
-       "Sie senkt die Eintrittspreise."
+       "Sie macht versteckte Skizzen sichtbar und hilft, Fälschungen zu entlarven.",
+       "Sie ersetzt alle Kuratoren im Museum."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 3 nêu ứng dụng phân tích ảnh giúp phát hiện nét phác thảo ẩn và lật tẩy tranh giả."
      },
      {
       "q": "Worin liegt laut Abschnitt 4 der grundlegende Unterschied zwischen Mensch und Algorithmus?",
       "options": [
-       "Ein Algorithmus empfindet weder Freude noch Verlust, sondern kombiniert nur Wahrscheinlichkeiten.",
        "Menschen arbeiten schneller als Computer.",
-       "Algorithmen fallen immer aus dem Rahmen.",
-       "Menschen brauchen keine Erfahrungen."
+       "Ein Algorithmus empfindet weder Freude noch Verlust, sondern kombiniert nur Wahrscheinlichkeiten.",
+       "Menschen brauchen keine Erfahrungen.",
+       "Algorithmen fallen immer aus dem Rahmen."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 4 nhấn mạnh thuật toán không có trải nghiệm cảm xúc mà chỉ tính xác suất dữ liệu."
      },
      {
       "q": "Was fordert Abschnitt 5 vom Publikum und der Kulturpolitik?",
       "options": [
-       "Ein Verbot aller digitalen Bilder.",
        "Schutz des geistigen Eigentums sowie klare Transparenz über die Herkunft eines Bildes.",
-       "Nur noch abstrakte Kunst zu fördern.",
-       "Alte Museen zu schließen."
+       "Ein Verbot aller digitalen Bilder.",
+       "Alte Museen zu schließen.",
+       "Nur noch abstrakte Kunst zu fördern."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn cuối nêu nhiệm vụ kép: bảo vệ bản quyền và minh bạch nguồn gốc người hay máy."
      },
      {
       "q": "Welche Bedeutung hat die Redewendung ‚aus dem Rahmen fallen‘ im Text?",
       "options": [
-       "Ungewöhnlich sein und bekannte Grenzen mutig überschreiten.",
        "Aus einem Bilderrahmen herausfallen.",
+       "Einen Literaturkanon auswendig lernen.",
        "Aufgrund eines Fehlers entlarvt werden.",
-       "Einen Literaturkanon auswendig lernen."
+       "Ungewöhnlich sein und bekannte Grenzen mutig überschreiten."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Trong ngữ cảnh đoạn 4, 'aus dem Rahmen fallen' nghĩa là dám phá cách vượt khỏi khuôn khổ quen thuộc."
      }
     ],
@@ -2632,24 +2632,24 @@
      "type": "mcq",
      "q": "Welche Genitivform ist nach „infolge“ bei einem artikellosen Pluralnomen mit Adjektiv korrekt?",
      "options": [
+      "infolge einem neuen Möglichkeit",
       "infolge neuer technischer Möglichkeiten",
       "infolge neuen technischen Möglichkeiten",
-      "infolge neue technische Möglichkeiten",
-      "infolge einem neuen Möglichkeit"
+      "infolge neue technische Möglichkeiten"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Genitiv số nhiều không mạo từ có tính từ dùng đuôi '-er': neuer technischer Möglichkeiten."
     },
     {
      "type": "mcq",
      "q": "Wann weicht man nach einer Genitivpräposition auf ‚von + Dativ‘ aus?",
      "options": [
-      "Wenn ein Pluralnomen ohne Artikel und ohne Adjektiv folgt (z. B. anhand von Beispielen)",
+      "Wenn ein Verb im Infinitiv folgt",
       "Immer bei männlichen Nomen im Singular",
       "Nach ‚trotz‘ und ‚wegen‘ nie",
-      "Wenn ein Verb im Infinitiv folgt"
+      "Wenn ein Pluralnomen ohne Artikel und ohne Adjektiv folgt (z. B. anhand von Beispielen)"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Danh từ số nhiều trần (không mạo từ, không tính từ) dùng 'von + Dativ' (anhand von Beispielen)."
     },
     {
@@ -2657,9 +2657,9 @@
      "q": "Welcher Satz ist grammatikalisch richtig?",
      "options": [
       "Hinsichtlich des Urheberrechts besteht großer Reformbedarf.",
+      "Hinsichtlich den Urheberrechten besteht großer Reformbedarf.",
       "Hinsichtlich dem Urheberrecht besteht großer Reformbedarf.",
-      "Hinsichtlich das Urheberrecht besteht großer Reformbedarf.",
-      "Hinsichtlich den Urheberrechten besteht großer Reformbedarf."
+      "Hinsichtlich das Urheberrecht besteht großer Reformbedarf."
      ],
      "answer": 0,
      "explain": "'hinsichtlich + Genitiv': des Urheberrechts."
@@ -2680,72 +2680,72 @@
      "type": "mcq",
      "q": "Was bedeutet „mit einer Kritik ins Schwarze treffen“?",
      "options": [
+      "Einen Bestseller nachahmen",
       "Genau den wichtigsten Punkt erkennen und treffen",
-      "Eine schlechte Bewertung ohne Argumente schreiben",
       "Das Licht im Atelier ausschalten",
-      "Einen Bestseller nachahmen"
+      "Eine schlechte Bewertung ohne Argumente schreiben"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'ins Schwarze treffen' = nói trúng phóc trọng tâm."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Atelier“?",
      "options": [
-      "das",
       "der",
+      "–",
       "die",
-      "–"
+      "das"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Danh từ chuẩn là 'das Atelier, die Ateliers'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „einen Betrug oder eine Fälschung aufdecken“?",
      "options": [
+      "ausstellen",
       "entlarven",
-      "nachahmen",
       "würdigen",
-      "ausstellen"
+      "nachahmen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'entlarven' = lật tẩy, vạch trần."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektiv beschreibt eine äußerst kluge und präzise Analyse?",
      "options": [
-      "scharfsinnig",
       "sehenswert",
       "abstrakt",
+      "scharfsinnig",
       "vieldeutig"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'scharfsinnig' = sắc sảo, tinh anh."
     },
     {
      "type": "mcq",
      "q": "Welcher Genitiv Singular ist richtig?",
      "options": [
-      "aufgrund eines schweren Fehlers",
-      "aufgrund einen schweren Fehler",
+      "aufgrund ein schwerer Fehler",
       "aufgrund einem schweren Fehler",
-      "aufgrund ein schwerer Fehler"
+      "aufgrund eines schweren Fehlers",
+      "aufgrund einen schweren Fehler"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'aufgrund + Genitiv' giống đực: eines schweren Fehlers."
     },
     {
      "type": "mcq",
      "q": "Was ist das Gegenteil von „einen eigenen Stil entwickeln“?",
      "options": [
-      "fremde Vorbilder bloß nachahmen",
       "ein Lebenswerk würdigen",
+      "fremde Vorbilder bloß nachahmen",
       "eine Lesung organisieren",
       "Leihgaben ausstellen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'nachahmen' = bắt chước, mô phỏng theo người khác."
     },
     {

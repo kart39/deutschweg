@@ -371,32 +371,32 @@
      {
       "q": "Was ist beim Frühstück in Deutschland sehr wichtig?",
       "options": [
+       "Nudeln und Suppe",
        "Reis und Fisch",
        "Brot und Brötchen",
-       "Nudeln und Suppe",
        "Salat und Kartoffeln"
-      ],
-      "answer": 1
-     },
-     {
-      "q": "Was ist ein typisches Frühstück in Vietnam laut dem Text?",
-      "options": [
-       "Brot mit Butter und Käse",
-       "Kartoffeln mit Quark",
-       "Eine Suppe mit Nudeln und Fleisch oder Reis",
-       "Nur Obst und Milch"
       ],
       "answer": 2
      },
      {
-      "q": "Welches Getränk ist sowohl in Deutschland als auch in Vietnam beliebt?",
+      "q": "Was ist ein typisches Frühstück in Vietnam laut dem Text?",
       "options": [
-       "Kaffee",
-       "Tomatensaft",
-       "Milch",
-       "Wasser"
+       "Eine Suppe mit Nudeln und Fleisch oder Reis",
+       "Kartoffeln mit Quark",
+       "Brot mit Butter und Käse",
+       "Nur Obst und Milch"
       ],
       "answer": 0
+     },
+     {
+      "q": "Welches Getränk ist sowohl in Deutschland als auch in Vietnam beliebt?",
+      "options": [
+       "Tomatensaft",
+       "Wasser",
+       "Milch",
+       "Kaffee"
+      ],
+      "answer": 3
      }
     ],
     "glossary": []
@@ -411,24 +411,24 @@
      "type": "mcq",
      "q": "Chọn mạo từ xác định đúng cho danh từ: „___ Brot ist frisch.“",
      "options": [
-      "Der",
+      "Den",
       "Die",
-      "Das",
-      "Den"
+      "Der",
+      "Das"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Danh từ „Brot“ (bánh mì) thuộc giống trung → „das Brot“."
     },
     {
      "type": "mcq",
      "q": "Chọn mạo từ không xác định đúng: „Das ist ___ Banane.“",
      "options": [
-      "ein",
       "eine",
+      "ein",
       "einen",
       "kein"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Danh từ „Banane“ thuộc giống cái (die Banane), nên mạo từ không xác định ở cách Nominativ là „eine“."
     },
     {
@@ -436,35 +436,35 @@
      "q": "Điền từ phủ định đúng: „Ist das Kaffee? – Nein, das ist ___ Kaffee, das ist Tee.“",
      "options": [
       "keine",
+      "ein",
       "kein",
-      "nicht",
-      "ein"
+      "nicht"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„Kaffee“ là danh từ giống đực (der Kaffee) không đếm được. Khi phủ định danh từ ở cách Nominativ, ta dùng „kein“."
     },
     {
      "type": "mcq",
      "q": "Điền từ phủ định đúng cho danh từ số nhiều: „Sind das Äpfel? – Nein, das sind ___ Äpfel.“",
      "options": [
-      "kein",
       "nicht",
       "keine",
-      "eine"
+      "eine",
+      "kein"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„Äpfel“ là danh từ số nhiều (die Äpfel), nên mạo từ phủ định ở cách Nominativ luôn là „keine“."
     },
     {
      "type": "mcq",
      "q": "Trong các danh từ sau, danh từ nào thuộc giống cái (die)?",
      "options": [
-      "Käse",
-      "Fisch",
       "Milch",
+      "Fisch",
+      "Käse",
       "Fleisch"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "„die Milch“ (sữa) là danh từ giống cái. Còn „der Käse“, „der Fisch“ là giống đực; „das Fleisch“ là giống trung."
     },
     {
@@ -1054,21 +1054,21 @@
       "q": "Wie viele Flaschen Getränke kauft Familie Meyer insgesamt (Wasser + Apfelsaft)?",
       "options": [
        "Drei Flaschen",
-       "Vier Flaschen",
        "Fünf Flaschen",
-       "Sechs Flaschen"
+       "Sechs Flaschen",
+       "Vier Flaschen"
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Wie viel kostet der Einkauf zusammen?",
       "options": [
-       "23,50 Euro",
-       "32,05 Euro",
+       "35,20 Euro",
        "32,50 Euro",
-       "35,20 Euro"
+       "32,05 Euro",
+       "23,50 Euro"
       ],
-      "answer": 2
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1083,12 +1083,12 @@
      "type": "mcq",
      "q": "Chọn mạo từ đúng ở cách Akkusativ: „Ich habe Hunger. Ich esse ___ Apfel.“",
      "options": [
-      "ein",
       "eine",
-      "einen",
-      "der"
+      "der",
+      "ein",
+      "einen"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Động từ „essen“ đòi hỏi tân ngữ ở cách Akkusativ. Vì „Apfel“ là danh từ giống đực (der Apfel), mạo từ không xác định chuyển thành „einen“."
     },
     {
@@ -1096,9 +1096,9 @@
      "q": "Chọn dạng đúng của động từ „essen“: „Was ___ du gern zum Frühstück?“",
      "options": [
       "esst",
-      "essest",
+      "esse",
       "isst",
-      "esse"
+      "essest"
      ],
      "answer": 2,
      "explain": "Động từ bất quy tắc „essen“ đổi nguyên âm e → i ở ngôi „du“ và „er/sie/es“. Vì gốc đã có -ss nên ngôi „du“ và „er“ viết giống nhau là „isst“."
@@ -1107,12 +1107,12 @@
      "type": "mcq",
      "q": "Chọn dạng đúng của động từ „nehmen“: „Mein Vater ___ den Fisch mit Reis.“",
      "options": [
-      "nehmt",
       "nimmt",
+      "nehmt",
       "nehmst",
       "nimmst"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Chủ ngữ „Mein Vater“ (ngôi er) nên động từ bất quy tắc „nehmen“ đổi thành „nimmt“."
     },
     {
@@ -1132,11 +1132,11 @@
      "q": "Cụm từ chỉ số lượng nào sau đây ĐÚNG ngữ pháp?",
      "options": [
       "zwei Kilos Kartoffeln und drei Flasche Wasser",
+      "zwei Kilo Kartoffeln und drei Flasche Wassern",
       "zwei Kilo Kartoffeln und drei Flaschen Wasser",
-      "zwei Kilos Kartoffel und drei Flaschen Wasser",
-      "zwei Kilo Kartoffeln und drei Flasche Wassern"
+      "zwei Kilos Kartoffel und drei Flaschen Wasser"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Đơn vị đo lường giống trung „Kilo“ giữ nguyên dạng số ít sau số đếm („zwei Kilo“), còn danh từ giống cái „Flasche“ phải chia số nhiều („drei Flaschen“)."
     },
     {
@@ -1713,18 +1713,18 @@
      {
       "q": "Was ist eine „Sachertorte“?",
       "options": [
-       "Eine Suppe mit Fleisch",
-       "Ein berühmter Schokoladenkuchen aus Wien",
        "Ein Brötchen mit Käse und Schinken",
-       "Ein Getränk mit Milch"
+       "Eine Suppe mit Fleisch",
+       "Ein Getränk mit Milch",
+       "Ein berühmter Schokoladenkuchen aus Wien"
       ],
-      "answer": 1
+      "answer": 3
      },
      {
       "q": "Wie trinkt Nam seinen Kaffee?",
       "options": [
-       "Mit Zucker, aber ohne Milch",
        "Mit Milch und viel Zucker",
+       "Mit Zucker, aber ohne Milch",
        "Mit Milch, aber ohne Zucker",
        "Schwarz ohne Milch und ohne Zucker"
       ],
@@ -1733,22 +1733,22 @@
      {
       "q": "Warum isst Lisa keinen Kuchen?",
       "options": [
+       "Der Kuchen im Cafe ist nicht frisch.",
        "Der Kuchen ist zu teuer.",
        "Sie hat keinen Hunger, sie hat nur Durst.",
-       "Der Kuchen im Cafe ist nicht frisch.",
        "Sie mag kein Eis."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wie bezahlen Nam und Lisa die Rechnung?",
       "options": [
-       "Zusammen",
-       "Getrennt",
+       "Lisa bezahlt alles.",
        "Nam bezahlt alles.",
-       "Lisa bezahlt alles."
+       "Getrennt",
+       "Zusammen"
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1763,12 +1763,12 @@
      "type": "mcq",
      "q": "Chọn dạng đúng của động từ „mögen“: „Mein Sohn ___ keinen Fisch, aber er isst gern Fleisch.“",
      "options": [
-      "mögt",
+      "möchte",
       "magt",
-      "mag",
-      "möchte"
+      "mögt",
+      "mag"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Động từ „mögen“ ở ngôi thứ 3 số ít (er/sie/es) chia giống ngôi „ich“ là „mag“ (không có đuôi -t)."
     },
     {
@@ -1776,21 +1776,21 @@
      "q": "Chọn dạng đúng của „möchten“: „Frau Weber, was ___ Sie trinken? Und was ___ Ihr Mann?“",
      "options": [
       "möchten / möchtet",
-      "möchten / möchte",
+      "mögen / magt",
       "möchtet / möchte",
-      "mögen / magt"
+      "möchten / möchte"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Ngôi lịch sự „Sie“ chia là „möchten“; chủ ngữ „Ihr Mann“ (ngôi er) chia là „möchte“ (không phải möchtet)."
     },
     {
      "type": "mcq",
      "q": "Chọn từ phủ định đúng („kein“ hay „nicht“): „Die Suppe ist leider ___ warm.“",
      "options": [
-      "kein",
+      "keinen",
       "keine",
       "nicht",
-      "keinen"
+      "kein"
      ],
      "answer": 2,
      "explain": "Để phủ định một tính từ („warm“ – ấm/nóng), ta bắt buộc dùng „nicht“ đứng ngay trước tính từ đó."
@@ -1800,11 +1800,11 @@
      "q": "Chọn từ phủ định đúng: „Möchtest du ein Brötchen? – Nein, danke, ich habe ___ Hunger.“",
      "options": [
       "nicht",
-      "kein",
+      "keinen",
       "keine",
-      "keinen"
+      "kein"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "„Hunger“ là danh từ giống đực (der Hunger) không có mạo từ và đứng sau động từ „habe“ (cách Akkusativ) → phủ định bằng „keinen Hunger“."
     },
     {
@@ -1812,11 +1812,11 @@
      "q": "Khi nhân viên phục vụ hỏi: „Zahlen Sie zusammen oder getrennt?“, họ đang muốn hỏi điều gì?",
      "options": [
       "Quý khách muốn ăn tại chỗ hay mang về?",
-      "Quý khách muốn thanh toán gộp chung hay tách riêng?",
       "Quý khách muốn uống cà phê với sữa hay đường?",
+      "Quý khách muốn thanh toán gộp chung hay tách riêng?",
       "Quý khách đã đặt bàn trước hay chưa?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„Zusammen oder getrennt?“ là câu hỏi quen thuộc của bồi bàn ở Đức khi khách yêu cầu tính tiền: thanh toán gộp chung một hóa đơn hay tách riêng từng người."
     },
     {
@@ -2009,12 +2009,12 @@
      "type": "mcq",
      "q": "Bạn đã dùng xong và muốn xin hóa đơn. Chọn câu phù hợp.",
      "options": [
-      "Die Speisekarte, bitte.",
-      "Zum Mitnehmen, bitte.",
+      "Ein Glas Wasser, bitte.",
       "Die Rechnung, bitte.",
-      "Ein Glas Wasser, bitte."
+      "Zum Mitnehmen, bitte.",
+      "Die Speisekarte, bitte."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Rechnung là hóa đơn, còn Speisekarte là thực đơn."
     },
     {

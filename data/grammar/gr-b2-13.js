@@ -13,24 +13,24 @@
    "type": "mcq",
    "q": "Welches Verb gehört zur festen Wendung: 'Das neue Gesetz tritt morgen in ___.'?",
    "options": [
+    "Recht",
     "Kraft",
-    "Macht",
     "Wirkung",
-    "Recht"
+    "Macht"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Cụm cố định là 'in Kraft treten' (bắt đầu có hiệu lực thi hành)."
   },
   {
    "type": "mcq",
    "q": "Welches Funktionsverb drückt die aktive Verursachung aus: 'jemanden in Panik ___'?",
    "options": [
-    "versetzen",
-    "geraten",
+    "stehen",
     "kommen",
-    "stehen"
+    "geraten",
+    "versetzen"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'jemanden in Panik / Schrecken / Erstaunen versetzen' = làm cho ai hoảng sợ."
   },
   {
@@ -38,9 +38,9 @@
    "q": "Ergänzen Sie: 'Die beiden Firmen führen seit Wochen geheime ___.'",
    "options": [
     "Verhandlungen",
-    "Entscheidungen",
     "Kritiken",
-    "Beiträge"
+    "Beiträge",
+    "Entscheidungen"
    ],
    "answer": 0,
    "explain": "Cụm cố định 'Verhandlungen führen' = tiến hành đàm phán."
@@ -49,36 +49,36 @@
    "type": "mcq",
    "q": "Was bedeutet die Wendung 'einen Beitrag leisten zu + Dativ'?",
    "options": [
+    "beenden",
     "beitragen zu",
     "bezahlen",
-    "kritisieren",
-    "beenden"
+    "kritisieren"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'einen Beitrag leisten zu' tương đương với động từ đơn 'beitragen zu' (đóng góp vào cái gì)."
   },
   {
    "type": "mcq",
    "q": "Welches Verb passt in die Lücke: 'Wir müssen auf die Wünsche unserer Kunden Rücksicht ___.'?",
    "options": [
-    "nehmen",
-    "geben",
     "machen",
-    "stellen"
+    "stellen",
+    "nehmen",
+    "geben"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Cụm cố định là 'Rücksicht nehmen auf + Akkusativ' (chiếu cố, để ý đến ai)."
   },
   {
    "type": "mcq",
    "q": "Die Glaubwürdigkeit des Ministers steht außer ___.",
    "options": [
-    "Zweifel",
-    "Gefahr",
+    "Kritik",
     "Frage",
-    "Kritik"
+    "Zweifel",
+    "Gefahr"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'außer Zweifel stehen' = hoàn toàn không có gì đáng nghi ngờ."
   },
   {

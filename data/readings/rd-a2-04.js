@@ -110,46 +110,46 @@
    "q": "Wie nennen die Kölner die Karnevalszeit?",
    "options": [
     "Die fünfte Jahreszeit",
-    "Das Frühlingsfest",
-    "Den goldenen Oktober"
+    "Den goldenen Oktober",
+    "Das Frühlingsfest"
    ],
    "answer": 0
   },
   {
    "q": "Um wie viel Uhr beginnt der Straßenkarneval an Weiberfastnacht?",
    "options": [
-    "Um 8:00 Uhr",
     "Um 11:11 Uhr",
-    "Um 14:00 Uhr"
+    "Um 14:00 Uhr",
+    "Um 8:00 Uhr"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Wie lautet der traditionelle Gruß im Kölner Karneval?",
    "options": [
+    "Kölle Alaaf!",
     "Moin Moin!",
-    "Servus!",
-    "Kölle Alaaf!"
+    "Servus!"
    ],
-   "answer": 2
+   "answer": 0
   },
   {
    "q": "Was wird beim Rosenmontagszug von den Wagen geworfen?",
    "options": [
     "Süßigkeiten und kleine Blumen",
-    "Bücher und Zeitungen",
-    "Geldmünzen"
+    "Geldmünzen",
+    "Bücher und Zeitungen"
    ],
    "answer": 0
   },
   {
    "q": "Was beginnt am Aschermittwoch nach dem Karneval?",
    "options": [
-    "Die Sommerferien",
     "Die Fastenzeit vor Ostern",
+    "Die Sommerferien",
     "Das neue Schuljahr"
    ],
-   "answer": 1
+   "answer": 0
   }
  ]
 });

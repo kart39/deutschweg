@@ -109,29 +109,29 @@
   {
    "q": "Wie lange dauerte das Praktikum der Autorin?",
    "options": [
+    "Drei Monate",
     "Zwei Wochen",
-    "Sechs Wochen",
-    "Drei Monate"
+    "Sechs Wochen"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Wie viele Kinder waren in der 'Bärengruppe'?",
    "options": [
-    "Zehn Kinder",
     "Zwanzig Kinder",
+    "Zehn Kinder",
     "Dreißig Kinder"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Was war für die Autorin am Anfang schwierig?",
    "options": [
-    "Das frühe Aufstehen und der Lärm",
+    "Die Kollegen",
     "Das Essen im Kindergarten",
-    "Die Kollegen"
+    "Das frühe Aufstehen und der Lärm"
    ],
-   "answer": 0
+   "answer": 2
   },
   {
    "q": "Was haben die Kinder für das Sankt-Martins-Fest gebastelt?",
@@ -145,11 +145,11 @@
   {
    "q": "Welche Eigenschaften sind im Kindergarten laut Text besonders wichtig?",
    "options": [
+    "Reichtum und Sportlichkeit",
     "Strenge und Perfektion",
-    "Geduld, Einfühlungsvermögen und klare Regeln",
-    "Reichtum und Sportlichkeit"
+    "Geduld, Einfühlungsvermögen und klare Regeln"
    ],
-   "answer": 1
+   "answer": 2
   }
  ]
 });

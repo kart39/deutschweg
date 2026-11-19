@@ -13,72 +13,72 @@
    "type": "mcq",
    "q": "Wie lautet die korrekte indirekte Rede: Der Minister sagte: 'Ich bin zuversichtlich.'?",
    "options": [
-    "Der Minister sagte, er sei zuversichtlich.",
-    "Der Minister sagte, er ist zuversichtlich.",
     "Der Minister sagte, er wäre zuversichtlich.",
-    "Der Minister sagte, er war zuversichtlich."
+    "Der Minister sagte, er ist zuversichtlich.",
+    "Der Minister sagte, er war zuversichtlich.",
+    "Der Minister sagte, er sei zuversichtlich."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Dạng chuẩn mực của Konjunktiv I ở ngôi thứ 3 cho động từ 'sein' là 'er sei'."
   },
   {
    "type": "mcq",
    "q": "Warum ersetzt man 'sie haben' in der indirekten Rede durch 'sie hätten'?",
    "options": [
-    "Weil die Konjunktiv-I-Form mit dem Indikativ Präsens identisch ist.",
     "Weil Konjunktiv II immer eleganter klingt.",
     "Weil der Satz in der Vergangenheit steht.",
+    "Weil die Konjunktiv-I-Form mit dem Indikativ Präsens identisch ist.",
     "Weil 'sie haben' grammatisch falsch ist."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Theo quy tắc thay thế (Ersatzregel), khi Konjunktiv I trùng với Indikativ (sie haben), bắt buộc phải đổi sang Konjunktiv II (sie hätten)."
   },
   {
    "type": "mcq",
    "q": "Muss die Form 'ich sei' in der indirekten Rede durch 'ich wäre' ersetzt werden?",
    "options": [
-    "Nein, 'ich sei' ist eindeutig und unterscheidet sich klar vom Indikativ 'ich bin'.",
     "Ja, in der 1. Person Singular muss immer Konjunktiv II stehen.",
+    "Nein, aber nur wenn man Konjunktiv I mit 'würde' umschreibt.",
     "Ja, 'ich sei' existiert im modernen Deutsch nicht mehr.",
-    "Nein, aber nur wenn man Konjunktiv I mit 'würde' umschreibt."
+    "Nein, 'ich sei' ist eindeutig und unterscheidet sich klar vom Indikativ 'ich bin'."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'ich sei' khác hoàn toàn với Indikativ 'ich bin', do đó không bị trùng lặp và không cần thay bằng 'wäre'."
   },
   {
    "type": "mcq",
    "q": "Wie lautet die indirekte Rede von: 'Er sagte: Ich habe den Bericht gestern gelesen.'?",
    "options": [
-    "Er sagte, er habe den Bericht gestern gelesen.",
-    "Er sagte, er hat den Bericht gestern gelesen.",
     "Er sagte, er hätte den Bericht gestern gelesen.",
+    "Er sagte, er hat den Bericht gestern gelesen.",
+    "Er sagte, er habe den Bericht gestern gelesen.",
     "Er sagte, er las den Bericht gestern."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Quá khứ trong Indirekte Rede: habe + Partizip II (er habe gelesen)."
   },
   {
    "type": "mcq",
    "q": "Welche Form von 'können' steht im Konjunktiv I (er/sie/es)?",
    "options": [
-    "könne",
-    "kann",
     "könnte",
+    "kann",
+    "könne",
     "konnte"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Konjunktiv I của können ở ngôi thứ 3 là 'er könne'."
   },
   {
    "type": "mcq",
    "q": "Die Zeugin behauptet, sie ___ den Verdächtigen am Tatort gesehen.",
    "options": [
-    "habe",
-    "hat",
     "hätte",
-    "sei"
+    "habe",
+    "sei",
+    "hat"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'sehen' đi với trợ động từ haben ở thì Perfekt: sie habe gesehen."
   },
   {

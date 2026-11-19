@@ -14,9 +14,9 @@
    "q": "Welches Verb passt in die Lücke: 'Wir müssen alle möglichen Konsequenzen in Betracht ___.'?",
    "options": [
     "ziehen",
+    "stellen",
     "nehmen",
-    "bringen",
-    "stellen"
+    "bringen"
    ],
    "answer": 0,
    "explain": "Cụm cố định là 'etwas in Betracht ziehen' (cân nhắc, tính đến điều gì). Không dùng nehmen hay bringen."
@@ -25,12 +25,12 @@
    "type": "mcq",
    "q": "Ergänzen Sie das richtige Funktionsverb: 'Die Ministerin ___ scharfe Kritik an den neuen Sparplänen.'",
    "options": [
-    "machte",
-    "übte",
+    "stellte",
     "brachte",
-    "stellte"
+    "machte",
+    "übte"
    ],
-   "answer": 1,
+   "answer": 3,
    "explain": "Cụm cố định 'Kritik üben an + Dativ' nghĩa là chỉ trích, phê bình ai/cái gì."
   },
   {
@@ -38,23 +38,23 @@
    "q": "Welches Verb drückt den passiven Zustand aus: 'Das Dokument steht Ihnen jederzeit zur Verfügung ___.'?",
    "options": [
     "stellen",
+    "kommen",
     "bringen",
-    "stehen",
-    "kommen"
+    "stehen"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "'zur Verfügung stehen' mang nghĩa bị động/trạng thái (có sẵn cho ai dùng). 'zur Verfügung stellen' mang nghĩa chủ động (cung cấp)."
   },
   {
    "type": "mcq",
    "q": "Was bedeutet die Wendung 'eine Entscheidung treffen'?",
    "options": [
-    "sich entscheiden",
     "sich beschweren",
     "zweifeln",
-    "verhandeln"
+    "verhandeln",
+    "sich entscheiden"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'eine Entscheidung treffen' đồng nghĩa với động từ phản thân 'sich entscheiden' (đưa ra quyết định)."
   },
   {
@@ -62,9 +62,9 @@
    "q": "Welches Nomen gehört zum Funktionsverb: 'Der Ausschuss fasste einen wichtigen ___.'?",
    "options": [
     "Entschluss",
-    "Abschluss",
     "Eindruck",
-    "Ausdruck"
+    "Ausdruck",
+    "Abschluss"
    ],
    "answer": 0,
    "explain": "'einen Entschluss fassen' = sich entschließen (đưa ra quyết định dứt khoát)."
@@ -73,12 +73,12 @@
    "type": "mcq",
    "q": "Ergänzen Sie: 'Die Demonstranten brachten ihre Forderungen klar zum ___.'",
    "options": [
-    "Ausdruck",
     "Eindruck",
-    "Betracht",
-    "Anspruch"
+    "Ausdruck",
+    "Anspruch",
+    "Betracht"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'etwas zum Ausdruck bringen' = etwas ausdrücken (bày tỏ cái gì)."
   },
   {

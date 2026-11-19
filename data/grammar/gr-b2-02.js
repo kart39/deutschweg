@@ -13,72 +13,72 @@
    "type": "mcq",
    "q": "Was bedeutet der Satz: 'Dieses alte Fahrrad lässt sich nicht mehr reparieren.'?",
    "options": [
-    "Dieses alte Fahrrad kann nicht mehr repariert werden.",
     "Dieses alte Fahrrad muss repariert werden.",
+    "Dieses alte Fahrrad kann nicht mehr repariert werden.",
     "Man darf dieses alte Fahrrad nicht reparieren.",
     "Niemand will dieses alte Fahrrad reparieren."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'sich lassen + Infinitiv' tương đương với 'können + Passiv' (khả năng bị động)."
   },
   {
    "type": "mcq",
    "q": "Welche Bedeutung hat 'sein + zu + Infinitiv' in folgendem Satz: 'Die Teilnahmegebühr ist bis zum 1. Mai zu überweisen.'?",
    "options": [
-    "Notwendigkeit / Pflicht (müssen)",
+    "Wunsch (möchten)",
     "Möglichkeit (können)",
     "Erlaubnis (dürfen)",
-    "Wunsch (möchten)"
+    "Notwendigkeit / Pflicht (müssen)"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Trong các văn bản hành chính, hạn nộp tiền mang tính bắt buộc: 'ist zu überweisen' = muss überwiesen werden."
   },
   {
    "type": "mcq",
    "q": "Welches Adjektiv bedeutet 'etwas kann gelöst werden'?",
    "options": [
-    "lösbar",
     "löslich",
     "losend",
-    "gelöst"
+    "gelöst",
+    "lösbar"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Động từ 'lösen' tạo tính từ chỉ khả năng bị động với hậu tố '-bar' -> lösbar (có thể giải quyết được)."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist grammatisch KORREKT?",
    "options": [
+    "Das Problem lässt von mir lösen.",
     "Das Problem lässt sich leicht lösen.",
-    "Das Problem lässt leicht gelöst werden.",
     "Das Problem lässt sich leicht gelöst.",
-    "Das Problem lässt von mir lösen."
+    "Das Problem lässt leicht gelöst werden."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Cấu trúc chuẩn là: sich lassen + Infinitiv Aktiv. Không có Partizip II hay werden."
   },
   {
    "type": "mcq",
    "q": "Wie lautet die Passiv-Umschreibung von: 'Man muss dieses Dokument sofort prüfen.'?",
    "options": [
-    "Dieses Dokument ist sofort zu prüfen.",
+    "Dieses Dokument hat zu prüfen.",
     "Dieses Dokument lässt prüfen.",
-    "Dieses Dokument ist prüfend.",
-    "Dieses Dokument hat zu prüfen."
+    "Dieses Dokument ist sofort zu prüfen.",
+    "Dieses Dokument ist prüfend."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "sein + zu + Infinitiv diễn tả sự bắt buộc (müssen): ist sofort zu prüfen."
   },
   {
    "type": "mcq",
    "q": "Was bedeutet: 'Die Schrift ist kaum noch leserlich.'?",
    "options": [
-    "Die Schrift kann kaum noch gelesen werden.",
     "Die Schrift darf man nicht lesen.",
-    "Niemand will die Schrift lesen.",
-    "Die Schrift muss sofort gelesen werden."
+    "Die Schrift kann kaum noch gelesen werden.",
+    "Die Schrift muss sofort gelesen werden.",
+    "Niemand will die Schrift lesen."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "leserlich = kann gelesen werden (có thể đọc được)."
   },
   {

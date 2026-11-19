@@ -13,48 +13,48 @@
    "type": "mcq",
    "q": "Welches gehobene Bindewort ist ein elegantes Synonym für 'obwohl' auf C1-Niveau?",
    "options": [
-    "wenngleich",
-    "insofern",
+    "demnach",
     "folglich",
-    "demnach"
+    "wenngleich",
+    "insofern"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'wenngleich' là liên từ nhượng bộ trang trọng, thanh thoát tương đương với 'obwohl'."
   },
   {
    "type": "mcq",
    "q": "Welche Wortstellung ist KORREKT für einen verallgemeinernden Konzessivsatz?",
    "options": [
+    "Wie die Aufgabe ist auch schwierig, wir geben nicht auf.",
     "Wie schwierig die Aufgabe auch sein mag, wir geben nicht auf.",
-    "Wie schwierig die Aufgabe sein mag auch, wir geben nicht auf.",
     "Wie schwierig auch die Aufgabe ist aber, wir geben nicht auf.",
-    "Wie die Aufgabe ist auch schwierig, wir geben nicht auf."
+    "Wie schwierig die Aufgabe sein mag auch, wir geben nicht auf."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Cấu trúc chuẩn: 'Wie + Adjektiv + auch + Subjekt + sein mag, ...'"
   },
   {
    "type": "mcq",
    "q": "Welche diplomatische Wendung drückt einen höflichen Widerspruch aus?",
    "options": [
-    "Bei allem Respekt vor Ihrer Meinung müssen wir widersprechen.",
+    "Ohne Ihre Meinung zu hören, lehnen wir ab.",
     "Trotz Sie haben recht, widersprechen wir.",
     "Wegen Ihrer Meinung stimmen wir nicht zu.",
-    "Ohne Ihre Meinung zu hören, lehnen wir ab."
+    "Bei allem Respekt vor Ihrer Meinung müssen wir widersprechen."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'Bei allem Respekt vor (+ Dat)...' là cấu trúc phản biện lịch sự kinh điển trong tiếng Đức học thuật."
   },
   {
    "type": "mcq",
    "q": "Welches Modalverb steht HÄUFIG am Ende eines Konzessivsatzes mit 'wie/was auch immer'?",
    "options": [
-    "mögen (mag)",
     "müssen (muss)",
     "dürfen (darf)",
+    "mögen (mag)",
     "wollen (will)"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Mệnh đề nhượng bộ phổ quát thường kết thúc bằng dạng thức của 'mögen' (mag / mögen)."
   },
   {
@@ -62,9 +62,9 @@
    "q": "Ergänzen Sie das fehlende Wort: '___ auch immer das Gerücht in die Welt gesetzt hat, wird zur Rechenschaft gezogen.'",
    "options": [
     "Wer",
-    "Wenn",
+    "Warum",
     "Wie",
-    "Warum"
+    "Wenn"
    ],
    "answer": 0,
    "explain": "Đại từ chỉ người làm chủ ngữ: 'Wer auch immer...' (Bất kỳ ai...)."
@@ -74,9 +74,9 @@
    "q": "Welche Endung gehört an das Indefinitpronomen: 'Bei all___ Wertschätzung (die) für seine Arbeit...'?",
    "options": [
     "er",
-    "em",
+    "es",
     "en",
-    "es"
+    "em"
    ],
    "answer": 0,
    "explain": "'die Wertschätzung' là danh từ giống cái, đi sau 'bei + Dativ' chia đuôi là '-er': Bei aller Wertschätzung."

@@ -405,18 +405,18 @@
      {
       "q": "Warum war der Dienstag anfangs anstrengend?",
       "options": [
+       "Ada wollte den Chor verlassen.",
        "Die Schwimmhalle war geschlossen.",
-       "Die Abholung wurde oft erst kurz vor Schulschluss geklärt.",
-       "Ada wollte den Chor verlassen."
+       "Die Abholung wurde oft erst kurz vor Schulschluss geklärt."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wann trägt die Familie die Termine in den Wochenplan ein?",
       "options": [
        "Am Sonntag beim Frühstück.",
-       "Am Dienstag vor der Schule.",
-       "Am Freitag im Supermarkt."
+       "Am Freitag im Supermarkt.",
+       "Am Dienstag vor der Schule."
       ],
       "answer": 0
      },
@@ -432,9 +432,9 @@
      {
       "q": "Wobei hilft der Plan den Kindern vor allem?",
       "options": [
-       "Sie finden neue Sportkurse.",
+       "Sie kaufen allein für die Hochzeit ein.",
        "Sie können ihre Termine selbst verfolgen.",
-       "Sie kaufen allein für die Hochzeit ein."
+       "Sie finden neue Sportkurse."
       ],
       "answer": 1
      }
@@ -463,24 +463,24 @@
      "type": "mcq",
      "q": "Câu nào có nghĩa “Mình không thể đi chợ cũng không thể nấu ăn”?",
      "options": [
-      "Ich kann sowohl einkaufen als auch kochen.",
-      "Ich kann weder einkaufen als auch kochen.",
       "Ich kann sowohl einkaufen noch kochen.",
-      "Ich kann weder einkaufen noch kochen."
+      "Ich kann weder einkaufen noch kochen.",
+      "Ich kann weder einkaufen als auch kochen.",
+      "Ich kann sowohl einkaufen als auch kochen."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{weder … noch}} phủ định cả {{einkaufen}} và {{kochen}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có dấu câu đúng khi nối hai tân ngữ.",
      "options": [
-      "Wir planen sowohl die Betreuung als auch die Einkäufe.",
-      "Wir planen, sowohl die Betreuung als auch die Einkäufe.",
       "Wir planen sowohl die Betreuung, als auch die Einkäufe.",
+      "Wir planen, sowohl die Betreuung als auch die Einkäufe.",
+      "Wir planen sowohl die Betreuung als auch die Einkäufe.",
       "Wir planen sowohl, die Betreuung als auch die Einkäufe."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Hai tân ngữ được nối trực tiếp bằng {{sowohl … als auch}} trong câu này."
     },
     {
@@ -488,11 +488,11 @@
      "q": "Câu nào cho biết cả hai buổi đều có lịch?",
      "options": [
       "Ich habe weder am Montag noch am Dienstag einen Termin.",
+      "Ich habe weder am Montag als auch am Dienstag einen Termin.",
       "Ich habe sowohl am Montag noch am Dienstag einen Termin.",
-      "Ich habe sowohl am Montag als auch am Dienstag einen Termin.",
-      "Ich habe weder am Montag als auch am Dienstag einen Termin."
+      "Ich habe sowohl am Montag als auch am Dienstag einen Termin."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Cả hai mốc được khẳng định qua {{sowohl … als auch}}."
     },
     {
@@ -511,12 +511,12 @@
      "type": "mcq",
      "q": "Trong câu “Am Donnerstag kann ich weder einkaufen noch kochen”, hai phần được nối giữ vai trò gì?",
      "options": [
-      "Hai chủ ngữ",
+      "Hai động từ nguyên mẫu phụ thuộc vào kann",
       "Hai danh từ chỉ nơi chốn",
-      "Hai trạng ngữ thời gian",
-      "Hai động từ nguyên mẫu phụ thuộc vào kann"
+      "Hai chủ ngữ",
+      "Hai trạng ngữ thời gian"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{einkaufen}} và {{kochen}} đều là động từ nguyên mẫu đi với {{kann}}."
     },
     {
@@ -1097,20 +1097,20 @@
      {
       "q": "Warum ist Frau Kim bei der Feier im Hof vorsichtig?",
       "options": [
-       "Über dem Hof liegen Schlafzimmer.",
        "Kinderwagen passen nicht in den Hof.",
-       "Der Hof gehört zum Nachbarhaus."
+       "Der Hof gehört zum Nachbarhaus.",
+       "Über dem Hof liegen Schlafzimmer."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was entscheidet die Mehrheit zuerst?",
       "options": [
+       "Das Fest beginnt erst am Abend.",
        "Das Fest fällt aus.",
-       "Das Fest findet nachmittags im Hof statt, mit einer Alternative bei Regen.",
-       "Das Fest beginnt erst am Abend."
+       "Das Fest findet nachmittags im Hof statt, mit einer Alternative bei Regen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welche Hilfe kann man auswählen?",
@@ -1124,11 +1124,11 @@
      {
       "q": "Wo beginnt das Fest schließlich?",
       "options": [
-       "Im Gemeinschaftsraum.",
        "Im Treppenhaus.",
-       "Im Innenhof."
+       "Im Innenhof.",
+       "Im Gemeinschaftsraum."
       ],
-      "answer": 0
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1143,24 +1143,24 @@
      "type": "mcq",
      "q": "Chọn cặp nối hai lựa chọn: “Wir treffen uns ___ im Hof ___ im Gemeinschaftsraum.”",
      "options": [
-      "zwar – aber",
       "weder – als auch",
       "entweder – oder",
+      "zwar – aber",
       "sowohl – noch"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{entweder … oder}} trình bày hai lựa chọn."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có nghĩa “Phòng tuy nhỏ nhưng sáng”.",
      "options": [
-      "Der Raum ist zwar klein, aber hell.",
       "Der Raum ist zwar klein oder hell.",
+      "Der Raum ist zwar aber klein und hell.",
       "Der Raum ist entweder klein, aber hell.",
-      "Der Raum ist zwar aber klein und hell."
+      "Der Raum ist zwar klein, aber hell."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{zwar … aber}} công nhận phòng nhỏ rồi nêu điểm sáng."
     },
     {
@@ -1168,47 +1168,47 @@
      "q": "Câu nào đặt đúng dấu phẩy trước aber?",
      "options": [
       "Der Hof ist zwar, groß aber laut.",
+      "Der Hof ist zwar groß, aber laut.",
       "Der Hof ist zwar groß aber, laut.",
-      "Der Hof ist zwar groß aber laut.",
-      "Der Hof ist zwar groß, aber laut."
+      "Der Hof ist zwar groß aber laut."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Viết dấu phẩy ngay trước {{aber}} trong cấu trúc này."
     },
     {
      "type": "mcq",
      "q": "Chọn câu diễn đạt hai phương án có thể lựa chọn.",
      "options": [
+      "Wir feiern weder am Samstag noch am Sonntag.",
       "Wir feiern zwar am Samstag, aber viele arbeiten.",
       "Entweder feiern wir am Samstag oder wir treffen uns am Sonntag.",
-      "Wir feiern weder am Samstag noch am Sonntag.",
       "Wir treffen uns sowohl am Samstag als auch am Sonntag."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{entweder … oder}} đưa ra thứ Bảy và Chủ nhật như hai lựa chọn."
     },
     {
      "type": "mcq",
      "q": "Wo liest man öffentliche Informationen für die Hausgemeinschaft im Hausflur?",
      "options": [
-      "Auf dem Klingelschild.",
-      "Auf dem Kaufbeleg.",
+      "Auf der Schlüsselkarte.",
       "Auf dem Aushang.",
-      "Auf der Schlüsselkarte."
+      "Auf dem Kaufbeleg.",
+      "Auf dem Klingelschild."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{der Aushang}} là tờ thông báo được treo cho mọi người đọc."
     },
     {
      "type": "mcq",
      "q": "Câu nào đặt động từ đúng sau zwar đứng ở đầu câu?",
      "options": [
-      "Zwar ist der Hof groß, aber er ist laut.",
       "Zwar der Hof groß ist, aber er ist laut.",
+      "Zwar groß der Hof ist, aber er ist laut.",
       "Zwar der ist Hof groß, aber er ist laut.",
-      "Zwar groß der Hof ist, aber er ist laut."
+      "Zwar ist der Hof groß, aber er ist laut."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Khi {{zwar}} đứng đầu theo mẫu bài học, động từ {{ist}} đứng ngay sau."
     },
     {
@@ -1809,38 +1809,38 @@
      {
       "q": "Was zeigt Frau Kern an diesem Samstag?",
       "options": [
-       "Wie man eine offene Naht schließt.",
        "Wie man eine Fahrplan-App bedient.",
-       "Wie man ein Foto abfotografiert."
+       "Wie man ein Foto abfotografiert.",
+       "Wie man eine offene Naht schließt."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was ist für Minh an dem Angebot besonders wichtig?",
       "options": [
        "Er darf den Rucksack da lassen.",
-       "Er kann selbst mitarbeiten.",
-       "Er bekommt neues Werkzeug geschenkt."
-      ],
-      "answer": 1
-     },
-     {
-      "q": "Wo werden die Ideen für das nächste Treffen gesammelt?",
-      "options": [
-       "Im Gruppenchat.",
-       "In einem Buch auf dem Tisch.",
-       "Auf einem Zettel an der Tür."
+       "Er bekommt neues Werkzeug geschenkt.",
+       "Er kann selbst mitarbeiten."
       ],
       "answer": 2
      },
      {
-      "q": "Welche Veränderung beobachtet die Leiterin?",
+      "q": "Wo werden die Ideen für das nächste Treffen gesammelt?",
       "options": [
-       "Vorschläge kommen jetzt aus vielen Altersgruppen.",
-       "Neue Besucher kommen nur noch selten.",
-       "Das Treffen findet jetzt nur einmal im Monat statt."
+       "Auf einem Zettel an der Tür.",
+       "In einem Buch auf dem Tisch.",
+       "Im Gruppenchat."
       ],
       "answer": 0
+     },
+     {
+      "q": "Welche Veränderung beobachtet die Leiterin?",
+      "options": [
+       "Das Treffen findet jetzt nur einmal im Monat statt.",
+       "Neue Besucher kommen nur noch selten.",
+       "Vorschläge kommen jetzt aus vielen Altersgruppen."
+      ],
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1856,11 +1856,11 @@
      "q": "Chọn câu nêu cả hai lợi ích và nhấn mạnh phần bổ sung.",
      "options": [
       "Wir teilen weder Werkzeug noch Erfahrungen.",
+      "Wir teilen zwar Werkzeug, aber keine Erfahrungen.",
       "Wir teilen entweder Werkzeug oder Erfahrungen.",
-      "Wir teilen nicht nur Werkzeug, sondern auch Erfahrungen.",
-      "Wir teilen zwar Werkzeug, aber keine Erfahrungen."
+      "Wir teilen nicht nur Werkzeug, sondern auch Erfahrungen."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{nicht nur … sondern auch}} khẳng định cả dụng cụ lẫn kinh nghiệm."
     },
     {
@@ -1868,8 +1868,8 @@
      "q": "Chọn câu có trật tự đúng với je … desto.",
      "options": [
       "Je öfter wir uns treffen, desto besser kennen wir uns.",
-      "Je öfter treffen wir uns, desto besser wir uns kennen.",
       "Je öfter wir uns treffen, desto wir uns besser kennen.",
+      "Je öfter treffen wir uns, desto besser wir uns kennen.",
       "Je öfter wir treffen uns, desto besser kennen wir uns."
      ],
      "answer": 0,
@@ -1879,24 +1879,24 @@
      "type": "mcq",
      "q": "Chọn câu có dấu phẩy đặt đúng.",
      "options": [
-      "Wir reparieren nicht nur, Taschen sondern auch Jacken.",
-      "Wir reparieren nicht nur Taschen sondern, auch Jacken.",
       "Wir reparieren, nicht nur Taschen sondern auch Jacken.",
-      "Wir reparieren nicht nur Taschen, sondern auch Jacken."
+      "Wir reparieren nicht nur Taschen, sondern auch Jacken.",
+      "Wir reparieren nicht nur, Taschen sondern auch Jacken.",
+      "Wir reparieren nicht nur Taschen sondern, auch Jacken."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Dấu phẩy đứng trước {{sondern}}."
     },
     {
      "type": "mcq",
      "q": "Chọn từ có thể thay desto trong “Je mehr wir üben, desto leichter wird es.”",
      "options": [
+      "sogar",
       "sodass",
       "umso",
-      "als",
-      "sogar"
+      "als"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{je … umso}} có cùng chức năng so sánh với {{je … desto}}."
     },
     {
@@ -1904,11 +1904,11 @@
      "q": "In welcher Einrichtung können Menschen zusammen kaputte Gegenstände reparieren?",
      "options": [
       "Im Frühstücksraum.",
-      "Im Reisebüro.",
       "Im Reparaturcafé.",
+      "Im Reisebüro.",
       "Im Wartezimmer."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Reparaturcafé}} là nơi hoặc buổi gặp để cùng sửa đồ."
     },
     {
@@ -1916,8 +1916,8 @@
      "q": "Chọn câu có nghĩa “Càng nhiều người tham gia, chúng mình càng có nhiều ý tưởng”.",
      "options": [
       "Je mehr Leute teilnehmen, desto mehr Ideen sammeln wir.",
-      "Je mehr nehmen Leute teil, desto wir mehr Ideen sammeln.",
       "Je viele Leute teilnehmen, desto viele Ideen sammeln wir.",
+      "Je mehr nehmen Leute teil, desto wir mehr Ideen sammeln.",
       "Desto mehr Leute teilnehmen, je mehr Ideen sammeln wir."
      ],
      "answer": 0,
@@ -2562,29 +2562,29 @@
      {
       "q": "Welche gesellschaftliche Entwicklung führt in modernen Großstädten oft zu Einsamkeit im Alter?",
       "options": [
-       "Die Zunahme von Single-Haushalten und das Verschwinden traditioneller Großfamilien.",
        "Die Schließung aller öffentlichen Parkanlagen.",
+       "Die Zunahme von Single-Haushalten und das Verschwinden traditioneller Großfamilien.",
        "Der Mangel an modernen Krankenhäusern."
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Wie unterstützen ältere Bewohner die jungen Familien in Mehrgenerationenhäusern?",
-      "options": [
-       "Sie reparieren alle Autos der Nachbarschaft kostenlos.",
-       "Sie haben ein offenes Ohr für Sorgen und helfen gerne bei der Kinderbetreuung.",
-       "Sie verbieten den Kindern das Spielen im Innenhof."
       ],
       "answer": 1
      },
      {
-      "q": "Wobei helfen jüngere Mitbewohner den älteren Nachbarn im Gegenzug?",
+      "q": "Wie unterstützen ältere Bewohner die jungen Familien in Mehrgenerationenhäusern?",
       "options": [
-       "Bei anstrengenden Einkäufen und der Bedienung digitaler Geräte.",
-       "Sie übernehmen sämtliche Mietkosten der Senioren.",
-       "Sie schreiben deren Testamente."
+       "Sie haben ein offenes Ohr für Sorgen und helfen gerne bei der Kinderbetreuung.",
+       "Sie reparieren alle Autos der Nachbarschaft kostenlos.",
+       "Sie verbieten den Kindern das Spielen im Innenhof."
       ],
       "answer": 0
+     },
+     {
+      "q": "Wobei helfen jüngere Mitbewohner den älteren Nachbarn im Gegenzug?",
+      "options": [
+       "Sie übernehmen sämtliche Mietkosten der Senioren.",
+       "Sie schreiben deren Testamente.",
+       "Bei anstrengenden Einkäufen und der Bedienung digitaler Geräte."
+      ],
+      "answer": 2
      },
      {
       "q": "Was ist laut dem Text die goldene Regel für ein harmonisches Zusammenleben?",
@@ -2598,11 +2598,11 @@
      {
       "q": "Welches Fazit zieht der Text über moderne Mehrgenerationenhäuser?",
       "options": [
-       "Sie sind ausschließlich für reiche Bürger bezahlbar.",
        "Sie bieten eine überzeugende Antwort auf viele soziale Probleme unserer Zeit.",
-       "Sie führen unweigerlich zu unlösbaren Streitigkeiten."
+       "Sie führen unweigerlich zu unlösbaren Streitigkeiten.",
+       "Sie sind ausschließlich für reiche Bürger bezahlbar."
       ],
-      "answer": 1
+      "answer": 0
      }
     ]
    },
@@ -2617,83 +2617,83 @@
      "q": "Welcher Konnektor verbindet zwei positive Aussagen steigernd („không những … mà còn“)?",
      "options": [
       "weder … noch",
-      "nicht nur … sondern auch",
       "zwar … aber",
+      "nicht nur … sondern auch",
       "entweder … oder"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'nicht nur ... sondern auch' mang ý nghĩa khẳng định tăng tiến: không những cái này mà còn cả cái kia."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Er hat ___ Zeit ___ Lust, an dem Nachbarschaftstreffen teilzunehmen.",
      "options": [
-      "sowohl … oder",
       "weder … noch",
-      "nicht nur … aber",
-      "je … desto"
+      "sowohl … oder",
+      "je … desto",
+      "nicht nur … aber"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'weder ... noch' phủ định kép cả hai vế: không có thời gian cũng chẳng có hứng thú."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz mit „je … desto“ ist grammatisch vollkommen korrekt?",
      "options": [
+      "Je mehr Rücksicht nehmen wir, desto harmonischer wird das Zusammenleben.",
       "Je mehr Rücksicht wir nehmen, desto harmonischer wird das Zusammenleben.",
       "Je mehr Rücksicht wir nehmen, desto das Zusammenleben harmonischer wird.",
-      "Je mehr Rücksicht nehmen wir, desto harmonischer wird das Zusammenleben.",
       "Je wir mehr Rücksicht nehmen, desto wird das Zusammenleben harmonischer."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Vế 'je' là Nebensatz (Verb 'nehmen' ở cuối); vế 'desto' là Hauptsatz (Komparativ 'desto harmonischer' chiếm vị trí 1, động từ 'wird' đứng ở vị trí 2)."
     },
     {
      "type": "mcq",
      "q": "Was drückt der Konnektor „zwar … aber“ aus?",
      "options": [
-      "Eine reine Verneinung",
       "Ein Zugeständnis mit einer Einschränkung (Konzession)",
+      "Einen temporalen Ablauf",
       "Eine Alternative zwischen zwei Dingen",
-      "Einen temporalen Ablauf"
+      "Eine reine Verneinung"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'zwar ... aber' diễn tả sự nhượng bộ đi kèm giới hạn (tuy thế này nhưng thế kia)."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Wir können heute Abend ___ zusammen kochen ___ essen gehen.",
      "options": [
-      "entweder … oder",
       "weder … als auch",
+      "je … umso",
       "sowohl … noch",
-      "je … umso"
+      "entweder … oder"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'entweder ... oder' diễn tả sự lựa chọn 1 trong 2: hoặc là cùng nấu ăn hoặc là đi ăn ngoài."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet das Substantiv „der Kompromiss“?",
      "options": [
-      "Ein unlösbarer Streit",
       "Eine Einigung, bei der beide Seiten Zugeständnisse machen",
-      "Ein Mietvertrag für ein Zimmer",
-      "Eine laute Party im Treppenhaus"
+      "Eine laute Party im Treppenhaus",
+      "Ein unlösbarer Streit",
+      "Ein Mietvertrag für ein Zimmer"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'Der Kompromiss' là sự thỏa hiệp hòa giải, trong đó cả hai bên đều nhượng bộ để đạt được tiếng nói chung."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz enthält KEINEN doppelten Verneinungsfehler?",
      "options": [
-      "Er will nicht weder kochen noch putzen.",
       "Er will weder kochen noch putzen.",
-      "Er will kein weder kochen noch putzen.",
-      "Er will weder nicht kochen noch nicht putzen."
+      "Er will nicht weder kochen noch putzen.",
+      "Er will weder nicht kochen noch nicht putzen.",
+      "Er will kein weder kochen noch putzen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'weder ... noch' đã mang sẵn nghĩa phủ định, không được thêm 'nicht' hay 'kein'."
     },
     {
@@ -2701,21 +2701,21 @@
      "q": "Ergänzen Sie: Sie ist ___ freundlich, ___ auch sehr hilfsbereit.",
      "options": [
       "sowohl … sondern",
-      "nicht nur … sondern",
       "weder … noch",
-      "entweder … oder"
+      "entweder … oder",
+      "nicht nur … sondern"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Cặp liên từ chuẩn: 'nicht nur ... sondern auch'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die Redewendung „ein offenes Ohr haben für jemanden“?",
      "options": [
-      "Schlecht hören können",
+      "Laute Musik hören",
       "Jemandem verständnisvoll und aufmerksam zuhören",
-      "Einen Arzttermin vereinbaren",
-      "Laute Musik hören"
+      "Schlecht hören können",
+      "Einen Arzttermin vereinbaren"
      ],
      "answer": 1,
      "explain": "'ein offenes Ohr haben' có nghĩa là luôn sẵn lòng lắng nghe tâm sự và chia sẻ với ai đó."
@@ -2725,8 +2725,8 @@
      "q": "Welches Adjektiv bedeutet „biết nghĩ cho người khác, chu đáo“?",
      "options": [
       "rücksichtsvoll",
-      "einsam",
       "streitsüchtig",
+      "einsam",
       "unverträglich"
      ],
      "answer": 0,

@@ -401,36 +401,36 @@
      {
       "q": "Warum gefällt Philipp die spätere Verbindung besser?",
       "options": [
-       "Sie hält direkt am Café.",
        "Sie lässt Zeit für ein Frühstück.",
-       "Sie kostet nichts."
-      ],
-      "answer": 1
-     },
-     {
-      "q": "Was müssen die beiden dank des Radverleihs nicht mitnehmen?",
-      "options": [
-       "Eigene Fahrräder.",
-       "Ein Frühstück.",
-       "Den Routenplan."
+       "Sie kostet nichts.",
+       "Sie hält direkt am Café."
       ],
       "answer": 0
      },
      {
-      "q": "Was planen sie für schlechtes Wetter?",
+      "q": "Was müssen die beiden dank des Radverleihs nicht mitnehmen?",
       "options": [
-       "Eine andere Reise mit dem Auto.",
-       "Eine längere Fahrt am Fluss.",
-       "Einen kürzeren Weg bis zu einem Café."
+       "Den Routenplan.",
+       "Ein Frühstück.",
+       "Eigene Fahrräder."
       ],
       "answer": 2
      },
      {
+      "q": "Was planen sie für schlechtes Wetter?",
+      "options": [
+       "Einen kürzeren Weg bis zu einem Café.",
+       "Eine längere Fahrt am Fluss.",
+       "Eine andere Reise mit dem Auto."
+      ],
+      "answer": 0
+     },
+     {
       "q": "Welche Information steht im Routenplan?",
       "options": [
-       "Die Preise aller Cafés.",
+       "Die Namen der anderen Reisenden.",
        "Die letzte mögliche Rückfahrt.",
-       "Die Namen der anderen Reisenden."
+       "Die Preise aller Cafés."
       ],
       "answer": 1
      },
@@ -438,8 +438,8 @@
       "q": "Was ist für die nächste Reise vorgesehen?",
       "options": [
        "Etappen wieder sinnvoll zu kombinieren.",
-       "Nur noch direkte Verbindungen zu nehmen.",
-       "Ohne Zeitplanung aufzubrechen."
+       "Ohne Zeitplanung aufzubrechen.",
+       "Nur noch direkte Verbindungen zu nehmen."
       ],
       "answer": 0
      }
@@ -468,24 +468,24 @@
      "type": "mcq",
      "q": "Câu nào có chủ ngữ giống đực không mạo từ chia đúng?",
      "options": [
-      "Starker Wind verzögert den Start.",
+      "Starkes Wind verzögert den Start.",
       "Starkem Wind verzögert den Start.",
-      "Starken Wind verzögert den Start.",
-      "Starkes Wind verzögert den Start."
+      "Starker Wind verzögert den Start.",
+      "Starken Wind verzögert den Start."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{Wind}} giống đực. Nominativ không mạo từ dùng {{starker}}."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm Akkusativ giống đực: {{Wir erwarten ___ Wind.}}",
      "options": [
-      "starkem",
       "starkes",
-      "starke",
-      "starken"
+      "starken",
+      "starkem",
+      "starke"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{erwarten}} dùng Akkusativ. Giống đực không mạo từ dùng {{starken}}."
     },
     {
@@ -504,12 +504,12 @@
      "type": "mcq",
      "q": "Chọn nghĩa của {{die Radmitnahme}}.",
      "options": [
-      "thuê xe đạp",
+      "đi theo lối ven sông",
       "chỗ đỗ xe đạp",
-      "mang xe dap theo phuong tien khác",
-      "đi theo lối ven sông"
+      "thuê xe đạp",
+      "mang xe dap theo phuong tien khác"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Radmitnahme}} chỉ việc mang xe đạp theo. {{Radverleih}} là dịch vụ cho thuê."
     },
     {
@@ -517,9 +517,9 @@
      "q": "Chọn dạng số nhiều ở Dativ: {{die Vorteile von ___ Wegen}}.",
      "options": [
       "kurzen",
-      "kurze",
+      "kurzem",
       "kurzer",
-      "kurzem"
+      "kurze"
      ],
      "answer": 0,
      "explain": "{{von}} dùng Dativ. Với số nhiều, tính từ lấy {{-en}}: {{von kurzen Wegen}}."
@@ -1116,20 +1116,20 @@
      {
       "q": "Warum fällt der Anschlusszug aus?",
       "options": [
-       "Ein Streckenabschnitt ist vorübergehend gesperrt.",
+       "Die Reisenden sind zu früh angekommen.",
        "Am Fluss gibt es keine Fahrräder.",
-       "Die Reisenden sind zu früh angekommen."
+       "Ein Streckenabschnitt ist vorübergehend gesperrt."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Warum nehmen Leila und Philipp den ersten Bus nicht?",
       "options": [
        "Er hält erst hinter Kronau.",
-       "Er ist bereits voll.",
-       "Er fährt zurück nach Steinau."
+       "Er fährt zurück nach Steinau.",
+       "Er ist bereits voll."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was klärt Leila mit dem Radverleih?",
@@ -1144,8 +1144,8 @@
       "q": "Welche Route planen sie während der Wartezeit?",
       "options": [
        "Zuerst bis zum Café am Wasser.",
-       "Zuerst hinter Kronau bis zur gesperrten Strecke.",
-       "Den gesamten Uferweg ohne Pause."
+       "Den gesamten Uferweg ohne Pause.",
+       "Zuerst hinter Kronau bis zur gesperrten Strecke."
       ],
       "answer": 0
      },
@@ -1153,10 +1153,10 @@
       "q": "Was war für beide besonders hilfreich?",
       "options": [
        "Die neue Fahrradausrüstung.",
-       "Die klare Auskunft am Servicepunkt.",
-       "Die Aussicht auf dem Bahnsteig."
+       "Die Aussicht auf dem Bahnsteig.",
+       "Die klare Auskunft am Servicepunkt."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1173,8 +1173,8 @@
      "options": [
       "gewartete Fahrgäste",
       "wartende Fahrgäste",
-      "warten Fahrgäste",
-      "warteten Fahrgäste"
+      "warteten Fahrgäste",
+      "warten Fahrgäste"
      ],
      "answer": 1,
      "explain": "{{wartend}} là Partizip I của {{warten}}. Với Nominativ số nhiều không mạo từ dùng {{wartende}}."
@@ -1184,59 +1184,59 @@
      "q": "Chọn cụm chỉ chuyến tàu đã bị hủy.",
      "options": [
       "der ausfallende Zug",
+      "der ausgefallene Zug",
       "der ausfällende Zug",
-      "der ausfallen Zug",
-      "der ausgefallene Zug"
+      "der ausfallen Zug"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{ausgefallen}} là Partizip II của {{ausfallen}}. Sau {{der}} thêm {{-e}} ở Nominativ."
     },
     {
      "type": "mcq",
      "q": "Chọn từ đúng cho ‘đoạn tuyến bị đóng’.",
      "options": [
-      "der gesperrte Abschnitt",
+      "der gesperrt Abschnitt",
       "der sperrende Abschnitt",
-      "der sperren Abschnitt",
-      "der gesperrt Abschnitt"
+      "der gesperrte Abschnitt",
+      "der sperren Abschnitt"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{gesperrt}} tả kết quả đóng tuyến. Sau {{der}}, thêm đuôi {{-e}}."
     },
     {
      "type": "mcq",
      "q": "Cụm nào chỉ những người đã đến nơi?",
      "options": [
-      "ankommende Gäste",
-      "ankommen Gäste",
       "angekommene Gäste",
-      "angekommen Gäste"
+      "ankommende Gäste",
+      "angekommen Gäste",
+      "ankommen Gäste"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{angekommen}} nêu việc đã đến. Ở số nhiều không mạo từ, {{angekommene}} có đuôi {{-e}}."
     },
     {
      "type": "mcq",
      "q": "Danh từ nào chỉ việc đổi sân đón tàu sang đường ray khác?",
      "options": [
-      "die Streckensperrung",
-      "der Gleiswechsel",
+      "der Anschlussverlust",
       "der Ersatzverkehr",
-      "der Anschlussverlust"
+      "die Streckensperrung",
+      "der Gleiswechsel"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Gleiswechsel}} được dùng khi sân đón tàu theo đường ray đã đổi."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm dùng đúng sau {{mit}} để chỉ hành khách đang chờ.",
      "options": [
-      "mit wartende Reisende",
-      "mit wartender Reisende",
+      "mit wartenden Reisenden",
       "mit gewarteten Reisenden",
-      "mit wartenden Reisenden"
+      "mit wartender Reisende",
+      "mit wartende Reisende"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{mit}} đòi Dativ. Dùng {{wartenden Reisenden}} ở số nhiều."
     },
     {
@@ -1832,37 +1832,37 @@
       "q": "Was hören sie am Steg vor allem?",
       "options": [
        "Viele Autos und Züge.",
-       "Vorbeifahrende Boote und Wind.",
-       "Musik aus dem Café."
-      ],
-      "answer": 1
-     },
-     {
-      "q": "Warum gehen sie in das Café?",
-      "options": [
-       "Sie wollen die Räder mieten.",
-       "Sie haben dort ein Treffen.",
-       "Der Regen ist stärker geworden."
+       "Musik aus dem Café.",
+       "Vorbeifahrende Boote und Wind."
       ],
       "answer": 2
      },
      {
-      "q": "Was ändert sich bei der Rückfahrt?",
+      "q": "Warum gehen sie in das Café?",
       "options": [
-       "Sie wählen eine spätere Verbindung.",
-       "Sie müssen zurück nach Steinau laufen.",
-       "Sie fahren mit den Rädern bis nach Hause."
+       "Der Regen ist stärker geworden.",
+       "Sie haben dort ein Treffen.",
+       "Sie wollen die Räder mieten."
       ],
       "answer": 0
      },
      {
+      "q": "Was ändert sich bei der Rückfahrt?",
+      "options": [
+       "Sie fahren mit den Rädern bis nach Hause.",
+       "Sie müssen zurück nach Steinau laufen.",
+       "Sie wählen eine spätere Verbindung."
+      ],
+      "answer": 2
+     },
+     {
       "q": "Was nehmen beide für künftige Reisen mit?",
       "options": [
+       "Mehr Gepäck für jeden Ausflug einzupacken.",
        "Immer den ursprünglichen Plan einzuhalten.",
-       "Mehr Zeit zwischen den Etappen zu lassen.",
-       "Mehr Gepäck für jeden Ausflug einzupacken."
+       "Mehr Zeit zwischen den Etappen zu lassen."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1877,33 +1877,33 @@
      "type": "mcq",
      "q": "Cụm nào nghĩa là ‘những con thuyền đang đi ngang’?",
      "options": [
-      "vorbeigefahrene Boote",
       "vorbeifahrten Boote",
-      "vorbeifahrende Boote",
-      "vorbeifahren Boote"
+      "vorbeigefahrene Boote",
+      "vorbeifahren Boote",
+      "vorbeifahrende Boote"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Dùng Partizip I {{vorbeifahrend}}. Nominativ số nhiều không mạo từ dùng {{-e}}."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng đúng: {{Bei ___ Regen gingen wir in ein Café.}}",
      "options": [
-      "anhaltendem",
-      "anhaltenden",
       "anhaltender",
-      "anhaltendes"
+      "anhaltendem",
+      "anhaltendes",
+      "anhaltenden"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{bei}} dùng Dativ. Với {{Regen}} giống đực không mạo từ, Partizip I nhận {{-em}}."
     },
     {
      "type": "mcq",
      "q": "Cụm nào nghĩa là ‘vì những lối đi đã bị đóng’ và dùng Genitiv chuẩn?",
      "options": [
+      "wegen gesperrte Wege",
       "wegen sperrender Wege",
       "wegen gesperrtem Wegen",
-      "wegen gesperrte Wege",
       "wegen gesperrter Wege"
      ],
      "answer": 3,
@@ -1925,24 +1925,24 @@
      "type": "mcq",
      "q": "Tiêu đề nào nhấn mạnh chặng ghé qua ngoài lộ trình chính?",
      "options": [
-      "Der leere Rastplatz",
       "Der neue Fahrplan",
-      "Ein Abstecher zum alten Steg",
-      "Ein Bericht über den Bahnhof"
+      "Der leere Rastplatz",
+      "Ein Bericht über den Bahnhof",
+      "Ein Abstecher zum alten Steg"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Abstecher}} là chặng ghé thêm ngoài lộ trình chính."
     },
     {
      "type": "mcq",
      "q": "Chọn câu tương đương nghĩa với {{Die vorbeifahrenden Boote waren leise.}}",
      "options": [
-      "Die Boote, die vorbeifuhren, waren leise.",
       "Die Boote, die später abfuhren, waren leise.",
-      "Die Boote, die dort lagen, waren leise.",
-      "Die Boote, die repariert wurden, waren leise."
+      "Die Boote, die repariert wurden, waren leise.",
+      "Die Boote, die vorbeifuhren, waren leise.",
+      "Die Boote, die dort lagen, waren leise."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{vorbeifahrend}} tương ứng với mệnh đề quan hệ {{die vorbeifuhren}}."
     },
     {
@@ -2592,20 +2592,20 @@
      {
       "q": "Was galt jahrzehntelang als das typische Statussymbol für moderne Erholungssuchende?",
       "options": [
+       "Ausschließliche Wanderungen im Schwarzwald.",
        "Fahrradtouren durch den eigenen Landkreis.",
-       "Billige Flüge in weit entfernte Urlaubsländer.",
-       "Ausschließliche Wanderungen im Schwarzwald."
+       "Billige Flüge in weit entfernte Urlaubsländer."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Warum entscheiden sich heute immer mehr Urlauber für sanften Tourismus?",
       "options": [
+       "Weil es keine Koffer mehr zu kaufen gibt.",
        "Wegen des spürbaren Klimawandels und der Umweltbelastung durch Massentourismus.",
-       "Weil Flugzeuge gesetzlich weltweit verboten wurden.",
-       "Weil es keine Koffer mehr zu kaufen gibt."
+       "Weil Flugzeuge gesetzlich weltweit verboten wurden."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Welchen Vorteil bietet die Anreise mit dem Zug laut dem Text?",
@@ -2620,19 +2620,19 @@
       "q": "Welche Unterkünfte bevorzugen nachhaltig Reisende am Urlaubsort?",
       "options": [
        "Gigantische Luxushotels internationaler Großkonzerne.",
-       "Familiengeführte Pensionen und Bio-Bauernhöfe mit regionaler Verpflegung.",
-       "Ausschließlich verlassene Berghütten ohne fließendes Wasser."
+       "Ausschließlich verlassene Berghütten ohne fließendes Wasser.",
+       "Familiengeführte Pensionen und Bio-Bauernhöfe mit regionaler Verpflegung."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Woran bemisst sich wahrer Luxus auf Reisen laut dem letzten Absatz?",
       "options": [
        "An der maximalen Distanz und teuren Souvenirs.",
-       "An der Intensität der Momente und dem respektvollen Umgang mit Natur und Mensch.",
-       "An der Anzahl der geschossenen Selfies im Internet."
+       "An der Anzahl der geschossenen Selfies im Internet.",
+       "An der Intensität der Momente und dem respektvollen Umgang mit Natur und Mensch."
       ],
-      "answer": 1
+      "answer": 2
      }
     ]
    },
@@ -2646,22 +2646,22 @@
      "type": "mcq",
      "q": "Wie lautet die richtige Adjektivendung ohne Artikel (Nullartikel) in: „Wir trinken heiß___ Tee“ (Akkusativ Maskulin)?",
      "options": [
-      "-er",
+      "-em",
       "-es",
-      "-en",
-      "-em"
+      "-er",
+      "-en"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "'der Tee' ở Akkusativ không mạo từ nhận đuôi '-en' giống như mạo từ 'den': 'heißen Tee'."
     },
     {
      "type": "mcq",
      "q": "Welche Adjektivendung steht im Genitiv Maskulin/Neutral ohne Artikel (z.B. „trotz schlecht___ Wetters“)?",
      "options": [
-      "-es",
-      "-en",
       "-em",
-      "-er"
+      "-en",
+      "-er",
+      "-es"
      ],
      "answer": 1,
      "explain": "Ngoại lệ đặc biệt ở Genitiv Nullartikel: danh từ giống đực/trung đã có đuôi '-s' (Wetters), nên tính từ bắt buộc nhận đuôi '-en': 'schlechten Wetters'."
@@ -2670,10 +2670,10 @@
      "type": "mcq",
      "q": "Welches Partizip drückt eine gerade ablaufende, aktive Handlung aus?",
      "options": [
-      "Partizip II (ge-..-t / ge-..-en)",
+      "Perfektform",
       "Partizip I (Infinitiv + d)",
       "Infinitiv mit zu",
-      "Perfektform"
+      "Partizip II (ge-..-t / ge-..-en)"
      ],
      "answer": 1,
      "explain": "Partizip I (Infinitiv + d: 'fahrend', 'wartend') diễn tả hành động đang diễn ra và mang nghĩa chủ động."
@@ -2682,12 +2682,12 @@
      "type": "mcq",
      "q": "Ergänzen Sie das Partizip II als Adjektiv: Das von uns vorab ___ Hotelzimmer war sehr geräumig.",
      "options": [
-      "buchende",
       "gebuchte",
-      "gebuchter",
-      "buchendes"
+      "buchende",
+      "buchendes",
+      "gebuchter"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'das Zimmer' là giống trung, hành động đã hoàn thành dùng Partizip II có đuôi sau mạo từ xác định: 'das gebuchte Hotelzimmer'."
     },
     {
@@ -2695,9 +2695,9 @@
      "q": "Ergänzen Sie: Auf dem Bahnsteig standen viele ___ Fahrgäste.",
      "options": [
       "wartende",
-      "gewartete",
       "wartendes",
-      "wartender"
+      "wartender",
+      "gewartete"
      ],
      "answer": 0,
      "explain": "Hành khách đang chờ đợi là hành động chủ động đang diễn ra, dùng Partizip I ở số nhiều không mạo từ: 'wartende Fahrgäste'."
@@ -2707,23 +2707,23 @@
      "q": "Was bedeutet das Substantiv „die Pauschalreise“?",
      "options": [
       "Eine Reise nur mit dem Fahrrad",
-      "Eine organisierte Reise, bei der Fahrt, Unterkunft und oft Verpflegung im Gesamtpreis enthalten sind",
       "Eine spontane Fahrt ohne Ticket",
+      "Eine organisierte Reise, bei der Fahrt, Unterkunft und oft Verpflegung im Gesamtpreis enthalten sind",
       "Ein Kurztrip zu Fuß"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'Die Pauschalreise' là chuyến du lịch trọn gói bao gồm tất cả các dịch vụ vé xe, phòng nghỉ và ăn uống trong một mức giá chung."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
      "options": [
-      "Mit schwerem Rucksack stieg er auf den Berg.",
-      "Mit schweren Rucksack stieg er auf den Berg.",
       "Mit schwerer Rucksack stieg er auf den Berg.",
-      "Mit schwer Rucksack stieg er auf den Berg."
+      "Mit schweren Rucksack stieg er auf den Berg.",
+      "Mit schwer Rucksack stieg er auf den Berg.",
+      "Mit schwerem Rucksack stieg er auf den Berg."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'der Rucksack' là giống đực, sau giới từ 'mit (+ Dat)' không mạo từ, đuôi tính từ là '-em': 'mit schwerem Rucksack'."
     },
     {
@@ -2731,11 +2731,11 @@
      "q": "Was bedeutet die feste Redewendung „die Zelte abbrechen“?",
      "options": [
       "Ein Zelt beim Camping beschädigen",
-      "Einen Ort verlassen und seine Abreise antreten",
+      "Ein Hotelzimmer buchen",
       "Im Regen spazieren gehen",
-      "Ein Hotelzimmer buchen"
+      "Einen Ort verlassen und seine Abreise antreten"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "'die Zelte abbrechen' là thành ngữ mang nghĩa dọn đồ rời đi, kết thúc chuyến lưu trú ở một nơi."
     },
     {
@@ -2743,8 +2743,8 @@
      "q": "Was ist das Gegenteil von „Hauptsaison“?",
      "options": [
       "Nebensaison",
-      "Pauschalreise",
       "Fernzug",
+      "Pauschalreise",
       "Unterkunft"
      ],
      "answer": 0,
@@ -2754,12 +2754,12 @@
      "type": "mcq",
      "q": "Welches Adjektiv bedeutet „đẹp như tranh vẽ, thơ mộng“?",
      "options": [
-      "malerisch",
+      "schädlich",
       "überfüllt",
       "abenteuerlich",
-      "schädlich"
+      "malerisch"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'malerisch' mang nghĩa đẹp như tranh vẽ, nên thơ và hữu tình."
     },
     {

@@ -10,24 +10,24 @@
    "type": "mcq",
    "q": "Welcher zweiteilige Konnektor passt? \"Er spricht ___ Deutsch ___ Englisch fließend.\"",
    "options": [
+    "entweder ... und",
     "sowohl ... als auch",
-    "weder ... oder",
     "nicht nur ... aber auch",
-    "entweder ... und"
+    "weder ... oder"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Cặp liên từ bổ sung thuận chuẩn xác là 'sowohl ... als auch' (vừa... vừa...)."
   },
   {
    "type": "mcq",
    "q": "Sie ist ___ sehr intelligent, ___ sie hilft auch gerne anderen Menschen.",
    "options": [
-    "nicht nur ... sondern",
+    "zwar ... oder",
     "sowohl ... als auch",
-    "weder ... noch",
-    "zwar ... oder"
+    "nicht nur ... sondern",
+    "weder ... noch"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'nicht nur ..., sondern ... auch' (không những... mà còn...)."
   },
   {
@@ -36,8 +36,8 @@
    "options": [
     "Er trinkt weder Alkohol noch raucht er Zigaretten.",
     "Er trinkt weder Alkohol noch raucht er keine Zigaretten.",
-    "Er trinkt nicht weder Alkohol noch Zigaretten.",
-    "Er trinkt weder Alkohol oder Zigaretten."
+    "Er trinkt weder Alkohol oder Zigaretten.",
+    "Er trinkt nicht weder Alkohol noch Zigaretten."
    ],
    "answer": 0,
    "explain": "'weder ... noch' không đi kèm bất kỳ từ phủ định nào khác như 'keine' hay 'nicht'."
@@ -46,36 +46,36 @@
    "type": "mcq",
    "q": "Wir fahren in den Ferien ___ nach Italien ___ wir bleiben einfach zu Hause.",
    "options": [
+    "zwar ... aber",
     "entweder ... oder",
     "weder ... noch",
-    "sowohl ... als auch",
-    "zwar ... aber"
+    "sowohl ... als auch"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Lựa chọn loại trừ giữa hai khả năng dùng 'entweder ... oder' (hoặc là... hoặc là)."
   },
   {
    "type": "mcq",
    "q": "Welche Satzstellung im Satz mit \"je ... desto\" ist RICHTIG?",
    "options": [
-    "Je mehr man übt, desto besser spricht man Deutsch.",
     "Je mehr man übt, desto man spricht besser Deutsch.",
     "Je mehr man übt, desto besser man Deutsch spricht.",
-    "Je mehr man übt Deutsch, desto besser spricht man."
+    "Je mehr man übt Deutsch, desto besser spricht man.",
+    "Je mehr man übt, desto besser spricht man Deutsch."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Vế 'je' động từ ở cuối ('übt'), vế 'desto' động từ đảo lên vị trí 2 ngay sau tính từ so sánh ('desto besser spricht man')."
   },
   {
    "type": "mcq",
    "q": "Das Hotel ist ___ sehr teuer, ___ der Service ist wirklich ausgezeichnet.",
    "options": [
-    "zwar ... aber",
-    "entweder ... oder",
     "weder ... noch",
-    "sowohl ... als auch"
+    "sowohl ... als auch",
+    "entweder ... oder",
+    "zwar ... aber"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Quan hệ nhượng bộ, tương phản dùng 'zwar ... aber' (tuy đắt nhưng dịch vụ tuyệt vời)."
   },
   {

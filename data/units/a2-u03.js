@@ -364,8 +364,8 @@
      {
       "q": "Wo haben sich Lea und Kai getroffen?",
       "options": [
-       "In der Küche.",
        "Auf dem Balkon.",
+       "In der Küche.",
        "Vor dem Haus."
       ],
       "answer": 2
@@ -373,26 +373,26 @@
      {
       "q": "Was lag neben der Küche?",
       "options": [
+       "Der Innenhof.",
        "Ein kleiner Abstellraum.",
-       "Der Balkon.",
-       "Der Innenhof."
+       "Der Balkon."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was konnte Lea vom Balkon aus sehen?",
       "options": [
-       "Den Neubau gegenüber.",
+       "Die Fahrradwerkstatt.",
        "Den Innenhof.",
-       "Die Fahrradwerkstatt."
+       "Den Neubau gegenüber."
       ],
       "answer": 1
      },
      {
       "q": "Wo dürfen Lea und Kai ihre Fahrräder abstellen?",
       "options": [
-       "Zwischen Küche und Bad.",
        "Vor der Wohnungstür.",
+       "Zwischen Küche und Bad.",
        "Hinter dem Haus."
       ],
       "answer": 2
@@ -410,10 +410,10 @@
      "type": "mcq",
      "q": "Chọn câu nói về đích đến ‘Chúng tôi đi vào sân trong’.",
      "options": [
+      "Wir gehen vor dem Innenhof spazieren.",
       "Wir gehen im Innenhof spazieren.",
-      "Wir sind im Innenhof.",
       "Wir gehen in den Innenhof.",
-      "Wir gehen vor dem Innenhof spazieren."
+      "Wir sind im Innenhof."
      ],
      "answer": 2,
      "explain": "Vì {{in den Innenhof}} chỉ đích đến của người đi nên dùng {{Akkusativ}}."
@@ -422,36 +422,36 @@
      "type": "mcq",
      "q": "Chọn cách nói ‘Chuông ở cạnh cửa’.",
      "options": [
-      "Die Klingel ist neben der Tür.",
       "Die Klingel ist neben die Tür.",
-      "Die Klingel ist in der Tür.",
-      "Die Klingel ist vor der Tür."
+      "Die Klingel ist neben der Tür.",
+      "Die Klingel ist vor der Tür.",
+      "Die Klingel ist in der Tür."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Dùng {{neben der Tür}} để chỉ vị trí ở bên cạnh cửa."
     },
     {
      "type": "mcq",
      "q": "Câu nào điền đúng dạng với nơi xảy ra hành động? {{Die Kinder laufen ___ Haus hin und her.}}",
      "options": [
-      "vor das",
-      "vor die",
       "vor den",
-      "vor dem"
+      "vor dem",
+      "vor die",
+      "vor das"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{Hin und her}} là chạy qua lại ở cùng khu vực. Dùng {{vor dem Haus}}."
     },
     {
      "type": "mcq",
      "q": "Mẫu nào có nghĩa ‘đi vào phòng khách’?",
      "options": [
-      "im Wohnzimmer warten",
       "ins Wohnzimmer gehen",
-      "an das Wohnzimmer denken",
-      "im Wohnzimmer umhergehen"
+      "im Wohnzimmer warten",
+      "im Wohnzimmer umhergehen",
+      "an das Wohnzimmer denken"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{Ins}} là viết gọn của {{in das}}. Trong câu này, phòng khách là đích đến."
     },
     {
@@ -1016,27 +1016,27 @@
      {
       "q": "Wo steht das Sofa jetzt?",
       "options": [
-       "Vor dem Fenster.",
        "Neben der Tür.",
-       "Unter dem Wandregal."
+       "Unter dem Wandregal.",
+       "Vor dem Fenster."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Wo liegt der Teppich am Ende?",
       "options": [
-       "Unter dem Esstisch.",
+       "Vor dem Sofa.",
        "Hinter der Kommode.",
-       "Vor dem Sofa."
+       "Unter dem Esstisch."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Was steht auf dem Wandregal?",
       "options": [
        "Bücher und zwei Fotos.",
-       "Eine Stehlampe und ein Kissen.",
-       "Nur das Bild von Jonas."
+       "Nur das Bild von Jonas.",
+       "Eine Stehlampe und ein Kissen."
       ],
       "answer": 0
      }
@@ -1053,22 +1053,22 @@
      "type": "mcq",
      "q": "Bạn cần di chuyển ghế bành tới cạnh cửa sổ. Chọn câu phù hợp.",
      "options": [
-      "Der Sessel steht neben dem Fenster.",
-      "Stell den Sessel neben das Fenster.",
       "Stell den Sessel neben dem Fenster.",
-      "Leg das Kissen neben das Fenster."
+      "Leg das Kissen neben das Fenster.",
+      "Stell den Sessel neben das Fenster.",
+      "Der Sessel steht neben dem Fenster."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Đặt ghế theo hướng đến vị trí mới với {{stellen}} và {{neben das Fenster}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào nói ‘Tấm thảm đang nằm dưới bàn’?",
      "options": [
-      "Der Teppich liegt unter den Tisch.",
       "Ich lege den Teppich unter den Tisch.",
+      "Der Teppich steht unter dem Tisch.",
       "Der Teppich liegt unter dem Tisch.",
-      "Der Teppich steht unter dem Tisch."
+      "Der Teppich liegt unter den Tisch."
      ],
      "answer": 2,
      "explain": "Với vật nằm sẵn dùng {{liegt}}. Vị trí dùng {{unter dem Tisch}}."
@@ -1077,12 +1077,12 @@
      "type": "mcq",
      "q": "Câu nào đúng cho ‘Cô ấy đã treo bức tranh lên tường’?",
      "options": [
-      "Sie hat das Bild an die Wand gehängt.",
-      "Sie hat das Bild an der Wand gehangen.",
       "Sie hing an die Wand das Bild.",
-      "Das Bild hat an der Wand gehangen."
+      "Sie hat das Bild an der Wand gehangen.",
+      "Das Bild hat an der Wand gehangen.",
+      "Sie hat das Bild an die Wand gehängt."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Treo một vật dùng {{hat gehängt}}. Đích đến là {{an die Wand}}."
     },
     {
@@ -1090,23 +1090,23 @@
      "q": "Chọn dạng quá khứ để mô tả bức tranh từng treo phía trên sofa. {{Das Bild ___ über dem Sofa.}}",
      "options": [
       "hängte",
-      "hängt",
+      "hing",
       "hat gehängt",
-      "hing"
+      "hängt"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Khi bức tranh là vật đang treo, Präteritum là {{hing}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào hỏi về chỗ đích của hành động đặt gối?",
      "options": [
-      "Wo liegen die Kissen?",
-      "Wohin legst du die Kissen?",
+      "Wie viele Kissen haben wir?",
       "Wo sind die Kissen?",
-      "Wie viele Kissen haben wir?"
+      "Wohin legst du die Kissen?",
+      "Wo liegen die Kissen?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Hỏi đích bằng {{Wohin?}} và dùng {{legen}} ở đây."
     },
     {
@@ -1660,11 +1660,11 @@
      {
       "q": "Warum hat Mira die Kartons schnell in die Wohnung getragen?",
       "options": [
-       "Die Nachbarin wollte mit ihrem Kinderwagen durch den Flur.",
+       "Es hat vor der Wohnungstür geregnet.",
        "Die Vermieterin wollte die Schlüssel zurück.",
-       "Es hat vor der Wohnungstür geregnet."
+       "Die Nachbarin wollte mit ihrem Kinderwagen durch den Flur."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Wohin hat Mira ihr Fahrrad gebracht?",
@@ -1697,10 +1697,10 @@
      "type": "mcq",
      "q": "Chọn câu ‘Thứ Bảy chúng tôi đã dọn vào ở’.",
      "options": [
-      "Wir ziehen am Samstag aus.",
       "Wir haben am Samstag eingezogen.",
+      "Wir sind am Samstag ausgezogen.",
       "Wir sind am Samstag eingezogen.",
-      "Wir sind am Samstag ausgezogen."
+      "Wir ziehen am Samstag aus."
      ],
      "answer": 2,
      "explain": "{{Einziehen}} là dọn vào. Trong Perfekt dùng {{sind … eingezogen}}."
@@ -1709,24 +1709,24 @@
      "type": "mcq",
      "q": "Hàng xóm hỏi đồ ở đâu. Chọn câu trả lời ‘Trong hành lang chung’.",
      "options": [
-      "In den Hausflur.",
-      "In die Wohnung.",
       "Vor den Hausflur.",
-      "Im Hausflur."
+      "In den Hausflur.",
+      "Im Hausflur.",
+      "In die Wohnung."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "Hỏi vị trí dùng {{im Hausflur}}. {{Im}} là dạng gộp của {{in dem}}."
     },
     {
      "type": "mcq",
      "q": "Muốn chừa lối qua cửa, chọn lời nhờ phù hợp.",
      "options": [
-      "Könnten Sie die Kartons bitte zur Seite stellen?",
-      "Könnten Sie die Kartons vor die Tür stellen?",
       "Könnten Sie hier noch einen Karton dazustellen?",
+      "Könnten Sie die Kartons vor die Tür stellen?",
+      "Könnten Sie die Kartons bitte zur Seite stellen?",
       "Könnten Sie die Tür abschließen?"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{Zur Seite stellen}} nghĩa là đặt sang một bên, để lối đi được thông."
     },
     {
@@ -1745,12 +1745,12 @@
      "type": "mcq",
      "q": "Chọn cách nói ‘Họ bê các thùng từ hành lang vào căn hộ’.",
      "options": [
+      "Sie tragen die Kartons aus der Wohnung in den Hausflur.",
       "Sie tragen die Kartons in der Wohnung aus dem Hausflur.",
       "Sie tragen die Kartons im Hausflur und in der Wohnung.",
-      "Sie tragen die Kartons aus dem Hausflur in die Wohnung.",
-      "Sie tragen die Kartons aus der Wohnung in den Hausflur."
+      "Sie tragen die Kartons aus dem Hausflur in die Wohnung."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Dùng {{aus dem Hausflur}} cho nơi xuất phát và {{in die Wohnung}} cho đích đến."
     },
     {
@@ -2304,38 +2304,38 @@
      {
       "q": "Was soll man laut Hausordnung machen, wenn man am Samstagabend eine Party feiert?",
       "options": [
-       "Man muss die Hausverwaltung um Erlaubnis fragen und 50 Euro bezahlen.",
+       "Man darf in der Wohnung überhaupt keine Gäste einladen.",
        "Man soll vorher eine kurze Information für die Nachbarn ans Schwarze Brett im Erdgeschoss hängen.",
-       "Man darf in der Wohnung überhaupt keine Gäste einladen."
+       "Man muss die Hausverwaltung um Erlaubnis fragen und 50 Euro bezahlen."
       ],
       "answer": 1
      },
      {
       "q": "Warum darf man keine Schuhschränke oder Fahrräder vor die Wohnungstür ins Treppenhaus stellen?",
       "options": [
-       "Aus Gründen des Brandschutzes müssen Treppenhaus und Flure frei bleiben.",
        "Weil die Nachbarn die Schuhe sonst mitnehmen.",
+       "Aus Gründen des Brandschutzes müssen Treppenhaus und Flure frei bleiben.",
        "Weil der Aufzug sonst nicht funktioniert."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "In welche Mülltonne im Hof gehören alte Zeitungen und Kartons aus Papier?",
       "options": [
+       "In die blaue Tonne.",
        "In die gelbe Tonne.",
-       "In die braune Tonne.",
-       "In die blaue Tonne."
+       "In die braune Tonne."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Wen soll man anrufen, wenn die Heizung in der Wohnung kaputt ist?",
       "options": [
-       "Die Polizei unter 110.",
        "Den Hausmeister, Herrn Krause.",
-       "Die neuen Nachbarn im Erdgeschoss."
+       "Die neuen Nachbarn im Erdgeschoss.",
+       "Die Polizei unter 110."
       ],
-      "answer": 1
+      "answer": 0
      }
     ],
     "glossary": []
@@ -2350,21 +2350,21 @@
      "type": "mcq",
      "q": "Chọn mạo từ đúng để phân biệt hướng đặt (Wohin?) và vị trí tĩnh (Wo?): „Ich stelle den Stuhl neben ___ Schreibtisch. Jetzt steht er neben ___ Schreibtisch.“",
      "options": [
-      "dem ... den",
       "den ... dem",
-      "der ... dem",
-      "den ... den"
+      "dem ... den",
+      "den ... den",
+      "der ... dem"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Câu đầu có động từ „stellen“ (đặt vào đâu → Wohin? + Akkusativ): „neben den Schreibtisch“. Câu sau có động từ „stehen“ (đang đứng ở đâu → Wo? + Dativ): „neben dem Schreibtisch“."
     },
     {
      "type": "mcq",
      "q": "Khi muốn nói „treo bức tranh lên bức tường“ (Wohin?) và „bức tranh đang treo trên tường“ (Wo?), ta dùng giới từ nào?",
      "options": [
-      "auf die Wand / auf der Wand",
-      "an die Wand / an der Wand",
       "in die Wand / in der Wand",
+      "an die Wand / an der Wand",
+      "auf die Wand / auf der Wand",
       "über die Wand / über der Wand"
      ],
      "answer": 1,
@@ -2374,24 +2374,24 @@
      "type": "mcq",
      "q": "Từ viết gộp „ins“ và „ans“ là kết hợp của giới từ với mạo từ nào?",
      "options": [
-      "in + dem / an + dem (Dativ)",
       "in + das / an + das (Akkusativ)",
+      "in + dem / an + dem (Dativ)",
       "in + des / an + des (Genitiv)",
       "in + die / an + die (Akkusativ)"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„ins“ = „in + das“ và „ans“ = „an + das“ (dùng cho danh từ giống Trung ở cách Akkusativ trả lời câu hỏi Wohin?)."
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng ngữ pháp với danh từ số nhiều ở cách Dativ (Wo?):",
      "options": [
-      "Die Katze sitzt zwischen die Stühle.",
       "Die Katze sitzt zwischen den Stühlen.",
+      "Die Katze sitzt zwischen die Stühle.",
       "Die Katze sitzt zwischen den Stühle.",
       "Die Katze sitzt zwischen der Stühlen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„sitzt“ chỉ vị trí tĩnh (Wo? + Dativ). Ở Dativ số nhiều, mạo từ đổi thành „den“ và danh từ „Stühle“ phải cộng thêm đuôi „-n“: „zwischen den Stühlen“."
     },
     {
@@ -2560,11 +2560,11 @@
      "q": "Chọn cặp động từ đúng để hoàn thành hai câu: „Wohin ___ du die Zeitung? – Ich ___ sie auf den Couchtisch. Jetzt ___ sie auf dem Couchtisch.“",
      "options": [
       "stellst ... stelle ... steht",
-      "legst ... lege ... liegt",
       "liegst ... liege ... legt",
+      "legst ... lege ... liegt",
       "setzt ... setze ... sitzt"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Tờ báo (die Zeitung) là vật mỏng dẹt nằm ngang: khi đặt xuống (Wohin? + Akk) dùng „legen“; khi nó đang nằm trên bàn (Wo? + Dat) dùng „liegen“."
     },
     {
@@ -2584,23 +2584,23 @@
      "q": "Phân biệt hai dạng Partizip II của động từ „hängen“: „Gestern habe ich das Bild an die Wand ___. Seit gestern hat das Bild an der Wand ___.“",
      "options": [
       "gehangen ... gehängt",
+      "hingen ... gehängt",
       "gehängt ... gehangen",
-      "gehängt ... gehängt",
-      "hingen ... gehängt"
+      "gehängt ... gehängt"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Khi chủ ngữ là người treo vật lên (ngoại động từ + Wohin/Akkusativ), „hängen“ là động từ yếu: „hat gehängt“. Khi vật tự treo ở đó (nội động từ + Wo/Dativ), „hängen“ là động từ mạnh: „hat gehangen“."
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng với động từ phản thân „sich setzen“ (ngồi xuống – Wohin?) và „sitzen“ (đang ngồi – Wo?):",
      "options": [
-      "Der Großvater setzt sich in dem Sessel. Jetzt sitzt er in den Sessel.",
-      "Der Großvater setzt sich in den Sessel. Jetzt sitzt er in dem Sessel.",
+      "Der Großvater stellt sich in den Sessel.",
       "Der Großvater sitzt sich in den Sessel. Jetzt setzt er im Sessel.",
-      "Der Großvater stellt sich in den Sessel."
+      "Der Großvater setzt sich in dem Sessel. Jetzt sitzt er in den Sessel.",
+      "Der Großvater setzt sich in den Sessel. Jetzt sitzt er in dem Sessel."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„sich setzen“ chỉ chuyển động ngồi xuống (Wohin? + Akkusativ: „in den Sessel“); „sitzen“ chỉ trạng thái đang ngồi (Wo? + Dativ: „in dem / im Sessel“)."
     },
     {
@@ -2776,48 +2776,48 @@
      "type": "mcq",
      "q": "Ở Đức, khi hệ thống sưởi (die Heizung) hoặc đèn ở hành lang chung bị hỏng, người thuê nhà thường liên hệ với ai đầu tiên?",
      "options": [
-      "Den Hausarzt",
-      "Den Hausmeister (người quản lý kỹ thuật tòa nhà)",
       "Den Kellner",
-      "Den Briefträger"
+      "Den Briefträger",
+      "Den Hausmeister (người quản lý kỹ thuật tòa nhà)",
+      "Den Hausarzt"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„der Hausmeister“ là người quản lý kỹ thuật và chăm sóc tòa nhà, phụ trách sửa chữa các hỏng hóc nhỏ trong chung cư."
     },
     {
      "type": "mcq",
      "q": "Trong hệ thống phân loại rác (Mülltrennung) ở Đức, giấy và bìa các-tông được bỏ vào thùng rác màu gì?",
      "options": [
-      "In die blaue Tonne (Altpapier)",
       "In die gelbe Tonne (Plastik / Verpackungen)",
-      "In die braune Tonne (Biomüll)",
-      "In den Glascontainer"
+      "In den Glascontainer",
+      "In die blaue Tonne (Altpapier)",
+      "In die braune Tonne (Biomüll)"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Thùng màu xanh dương („die blaue Tonne“) dành cho giấy và bìa các-tông; thùng màu vàng („die gelbe Tonne“) dành cho bao bì nhựa/kim loại; thùng nâu dành cho rác hữu cơ."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng Partizip II đúng của hai động từ „streichen“ (sơn tường) và „renovieren“ (tân trang nhà cửa):",
      "options": [
+      "gestrichen / gerenoviert",
       "gestreicht / gerenoviert",
       "gestrichen / renoviert",
-      "gestrichen / gerenoviert",
       "streichen / renoviert"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„streichen“ là động từ mạnh (ei → i): „hat gestrichen“. Còn „renovieren“ kết thúc bằng đuôi „-ieren“ nên không có „ge-“: „hat renoviert“."
     },
     {
      "type": "mcq",
      "q": "Khung giờ giữ yên tĩnh ban đêm (Nachtruhe) theo nội quy các tòa nhà ở Đức thường bắt đầu từ mấy giờ?",
      "options": [
-      "Từ 18:00 giờ chiều",
-      "Từ 22:00 giờ tối đến 6:00 giờ sáng",
       "Từ 12:00 giờ trưa",
-      "Chỉ áp dụng vào tháng Mười Hai"
+      "Từ 18:00 giờ chiều",
+      "Chỉ áp dụng vào tháng Mười Hai",
+      "Từ 22:00 giờ tối đến 6:00 giờ sáng"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Khung giờ nghỉ đêm („die Nachtruhe“) trên toàn nước Đức bắt đầu từ 22:00 tối đến 6:00 sáng hôm sau."
     },
     {

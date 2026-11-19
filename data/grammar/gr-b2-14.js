@@ -13,72 +13,72 @@
    "type": "mcq",
    "q": "Welcher Satz hat die KORREKTE Wortstellung mit 'denn'?",
    "options": [
+    "Er bleibt heute daheim, denn er hohes Fieber hat.",
     "Er bleibt heute daheim, denn er hat hohes Fieber.",
-    "Er bleibt heute daheim, denn hat er hohes Fieber.",
     "Denn er hat hohes Fieber, bleibt er heute daheim.",
-    "Er bleibt heute daheim, denn er hohes Fieber hat."
+    "Er bleibt heute daheim, denn hat er hohes Fieber."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'denn' chiếm vị trí số 0, sau đó là mệnh đề chính với trật tự SVO bình thường: denn er hat hohes Fieber."
   },
   {
    "type": "mcq",
    "q": "Welche Präposition passt bei einer unkontrollierbaren körperlichen Reaktion: 'Er zitterte ___ Kälte.'?",
    "options": [
-    "vor",
-    "aus",
+    "infolge",
     "wegen",
-    "infolge"
+    "vor",
+    "aus"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Phản ứng vật lý mất kiểm soát của cơ thể đi với 'vor + Dativ' (vor Kälte zittern)."
   },
   {
    "type": "mcq",
    "q": "Welche Subjunktion drückt einen zusätzlichen, verstärkenden Grund aus ('nhất là khi')?",
    "options": [
-    "zumal",
-    "sodass",
     "trotzdem",
-    "obwohl"
+    "sodass",
+    "obwohl",
+    "zumal"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'zumal' dẫn mệnh đề phụ chỉ nguyên nhân tăng cường, nhấn mạnh ('nhất là khi / vả lại')."
   },
   {
    "type": "mcq",
    "q": "Welches Konjunktionaladverb drückt eine logische Folge (Konsekutiv) aus und verlangt Inversion?",
    "options": [
-    "folglich",
-    "weil",
+    "da",
     "denn",
-    "da"
+    "folglich",
+    "weil"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'folglich' là trạng từ liên kết chỉ hệ quả tất yếu, đứng đầu câu gây đảo ngữ (Inversion)."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz drückt ein Folge-Ereignis mit 'so ... dass' KORREKT aus?",
    "options": [
-    "Er sprach so leise, dass ihn niemand verstehen konnte.",
-    "Er sprach so leise, sodass konnte ihn niemand verstehen.",
     "Er sprach so leise, dass ihn niemand konnte verstehen.",
-    "Er sprach so leise, dass konnte ihn niemand verstehen."
+    "Er sprach so leise, dass konnte ihn niemand verstehen.",
+    "Er sprach so leise, dass ihn niemand verstehen konnte.",
+    "Er sprach so leise, sodass konnte ihn niemand verstehen."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'so + Adjektiv ... dass' dẫn mệnh đề phụ chỉ kết quả với động từ chia ở cuối câu: verstehen konnte."
   },
   {
    "type": "mcq",
    "q": "Wo steht die Kausalpartikel 'nämlich' im Satz?",
    "options": [
-    "Im Mittelfeld nach dem finiten Verb",
     "Auf Position 1 am Satzanfang",
-    "Auf Position 0 vor dem Subjekt",
-    "Ganz am Ende nach dem Infinitiv"
+    "Im Mittelfeld nach dem finiten Verb",
+    "Ganz am Ende nach dem Infinitiv",
+    "Auf Position 0 vor dem Subjekt"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'nämlich' không bao giờ đứng đầu câu, nó luôn đứng ở Mittelfeld sau động từ chia."
   },
   {

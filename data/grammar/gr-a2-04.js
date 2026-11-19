@@ -12,8 +12,8 @@
    "options": [
     "ihm",
     "ihn",
-    "er",
-    "sein"
+    "sein",
+    "er"
    ],
    "answer": 0,
    "explain": "Động từ 'danken' luôn đòi hỏi tân ngữ Dativ. Đại từ ngôi 'er' ở Dativ là 'ihm'."
@@ -22,24 +22,24 @@
    "type": "mcq",
    "q": "Welcher Artikel ist korrekt? \"Der Vater schenkt ___ Kind ein spannendes Buch.\"",
    "options": [
-    "dem",
-    "den",
+    "des",
     "das",
-    "des"
+    "dem",
+    "den"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Danh từ 'Kind' giống trung (das Kind), ở vị trí tân ngữ gián tiếp Dativ biến thành 'dem'."
   },
   {
    "type": "mcq",
    "q": "Welche Satzstellung ist grammatisch RICHTIG?",
    "options": [
-    "Ich gebe es dem Lehrer.",
-    "Ich gebe dem Lehrer es.",
     "Ich gebe ihm es.",
-    "Ich gebe das Buch ihm."
+    "Ich gebe dem Lehrer es.",
+    "Ich gebe das Buch ihm.",
+    "Ich gebe es dem Lehrer."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Khi có một đại từ (es) và một danh từ (dem Lehrer), đại từ luôn luôn đứng trước danh từ: 'Ich gebe es dem Lehrer.'"
   },
   {
@@ -47,8 +47,8 @@
    "q": "Was passt in die Lücke? \"Die neue Brille steht ___ wirklich sehr gut!\"",
    "options": [
     "dir",
-    "dich",
     "du",
+    "dich",
     "dein"
    ],
    "answer": 0,
@@ -59,9 +59,9 @@
    "q": "Welcher Satz ist KORREKT?",
    "options": [
     "Er schickt es ihr morgen per Post.",
-    "Er schickt ihr es morgen per Post.",
     "Er schickt sie ihm morgen per Post.",
-    "Er schickt ihr sie morgen per Post."
+    "Er schickt ihr sie morgen per Post.",
+    "Er schickt ihr es morgen per Post."
    ],
    "answer": 0,
    "explain": "Khi cả hai tân ngữ đều là đại từ nhân xưng, tân ngữ Akkusativ (es) bắt buộc đứng trước tân ngữ Dativ (ihr)."
@@ -70,12 +70,12 @@
    "type": "mcq",
    "q": "Ergänzen Sie den Dativ-Plural: \"Die Ärztin hilft den kranken ___.\"",
    "options": [
-    "Kindern",
     "Kinder",
     "Kindes",
+    "Kindern",
     "Kind"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Ở cách Dativ số nhiều, danh từ 'Kinder' phải nhận thêm đuôi '-n' thành 'Kindern'."
   },
   {

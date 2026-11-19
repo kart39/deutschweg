@@ -420,12 +420,12 @@
      {
       "q": "Welche zwei Hauptfunktionen erfüllt der Nominalstil laut Abschnitt 2 in wissenschaftlichen Texten?",
       "options": [
+       "Er verhindert, dass empirische Daten ausgewertet werden müssen.",
        "Er erhöht die emotionale Wirkung und ersetzt alle Fachbegriffe.",
        "Er ermöglicht hohe Informationsdichte und unterstützt einen nüchternen, sachlichen Ton.",
-       "Er verhindert, dass empirische Daten ausgewertet werden müssen.",
        "Er verkürzt automatisch die Vorlesungszeit an deutschen Universitäten."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 2 nêu rõ hai chức năng: mật độ thông tin cao (Informationsdichte) và giữ giọng điệu khách quan tỉnh táo (nüchterne Sachlichkeit)."
      },
      {
@@ -433,8 +433,8 @@
       "options": [
        "Weil man dann keine Attribute mehr verwenden darf.",
        "Weil ein als Nomen gefasster Prozess selbst zum Gegenstand weiterer Analyse und Verknüpfung werden kann.",
-       "Weil Verben im Deutschen grundsätzlich mehrdeutig sind.",
-       "Weil dadurch sämtliche Zahlen überflüssig werden."
+       "Weil dadurch sämtliche Zahlen überflüssig werden.",
+       "Weil Verben im Deutschen grundsätzlich mehrdeutig sind."
       ],
       "answer": 1,
       "explain": "Đoạn 3 giải thích khi một quá trình trở thành danh từ, bản thân nó có thể được đánh giá, gán thuộc tính và kết nối với khái niệm khác."
@@ -442,10 +442,10 @@
      {
       "q": "Welche zwei Gefahren übertriebener Nominalisierung nennt Abschnitt 4?",
       "options": [
-       "Zu kurze Sätze und übermäßiger Humor.",
+       "Eine zu starke Betonung persönlicher Gefühle.",
        "Schwer verständliche Genitivketten und das Verschleiern von Verantwortlichkeiten.",
-       "Der Verlust sämtlicher Präpositionen und falscher Kasus.",
-       "Eine zu starke Betonung persönlicher Gefühle."
+       "Zu kurze Sätze und übermäßiger Humor.",
+       "Der Verlust sämtlicher Präpositionen und falscher Kasus."
       ],
       "answer": 1,
       "explain": "Đoạn 4 cảnh báo hai nguy cơ: chuỗi Genitiv nặng nề khó hiểu và việc che khuất chủ thể chịu trách nhiệm."
@@ -453,10 +453,10 @@
      {
       "q": "Wie gehen erfolgreiche akademische Autoren laut Abschnitt 5 vor?",
       "options": [
-       "Sie verwenden ausschließlich Nominalstil ohne starke Verben.",
+       "Sie ersetzen jedes einfache Verb durch ein möglichst langes Funktionsverbgefüge.",
        "Sie verzichten vollständig auf Präpositionen mit Genitiv.",
        "Sie kombinieren gezielt nominale Bündelung für Rahmenbedingungen mit präzisen Verben für zentrale Aussagen.",
-       "Sie ersetzen jedes einfache Verb durch ein möglichst langes Funktionsverbgefüge."
+       "Sie verwenden ausschließlich Nominalstil ohne starke Verben."
       ],
       "answer": 2,
       "explain": "Đoạn 5 mô tả sự đan xen có chủ ý: danh từ hóa cho thông tin nền/điều kiện, động từ chính xác cho phát hiện mới và đánh giá."
@@ -464,23 +464,23 @@
      {
       "q": "Welches Beispiel nennt Abschnitt 5 für eine unnötig umständliche Formulierung?",
       "options": [
-       "„anhand zweier Fallstudien“",
-       "„eine Überprüfung zur Durchführung bringen“ statt einfach „überprüfen“",
        "„nach Abschluss der Erhebung“",
-       "„statistische Auswertung“"
+       "„statistische Auswertung“",
+       "„anhand zweier Fallstudien“",
+       "„eine Überprüfung zur Durchführung bringen“ statt einfach „überprüfen“"
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Cuối đoạn 5 phê phán cụm cồng kềnh „eine Überprüfung zur Durchführung bringen“ khi chỉ cần „überprüfen“."
      },
      {
       "q": "Welchen zusätzlichen Vorteil bietet das bewusste Umformulieren überladener Sätze laut Abschnitt 6?",
       "options": [
+       "Es ersetzt die empirische Erhebung.",
        "Es verlängert die Seitenzahl einer Hausarbeit.",
-       "Es macht sofort sichtbar, ob ein Gedanke logisch wirklich tragfähig ist.",
        "Es macht das Lesen von Fachliteratur überflüssig.",
-       "Es ersetzt die empirische Erhebung."
+       "Es macht sofort sichtbar, ob ein Gedanke logisch wirklich tragfähig ist."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 6 chỉ ra khi viết lại câu quá tải, người viết lập tức kiểm tra được độ vững chắc logic của chính ý tưởng."
      }
     ],
@@ -497,10 +497,10 @@
      "type": "mcq",
      "q": "Welche nominale Formulierung entspricht dem Satz „Weil die Daten fehlerhaft waren, musste das Experiment wiederholt werden“?",
      "options": [
-      "Zwecks der fehlerhaften Daten musste das Experiment wiederholt werden.",
+      "Anhand der fehlerhaften Daten musste das Experiment wiederholt werden.",
       "Infolge der fehlerhaften Daten musste das Experiment wiederholt werden.",
       "Ungeachtet der fehlerhaften Daten musste das Experiment wiederholt werden.",
-      "Anhand der fehlerhaften Daten musste das Experiment wiederholt werden."
+      "Zwecks der fehlerhaften Daten musste das Experiment wiederholt werden."
      ],
      "answer": 1,
      "explain": "Quan hệ nguyên nhân (weil) chuyển sang Nominalstil dùng „infolge + Genitiv“ (do hậu quả của)."
@@ -510,23 +510,23 @@
      "q": "Welche Präposition drückt einen Zweck („damit / um ... zu“) im Nominalstil aus?",
      "options": [
       "ungeachtet",
+      "angesichts",
       "infolge",
-      "zwecks",
-      "angesichts"
+      "zwecks"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "„zwecks + Genitiv“ mang nghĩa mục đích (= um ... zu / damit)."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz wandelt „Obwohl es methodische Einschränkungen gibt, ist die Studie relevant“ korrekt in den Nominalstil um?",
      "options": [
-      "Ungeachtet methodischer Einschränkungen ist die Studie relevant.",
       "Infolge methodischer Einschränkungen ist die Studie relevant.",
       "Mittels methodischer Einschränkungen ist die Studie relevant.",
-      "Zwecks methodischer Einschränkungen ist die Studie relevant."
+      "Zwecks methodischer Einschränkungen ist die Studie relevant.",
+      "Ungeachtet methodischer Einschränkungen ist die Studie relevant."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Quan hệ nhượng bộ (obwohl) chuyển sang Nominalstil dùng „trotz“ hoặc „ungeachtet + Genitiv“."
     },
     {
@@ -534,9 +534,9 @@
      "q": "Welches Verb passt in der Wissenschaftssprache? „Für die Studie wurden Daten von fünfhundert Personen ___.“",
      "options": [
       "erhoben",
-      "eingegrenzt",
       "verallgemeinert",
-      "verdrängt"
+      "verdrängt",
+      "eingegrenzt"
      ],
      "answer": 0,
      "explain": "Collocation học thuật chuẩn: „Daten erheben“ (thu thập dữ liệu) → Partizip II „erhoben“."
@@ -545,20 +545,20 @@
      "type": "mcq",
      "q": "Welchen Kasus verlangen die Präpositionen „infolge“, „anhand“, „mittels“ und „ungeachtet“ in der Standardsprache?",
      "options": [
-      "Akkusativ",
-      "Dativ",
       "Genitiv",
-      "Nominativ"
+      "Nominativ",
+      "Dativ",
+      "Akkusativ"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Cả bốn giới từ học thuật này đều đi với Genitiv trong tiếng Đức chuẩn."
     },
     {
      "type": "mcq",
      "q": "Welche Formulierung vermeidet unnötige „Nominalitis“ am besten?",
      "options": [
-      "Die Durchführung der Überprüfung der Auswertung der Befragung erfolgte gestern.",
       "Wir brachten die Auswertung zur Durchführung.",
+      "Die Durchführung der Überprüfung der Auswertung der Befragung erfolgte gestern.",
       "Gestern wurden die Befragungsdaten systematisch ausgewertet.",
       "Es kam zur Vornahme der Auswertung der Erhebung."
      ],
@@ -569,12 +569,12 @@
      "type": "mcq",
      "q": "Was bedeutet „eine zu kleine Stichprobe schränkt die Aussagekraft ein“?",
      "options": [
-      "Die Ergebnisse sind besonders zuverlässig.",
       "Die Befunde lassen sich wegen der geringen Teilnehmerzahl nur begrenzt verallgemeinern.",
-      "Die Befragung hat zu viel Geld gekostet.",
-      "Die Teilnehmer haben alle Fragen identisch beantwortet."
+      "Die Teilnehmer haben alle Fragen identisch beantwortet.",
+      "Die Ergebnisse sind besonders zuverlässig.",
+      "Die Befragung hat zu viel Geld gekostet."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Mẫu khảo sát (Stichprobe) quá nhỏ làm giảm giá trị thuyết phục và khả năng khái quát hóa (Aussagekraft)."
     },
     {
@@ -1214,65 +1214,65 @@
      {
       "q": "Was kritisieren Lehrkräfte laut Abschnitt 1 häufig an ansonsten gut recherchierten Hausarbeiten?",
       "options": [
-       "Dass zu viele Literaturquellen verwendet wurden.",
-       "Dass der Text zerstückelt wirkt und einen klaren roten Faden vermissen lässt.",
+       "Dass die Schriftgröße zu klein gewählt wurde.",
        "Dass überhaupt keine Konnektoren vorkommen.",
-       "Dass die Schriftgröße zu klein gewählt wurde."
+       "Dass zu viele Literaturquellen verwendet wurden.",
+       "Dass der Text zerstückelt wirkt und einen klaren roten Faden vermissen lässt."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 1 chỉ rõ giảng viên thường không chê sai dữ kiện mà phê bình bài viết rời rạc và thiếu mạch ý chủ đạo."
      },
      {
       "q": "Wie unterscheidet Abschnitt 2 zwischen Kohärenz und Kohäsion?",
       "options": [
-       "Kohärenz betrifft die Rechtschreibung, Kohäsion die Zeichensetzung.",
        "Kohärenz meint den inhaltlich-logischen Zusammenhang, Kohäsion die sprachlichen Verknüpfungsmittel an der Textoberfläche.",
+       "Kohärenz betrifft die Rechtschreibung, Kohäsion die Zeichensetzung.",
        "Beide Begriffe bedeuten in der Sprachwissenschaft exakt dasselbe.",
        "Kohäsion gilt nur für mündliche Vorträge."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 2 đối chiếu rõ: ersteres (Kohärenz) là liên kết logic nội dung, letzteres (Kohäsion) là các phương tiện ngôn ngữ trên bề mặt."
      },
      {
       "q": "Warum schätzt der akademische Diskurs laut Abschnitt 3 das Adverb „vielmehr“ besonders?",
       "options": [
+       "Weil es nur in Zusammenfassungen stehen darf.",
        "Weil es eine Aufzählung beliebig verlängert.",
-       "Weil es nach einer Verneinung unmittelbar eine präzisere Deutung anbietet.",
        "Weil es das Verb ans Satzende stellt.",
-       "Weil es nur in Zusammenfassungen stehen darf."
+       "Weil es nach einer Verneinung unmittelbar eine präzisere Deutung anbietet."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 nhấn mạnh „vielmehr“ sau vế phủ định không chỉ bác bỏ mà còn đưa ra cách diễn giải chính xác hơn."
      },
      {
       "q": "Wie vermeiden geübte Autorinnen und Autoren laut Abschnitt 4 unklare Bezüge und Wortwiederholungen?",
       "options": [
-       "Indem sie ausschließlich das Pronomen „es“ benutzen.",
-       "Indem sie variierende Oberbegriffe sowie Verweiswörter wie „ersterer“ und „letzterer“ einsetzen.",
        "Indem sie jeden Abschnitt auf einen einzigen Satz verkürzen.",
-       "Indem sie auf alle Substantive verzichten."
+       "Indem sie ausschließlich das Pronomen „es“ benutzen.",
+       "Indem sie auf alle Substantive verzichten.",
+       "Indem sie variierende Oberbegriffe sowie Verweiswörter wie „ersterer“ und „letzterer“ einsetzen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 4 nêu cách dùng khái niệm bao quát biến hóa (diesen Ansatz, dieses Verfahren) và từ quy chiếu ersterer/letzterer."
      },
      {
       "q": "Welche Rolle spielt Metakommunikation in längeren wissenschaftlichen Arbeiten?",
       "options": [
-       "Sie lenkt vom eigentlichen Thema ab.",
-       "Sie stiftet Orientierung, indem sie ankündigt, was folgt oder zusammengefasst wird.",
        "Sie ersetzt das Literaturverzeichnis.",
-       "Sie ist nur in persönlichen Briefen zulässig."
+       "Sie ist nur in persönlichen Briefen zulässig.",
+       "Sie lenkt vom eigentlichen Thema ab.",
+       "Sie stiftet Orientierung, indem sie ankündigt, was folgt oder zusammengefasst wird."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 5 giải thích siêu giao tiếp như „Im Folgenden wird untersucht“ giúp định hướng cho người đọc trong công trình dài."
      },
      {
       "q": "Welche praktische Überprüfungsmethode empfiehlt Abschnitt 6 für eigene Textentwürfe?",
       "options": [
-       "Alle Konnektoren am Ende wieder zu löschen.",
+       "Jeden Absatz exakt gleich lang zu machen.",
        "Am Rand jedes Absatzes knapp dessen Funktion für die Gesamtfragestellung zu notieren.",
        "Den Text von hinten nach vorne zu lesen.",
-       "Jeden Absatz exakt gleich lang zu machen."
+       "Alle Konnektoren am Ende wieder zu löschen."
       ],
       "answer": 1,
       "explain": "Đoạn 6 giới thiệu kỹ thuật ghi chú bên lề tối đa 5 từ chức năng của từng đoạn đối với câu hỏi nghiên cứu."
@@ -1291,10 +1291,10 @@
      "type": "mcq",
      "q": "Welcher Konnektor passt nach einer Verneinung, um eine präzisere Deutung einzuleiten? „Die Studie beweist keinen Rückgang, ___ zeigt sie eine Verlagerung.“",
      "options": [
-      "folglich",
-      "vielmehr",
       "ferner",
-      "lediglich"
+      "vielmehr",
+      "lediglich",
+      "folglich"
      ],
      "answer": 1,
      "explain": "„vielmehr“ (đúng hơn là, trái lại) luôn đứng sau một vế phủ định để đính chính chính xác hơn."
@@ -1303,36 +1303,36 @@
      "type": "mcq",
      "q": "Welche Wortstellung nach „demzufolge“ ist grammatisch korrekt?",
      "options": [
-      "Demzufolge das Experiment wiederholt werden muss.",
       "Demzufolge muss das Experiment wiederholt werden.",
       "Demzufolge das Experiment muss wiederholt werden.",
+      "Demzufolge das Experiment wiederholt werden muss.",
       "Muss demzufolge das Experiment wiederholt werden."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„demzufolge“ là Konjunktionaladverb ở vị trí 1 nên động từ chia „muss“ đứng ngay vị trí 2."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz verwendet die Konstruktion „insofern ..., als ...“ korrekt?",
      "options": [
-      "Der Ansatz ist insofern überzeugend, als er beide Perspektiven verbindet.",
-      "Der Ansatz ist insofern überzeugend, weil er verbindet beide Perspektiven.",
       "Der Ansatz ist insofern überzeugend, als verbindet er beide Perspektiven.",
-      "Der Ansatz ist insofern überzeugend, dass er verbindet beide Perspektiven."
+      "Der Ansatz ist insofern überzeugend, dass er verbindet beide Perspektiven.",
+      "Der Ansatz ist insofern überzeugend, als er beide Perspektiven verbindet.",
+      "Der Ansatz ist insofern überzeugend, weil er verbindet beide Perspektiven."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "„insofern ..., als ...“ kéo động từ chia „verbindet“ xuống cuối mệnh đề phụ."
     },
     {
      "type": "mcq",
      "q": "Worauf bezieht sich „letzteres“ im Satz „Der Artikel vergleicht das klassische und das digitale Modell, wobei letzteres flexibler ist“?",
      "options": [
-      "auf den Artikel",
+      "auf beide Modelle zugleich",
       "auf das klassische Modell",
-      "auf das digitale Modell",
-      "auf beide Modelle zugleich"
+      "auf den Artikel",
+      "auf das digitale Modell"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "„letzteres“ luôn quy chiếu về đối tượng được nêu sau cùng („das digitale Modell“)."
     },
     {
@@ -1351,22 +1351,22 @@
      "type": "mcq",
      "q": "Welches Verb passt in die feste Verbindung „neue Fragen ___“?",
      "options": [
+      "verdeutlichen",
       "anführen",
       "aufwerfen",
-      "widmen",
-      "verdeutlichen"
+      "widmen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Collocation học thuật chuẩn: „Fragen / Probleme aufwerfen“ (đặt ra, làm nảy sinh câu hỏi)."
     },
     {
      "type": "mcq",
      "q": "Welches Wort ist ein gehobenes Synonym für „nur“ in wissenschaftlichen Texten?",
      "options": [
-      "überdies",
+      "hingegen",
       "lediglich",
-      "mithin",
-      "hingegen"
+      "überdies",
+      "mithin"
      ],
      "answer": 1,
      "explain": "„lediglich“ = chỉ đơn thuần là, trang trọng và học thuật hơn „nur“."
@@ -2016,32 +2016,32 @@
      {
       "q": "Welche Bedeutung hat transparentes Zitieren laut Abschnitt 1?",
       "options": [
-       "Es ist lediglich eine überholte bürokratische Formalität.",
        "Es bildet das Fundament wissenschaftlicher Redlichkeit und macht das Anknüpfen an Vorarbeiten sichtbar.",
        "Es verhindert, dass neue Hypothesen entwickelt werden.",
+       "Es ist lediglich eine überholte bürokratische Formalität.",
        "Es gilt ausschließlich für naturwissenschaftliche Fächer."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 1 nhấn mạnh trích dẫn minh bạch không phải hình thức hành chính mà là nền tảng của tính liêm chính khoa học."
      },
      {
       "q": "Warum empfiehlt Abschnitt 2 den direkten Blick in die Primärquelle?",
       "options": [
        "Weil Primärquellen immer kürzer sind als Zusammenfassungen.",
-       "Um stille Sinnverschiebungen aus zweiter Hand auszuschließen.",
        "Weil Sekundärliteratur gesetzlich verboten ist.",
-       "Um die Zahl der Fußnoten künstlich zu erhöhen."
+       "Um die Zahl der Fußnoten künstlich zu erhöhen.",
+       "Um stille Sinnverschiebungen aus zweiter Hand auszuschließen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Cuối đoạn 2 nêu rõ xem trực tiếp nguồn sơ cấp giúp loại trừ những sai lệch nghĩa âm thầm qua trung gian."
      },
      {
       "q": "Wie gehen erfahrene Autoren laut Abschnitt 3 mit wörtlichen Zitaten um?",
       "options": [
        "Sie setzen sie äußerst sparsam ein, etwa bei prägnanten Definitionen, und paraphrasieren sonst eigenständig.",
+       "Sie verwenden immer nur das Verb „behaupten“.",
        "Sie bauen in jeden Absatz mindestens drei lange Originalzitate ein.",
-       "Sie verzichten vollständig auf Quellenangaben, sobald sie paraphrasieren.",
-       "Sie verwenden immer nur das Verb „behaupten“."
+       "Sie verzichten vollständig auf Quellenangaben, sobald sie paraphrasieren."
       ],
       "answer": 0,
       "explain": "Đoạn 3 nêu người viết chuyên nghiệp dùng trích dẫn trực tiếp rất tiết chế và chủ yếu diễn giải lại kèm nguồn."
@@ -2049,34 +2049,34 @@
      {
       "q": "Was ist laut Abschnitt 4 häufig die Ursache unbeabsichtigter Plagiate?",
       "options": [
+       "Ein zu langes Literaturverzeichnis.",
        "Die Nutzung moderner Literaturverwaltungsprogramme.",
        "Chaotische Arbeitsorganisation, bei der kopierte Stellen nicht sofort mit bibliografischen Daten markiert werden.",
-       "Zu wenige wörtliche Zitate.",
-       "Ein zu langes Literaturverzeichnis."
+       "Zu wenige wörtliche Zitate."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 4 chỉ ra nguyên nhân phổ biến của đạo văn vô ý là tổ chức ghi chép lộn xộn, không ghi ngay tác giả/năm/trang."
      },
      {
       "q": "Wodurch entsteht laut Abschnitt 5 echter wissenschaftlicher Erkenntnisgewinn?",
       "options": [
-       "Durch das einseitige Sammeln von Belegen für die eigene Meinung.",
        "Durch kritische Auseinandersetzung mit stichhaltigen Gegenpositionen und widersprüchlichen Befunden.",
-       "Durch das Unterstellen persönlicher Motive bei anderen Forschern.",
-       "Durch das völlige Weglassen älterer Literatur."
+       "Durch das völlige Weglassen älterer Literatur.",
+       "Durch das einseitige Sammeln von Belegen für die eigene Meinung.",
+       "Durch das Unterstellen persönlicher Motive bei anderen Forschern."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 5 khẳng định chỉ sự đối thoại phản biện với quan điểm đối lập xác đáng và phát hiện trái ngược mới tạo giá trị nhận thức mới."
      },
      {
       "q": "Welchen Nutzen über die Universität hinaus schreibt Abschnitt 6 der Quellenarbeit zu?",
       "options": [
-       "Sie garantiert automatisch ein hohes Einstiegsgehalt.",
-       "Sie stärkt die Urteilssicherheit im Umgang mit ungeprüften Behauptungen in der Informationsgesellschaft.",
        "Sie ersetzt jede Form praktischer Berufserfahrung.",
-       "Sie macht das Lesen von Nachrichten überflüssig."
+       "Sie macht das Lesen von Nachrichten überflüssig.",
+       "Sie stärkt die Urteilssicherheit im Umgang mit ungeprüften Behauptungen in der Informationsgesellschaft.",
+       "Sie garantiert automatisch ein hohes Einstiegsgehalt."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 6 kết luận năng lực kiểm tra xuất xứ và bằng chứng giúp vững vàng phán đoán trong xã hội thông tin hiện đại."
      }
     ],
@@ -2093,60 +2093,60 @@
      "type": "mcq",
      "q": "Welches redeeinleitende Verb drückt eine deutliche sachliche Distanz oder Skepsis gegenüber einer Quelle aus?",
      "options": [
-      "nachweisen",
-      "belegen",
+      "bestätigen",
       "behaupten",
-      "bestätigen"
+      "belegen",
+      "nachweisen"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„behaupten“ (khẳng định chưa chắc đúng) tạo khoảng cách khách quan/hoài nghi, trái với „nachweisen/belegen/bestätigen“."
     },
     {
      "type": "mcq",
      "q": "Welche Position und welchen Kasus verlangt die Präposition „zufolge“ im Satz?",
      "options": [
+      "Sie steht immer am Satzende nach dem Verb.",
       "Sie steht vor dem Nomen mit Akkusativ.",
       "Sie steht nach dem Nomen mit Dativ (z. B. einer Studie zufolge).",
-      "Sie steht immer am Satzende nach dem Verb.",
       "Sie verlangt stets den Nominativ."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„zufolge“ đứng SAU danh từ ở Dativ: „einer aktuellen Studie zufolge“."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „eine ältere Theorie widerlegen“?",
      "options": [
-      "sie wörtlich in einer Fußnote wiederholen",
-      "durch Beweise zeigen, dass sie nicht zutrifft",
+      "sie in eine andere Sprache übersetzen",
       "sie als Primärquelle anerkennen",
-      "sie in eine andere Sprache übersetzen"
+      "durch Beweise zeigen, dass sie nicht zutrifft",
+      "sie wörtlich in einer Fußnote wiederholen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„widerlegen“ = bác bỏ hoàn toàn bằng chứng cứ khoa học."
     },
     {
      "type": "mcq",
      "q": "Welche Quelle gilt an deutschen Universitäten in der Regel als besonders zitierwürdig?",
      "options": [
-      "Ein anonymer Forumsbeitrag",
       "Ein Artikel in einer fachlich begutachteten Fachzeitschrift",
+      "Ein anonymer Forumsbeitrag",
       "Eine Werbebroschüre eines Unternehmens",
       "Ein privater Social-Media-Post"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Bài báo trên tạp chí chuyên ngành có phản biện (Peer-Review) đạt chuẩn zitierwürdig cao nhất."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt? „Die neue Studie ___ auf mehrere wegweisende Arbeiten der letzten Jahre.“",
      "options": [
-      "verweist",
+      "zerredet",
       "ahndet",
-      "unterstellt",
-      "zerredet"
+      "verweist",
+      "unterstellt"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "„auf + Akkusativ verweisen“ = dẫn chiếu tới."
     },
     {
@@ -2154,9 +2154,9 @@
      "q": "Was bedeutet der Ausdruck „Beweise schuldig bleiben“?",
      "options": [
       "keine stichhaltigen Belege für seine Behauptung liefern",
-      "Geld für eine Fachzeitschrift bezahlen müssen",
+      "eine Gegenposition überzeugend widerlegen",
       "alle Quellen korrekt im Literaturverzeichnis angeben",
-      "eine Gegenposition überzeugend widerlegen"
+      "Geld für eine Fachzeitschrift bezahlen müssen"
      ],
      "answer": 0,
      "explain": "„Beweise schuldig bleiben“ = không đưa ra được bằng chứng cho điều mình khẳng định."
@@ -2165,12 +2165,12 @@
      "type": "mcq",
      "q": "Welche indirekte Rede im Konjunktiv I ist grammatisch korrekt?",
      "options": [
-      "Die Forscherin führt aus, dass das Verfahren äußerst zuverlässig sei.",
-      "Die Forscherin führt aus, dass das Verfahren äußerst zuverlässig ist sein.",
       "Die Forscherin führt aus, dass das Verfahren äußerst zuverlässig waren.",
-      "Die Forscherin führt aus, das Verfahren sei gewesen sein."
+      "Die Forscherin führt aus, das Verfahren sei gewesen sein.",
+      "Die Forscherin führt aus, dass das Verfahren äußerst zuverlässig sei.",
+      "Die Forscherin führt aus, dass das Verfahren äußerst zuverlässig ist sein."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Konjunktiv I ngôi 3 số ít của „sein“ là „sei“."
     },
     {
@@ -2734,8 +2734,8 @@
       "q": "Welchen verbreiteten Denkfehler thematisiert der Text anhand spektakulärer Medienmeldungen?",
       "options": [
        "Die Verwechslung von statistischer Korrelation mit einem echten Kausalzusammenhang.",
-       "Die vollständige Ablehnung von Infografiken.",
        "Das Fehlen von Literaturverzeichnissen in Tageszeitungen.",
+       "Die vollständige Ablehnung von Infografiken.",
        "Die Verwendung zu kurzer Stichproben bei Umfragen zum Kaffeekonsum."
       ],
       "answer": 0,
@@ -2745,44 +2745,44 @@
       "q": "Welche Rolle spielt die sommerliche Hitze im Beispiel aus Abschnitt 2?",
       "options": [
        "Sie widerlegt die statistische Korrelation zwischen Eisverkauf und Badeunfällen.",
-       "Sie wirkt als übergeordnete Drittvariable, die beide Phänomene gleichzeitig antreibt.",
        "Sie beweist, dass Eisessen indirekt Unfälle verursacht.",
+       "Sie wirkt als übergeordnete Drittvariable, die beide Phänomene gleichzeitig antreibt.",
        "Sie tritt in komplexen medizinischen Studien niemals auf."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 2 dùng cái nóng mùa hè minh họa biến số thứ ba (Drittvariable) đồng thời thúc đẩy cả hai hiện tượng."
      },
      {
       "q": "Was verlangt das Prinzip der Falsifizierbarkeit nach Karl Popper laut Abschnitt 3?",
       "options": [
        "Dass jede wissenschaftliche Theorie am Ende falsch sein muss.",
-       "Dass eine Hypothese so klar formuliert ist, dass sie durch empirische Befunde prinzipiell widerlegbar ist.",
+       "Dass Daten niemals über längere Zeiträume geprüft werden.",
        "Dass Forschende auf Kontrollgruppen verzichten dürfen.",
-       "Dass Daten niemals über längere Zeiträume geprüft werden."
+       "Dass eine Hypothese so klar formuliert ist, dass sie durch empirische Befunde prinzipiell widerlegbar ist."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 định nghĩa Falsifizierbarkeit là giả thuyết phải đủ rõ để về nguyên tắc có thể bị bác bỏ bởi dữ kiện thực nghiệm."
      },
      {
       "q": "Welchen sprachlichen Rat gibt Abschnitt 4 Studierenden für ihre ersten eigenen Arbeiten?",
       "options": [
-       "Möglichst absolute Kausalaussagen wie „führt zwingend zu“ zu verwenden.",
        "Alternative Erklärungen konsequent zu verschweigen.",
        "Vorsichtige Verben wie „hindeuten auf“ oder „einhergehen mit“ zu nutzen und Gegenargumente offen zu nennen.",
+       "Möglichst absolute Kausalaussagen wie „führt zwingend zu“ zu verwenden.",
        "Auf Vergleiche mit früheren Studien zu verzichten."
       ],
-      "answer": 2,
+      "answer": 1,
       "explain": "Đoạn 4 khuyên dùng động từ diễn đạt thận trọng đúng mức độ bằng chứng và minh bạch nêu các cách giải thích thay thế."
      },
      {
       "q": "Wie bewertet der Autor in Abschnitt 5 die Tatsache, dass Theorien korrigiert werden müssen?",
       "options": [
        "Als gravierende Schwäche des modernen Wissenschaftssystems.",
-       "Als Beweis dafür, dass man Forschung grundsätzlich misstrauen sollte.",
        "Als größte Stärke der Wissenschaft, weil sie Selbstkorrektur statt ewiger Dogmen ermöglicht.",
+       "Als Beweis dafür, dass man Forschung grundsätzlich misstrauen sollte.",
        "Als Folge mangelnder Fachterminologie."
       ],
-      "answer": 2,
+      "answer": 1,
       "explain": "Đoạn 5 khẳng định khả năng tự hiệu chỉnh (Selbstkorrektur) chính là sức mạnh lớn nhất của khoa học."
      },
      {
@@ -2810,12 +2810,12 @@
      "type": "mcq",
      "q": "Welche Umformung von „Weil das Forschungsdesign lückenhaft war, verlor die Studie an Validität“ in den Nominalstil ist korrekt?",
      "options": [
+      "Mittels des lückenhaften Forschungsdesigns verlor die Studie an Validität.",
       "Zwecks des lückenhaften Forschungsdesigns verlor die Studie an Validität.",
-      "Infolge des lückenhaften Forschungsdesigns verlor die Studie an Validität.",
       "Ungeachtet des lückenhaften Forschungsdesigns verlor die Studie an Validität.",
-      "Mittels des lückenhaften Forschungsdesigns verlor die Studie an Validität."
+      "Infolge des lückenhaften Forschungsdesigns verlor die Studie an Validität."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Quan hệ nguyên nhân (weil) chuyển sang Nominalstil dùng „infolge + Genitiv“."
     },
     {
@@ -2823,9 +2823,9 @@
      "q": "Welcher Konnektor passt in die Lücke? „Eine Korrelation beweist noch keine Ursache; ___ ist oft eine dritte Variable verantwortlich.“",
      "options": [
       "vielmehr",
-      "folglich",
       "lediglich",
-      "zwecks"
+      "zwecks",
+      "folglich"
      ],
      "answer": 0,
      "explain": "Sau vế phủ định „beweist noch keine Ursache“, dùng „vielmehr“ để đính chính chính xác hơn."
@@ -2834,24 +2834,24 @@
      "type": "mcq",
      "q": "Welcher Satz mit „zufolge“ ist grammatisch korrekt?",
      "options": [
-      "Zufolge einer neuen Abhandlung sinkt die Fehlerquote.",
-      "Einer neuen Abhandlung zufolge sinkt die Fehlerquote.",
+      "Einer neuen Abhandlung zufolge die Fehlerquote sinkt.",
       "Eine neue Abhandlung zufolge sinkt die Fehlerquote.",
-      "Einer neuen Abhandlung zufolge die Fehlerquote sinkt."
+      "Zufolge einer neuen Abhandlung sinkt die Fehlerquote.",
+      "Einer neuen Abhandlung zufolge sinkt die Fehlerquote."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„zufolge“ đứng SAU cụm danh từ ở Dativ („Einer neuen Abhandlung zufolge“), kéo động từ chia „sinkt“ ở vị trí 2."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „eine Hypothese durch Daten oder Belege stärken“?",
      "options": [
-      "widerlegen",
-      "untermauern",
       "relativieren",
-      "ahnden"
+      "widerlegen",
+      "ahnden",
+      "untermauern"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„eine Hypothese untermauern“ = củng cố vững chắc giả thuyết bằng chứng cứ."
     },
     {
@@ -2859,11 +2859,11 @@
      "q": "Was bedeutet der Begriff „Validität“ in der empirischen Forschung?",
      "options": [
       "Die Gesamtzahl der Fußnoten einer Arbeit.",
-      "Die Gültigkeit einer Messung, also ob wirklich das gemessen wird, was gemessen werden soll.",
       "Die Geschwindigkeit, mit der ein Artikel veröffentlicht wird.",
-      "Die Länge eines Literaturverzeichnisses."
+      "Die Länge eines Literaturverzeichnisses.",
+      "Die Gültigkeit einer Messung, also ob wirklich das gemessen wird, was gemessen werden soll."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„Validität“ = độ giá trị đo lường trong nghiên cứu thực nghiệm."
     },
     {
@@ -2871,59 +2871,59 @@
      "q": "Welche Formulierung klingt im wissenschaftlichen Text am sachlichsten?",
      "options": [
       "Ich finde die Fallstudie echt mega aufschlussreich.",
+      "Man sieht ja sofort, dass die Fallstudie genial ist.",
       "Die Fallstudie erweist sich für die Fragestellung als äußerst aufschlussreich.",
-      "Meiner Meinung nach ist die Fallstudie total super.",
-      "Man sieht ja sofort, dass die Fallstudie genial ist."
+      "Meiner Meinung nach ist die Fallstudie total super."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Câu B dùng cấu trúc khách quan chuẩn C1 „sich als + Adj erweisen“."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt? „Vor dem Schreiben müssen wir die einschlägige Fachliteratur ___.“",
      "options": [
-      "sichten",
-      "unterstellen",
+      "ahnden",
       "entgegenhalten",
-      "ahnden"
+      "unterstellen",
+      "sichten"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Collocation chuẩn: „Fachliteratur sichten“ (rà soát, sàng lọc tài liệu chuyên ngành)."
     },
     {
      "type": "mcq",
      "q": "Welche Wortstellung ist nach „infolgedessen“ korrekt?",
      "options": [
-      "Infolgedessen musste die alte Theorie aufgegeben werden.",
-      "Infolgedessen die alte Theorie aufgegeben werden musste.",
       "Infolgedessen die alte Theorie musste aufgegeben werden.",
-      "Musste infolgedessen die alte Theorie aufgegeben werden."
+      "Musste infolgedessen die alte Theorie aufgegeben werden.",
+      "Infolgedessen die alte Theorie aufgegeben werden musste.",
+      "Infolgedessen musste die alte Theorie aufgegeben werden."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "„infolgedessen“ là trạng từ liên kết ở vị trí 1 nên động từ chia „musste“ đứng vị trí 2."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „eine Theorie auf den Prüfstand stellen“?",
      "options": [
-      "sie ungeprüft als Dogma übernehmen",
       "sie kritisch und gründlich auf ihre Stichhaltigkeit überprüfen",
       "sie sofort aus dem Literaturverzeichnis streichen",
-      "sie wörtlich in einer Prüfung abschreiben"
+      "sie wörtlich in einer Prüfung abschreiben",
+      "sie ungeprüft als Dogma übernehmen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Thành ngữ học thuật chỉ việc đưa một lý thuyết lên bàn kiểm chứng khắt khe."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektiv bedeutet „völlig widerspruchsfrei und einheitlich durchgehalten“?",
      "options": [
-      "lückenhaft",
-      "pauschal",
       "konsistent",
-      "zweifelhaft"
+      "pauschal",
+      "zweifelhaft",
+      "lückenhaft"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "„konsistent“ = nhất quán, đồng nhất và không mâu thuẫn nội tại."
     },
     {

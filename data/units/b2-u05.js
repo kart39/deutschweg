@@ -401,9 +401,9 @@
       "q": "Welches Alltagsbeispiel nennt der Text als Ausgangspunkt für die Sharing Economy?",
       "options": [
        "Eine Bohrmaschine und private Autos, die die meiste Zeit ungenutzt bleiben.",
+       "Hotels ohne Internetanschluss.",
        "Supermärkte, die rund um die Uhr geöffnet sind.",
-       "Fabriken, die zu viele Computer herstellen.",
-       "Hotels ohne Internetanschluss."
+       "Fabriken, die zu viele Computer herstellen."
       ],
       "answer": 0,
       "explain": "Đoạn 1 nêu ví dụ máy khoan dùng dưới 20 phút cả đời và ô tô đỗ 23 tiếng mỗi ngày."
@@ -411,31 +411,31 @@
      {
       "q": "Welchen Nutzen hatten frühe lokale Nachbarschaftsportale?",
       "options": [
-       "Sie machten alle Nutzer sofort reich.",
-       "Sie schonten Ressourcen und stärkten das soziale Miteinander.",
+       "Sie schafften alle Mietverträge ab.",
        "Sie ersetzten den gesamten Einzelhandel.",
-       "Sie schafften alle Mietverträge ab."
+       "Sie schonten Ressourcen und stärkten das soziale Miteinander.",
+       "Sie machten alle Nutzer sofort reich."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 2 nhấn mạnh các sáng kiến địa phương vừa tiết kiệm tài nguyên vừa gắn kết cộng đồng."
      },
      {
       "q": "Wie hat sich der Markt laut Abschnitt 3 verändert?",
       "options": [
-       "Große Unternehmen haben aus dem Teilen oft ein hochkommerzielles Geschäftsmodell gemacht.",
+       "Bewertungen wurden überall abgeschafft.",
        "Immer weniger Menschen nutzen Apps.",
        "Gewerbliche Investoren meiden Großstädte.",
-       "Bewertungen wurden überall abgeschafft."
+       "Große Unternehmen haben aus dem Teilen oft ein hochkommerzielles Geschäftsmodell gemacht."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 3 chỉ ra sự thương mại hóa mạnh mẽ khi các tập đoàn và nhà đầu tư tham gia."
      },
      {
       "q": "Welche negativen Folgen beschreibt der Text in Großstädten?",
       "options": [
-       "Zu viele leere Hotels und sinkende Touristenzahlen.",
-       "Knapper bezahlbarer Wohnraum und fehlende soziale Absicherung bei manchen Diensten.",
        "Ein Verbot für Fahrräder in Innenstädten.",
+       "Knapper bezahlbarer Wohnraum und fehlende soziale Absicherung bei manchen Diensten.",
+       "Zu viele leere Hotels und sinkende Touristenzahlen.",
        "Zu hohe Löhne für Fahrerinnen und Fahrer."
       ],
       "answer": 1,
@@ -444,12 +444,12 @@
      {
       "q": "Was rät der Text Verbraucherinnen und Verbrauchern am Ende?",
       "options": [
-       "Auf Leihsysteme komplett zu verzichten.",
        "Genau hinzusehen, ob eine Plattform wirklich nachhaltig und fair arbeitet.",
-       "Immer das teuerste Produkt zu kaufen.",
-       "Nur noch internationale Konzerne zu unterstützen."
+       "Auf Leihsysteme komplett zu verzichten.",
+       "Nur noch internationale Konzerne zu unterstützen.",
+       "Immer das teuerste Produkt zu kaufen."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn cuối khuyên người tiêu dùng nhìn kỹ đằng sau nhãn mác 'Sharing'."
      }
     ],
@@ -466,96 +466,96 @@
      "type": "mcq",
      "q": "Welcher Ausdruck verwandelt „Ein Unternehmen, das weltweit agiert“ korrekt in ein Partizipialattribut?",
      "options": [
-      "ein weltweit agierendes Unternehmen",
-      "ein weltweit agiertes Unternehmen",
+      "ein weltweit agiert Unternehmen",
       "ein weltweit agierenden Unternehmen",
-      "ein weltweit agiert Unternehmen"
+      "ein weltweit agierendes Unternehmen",
+      "ein weltweit agiertes Unternehmen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Nghĩa chủ động đang diễn ra dùng Partizip I (agierend) + đuôi '-es' (giống trung Nominativ sau 'ein')."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie die richtige Adjektivendung: „Wir nutzen eine schnell wachsend___ Plattform.“",
      "options": [
-      "e",
       "en",
       "es",
-      "er"
+      "er",
+      "e"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'eine Plattform' là giống cái Akkusativ → đuôi '-e': eine schnell wachsende Plattform."
     },
     {
      "type": "mcq",
      "q": "Wie lautet der Relativsatz zu „die monatlich anfallende Gebühr“?",
      "options": [
+      "die Gebühr, die man monatlich anfällt",
       "die Gebühr, die monatlich anfällt",
       "die Gebühr, die monatlich angefallen wird",
-      "die Gebühr, die monatlich anfallen lässt",
-      "die Gebühr, die man monatlich anfällt"
+      "die Gebühr, die monatlich anfallen lässt"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Partizip I ('anfallend') mang nghĩa chủ động ở hiện tại → 'die monatlich anfällt'."
     },
     {
      "type": "mcq",
      "q": "Welche Endung braucht das Partizip I im Dativ: „Mit einer fair arbeitend___ App spart man Geld.“?",
      "options": [
-      "en",
       "e",
+      "es",
       "er",
-      "es"
+      "en"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Sau 'mit einer' (Dativ giống cái) tính từ/phân từ luôn có đuôi '-en'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „die Auslastung erhöhen“?",
      "options": [
-      "Vorhandene Geräte oder Fahrzeuge häufiger und effizienter nutzen",
       "Mehr neue Produkte in der Fabrik bauen",
       "Die monatliche Gebühr verdoppeln",
+      "Vorhandene Geräte oder Fahrzeuge häufiger und effizienter nutzen",
       "Den Wohnraum im Zentrum verringern"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Auslastung' = công suất/hiệu suất sử dụng thực tế."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Eigentum“?",
      "options": [
-      "das",
+      "–",
       "der",
-      "die",
-      "–"
+      "das",
+      "die"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Danh từ chuẩn là 'das Eigentum'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „sich durchsetzen“ im wirtschaftlichen Kontext?",
      "options": [
-      "Erfolgreich werden und sich weit verbreiten",
-      "Sofort Konkurs anmelden",
+      "Eine Gebühr verlangen",
       "Auf dem Parkplatz stehen bleiben",
-      "Eine Gebühr verlangen"
+      "Erfolgreich werden und sich weit verbreiten",
+      "Sofort Konkurs anmelden"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'sich durchsetzen' = chiếm ưu thế, khẳng định vị thế trên thị trường."
     },
     {
      "type": "mcq",
      "q": "Welche Reihenfolge ist im Partizipialattribut richtig?",
      "options": [
-      "die im Stadtzentrum parkenden Autos",
       "die parkenden im Stadtzentrum Autos",
       "die Autos im Stadtzentrum parkenden",
+      "die im Stadtzentrum parkenden Autos",
       "die im Stadtzentrum Autos parkenden"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Bổ ngữ nơi chốn ('im Stadtzentrum') đứng trước Partizip I ('parkenden'), và Partizip I đứng ngay sát danh từ ('Autos')."
     },
     {
@@ -1144,9 +1144,9 @@
       "q": "Welche Vorteile des Onlinehandels werden im ersten Abschnitt genannt?",
       "options": [
        "Großes Angebot, schnelle Preisvergleiche und gesetzliches Widerrufsrecht.",
-       "Immer niedrigere Steuern für Städte.",
+       "Garantierte Haltbarkeit von zwanzig Jahren.",
        "Kostenlose Beratung vor Ort.",
-       "Garantierte Haltbarkeit von zwanzig Jahren."
+       "Immer niedrigere Steuern für Städte."
       ],
       "answer": 0,
       "explain": "Đoạn 1 liệt kê 3 ưu điểm: danh mục hàng lớn, so sánh giá nhanh và quyền trả hàng theo luật."
@@ -1154,32 +1154,32 @@
      {
       "q": "Warum entstehen im Modebereich besonders viele Retouren?",
       "options": [
+       "Weil der Warenkorb nach zehn Minuten gelöscht wird.",
        "Weil Modegeschäfte keine Größentabellen haben.",
        "Weil Kundinnen oft mehrere Größen bestellen und unpassende Teile kostenlos zurücksenden.",
-       "Weil die Post Pakete häufig verliert.",
-       "Weil der Warenkorb nach zehn Minuten gelöscht wird."
+       "Weil die Post Pakete häufig verliert."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 2 giải thích thói quen đặt nhiều cỡ cùng lúc để thử rồi trả miễn phí."
      },
      {
       "q": "Welches Problem beschreibt der Text für den stationären Einzelhandel?",
       "options": [
-       "Dass Kunden sich im Laden beraten lassen, aber das Produkt danach günstiger online kaufen.",
        "Dass niemand mehr in Großstädten wohnt.",
        "Dass die Öffnungszeiten zu lang sind.",
+       "Dass Kunden sich im Laden beraten lassen, aber das Produkt danach günstiger online kaufen.",
        "Dass keine Zahlungsarten akzeptiert werden."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 3 nêu hiện tượng khách nghe tư vấn tại tiệm nhưng lại đặt mua online giá rẻ hơn."
      },
      {
       "q": "Wie reagieren manche Unternehmen auf anfällige globale Lieferketten?",
       "options": [
-       "Sie schließen alle Lager.",
+       "Sie erhöhen die Versandkosten um hundert Prozent.",
        "Sie verlagern einen Teil der Produktion wieder näher an die Absatzmärkte.",
-       "Sie verzichten auf jede Logistik.",
-       "Sie erhöhen die Versandkosten um hundert Prozent."
+       "Sie schließen alle Lager.",
+       "Sie verzichten auf jede Logistik."
       ],
       "answer": 1,
       "explain": "Đoạn 4 nêu giải pháp đưa một phần sản xuất về gần thị trường tiêu thụ hơn."
@@ -1187,12 +1187,12 @@
      {
       "q": "Was können Konsumenten selbst gegen hohe Retourenquoten tun?",
       "options": [
-       "Keine Preisvergleiche mehr machen.",
-       "Maße vorab prüfen, langlebige Qualität wählen und Bestellungen bündeln.",
+       "Auf das Widerrufsrecht gesetzlich verzichten.",
        "Nur noch nachts bestellen.",
-       "Auf das Widerrufsrecht gesetzlich verzichten."
+       "Maße vorab prüfen, langlebige Qualität wählen und Bestellungen bündeln.",
+       "Keine Preisvergleiche mehr machen."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn cuối liệt kê 3 hành động cụ thể của người tiêu dùng."
      }
     ],
@@ -1209,60 +1209,60 @@
      "type": "mcq",
      "q": "Welches Partizipialattribut ersetzt „ein Paket, das gestern verschickt wurde“ korrekt?",
      "options": [
-      "ein gestern verschicktes Paket",
-      "ein gestern verschickendes Paket",
       "ein gestern verschickt Paket",
-      "ein gestern zu verschicktes Paket"
+      "ein gestern zu verschicktes Paket",
+      "ein gestern verschickendes Paket",
+      "ein gestern verschicktes Paket"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Nghĩa bị động đã hoàn thành dùng Partizip II ('verschickt') + đuôi '-es' (giống trung Nominativ sau 'ein')."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie die Endung: „Die online bestellt___ Schuhe kamen heute pünktlich an.“",
      "options": [
-      "en",
-      "e",
       "es",
-      "er"
+      "e",
+      "er",
+      "en"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'die Schuhe' là số nhiều Nominativ xác định ('die') → đuôi '-en': die online bestellten Schuhe."
     },
     {
      "type": "mcq",
      "q": "Wann benutzt man Partizip II statt Partizip I vor einem Nomen?",
      "options": [
-      "Bei passiver Bedeutung oder abgeschlossenen Handlungen",
-      "Immer bei zukünftigen Ereignissen",
+      "Wenn kein Artikel vor dem Nomen steht",
       "Nur bei aktiven Handlungen in der Gegenwart",
-      "Wenn kein Artikel vor dem Nomen steht"
+      "Bei passiver Bedeutung oder abgeschlossenen Handlungen",
+      "Immer bei zukünftigen Ereignissen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Partizip II mang nghĩa bị động (được/bị làm) hoặc hành động đã hoàn tất."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz enthält einen Fehler?",
      "options": [
+      "der weltweit wachsende Onlinehandel",
       "die gestern bestellende Ware",
       "die gestern bestellte Ware",
-      "der weltweit wachsende Onlinehandel",
       "das unbeschadet gelieferte Paket"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Hàng hóa 'được đặt' hôm qua (bị động) phải dùng Partizip II ('bestellte'), không dùng Partizip I ('bestellende')."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „ein Lieferengpass“?",
      "options": [
-      "Eine vorübergehende Knappheit, weil Waren nicht rechtzeitig geliefert werden können",
       "Ein besonders schneller Expressversand",
       "Ein Rabatt für Stammkunden",
-      "Ein kostenloses Rücksendeetikett"
+      "Ein kostenloses Rücksendeetikett",
+      "Eine vorübergehende Knappheit, weil Waren nicht rechtzeitig geliefert werden können"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Lieferengpass' = sự khan hiếm, đứt gãy nguồn cung tạm thời."
     },
     {
@@ -1270,9 +1270,9 @@
      "q": "Welcher Artikel gehört zu „Warenkorb“?",
      "options": [
       "der",
-      "die",
+      "–",
       "das",
-      "–"
+      "die"
      ],
      "answer": 0,
      "explain": "Danh từ chuẩn là 'der Warenkorb, die Warenkörbe'."
@@ -1281,24 +1281,24 @@
      "type": "mcq",
      "q": "Welches Verb bedeutet „einen mangelhaften Artikel beim Händler beanstanden“?",
      "options": [
+      "teilen",
       "reklamieren",
       "verpacken",
-      "teilen",
       "boomen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'reklamieren' = khiếu nại hàng lỗi/hư hỏng."
     },
     {
      "type": "mcq",
      "q": "Wie lautet der Relativsatz zu „die wiederverwendbar verpackten Produkte“?",
      "options": [
-      "die Produkte, die wiederverwendbar verpackt wurden",
       "die Produkte, die wiederverwendbar verpacken",
+      "die Produkte, die wiederverwendbar verpackt wurden",
       "die Produkte, die man verpackend ist",
       "die Produkte, die morgen verpacken werden"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Partizip II ('verpackten') tương ứng mệnh đề quan hệ bị động quá khứ."
     },
     {
@@ -1887,9 +1887,9 @@
      {
       "q": "Wie kommen extrem niedrige Preise bei Fast Fashion laut Text oft zustande?",
       "options": [
-       "Durch fehlende Steuern in Europa.",
-       "Durch das Ignorieren von Umweltauflagen und gedrückte Löhne in der Lieferkette.",
        "Durch besonders kleine Geschäfte.",
+       "Durch das Ignorieren von Umweltauflagen und gedrückte Löhne in der Lieferkette.",
+       "Durch fehlende Steuern in Europa.",
        "Durch kostenlose Reparaturen."
       ],
       "answer": 1,
@@ -1898,45 +1898,45 @@
      {
       "q": "Welches Ziel verfolgt das deutsche Lieferkettengesetz?",
       "options": [
+       "Es ersetzt alle Siegel durch Werbung.",
        "Es verbietet den Import von Kleidung.",
-       "Es verpflichtet große Firmen, Menschenrechte und Umweltstandards bei Zulieferern zu prüfen.",
        "Es senkt den Mindestlohn in der Textilbranche.",
-       "Es ersetzt alle Siegel durch Werbung."
+       "Es verpflichtet große Firmen, Menschenrechte und Umweltstandards bei Zulieferern zu prüfen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 nêu rõ nghĩa vụ kiểm tra nhân quyền và tiêu chuẩn môi trường tại các nhà cung cấp."
      },
      {
       "q": "Was soll das europäische ‚Recht auf Reparatur‘ bewirken?",
       "options": [
+       "Dass nur noch Secondhand verkauft wird.",
        "Dass Geräte leichter und günstiger repariert werden können, statt sie wegzuwerfen.",
        "Dass alte Handys sofort verboten werden.",
-       "Dass nur noch Secondhand verkauft wird.",
        "Dass Reparaturen teurer als Neukäufe werden."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 3 giải thích mục tiêu giúp thiết bị dễ sửa và chi phí hợp lý hơn."
      },
      {
       "q": "Was versteht man laut Text unter ‚Greenwashing‘?",
       "options": [
-       "Das umweltfreundliche Waschen von Jeans.",
-       "Vage, irreführende Öko-Versprechen ohne unabhängig geprüfte Belege.",
        "Die korrekte Kennzeichnung von Fair-Trade-Produkten.",
-       "Das Recycling von Glasflaschen."
+       "Das umweltfreundliche Waschen von Jeans.",
+       "Das Recycling von Glasflaschen.",
+       "Vage, irreführende Öko-Versprechen ohne unabhängig geprüfte Belege."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 4 mô tả hành vi in các từ mơ hồ như 'tự nhiên', 'xanh' mà không có bằng chứng kiểm chứng."
      },
      {
       "q": "Welche Botschaft vermittelt der letzte Abschnitt?",
       "options": [
-       "Verantwortungsvoller Konsum heißt, Qualität vor Masse zu stellen und bewusst auszuwählen.",
        "Man darf niemals wieder neue Kleidung kaufen.",
-       "Einzelne Verbraucher können nichts verändern.",
-       "Ökobilanzen sind nur für Großkonzerne wichtig."
+       "Verantwortungsvoller Konsum heißt, Qualität vor Masse zu stellen und bewusst auszuwählen.",
+       "Ökobilanzen sind nur für Großkonzerne wichtig.",
+       "Einzelne Verbraucher können nichts verändern."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn cuối khẳng định tiêu dùng có trách nhiệm là ưu tiên chất lượng hơn số lượng và đòi hỏi minh bạch."
      }
     ],
@@ -1953,24 +1953,24 @@
      "type": "mcq",
      "q": "Welches Gerundivum ersetzt „eine Aufgabe, die gelöst werden muss“ korrekt?",
      "options": [
-      "eine zu lösende Aufgabe",
       "eine lösende Aufgabe",
       "eine gelöste Aufgabe",
-      "eine zu gelöste Aufgabe"
+      "eine zu gelöste Aufgabe",
+      "eine zu lösende Aufgabe"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Gerundivum = zu + Partizip I + đuôi tính từ → 'eine zu lösende Aufgabe'."
     },
     {
      "type": "mcq",
      "q": "Wie bildet man das Gerundivum beim trennbaren Verb „einhalten“?",
      "options": [
-      "die einzuhaltenden Regeln",
       "die zu einhaltenden Regeln",
-      "die einhaltenden zu Regeln",
-      "die eingehaltenen Regeln"
+      "die eingehaltenen Regeln",
+      "die einzuhaltenden Regeln",
+      "die einhaltenden zu Regeln"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Với động từ tách, 'zu' chèn vào giữa tiền tố và gốc động từ: ein-zu-haltend-en."
     },
     {
@@ -1978,9 +1978,9 @@
      "q": "Welche Bedeutung hat „ein leicht zu reparierendes Gerät“?",
      "options": [
       "ein Gerät, das leicht repariert werden kann",
-      "ein Gerät, das gerade selbst repariert",
       "ein Gerät, das gestern zerstört wurde",
-      "ein Gerät, das nicht repariert werden darf"
+      "ein Gerät, das nicht repariert werden darf",
+      "ein Gerät, das gerade selbst repariert"
      ],
      "answer": 0,
      "explain": "Gerundivum mang nghĩa bị động có thể/phải được làm gì ('repariert werden kann')."
@@ -1989,36 +1989,36 @@
      "type": "mcq",
      "q": "Welcher Satz ist grammatikalisch richtig?",
      "options": [
-      "Wir stehen vor einem dringend zu lösenden Problem.",
+      "Wir stehen vor einem dringend zu lösen Problem.",
       "Wir stehen vor einem dringend zu gelösten Problem.",
       "Wir stehen vor einem dringend lösenden zu Problem.",
-      "Wir stehen vor einem dringend zu lösen Problem."
+      "Wir stehen vor einem dringend zu lösenden Problem."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Sau 'vor einem' (Dativ giống trung) dùng đuôi '-en': 'einem dringend zu lösenden Problem'."
     },
     {
      "type": "mcq",
      "q": "Was versteht man unter „Greenwashing“?",
      "options": [
-      "Irreführende Werbung, die Produkte umweltfreundlicher darstellt, als sie sind",
+      "Ein Reparaturcafé für alte Elektronik",
       "Das umweltschonende Waschen von Baumwolle",
-      "Ein Gesetz zum Schutz von Flüssen",
-      "Ein Reparaturcafé für alte Elektronik"
+      "Irreführende Werbung, die Produkte umweltfreundlicher darstellt, als sie sind",
+      "Ein Gesetz zum Schutz von Flüssen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Greenwashing' = quảng cáo đánh bóng xanh giả tạo."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Siegel“?",
      "options": [
+      "–",
       "das",
-      "der",
       "die",
-      "–"
+      "der"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Danh từ chuẩn là 'das Siegel, die Siegel'."
     },
     {
@@ -2026,8 +2026,8 @@
      "q": "Welches Verb passt: „Viele junge Leute ___ bewusst auf billige Wegwerfmode.“",
      "options": [
       "verzichten",
-      "ausbeuten",
       "reparieren",
+      "ausbeuten",
       "kennzeichnen"
      ],
      "answer": 0,
@@ -2037,12 +2037,12 @@
      "type": "mcq",
      "q": "Was misst eine „Ökobilanz“?",
      "options": [
+      "Die Anzahl der Farben auf einem Preisschild",
       "Die gesamten Umweltwirkungen eines Produkts von der Herstellung bis zur Entsorgung",
       "Den Gewinn eines Modegeschäfts im Monat",
-      "Die Geschwindigkeit eines Paketzustellers",
-      "Die Anzahl der Farben auf einem Preisschild"
+      "Die Geschwindigkeit eines Paketzustellers"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'Ökobilanz' đánh giá toàn bộ tác động sinh thái của sản phẩm."
     },
     {
@@ -2548,12 +2548,12 @@
      {
       "q": "Warum stößt das klassische lineare Wirtschaftsmodell laut dem Text an seine Grenzen?",
       "options": [
-       "Wegen knapper werdender Rohstoffe und überfüllter Mülldeponien.",
-       "Weil niemand mehr Produkte kauft.",
        "Weil es zu viele Reparaturbetriebe gibt.",
-       "Weil Transportwege zu kurz geworden sind."
+       "Weil Transportwege zu kurz geworden sind.",
+       "Weil niemand mehr Produkte kauft.",
+       "Wegen knapper werdender Rohstoffe und überfüllter Mülldeponien."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 1 chỉ ra mô hình tuyến tính chạm giới hạn do tài nguyên cạn dần và bãi rác quá tải."
      },
      {
@@ -2570,21 +2570,21 @@
      {
       "q": "Welchen Vorteil bietet es, wenn Hersteller Geräte nur vermieten statt verkaufen?",
       "options": [
-       "Die Kunden müssen alle Reparaturen selbst bezahlen.",
        "Der Hersteller hat ein eigenes Interesse an maximaler Langlebigkeit, da Reparaturen seinen Gewinn schmälern.",
        "Die Geräte werden schneller weggeworfen.",
+       "Die Kunden müssen alle Reparaturen selbst bezahlen.",
        "Es fallen keine monatlichen Gebühren an."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 3 giải thích vì nhà sản xuất giữ quyền sở hữu nên họ muốn sản phẩm bền nhất để đỡ tốn phí sửa."
      },
      {
       "q": "Was passiert beim professionellen Refurbishing von Elektronik?",
       "options": [
-       "Alte Geräte werden direkt vernichtet.",
+       "Die Preise sind doppelt so hoch wie bei Neugeräten.",
        "Gebrauchte Geräte werden sorgfältig geprüft, bei Bedarf repariert und mit Garantie verkauft.",
        "Nur neue Gehäuse werden aus Plastik gedruckt.",
-       "Die Preise sind doppelt so hoch wie bei Neugeräten."
+       "Alte Geräte werden direkt vernichtet."
       ],
       "answer": 1,
       "explain": "Đoạn 4 mô tả quy trình kiểm tra chất lượng, thay linh kiện và bán lại kèm bảo hành đầy đủ."
@@ -2592,20 +2592,20 @@
      {
       "q": "Welche politischen Instrumente können den Wandel laut dem letzten Abschnitt ankurbeln?",
       "options": [
-       "Das Verbot von Secondhand-Läden.",
        "Verbindliche Umweltauflagen, Regeln gegen Greenwashing und Steuervorteile für Reparaturbetriebe.",
-       "Höhere Subventionen für Lockangebote.",
-       "Weniger Transparenz in der Wertschöpfungskette."
+       "Weniger Transparenz in der Wertschöpfungskette.",
+       "Das Verbot von Secondhand-Läden.",
+       "Höhere Subventionen für Lockangebote."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn cuối liệt kê 3 công cụ chính sách thúc đẩy kinh tế tuần hoàn."
      },
      {
       "q": "Wie lautet die Kernaussage des Artikels?",
       "options": [
        "Wirtschaftlicher Erfolg und ökologische Verantwortung lassen sich in einer Kreislaufwirtschaft verbinden.",
-       "Massenproduktion ist das einzige rentable Modell.",
        "Verbraucher sollten grundsätzlich nichts mehr mieten.",
+       "Massenproduktion ist das einzige rentable Modell.",
        "E-Commerce verhindert jede Nachhaltigkeit."
       ],
       "answer": 0,
@@ -2626,8 +2626,8 @@
      "q": "Welcher Ausdruck steht im Aktiv (Partizip I)?",
      "options": [
       "der wachsende Markt",
-      "das gelieferte Paket",
       "die zu prüfende Ware",
+      "das gelieferte Paket",
       "das verpackte Buch"
      ],
      "answer": 0,
@@ -2649,36 +2649,36 @@
      "type": "mcq",
      "q": "Welche Endung ist richtig: „Mit einem neu ___ (entwickeln, Part. II) Verfahren sparen wir Energie.“?",
      "options": [
-      "entwickelten",
+      "entwickelnden",
       "entwickelte",
-      "entwickeltes",
-      "entwickelnden"
+      "entwickelten",
+      "entwickeltes"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Sau 'mit einem' (Dativ giống trung) dùng đuôi '-en': entwickelten."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „etwas in Kauf nehmen“?",
      "options": [
-      "Einen Nachteil oder ein Risiko bewusst akzeptieren, um ein Ziel zu erreichen",
-      "Etwas sehr billig im Ausverkauf erwerben",
       "Ein Produkt sofort reklamieren",
+      "Etwas sehr billig im Ausverkauf erwerben",
+      "Einen Nachteil oder ein Risiko bewusst akzeptieren, um ein Ziel zu erreichen",
       "Den Einkaufswagen im Supermarkt lassen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'etwas in Kauf nehmen' = chấp nhận đánh đổi một bất lợi."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „auf Kosten der Umwelt gehen“?",
      "options": [
-      "Der Umwelt schaden, um selbst Vorteile oder niedrigere Preise zu erzielen",
       "Umweltprojekte finanziell fördern",
-      "Im Bioladen mit Karte zahlen",
-      "Verpackungsmüll recyceln"
+      "Verpackungsmüll recyceln",
+      "Der Umwelt schaden, um selbst Vorteile oder niedrigere Preise zu erzielen",
+      "Im Bioladen mit Karte zahlen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'auf Kosten + Genitiv gehen' = gây thiệt hại cho đối tượng đó."
     },
     {
@@ -2686,8 +2686,8 @@
      "q": "Welcher Artikel gehört zu „Umsatz“?",
      "options": [
       "der",
-      "die",
       "das",
+      "die",
       "–"
      ],
      "answer": 0,
@@ -2697,24 +2697,24 @@
      "type": "mcq",
      "q": "Welcher Satz wandelt „Kunden, die regelmäßig einkaufen“ korrekt um?",
      "options": [
-      "regelmäßig einkaufende Kunden",
-      "regelmäßig eingekaufte Kunden",
       "regelmäßig einzukaufende Kunden",
-      "regelmäßig einkaufen Kunden"
+      "regelmäßig einkaufende Kunden",
+      "regelmäßig einkaufen Kunden",
+      "regelmäßig eingekaufte Kunden"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Khách hàng tự thực hiện hành động mua → Partizip I 'einkaufende'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz wandelt „Produkte, die schnell abgesetzt werden können“ um?",
      "options": [
+      "schnell zu absetzende Produkte",
       "schnell abzusetzende Produkte",
-      "schnell abgesetzte Produkte",
       "schnell absetzende Produkte",
-      "schnell zu absetzende Produkte"
+      "schnell abgesetzte Produkte"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Động từ tách 'absetzen' ở dạng Gerundivum → 'abzusetzende Produkte'."
     },
     {
@@ -2734,8 +2734,8 @@
      "q": "Welches Adjektiv beschreibt ein gutes Verhältnis von Preis und Qualität?",
      "options": [
       "preiswert",
-      "irreführend",
       "anfällig",
+      "irreführend",
       "gewerblich"
      ],
      "answer": 0,

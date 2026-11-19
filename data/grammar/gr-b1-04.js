@@ -10,12 +10,12 @@
    "type": "mcq",
    "q": "Welche Form des trennbaren Verbs \"einkaufen\" ist mit \"zu\" KORREKT?",
    "options": [
-    "einzukaufen",
+    "eingekauft",
     "zu einkaufen",
     "einkaufenzu",
-    "eingekauft"
+    "einzukaufen"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Với động từ tách, 'zu' được kẹp vào giữa tiền tố và gốc động từ: 'einzukaufen'."
   },
   {
@@ -34,48 +34,48 @@
    "type": "mcq",
    "q": "Er hat beschlossen, mit dem Rauchen ___.",
    "options": [
-    "aufzuhören",
-    "zu aufhören",
     "aufhören",
-    "aufgehört"
+    "aufgehört",
+    "aufzuhören",
+    "zu aufhören"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'aufhören' là động từ tách, dạng nguyên mẫu có 'zu' là 'aufzuhören'."
   },
   {
    "type": "mcq",
    "q": "Hast du Lust, heute Abend mit mir ins Kino ___?",
    "options": [
-    "zu gehen",
-    "gehen",
     "zugehen",
-    "gegangen"
+    "gegangen",
+    "zu gehen",
+    "gehen"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Cấu trúc 'Lust haben' đi với 'zu + Infinitiv': 'zu gehen'."
   },
   {
    "type": "mcq",
    "q": "Welche Satzstellung ist grammatisch RICHTIG?",
    "options": [
-    "Ich versuche, die schwere Prüfung ohne Fehler zu bestehen.",
     "Ich versuche, zu bestehen die schwere Prüfung ohne Fehler.",
-    "Ich versuche, die schwere Prüfung zu bestehen ohne Fehler.",
-    "Ich versuche, zu die schwere Prüfung bestehen."
+    "Ich versuche, die schwere Prüfung ohne Fehler zu bestehen.",
+    "Ich versuche, zu die schwere Prüfung bestehen.",
+    "Ich versuche, die schwere Prüfung zu bestehen ohne Fehler."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'zu bestehen' bắt buộc phải đứng ở vị trí cuối cùng của mệnh đề nguyên mẫu."
   },
   {
    "type": "mcq",
    "q": "Es ist strengstens verboten, in diesem Gebäude ___.",
    "options": [
-    "zu rauchen",
-    "rauchen",
     "geraucht",
-    "zurauchen"
+    "zurauchen",
+    "rauchen",
+    "zu rauchen"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Sau cấu trúc 'Es ist verboten', động từ đơn đi với 'zu': 'zu rauchen'."
   },
   {

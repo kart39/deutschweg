@@ -422,21 +422,21 @@
      {
       "q": "Welchen Gegensatz beschreibt Abschnitt 1 bei einer Zugreise durch Deutschland?",
       "options": [
-       "Zwischen überfüllten Ballungsräumen mit Wohnungsnot und ländlichen Regionen mit Folgen anhaltender Landflucht.",
-       "Zwischen Norddeutschland ohne Züge und Süddeutschland ohne Städte.",
        "Zwischen modernen Industriegebieten und historischen Universitäten.",
-       "Zwischen günstigen Großstädten und überteuerten Dörfern."
+       "Zwischen Norddeutschland ohne Züge und Süddeutschland ohne Städte.",
+       "Zwischen günstigen Großstädten und überteuerten Dörfern.",
+       "Zwischen überfüllten Ballungsräumen mit Wohnungsnot und ländlichen Regionen mit Folgen anhaltender Landflucht."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 1 đối chiếu hai thực tế: các đại đô thị bùng nổ khan hiếm nhà ở và các vùng nông thôn đóng cửa hàng quán vì Landflucht."
      },
      {
       "q": "Welche zwei langfristigen Kräfte wirken laut Abschnitt 2 gleichzeitig auf den Wohnungsmarkt ein?",
       "options": [
-       "Steigende Geburtenraten und sinkende Lebenserwartung.",
+       "Strikte Mietpreisverbote und sinkende Baupreise.",
        "Fortschreitende Urbanisierung und demografischer Wandel mit rascher Alterung.",
-       "Die Abschaffung von Hochschulen und der Rückgang digitaler Berufe.",
-       "Strikte Mietpreisverbote und sinkende Baupreise."
+       "Steigende Geburtenraten und sinkende Lebenserwartung.",
+       "Die Abschaffung von Hochschulen und der Rückgang digitaler Berufe."
       ],
       "answer": 1,
       "explain": "Đoạn 2 chỉ rõ hai động lực song hành: quá trình đô thị hóa (Urbanisierung) và biến đổi nhân khẩu học (demografischer Wandel)."
@@ -444,10 +444,10 @@
      {
       "q": "Warum warnen Stadtsoziologen laut Abschnitt 3 vor ungebremster Gentrifizierung?",
       "options": [
-       "Weil sanierte Altbauten optisch unattraktiv wirken.",
+       "Weil junge Familien gar nicht mehr in Städten leben möchten.",
        "Weil die Verdrängung von Geringverdienern und wichtigen Berufsgruppen den sozialen Zusammenhalt und die Infrastruktur gefährdet.",
        "Weil dadurch sämtliche Restaurants in der Innenstadt schließen müssen.",
-       "Weil junge Familien gar nicht mehr in Städten leben möchten."
+       "Weil sanierte Altbauten optisch unattraktiv wirken."
       ],
       "answer": 1,
       "explain": "Đoạn 3 nêu rõ việc đẩy cư dân thu nhập thấp và các nghề thiết yếu (điều dưỡng, giáo viên mầm non, thợ) khỏi thành phố làm mất cân bằng hạ tầng và gắn kết xã hội."
@@ -455,10 +455,10 @@
      {
       "q": "Welche konkrete Maßnahme nennt Abschnitt 4 zur Entlastung großer Städte?",
       "options": [
-       "Das vollständige Verbot von Neubauten in Innenstädten.",
+       "Die Erhöhung der Mieten für alle Gewerbeflächen.",
        "Die Umgestaltung leerstehender Büroflächen zu bezahlbaren Wohnquartieren und die Stärkung von Genossenschaften.",
        "Die Schließung gemeinnütziger Wohnungsbauprojekte.",
-       "Die Erhöhung der Mieten für alle Gewerbeflächen."
+       "Das vollständige Verbot von Neubauten in Innenstädten."
       ],
       "answer": 1,
       "explain": "Đoạn 4 đề cập việc cải tạo văn phòng bỏ trống thành nhà ở giá phải chăng và củng cố các hợp tác xã phi lợi nhuận."
@@ -466,23 +466,23 @@
      {
       "q": "Unter welchen Voraussetzungen können ländliche Regionen laut Abschnitt 5 wieder attraktiver werden?",
       "options": [
-       "Wenn Glasfasernetze, verlässlicher Nahverkehr und moderne medizinische Versorgung ausgebaut werden.",
        "Wenn mobiles Arbeiten gesetzlich eingeschränkt wird.",
        "Wenn ausschließlich Senioren aufs Land ziehen.",
+       "Wenn Glasfasernetze, verlässlicher Nahverkehr und moderne medizinische Versorgung ausgebaut werden.",
        "Wenn alle Großstädte ihre Universitäten schließen."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 5 liệt kê rõ: cáp quang, giao thông công cộng đáng tin cậy, trung tâm y tế hiện đại cùng mô hình làm việc phân tán."
      },
      {
       "q": "Welche Perspektive fordert der Autor im Schlussabschnitt für Stadt und Land?",
       "options": [
-       "Einen noch schärferen Wettbewerb um Fördermittel.",
-       "Sie nicht mehr als Konkurrenten, sondern als einander ergänzende Lebensräume zu begreifen.",
        "Den vollständigen Rückzug aus ländlichen Gemeinden.",
-       "Die Verlagerung aller Wohnungen in Industriegebiete."
+       "Einen noch schärferen Wettbewerb um Fördermittel.",
+       "Die Verlagerung aller Wohnungen in Industriegebiete.",
+       "Sie nicht mehr als Konkurrenten, sondern als einander ergänzende Lebensräume zu begreifen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 6 kêu gọi coi thành thị và nông thôn là các không gian sống bổ trợ nhau chứ không phải đối thủ."
      }
     ],
@@ -499,57 +499,57 @@
      "type": "mcq",
      "q": "Welches Partizipialattribut ersetzt den Relativsatz „die Mieten, die seit Jahren stark steigen“ korrekt?",
      "options": [
+      "die seit Jahren stark steigen Mieten",
       "die seit Jahren stark gestiegenen Mieten",
       "die seit Jahren stark steigenden Mieten",
-      "die seit Jahren stark zu steigenden Mieten",
-      "die seit Jahren stark steigen Mieten"
+      "die seit Jahren stark zu steigenden Mieten"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Hành động chủ động đang diễn ra (steigen) dùng Partizip I: „steigenden“."
     },
     {
      "type": "mcq",
      "q": "Welches Partizipialattribut entspricht „das Gesetz, das gestern vom Stadtrat verabschiedet wurde“?",
      "options": [
-      "das gestern vom Stadtrat verabschiedende Gesetz",
-      "das gestern vom Stadtrat verabschiedete Gesetz",
+      "das gestern vom Stadtrat verabschiedeten Gesetz",
       "das gestern vom Stadtrat zu verabschiedende Gesetz",
-      "das gestern vom Stadtrat verabschiedeten Gesetz"
+      "das gestern vom Stadtrat verabschiedete Gesetz",
+      "das gestern vom Stadtrat verabschiedende Gesetz"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Nghĩa bị động đã hoàn thành (wurde verabschiedet) dùng Partizip II + đuôi „-e“: „verabschiedete“."
     },
     {
      "type": "mcq",
      "q": "Welche Bedeutung trägt das Gerundivum in „die dringend zu lösende Wohnungsfrage“?",
      "options": [
-      "die Wohnungsfrage, die schon gelöst wurde",
       "die Wohnungsfrage, die dringend gelöst werden muss",
+      "die Wohnungsfrage, die von selbst verschwindet",
       "die Wohnungsfrage, die niemand lösen will",
-      "die Wohnungsfrage, die von selbst verschwindet"
+      "die Wohnungsfrage, die schon gelöst wurde"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Gerundivum („zu + Partizip I“) diễn tả nghĩa bị động cần phải/có thể: „gelöst werden muss“."
     },
     {
      "type": "mcq",
      "q": "Warum steht in „die in die Städte abgewanderten Fachkräfte“ das Partizip II trotz aktiver Bedeutung?",
      "options": [
-      "Weil „abwandern“ ein intransitives Verb der Ortsveränderung mit „sein“ ist und ein abgeschlossenes Ereignis bezeichnet.",
-      "Weil „abwandern“ immer im Passiv steht.",
       "Weil Fachkräfte im Plural stehen.",
-      "Weil das Partizip I von „abwandern“ nicht existiert."
+      "Weil das Partizip I von „abwandern“ nicht existiert.",
+      "Weil „abwandern“ immer im Passiv steht.",
+      "Weil „abwandern“ ein intransitives Verb der Ortsveränderung mit „sein“ ist und ein abgeschlossenes Ereignis bezeichnet."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Động từ nội động chuyển vị trí/trạng thái chia với „sein“ dùng Partizip II để diễn tả hành động chủ động đã hoàn tất."
     },
     {
      "type": "mcq",
      "q": "Was versteht man unter „Gentrifizierung“?",
      "options": [
-      "Die Rückkehr junger Familien in kleine Dörfer.",
-      "Die Aufwertung von Stadtvierteln mit steigenden Mieten und der Verdrängung einkommensschwächerer Bewohner.",
       "Den Ausbau schneller Glasfasernetze auf dem Land.",
+      "Die Aufwertung von Stadtvierteln mit steigenden Mieten und der Verdrängung einkommensschwächerer Bewohner.",
+      "Die Rückkehr junger Familien in kleine Dörfer.",
       "Die Erhöhung der Geburtenrate in Metropolen."
      ],
      "answer": 1,
@@ -559,24 +559,24 @@
      "type": "mcq",
      "q": "Welches Verb passt? „Leerstehende Bürogebäude lassen sich zu bezahlbaren Wohnungen ___.“",
      "options": [
+      "koexistieren",
       "umgestalten",
-      "abwandern",
       "verabschieden",
-      "koexistieren"
+      "abwandern"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„etwas zu etwas umgestalten“ = cải tạo, tái thiết kế thành."
     },
     {
      "type": "mcq",
      "q": "Welcher Ausdruck bedeutet „bei Weitem nicht ausreichen“?",
      "options": [
-      "gerade eben genügen",
       "noch sehr weit davon entfernt sein zu genügen",
+      "das Angebot deutlich übertreffen",
       "nur in ländlichen Regionen ausreichen",
-      "das Angebot deutlich übertreffen"
+      "gerade eben genügen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„bei Weitem nicht ausreichen“ = còn xa mới đủ."
     },
     {
@@ -1224,21 +1224,21 @@
      {
       "q": "Wie bewertet Abschnitt 1 die verbreitete Medienwahrnehmung einer völlig gespaltenen Gesellschaft?",
       "options": [
+       "Wirtschaftliche Krisen haben keinerlei Einfluss auf Online-Debatten.",
        "Aktuelle Sozialstudien bestätigen, dass der Zusammenhalt bereits vollständig zerbrochen ist.",
        "Sozialstudien zeichnen verglichen mit schrillen Schlagzeilen ein deutlich differenzierteres Bild.",
-       "Wirtschaftliche Krisen haben keinerlei Einfluss auf Online-Debatten.",
        "Ausschließlich ältere Menschen nutzen soziale Medien für politische Diskussionen."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 1 đối chiếu tiêu đề giật gân với nghiên cứu xã hội thực tế có bức tranh tinh tế hơn hẳn."
      },
      {
       "q": "Wodurch entsteht laut Abschnitt 2 am ehesten ein Vertrauensverlust in Institutionen?",
       "options": [
-       "Durch zu viele Sportvereine in den Kommunen.",
+       "Weil Grundwerte wie Fairness nicht mehr existieren.",
        "Wenn Menschen sich dauerhaft ungehört fühlen und schwindende Chancengleichheit erleben.",
-       "Durch eine zu hohe wirtschaftliche Leistungskraft.",
-       "Weil Grundwerte wie Fairness nicht mehr existieren."
+       "Durch zu viele Sportvereine in den Kommunen.",
+       "Durch eine zu hohe wirtschaftliche Leistungskraft."
       ],
       "answer": 1,
       "explain": "Đoạn 2 chỉ rõ mất niềm tin nảy sinh khi người dân lâu dài không được lắng nghe và trải nghiệm bất bình đẳng cơ hội."
@@ -1246,10 +1246,10 @@
      {
       "q": "Welche Rolle spielt das Ehrenamt laut Abschnitt 3 und 4 für die Gesellschaft?",
       "options": [
-       "Es richtet sich ausschließlich an Personen im Ruhestand.",
+       "Es ersetzt sämtliche Aufgaben der Polizei und Gerichte.",
        "Es fängt Notlagen praktisch auf und baut durch direkte Begegnungen Vorurteile sowie Vereinsamung ab.",
        "Es verstärkt die Individualisierung und soziale Trennung.",
-       "Es ersetzt sämtliche Aufgaben der Polizei und Gerichte."
+       "Es richtet sich ausschließlich an Personen im Ruhestand."
       ],
       "answer": 1,
       "explain": "Đoạn 3–4 nêu hoạt động tình nguyện vừa hỗ trợ thực tế vừa làm cầu nối gặp gỡ trực tiếp giúp giảm định kiến và cô đơn."
@@ -1257,12 +1257,12 @@
      {
       "q": "Wie verändert sich das freiwillige Engagement junger Menschen laut Abschnitt 5?",
       "options": [
+       "Sie engagieren sich ausschließlich bei der Freiwilligen Feuerwehr.",
        "Junge Menschen lehnen jedes freiwillige Engagement grundsätzlich ab.",
        "Sie bevorzugen statt lebenslanger Vereinsbindung oft zeitlich befristete, projektbezogene Mitarbeit.",
-       "Sie engagieren sich ausschließlich bei der Freiwilligen Feuerwehr.",
        "Sie fordern strengere bürokratische Vorschriften."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 5 mô tả giới trẻ thích hình thức cộng tác theo dự án có thời hạn và tham gia trực tuyến thay vì gắn trọn đời một hội đoàn."
      },
      {
@@ -1270,8 +1270,8 @@
       "options": [
        "Zu wenige gesellschaftliche Probleme.",
        "Überbordende Bürokratie.",
-       "Fehlende Internetverbindungen in Großstädten.",
-       "Zu hohe finanzielle Belohnungen."
+       "Zu hohe finanzielle Belohnungen.",
+       "Fehlende Internetverbindungen in Großstädten."
       ],
       "answer": 1,
       "explain": "Cuối đoạn 5 nêu rõ bên cạnh thiếu thời gian, thủ tục hành chính rườm rà (überbordende Bürokratie) là rào cản lớn nhất."
@@ -1280,11 +1280,11 @@
       "q": "Welche wichtige Bedingung nennt Abschnitt 6 für die staatliche Förderung des Ehrenamts?",
       "options": [
        "Dass der Staat sich komplett aus Bildung und Pflege zurückzieht.",
-       "Dass Ehrenamt nicht als billiger Ersatz für staatliche Daseinsvorsorge missbraucht wird.",
        "Dass alle Vereine künftig gewinnorientiert arbeiten.",
+       "Dass Ehrenamt nicht als billiger Ersatz für staatliche Daseinsvorsorge missbraucht wird.",
        "Dass die Mitarbeit im Ehrenamt gesetzlich verpflichtend wird."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 6 đặt điều kiện rõ: hoạt động tình nguyện không được bị lạm dụng thay thế cho trách nhiệm an sinh của nhà nước."
      }
     ],
@@ -1301,12 +1301,12 @@
      "type": "mcq",
      "q": "Welcher Satz mit einer satzwertigen Partizipialkonstruktion ist grammatisch und logisch korrekt (Subjektidentität)?",
      "options": [
-      "In der neuen Stadt angekommen, überraschten ihn die hohen Mieten.",
-      "In der neuen Stadt angekommen, war er von den hohen Mieten überrascht.",
       "In der neuen Stadt ankommende, war er überrascht.",
-      "In der neuen Stadt angekommenen, fand er sofort eine Wohnung."
+      "In der neuen Stadt angekommenen, fand er sofort eine Wohnung.",
+      "In der neuen Stadt angekommen, überraschten ihn die hohen Mieten.",
+      "In der neuen Stadt angekommen, war er von den hohen Mieten überrascht."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Cụm phân từ tương đương mệnh đề KHÔNG chia đuôi tính từ và bắt buộc có cùng chủ ngữ („er“) với mệnh đề chính."
     },
     {
@@ -1314,71 +1314,71 @@
      "q": "Welche Partizipialkonstruktion ersetzt „Indem sie auf die veränderte Nachfrage reagierten, passten die Vereine ihr Angebot an“ korrekt?",
      "options": [
       "Auf die veränderte Nachfrage reagiert, passten die Vereine ihr Angebot an.",
-      "Auf die veränderte Nachfrage reagierend, passten die Vereine ihr Angebot an.",
       "Auf die veränderte Nachfrage reagierenden, passten die Vereine ihr Angebot an.",
-      "Auf die veränderte Nachfrage zu reagierend, passten die Vereine ihr Angebot an."
+      "Auf die veränderte Nachfrage zu reagierend, passten die Vereine ihr Angebot an.",
+      "Auf die veränderte Nachfrage reagierend, passten die Vereine ihr Angebot an."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Quan hệ đồng thời/cách thức chủ động dùng Partizip I không chia đuôi: „reagierend“."
     },
     {
      "type": "mcq",
      "q": "Welche feste Wendung bedeutet „im Vergleich zu einem Maßstab beurteilt“?",
      "options": [
-      "abgesehen von",
       "gemessen an",
-      "vorausgesetzt, dass",
-      "streng genommen"
+      "streng genommen",
+      "abgesehen von",
+      "vorausgesetzt, dass"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„gemessen an + Dativ“ = xét theo chuẩn mực của, đánh giá so với."
     },
     {
      "type": "mcq",
      "q": "Welchen Kasus verlangt das Verb „entgegenwirken“?",
      "options": [
-      "Akkusativ",
-      "Genitiv",
       "Dativ",
-      "Nominativ"
+      "Genitiv",
+      "Nominativ",
+      "Akkusativ"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "„der Polarisierung / der Vereinsamung (Dativ) entgegenwirken“."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet der Satz „Langfristig betrachtet, rechnet sich diese Investition“?",
      "options": [
+      "Die Investition verursacht dauerhafte Verluste.",
       "Die Investition lohnt sich auf lange Sicht.",
-      "Die Investition lässt sich mathematisch nicht berechnen.",
       "Die Investition ist nur kurzfristig sinnvoll.",
-      "Die Investition verursacht dauerhafte Verluste."
+      "Die Investition lässt sich mathematisch nicht berechnen."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„sich rechnen“ = sinh lời, đáng giá về lâu dài."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt? „Gemeinsame Projekte können tiefe Gräben zwischen Generationen ___.“",
      "options": [
-      "anheizen",
-      "spalten",
+      "vertuschen",
       "überbrücken",
-      "vertuschen"
+      "spalten",
+      "anheizen"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Collocation chuẩn: „Gräben / Gegensätze überbrücken“ (bắc cầu vượt qua hố sâu ngăn cách)."
     },
     {
      "type": "mcq",
      "q": "Welche Bedeutung hat die feste Partizipialwendung „abgesehen von wenigen Ausnahmen“?",
      "options": [
-      "einschließlich aller Ausnahmen",
-      "mit Ausnahme weniger Einzelfälle / außer einigen Ausnahmen",
+      "trotz zahlreicher Konflikte",
       "wegen weniger Ausnahmen",
-      "trotz zahlreicher Konflikte"
+      "einschließlich aller Ausnahmen",
+      "mit Ausnahme weniger Einzelfälle / außer einigen Ausnahmen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„abgesehen von + Dativ“ = ngoại trừ, chưa kể đến."
     },
     {
@@ -2025,67 +2025,67 @@
      {
       "q": "Welcher historische Einschnitt prägt den deutschen Arbeitsmarkt laut Abschnitt 1?",
       "options": [
-       "Die geburtenstarken Jahrgänge gehen in Rente, während deutlich kleinere junge Jahrgänge nachrücken.",
-       "Die Lebenserwartung sinkt erstmals seit 1950.",
        "Alle Handwerksbetriebe werden vollständig automatisiert.",
+       "Die Lebenserwartung sinkt erstmals seit 1950.",
+       "Die geburtenstarken Jahrgänge gehen in Rente, während deutlich kleinere junge Jahrgänge nachrücken.",
        "Immer mehr junge Menschen wandern in den Ruhestand aus."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 1 nêu rõ các thế hệ Babyboomer bước vào tuổi nghỉ hưu trong khi thế hệ trẻ kế cận ít hơn hẳn."
      },
      {
       "q": "Welcher Interessenkonflikt entsteht laut Abschnitt 2 rund um den Generationenvertrag?",
       "options": [
-       "Zwischen Arbeitgebern und Universitäten über Studiengebühren.",
        "Zwischen dem Schutz Älterer vor Altersarmut und der Sorge Jüngerer vor zu hohen Beiträgen.",
+       "Zwischen Krankenhäusern und privaten Sportvereinen.",
        "Zwischen ländlichen Kommunen und internationalen Touristen.",
-       "Zwischen Krankenhäusern und privaten Sportvereinen."
+       "Zwischen Arbeitgebern und Universitäten über Studiengebühren."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 2 chỉ rõ hai lợi ích va chạm: người lớn tuổi cần bảo vệ khỏi nghèo tuổi già, người trẻ lo mức đóng góp quá cao ảnh hưởng mức sống."
      },
      {
       "q": "Welche indirekte Folge hat unbezahlte familiäre Sorgearbeit laut Abschnitt 3 häufig?",
       "options": [
-       "Höhere staatliche Rentenansprüche für alle Angehörigen.",
-       "Verkürzte Arbeitszeiten und dadurch später geringere eigene Rentenansprüche, vor allem bei Frauen.",
+       "Einen deutlichen Anstieg der Geburtenrate.",
        "Eine sofortige Lösung des Personalmangels in Kliniken.",
-       "Einen deutlichen Anstieg der Geburtenrate."
+       "Verkürzte Arbeitszeiten und dadurch später geringere eigene Rentenansprüche, vor allem bei Frauen.",
+       "Höhere staatliche Rentenansprüche für alle Angehörigen."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 3 nêu rõ gánh nặng chăm sóc không lương khiến nhiều phụ nữ phải làm bán thời gian và sau này nhận lương hưu thấp hơn."
      },
      {
       "q": "Welche Rolle spielt der Ausbau der Kinderbetreuung laut Abschnitt 4?",
       "options": [
-       "Er ermöglicht gut ausgebildeten Eltern eine bessere Vereinbarkeit von Familie und Beruf und erschließt Arbeitskräftepotenzial.",
-       "Er ersetzt sämtliche Maßnahmen zur Fachkräftezuwanderung.",
        "Er zwingt alle Eltern in unfreiwillige Teilzeit.",
-       "Er senkt die Qualität der Ganztagsschulen."
+       "Er ermöglicht gut ausgebildeten Eltern eine bessere Vereinbarkeit von Familie und Beruf und erschließt Arbeitskräftepotenzial.",
+       "Er senkt die Qualität der Ganztagsschulen.",
+       "Er ersetzt sämtliche Maßnahmen zur Fachkräftezuwanderung."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 4 khẳng định nhà trẻ đáng tin cậy và trường bán trú giúp phát huy tiềm năng lao động của phụ huynh đang phải làm bán thời gian ngoài ý muốn."
      },
      {
       "q": "Was bremst laut Abschnitt 5 derzeit die Gewinnung internationaler Fachkräfte in Deutschland?",
       "options": [
        "Fehlendes Interesse aus Ländern wie Vietnam, Indien oder Brasilien.",
-       "Langwierige Anerkennungsverfahren, komplizierte Visaprozesse und mangelnde Digitalisierung.",
        "Zu wenige offene Stellen im Gesundheits- und Techniksektor.",
-       "Ein gesetzliches Verbot internationaler Bewerbungen."
+       "Ein gesetzliches Verbot internationaler Bewerbungen.",
+       "Langwierige Anerkennungsverfahren, komplizierte Visaprozesse und mangelnde Digitalisierung."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 5 liệt kê rõ: công nhận bằng cấp rườm rà, thủ tục visa phức tạp và thiếu dịch vụ số."
      },
      {
       "q": "Wie definiert der Schlussabschnitt echte Generationengerechtigkeit?",
       "options": [
-       "Als strengen Wettbewerb zwischen jüngeren und älteren Wählergruppen.",
-       "Als kluges Schmieden von Bündnissen und frühzeitiges Weichenstellen für eine solidarische und wirtschaftlich starke Gesellschaft.",
        "Als Beibehaltung starrer Altersgrenzen ohne Ausnahmen.",
-       "Als vollständige Privatisierung aller Pflege- und Rentenkassen."
+       "Als strengen Wettbewerb zwischen jüngeren und älteren Wählergruppen.",
+       "Als vollständige Privatisierung aller Pflege- und Rentenkassen.",
+       "Als kluges Schmieden von Bündnissen und frühzeitiges Weichenstellen für eine solidarische und wirtschaftlich starke Gesellschaft."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Câu cuối định nghĩa công bằng liên thế hệ là xây dựng liên minh thông minh và định hướng sớm cho xã hội đa dạng, đoàn kết và vững mạnh."
      }
     ],
@@ -2115,9 +2115,9 @@
      "q": "Welches Verb ergänzt die Verbindung „Zwischen Anspruch und Wirklichkeit ___ eine große Lücke“?",
      "options": [
       "klafft",
-      "schmiedet",
+      "scheidet aus",
       "gleicht aus",
-      "scheidet aus"
+      "schmiedet"
      ],
      "answer": 0,
      "explain": "Collocation chuẩn C1: „eine Lücke / ein Graben klafft zwischen ...“."
@@ -2138,48 +2138,48 @@
      "type": "mcq",
      "q": "Was versteht man unter einem „durchlässigen Bildungssystem“?",
      "options": [
-      "Ein System, das Übergänge und Bildungsaufstieg unabhängig von der sozialen Herkunft ermöglicht.",
-      "Ein System mit besonders vielen Prüfungen pro Woche.",
       "Ein System, in dem keine Abschlüsse anerkannt werden.",
+      "Ein System mit besonders vielen Prüfungen pro Woche.",
+      "Ein System, das Übergänge und Bildungsaufstieg unabhängig von der sozialen Herkunft ermöglicht.",
       "Ein System ausschließlich für Privatschulen."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "„durchlässig“ trong giáo dục nghĩa là liên thông, mở đường thăng tiến bất kể xuất thân."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „aus dem Berufsleben in den Ruhestand gehen“?",
      "options": [
-      "aufeinanderprallen",
       "ausscheiden",
+      "aufeinanderprallen",
       "aufbrechen",
       "ausgleichen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„aus dem Berufsleben ausscheiden“ = rời khỏi thị trường lao động (nghỉ hưu)."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt? „In der Rentendebatte ___ zwei berechtigte Interessen direkt ___.“",
      "options": [
-      "prallen ... aufeinander",
-      "schlagen ... nieder",
       "zeichnen ... ab",
-      "gleichen ... aus"
+      "gleichen ... aus",
+      "schlagen ... nieder",
+      "prallen ... aufeinander"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "„aufeinanderprallen“ = va chạm trực diện (hai lợi ích/quan điểm)."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektiv beschreibt bürokratische Verfahren, die unnötig viel Zeit kosten?",
      "options": [
-      "solidarisch",
-      "zukunftsfähig",
       "langwierig",
+      "zukunftsfähig",
+      "solidarisch",
       "geburtenstark"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "„langwierig“ = kéo dài rườm rà, mất nhiều thời gian."
     },
     {
@@ -2743,20 +2743,20 @@
       "q": "Warum gilt das städtebauliche Leitbild der autogerechten Stadt laut Abschnitt 1 heute als überholt?",
       "options": [
        "Weil in Europa kaum noch Menschen in Städten wohnen.",
+       "Weil historische Stadtkerne überall abgerissen werden.",
        "Weil Klimawandel, Wohnungsnot und Strukturwandel widerstandsfähige, gemischte Quartiere verlangen statt strikter Trennung der Lebensbereiche.",
-       "Weil Autos in ganz Europa bereits verboten wurden.",
-       "Weil historische Stadtkerne überall abgerissen werden."
+       "Weil Autos in ganz Europa bereits verboten wurden."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 1 chỉ rõ các chuyển biến hiện đại đòi hỏi khu phố bền vững, pha trộn chức năng thay vì mô hình tách biệt cứng nhắc phục vụ ô tô."
      },
      {
       "q": "Wer profitiert laut Abschnitt 2 besonders stark vom Konzept der „Stadt der kurzen Wege“?",
       "options": [
-       "Ausschließlich große Immobilieninvestoren.",
+       "Ausschließlich Berufstätige in Industriegebieten.",
        "Vor allem Kinder, ältere Menschen und einkommensschwache Haushalte ohne eigenes Auto.",
        "Nur Pendler aus weit entfernten Regionen.",
-       "Ausschließlich Berufstätige in Industriegebieten."
+       "Ausschließlich große Immobilieninvestoren."
       ],
       "answer": 1,
       "explain": "Cuối đoạn 2 nêu đích danh trẻ em, người cao tuổi và hộ thu nhập thấp không có ô tô riêng được tăng đáng kể tự do di chuyển và tham gia xã hội."
@@ -2765,44 +2765,44 @@
       "q": "Wie federt das im Abschnitt 3 genannte Wiener Modell den Wohnungsmarkt erfolgreich ab?",
       "options": [
        "Durch die vollständige Abschaffung von Genossenschaften.",
+       "Durch die Verlagerung aller Familien an den Stadtrand.",
        "Durch einen hohen Anteil kommunaler und genossenschaftlicher Wohnungen, die zentrale Lagen dauerhaft bezahlbar halten.",
-       "Durch das Verbot jeder baulichen Sanierung.",
-       "Durch die Verlagerung aller Familien an den Stadtrand."
+       "Durch das Verbot jeder baulichen Sanierung."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 3 lấy ví dụ Viên với tỷ lệ cao nhà ở công và nhà ở hợp tác xã giúp giữ giá phải chăng ngay tại trung tâm."
      },
      {
       "q": "Welchen doppelten Vorteil haben altersübergreifende Wohnprojekte laut Abschnitt 4?",
       "options": [
        "Sie senken die Lebenserwartung und reduzieren die Zahl der Parks.",
-       "Sie lindern Vereinsamung und überlastete Sorgearbeit – und rechnen sich damit menschlich wie finanziell.",
        "Sie ersetzen sämtliche Krankenhäuser und Schulen.",
+       "Sie lindern Vereinsamung und überlastete Sorgearbeit – und rechnen sich damit menschlich wie finanziell.",
        "Sie richten sich ausschließlich an Studierende."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 4 nhấn mạnh mô hình liên thế hệ vừa giảm cô đơn và gánh nặng chăm sóc gia đình, vừa hiệu quả về mặt nhân văn lẫn tài chính."
      },
      {
       "q": "Wodurch wächst laut Abschnitt 5 die Akzeptanz auch für zunächst unbequeme Stadtveränderungen?",
       "options": [
-       "Durch Entscheidungen, die ohne Rücksprache von oben durchgesetzt werden.",
        "Durch frühzeitige Bürgerforen und aktive Mitgestaltung aller Bevölkerungsgruppen.",
-       "Durch den Verzicht auf sämtliche Grünflächen.",
-       "Durch höhere Gebühren für Fahrräder."
+       "Durch höhere Gebühren für Fahrräder.",
+       "Durch Entscheidungen, die ohne Rücksprache von oben durchgesetzt werden.",
+       "Durch den Verzicht auf sämtliche Grünflächen."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 5 khẳng định sự tham gia sớm qua diễn đàn công dân giúp tăng đồng thuận kể cả với thay đổi ban đầu gây bất tiện."
      },
      {
       "q": "Welche Gesamtbotschaft vermittelt der Schlussabschnitt?",
       "options": [
-       "Gesellschaftlicher Wandel ist ein unabwendbares Risiko ohne Gestaltungsmöglichkeiten.",
        "Kluge Stadtplanung, starke Daseinsvorsorge und Bürgersinn machen Wandel zu einer Chance für mehr Gemeinwohl und Solidarität.",
+       "Wirtschaftlicher Wohlstand widerspricht immer dem sozialen Zusammenhalt.",
        "Lebensqualität lässt sich ausschließlich in kleinen Dörfern verwirklichen.",
-       "Wirtschaftlicher Wohlstand widerspricht immer dem sozialen Zusammenhalt."
+       "Gesellschaftlicher Wandel ist ein unabwendbares Risiko ohne Gestaltungsmöglichkeiten."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 6 kết luận sự kết hợp giữa quy hoạch thông minh, dịch vụ công vững mạnh và tinh thần công dân biến biến đổi xã hội thành cơ hội cho lợi ích chung."
      }
     ],
@@ -2819,10 +2819,10 @@
      "type": "mcq",
      "q": "Welche Form ist das korrekte erweiterte Partizipialattribut für „die Stadtteile, die nachhaltig umgestaltet werden“?",
      "options": [
-      "die nachhaltig umgestaltenden Stadtteile",
+      "die nachhaltig zu umgestaltet Stadtteile",
       "die nachhaltig umgestalteten Stadtteile",
-      "die nachhaltig umgestaltet Stadtteile",
-      "die nachhaltig zu umgestaltet Stadtteile"
+      "die nachhaltig umgestaltenden Stadtteile",
+      "die nachhaltig umgestaltet Stadtteile"
      ],
      "answer": 1,
      "explain": "Nghĩa bị động (werden umgestaltet) dùng Partizip II + đuôi tính từ số nhiều „-en“: „umgestalteten“."
@@ -2831,46 +2831,46 @@
      "type": "mcq",
      "q": "Welche Form steht in einer satzwertigen Partizipialkonstruktion richtig?",
      "options": [
+      "Von der Idee zu geleitet, plante die Kommune neue Grünflächen.",
       "Von der Idee geleitete, plante die Kommune neue Grünflächen.",
-      "Von der Idee geleitet, plante die Kommune neue Grünflächen.",
       "Von der Idee geleiteten, plante die Kommune neue Grünflächen.",
-      "Von der Idee zu geleitet, plante die Kommune neue Grünflächen."
+      "Von der Idee geleitet, plante die Kommune neue Grünflächen."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Satzwertiges Partizip đứng tách bằng dấu phẩy KHÔNG chia đuôi tính từ: „geleitet“."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz erfüllt die Regel der Subjektidentität bei satzwertigen Partizipien?",
      "options": [
-      "Auf die neuen Anforderungen reagierend, änderte sich das Gesetz.",
       "Auf die neuen Anforderungen reagierend, passte der Stadtrat die Vorschriften an.",
       "Durch die Krise verunsichert, stiegen die Mieten weiter.",
+      "Auf die neuen Anforderungen reagierend, änderte sich das Gesetz.",
       "Im Bürgerforum diskutierend, fiel der Strom aus."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Chủ ngữ „der Stadtrat“ thực hiện cả hai hành động „reagieren“ và „anpassen“."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet das Gerundivum in „die gemeinsam zu gestaltende Zukunft“?",
      "options": [
-      "die Zukunft, die bereits gestaltet wurde",
-      "die Zukunft, die gemeinsam gestaltet werden muss oder kann",
+      "die Zukunft, die niemand gestalten darf",
       "die Zukunft, die sich selbst gestaltet",
-      "die Zukunft, die niemand gestalten darf"
+      "die Zukunft, die bereits gestaltet wurde",
+      "die Zukunft, die gemeinsam gestaltet werden muss oder kann"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Gerundivum („zu + Partizip I“) diễn tả nghĩa bị động cần phải / có thể."
     },
     {
      "type": "mcq",
      "q": "Welchen Kasus verlangt das Verb „vorbeugen“?",
      "options": [
-      "Akkusativ",
+      "Nominativ",
       "Dativ",
-      "Genitiv",
-      "Nominativ"
+      "Akkusativ",
+      "Genitiv"
      ],
      "answer": 1,
      "explain": "„der Vereinsamung / der Verdrängung (Dativ) vorbeugen“."
@@ -2880,23 +2880,23 @@
      "q": "Was versteht man unter „öffentlicher Daseinsvorsorge“?",
      "options": [
       "Private Luxusinvestitionen in Innenstädten.",
-      "Grundlegende staatliche oder kommunale Leistungen wie Schulen, Kliniken, Energie und Nahverkehr.",
       "Reine Freizeitangebote für Touristen.",
-      "Private Altersvorsorge durch Aktien."
+      "Private Altersvorsorge durch Aktien.",
+      "Grundlegende staatliche oder kommunale Leistungen wie Schulen, Kliniken, Energie und Nahverkehr."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Daseinsvorsorge là hệ thống dịch vụ công thiết yếu phục vụ đời sống cơ bản của người dân."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt? „Gezielte Zuschüsse sollen die hohen Heizkosten für einkommensschwache Familien ___.“",
      "options": [
+      "spalten",
       "abfedern",
       "verharren",
-      "anheizen",
-      "spalten"
+      "anheizen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„Kosten / Risiken abfedern“ = giảm sốc, làm dịu gánh nặng."
     },
     {
@@ -2904,11 +2904,11 @@
      "q": "Was bedeutet die Redewendung „an einem Ort Wurzeln schlagen“?",
      "options": [
       "einen neuen Park anlegen",
-      "sich langfristig an einem Ort heimisch fühlen und dauerhaft niederlassen",
       "aus einer Großstadt sofort wieder wegziehen",
-      "alte Traditionen vollständig aufgeben"
+      "alte Traditionen vollständig aufgeben",
+      "sich langfristig an einem Ort heimisch fühlen und dauerhaft niederlassen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„Wurzeln schlagen“ = bén rễ, gắn bó định cư lâu dài."
     },
     {
@@ -2916,11 +2916,11 @@
      "q": "Welches Adjektiv beschreibt einen Wandel, der sehr weitreichend und grundlegend ist?",
      "options": [
       "langwierig",
-      "tiefgreifend",
       "einkommensschwach",
-      "vermeintlich"
+      "vermeintlich",
+      "tiefgreifend"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„tiefgreifend“ = sâu rộng, sâu sắc toàn diện."
     },
     {
@@ -2928,11 +2928,11 @@
      "q": "Welches Nomen bezeichnet den Nutzen und das Wohl der gesamten Gesellschaft?",
      "options": [
       "der Interessenkonflikt",
-      "das Gemeinwohl",
       "die Landflucht",
+      "das Gemeinwohl",
       "der Vertrauensverlust"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„das Gemeinwohl“ = lợi ích chung của toàn cộng đồng."
     },
     {

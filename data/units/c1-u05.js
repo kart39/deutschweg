@@ -505,26 +505,26 @@
      {
       "q": "Welchem Prinzip folgte der Welthandel laut dem ersten Abschnitt jahrzehntelang vor allem?",
       "options": [
-       "Der maximalen Kostenreduzierung durch globale Arbeitsteilung und minimale Lagerhaltung.",
+       "Der vollständigen Unabhängigkeit von ausländischen Zulieferern.",
        "Dem Aufbau möglichst großer regionaler Lagerbestände in Europa.",
-       "Der vollständigen Unabhängigkeit von ausländischen Zulieferern."
+       "Der maximalen Kostenreduzierung durch globale Arbeitsteilung und minimale Lagerhaltung."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Welche Schwäche des Just-in-time-Systems wurde durch die jüngsten Krisen deutlich?",
       "options": [
-       "Die Produkte verloren durch lange Lagerzeiten an Qualität.",
        "Der Ausfall eines einzelnen Zulieferers konnte ganze Werke weltweit stilllegen.",
-       "Die Verbraucher waren nicht bereit, digitale Dienste zu nutzen."
+       "Die Verbraucher waren nicht bereit, digitale Dienste zu nutzen.",
+       "Die Produkte verloren durch lange Lagerzeiten an Qualität."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Warum halten Ökonomen eine komplette Rückkehr zur rein nationalen Produktion für unrealistisch?",
       "options": [
-       "Weil Handelsabkommen nationale Produktion gesetzlich verbieten.",
        "Weil Kunden ausschließlich Produkte aus Südostasien bevorzugen.",
+       "Weil Handelsabkommen nationale Produktion gesetzlich verbieten.",
        "Wegen begrenzter Rohstoffe und weltweit spezialisierter Fachkräfte."
       ],
       "answer": 2
@@ -532,29 +532,29 @@
      {
       "q": "Weshalb profitieren Standorte in Vietnam besonders von der Diversifizierung?",
       "options": [
-       "Sie bieten moderne Häfen und Vorteile durch das EU-Vietnam-Handelsabkommen.",
+       "Die dortigen Firmen verzichten vollständig auf künstliche Intelligenz.",
        "Dort fallen keinerlei Frachtkosten nach Europa an.",
-       "Die dortigen Firmen verzichten vollständig auf künstliche Intelligenz."
+       "Sie bieten moderne Häfen und Vorteile durch das EU-Vietnam-Handelsabkommen."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Wie tragen digitale Frühwarnsysteme zur Versorgungssicherheit bei?",
       "options": [
-       "Sie ersetzen menschliche Manager in den Vorstandsetagen vollständig.",
+       "Sie senken die Rohstoffpreise an den internationalen Börsen.",
        "Sie werten Echtzeitdaten aus, um drohende Engpässe früh zu erkennen.",
-       "Sie senken die Rohstoffpreise an den internationalen Börsen."
+       "Sie ersetzen menschliche Manager in den Vorstandsetagen vollständig."
       ],
       "answer": 1
      },
      {
       "q": "Welche Schlussfolgerung zieht der Autor am Ende des Textes?",
       "options": [
-       "Die Globalisierung steht unmittelbar vor ihrem endgültigen Ende.",
        "Unternehmen sollten wieder ausschließlich auf die niedrigsten Kosten achten.",
-       "Die Globalisierung wandelt sich hin zu einem Gleichgewicht aus Effizienz und Resilienz."
+       "Die Globalisierung wandelt sich hin zu einem Gleichgewicht aus Effizienz und Resilienz.",
+       "Die Globalisierung steht unmittelbar vor ihrem endgültigen Ende."
       ],
-      "answer": 2
+      "answer": 1
      }
     ]
    },
@@ -568,10 +568,10 @@
      "type": "mcq",
      "q": "Welcher Satz ist grammatisch und stilistisch auf C1-Niveau am besten, wenn zwei verschiedene Subjekte vorliegen?",
      "options": [
-      "Die Lieferzeiten verkürzten sich, indem neue Häfen gebaut wurden.",
+      "Die Lieferzeiten verkürzten sich, indem man baute neue Häfen aus.",
       "Die Lieferzeiten verkürzten sich dadurch, dass neue Häfen ausgebaut wurden.",
       "Die Lieferzeiten verkürzten sich, dadurch neue Häfen ausgebaut wurden.",
-      "Die Lieferzeiten verkürzten sich, indem man baute neue Häfen aus."
+      "Die Lieferzeiten verkürzten sich, indem neue Häfen gebaut wurden."
      ],
      "answer": 1,
      "explain": "Khi hai vế khác chủ ngữ ('Die Lieferzeiten' và 'neue Häfen'), dùng 'dadurch, dass' chuẩn xác và tự nhiên hơn nhiều so với 'indem'."
@@ -580,12 +580,12 @@
      "type": "mcq",
      "q": "Wählen Sie die korrekte Umformung von „Durch die Diversifizierung der Zulieferer senkt der Konzern sein Risiko.“",
      "options": [
-      "Der Konzern senkt sein Risiko, indem diversifiziert er die Zulieferer.",
       "Der Konzern senkt sein Risiko, indem er die Zulieferer diversifiziert.",
       "Der Konzern senkt sein Risiko, dadurch er die Zulieferer diversifiziert.",
+      "Der Konzern senkt sein Risiko, indem diversifiziert er die Zulieferer.",
       "Der Konzern senkt sein Risiko, dass er die Zulieferer diversifiziert."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Trong mệnh đề phụ với 'indem', chủ ngữ 'er' đứng ngay sau liên từ và động từ chia 'diversifiziert' nằm ở cuối mệnh đề."
     },
     {
@@ -593,47 +593,47 @@
      "q": "Was bedeutet die feste Wendung „höhere Kosten in Kauf nehmen“?",
      "options": [
       "Höhere Kosten vollständig ablehnen und kündigen.",
+      "Höhere Kosten an die Konkurrenz verkaufen.",
       "Höhere Kosten illegal umgehen.",
-      "Höhere Kosten bewusst akzeptieren, um ein anderes Ziel zu erreichen.",
-      "Höhere Kosten an die Konkurrenz verkaufen."
+      "Höhere Kosten bewusst akzeptieren, um ein anderes Ziel zu erreichen."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "'etwas in Kauf nehmen' nghĩa là chấp nhận một bất lợi/chi phí nào đó để đổi lấy mục tiêu quan trọng hơn."
     },
     {
      "type": "mcq",
      "q": "Welche Ergänzung passt logisch und grammatisch: „Das Werk stellte die Produktion um, ___ die Mitarbeiter vorher zu informieren.“",
      "options": [
-      "ohne",
-      "ohne dass",
+      "dadurch",
       "indem",
-      "dadurch"
+      "ohne dass",
+      "ohne"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Cùng chủ ngữ ('das Werk') và có cấu trúc nguyên mẫu 'zu informieren' ở cuối nên dùng 'ohne … zu'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz drückt eine Alternative aus (Ersatzhandlung)?",
      "options": [
-      "Indem die Firma die Preise senkte, gewann sie neue Kunden.",
-      "Die Firma baute Lager auf, ohne dass die Kosten sanken.",
+      "Anstatt auf einen Lieferanten zu setzen, schloss die Firma drei Verträge ab.",
       "Dadurch, dass Zölle fielen, wuchs der Export.",
-      "Anstatt auf einen Lieferanten zu setzen, schloss die Firma drei Verträge ab."
+      "Indem die Firma die Preise senkte, gewann sie neue Kunden.",
+      "Die Firma baute Lager auf, ohne dass die Kosten sanken."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "'anstatt … zu' diễn đạt hành động thay thế (làm việc này thay vì việc kia)."
     },
     {
      "type": "mcq",
      "q": "Welches Wort passt in die Lücke: „Die wirtschaftliche ___ zwischen Europa und Asien hat in den letzten Jahrzehnten stark zugenommen.“",
      "options": [
-      "Verflechtung",
       "Gewinnspanne",
       "Lagerhalle",
+      "Verflechtung",
       "Kehrseite"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'die Verflechtung' mang nghĩa sự gắn kết, đan xen chặt chẽ về kinh tế."
     },
     {
@@ -641,23 +641,23 @@
      "q": "Welche Präposition verlangt das Adjektiv „anfällig“?",
      "options": [
       "anfällig auf + Akk.",
-      "anfällig für + Akk.",
       "anfällig gegen + Akk.",
-      "anfällig mit + Dat."
+      "anfällig mit + Dat.",
+      "anfällig für + Akk."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Tính từ 'anfällig' luôn đi với giới từ 'für + Akkusativ' (dễ bị tổn thương trước cái gì)."
     },
     {
      "type": "mcq",
      "q": "Wählen Sie den grammatisch korrekten Satz mit „ohne dass“:",
      "options": [
-      "Die Lieferung traf pünktlich ein, ohne dass es gab Probleme am Zoll.",
-      "Die Lieferung traf pünktlich ein, ohne dass Probleme am Zoll zu geben.",
+      "Die Lieferung traf pünktlich ein, ohne es am Zoll zu Problemen kam.",
       "Die Lieferung traf pünktlich ein, ohne dass es am Zoll zu Problemen kam.",
-      "Die Lieferung traf pünktlich ein, ohne es am Zoll zu Problemen kam."
+      "Die Lieferung traf pünktlich ein, ohne dass Probleme am Zoll zu geben.",
+      "Die Lieferung traf pünktlich ein, ohne dass es gab Probleme am Zoll."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Sau 'ohne dass' là mệnh đề phụ có chủ ngữ ('es') và động từ chia ('kam') ở cuối câu."
     },
     {
@@ -1409,11 +1409,11 @@
      {
       "q": "Was bezeichnet der Text als „Hidden Champions“?",
       "options": [
-       "Große staatliche Energiekonzerne.",
        "Spezialisierte mittelständische Unternehmen, die in Nischen weltweit führend sind.",
+       "Große staatliche Energiekonzerne.",
        "Ausländische Investoren im deutschen Immobiliensektor."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welche Folge hatte laut dem zweiten Abschnitt der Anstieg der Energiekosten?",
@@ -1427,8 +1427,8 @@
      {
       "q": "Welche „hausgemachte Schwäche“ wird im dritten Abschnitt NICHT genannt?",
       "options": [
-       "Ein großer Investitionsstau bei Verkehrswegen.",
        "Langwierige Genehmigungsverfahren.",
+       "Ein großer Investitionsstau bei Verkehrswegen.",
        "Ein Mangel an Hochschulen und Universitäten."
       ],
       "answer": 2
@@ -1437,28 +1437,28 @@
       "q": "Wodurch verschärft sich der Fachkräftemangel besonders?",
       "options": [
        "Durch das Ausscheiden geburtenstarker Jahrgänge aus dem Berufsleben.",
-       "Durch die Abschaffung der dualen Berufsausbildung.",
-       "Durch sinkende Exportüberschüsse im Maschinenbau."
+       "Durch sinkende Exportüberschüsse im Maschinenbau.",
+       "Durch die Abschaffung der dualen Berufsausbildung."
       ],
       "answer": 0
      },
      {
       "q": "Warum halten manche Ökonomen die Angst vor einer völligen Deindustrialisierung für übertrieben?",
       "options": [
+       "Weil die Energiepreise wieder auf das Niveau früherer Jahrzehnte gefallen sind.",
        "Weil staatliche Subventionen alle Probleme dauerhaft lösen.",
-       "Weil das industrielle Ökosystem dicht vernetzt ist und viele Betriebe sich anpassen.",
-       "Weil die Energiepreise wieder auf das Niveau früherer Jahrzehnte gefallen sind."
+       "Weil das industrielle Ökosystem dicht vernetzt ist und viele Betriebe sich anpassen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welche Kombination von Maßnahmen fordern Fachleute am Ende des Textes?",
       "options": [
-       "Höhere Zölle, weniger Digitalisierung und reine Einmalzahlungen.",
+       "Bürokratieabbau, verlässliche Investitionsbedingungen und gezielte Fachkräftezuwanderung.",
        "Den vollständigen Ausstieg aus dem weltweiten Export.",
-       "Bürokratieabbau, verlässliche Investitionsbedingungen und gezielte Fachkräftezuwanderung."
+       "Höhere Zölle, weniger Digitalisierung und reine Einmalzahlungen."
       ],
-      "answer": 2
+      "answer": 0
      }
     ]
    },
@@ -1472,36 +1472,36 @@
      "type": "mcq",
      "q": "Welcher Satz mit „zu … als dass“ ist grammatisch und semantisch korrekt?",
      "options": [
+      "Die Reformen sind zu langsam, als dass die Wirtschaft schnell wächst nicht.",
       "Die Reformen sind zu langsam, als dass die Wirtschaft nicht wachsen könnte.",
       "Die Reformen sind zu langsam, als dass die Wirtschaft schnell wachsen könnte.",
-      "Die Reformen sind zu langsam, als dass die Wirtschaft schnell wächst nicht.",
       "Die Reformen sind so langsam, als dass die Wirtschaft schnell wachsen könnte."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Cấu trúc chuẩn là 'zu + Adj., als dass + Subjekt + … + Konjunktiv II' và KHÔNG có 'nicht' vì bản thân cấu trúc đã mang nghĩa phủ định."
     },
     {
      "type": "mcq",
      "q": "Welche Position nimmt ein Nebensatz mit „sodass“ im Satzgefüge ein?",
      "options": [
-      "Er steht immer vor dem Hauptsatz.",
-      "Er kann beliebig vor oder nach dem Hauptsatz stehen.",
       "Er steht immer nach dem Hauptsatz.",
-      "Er steht als Einschub direkt nach dem Subjekt."
+      "Er steht als Einschub direkt nach dem Subjekt.",
+      "Er kann beliebig vor oder nach dem Hauptsatz stehen.",
+      "Er steht immer vor dem Hauptsatz."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Mệnh đề hệ quả với 'sodass' luôn luôn đứng SAU mệnh đề chính (nguyên nhân trước, hệ quả sau)."
     },
     {
      "type": "mcq",
      "q": "Wählen Sie die korrekte Satzstellung mit „infolgedessen“:",
      "options": [
-      "Die Zinsen stiegen stark; infolgedessen die Bauinvestitionen sanken.",
       "Die Zinsen stiegen stark; die Bauinvestitionen infolgedessen sanken.",
-      "Die Zinsen stiegen stark; infolgedessen sanken die Bauinvestitionen.",
-      "Infolgedessen die Zinsen stark stiegen, sanken die Bauinvestitionen."
+      "Die Zinsen stiegen stark; infolgedessen die Bauinvestitionen sanken.",
+      "Infolgedessen die Zinsen stark stiegen, sanken die Bauinvestitionen.",
+      "Die Zinsen stiegen stark; infolgedessen sanken die Bauinvestitionen."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "„infolgedessen“ là trạng từ nối, đứng ở vị trí 1 của mệnh đề chính nên kéo động từ chia „sanken“ lên vị trí 2. Nếu nó đứng giữa câu thì động từ vẫn phải ở vị trí 2: {{die Bauinvestitionen sanken infolgedessen}}. Trước nó có thể dùng dấu chấm phẩy, dấu chấm hoặc dấu phẩy."
     },
     {
@@ -1509,8 +1509,8 @@
      "q": "Wann verwendet man „zu … um zu“ statt „zu … als dass“?",
      "options": [
       "Wenn beide Satzteile dasselbe Subjekt haben.",
-      "Wenn die Sätze unterschiedliche Subjekte haben.",
       "Nur in der Vergangenheit (Präteritum).",
+      "Wenn die Sätze unterschiedliche Subjekte haben.",
       "Nur bei Passivsätzen."
      ],
      "answer": 0,
@@ -1521,45 +1521,45 @@
      "q": "Was bedeutet „dem Wandel Rechnung tragen“?",
      "options": [
       "Eine Rechnung für den Wandel bezahlen.",
-      "Den Wandel bewusst berücksichtigen und entsprechend handeln.",
+      "Den Wandel statistisch anzweifeln.",
       "Den Wandel vollständig stoppen.",
-      "Den Wandel statistisch anzweifeln."
+      "Den Wandel bewusst berücksichtigen und entsprechend handeln."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Cụm 'etwas (Dat.) Rechnung tragen' nghĩa là tính đến, đáp ứng một thực tế/xu hướng nào đó."
     },
     {
      "type": "mcq",
      "q": "Welche Formulierung ersetzt „so stark“ in gehobener Sprache am besten?",
      "options": [
-      "derart stark",
-      "trotzdem stark",
       "obwohl stark",
-      "indem stark"
+      "indem stark",
+      "derart stark",
+      "trotzdem stark"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'derart' là từ đồng nghĩa trang trọng hơn của 'so' trong cấu trúc hệ quả 'derart …, dass'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „ins Gewicht fallen“?",
      "options": [
-      "Günstiger werden.",
       "Einen bedeutenden Einfluss haben.",
-      "Schwer zu transportieren sein.",
-      "Völlig unwichtig bleiben."
+      "Günstiger werden.",
+      "Völlig unwichtig bleiben.",
+      "Schwer zu transportieren sein."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'ins Gewicht fallen' là thành ngữ mang nghĩa có trọng lượng, có ảnh hưởng đáng kể."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bildet das Perfekt mit „sein“?",
      "options": [
-      "drosseln",
       "stagnieren",
+      "subventionieren",
       "abwandern",
-      "subventionieren"
+      "drosseln"
      ],
      "answer": 2,
      "explain": "'abwandern' chỉ sự dịch chuyển vị trí nên chia Perfekt với 'sein' ('ist abgewandert')."
@@ -2317,29 +2317,29 @@
      {
       "q": "Warum reichten frühere Nachhaltigkeitserklärungen vieler Konzerne laut dem ersten Abschnitt nicht aus?",
       "options": [
-       "Weil sie meist freiwillig waren und gravierende Missstände in Lieferketten dennoch fortbestanden.",
        "Weil sie gesetzlich verboten waren.",
-       "Weil Verbraucher gar kein Interesse an günstigen Produkten hatten."
+       "Weil Verbraucher gar kein Interesse an günstigen Produkten hatten.",
+       "Weil sie meist freiwillig waren und gravierende Missstände in Lieferketten dennoch fortbestanden."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Inwiefern gilt das Lieferkettengesetz im zweiten Abschnitt als Meilenstein?",
       "options": [
        "Es schafft sämtliche Zölle im internationalen Handel ab.",
-       "Es ersetzt bloße Appelle erstmals durch rechtlich verbindliche Sorgfaltspflichten.",
-       "Es verpflichtet ausschließlich kleine Handwerksbetriebe zu Kontrollen."
+       "Es verpflichtet ausschließlich kleine Handwerksbetriebe zu Kontrollen.",
+       "Es ersetzt bloße Appelle erstmals durch rechtlich verbindliche Sorgfaltspflichten."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Warum spüren auch kleinere Zulieferer die Auswirkungen des Gesetzes?",
       "options": [
-       "Weil sie direkt hohe Bußgelder an die EU zahlen müssen.",
+       "Weil große Auftraggeber von ihnen umfangreiche Nachweise verlangen.",
        "Weil sie keine Produkte mehr nach Asien verkaufen dürfen.",
-       "Weil große Auftraggeber von ihnen umfangreiche Nachweise verlangen."
+       "Weil sie direkt hohe Bußgelder an die EU zahlen müssen."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Welches Risiko befürchten Kritiker im schlimmsten Fall?",
@@ -2363,10 +2363,10 @@
       "q": "Unter welcher Einschränkung kann der Rechtsrahmen laut dem Schlussabschnitt faire Unternehmen stärken?",
       "options": [
        "Nur wenn alle freiwilligen Initiativen verboten werden.",
-       "Nur wenn reine Gewinnmaximierung oberstes Gesetz bleibt.",
-       "Wenn Politik, Wirtschaft und Behörden die Vorgaben praxisnah gestalten."
+       "Wenn Politik, Wirtschaft und Behörden die Vorgaben praxisnah gestalten.",
+       "Nur wenn reine Gewinnmaximierung oberstes Gesetz bleibt."
       ],
-      "answer": 2
+      "answer": 1
      }
     ]
    },
@@ -2380,24 +2380,24 @@
      "type": "mcq",
      "q": "Welche Konjunktion bildet im Standarddeutschen das feste Paar mit „insofern“?",
      "options": [
+      "insofern, weil",
       "insofern, dass",
-      "insofern, als",
       "insofern, wie",
-      "insofern, weil"
+      "insofern, als"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Cặp liên từ chuẩn mực trong tiếng Đức C1 là 'insofern, als' (hoặc viết liền 'insofern als'), không dùng 'dass'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist grammatisch korrekt?",
      "options": [
-      "Das Gesetz ist insofern hilfreich, dass es klare Regeln vorgibt.",
-      "Das Gesetz ist insofern hilfreich, als es gibt klare Regeln vor.",
       "Das Gesetz ist insofern hilfreich, als es klare Regeln vorgibt.",
+      "Das Gesetz ist insofern hilfreich, als es gibt klare Regeln vor.",
+      "Das Gesetz ist insofern hilfreich, dass es klare Regeln vorgibt.",
       "Das Gesetz ist insofern hilfreich als, es klare Regeln vorgibt."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Đặt dấu phẩy trước 'als', động từ tách 'vorgibt' không tách và nằm ở cuối mệnh đề phụ."
     },
     {
@@ -2406,8 +2406,8 @@
      "options": [
       "trotzdem / obwohl",
       "unter der Bedingung, dass / falls",
-      "während / gleichzeitig",
-      "sodass / infolgedessen"
+      "sodass / infolgedessen",
+      "während / gleichzeitig"
      ],
      "answer": 1,
      "explain": "'sofern' là liên từ điều kiện mang sắc thái hạn định trang trọng (= với điều kiện là / miễn là)."
@@ -2416,12 +2416,12 @@
      "type": "mcq",
      "q": "Welche Nomen-Verb-Verbindung bedeutet „öffentlich über sein Handeln berichten und sich verantworten“?",
      "options": [
-      "Rechenschaft ablegen",
       "in Kauf nehmen",
-      "ins Gewicht fallen",
-      "auf Kosten gehen"
+      "Rechenschaft ablegen",
+      "auf Kosten gehen",
+      "ins Gewicht fallen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'Rechenschaft ablegen (über + Akk.)' nghĩa là giải trình, báo cáo trách nhiệm công khai."
     },
     {
@@ -2429,47 +2429,47 @@
      "q": "Welcher Satz verwendet „soweit“ korrekt?",
      "options": [
       "Soweit ich weiß, viele Firmen haben das Gesetz umgesetzt.",
-      "Soweit ich weiß, haben viele Firmen das Gesetz bereits umgesetzt.",
       "Soweit weiß ich, haben viele Firmen das Gesetz bereits umgesetzt.",
+      "Soweit ich weiß, haben viele Firmen das Gesetz bereits umgesetzt.",
       "Soweit ich weiß, dass viele Firmen das Gesetz umgesetzt haben."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'Soweit ich weiß,' là mệnh đề phụ đứng đầu câu, nên mệnh đề chính ngay sau dấu phẩy phải đảo động từ chia 'haben' lên trước chủ ngữ."
     },
     {
      "type": "mcq",
      "q": "Welches Verb verlangt die Präposition „mit + Dativ“?",
      "options": [
-      "haften",
       "einhergehen",
       "untergraben",
+      "haften",
       "verhängen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'einhergehen mit + Dativ' mang nghĩa 'đi kèm với'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „irreführende Werbung“?",
      "options": [
+      "Werbung, die besonders günstig produziert wurde.",
       "Werbung, die Verbraucher gezielt täuscht oder in die Irre führt.",
-      "Werbung, die ausschließlich im Ausland geschaltet wird.",
       "Werbung, die von Behörden geprüft wurde.",
-      "Werbung, die besonders günstig produziert wurde."
+      "Werbung, die ausschließlich im Ausland geschaltet wird."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'irreführend' nghĩa là gây hiểu lầm, đánh lừa người tiêu dùng."
     },
     {
      "type": "mcq",
      "q": "Welcher Ausdruck leitet eine Einschränkung im Nominalstil korrekt ein?",
      "options": [
-      "mit der Einschränkung, als",
       "mit der Einschränkung, dass",
+      "zur Einschränkung, indem",
       "in der Einschränkung, ob",
-      "zur Einschränkung, indem"
+      "mit der Einschränkung, als"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Cụm cố định trang trọng là 'mit der Einschränkung, dass …' (với điều kiện hạn chế rằng…)."
     },
     {
@@ -3122,8 +3122,8 @@
       "q": "Warum warnen Ökonomen im zweiten Abschnitt vor Strafzöllen und wirtschaftlicher Abschottung?",
       "options": [
        "Weil sie meist Gegenmaßnahmen auslösen, Exporte belasten und Verbraucherpreise erhöhen.",
-       "Weil sie den Technologietransfer nach Südostasien beschleunigen.",
-       "Weil der europäische Binnenmarkt keinerlei eigene Industrie mehr besitzt."
+       "Weil der europäische Binnenmarkt keinerlei eigene Industrie mehr besitzt.",
+       "Weil sie den Technologietransfer nach Südostasien beschleunigen."
       ],
       "answer": 0
      },
@@ -3139,8 +3139,8 @@
      {
       "q": "Wie profitieren lokale Betriebe in Südostasien laut dem vierten Abschnitt von europäischen Direktinvestitionen?",
       "options": [
-       "Sie müssen keine Umweltauflagen mehr erfüllen.",
        "Sie ersetzen sämtliche europäische Binnenmärkte.",
+       "Sie müssen keine Umweltauflagen mehr erfüllen.",
        "Sie gewinnen durch Technologietransfer und steigen in der Wertschöpfungskette auf."
       ],
       "answer": 2
@@ -3148,29 +3148,29 @@
      {
       "q": "Welche Gefahr besteht laut dem fünften Abschnitt für kleinere Exporteure?",
       "options": [
-       "Sie könnten wegen hoher Anpassungskosten ohne Unterstützung vom EU-Markt verdrängt werden.",
+       "Sie erzielen zu hohe Gewinnspannen.",
        "Sie verlieren jedes Interesse an digitalen Verfahren.",
-       "Sie erzielen zu hohe Gewinnspannen."
+       "Sie könnten wegen hoher Anpassungskosten ohne Unterstützung vom EU-Markt verdrängt werden."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Welche Maßnahmen schlägt der Text vor, um die Verhältnismäßigkeit neuer Standards zu wahren?",
       "options": [
+       "Eine vollständige Befreiung großer Konzerne von Kontrollen.",
        "Die Abschaffung aller internationalen Handelsabkommen.",
-       "Schulungsprogramme, einheitliche digitale Nachweisverfahren und finanzielle Übergangshilfen.",
-       "Eine vollständige Befreiung großer Konzerne von Kontrollen."
+       "Schulungsprogramme, einheitliche digitale Nachweisverfahren und finanzielle Übergangshilfen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Worauf sollte die „Globalisierung 2.0“ laut dem Schlussabschnitt künftig vor allem beruhen?",
       "options": [
+       "Auf Vertrauen, Resilienz und langfristigem gegenseitigem Nutzen.",
        "Ausschließlich auf maximaler Geschwindigkeit und minimalen Preisen.",
-       "Auf nationaler Abschottung und bilateralen Strafzöllen.",
-       "Auf Vertrauen, Resilienz und langfristigem gegenseitigem Nutzen."
+       "Auf nationaler Abschottung und bilateralen Strafzöllen."
       ],
-      "answer": 2
+      "answer": 0
      }
     ]
    },
@@ -3184,84 +3184,84 @@
      "type": "mcq",
      "q": "Welcher Satz verbindet Mittel (indem/dadurch, dass) korrekt bei Subjektwechsel?",
      "options": [
-      "Der Handel wuchs, indem die EU Zölle abbaute.",
       "Der Handel wuchs dadurch, dass die EU Zölle abbaute.",
+      "Der Handel wuchs, indem die EU Zölle abbaute.",
       "Der Handel wuchs dadurch, als die EU Zölle abbaute.",
       "Der Handel wuchs, sodass die EU Zölle abbaute."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Hai vế khác chủ ngữ ('Der Handel' vs. 'die EU') và chỉ phương tiện/nguyên nhân-cách thức → dùng 'dadurch, dass'."
     },
     {
      "type": "mcq",
      "q": "Welche Umformung entspricht dem Satz „Die Auflagen sind zu streng, als dass Kleinstbetriebe sie allein erfüllen könnten.“?",
      "options": [
-      "Die Auflagen sind so streng, dass Kleinstbetriebe sie allein erfüllen können.",
       "Die Auflagen sind sehr streng, aber Kleinstbetriebe erfüllen sie allein.",
-      "Die Auflagen sind so streng, dass Kleinstbetriebe sie nicht allein erfüllen können.",
-      "Die Auflagen sind streng, indem Kleinstbetriebe sie allein erfüllen."
+      "Die Auflagen sind so streng, dass Kleinstbetriebe sie allein erfüllen können.",
+      "Die Auflagen sind streng, indem Kleinstbetriebe sie allein erfüllen.",
+      "Die Auflagen sind so streng, dass Kleinstbetriebe sie nicht allein erfüllen können."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "'zu + Adj., als dass + Konjunktiv II' tương đương nghĩa phủ định 'so + Adj., dass … nicht … können'."
     },
     {
      "type": "mcq",
      "q": "Welche Konjunktion passt: „Die Kritik ist ___ berechtigt, ___ doppelte Prüfungen viel Zeit kosten.“",
      "options": [
-      "insofern … als",
       "insofern … dass",
       "dadurch … als",
-      "derart … als"
+      "derart … als",
+      "insofern … als"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Cặp liên từ hạn định chuẩn là 'insofern, als'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist grammatisch FALSCH?",
      "options": [
-      "Die Nachfrage brach ein, sodass der Betrieb Kurzarbeit anmeldete.",
-      "Sodass der Betrieb Kurzarbeit anmeldete, brach die Nachfrage ein.",
       "Die Nachfrage brach ein; infolgedessen meldete der Betrieb Kurzarbeit an.",
-      "Der Einbruch der Nachfrage war derart stark, dass Kurzarbeit nötig wurde."
+      "Der Einbruch der Nachfrage war derart stark, dass Kurzarbeit nötig wurde.",
+      "Sodass der Betrieb Kurzarbeit anmeldete, brach die Nachfrage ein.",
+      "Die Nachfrage brach ein, sodass der Betrieb Kurzarbeit anmeldete."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Mệnh đề hệ quả với 'sodass' KHÔNG bao giờ được đặt ở đầu câu."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die feste Wendung „Strafzölle ziehen Gegenmaßnahmen nach sich“?",
      "options": [
-      "Strafzölle verhindern Gegenmaßnahmen.",
       "Strafzölle haben Gegenmaßnahmen zur Folge.",
+      "Strafzölle verhindern Gegenmaßnahmen.",
       "Strafzölle ersetzen Gegenmaßnahmen.",
       "Strafzölle verzögern Gegenmaßnahmen ohne Grund."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'etwas nach sich ziehen' nghĩa là kéo theo, gây ra hệ quả gì đó."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „Wachstum und Klimaschutz auf einen Nenner bringen“?",
      "options": [
-      "Beide Ziele miteinander vereinbaren und in Einklang bringen.",
       "Eines der beiden Ziele komplett aufgeben.",
       "Beide Themen strikt getrennt behandeln.",
+      "Beide Ziele miteinander vereinbaren und in Einklang bringen.",
       "Die Kosten beider Bereiche verdoppeln."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'auf einen Nenner bringen' nghĩa là đưa về mẫu số chung, dung hòa hài hòa hai mục tiêu."
     },
     {
      "type": "mcq",
      "q": "Welche Präposition gehört zu „Nachholbedarf haben / bestehen“ im Hinblick auf ein Thema?",
      "options": [
-      "im Hinblick für + Akk.",
       "im Hinblick auf + Akk.",
-      "im Hinblick mit + Dat.",
-      "im Hinblick von + Dat."
+      "im Hinblick für + Akk.",
+      "im Hinblick von + Dat.",
+      "im Hinblick mit + Dat."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Cụm giới từ chuẩn là 'im Hinblick auf + Akkusativ'."
     },
     {
@@ -3280,12 +3280,12 @@
      "type": "mcq",
      "q": "Welche Institution prüft Unternehmensübernahmen auf mögliche Wettbewerbsverzerrungen?",
      "options": [
-      "die Kartellbehörde",
-      "die Handelsbilanz",
       "die Bürgschaft",
-      "das Gütesiegel"
+      "das Gütesiegel",
+      "die Kartellbehörde",
+      "die Handelsbilanz"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'die Kartellbehörde' là cơ quan chống độc quyền / quản lý cạnh tranh."
     },
     {
@@ -3293,8 +3293,8 @@
      "q": "Welches Verb bildet das Perfekt mit „sein“?",
      "options": [
       "ankurbeln",
-      "wahren",
       "monopolisieren",
+      "wahren",
       "abflauen"
      ],
      "answer": 3,

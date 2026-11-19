@@ -407,26 +407,26 @@
      {
       "q": "Warum schlug Mara den Wochenplan vor?",
       "options": [
+       "Im Pausenraum fehlte Platz.",
        "Sie wollte öfter mit anderen zu Mittag essen.",
-       "Die Kantine schloss dauerhaft.",
-       "Im Pausenraum fehlte Platz."
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Warum konnte Mara am Mittwochabend nicht mehr einkaufen?",
-      "options": [
-       "Sie hatte ihr Geld vergessen.",
-       "Der Laden war schon geschlossen.",
-       "Sie hatte den Eintopf bereits fertig."
+       "Die Kantine schloss dauerhaft."
       ],
       "answer": 1
      },
      {
+      "q": "Warum konnte Mara am Mittwochabend nicht mehr einkaufen?",
+      "options": [
+       "Sie hatte den Eintopf bereits fertig.",
+       "Sie hatte ihr Geld vergessen.",
+       "Der Laden war schon geschlossen."
+      ],
+      "answer": 2
+     },
+     {
       "q": "Wer brachte Brot mit?",
       "options": [
-       "Klara.",
        "Mara.",
+       "Klara.",
        "Tobias."
       ],
       "answer": 2
@@ -435,19 +435,19 @@
       "q": "Wann aß Klara?",
       "options": [
        "Etwas später als die anderen.",
-       "Vor ihrem Termin.",
-       "Gar nicht."
+       "Gar nicht.",
+       "Vor ihrem Termin."
       ],
       "answer": 0
      },
      {
       "q": "Welche Änderung nahm die Gruppe am Freitag vor?",
       "options": [
-       "Sie strich den Wochenplan.",
        "Sie ergänzte zwei Spalten für Zeiten und Beiträge zum Essen.",
+       "Sie strich den Wochenplan.",
        "Sie buchte einen anderen Pausenraum."
       ],
-      "answer": 1
+      "answer": 0
      }
     ],
     "glossary": []
@@ -462,33 +462,33 @@
      "type": "mcq",
      "q": "Chọn câu kể một lựa chọn đã không xảy ra trong quá khứ.",
      "options": [
-      "Ich koche morgen vor.",
       "Ich hatte schon vorgekocht.",
       "Ich hätte lieber vorgekocht.",
+      "Ich koche morgen vor.",
       "Ich würde morgen vorkochen."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Hätte vorgekocht}} nêu một việc giả định trong quá khứ."
     },
     {
      "type": "mcq",
      "q": "Dùng {{Konjunktiv II}} quá khứ với {{Wir sind nach Hause gegangen.}}",
      "options": [
-      "Wir wären nach Hause gegangen.",
-      "Wir hätten nach Hause gegangen.",
       "Wir würden nach Hause gehen.",
-      "Wir waren nach Hause gehen."
+      "Wir waren nach Hause gehen.",
+      "Wir hätten nach Hause gegangen.",
+      "Wir wären nach Hause gegangen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Gehen}} dùng {{sein}} trong {{Perfekt}}, nên chọn {{wären}} với {{wir}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào nghĩa là ‘Lẽ ra mình đã có thể mua bánh mì sớm hơn’?",
      "options": [
-      "Ich kann das Brot früher kaufen.",
-      "Ich hätte das Brot früher gekauft können.",
       "Ich würde das Brot früher kaufen.",
+      "Ich hätte das Brot früher gekauft können.",
+      "Ich kann das Brot früher kaufen.",
       "Ich hätte das Brot früher kaufen können."
      ],
      "answer": 3,
@@ -498,24 +498,24 @@
      "type": "mcq",
      "q": "{{Die Suppe hätte für vier Personen ausgereicht.}} nghĩa là gì?",
      "options": [
-      "Súp đang đủ cho bốn người.",
-      "Chỗ súp lẽ ra đã đủ cho bốn người.",
+      "Món súp bi cháy.",
       "Bốn người cùng nấu súp.",
-      "Món súp bi cháy."
+      "Súp đang đủ cho bốn người.",
+      "Chỗ súp lẽ ra đã đủ cho bốn người."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Hätte ausgereicht}} diễn đạt lượng đủ trong một tình huống giả định ở quá khứ."
     },
     {
      "type": "mcq",
      "q": "{{Wir brauchen zuerst den Vorrat auf.}} nói điều gì?",
      "options": [
-      "Chúng mình dùng hết đồ dự trữ trước.",
-      "Chúng mình mua thêm đồ dự trữ trước.",
       "Chúng minh len danh sách món moi.",
-      "Chúng mình bỏ lại đồ dự trữ."
+      "Chúng mình dùng hết đồ dự trữ trước.",
+      "Chúng mình bỏ lại đồ dự trữ.",
+      "Chúng mình mua thêm đồ dự trữ trước."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Aufbrauchen}} nghĩa là dùng đến khi hết."
     },
     {
@@ -1131,26 +1131,26 @@
      {
       "q": "Warum waren die Umschläge leicht zu verwechseln?",
       "options": [
-       "Beide waren gleich groß und unbeschriftet.",
        "Beide lagen bereits in der Schultasche.",
+       "Beide waren gleich groß und unbeschriftet.",
        "Beide enthielten dieselbe Abrechnung."
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Was fand Nils beim ersten Besuch im Umschlag?",
-      "options": [
-       "Die Kopie eines Belegs.",
-       "Den Stundenplan seiner Tochter.",
-       "Seine Mitgliedsbescheinigung."
       ],
       "answer": 1
      },
      {
+      "q": "Was fand Nils beim ersten Besuch im Umschlag?",
+      "options": [
+       "Seine Mitgliedsbescheinigung.",
+       "Die Kopie eines Belegs.",
+       "Den Stundenplan seiner Tochter."
+      ],
+      "answer": 2
+     },
+     {
       "q": "Warum konnte die Tochter den richtigen Umschlag am Nachmittag zurückgeben?",
       "options": [
-       "Er lag noch im Büro von Nils.",
        "Die Mitarbeiterin hatte ihn ihr gegeben.",
+       "Er lag noch im Büro von Nils.",
        "Sie hatte ihn noch nicht abgegeben."
       ],
       "answer": 2
@@ -1158,20 +1158,20 @@
      {
       "q": "Was bestätigte die Mitarbeiterin beim zweiten Besuch?",
       "options": [
+       "Dass eine neue Versicherungsnummer nötig war.",
        "Dass sie die Unterlagen erhalten hatte.",
-       "Dass die Abrechnung vollständig war.",
-       "Dass eine neue Versicherungsnummer nötig war."
+       "Dass die Abrechnung vollständig war."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was wollten beide beim nächsten Mal anders machen?",
       "options": [
        "Alle Papiere in einen Umschlag legen.",
-       "Die Umschläge vor dem Ablegen beschriften.",
-       "Die Unterlagen nur in der Mittagspause prüfen."
+       "Die Unterlagen nur in der Mittagspause prüfen.",
+       "Die Umschläge vor dem Ablegen beschriften."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1186,10 +1186,10 @@
      "type": "mcq",
      "q": "Chọn cặp dạng đúng: {{Wenn ich die Datei gefunden ___, ___ ich sie eingereicht.}}",
      "options": [
-      "wäre / wäre",
+      "hatte / wäre",
       "hätte / hätte",
-      "hätte / wäre",
-      "hatte / wäre"
+      "wäre / wäre",
+      "hätte / wäre"
      ],
      "answer": 1,
      "explain": "Cả {{finden}} lẫn {{einreichen}} dùng {{haben}} trong {{Perfekt}}."
@@ -1198,32 +1198,32 @@
      "type": "mcq",
      "q": "Chọn câu có trật tự đúng sau mệnh đề điều kiện.",
      "options": [
-      "Wenn ich den Beleg gefunden hätte, ich hätte ihn geschickt.",
       "Wenn ich hätte den Beleg gefunden, hätte ich ihn geschickt.",
-      "Wenn ich den Beleg gefunden hätte hätte ich ihn geschickt.",
-      "Wenn ich den Beleg gefunden hätte, hätte ich ihn geschickt."
+      "Wenn ich den Beleg gefunden hätte, hätte ich ihn geschickt.",
+      "Wenn ich den Beleg gefunden hätte, ich hätte ihn geschickt.",
+      "Wenn ich den Beleg gefunden hätte hätte ich ihn geschickt."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Trợ động từ đứng cuối mệnh đề phụ. Sau dấu phẩy, {{hätte}} đứng trước chủ ngữ {{ich}}."
     },
     {
      "type": "mcq",
      "q": "{{Wenn sie früher losgefahren wäre, wäre sie pünktlich angekommen.}} cho biết gì về giờ khởi hành?",
      "options": [
-      "Cô đã không khởi hành sớm hơn.",
+      "Cô vẫn chưa lên kế hoạch.",
       "Cô chắc chắn sẽ khởi hành sớm ngày mai.",
-      "Cô đã đến sớm hơn dự kiến.",
-      "Cô vẫn chưa lên kế hoạch."
+      "Cô đã không khởi hành sớm hơn.",
+      "Cô đã đến sớm hơn dự kiến."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Giờ khởi hành sớm được trình bày như điều trái với thực tế trong quá khứ."
     },
     {
      "type": "mcq",
      "q": "Câu nào kể về một khả năng vẫn có thể xảy ra ngày mai?",
      "options": [
-      "Wenn ich den Beleg gefunden hätte, hätte ich ihn geschickt.",
       "Wenn ich morgen Zeit hätte, wäre ich gestern gekommen.",
+      "Wenn ich den Beleg gefunden hätte, hätte ich ihn geschickt.",
       "Wenn ich morgen den Beleg finde, schicke ich ihn ab.",
       "Wenn ich gestern den Beleg gefunden hatte, hätte ich ihn verloren."
      ],
@@ -1234,12 +1234,12 @@
      "type": "mcq",
      "q": "{{Die Servicestelle forderte einen Beleg nach.}} nghĩa là gì?",
      "options": [
-      "Điểm hỗ trợ yêu cầu nộp bổ sung chứng từ.",
       "Điểm hỗ trợ trả lại chứng từ.",
+      "Điểm hỗ trợ yêu cầu nộp bổ sung chứng từ.",
       "Điểm hỗ trợ tính một khoản tiền.",
       "Điểm hỗ trợ hủy mã hồ sơ."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Nachfordern}} diễn đạt yêu cầu bổ sung thứ còn thiếu."
     },
     {
@@ -1862,27 +1862,27 @@
      {
       "q": "Warum las Juna die erste Erinnerung nicht?",
       "options": [
+       "Die Erinnerung erschien erst am Mittwoch.",
        "Sie hatte keine Internetverbindung.",
-       "Sie war gerade in einer Besprechung.",
-       "Die Erinnerung erschien erst am Mittwoch."
+       "Sie war gerade in einer Besprechung."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wann war der Termin tatsächlich vereinbart?",
       "options": [
        "Um zehn Uhr.",
-       "Am Nachmittag.",
-       "Um acht Uhr."
+       "Um acht Uhr.",
+       "Am Nachmittag."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Woher stammte die falsche Uhrzeit?",
       "options": [
        "Aus einer älteren Nachricht.",
-       "Aus dem Kalender ihres Bruders.",
-       "Aus einer Nachricht vom Mittwoch."
+       "Aus einer Nachricht vom Mittwoch.",
+       "Aus dem Kalender ihres Bruders."
       ],
       "answer": 0
      },
@@ -1898,11 +1898,11 @@
      {
       "q": "Was ergänzte sie auf den Vorschlag ihres Bruders hin?",
       "options": [
+       "Die Adresse der Praxis.",
        "Die Versicherungsnummer.",
-       "Eine Kopie des Belegs.",
-       "Die Adresse der Praxis."
+       "Eine Kopie des Belegs."
       ],
-      "answer": 2
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1917,9 +1917,9 @@
      "type": "mcq",
      "q": "Câu nào thể hiện điều ước về quá khứ?",
      "options": [
-      "Ich hoffe, dass ich morgen Zeit habe.",
-      "Hätte ich doch gestern die Uhrzeit geprüft!",
       "Hätte ich doch jetzt Zeit!",
+      "Hätte ich doch gestern die Uhrzeit geprüft!",
+      "Ich hoffe, dass ich morgen Zeit habe.",
       "Ich habe gestern die Uhrzeit geprüft."
      ],
      "answer": 1,
@@ -1930,56 +1930,56 @@
      "q": "Chọn câu nói ‘Giá mà mình hôm qua đã đi sớm hơn!’",
      "options": [
       "Wenn ich doch gestern früher losgegangen hätte!",
-      "Wenn ich doch gestern früher war losgegangen!",
+      "Wenn ich doch gestern früher losgegangen wäre!",
       "Gestern würde ich doch früher losgehen.",
-      "Wenn ich doch gestern früher losgegangen wäre!"
+      "Wenn ich doch gestern früher war losgegangen!"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{Losgehen}} dùng {{sein}}. Với {{wenn}}, đặt {{wäre}} sau phân từ {{losgegangen}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào bộc lộ điều ước và có thể đứng độc lập?",
      "options": [
-      "Wenn ich nur mehr Zeit gehabt hätte!",
       "Wenn ich mehr Zeit gehabt hätte, hätte ich den Beleg geprüft.",
+      "Wenn ich Zeit habe, prüfe ich den Beleg.",
       "Ich habe genug Zeit gehabt.",
-      "Wenn ich Zeit habe, prüfe ich den Beleg."
+      "Wenn ich nur mehr Zeit gehabt hätte!"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Wenn}} cùng {{nur}} và {{Konjunktiv II}} có thể tạo thành một câu ước độc lập."
     },
     {
      "type": "mcq",
      "q": "{{Im Nachhinein fiel ihr der Fehler auf.}} nghĩa là gì?",
      "options": [
-      "Cô thấy lỗi trước khi gửi.",
-      "Cô sửa lỗi ngay trong cuộc gọi.",
       "Chuyện đã qua rồi cô mới nhận ra lỗi.",
-      "Cô chưa phát hiện ra lỗi."
+      "Cô thấy lỗi trước khi gửi.",
+      "Cô chưa phát hiện ra lỗi.",
+      "Cô sửa lỗi ngay trong cuộc gọi."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{Im Nachhinein}} nói về thời điểm nhìn lại chuyện đã qua."
     },
     {
      "type": "mcq",
      "q": "{{Ich habe den Termin versäumt.}} có nghĩa gì?",
      "options": [
-      "Mình đã lỡ hẹn.",
+      "Mình đã đặt lịch đúng giờ.",
       "Mình đã đổi lịch hẹn.",
       "Mình đang chờ vào khám.",
-      "Mình đã đặt lịch đúng giờ."
+      "Mình đã lỡ hẹn."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Versäumen}} nghĩa là bỏ lỡ hoặc quên làm một việc."
     },
     {
      "type": "mcq",
      "q": "Trong {{Die Mitarbeiterin kam mir bei der Uhrzeit entgegen.}}, cô nhân viên làm gì?",
      "options": [
+      "Cô ấy yêu cầu mình về.",
       "Cô ấy đến gặp mình lúc mười giờ.",
       "Cô ấy giữ nguyên giờ và từ chối thay đổi.",
-      "Cô ấy yêu cầu mình về.",
       "Cô ấy linh động hỗ trợ mình về giờ hẹn."
      ],
      "answer": 3,
@@ -2641,47 +2641,47 @@
      {
       "q": "Was unterschätzen viele Menschen im stressigen Alltag laut dem Text?",
       "options": [
-       "Die Bedeutung moderner Computerspiele für das Wohlbefinden.",
        "Die fundamentale Rolle einer ausgewogenen Ernährung für Körper und Geist.",
-       "Die Wichtigkeit von teurer Markenkleidung beim Sport."
+       "Die Wichtigkeit von teurer Markenkleidung beim Sport.",
+       "Die Bedeutung moderner Computerspiele für das Wohlbefinden."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welche Folge hat eine dauerhaft unausgewogene, ballaststoffarme Ernährung?",
       "options": [
+       "Sie senkt die Kosten für Nahrungsmittel auf null.",
        "Sie stärkt das Immunsystem dauerhaft.",
-       "Sie schwächt die Abwehrkräfte und kann zu Erschöpfung und Entzündungen führen.",
-       "Sie senkt die Kosten für Nahrungsmittel auf null."
+       "Sie schwächt die Abwehrkräfte und kann zu Erschöpfung und Entzündungen führen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was empfehlen Ernährungsexperten für eine nachhaltige Ernährungsumstellung?",
       "options": [
        "Den Speiseplan schrittweise mit frischen und naturbelassenen Zutaten zu bereichern.",
-       "Ab morgen überhaupt keine feste Nahrung mehr zu sich zu nehmen.",
-       "Ausschließlich Fertiggerichte aus dem Supermarkt zu konsumieren."
+       "Ausschließlich Fertiggerichte aus dem Supermarkt zu konsumieren.",
+       "Ab morgen überhaupt keine feste Nahrung mehr zu sich zu nehmen."
       ],
       "answer": 0
      },
      {
       "q": "Wie kann man dem modernen Bewegungsmangel wirksam vorbeugen?",
       "options": [
-       "Indem man den ganzen Tag am Schreibtisch sitzen bleibt.",
        "Durch bewusste Ernährung kombiniert mit regelmäßiger Bewegung im Freien.",
+       "Indem man den ganzen Tag am Schreibtisch sitzen bleibt.",
        "Indem man mehr zuckerhaltige Softdrinks trinkt."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welches Fazit zieht der Autor am Ende des Textes über die Gesundheit?",
       "options": [
-       "Gesundheit ist ein reines Zufallsprodukt, das man nicht beeinflussen kann.",
+       "Gesundheit ist das erfreuliche Ergebnis täglicher bewusster Entscheidungen.",
        "Man sollte niemals einen Arzt aufsuchen.",
-       "Gesundheit ist das erfreuliche Ergebnis täglicher bewusster Entscheidungen."
+       "Gesundheit ist ein reines Zufallsprodukt, das man nicht beeinflussen kann."
       ],
-      "answer": 2
+      "answer": 0
      }
     ]
    },
@@ -2695,12 +2695,12 @@
      "type": "mcq",
      "q": "Welche Form bildet den Konjunktiv II der Vergangenheit für: „Er geht zum Arzt“?",
      "options": [
+      "Er hatte zum Arzt gegangen",
       "Er würde zum Arzt gegangen sein",
       "Er wäre zum Arzt gegangen",
-      "Er hatte zum Arzt gegangen",
       "Er sei zum Arzt gegangen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Động từ 'gehen' đi với trợ động từ 'sein'. Konjunktiv II quá khứ là 'wäre + Partizip II': 'Er wäre zum Arzt gegangen'."
     },
     {
@@ -2708,9 +2708,9 @@
      "q": "Ergänzen Sie: Wenn ich damals mehr auf meine Ernährung geachtet ___, hätte ich keine Magenprobleme bekommen.",
      "options": [
       "hätte",
-      "wäre",
       "würde",
-      "habe"
+      "habe",
+      "wäre"
      ],
      "answer": 0,
      "explain": "'achten auf' dùng trợ động từ 'haben', ở Konjunktiv II quá khứ chia là 'hätte'."
@@ -2719,22 +2719,22 @@
      "type": "mcq",
      "q": "Welcher Satz drückt einen irrealen Wunsch in der Vergangenheit korrekt aus?",
      "options": [
-      "Hätte ich doch bloß früher mit dem Rauchen aufgehört!",
-      "Ich habe doch bloß früher mit dem Rauchen aufgehört!",
+      "Habe ich doch bloß früher mit dem Rauchen aufgehört!",
       "Würde ich doch bloß früher mit dem Rauchen aufhören!",
-      "Habe ich doch bloß früher mit dem Rauchen aufgehört!"
+      "Ich habe doch bloß früher mit dem Rauchen aufgehört!",
+      "Hätte ich doch bloß früher mit dem Rauchen aufgehört!"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Câu ước không có thật trong quá khứ đảo trợ động từ 'Hätte' lên đầu câu kèm theo tiểu từ tình thái 'doch bloß'."
     },
     {
      "type": "mcq",
      "q": "Wie bildet man den Konjunktiv II der Vergangenheit mit einem Modalverb korrekt?",
      "options": [
-      "Er hatte sich mehr schonen gemusst.",
-      "Er hätte sich mehr schonen müssen.",
       "Er wäre sich mehr schonen gemusst.",
-      "Er würde sich mehr schonen müssen haben."
+      "Er hätte sich mehr schonen müssen.",
+      "Er würde sich mehr schonen müssen haben.",
+      "Er hatte sich mehr schonen gemusst."
      ],
      "answer": 1,
      "explain": "Với Modalverben trong quá khứ của Konjunktiv II, dùng cấu trúc nguyên mẫu kép: 'hätte + Infinitiv Vollverb + Infinitiv Modalverb' ('hätte ... schonen müssen')."
@@ -2743,36 +2743,36 @@
      "type": "mcq",
      "q": "Was bedeutet das Nomen „die Unverträglichkeit“ im medizinischen Kontext?",
      "options": [
-      "Ein Streit zwischen zwei Ärzten",
       "Die Unfähigkeit des Körpers, bestimmte Stoffe ohne Beschwerden zu verdauen",
+      "Ein abgelaufenes Medikament",
       "Eine falsche Rechnung der Krankenkasse",
-      "Ein abgelaufenes Medikament"
+      "Ein Streit zwischen zwei Ärzten"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'Die Unverträglichkeit' là chứng dị ứng / không dung nạp thức ăn hoặc thuốc của cơ thể."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
      "options": [
-      "Wäre er gestern zu Hause geblieben, wäre er heute gesund.",
+      "Würde er gestern zu Hause geblieben sein, wäre er heute gesund.",
       "Wenn er gestern zu Hause geblieben wäre, er wäre heute gesund.",
-      "Hätte er gestern zu Hause geblieben, wäre er heute gesund.",
-      "Würde er gestern zu Hause geblieben sein, wäre er heute gesund."
+      "Wäre er gestern zu Hause geblieben, wäre er heute gesund.",
+      "Hätte er gestern zu Hause geblieben, wäre er heute gesund."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Câu điều kiện đảo ngữ trong quá khứ: 'Wäre er ... geblieben (sein đi với bleiben), wäre er ...'."
     },
     {
      "type": "mcq",
      "q": "Was verschreibt die Ärztin dem Patienten in der Regel?",
      "options": [
+      "Eine Unverträglichkeit",
       "Eine Diagnose",
       "Ein Rezept",
-      "Eine Unverträglichkeit",
       "Ein Hausmittel"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Bác sĩ kê đơn thuốc (ein Rezept verschreiben), còn chẩn đoán thì dùng 'eine Diagnose stellen'."
     },
     {
@@ -2780,11 +2780,11 @@
      "q": "Was bedeutet das Adjektiv „bekömmlich“?",
      "options": [
       "Sehr scharf und ungenießbar",
-      "Leicht verdaulich und gut für den Magen",
       "Besonders teuer",
+      "Leicht verdaulich und gut für den Magen",
       "Kalt serviert"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'bekömmlich' có nghĩa là dễ tiêu hóa, lành tính đối với dạ dày và cơ thể."
     },
     {
@@ -2792,23 +2792,23 @@
      "q": "Ergänzen Sie: Sie hätte den Beipackzettel vor der Einnahme gründlich lesen ___ .",
      "options": [
       "gemusst",
-      "sollen",
       "gesollt",
+      "sollen",
       "gesollt haben"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Nguyên mẫu kép đi với 'hätte': 'lesen sollen'."
     },
     {
      "type": "mcq",
      "q": "Was versteht man unter dem Begriff „Hausmittel“?",
      "options": [
-      "Ein teures Rezept aus der Universitätsklinik",
-      "Traditionelle, einfache Heilmittel zur Selbstbehandlung zu Hause",
+      "Ein Formular der Krankenversicherung",
       "Ein Putzmittel für das Badezimmer",
-      "Ein Formular der Krankenversicherung"
+      "Traditionelle, einfache Heilmittel zur Selbstbehandlung zu Hause",
+      "Ein teures Rezept aus der Universitätsklinik"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'Das Hausmittel' là các bài thuốc, mẹo chữa bệnh dân gian đơn giản tại nhà (như trà thảo mộc, chườm nóng)."
     },
     {

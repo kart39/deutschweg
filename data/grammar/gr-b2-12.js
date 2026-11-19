@@ -13,36 +13,36 @@
    "type": "mcq",
    "q": "Welche Präposition passt: '___ der rasant steigenden Preise fordern Bürger Entlastungen.'?",
    "options": [
+    "Unweit",
     "Angesichts",
     "Mittels",
-    "Unweit",
     "Zwecks"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'Angesichts + Genitiv' nghĩa là 'trước tình hình, trước bối cảnh'."
   },
   {
    "type": "mcq",
    "q": "Das Verfahren wurde mangels hinreichender ___ eingestellt.",
    "options": [
-    "Beweise",
-    "Beweisen",
     "Beweis",
-    "Beweises"
+    "Beweises",
+    "Beweise",
+    "Beweisen"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Khi có tính từ mang đuôi Genitiv (hinreichender), danh từ số nhiều giữ dạng Genitiv: Beweise."
   },
   {
    "type": "mcq",
    "q": "Welche Präposition drückt einen feierlichen Anlass aus?",
    "options": [
-    "anlässlich",
-    "mangels",
+    "mittels",
     "unweit",
-    "mittels"
+    "anlässlich",
+    "mangels"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'anlässlich + Genitiv' = nhân dịp, nhân sự kiện trọng đại."
   },
   {
@@ -50,9 +50,9 @@
    "q": "Was bedeutet 'zugunsten'?",
    "options": [
     "Zum Vorteil von jemandem / etwas",
+    "Aus Mangel an etwas",
     "Zum Nachteil von jemandem",
-    "In der Nähe von etwas",
-    "Aus Mangel an etwas"
+    "In der Nähe von etwas"
    ],
    "answer": 0,
    "explain": "'zugunsten + Genitiv' nghĩa là 'vì lợi ích của ai/cái gì, có lợi cho ai'."
@@ -61,24 +61,24 @@
    "type": "mcq",
    "q": "Die Forscher konnten das Problem ___ modernster Technik lösen.",
    "options": [
-    "mittels",
-    "unweit",
     "mangels",
-    "anlässlich"
+    "unweit",
+    "anlässlich",
+    "mittels"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'mittels + Genitiv' chỉ phương tiện, công cụ (bằng công nghệ tối tân)."
   },
   {
    "type": "mcq",
    "q": "Das historische Museum befindet sich ___ des Bahnhofs.",
    "options": [
-    "unweit",
-    "zwecks",
+    "anlässlich",
     "mangels",
-    "anlässlich"
+    "zwecks",
+    "unweit"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'unweit + Genitiv' là giới từ chỉ không gian, nghĩa là 'cách đó không xa'."
   },
   {

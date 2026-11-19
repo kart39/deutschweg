@@ -26,21 +26,21 @@
    "type": "mcq",
    "q": "Welches Hilfsverb passt? 'Gestern ___ wir den ganzen Tag zu Hause geblieben.'",
    "options": [
-    "haben",
-    "sind",
+    "ist",
     "hat",
-    "ist"
+    "haben",
+    "sind"
    ],
-   "answer": 1,
+   "answer": 3,
    "explain": "'bleiben' là động từ đặc biệt luôn luôn đi với trợ động từ 'sein': 'sind geblieben'."
   },
   {
    "type": "mcq",
    "q": "Welches Hilfsverb passt? 'Ich ___ mich gestern sehr über deinen Besuch gefreut.'",
    "options": [
-    "bin",
-    "habe",
     "war",
+    "habe",
+    "bin",
     "hatte"
    ],
    "answer": 1,
@@ -51,33 +51,33 @@
    "q": "Wie lautet das Partizip II von 'verstehen'?",
    "options": [
     "geverstanden",
-    "verstanden",
     "versteht",
+    "verstanden",
     "geversteht"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Động từ có tiền tố không tách 'ver-' không thêm 'ge-': 'verstanden'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist grammatisch vollkommen korrekt?",
    "options": [
-    "Was ist gestern passiert?",
     "Was hat gestern passiert?",
-    "Was ist gestern gepassiert?",
-    "Was hat gestern gepassiert?"
+    "Was ist gestern passiert?",
+    "Was hat gestern gepassiert?",
+    "Was ist gestern gepassiert?"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'passieren' (xảy ra) đi với 'sein' và có đuôi '-ieren' nên Partizip II là 'passiert'."
   },
   {
    "type": "mcq",
    "q": "Wie lautet das Partizip II von 'bringen'?",
    "options": [
-    "gebringt",
-    "gebracht",
     "gebrungen",
-    "gebrangt"
+    "gebracht",
+    "gebrangt",
+    "gebringt"
    ],
    "answer": 1,
    "explain": "'bringen' là động từ hỗn hợp có Partizip II là 'gebracht'."

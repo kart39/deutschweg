@@ -11,9 +11,9 @@
    "q": "Welche Form des Partizip I als Adjektiv ist KORREKT? \"Die Ärztin hilft dem laut ___ Kind.\"",
    "options": [
     "weinenden",
-    "weinend",
     "weinte",
-    "geweinten"
+    "geweinten",
+    "weinend"
    ],
    "answer": 0,
    "explain": "Partizip I của 'weinen' là 'weinend'. Đứng sau mạo từ xác định 'dem' ở Dativ, đuôi tính từ là '-en': 'dem laut weinenden Kind'."
@@ -23,9 +23,9 @@
    "q": "Die Polizei fand das vor drei Tagen ___ Auto wieder.",
    "options": [
     "gestohlene",
+    "stehlen",
     "stehlende",
-    "gestohlen",
-    "stehlen"
+    "gestohlen"
    ],
    "answer": 0,
    "explain": "Chiếc xe đã bị trộm (bị động/hoàn tất) dùng Partizip II 'gestohlen' thêm đuôi '-e' sau mạo từ 'das': 'das gestohlene Auto'."
@@ -34,12 +34,12 @@
    "type": "mcq",
    "q": "In der Küche steht ein Topf mit kochend___ (Partizip I, Dativ, Nullartikel) Wasser.",
    "options": [
-    "em",
-    "en",
+    "er",
     "es",
-    "er"
+    "em",
+    "en"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'Wasser' giống trung, không mạo từ ở Dativ (mit) nhận đuôi '-em': 'mit kochendem Wasser'."
   },
   {
@@ -47,9 +47,9 @@
    "q": "Welcher Satz drückt eine gerade stattfindende Handlung (Partizip I) aus?",
    "options": [
     "Die brennende Kerze steht auf dem Tisch.",
-    "Die abgebrannte Kerze liegt im Müll.",
+    "Die weiße Kerze ist aus Wachs.",
     "Die gekaufte Kerze war sehr teuer.",
-    "Die weiße Kerze ist aus Wachs."
+    "Die abgebrannte Kerze liegt im Müll."
    ],
    "answer": 0,
    "explain": "'Die brennende Kerze' (ngọn nến đang cháy) diễn tả hành động đang diễn ra (Partizip I)."
@@ -58,12 +58,12 @@
    "type": "mcq",
    "q": "Der am Bahnhof pünktlich ___ Zug war voll besetzt.",
    "options": [
-    "eingetroffene",
+    "eintreffen",
     "eintreffende",
-    "eingetroffen",
-    "eintreffen"
+    "eingetroffene",
+    "eingetroffen"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Chuyến tàu đã đến ga (hành động đã hoàn thành) dùng Partizip II 'eingetroffen' thêm đuôi '-e': 'Der eingetroffene Zug'."
   },
   {
@@ -72,8 +72,8 @@
    "options": [
     "gepressten",
     "pressenden",
-    "gepresst",
-    "gepresster"
+    "gepresster",
+    "gepresst"
    ],
    "answer": 0,
    "explain": "'Saft' giống đực ở Akkusativ không mạo từ (sau ein Glas) nhận đuôi '-en': 'frisch gepressten Orangensaft'."

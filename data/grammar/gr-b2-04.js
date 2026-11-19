@@ -14,9 +14,9 @@
    "q": "Welcher Satz ist die korrekte Nominalisierung von: 'Weil es stark regnete, fiel das Konzert aus.'?",
    "options": [
     "Wegen des starken Regens fiel das Konzert aus.",
-    "Trotz des starken Regens fiel das Konzert aus.",
+    "Bei starkem Regen fiel das Konzert aus.",
     "Nach dem starken Regen fiel das Konzert aus.",
-    "Bei starkem Regen fiel das Konzert aus."
+    "Trotz des starken Regens fiel das Konzert aus."
    ],
    "answer": 0,
    "explain": "'weil' (nguyên nhân) chuyển thành giới từ 'wegen + Genitiv': Wegen des starken Regens."
@@ -25,24 +25,24 @@
    "type": "mcq",
    "q": "Welche Präposition entspricht dem Konzessivsatz: 'Obwohl die Kosten stiegen...'?",
    "options": [
+    "zwecks",
     "trotz",
     "wegen",
-    "infolge",
-    "zwecks"
+    "infolge"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'obwohl' (nhượng bộ) chuyển thành giới từ 'trotz + Genitiv'."
   },
   {
    "type": "mcq",
    "q": "Wie lautet die Verbalisierung von: 'Vor der Abreise muss gepackt werden.'?",
    "options": [
+    "Damit man abreist, muss man packen.",
     "Bevor man abreist, muss man packen.",
     "Nachdem man abreist, muss man packen.",
-    "Während man abreist, muss man packen.",
-    "Damit man abreist, muss man packen."
+    "Während man abreist, muss man packen."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Giới từ 'vor + Dativ' chỉ thời gian trước đó chuyển thành liên từ 'bevor' (hoặc ehe)."
   },
   {
@@ -61,24 +61,24 @@
    "type": "mcq",
    "q": "Welche Präposition passt zur Finalität (Mục đích: 'damit / um ... zu')?",
    "options": [
-    "zu",
     "von",
+    "bei",
     "aus",
-    "bei"
+    "zu"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Mục đích trong Nominalstil thường dùng 'zu + Dativ' (z.B. zur Verbesserung) hoặc 'zwecks + Genitiv'."
   },
   {
    "type": "mcq",
    "q": "Welche Nominalisierung passt zu: 'Er verbesserte sich, indem er fleißig übte.'?",
    "options": [
-    "durch fleißiges Üben",
-    "trotz fleißigen Übens",
     "wegen fleißiges Üben",
-    "vor fleißigem Üben"
+    "trotz fleißigen Übens",
+    "vor fleißigem Üben",
+    "durch fleißiges Üben"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'indem' (phương thức) chuyển thành giới từ 'durch + Akkusativ': durch fleißiges Üben."
   },
   {

@@ -10,12 +10,12 @@
    "type": "mcq",
    "q": "Wohin fährst du am Wochenende? – \"Ich fahre ___ meine Großeltern aufs Land.\"",
    "options": [
+    "in",
     "zu",
-    "nach",
     "bei",
-    "in"
+    "nach"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Đi đến người thân dùng giới từ 'zu' + Dativ: 'zu meinen Großeltern'."
   },
   {
@@ -24,8 +24,8 @@
    "options": [
     "bei",
     "an",
-    "zu",
-    "in"
+    "in",
+    "zu"
    ],
    "answer": 0,
    "explain": "Làm việc tại một công ty, hãng kinh doanh dùng giới từ 'bei': 'bei der Firma BMW'."
@@ -35,9 +35,9 @@
    "q": "Welcher Satz ist grammatisch KORREKT?",
    "options": [
     "Ich gehe jetzt nach Hause schlafen.",
-    "Ich gehe jetzt zu Hause schlafen.",
     "Ich bleibe jetzt nach Hause.",
-    "Ich bin jetzt nach Hause."
+    "Ich bin jetzt nach Hause.",
+    "Ich gehe jetzt zu Hause schlafen."
    ],
    "answer": 0,
    "explain": "Đi về nhà (chuyển động Wohin?) bắt buộc dùng cụm 'nach Hause'."
@@ -46,12 +46,12 @@
    "type": "mcq",
    "q": "Er fliegt im nächsten Monat geschäftlich ___ die USA.",
    "options": [
-    "in",
-    "nach",
     "zu",
-    "an"
+    "an",
+    "in",
+    "nach"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Quốc gia có mạo từ số nhiều 'die USA', đi đến đó dùng 'in' + Akkusativ: 'in die USA'."
   },
   {
@@ -70,12 +70,12 @@
    "type": "mcq",
    "q": "Wir verbringen unsere Ferien sehr gerne ___ Strand.",
    "options": [
-    "am",
     "im",
-    "ans",
-    "auf"
+    "am",
+    "auf",
+    "ans"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Ở bờ biển (sát mép nước, Wo?) dùng 'an dem' = 'am Strand'."
   },
   {

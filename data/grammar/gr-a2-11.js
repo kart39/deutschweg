@@ -10,72 +10,72 @@
    "type": "mcq",
    "q": "Welches Reflexivpronomen passt? \"Ich wasche ___ jeden Morgen gründlich das Gesicht.\"",
    "options": [
-    "mir",
-    "mich",
     "sich",
-    "dir"
+    "dir",
+    "mir",
+    "mich"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Vì trong câu đã có tân ngữ Akkusativ 'das Gesicht', đại từ phản xạ của ngôi 'ich' phải ở cách Dativ là 'mir'."
   },
   {
    "type": "mcq",
    "q": "Welche Form gehört in die Lücke? \"Er freut ___ riesig über die bestandene Prüfung.\"",
    "options": [
-    "sich",
-    "ihn",
+    "mich",
     "ihm",
-    "mich"
+    "ihn",
+    "sich"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Đại từ phản xạ của ngôi 'er' luôn luôn là 'sich'."
   },
   {
    "type": "mcq",
    "q": "Wir müssen ___ beeilen, der Zug fährt gleich ab!",
    "options": [
-    "uns",
     "euch",
     "sich",
+    "uns",
     "wir"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Đại từ phản xạ của ngôi 'wir' là 'uns'."
   },
   {
    "type": "mcq",
    "q": "Zieh ___ bitte eine warme Jacke an, draußen ist es kalt!",
    "options": [
-    "dir",
     "dich",
-    "du",
-    "dein"
+    "dir",
+    "dein",
+    "du"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Vì có tân ngữ trực tiếp 'eine warme Jacke' (Akk), đại từ phản xạ ngôi 'du' phải ở Dativ là 'dir'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist grammatisch VOLLKOMMEN KORREKT?",
    "options": [
-    "Ich erinnere mich gerne an meinen ersten Schultag.",
-    "Ich erinnere mir gerne an meinen ersten Schultag.",
+    "Ich erinnere mich gerne meinen ersten Schultag.",
     "Ich erinnere gerne an meinen ersten Schultag.",
-    "Ich erinnere mich gerne meinen ersten Schultag."
+    "Ich erinnere mich gerne an meinen ersten Schultag.",
+    "Ich erinnere mir gerne an meinen ersten Schultag."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Động từ 'sich erinnern an' (+ Akk) có đại từ phản xạ ở Akkusativ: 'Ich erinnere mich'."
   },
   {
    "type": "mcq",
    "q": "Die Studenten interessieren ___ sehr für deutsche Literatur.",
    "options": [
-    "sich",
-    "sie",
+    "uns",
     "ihnen",
-    "uns"
+    "sich",
+    "sie"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Chủ ngữ là 'Die Studenten' (ngôi số nhiều 'sie'), đại từ phản xạ là 'sich'."
   },
   {

@@ -69,7 +69,8 @@ if (mode === 'add') {
   for (const x of [...units.map(u => ({ ...u, type: 'unit' })), ...others]) {
     const { _review, ...raw } = x;
     // chuẩn hoá IPA theo Duden (ts, ɡ, bỏ ʔ đầu từ); phần chữ đã được merge-batch chuẩn hoá nếu cần
-    const clean = N.ipaFields(raw);
+    // và trộn thứ tự phương án trắc nghiệm để đáp án đúng không dồn vào một vị trí
+    const clean = N.shuffleChoices(N.ipaFields(raw));
     const dir = { unit: 'units', deck: 'decks', grammar: 'grammar', reading: 'readings', exam: 'exams', verbs: 'verbs' }[clean.type] || 'misc';
     const rel = `${dir}/${clean.id}.js`;
     fs.mkdirSync(path.join(root, 'data', dir), { recursive: true });

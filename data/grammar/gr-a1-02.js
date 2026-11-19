@@ -26,60 +26,60 @@
    "type": "mcq",
    "q": "Welche Form von 'sein' passt? 'Wie alt ___ du, Anna?'",
    "options": [
-    "bin",
-    "bist",
+    "sind",
     "ist",
-    "sind"
+    "bist",
+    "bin"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Chủ ngữ là 'du' nên dạng chia của 'sein' là 'bist'."
   },
   {
    "type": "mcq",
    "q": "Welche Form von 'haben' passt? 'Er ___ heute leider keine Zeit.'",
    "options": [
-    "habe",
     "hast",
-    "hat",
-    "habt"
+    "habt",
+    "habe",
+    "hat"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "Chủ ngữ là 'er' nên dạng chia của 'haben' là 'hat' (mất -b-)."
   },
   {
    "type": "mcq",
    "q": "Welche Form von 'werden' passt? 'Mein kleiner Bruder ___ bald zehn Jahre alt.'",
    "options": [
-    "werde",
     "wirst",
-    "wird",
-    "werden"
+    "werden",
+    "werde",
+    "wird"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "Chủ ngữ 'Mein kleiner Bruder' tương đương ngôi 'er' nên dạng chia là 'wird'."
   },
   {
    "type": "mcq",
    "q": "Welches Verb passt? 'Ich ___ großen Durst nach dem Sportkurs.'",
    "options": [
+    "werde",
     "bin",
     "habe",
-    "werde",
     "mache"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Diễn tả khát nước ta dùng cụm 'Durst haben' -> 'Ich habe großen Durst'."
   },
   {
    "type": "mcq",
    "q": "Welche Form ist richtig? 'Ihr ___ heute sehr müde.'",
    "options": [
-    "seid",
     "seit",
     "sind",
-    "bist"
+    "bist",
+    "seid"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Ngôi 'ihr' đi với động từ sein chia là 'seid' (tận cùng bằng -d-)."
   },
   {

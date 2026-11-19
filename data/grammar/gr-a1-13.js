@@ -26,22 +26,22 @@
    "type": "mcq",
    "q": "Welches Pronomen passt? 'Liebst du mich? - Ja, natürlich liebe ich ___!'",
    "options": [
-    "du",
+    "ihn",
     "dir",
-    "dich",
-    "ihn"
+    "du",
+    "dich"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "Tân ngữ trực tiếp cho ngôi 'du' ở Akkusativ là 'dich'."
   },
   {
    "type": "mcq",
    "q": "Welches Pronomen ersetzt 'den Tisch'? 'Der Tisch ist sehr alt, aber ich mag ___.'",
    "options": [
-    "er",
+    "sie",
     "es",
     "ihn",
-    "sie"
+    "er"
    ],
    "answer": 2,
    "explain": "'der Tisch' là giống đực, làm tân ngữ trực tiếp ở Akkusativ được thay thế bằng 'ihn'."
@@ -51,9 +51,9 @@
    "q": "Welches Pronomen passt? 'Herr Meier, darf ich ___ heute Nachmittag anrufen?'",
    "options": [
     "Sie",
+    "dich",
     "Ihnen",
-    "ihr",
-    "dich"
+    "ihr"
    ],
    "answer": 0,
    "explain": "Tân ngữ lịch sự ở Akkusativ đi với 'Herr Meier' là 'Sie' (viết hoa)."
@@ -63,21 +63,21 @@
    "q": "Welches Pronomen passt? 'Die Lehrerin sucht die Kinder. Sie ruft ___ laut.'",
    "options": [
     "ihr",
-    "sie",
+    "euch",
     "ihnen",
-    "euch"
+    "sie"
    ],
-   "answer": 1,
+   "answer": 3,
    "explain": "'die Kinder' là danh từ số nhiều, đại từ thay thế ở Akkusativ là 'sie'."
   },
   {
    "type": "mcq",
    "q": "Welches Pronomen passt? 'Wir haben heute keine Zeit, bitte besucht ___ morgen!'",
    "options": [
-    "wir",
-    "uns",
     "euch",
-    "ihr"
+    "uns",
+    "ihr",
+    "wir"
    ],
    "answer": 1,
    "explain": "Tân ngữ trực tiếp của ngôi 'wir' ở Akkusativ là 'uns'."

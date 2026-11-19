@@ -24,36 +24,36 @@
    "type": "mcq",
    "q": "Wie spät ist es bei 'halb neun'?",
    "options": [
-    "8:30 Uhr",
-    "9:30 Uhr",
     "8:15 Uhr",
-    "9:15 Uhr"
+    "9:15 Uhr",
+    "9:30 Uhr",
+    "8:30 Uhr"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'halb neun' nghĩa là một nửa của giờ thứ chín, tức là 8:30."
   },
   {
    "type": "mcq",
    "q": "Wie schreibt man die Zahl 47 als Wort?",
    "options": [
-    "vierzigundsieben",
-    "siebenundvierzig",
+    "vierzigsieben",
     "siebzehnundvierzig",
-    "vierzigsieben"
+    "vierzigundsieben",
+    "siebenundvierzig"
    ],
-   "answer": 1,
+   "answer": 3,
    "explain": "Quy tắc đọc số tiếng Đức: hàng đơn vị (sieben) + und + hàng chục (vierzig) -> 'siebenundvierzig'."
   },
   {
    "type": "mcq",
    "q": "Wie sagt man '15:15 Uhr' im Alltag?",
    "options": [
+    "Viertel nach vier",
     "Viertel vor drei",
     "Viertel nach drei",
-    "halb vier",
-    "Viertel nach vier"
+    "halb vier"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "15:15 tức 3 giờ 15 phút chiều -> 'Viertel nach drei'."
   },
   {
@@ -61,19 +61,19 @@
    "q": "Wie liest man das Datum 'am 1. Mai'?",
    "options": [
     "am eins Mai",
-    "am ersten Mai",
     "am erste Mai",
+    "am ersten Mai",
     "im ersten Mai"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Sau giới từ 'am', số thứ tự ngày tháng có đuôi '-ten': 'am ersten Mai'."
   },
   {
    "type": "mcq",
    "q": "Welche Zahl ist 'sechzig'?",
    "options": [
-    "16",
     "6",
+    "16",
     "60",
     "600"
    ],

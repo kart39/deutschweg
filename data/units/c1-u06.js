@@ -500,29 +500,29 @@
      {
       "q": "Welche zentrale Rolle beschreibt der erste Abschnitt für freie Medien in einer Demokratie?",
       "options": [
-       "Sie üben als vierte Gewalt eine Kontrollfunktion aus und ermöglichen fundierte Meinungsbildung.",
        "Sie ersetzen gewählte Parlamente und Gerichte.",
-       "Sie dienen vor allem der kostengünstigen Unterhaltung."
+       "Sie dienen vor allem der kostengünstigen Unterhaltung.",
+       "Sie üben als vierte Gewalt eine Kontrollfunktion aus und ermöglichen fundierte Meinungsbildung."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Wodurch geraten klassische Tageszeitungen laut dem zweiten Abschnitt finanziell unter Druck?",
       "options": [
+       "Durch zu hohe staatliche Subventionen für Lokalredaktionen.",
        "Durch ein gesetzliches Verbot digitaler Abonnements.",
-       "Durch sinkende Printauflagen und den Abfluss digitaler Werbeeinnahmen an Tech-Konzerne.",
-       "Durch zu hohe staatliche Subventionen für Lokalredaktionen."
+       "Durch sinkende Printauflagen und den Abfluss digitaler Werbeeinnahmen an Tech-Konzerne."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wo zeigen sich die Folgen des Spardrucks besonders deutlich?",
       "options": [
        "Bei internationalen Filmfestivals.",
-       "Bei globalen Technologieplattformen.",
-       "Im Lokaljournalismus, wo oft nur noch zusammengelegte Redaktionen bestehen."
+       "Im Lokaljournalismus, wo oft nur noch zusammengelegte Redaktionen bestehen.",
+       "Bei globalen Technologieplattformen."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Wie reagieren seriöse Redaktionen auf den Trend zu schnellen, reißerischen Klick-Meldungen?",
@@ -545,11 +545,11 @@
      {
       "q": "Wie können Bürgerinnen und Bürger laut dem Schlussabschnitt den demokratischen Diskurs stärken?",
       "options": [
-       "Indem sie professionelle Redaktionen durch soziale Netzwerke ersetzen.",
+       "Indem sie für Qualitätsjournalismus zahlen und Medien kritisch nutzen.",
        "Indem sie Medien grundsätzlich misstrauisch meiden.",
-       "Indem sie für Qualitätsjournalismus zahlen und Medien kritisch nutzen."
+       "Indem sie professionelle Redaktionen durch soziale Netzwerke ersetzen."
       ],
-      "answer": 2
+      "answer": 0
      }
     ]
    },
@@ -563,48 +563,48 @@
      "type": "mcq",
      "q": "Welcher Satz verwendet die Konzessivkonjunktion „wenngleich“ grammatisch korrekt?",
      "options": [
-      "Wenngleich die Auflage sinkt, aber die Zeitung bleibt einflussreich.",
-      "Wenngleich die Auflage sinkt, bleibt die Zeitung einflussreich.",
       "Wenngleich sinkt die Auflage, bleibt die Zeitung einflussreich.",
-      "Wenngleich die Auflage sinkt, die Zeitung bleibt einflussreich."
+      "Wenngleich die Auflage sinkt, aber die Zeitung bleibt einflussreich.",
+      "Wenngleich die Auflage sinkt, die Zeitung bleibt einflussreich.",
+      "Wenngleich die Auflage sinkt, bleibt die Zeitung einflussreich."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "'wenngleich' mở mệnh đề phụ (động từ chia ở cuối), không dùng 'aber' ở vế chính và đảo động từ 'bleibt' lên ngay sau dấu phẩy."
     },
     {
      "type": "mcq",
      "q": "Welchen Kasus verlangt die Präposition „ungeachtet“?",
      "options": [
-      "Dativ",
-      "Akkusativ",
+      "Nominativ",
       "Genitiv",
-      "Nominativ"
+      "Akkusativ",
+      "Dativ"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Giới từ trang trọng 'ungeachtet' (= bất chấp) luôn đi với Genitiv (vd: 'ungeachtet heftiger Kritik')."
     },
     {
      "type": "mcq",
      "q": "Wählen Sie den korrekten Satz mit dem Konzessivadverb „gleichwohl“:",
      "options": [
+      "Die Recherche war teuer; die Redaktion gleichwohl veröffentlichte den Text.",
       "Die Recherche war teuer; gleichwohl veröffentlichte die Redaktion den Text.",
       "Die Recherche war teuer; gleichwohl die Redaktion veröffentlichte den Text.",
-      "Die Recherche war teuer; gleichwohl hat veröffentlicht die Redaktion den Text.",
-      "Die Recherche war teuer; die Redaktion gleichwohl veröffentlichte den Text."
+      "Die Recherche war teuer; gleichwohl hat veröffentlicht die Redaktion den Text."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'gleichwohl' là trạng từ nối mệnh đề chính (vị trí 1), kéo động từ chia 'veröffentlichte' lên vị trí 2. Lưu ý: Duden còn ghi „gleichwohl“ là liên từ phụ (= obwohl, động từ cuối câu, văn phong cổ/trang trọng), nhưng ở đây nó là trạng từ nối."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die Wendung „einen Skandal ans Licht bringen“?",
      "options": [
+      "Einen Skandal vor Gericht abweisen.",
       "Einen Skandal geheim halten.",
       "Einen Skandal durch Recherche öffentlich aufdecken.",
-      "Einen Skandal vor Gericht abweisen.",
       "Einen Skandal sprachlich verharmlosen."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'etwas ans Licht bringen' nghĩa là phanh phui, đưa sự thật bị che giấu ra ánh sáng."
     },
     {
@@ -612,20 +612,20 @@
      "q": "Welche Funktion wird freien Medien in einer Demokratie oft als „vierte Gewalt“ zugeschrieben?",
      "options": [
       "Die direkte Verabschiedung neuer Steuergesetze.",
+      "Die staatliche Zensur privater Nachrichten.",
       "Die gerichtliche Verurteilung von Politikern.",
-      "Die unabhängige Kontrollfunktion gegenüber Politik und Wirtschaft.",
-      "Die staatliche Zensur privater Nachrichten."
+      "Die unabhängige Kontrollfunktion gegenüber Politik und Wirtschaft."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Báo chí tự do được gọi là 'quyền lực thứ tư' nhờ chức năng giám sát độc lập ('Kontrollfunktion')."
     },
     {
      "type": "mcq",
      "q": "Was ist eine „Gegendarstellung“ im Presserecht?",
      "options": [
-      "Eine Werbeanzeige auf der Titelseite.",
       "Ein vertrauliches Gespräch mit einem Hinweisgeber.",
       "Eine bezahlte Meinungsumfrage.",
+      "Eine Werbeanzeige auf der Titelseite.",
       "Die veröffentlichte Erwiderung einer Person gegen eine falsche Tatsachenbehauptung."
      ],
      "answer": 3,
@@ -635,24 +635,24 @@
      "type": "mcq",
      "q": "Welches Adjektiv beschreibt eine sachliche Berichterstattung, die mehrere Perspektiven fair berücksichtigt?",
      "options": [
-      "ausgewogen",
-      "reißerisch",
       "einseitig",
-      "reflexhaft"
+      "reflexhaft",
+      "reißerisch",
+      "ausgewogen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'ausgewogen' nghĩa là cân bằng, công tâm và đa chiều."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz mit „obschon“ ist grammatisch korrekt?",
      "options": [
+      "Obschon der Spardruck wächst, bleiben viele Reporter engagiert.",
       "Obschon der Spardruck wächst, viele Reporter bleiben engagiert.",
       "Obschon wächst der Spardruck, bleiben viele Reporter engagiert.",
-      "Obschon der Spardruck wächst, bleiben viele Reporter engagiert.",
       "Obschon der Spardruck wächst, aber bleiben viele Reporter engagiert."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "'obschon' mở mệnh đề phụ đứng đầu câu nên động từ 'wächst' ở cuối vế phụ, và động từ 'bleiben' đảo lên ngay sau dấu phẩy."
     },
     {
@@ -1405,29 +1405,29 @@
      {
       "q": "Wodurch werden Empfehlungsalgorithmen laut dem zweiten Abschnitt vor allem gesteuert?",
       "options": [
-       "Durch die Logik der Aufmerksamkeitsökonomie und maximale Verweildauer.",
        "Durch das Ziel größtmöglicher journalistischer Ausgewogenheit.",
+       "Durch die Logik der Aufmerksamkeitsökonomie und maximale Verweildauer.",
        "Durch staatlich ernannte Redakteure."
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Warum geraten nüchterne Analysen in sozialen Netzwerken oft ins Hintertreffen?",
-      "options": [
-       "Weil sie gesetzlich verboten sind.",
-       "Weil sie weniger starke Emotionen und spontane Wortgefechte auslösen.",
-       "Weil Nutzer längere Texte grundsätzlich nicht lesen können."
       ],
       "answer": 1
      },
      {
-      "q": "Was bewirkt der psychologische Bestätigungsfehler laut dem dritten Abschnitt?",
+      "q": "Warum geraten nüchterne Analysen in sozialen Netzwerken oft ins Hintertreffen?",
       "options": [
-       "Nutzer prüfen jede Nachricht anhand unabhängiger Quellen.",
-       "Nutzer wechseln täglich zwischen gegensätzlichen Medien.",
-       "Nutzer glauben Informationen eher, wenn diese ihr bestehendes Weltbild stützen."
+       "Weil Nutzer längere Texte grundsätzlich nicht lesen können.",
+       "Weil sie gesetzlich verboten sind.",
+       "Weil sie weniger starke Emotionen und spontane Wortgefechte auslösen."
       ],
       "answer": 2
+     },
+     {
+      "q": "Was bewirkt der psychologische Bestätigungsfehler laut dem dritten Abschnitt?",
+      "options": [
+       "Nutzer glauben Informationen eher, wenn diese ihr bestehendes Weltbild stützen.",
+       "Nutzer wechseln täglich zwischen gegensätzlichen Medien.",
+       "Nutzer prüfen jede Nachricht anhand unabhängiger Quellen."
+      ],
+      "answer": 0
      },
      {
       "q": "Warum stellen KI-gestützte Falschmeldungen eine besondere Gefahr dar?",
@@ -1442,19 +1442,19 @@
       "q": "Welche Maßnahme verfolgt die Europäische Union auf regulatorischer Ebene?",
       "options": [
        "Das vollständige Verbot sozialer Netzwerke.",
-       "Strengere Transparenzpflichten und das Recht auf nicht-personalisierte Feeds.",
-       "Die Abschaffung von Medienkompetenz im Unterricht."
+       "Die Abschaffung von Medienkompetenz im Unterricht.",
+       "Strengere Transparenzpflichten und das Recht auf nicht-personalisierte Feeds."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was ist laut dem Schlussabschnitt langfristig entscheidend neben gesetzlichen Regeln?",
       "options": [
-       "Eine noch stärkere Personalisierung der Werbung.",
+       "Das kritische Urteilsvermögen und die Förderung von Medienkompetenz.",
        "Der komplette Verzicht auf digitale Kommunikation.",
-       "Das kritische Urteilsvermögen und die Förderung von Medienkompetenz."
+       "Eine noch stärkere Personalisierung der Werbung."
       ],
-      "answer": 2
+      "answer": 0
      }
     ]
    },
@@ -1468,22 +1468,22 @@
      "type": "mcq",
      "q": "Welcher Satz mit „wie … auch immer“ zeigt die im geschriebenen C1-Deutsch übliche Wortstellung im Hauptsatz?",
      "options": [
-      "Wie ausgeklügelt ein Filter auch immer ist, er erkennt nicht jede Fälschung.",
       "Wie ausgeklügelt ein Filter auch immer ist, aber er erkennt nicht jede Fälschung.",
+      "Wie ausgeklügelt ein Filter auch immer ist, er erkennt nicht jede Fälschung.",
       "Wie ist ein Filter auch immer ausgeklügelt, er erkennt nicht jede Fälschung.",
       "Wie ausgeklügelt auch immer ein Filter, erkennt er nicht jede Fälschung."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Trong mệnh đề phụ 'wie … auch immer', động từ chia 'ist' đứng cuối; vế chính chuẩn C1 thường giữ trật tự Chủ ngữ + Động từ ('er erkennt') mà không thêm 'aber'."
     },
     {
      "type": "mcq",
      "q": "Welche Bedeutung hat die Konjunktion „zumal“?",
      "options": [
-      "obwohl / wenngleich",
+      "damit / um zu",
       "besonders weil / erst recht da",
-      "sobald / nachdem",
-      "damit / um zu"
+      "obwohl / wenngleich",
+      "sobald / nachdem"
      ],
      "answer": 1,
      "explain": "'zumal' là liên từ nguyên nhân tăng tiến mang nghĩa 'nhất là khi / đặc biệt là vì'."
@@ -1492,10 +1492,10 @@
      "type": "mcq",
      "q": "Welcher Satz verwendet „zumal“ grammatisch korrekt?",
      "options": [
+      "Zumal sie rasch viral geht, ist Desinformation gefährlich.",
       "Desinformation ist gefährlich, zumal weil sie rasch viral geht.",
-      "Desinformation ist gefährlich, zumal sie geht rasch viral.",
       "Desinformation ist gefährlich, zumal sie rasch viral geht.",
-      "Zumal sie rasch viral geht, ist Desinformation gefährlich."
+      "Desinformation ist gefährlich, zumal sie geht rasch viral."
      ],
      "answer": 2,
      "explain": "'zumal' đứng sau vế chính, không đi kèm 'weil', và đưa động từ chia 'geht' về cuối mệnh đề phụ."
@@ -1504,60 +1504,60 @@
      "type": "mcq",
      "q": "Was bezeichnet der Begriff „Bestätigungsfehler“?",
      "options": [
+      "Das absichtliche Löschen von Kommentaren durch Moderatoren.",
       "Einen technischen Fehler beim Senden einer E-Mail.",
       "Die Tendenz, bevorzugt Informationen zu glauben, die die eigene Meinung stützen.",
-      "Die gesetzliche Pflicht zur Richtigstellung falscher Berichte.",
-      "Das absichtliche Löschen von Kommentaren durch Moderatoren."
+      "Die gesetzliche Pflicht zur Richtigstellung falscher Berichte."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'der Bestätigungsfehler' (confirmation bias) là thiên kiến xác nhận — xu hướng chỉ tin thông tin phù hợp với quan điểm sẵn có."
     },
     {
      "type": "mcq",
      "q": "Welche Formulierung bedeutet „nicht ausreichend berücksichtigt werden“?",
      "options": [
+      "in Kauf nehmen",
       "ans Licht kommen",
       "zu Wort kommen",
-      "zu kurz kommen",
-      "in Kauf nehmen"
+      "zu kurz kommen"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "'zu kurz kommen' nghĩa là bị xem nhẹ, không nhận được sự quan tâm xứng đáng."
     },
     {
      "type": "mcq",
      "q": "Wählen Sie den korrekten Satz mit „so … auch“:",
      "options": [
-      "So bequem personalisierte Feeds auch sind, sie verengen oft den Blickwinkel.",
-      "So bequem sind personalisierte Feeds auch, sie verengen oft den Blickwinkel.",
       "So bequem personalisierte Feeds auch sind, aber sie verengen oft den Blickwinkel.",
-      "So personalisierte Feeds bequem auch sind, verengen sie oft den Blickwinkel."
+      "So bequem sind personalisierte Feeds auch, sie verengen oft den Blickwinkel.",
+      "So personalisierte Feeds bequem auch sind, verengen sie oft den Blickwinkel.",
+      "So bequem personalisierte Feeds auch sind, sie verengen oft den Blickwinkel."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Cấu trúc chuẩn là 'So + Adj. + Subjekt + auch + Verb (cuối vế phụ), Subjekt + Verb …'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt in die Lücke: „Die EU hat großen Plattformen strenge Transparenzpflichten ___.“",
      "options": [
-      "entlarvt",
+      "auferlegt",
       "widergespiegelt",
       "verengt",
-      "auferlegt"
+      "entlarvt"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Collocation chuẩn C1: 'jemandem (Dat.) Pflichten auferlegen' (áp đặt nghĩa vụ lên ai)."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „täuschend echt“?",
      "options": [
-      "Sofort als Fälschung erkennbar.",
       "So realistisch wirkend, dass man es leicht für echt hält.",
       "Von Behörden offiziell bestätigt.",
-      "Absichtlich humorvoll übertrieben."
+      "Absichtlich humorvoll übertrieben.",
+      "Sofort als Fälschung erkennbar."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'täuschend echt' nghĩa là giống thật đến mức dễ đánh lừa người xem/nghe."
     },
     {
@@ -2322,20 +2322,20 @@
      {
       "q": "Welche Entwicklung beklagen Beobachter im zweiten Abschnitt?",
       "options": [
+       "Dass Bürger gar keine Meinungen mehr äußern.",
        "Dass Talkshows zu wenige Zuschauer erreichen.",
-       "Eine sprachliche Verrohung, bei der Polemik und Diffamierung sachliche Argumente verdrängen.",
-       "Dass Bürger gar keine Meinungen mehr äußern."
+       "Eine sprachliche Verrohung, bei der Polemik und Diffamierung sachliche Argumente verdrängen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welcher Einwand wird gegen eine allgemeine Klarnamenpflicht im Internet angeführt?",
       "options": [
+       "Sie gefährdet schutzbedürftige Gruppen und verhindert Beleidigungen nachweislich nicht automatisch.",
        "Sie wäre technisch völlig unmöglich umzusetzen.",
-       "Sie würde die Werbeeinnahmen der Zeitungen halbieren.",
-       "Sie gefährdet schutzbedürftige Gruppen und verhindert Beleidigungen nachweislich nicht automatisch."
+       "Sie würde die Werbeeinnahmen der Zeitungen halbieren."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Was lässt das Scheinargument im vierten Abschnitt laut Text außer Acht?",
@@ -2349,20 +2349,20 @@
      {
       "q": "Wodurch zeichnen sich laut dem Schlussabschnitt gute Leitartikel und Diskussionssendungen aus?",
       "options": [
+       "Sie setzen vor allem auf laute Schlagabtausche.",
        "Sie ignorieren Gegenargumente konsequent.",
-       "Sie stellen Gegenargumente fair in ihrer stärksten Form dar und wägen sie sachlich ab.",
-       "Sie setzen vor allem auf laute Schlagabtausche."
+       "Sie stellen Gegenargumente fair in ihrer stärksten Form dar und wägen sie sachlich ab."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welchen Grundsatz formuliert der Autor am Ende des Textes?",
       "options": [
+       "Hart in der Sache streiten, aber respektvoll im Umgang mit Menschen bleiben.",
        "Harmonie ist wichtiger als jeder offene Widerspruch.",
-       "Alle Online-Foren sollten geschlossen werden.",
-       "Hart in der Sache streiten, aber respektvoll im Umgang mit Menschen bleiben."
+       "Alle Online-Foren sollten geschlossen werden."
       ],
-      "answer": 2
+      "answer": 0
      }
     ]
    },
@@ -2376,12 +2376,12 @@
      "type": "mcq",
      "q": "Welche Formulierung dient im Deutschen dazu, ein Gegenargument sachlich einzuleiten?",
      "options": [
-      "Dem ist jedoch entgegenzuhalten, dass …",
-      "Das ist total falsch, weil …",
+      "Deshalb ist es klar, indem …",
       "Ich habe absolut recht, sodass …",
-      "Deshalb ist es klar, indem …"
+      "Dem ist jedoch entgegenzuhalten, dass …",
+      "Das ist total falsch, weil …"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Dem ist jedoch entgegenzuhalten, dass …' là mẫu câu phản biện chuẩn mực, trang trọng ở trình độ C1."
     },
     {
@@ -2390,44 +2390,44 @@
      "options": [
       "entgegenhalten",
       "zu entgegenhalten",
-      "entgegenzuhalten",
-      "entgegengehalten"
+      "entgegengehalten",
+      "entgegenzuhalten"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Trong cấu trúc bị động thay thế 'sein + zu + Infinitiv', 'zu' đứng giữa tiền tố tách và gốc động từ: 'entgegenzuhalten'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die Wendung „Dieses Argument greift zu kurz“?",
      "options": [
-      "Dieses Argument ist besonders präzise und vollständig.",
       "Dieses Argument betrachtet nur einen kleinen Teil des Problems und übersieht wichtige Aspekte.",
-      "Dieses Argument dauert in einer Rede nur wenige Sekunden.",
-      "Dieses Argument wird von allen Experten unterstützt."
+      "Dieses Argument wird von allen Experten unterstützt.",
+      "Dieses Argument ist besonders präzise und vollständig.",
+      "Dieses Argument dauert in einer Rede nur wenige Sekunden."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'zu kurz greifen' nghĩa là lập luận quá hẹp, chưa thấu đáo, bỏ sót những khía cạnh cốt lõi."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt in die Lücke: „Diese Behauptung hält einer sachlichen Faktenprüfung nicht ___.“",
      "options": [
-      "aus",
-      "auf",
+      "ein",
       "stand",
-      "ein"
+      "aus",
+      "auf"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Động từ tách 'standhalten (+ Dat.)' mang nghĩa 'đứng vững trước (một phép kiểm chứng/phê bình)'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „einen Teil der gegnerischen Argumentation als richtig anerkennen“?",
      "options": [
-      "diffamieren",
-      "einräumen",
       "verharmlosen",
-      "zurückweisen"
+      "einräumen",
+      "zurückweisen",
+      "diffamieren"
      ],
      "answer": 1,
      "explain": "'einräumen' nghĩa là thừa nhận một phần hợp lý của phía đối lập (nhượng bộ chiến lược)."
@@ -2437,9 +2437,9 @@
      "q": "Welche Wendung bedeutet „einen wichtigen Faktor nicht berücksichtigen“?",
      "options": [
       "etwas außer Acht lassen",
+      "etwas untermauern",
       "zu etwas Stellung beziehen",
-      "etwas ans Licht bringen",
-      "etwas untermauern"
+      "etwas ans Licht bringen"
      ],
      "answer": 0,
      "explain": "'etwas außer Acht lassen' nghĩa là bỏ qua, không tính đến một yếu tố quan trọng."
@@ -2449,21 +2449,21 @@
      "q": "Welches Adjektiv beschreibt ein besonders überzeugendes, logisch begründetes Argument?",
      "options": [
       "unhaltbar",
-      "einseitig",
+      "stichhaltig",
       "reißerisch",
-      "stichhaltig"
+      "einseitig"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "'stichhaltig' nghĩa là vững chắc, sắc bén, đứng vững về mặt logic."
     },
     {
      "type": "mcq",
      "q": "Welche Präposition gehört zur festen Wendung „Stellung beziehen“?",
      "options": [
-      "Stellung beziehen für + Akk.",
-      "Stellung beziehen zu + Dat.",
       "Stellung beziehen über + Akk.",
-      "Stellung beziehen mit + Dat."
+      "Stellung beziehen zu + Dat.",
+      "Stellung beziehen mit + Dat.",
+      "Stellung beziehen für + Akk."
      ],
      "answer": 1,
      "explain": "Cụm chuẩn C1 là 'zu etwas (Dat.) Stellung beziehen' (nêu lập trường rõ ràng về vấn đề gì)."
@@ -3114,11 +3114,11 @@
      {
       "q": "Welcher Kontrast wird im ersten Abschnitt beschrieben?",
       "options": [
-       "Zwischen beispielloser Informationsfülle einerseits und Desinformation sowie Nachrichtenmüdigkeit andererseits.",
        "Zwischen Printmedien in Berlin und gedruckten Büchern im Mittelalter.",
+       "Zwischen beispielloser Informationsfülle einerseits und Desinformation sowie Nachrichtenmüdigkeit andererseits.",
        "Zwischen staatlicher Zensur und völliger Ablehnung von Smartphones."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Warum geraten selbst etablierte Medien laut dem zweiten Abschnitt mitunter in den Sog der Skandalisierung?",
@@ -3132,11 +3132,11 @@
      {
       "q": "Was versteht der Text im dritten Abschnitt unter „Nachrichtenwüsten“?",
       "options": [
-       "Regionen ohne schnelles Mobilfunknetz.",
        "Online-Foren mit zu vielen anonymen Kommentaren.",
-       "Regionen ohne lokale Redaktionen, in denen niemand mehr kommunale Politik kritisch begleitet."
+       "Regionen ohne lokale Redaktionen, in denen niemand mehr kommunale Politik kritisch begleitet.",
+       "Regionen ohne schnelles Mobilfunknetz."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Wie bewertet der vierte Abschnitt rein freiwillige Zusagen großer Technologiekonzerne?",
@@ -3150,20 +3150,20 @@
      {
       "q": "Wodurch zeichnet sich „konstruktiver Journalismus“ im fünften Abschnitt aus?",
       "options": [
-       "Er verschweigt gesellschaftliche Konflikte vollständig.",
        "Er geht Ursachen auf den Grund und zeigt Lösungswege, ohne Probleme zu verharmlosen.",
-       "Er verzichtet bewusst auf die journalistische Kontrollfunktion."
+       "Er verzichtet bewusst auf die journalistische Kontrollfunktion.",
+       "Er verschweigt gesellschaftliche Konflikte vollständig."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was entscheidet laut dem Schlussabschnitt letztlich über die Qualität einer Öffentlichkeit?",
       "options": [
+       "Die Fähigkeit mündiger Bürger, Informationen kritisch zu hinterfragen und fair zu verhandeln.",
        "Ausschließlich die möglichst große Menge an täglichen Eilmeldungen.",
-       "Die Abschaffung sämtlicher digitaler Plattformen.",
-       "Die Fähigkeit mündiger Bürger, Informationen kritisch zu hinterfragen und fair zu verhandeln."
+       "Die Abschaffung sämtlicher digitaler Plattformen."
       ],
-      "answer": 2
+      "answer": 0
      }
     ]
    },
@@ -3177,58 +3177,58 @@
      "type": "mcq",
      "q": "Welche Konjunktion passt logisch und grammatisch: „Falschmeldungen gefährden Wahlen, ___ sie oft täuschend echt wirken.“",
      "options": [
+      "ungeachtet",
       "wenngleich",
       "zumal",
-      "ungeachtet",
       "gleichwohl"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'zumal' bổ sung nguyên nhân tăng tiến (= nhất là khi / đặc biệt là vì) sau mệnh đề chính."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz mit „wie … auch immer“ ist im gehobenen C1-Deutsch am besten?",
      "options": [
+      "Wie streng ist ein Verhaltenskodex auch immer formuliert, ohne Kontrolle läuft er oft ins Leere.",
       "Wie streng ein Verhaltenskodex auch immer formuliert ist, ohne Kontrolle läuft er oft ins Leere.",
       "Wie streng ein Verhaltenskodex auch immer formuliert ist, aber ohne Kontrolle läuft er oft ins Leere.",
-      "Wie streng ist ein Verhaltenskodex auch immer formuliert, ohne Kontrolle läuft er oft ins Leere.",
       "Wie auch immer ein Verhaltenskodex streng formuliert, läuft er oft ins Leere."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Động từ chia 'ist' đứng cuối mệnh đề phụ 'Wie … auch immer', và không thêm 'aber' ở vế chính."
     },
     {
      "type": "mcq",
      "q": "Welche Präposition verlangt den Genitiv?",
      "options": [
-      "trotzdem",
       "gleichwohl",
       "ungeachtet",
-      "wenngleich"
+      "wenngleich",
+      "trotzdem"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "'ungeachtet' là giới từ nhượng bộ đi với Genitiv; 'trotzdem' và 'gleichwohl' là trạng từ, 'wenngleich' là liên từ."
     },
     {
      "type": "mcq",
      "q": "Was unterscheidet im Presserecht eine „Tatsachenbehauptung“ von einem „Werturteil“?",
      "options": [
+      "Eine Tatsachenbehauptung darf nur in Leitartikeln stehen.",
       "Eine Tatsachenbehauptung ist objektiv auf wahr oder falsch überprüfbar, ein Werturteil drückt eine subjektive Meinung aus.",
       "Ein Werturteil ist grundsätzlich verboten, eine Tatsachenbehauptung immer erlaubt.",
-      "Beide Begriffe sind vollständige Synonyme ohne juristischen Unterschied.",
-      "Eine Tatsachenbehauptung darf nur in Leitartikeln stehen."
+      "Beide Begriffe sind vollständige Synonyme ohne juristischen Unterschied."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'Tatsachenbehauptung' là phát biểu về sự kiện có thể kiểm chứng đúng/sai; 'Werturteil' là nhận định chủ quan."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die feste Wendung „einer Sache auf den Grund gehen“?",
      "options": [
-      "Eine Sache oberflächlich ignorieren.",
+      "Eine Sache sofort vergessen.",
       "Die tieferen Ursachen einer Sache gründlich erforschen.",
       "Eine Sache absichtlich skandalisieren.",
-      "Eine Sache sofort vergessen."
+      "Eine Sache oberflächlich ignorieren."
      ],
      "answer": 1,
      "explain": "'einer Sache (Dat.) auf den Grund gehen' nghĩa là tìm hiểu kỹ đến tận gốc rễ nguyên nhân."
@@ -3237,34 +3237,34 @@
      "type": "mcq",
      "q": "Was bedeutet „Freiwillige Appelle laufen oft ins Leere“?",
      "options": [
-      "Sie erzielen großen wirtschaftlichen Erfolg.",
-      "Sie werden gesetzlich streng bestraft.",
+      "Sie erhöhen die Medienvielfalt sofort.",
       "Sie bleiben wirkungslos und führen zu keinem Ergebnis.",
-      "Sie erhöhen die Medienvielfalt sofort."
+      "Sie werden gesetzlich streng bestraft.",
+      "Sie erzielen großen wirtschaftlichen Erfolg."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "'ins Leere laufen' nghĩa là trở nên vô ích, không mang lại kết quả thực tế."
     },
     {
      "type": "mcq",
      "q": "Welche Formulierung entkräftet ein Gegenargument auf C1-Niveau am elegantesten?",
      "options": [
+      "Ungeachtet dessen weil das Argument falsch ist.",
       "Dem ist jedoch entgegenzuhalten, dass diese Annahme einer Faktenprüfung nicht standhält.",
       "Das stimmt überhaupt nicht und ist eine schlechte Idee.",
-      "Ungeachtet dessen weil das Argument falsch ist.",
       "Zumal ich das ganz anders sehe."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Kết hợp 'Dem ist jedoch entgegenzuhalten, dass …' với 'einer Faktenprüfung nicht standhalten' đạt văn phong lập luận C1 mẫu mực."
     },
     {
      "type": "mcq",
      "q": "Welches Verb verlangt die Präposition „auf + Akkusativ“?",
      "options": [
-      "ablenken",
+      "entkräften",
       "hinterfragen",
       "abzielen",
-      "entkräften"
+      "ablenken"
      ],
      "answer": 2,
      "explain": "'abzielen auf + Akkusativ' mang nghĩa 'nhắm tới, hướng tới mục đích gì'."
@@ -3273,24 +3273,24 @@
      "type": "mcq",
      "q": "Was bezeichnet der Begriff „Nachrichtenmüdigkeit“?",
      "options": [
-      "Die abendliche Müdigkeit von Fernsehmoderatoren.",
       "Das bewusste Vermeiden von Nachrichten aufgrund ständiger Krisenmeldungen und Überforderung.",
+      "Das Fehlen von Sportberichten in Tageszeitungen.",
       "Die langsame Internetverbindung in ländlichen Regionen.",
-      "Das Fehlen von Sportberichten in Tageszeitungen."
+      "Die abendliche Müdigkeit von Fernsehmoderatoren."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'die Nachrichtenmüdigkeit' (news fatigue) là trạng thái kiệt sức và chủ động né tránh tin tức do quá tải tin khủng hoảng."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz verwendet „gleichwohl“ syntaktisch korrekt?",
      "options": [
-      "Die Kritik war berechtigt; gleichwohl änderte der Konzern seine Strategie nicht.",
-      "Die Kritik war berechtigt; gleichwohl der Konzern änderte seine Strategie nicht.",
       "Die Kritik war berechtigt; gleichwohl hat geändert der Konzern seine Strategie nicht.",
-      "Die Kritik war berechtigt; der Konzern gleichwohl änderte seine Strategie nicht."
+      "Die Kritik war berechtigt; gleichwohl änderte der Konzern seine Strategie nicht.",
+      "Die Kritik war berechtigt; der Konzern gleichwohl änderte seine Strategie nicht.",
+      "Die Kritik war berechtigt; gleichwohl der Konzern änderte seine Strategie nicht."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'gleichwohl' là trạng từ nối ở vị trí 1 sau dấu chấm phẩy nên động từ chia 'änderte' đứng ngay vị trí 2. Lưu ý: Duden còn ghi „gleichwohl“ là liên từ phụ (= obwohl, động từ cuối câu, văn phong cổ/trang trọng), nhưng ở đây nó là trạng từ nối."
     },
     {

@@ -400,43 +400,43 @@
      {
       "q": "Wann ist Stress laut dem Text sogar nützlich?",
       "options": [
-       "Wenn er kurzfristig auftritt und vor wichtigen Aufgaben die Aufmerksamkeit steigert.",
-       "Wenn er über viele Monate anhält.",
+       "Wenn man auf jede Pause verzichtet.",
        "Wenn man abends im Bett berufliche Mails liest.",
-       "Wenn man auf jede Pause verzichtet."
+       "Wenn er kurzfristig auftritt und vor wichtigen Aufgaben die Aufmerksamkeit steigert.",
+       "Wenn er über viele Monate anhält."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 1 giải thích căng thẳng ngắn hạn giúp tăng tập trung và đạt hiệu suất cao nhất thời."
      },
      {
       "q": "Was gehört zu den häufigen Auslösern für Dauerstress im Beruf?",
       "options": [
-       "Regelmäßige Bewegung im Park.",
-       "Ständige Erreichbarkeit, unklare Erwartungen und Überforderung.",
+       "Klare Prioritäten im Team.",
        "Feste Feierabendzeiten.",
-       "Klare Prioritäten im Team."
+       "Regelmäßige Bewegung im Park.",
+       "Ständige Erreichbarkeit, unklare Erwartungen und Überforderung."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 2 liệt kê việc trực liên lạc liên tục, kỳ vọng mù mờ và cảm giác quá tải."
      },
      {
       "q": "Welche frühen Warnsignale nennt der Text?",
       "options": [
+       "Besserer Schlaf am Wochenende.",
        "Anhaltende Müdigkeit, Herzrasen, Reizbarkeit und Konzentrationsstörungen.",
        "Hoher Blutdruck erst nach zehn Jahren.",
-       "Plötzlicher Wunsch nach Sport.",
-       "Besserer Schlaf am Wochenende."
+       "Plötzlicher Wunsch nach Sport."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 3 nêu rõ 4 triệu chứng cảnh báo sớm."
      },
      {
       "q": "Warum reicht individuelle Entspannung allein oft nicht aus?",
       "options": [
-       "Weil Atemtechniken nie funktionieren.",
+       "Weil Ärzte keine Auszeiten empfehlen.",
        "Weil auch Unternehmen durch realistische Fristen und Gesprächskultur Überforderung verhindern müssen.",
        "Weil Sport das Immunsystem schwächt.",
-       "Weil Ärzte keine Auszeiten empfehlen."
+       "Weil Atemtechniken nie funktionieren."
       ],
       "answer": 1,
       "explain": "Đoạn 4 & 5 nhấn mạnh phòng ngừa cần kết hợp cả cá nhân và trách nhiệm của doanh nghiệp."
@@ -445,11 +445,11 @@
       "q": "Wie bewertet der Autor betrieblichen Gesundheitsschutz?",
       "options": [
        "Als unnötigen Kostenfaktor.",
+       "Als Zeichen geringer Produktivität.",
        "Als kluge Investition in motivierte und langfristig gesunde Mitarbeitende.",
-       "Als Aufgabe nur für Krankenkassen.",
-       "Als Zeichen geringer Produktivität."
+       "Als Aufgabe nur für Krankenkassen."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Câu kết khẳng định bảo vệ sức khỏe nơi làm việc là khoản đầu tư khôn ngoan cho tương lai."
      }
     ],
@@ -466,12 +466,12 @@
      "type": "mcq",
      "q": "Welcher Satz drückt die höchste Wahrscheinlichkeit (~95 %) einer Vermutung aus?",
      "options": [
+      "Er dürfte gestern bis Mitternacht gearbeitet haben.",
       "Er muss gestern bis Mitternacht gearbeitet haben.",
       "Er könnte gestern bis Mitternacht gearbeitet haben.",
-      "Er dürfte gestern bis Mitternacht gearbeitet haben.",
       "Er mag gestern gearbeitet haben."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'muss' diễn tả sự phỏng đoán gần như chắc chắn (~95%)."
     },
     {
@@ -480,8 +480,8 @@
      "options": [
       "Der Stress dürfte die Ursache sein.",
       "Der Stress darf die Ursache sein.",
-      "Der Stress kann nicht die Ursache sein.",
-      "Der Stress will die Ursache sein."
+      "Der Stress will die Ursache sein.",
+      "Der Stress kann nicht die Ursache sein."
      ],
      "answer": 0,
      "explain": "Dạng Konjunktiv II 'dürfte' diễn tả khả năng cao (~75–85%)."
@@ -491,9 +491,9 @@
      "q": "Wie bildet man eine Vermutung über die Vergangenheit mit „könnte“?",
      "options": [
       "Der Fehler könnte durch Müdigkeit entstanden sein.",
+      "Der Fehler könnte durch Müdigkeit entstanden werden.",
       "Der Fehler könnte durch Müdigkeit entstehen sein.",
-      "Der Fehler könnte durch Müdigkeit ist entstanden.",
-      "Der Fehler könnte durch Müdigkeit entstanden werden."
+      "Der Fehler könnte durch Müdigkeit ist entstanden."
      ],
      "answer": 0,
      "explain": "Modalverb + Partizip II + haben/sein ở cuối câu ('entstanden sein')."
@@ -502,60 +502,60 @@
      "type": "mcq",
      "q": "Was bedeutet „abschalten“ im Zusammenhang mit Erholung?",
      "options": [
-      "Sich nach der Arbeit geistig erholen und nicht mehr an Probleme denken",
       "Den Strom im ganzen Haus abstellen",
       "Überstunden im Büro machen",
-      "Eine Atemtechnik abbrechen"
+      "Eine Atemtechnik abbrechen",
+      "Sich nach der Arbeit geistig erholen und nicht mehr an Probleme denken"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'abschalten' (nghĩa bóng) = ngắt kết nối công việc, thả lỏng đầu óc."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Symptom“?",
      "options": [
-      "das",
       "der",
       "die",
-      "–"
+      "–",
+      "das"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Danh từ chuẩn là 'das Symptom, die Symptome'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb verlangt den Dativ: „Regelmäßiger Sport beugt ___ wirksam vor“?",
      "options": [
-      "einem Burnout",
-      "einen Burnout",
+      "ein Burnout",
       "eines Burnouts",
-      "ein Burnout"
+      "einem Burnout",
+      "einen Burnout"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'vorbeugen + Dativ': einem Burnout vorbeugen."
     },
     {
      "type": "mcq",
      "q": "Was passt: „Das ___ kein Zufall sein – sie fehlen schon zum dritten Mal gleichzeitig.“",
      "options": [
-      "kann",
+      "soll",
       "darf",
-      "muss",
-      "soll"
+      "kann",
+      "muss"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Phủ định 'kann kein ... sein' diễn tả điều hầu như không thể xảy ra."
     },
     {
      "type": "mcq",
      "q": "Welche Wortstellung ist im Nebensatz mit subjektivem Modalverb in der Vergangenheit richtig?",
      "options": [
-      "..., weil er schlecht geschlafen haben muss.",
       "..., weil er muss schlecht geschlafen haben.",
-      "..., weil er schlecht haben geschlafen muss.",
-      "..., weil er geschlafen muss haben."
+      "..., weil er schlecht geschlafen haben muss.",
+      "..., weil er geschlafen muss haben.",
+      "..., weil er schlecht haben geschlafen muss."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Trong mệnh đề phụ ('weil'), Modalverb chia đứng cuối cùng sau 'geschafen haben'."
     },
     {
@@ -1149,54 +1149,54 @@
      {
       "q": "Was passiert laut dem Text während der Tiefschlafphase?",
       "options": [
-       "Das Gehirn löscht alle Erinnerungen des Tages.",
-       "Zellen werden repariert, Wachstumshormone ausgeschüttet und das Immunsystem gestärkt.",
+       "Die Körpertemperatur steigt stark an.",
        "Man erlebt besonders viele Alpträume.",
-       "Die Körpertemperatur steigt stark an."
+       "Das Gehirn löscht alle Erinnerungen des Tages.",
+       "Zellen werden repariert, Wachstumshormone ausgeschüttet und das Immunsystem gestärkt."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 2 mô tả 3 quá trình sinh học diễn ra trong giai đoạn ngủ sâu."
      },
      {
       "q": "Was zeigen Untersuchungen im Schlaflabor über Menschen, die angeblich nur vier Stunden Schlaf brauchen?",
       "options": [
+       "Dass Melatonin bei ihnen nicht wirkt.",
        "Dass sie völlig ohne Regeneration auskommen.",
-       "Dass auch sie oft unbemerkte Sekundenschläfe haben oder langsamer reagieren.",
        "Dass sie keinen Biorhythmus besitzen.",
-       "Dass Melatonin bei ihnen nicht wirkt."
+       "Dass auch sie oft unbemerkte Sekundenschläfe haben oder langsamer reagieren."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 chỉ ra ngay cả những người tự nhận ngủ 4 tiếng cũng bị ngủ gật ngắn hoặc phản ứng chậm."
      },
      {
       "q": "Wie beeinflusst Blaulicht von Bildschirmen am Abend den Schlaf?",
       "options": [
-       "Es täuscht Tageslicht vor und hemmt die Bildung von Melatonin.",
+       "Es ersetzt das Koffein.",
        "Es fördert sofort die Tiefschlafphase.",
-       "Es senkt die Temperatur im Schlafzimmer.",
-       "Es ersetzt das Koffein."
+       "Es täuscht Tageslicht vor und hemmt die Bildung von Melatonin.",
+       "Es senkt die Temperatur im Schlafzimmer."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 4 giải thích ánh sáng nhân tạo đánh lừa não bộ và ức chế melatonin."
      },
      {
       "q": "Was empfehlen Fachleute statt schneller Einnahme von Schlafmitteln?",
       "options": [
-       "Langes Arbeiten bis zur völligen Erschöpfung.",
-       "Konsequente Schlafhygiene mit festen Zeiten, dunklem Zimmer und Abendritualen.",
+       "Auf jede Nachtruhe am Wochenende zu verzichten.",
        "Jeden Nachmittag zwei Stunden Mittagsschlaf.",
-       "Auf jede Nachtruhe am Wochenende zu verzichten."
+       "Konsequente Schlafhygiene mit festen Zeiten, dunklem Zimmer und Abendritualen.",
+       "Langes Arbeiten bis zur völligen Erschöpfung."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn cuối liệt kê các biện pháp vệ sinh giấc ngủ."
      },
      {
       "q": "Wann ist laut dem letzten Abschnitt ein Besuch im Schlaflabor sinnvoll?",
       "options": [
-       "Schon nach einer einzigen unruhigen Nacht.",
+       "Wenn man zu früh aufwacht.",
        "Wenn Schlafprobleme über mehrere Wochen hinweg anhalten.",
        "Nur bei Kindern im Grundschulalter.",
-       "Wenn man zu früh aufwacht."
+       "Schon nach einer einzigen unruhigen Nacht."
       ],
       "answer": 1,
       "explain": "Đoạn cuối khuyên đi khám khi vấn đề kéo dài nhiều tuần."
@@ -1215,12 +1215,12 @@
      "type": "mcq",
      "q": "Welcher Satz drückt aus: „Man erzählt, dass diese Teemischung beim Einschlafen hilft“?",
      "options": [
-      "Diese Teemischung soll beim Einschlafen helfen.",
-      "Diese Teemischung will beim Einschlafen helfen.",
       "Diese Teemischung muss beim Einschlafen helfen.",
-      "Diese Teemischung darf beim Einschlafen helfen."
+      "Diese Teemischung will beim Einschlafen helfen.",
+      "Diese Teemischung darf beim Einschlafen helfen.",
+      "Diese Teemischung soll beim Einschlafen helfen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'soll' chủ quan diễn tả thông tin nghe được từ người khác / tin đồn."
     },
     {
@@ -1228,9 +1228,9 @@
      "q": "Was bedeutet der Satz: „Minh will gestern acht Stunden geschlafen haben“?",
      "options": [
       "Minh behauptet das über sich selbst, aber der Sprecher bezweifelt es.",
-      "Minh plant, morgen acht Stunden zu schlafen.",
       "Alle Ärzte empfehlen Minh acht Stunden Schlaf.",
-      "Minh musste acht Stunden schlafen."
+      "Minh musste acht Stunden schlafen.",
+      "Minh plant, morgen acht Stunden zu schlafen."
      ],
      "answer": 0,
      "explain": "'will + Partizip II + haben' = tự khẳng định về mình nhưng người nói hoài nghi."
@@ -1239,36 +1239,36 @@
      "type": "mcq",
      "q": "Wählen Sie das richtige subjektive Modalverb: „Laut einer neuen Studie ___ ein kurzer Mittagsschlaf die Konzentration fördern.“",
      "options": [
-      "soll",
-      "will",
       "darf",
-      "muss nicht"
+      "will",
+      "muss nicht",
+      "soll"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Dẫn lại thông tin từ nghiên cứu ('Laut einer Studie') dùng 'soll'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz hat dieselbe Bedeutung wie „Er behauptet, den Kaffee abends nicht getrunken zu haben“?",
      "options": [
-      "Er will den Kaffee abends nicht getrunken haben.",
+      "Er musste den Kaffee abends trinken.",
       "Er soll den Kaffee abends nicht getrunken haben.",
       "Er dürfte den Kaffee abends nicht getrunken haben.",
-      "Er musste den Kaffee abends trinken."
+      "Er will den Kaffee abends nicht getrunken haben."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Chính chủ ngữ tự khẳng định (có sắc thái hoài nghi) dùng 'will'."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Schlafrhythmus“?",
      "options": [
+      "das",
       "der",
       "die",
-      "das",
       "–"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Danh từ chuẩn là 'der Schlafrhythmus, die Schlafrhythmen'."
     },
     {
@@ -1276,9 +1276,9 @@
      "q": "Was bedeutet „durchschlafen“?",
      "options": [
       "Die ganze Nacht ohne Unterbrechung schlafen",
+      "Im Schlaflabor arbeiten",
       "Nur zwanzig Minuten am Mittag schlafen",
-      "Überhaupt nicht einschlafen können",
-      "Im Schlaflabor arbeiten"
+      "Überhaupt nicht einschlafen können"
      ],
      "answer": 0,
      "explain": "'durchschlafen' = ngủ liền mạch cả đêm không thức giấc."
@@ -1287,24 +1287,24 @@
      "type": "mcq",
      "q": "Welches Verb bedeutet „die Bildung von Melatonin bremsen/blockieren“?",
      "options": [
+      "schonen",
       "hemmen",
-      "verarbeiten",
       "erholen",
-      "schonen"
+      "verarbeiten"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'hemmen' = ức chế, kìm hãm."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz steht korrekt in der Vergangenheitsform mit ‚sollen‘ (Gerücht)?",
      "options": [
-      "Der Patient soll wochenlang unter Schlafstörungen gelitten haben.",
-      "Der Patient soll wochenlang unter Schlafstörungen gelitten sein.",
       "Der Patient soll wochenlang unter Schlafstörungen leiden haben.",
-      "Der Patient sollte wochenlang unter Schlafstörungen gelitten."
+      "Der Patient soll wochenlang unter Schlafstörungen gelitten sein.",
+      "Der Patient sollte wochenlang unter Schlafstörungen gelitten.",
+      "Der Patient soll wochenlang unter Schlafstörungen gelitten haben."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'leiden' dùng trợ động từ 'haben' → 'soll ... gelitten haben'."
     },
     {
@@ -1894,10 +1894,10 @@
      {
       "q": "Was widerlegt die moderne Psychologie im ersten Abschnitt?",
       "options": [
-       "Dass Sport bei Stress hilft.",
+       "Dass Gelassenheit nützlich ist.",
        "Die Annahme, dass Resilienz nur angeboren und unveränderlich sei.",
-       "Dass Berufstätige Krisen erleben.",
-       "Dass Gelassenheit nützlich ist."
+       "Dass Sport bei Stress hilft.",
+       "Dass Berufstätige Krisen erleben."
       ],
       "answer": 1,
       "explain": "Đoạn 1 bác bỏ quan niệm cũ cho rằng sức bền tâm lý chỉ là bẩm sinh."
@@ -1905,23 +1905,23 @@
      {
       "q": "Wie gehen resiliente Menschen mit unveränderlichen Problemen um?",
       "options": [
+       "Sie geben sofort alle Ziele auf.",
        "Sie akzeptieren die Realität und konzentrieren sich auf das, was noch gestaltbar ist.",
        "Sie ignorieren alle Tatsachen monatelang.",
-       "Sie geben sofort alle Ziele auf.",
        "Sie sprechen mit niemandem darüber."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 2 giải thích sự chấp nhận thực tế và tập trung vào phần còn có thể thay đổi."
      },
      {
       "q": "Welche Bedeutung hat eine einfühlsame Vertrauensperson in Krisenzeiten?",
       "options": [
        "Sie ersetzt jede medizinische Behandlung.",
-       "Sie hilft Betroffenen, Krisen deutlich schneller zu verarbeiten und Entlastung zu finden.",
        "Sie verstärkt das Gefühl von Einsamkeit.",
+       "Sie hilft Betroffenen, Krisen deutlich schneller zu verarbeiten und Entlastung zu finden.",
        "Sie löst alle beruflichen Aufgaben."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 3 nêu người có chỗ dựa tâm sự xử lý khủng hoảng nhanh và nhẹ nhõm hơn."
      },
      {
@@ -1939,11 +1939,11 @@
       "q": "Wie bewertet der Text die Inanspruchnahme einer Beratungsstelle oder Therapie?",
       "options": [
        "Als Zeichen von Schwäche.",
-       "Als Ausdruck von Verantwortung und Klugheit.",
        "Als unnötig für belastbare Menschen.",
+       "Als Ausdruck von Verantwortung und Klugheit.",
        "Als letztes Mittel nach zehn Jahren."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn cuối khẳng định tìm kiếm hỗ trợ kịp thời là biểu hiện của trách nhiệm và sự khôn ngoan."
      }
     ],
@@ -1961,9 +1961,9 @@
      "q": "Welches subjektive Modalverb passt: „Die Beratungsstelle ___ um diese Uhrzeit eigentlich geöffnet sein.“ (logische Schlussfolgerung)",
      "options": [
       "müsste",
-      "will",
       "darf nicht",
-      "soll nicht"
+      "soll nicht",
+      "will"
      ],
      "answer": 0,
      "explain": "'müsste' diễn tả suy luận logic hợp lý (~85%) dựa vào giờ giấc thông thường."
@@ -1972,84 +1972,84 @@
      "type": "mcq",
      "q": "Wie lautet die korrekte Verneinung von „Er muss sehr krank sein“ (als subjektive Vermutung)?",
      "options": [
-      "Er kann nicht sehr krank sein.",
       "Er muss nicht sehr krank sein.",
-      "Er will nicht sehr krank sein.",
-      "Er soll nicht sehr krank sein."
+      "Er kann nicht sehr krank sein.",
+      "Er soll nicht sehr krank sein.",
+      "Er will nicht sehr krank sein."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Phủ định của suy đoán chắc chắn 'muss' là 'kann nicht' (không thể nào là...). 'muss nicht' mang nghĩa 'không cần phải'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz drückt eine vorsichtige, höfliche Vermutung über die Zukunft aus?",
      "options": [
+      "Das Training hat hilfreich sein müssen.",
       "Das Training dürfte für viele Teilnehmende hilfreich sein.",
-      "Das Training will für viele Teilnehmende hilfreich sein.",
       "Das Training muss nicht hilfreich sein.",
-      "Das Training hat hilfreich sein müssen."
+      "Das Training will für viele Teilnehmende hilfreich sein."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'dürfte' là lựa chọn chuẩn và tinh tế nhất cho nhận định thận trọng."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „Resilienz“?",
      "options": [
-      "Die psychische Widerstandskraft, Krisen zu bewältigen und sich davon zu erholen",
-      "Die Angst vor einer Beratungsstelle",
       "Ein Medikament gegen Schläfrigkeit",
+      "Die Angst vor einer Beratungsstelle",
+      "Die psychische Widerstandskraft, Krisen zu bewältigen und sich davon zu erholen",
       "Ein besonders langer Urlaub"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Resilienz' = sức bền tâm lý, khả năng phục hồi sau khủng hoảng."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Stigma“?",
      "options": [
-      "das",
-      "der",
+      "–",
       "die",
-      "–"
+      "der",
+      "das"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Danh từ chuẩn là 'das Stigma, die Stigmen'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb verlangt den Dativ: „Gute Freunde stehen ___ in schweren Zeiten bei.“?",
      "options": [
-      "mir",
       "mich",
       "meiner",
+      "mir",
       "ich"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'jemandem beistehen' đi với Dativ ('mir')."
     },
     {
      "type": "mcq",
      "q": "Was passt: „Trotz großer Sorgen zögerte sie nicht, sich ihrer Freundin ___.“",
      "options": [
-      "anzuvertrauen",
-      "zu lindern",
       "zu hemmen",
-      "zu überwinden"
+      "zu überwinden",
+      "anzuvertrauen",
+      "zu lindern"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'sich jemandem anvertrauen' = tâm sự, gửi gắm nỗi lòng với ai."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektiv beschreibt eine Beraterin, die gut zuhört und Gefühle versteht?",
      "options": [
-      "einfühlsam",
       "übermüdet",
       "hektisch",
+      "einfühlsam",
       "chronisch"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'einfühlsam' = tinh tế, giàu lòng thấu cảm."
     },
     {
@@ -2556,21 +2556,21 @@
      {
       "q": "Welchen Widerspruch beschreibt der erste Abschnitt?",
       "options": [
-       "Die Gesellschaft verlangt hohes Tempo, doch der Körper folgt langsameren biologischen Gesetzen.",
        "Sportler arbeiten langsamer als Büroangestellte.",
-       "Urlaub macht Menschen noch müder.",
-       "Niemand wünscht sich heute noch Anerkennung."
+       "Niemand wünscht sich heute noch Anerkennung.",
+       "Die Gesellschaft verlangt hohes Tempo, doch der Körper folgt langsameren biologischen Gesetzen.",
+       "Urlaub macht Menschen noch müder."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 1 đối chiếu áp lực tốc độ của xã hội với quy luật sinh học của cơ thể."
      },
      {
       "q": "Warum funktioniert das komplette ‚Nachholen‘ von Schlaf am Wochenende kaum?",
       "options": [
-       "Weil Wochenenden nur zwei Tage haben.",
+       "Weil Melatonin am Wochenende nicht wirkt.",
        "Weil extreme Unterschiede der Schlafenszeiten einen Mini-Jetlag für die innere Uhr erzeugen.",
-       "Weil man sonntags keinen Sport macht.",
-       "Weil Melatonin am Wochenende nicht wirkt."
+       "Weil Wochenenden nur zwei Tage haben.",
+       "Weil man sonntags keinen Sport macht."
       ],
       "answer": 1,
       "explain": "Đoạn 2 giải thích việc thay đổi giờ ngủ đột ngột cuối tuần gây lệch nhịp sinh học (Mini-Jetlag)."
@@ -2578,21 +2578,21 @@
      {
       "q": "Was kritisiert Abschnitt 3 an Menschen, die angeblich nie Überforderung spüren?",
       "options": [
-       "Dass sie zu früh ins Bett gehen.",
        "Dass sie ihre Belastungsgrenze ignorieren, bis manchmal ein Zusammenbruch folgt.",
+       "Dass sie zu offen über Gefühle sprechen.",
        "Dass sie zu viele Spaziergänge machen.",
-       "Dass sie zu offen über Gefühle sprechen."
+       "Dass sie zu früh ins Bett gehen."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 3 chỉ ra việc phớt lờ ngưỡng chịu đựng cho đến khi suy sụp buộc phải dừng lại."
      },
      {
       "q": "Wie unterstützen Krankenkassen heute die Prävention?",
       "options": [
-       "Sie verbieten Überstunden per Gesetz.",
+       "Sie schließen Beratungsstellen.",
        "Sie bezuschussen Kurse zur Achtsamkeit, Bewegung und Entspannung.",
        "Sie verschreiben jedem sofort Schlafmittel.",
-       "Sie schließen Beratungsstellen."
+       "Sie verbieten Überstunden per Gesetz."
       ],
       "answer": 1,
       "explain": "Đoạn 4 nêu các quỹ bảo hiểm y tế tài trợ khóa học chánh niệm, vận động và thư giãn."
@@ -2600,10 +2600,10 @@
      {
       "q": "Wie definiert der Text Resilienz im letzten Abschnitt?",
       "options": [
-       "Als totale Unverwundbarkeit ohne jede Pause.",
+       "Als Verzicht auf jede ärztliche Diagnose.",
        "Als die Fähigkeit zu erkennen, wann man Tempo herausnehmen und Hilfe annehmen darf.",
        "Als ständige Erreichbarkeit im Beruf.",
-       "Als Verzicht auf jede ärztliche Diagnose."
+       "Als totale Unverwundbarkeit ohne jede Pause."
       ],
       "answer": 1,
       "explain": "Đoạn cuối định nghĩa sức bền tâm lý không phải bất khả xâm phạm, mà là biết giảm tốc và nhận hỗ trợ."
@@ -2611,12 +2611,12 @@
      {
       "q": "Welche zentrale Empfehlung zieht der gesamte Artikel?",
       "options": [
-       "Nur ein ausgewogener Wechsel aus Aktivität und echter Erholung erhält langfristig die Kraft.",
        "Man sollte nur noch halbtags arbeiten.",
        "Schlaf ist weniger wichtig als Bewegung.",
+       "Nur ein ausgewogener Wechsel aus Aktivität und echter Erholung erhält langfristig die Kraft.",
        "Krankenkassen sollten keine Therapien bezahlen."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Câu kết tóm gọn thông điệp: luân phiên cân đối giữa hoạt động và nghỉ ngơi thực thụ."
      }
     ],
@@ -2633,48 +2633,48 @@
      "type": "mcq",
      "q": "Welcher Satz drückt eine sichere Vermutung über die Vergangenheit aus (~95 %)?",
      "options": [
-      "Er muss die ganze Nacht durchgearbeitet haben.",
-      "Er will die ganze Nacht durchgearbeitet haben.",
       "Er soll die ganze Nacht durchgearbeitet haben.",
-      "Er darf die ganze Nacht durchgearbeitet haben."
+      "Er darf die ganze Nacht durchgearbeitet haben.",
+      "Er muss die ganze Nacht durchgearbeitet haben.",
+      "Er will die ganze Nacht durchgearbeitet haben."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Phỏng đoán chắc chắn ở quá khứ: 'muss ... durchgearbeitet haben'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz bedeutet „Der Sportler behauptet von sich, völlig stressfrei zu leben, aber ich bezweifle das“?",
      "options": [
-      "Der Sportler will völlig stressfrei leben.",
+      "Der Sportler müsste völlig stressfrei leben.",
       "Der Sportler soll völlig stressfrei leben.",
       "Der Sportler dürfte völlig stressfrei leben.",
-      "Der Sportler müsste völlig stressfrei leben."
+      "Der Sportler will völlig stressfrei leben."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Chủ ngữ tự khẳng định với sự hoài nghi của người nói → 'will'."
     },
     {
      "type": "mcq",
      "q": "Wie verneint man „Sie muss überfordert sein“ im subjektiven Sinn?",
      "options": [
-      "Sie kann nicht überfordert sein.",
       "Sie muss nicht überfordert sein.",
-      "Sie darf nicht überfordert sein.",
-      "Sie will nicht überfordert sein."
+      "Sie kann nicht überfordert sein.",
+      "Sie will nicht überfordert sein.",
+      "Sie darf nicht überfordert sein."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Phủ định phỏng đoán chắc chắn 'muss' là 'kann nicht'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz drückt aus: „Man sagt, dass Bewegung den Heilungsprozess beschleunigt“?",
      "options": [
-      "Bewegung soll den Heilungsprozess beschleunigen.",
-      "Bewegung will den Heilungsprozess beschleunigen.",
       "Bewegung muss den Heilungsprozess beschleunigen.",
-      "Bewegung kann nicht den Heilungsprozess beschleunigen."
+      "Bewegung kann nicht den Heilungsprozess beschleunigen.",
+      "Bewegung soll den Heilungsprozess beschleunigen.",
+      "Bewegung will den Heilungsprozess beschleunigen."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Thông tin nghe nói / theo nghiên cứu dùng 'soll'."
     },
     {
@@ -2683,8 +2683,8 @@
      "options": [
       "Sich innerlich entspannen und vom Stress erholen",
       "Schnell einen Termin absagen",
-      "Die innere Uhr verstellen",
-      "Eine Diagnose anzweifeln"
+      "Eine Diagnose anzweifeln",
+      "Die innere Uhr verstellen"
      ],
      "answer": 0,
      "explain": "'zur Ruhe kommen' = tĩnh tâm, nghỉ ngơi thư thái."
@@ -2693,12 +2693,12 @@
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Schlafdefizit“?",
      "options": [
-      "das",
-      "der",
+      "–",
       "die",
-      "–"
+      "das",
+      "der"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Danh từ chuẩn là 'das Schlafdefizit, die Schlafdefizite'."
     },
     {
@@ -2706,9 +2706,9 @@
      "q": "Was bedeutet „aus dem Gleichgewicht geraten“?",
      "options": [
       "Die seelische oder körperliche Stabilität verlieren",
-      "Besonders tief und ruhig schlafen",
       "Eine Krankenkasse wechseln",
-      "Einen Spaziergang im Wald machen"
+      "Einen Spaziergang im Wald machen",
+      "Besonders tief und ruhig schlafen"
      ],
      "answer": 0,
      "explain": "'aus dem Gleichgewicht geraten' = bị mất cân bằng."
@@ -2717,36 +2717,36 @@
      "type": "mcq",
      "q": "Welches Verb bedeutet „einen schweren Verlust emotional aushalten und überstehen“?",
      "options": [
-      "verkraften",
+      "zögern",
       "nachholen",
-      "hemmen",
-      "zögern"
+      "verkraften",
+      "hemmen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'verkraften' = chịu đựng nổi, vượt qua cú sốc/mất mát."
     },
     {
      "type": "mcq",
      "q": "Welche Form ist für eine vorsichtige Einschätzung richtig: „Die neue Regelung ___ für Entlastung sorgen.“?",
      "options": [
-      "dürfte",
-      "darf",
       "will",
-      "hat"
+      "hat",
+      "dürfte",
+      "darf"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'dürfte' diễn tả nhận định thận trọng có cơ sở."
     },
     {
      "type": "mcq",
      "q": "Warum lässt sich ein großes Schlafdefizit am Sonntag kaum komplett nachholen?",
      "options": [
-      "Weil die innere Uhr Regelmäßigkeit braucht und sonst ein Mini-Jetlag entsteht.",
       "Weil man sonntags keine Melatoninproduktion hat.",
-      "Weil Krankenkassen das verbieten.",
-      "Weil Schlafmittel sonntags nicht wirken."
+      "Weil die innere Uhr Regelmäßigkeit braucht und sonst ein Mini-Jetlag entsteht.",
+      "Weil Schlafmittel sonntags nicht wirken.",
+      "Weil Krankenkassen das verbieten."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Đồng hồ sinh học cần sự đều đặn mỗi ngày."
     },
     {

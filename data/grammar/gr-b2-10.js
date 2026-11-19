@@ -13,60 +13,60 @@
    "type": "mcq",
    "q": "Welcher Satz mit 'als' hat die KORREKTE Wortstellung?",
    "options": [
-    "Er tut so, als wäre er mein Chef.",
-    "Er tut so, als er mein Chef wäre.",
+    "Er tut so, als mein Chef wäre er.",
     "Er tut so, als er wäre mein Chef.",
-    "Er tut so, als mein Chef wäre er."
+    "Er tut so, als er mein Chef wäre.",
+    "Er tut so, als wäre er mein Chef."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Sau 'als' đơn lẻ, động từ chia đứng ngay ở vị trí kế tiếp: als wäre er mein Chef."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz mit 'als ob' ist grammatisch KORREKT?",
    "options": [
-    "Er benimmt sich so, als ob er alles besser wüsste.",
-    "Er benimmt sich so, als ob wüsste er alles besser.",
     "Er benimmt sich so, als ob er weiß alles besser.",
-    "Er benimmt sich so, als ob er alles besser weiß."
+    "Er benimmt sich so, als ob er alles besser weiß.",
+    "Er benimmt sich so, als ob wüsste er alles besser.",
+    "Er benimmt sich so, als ob er alles besser wüsste."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Sau 'als ob', động từ chia đứng ở cuối mệnh đề và chia ở Konjunktiv II: als ob er alles besser wüsste."
   },
   {
    "type": "mcq",
    "q": "Wie drückt man Vorzeitigkeit (quá khứ) im irrealen Vergleichssatz aus?",
    "options": [
-    "Er tut so, als ob er die Prüfung gestern bestanden hätte.",
+    "Er tut so, als ob er die Prüfung gestern besteht.",
     "Er tut so, als ob er die Prüfung gestern bestehen würde.",
-    "Er tut so, als ob er die Prüfung gestern bestünde.",
-    "Er tut so, als ob er die Prüfung gestern besteht."
+    "Er tut so, als ob er die Prüfung gestern bestanden hätte.",
+    "Er tut so, als ob er die Prüfung gestern bestünde."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Vorzeitigkeit đòi hỏi Konjunktiv II Plusquamperfekt: hätte + Partizip II (bestanden hätte)."
   },
   {
    "type": "mcq",
    "q": "Sie sieht so erschöpft aus, als ___ sie tagelang nicht geschlafen.",
    "options": [
-    "hätte",
     "habe",
     "hat",
+    "hätte",
     "würde"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Cấu trúc als + Verb đứng ngay sau: 'als hätte sie ... nicht geschlafen'."
   },
   {
    "type": "mcq",
    "q": "Was drückt ein 'irreales Vergleichssatz' aus?",
    "options": [
-    "Einen Vergleich mit einer nicht realen, kontrafaktischen Annahme.",
-    "Einen realen Vergleich zwischen zwei identischen Dingen.",
     "Eine direkte Aufforderung an eine Person.",
-    "Einen Grund für eine Handlung."
+    "Einen Grund für eine Handlung.",
+    "Einen Vergleich mit einer nicht realen, kontrafaktischen Annahme.",
+    "Einen realen Vergleich zwischen zwei identischen Dingen."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Câu so sánh phi thực tế miêu tả một giả định không có thật (kontrafaktisch)."
   },
   {
@@ -75,8 +75,8 @@
    "options": [
     "tun (so)",
     "beginnen",
-    "aufhören",
-    "beenden"
+    "beenden",
+    "aufhören"
    ],
    "answer": 0,
    "explain": "'tun (so)' (làm ra vẻ như) là động từ dẫn kinh điển đi với als ob / als."

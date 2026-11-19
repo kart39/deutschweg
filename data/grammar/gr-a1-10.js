@@ -27,11 +27,11 @@
    "q": "Welches Verb ist UNTRENNBAR (không tách được)?",
    "options": [
     "einkaufen",
+    "mitbringen",
     "aufstehen",
-    "verstehen",
-    "mitbringen"
+    "verstehen"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "'verstehen' có tiền tố 'ver-' thuộc nhóm 8 tiền tố không bao giờ tách (be, ge, er, ver, zer, ent, emp, miss)."
   },
   {
@@ -40,8 +40,8 @@
    "options": [
     "Ich stehe auf um sieben Uhr.",
     "Ich stehe um sieben Uhr auf.",
-    "Ich aufstehe um sieben Uhr.",
-    "Aufstehe ich um sieben Uhr."
+    "Aufstehe ich um sieben Uhr.",
+    "Ich aufstehe um sieben Uhr."
    ],
    "answer": 1,
    "explain": "Gốc động từ 'stehe' ở vị trí 2, tiền tố tách 'auf' ở cuối câu: 'Ich stehe um sieben Uhr auf.'"
@@ -50,12 +50,12 @@
    "type": "mcq",
    "q": "Welcher Satz mit Modalverb ist grammatisch korrekt?",
    "options": [
-    "Ich muss morgen früh aufstehen.",
-    "Ich muss morgen früh stehen auf.",
     "Ich stehe morgen früh auf müssen.",
+    "Ich muss morgen früh stehen auf.",
+    "Ich muss morgen früh aufstehen.",
     "Ich muss aufstehen morgen früh."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Khi đi với Modalverb (muss), động từ tách đứng ở cuối câu ở dạng nguyên thể dính liền: 'aufstehen'."
   },
   {
@@ -63,23 +63,23 @@
    "q": "Welches Verb ist TRENNBAR (tách được)?",
    "options": [
     "bezahlen",
-    "erzählen",
+    "anrufen",
     "gehören",
-    "anrufen"
+    "erzählen"
    ],
-   "answer": 3,
+   "answer": 1,
    "explain": "'anrufen' có tiền tố 'an-' là tiền tố tách được."
   },
   {
    "type": "mcq",
    "q": "Wie lautet die richtige Frage mit 'anfangen'?",
    "options": [
-    "Wann fängt der Deutschkurs an?",
+    "Wann anfangen der Deutschkurs?",
     "Wann der Deutschkurs anfängt?",
     "Wann fängt an der Deutschkurs?",
-    "Wann anfangen der Deutschkurs?"
+    "Wann fängt der Deutschkurs an?"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Câu hỏi W-Frage: Wann (1) + fängt (2) + der Deutschkurs (3) + an (cuối)?"
   },
   {

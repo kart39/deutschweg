@@ -399,56 +399,56 @@
      {
       "q": "Wann fällt in den meisten Bundesländern die Entscheidung über die weiterführende Schule?",
       "options": [
-       "Nach der vierten Klasse",
        "Nach der zehnten Klasse",
-       "Vor der Einschulung"
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Was belegen zahlreiche Studien laut Text?",
-      "options": [
-       "Kinder aus Akademikerfamilien erhalten bei gleichen Leistungen häufiger eine Gymnasialempfehlung.",
-       "Alle Kinder haben die gleichen Chancen.",
-       "Nachhilfe hat keinen Einfluss auf den Schulerfolg."
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Was war der „PISA-Schock“?",
-      "options": [
-       "Ein überraschend gutes Ergebnis Deutschlands",
-       "Das unerwartet schlechte Abschneiden Deutschlands 2001",
-       "Eine Reform des Abiturs"
-      ],
-      "answer": 1
-     },
-     {
-      "q": "Welche Ursache für sinkende Leistungen wird NICHT genannt?",
-      "options": [
-       "Lehrkräftemangel",
-       "Lernrückstände durch die Pandemie",
-       "Zu viele Ferientage"
+       "Vor der Einschulung",
+       "Nach der vierten Klasse"
       ],
       "answer": 2
      },
      {
-      "q": "Worin sind sich die Lager weitgehend einig?",
+      "q": "Was belegen zahlreiche Studien laut Text?",
       "options": [
-       "Das gegliederte System sollte abgeschafft werden.",
-       "Die ersten Lebensjahre sind entscheidend.",
-       "Kleinere Klassen bringen nichts."
+       "Nachhilfe hat keinen Einfluss auf den Schulerfolg.",
+       "Kinder aus Akademikerfamilien erhalten bei gleichen Leistungen häufiger eine Gymnasialempfehlung.",
+       "Alle Kinder haben die gleichen Chancen."
       ],
       "answer": 1
      },
      {
-      "q": "Was wünschen sich viele Lehrkräfte?",
+      "q": "Was war der „PISA-Schock“?",
       "options": [
-       "Dass die Empfehlung als korrigierbarer Beginn eines Weges verstanden wird",
-       "Dass die Empfehlung verbindlich wird",
-       "Dass es keine Grundschule mehr gibt"
+       "Das unerwartet schlechte Abschneiden Deutschlands 2001",
+       "Ein überraschend gutes Ergebnis Deutschlands",
+       "Eine Reform des Abiturs"
       ],
       "answer": 0
+     },
+     {
+      "q": "Welche Ursache für sinkende Leistungen wird NICHT genannt?",
+      "options": [
+       "Zu viele Ferientage",
+       "Lernrückstände durch die Pandemie",
+       "Lehrkräftemangel"
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Worin sind sich die Lager weitgehend einig?",
+      "options": [
+       "Die ersten Lebensjahre sind entscheidend.",
+       "Das gegliederte System sollte abgeschafft werden.",
+       "Kleinere Klassen bringen nichts."
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Was wünschen sich viele Lehrkräfte?",
+      "options": [
+       "Dass es keine Grundschule mehr gibt",
+       "Dass die Empfehlung als korrigierbarer Beginn eines Weges verstanden wird",
+       "Dass die Empfehlung verbindlich wird"
+      ],
+      "answer": 1
      }
     ]
    },
@@ -462,36 +462,36 @@
      "type": "mcq",
      "q": "Welches Wort gehört zur gehobenen Stilebene?",
      "options": [
-      "kriegen",
-      "bekommen",
       "erhalten",
-      "abkriegen"
+      "bekommen",
+      "abkriegen",
+      "kriegen"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "*kriegen* khẩu ngữ, *bekommen* trung tính, *erhalten* trang trọng."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz passt in einen formellen Brief an eine Behörde?",
      "options": [
+      "Ihre Mail ist angekommen, super!",
       "Ich hab Ihre Mail gekriegt.",
-      "Ich habe Ihr Schreiben erhalten.",
       "Hab Ihre Nachricht bekommen, danke!",
-      "Ihre Mail ist angekommen, super!"
+      "Ich habe Ihr Schreiben erhalten."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Thư trang trọng: không rút gọn (*hab*), không *kriegen*, không *super*."
     },
     {
      "type": "mcq",
      "q": "Welche Form ist in gehobener Schriftsprache korrekt?",
      "options": [
-      "wegen dem schlechten Wetter",
       "wegen des schlechten Wetters",
-      "wegen schlechtes Wetter",
-      "wegen den schlechten Wetter"
+      "wegen dem schlechten Wetter",
+      "wegen den schlechten Wetter",
+      "wegen schlechtes Wetter"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Văn viết chuẩn: *wegen* + Genitiv. *wegen dem* là khẩu ngữ."
     },
     {
@@ -500,8 +500,8 @@
      "options": [
       "kontrollieren",
       "verstehen",
-      "nachvollziehen",
-      "erfassen"
+      "erfassen",
+      "nachvollziehen"
      ],
      "answer": 1,
      "explain": "Nghĩa \"hiểu\": khẩu ngữ *checken* – trung tính *verstehen* – trang trọng *nachvollziehen/erfassen*."
@@ -510,24 +510,24 @@
      "type": "mcq",
      "q": "Welcher Satz ist zu salopp für eine Bewerbung?",
      "options": [
-      "Ich bewerbe mich um die ausgeschriebene Stelle.",
       "Ich hätte mega Bock auf den Job.",
       "Die Stelle entspricht meinen Qualifikationen.",
+      "Ich bewerbe mich um die ausgeschriebene Stelle.",
       "Ich freue mich auf ein persönliches Gespräch."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "*mega*, *Bock haben* là tiếng lóng, không dùng trong hồ sơ xin việc."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „Deutschland hat bei PISA schlecht abgeschnitten“?",
      "options": [
-      "Deutschland hat an PISA nicht teilgenommen.",
-      "Deutschland hat schlechte Ergebnisse erzielt.",
+      "Deutschland hat die Ergebnisse versteckt.",
       "Deutschland hat die Studie abgebrochen.",
-      "Deutschland hat die Ergebnisse versteckt."
+      "Deutschland hat schlechte Ergebnisse erzielt.",
+      "Deutschland hat an PISA nicht teilgenommen."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "*gut/schlecht abschneiden* = đạt kết quả tốt/kém."
     },
     {
@@ -1114,11 +1114,11 @@
      {
       "q": "Was rieten Fachleute Einwandererfamilien früher häufig?",
       "options": [
-       "Zu Hause nur Deutsch zu sprechen",
        "Mehrere Sprachen gleichzeitig zu lernen",
+       "Zu Hause nur Deutsch zu sprechen",
        "Den Kindern keine Sprache beizubringen"
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Wie bewertet die heutige Forschung das Vermischen von Sprachen bei kleinen Kindern?",
@@ -1132,9 +1132,9 @@
      {
       "q": "Welche Sprache sollten Eltern laut Fachleuten mit ihren Kindern sprechen?",
       "options": [
-       "Immer Deutsch",
+       "Englisch",
        "Die Sprache, die sie selbst am besten beherrschen",
-       "Englisch"
+       "Immer Deutsch"
       ],
       "answer": 1
      },
@@ -1151,19 +1151,19 @@
       "q": "Wovor warnen Forscherinnen beim Beispiel der vietnamesischen Familien?",
       "options": [
        "Vor einem einfachen Erfolgsrezept, das Druck und Konflikte ausblendet",
-       "Vor zu viel Deutschunterricht",
-       "Vor dem Besuch des Gymnasiums"
+       "Vor dem Besuch des Gymnasiums",
+       "Vor zu viel Deutschunterricht"
       ],
       "answer": 0
      },
      {
       "q": "Wie sehen Sprachwissenschaftler Mehrsprachigkeit?",
       "options": [
+       "Als Problem für die Integration",
        "Als Defizit",
-       "Als Ressource, die gefördert werden sollte",
-       "Als Problem für die Integration"
+       "Als Ressource, die gefördert werden sollte"
       ],
-      "answer": 1
+      "answer": 2
      }
     ]
    },
@@ -1177,48 +1177,48 @@
      "type": "mcq",
      "q": "Welche Partikel drückt eine Vermutung aus? „Sie ist ___ schon nach Hause gegangen.“",
      "options": [
-      "doch",
       "wohl",
       "etwa",
+      "doch",
       "ruhig"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "*wohl* trong câu kể = phỏng đoán (chắc là)."
     },
     {
      "type": "mcq",
      "q": "„Hast du ___ meinen Geburtstag vergessen?“ – Der Sprecher erwartet die Antwort „Nein“ und klingt vorwurfsvoll.",
      "options": [
-      "denn",
       "etwa",
+      "halt",
       "mal",
-      "halt"
+      "denn"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "*etwa* trong câu hỏi Ja/Nein: người hỏi mong là không, kèm sắc thái trách móc."
     },
     {
      "type": "mcq",
      "q": "Welche Partikel macht eine Aufforderung freundlich und ermunternd? „Frag ___, wenn du etwas nicht verstehst!“",
      "options": [
-      "etwa",
-      "ruhig",
       "bloß",
-      "eigentlich"
+      "etwa",
+      "eigentlich",
+      "ruhig"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "*ruhig* trong câu mệnh lệnh = cứ tự nhiên, cho phép, khích lệ."
     },
     {
      "type": "mcq",
      "q": "Wo steht die Modalpartikel korrekt?",
      "options": [
-      "Doch komm mit!",
       "Komm doch mit!",
+      "Mit doch komm!",
       "Komm mit doch!",
-      "Mit doch komm!"
+      "Doch komm mit!"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Tiểu từ không đứng ở vị trí 1; trong câu mệnh lệnh nó đứng sau động từ (và đại từ)."
     },
     {
@@ -1226,21 +1226,21 @@
      "q": "„Das ist halt so.“ drückt aus:",
      "options": [
       "Begeisterung",
-      "Resignation – man kann es nicht ändern",
       "Eine höfliche Bitte",
+      "Resignation – man kann es nicht ändern",
       "Eine Frage"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "*halt* (= eben) diễn tả sự chấp nhận điều không đổi được."
     },
     {
      "type": "mcq",
      "q": "„Sag ___ nichts zu Mama!“ (dringende Warnung)",
      "options": [
-      "ruhig",
+      "eigentlich",
       "mal",
       "bloß",
-      "eigentlich"
+      "ruhig"
      ],
      "answer": 2,
      "explain": "*bloß/nur* trong câu mệnh lệnh = cảnh báo mạnh (đừng có mà…)."
@@ -1249,10 +1249,10 @@
      "type": "mcq",
      "q": "In welchem Text sind Modalpartikeln am wenigsten angemessen?",
      "options": [
-      "Chatnachricht an einen Freund",
+      "Persönliche E-Mail an die Schwester",
       "Wissenschaftlicher Aufsatz",
       "Gespräch in der Mensa",
-      "Persönliche E-Mail an die Schwester"
+      "Chatnachricht an einen Freund"
      ],
      "answer": 1,
      "explain": "Tiểu từ tình thái thuộc văn nói/thân mật; văn học thuật hạn chế dùng."
@@ -1843,38 +1843,38 @@
      {
       "q": "Warum sprechen manche Medien lieber von „Klimakrise“ als von „Klimawandel“?",
       "options": [
-       "Weil „Wandel“ allmählich und wenig bedrohlich klingt",
        "Weil „Klimakrise“ kürzer ist",
-       "Weil der Rat für Rechtschreibung es verlangt"
+       "Weil der Rat für Rechtschreibung es verlangt",
+       "Weil „Wandel“ allmählich und wenig bedrohlich klingt"
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Wie bewertet der Text die Stärke des Framing-Effekts?",
       "options": [
+       "Es gibt ihn nicht.",
        "Er ist eindeutig bewiesen und sehr stark.",
-       "Er wird in der Forschung kontrovers diskutiert.",
-       "Es gibt ihn nicht."
+       "Er wird in der Forschung kontrovers diskutiert."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was verschleiern Euphemismen laut Text?",
       "options": [
+       "Die Herkunft eines Wortes",
        "Wer handelt und wer betroffen ist",
-       "Die Rechtschreibung",
-       "Die Herkunft eines Wortes"
+       "Die Rechtschreibung"
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Welches Argument bringen Befürworter gendergerechter Sprache vor?",
       "options": [
+       "Das Gendersternchen ist amtlich vorgeschrieben.",
        "Frauen werden beim generischen Maskulinum nicht mitgedacht.",
-       "Gendern macht Texte kürzer.",
-       "Das Gendersternchen ist amtlich vorgeschrieben."
+       "Gendern macht Texte kürzer."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was gilt laut Text für das Gendersternchen?",
@@ -1888,9 +1888,9 @@
      {
       "q": "Welche Konsequenz zieht der Text für Deutschlernende?",
       "options": [
-       "Sie sollten politische Texte meiden.",
+       "Sie sollten nur neutrale Wörter lernen.",
        "Sie sollten aufmerksam auf die Wortwahl achten.",
-       "Sie sollten nur neutrale Wörter lernen."
+       "Sie sollten politische Texte meiden."
       ],
       "answer": 1
      }
@@ -1906,24 +1906,24 @@
      "type": "mcq",
      "q": "Welche Bitte ist am höflichsten?",
      "options": [
-      "Schließen Sie das Fenster.",
-      "Schließen Sie bitte das Fenster.",
       "Können Sie das Fenster schließen?",
-      "Würden Sie bitte so freundlich sein und das Fenster schließen?"
+      "Würden Sie bitte so freundlich sein und das Fenster schließen?",
+      "Schließen Sie bitte das Fenster.",
+      "Schließen Sie das Fenster."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Konjunktiv II *würden* + công thức *so freundlich sein* là mức lịch sự cao nhất."
     },
     {
      "type": "mcq",
      "q": "„Das dürfte schwierig werden.“ bedeutet:",
      "options": [
+      "Es darf nicht schwierig werden.",
       "Es ist erlaubt, dass es schwierig wird.",
       "Es wird vermutlich schwierig.",
-      "Es darf nicht schwierig werden.",
       "Es war schwierig."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "*dürfte* (Konjunktiv II của *dürfen*) = phỏng đoán \"chắc là\", không phải \"được phép\"."
     },
     {
@@ -1944,8 +1944,8 @@
      "options": [
       "Framing manipuliert alle Wähler.",
       "Studien legen nahe, dass Framing die Wahrnehmung beeinflussen kann.",
-      "Jeder weiß, dass Framing wirkt.",
-      "Framing ist total gefährlich."
+      "Framing ist total gefährlich.",
+      "Jeder weiß, dass Framing wirkt."
      ],
      "answer": 1,
      "explain": "*Studien legen nahe* + *kann* = thận trọng khoa học, có dẫn nguồn."
@@ -1954,10 +1954,10 @@
      "type": "mcq",
      "q": "Welcher Ausdruck ist ein Euphemismus für „Entlassung“?",
      "options": [
-      "Kündigung",
+      "Abbau von Stellen ohne Ersatz",
       "Freisetzung",
-      "Rauswurf",
-      "Abbau von Stellen ohne Ersatz"
+      "Kündigung",
+      "Rauswurf"
      ],
      "answer": 1,
      "explain": "*Freisetzung* (giải phóng) là uyển ngữ che đi việc người lao động bị sa thải."
@@ -1966,12 +1966,12 @@
      "type": "mcq",
      "q": "Wie widerspricht man in einer Diskussion höflich?",
      "options": [
-      "Das ist Quatsch.",
-      "Da muss ich Ihnen leider widersprechen.",
       "Sie haben keine Ahnung.",
-      "Falsch!"
+      "Falsch!",
+      "Das ist Quatsch.",
+      "Da muss ich Ihnen leider widersprechen."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "*leider* + *widersprechen müssen* làm lời phản bác lịch sự."
     },
     {
@@ -2537,37 +2537,37 @@
       "q": "Welches Niveau ist in Integrationskursen in der Regel das Ziel?",
       "options": [
        "A2",
-       "B1",
-       "C1"
+       "C1",
+       "B1"
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was gilt laut Text für die meisten funktionalen Analphabeten in Deutschland?",
       "options": [
-       "Sie sind erst kürzlich eingewandert.",
+       "Sie nehmen fast alle an Kursen teil.",
        "Sie sind in Deutschland aufgewachsen und haben eine Schule besucht.",
-       "Sie nehmen fast alle an Kursen teil."
+       "Sie sind erst kürzlich eingewandert."
       ],
       "answer": 1
      },
      {
       "q": "Welcher Erfolgsfaktor für Erwachsenenbildung wird NICHT genannt?",
       "options": [
-       "Vereinbarkeit mit Beruf und Familie",
+       "Strenge Noten und Ranglisten",
        "Finanzierung",
-       "Strenge Noten und Ranglisten"
+       "Vereinbarkeit mit Beruf und Familie"
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Wie ergänzt der Text den bekannten Spruch?",
       "options": [
-       "Man lernt nur in der Jugend.",
        "Man lernt für das Leben – und zwar ein Leben lang.",
-       "Man lernt nur für Zeugnisse."
+       "Man lernt nur für Zeugnisse.",
+       "Man lernt nur in der Jugend."
       ],
-      "answer": 1
+      "answer": 0
      }
     ]
    },
@@ -2581,70 +2581,70 @@
      "type": "mcq",
      "q": "Welche Version passt in einen formellen Bericht?",
      "options": [
-      "Das kriegen wir schon hin.",
       "Die Aufgabe dürfte zu bewältigen sein.",
       "Das schaffen wir halt irgendwie.",
-      "Wird schon klappen!"
+      "Wird schon klappen!",
+      "Das kriegen wir schon hin."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Văn phong trang trọng: *dürfte* (phỏng đoán) + *zu bewältigen sein*, không tiểu từ, không khẩu ngữ."
     },
     {
      "type": "mcq",
      "q": "Wie lautet „Er ist wohl krank.“ in formeller Schriftsprache?",
      "options": [
-      "Er ist ja krank.",
       "Er ist vermutlich krank.",
+      "Er ist etwa krank.",
       "Er ist halt krank.",
-      "Er ist etwa krank."
+      "Er ist ja krank."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Tiểu từ *wohl* (phỏng đoán) → trạng từ *vermutlich* trong văn viết."
     },
     {
      "type": "mcq",
      "q": "Welche Partikel passt in die neutrale Frage? „Wie spät ist es ___?“",
      "options": [
-      "etwa",
-      "denn",
+      "ruhig",
       "bloß",
-      "ruhig"
+      "etwa",
+      "denn"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "*denn* là tiểu từ an toàn nhất cho câu hỏi, làm câu hỏi mềm."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz mischt unpassend zwei Stilebenen?",
      "options": [
+      "Hallo Tom, ich hab deine Sachen gekriegt.",
       "Sehr geehrter Herr Müller, ich habe Ihre Unterlagen erhalten.",
       "Sehr geehrter Herr Müller, ich hab Ihre Unterlagen gekriegt.",
-      "Hallo Tom, ich hab deine Sachen gekriegt.",
       "Lieber Tom, ich habe deine Unterlagen bekommen."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Lời chào trang trọng *Sehr geehrter* đi với khẩu ngữ *hab … gekriegt* là trộn tầng."
     },
     {
      "type": "mcq",
      "q": "„Zwar trifft dies zu, jedoch …“ ist die formelle Entsprechung von:",
      "options": [
-      "Das stimmt schon, aber …",
+      "Stimmt das etwa?",
       "Das ist doch falsch.",
-      "Das ist halt so.",
-      "Stimmt das etwa?"
+      "Das stimmt schon, aber …",
+      "Das ist halt so."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "*Das stimmt schon, aber* (thừa nhận có giới hạn) ↔ *Zwar trifft dies zu, jedoch* (trang trọng)."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „Er ist zweimal bei der Prüfung durchgefallen“?",
      "options": [
-      "Er hat die Prüfung zweimal bestanden.",
+      "Er ist zweimal hingefallen.",
       "Er hat die Prüfung zweimal nicht bestanden.",
-      "Er hat die Prüfung zweimal korrigiert.",
-      "Er ist zweimal hingefallen."
+      "Er hat die Prüfung zweimal bestanden.",
+      "Er hat die Prüfung zweimal korrigiert."
      ],
      "answer": 1,
      "explain": "*durchfallen* = thi trượt; trợ động từ *sein*."
@@ -2653,12 +2653,12 @@
      "type": "mcq",
      "q": "Welches Verb gehört zur Umgangssprache?",
      "options": [
-      "lernen",
-      "sich aneignen",
+      "studieren",
       "pauken",
-      "studieren"
+      "lernen",
+      "sich aneignen"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "*pauken* (và *büffeln*) là khẩu ngữ cho việc học nhồi."
     },
     {

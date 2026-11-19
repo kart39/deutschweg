@@ -13,72 +13,72 @@
    "type": "mcq",
    "q": "Welche Verbform gehört in die Lücke des irrealen Konsekutivsatzes: 'Das Problem ist zu komplex, als dass man es schnell lösen ___.'?",
    "options": [
+    "wird",
     "könnte",
-    "kann",
     "konnte",
-    "wird"
+    "kann"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Cấu trúc 'zu... als dass' bắt buộc phải đi với Konjunktiv II (könnte)."
   },
   {
    "type": "mcq",
    "q": "Welches Adverb verstärkt den Grad eines Adjektivs im Konsekutivsatz auf C1-Niveau anstelle von 'so'?",
    "options": [
-    "derart",
     "insofern",
-    "folglich",
-    "demnach"
+    "demnach",
+    "derart",
+    "folglich"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'derart' hoặc 'dermaßen' dùng để nhấn mạnh mức độ tột đỉnh thay cho 'so' ở trình độ C1."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz hat die KORREKTE Wortstellung mit 'sodass'?",
    "options": [
-    "Es schneite die ganze Nacht, sodass alle Flüge gestrichen werden mussten.",
     "Es schneite die ganze Nacht, sodass mussten alle Flüge gestrichen werden.",
+    "Es schneite die ganze Nacht, sodass alle Flüge gestrichen werden mussten.",
     "Es schneite die ganze Nacht, sodass alle Flüge mussten gestrichen werden.",
     "Es schneite die ganze Nacht, alle Flüge mussten sodass gestrichen werden."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'sodass' dẫn mệnh đề phụ, động từ chia (mussten) đứng ở cuối câu."
   },
   {
    "type": "mcq",
    "q": "Wie lautet die Infinitiv-Umschreibung bei gleichem Subjekt für: 'Er war zu müde, als dass er noch hätte weiterfahren können.'?",
    "options": [
+    "Er war zu müde, anstatt noch weiterzufahren.",
     "Er war zu müde, um noch weiterzufahren.",
     "Er war zu müde, ohne noch weiterzufahren.",
-    "Er war zu müde, anstatt noch weiterzufahren.",
     "Er war zu müde, damit er noch weiterfuhr."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Khi cùng chủ ngữ, 'zu... als dass' rút gọn thành cấu trúc 'zu... um zu + Infinitiv'."
   },
   {
    "type": "mcq",
    "q": "Was unterscheidet 'so ... dass' von 'damit'?",
    "options": [
-    "'so ... dass' drückt eine tatsächliche Folge aus, 'damit' eine beabsichtigte Absicht/ein Ziel.",
     "'so ... dass' drückt eine Bedingung aus, 'damit' eine Folge.",
     "Beide Konstruktionen sind vollkommen identisch.",
+    "'so ... dass' drückt eine tatsächliche Folge aus, 'damit' eine beabsichtigte Absicht/ein Ziel.",
     "'damit' steht immer mit Konjunktiv II."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'so... dass' chỉ kết quả thực tế xảy ra; 'damit' chỉ mục đích, ý định hướng tới."
   },
   {
    "type": "mcq",
    "q": "Ergänzen Sie: 'Die Zeugin war ___ verängstigt, als dass sie die Wahrheit hätte sagen können.'",
    "options": [
-    "zu",
     "so",
+    "zu",
     "derart",
     "sehr"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Cấu trúc đi với 'als dass + Konjunktiv II' đòi hỏi phó từ 'zu' (zu verängstigt, als dass...)."
   },
   {

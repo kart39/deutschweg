@@ -413,20 +413,20 @@
      {
       "q": "Was lobt die Lehrerin indirekt in ihrer Rückmeldung?",
       "options": [
-       "Das schnelle Zeichnen.",
        "Die klare Erklärung.",
+       "Das schnelle Zeichnen.",
        "Die niedrigen Materialkosten."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was schlägt die Beraterin für den Vergleich vor?",
       "options": [
+       "Sich konkrete Aufgaben im Alltag vorzustellen.",
        "Nur die Noten zu vergleichen.",
-       "Auf die Entscheidung der Klasse zu warten.",
-       "Sich konkrete Aufgaben im Alltag vorzustellen."
+       "Auf die Entscheidung der Klasse zu warten."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Was will Mina durch das Schnupperpraktikum herausfinden?",
@@ -441,8 +441,8 @@
       "q": "Was will Mina nach dem Praktikum noch machen?",
       "options": [
        "Fragen für ein weiteres Gespräch sammeln.",
-       "Die Lampe für den Lesetisch neu bauen.",
-       "Auf ein zweites Gespräch verzichten."
+       "Auf ein zweites Gespräch verzichten.",
+       "Die Lampe für den Lesetisch neu bauen."
       ],
       "answer": 0
      }
@@ -459,21 +459,21 @@
      "type": "mcq",
      "q": "Chọn dạng nguyên mẫu của {{teilnehmen}} khi đi với {{zu}}.",
      "options": [
-      "zu teilnehmen",
       "teilzunehmen",
+      "zu teilnehmen",
       "teilnehmen zu",
       "teilnehmen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Với động từ tách, đặt {{zu}} giữa tiền tố {{teil}} và động từ {{nehmen}}."
     },
     {
      "type": "mcq",
      "q": "Chọn phần tiếp nối chuẩn: {{Ich möchte im Werkraum …}}",
      "options": [
-      "mitzuarbeiten",
-      "zu mitarbeiten",
       "mitarbeiten zu",
+      "zu mitarbeiten",
+      "mitzuarbeiten",
       "mitarbeiten"
      ],
      "answer": 3,
@@ -495,12 +495,12 @@
      "type": "mcq",
      "q": "Chọn câu đúng với động từ {{beschließen}}.",
      "options": [
-      "Er beschließt, ein Praktikum machen zu.",
-      "Er beschließt, ein Praktikum machen.",
       "Er beschließt, ein Praktikum zu machen.",
+      "Er beschließt, ein Praktikum machen.",
+      "Er beschließt, ein Praktikum machen zu.",
       "Er beschließt, zu ein Praktikum machen."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{zu}} đứng trước {{machen}}, sau nội dung {{ein Praktikum}}."
     },
     {
@@ -519,12 +519,12 @@
      "type": "mcq",
      "q": "Chọn câu nêu việc dự định, có tiền tố tách đúng vị trí.",
      "options": [
+      "Ich habe vor, meine Fragen auf zu schreiben.",
       "Ich habe vor, meine Fragen aufzuschreiben.",
-      "Ich habe vor, meine Fragen zu aufschreiben.",
       "Ich habe vor, meine Fragen aufschreiben zu.",
-      "Ich habe vor, meine Fragen auf zu schreiben."
+      "Ich habe vor, meine Fragen zu aufschreiben."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Dạng đúng của {{aufschreiben}} trong cụm nguyên mẫu là {{aufzuschreiben}}."
     },
     {
@@ -1110,11 +1110,11 @@
      {
       "q": "Was sollen die Lernenden in die Berufsschule mitbringen?",
       "options": [
-       "Ein Beispiel aus dem Ausbildungsbetrieb.",
        "Ein Prüfgerät aus der Werkstatt.",
-       "Einen neuen Ausbildungsnachweis."
+       "Einen neuen Ausbildungsnachweis.",
+       "Ein Beispiel aus dem Ausbildungsbetrieb."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Warum markiert Amir die Nummer auf beiden Blättern?",
@@ -1137,20 +1137,20 @@
      {
       "q": "Warum überarbeitet Amir seine Notizen?",
       "options": [
-       "Um beide Methoden besser zu vergleichen.",
        "Um nur noch eine Methode zu verwenden.",
+       "Um beide Methoden besser zu vergleichen.",
        "Damit Jana sie für ihn liest."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Worüber spricht Amir am Ende mit der Ausbilderin?",
       "options": [
+       "Über die Gebühren für neue Prüfgeräte.",
        "Über den Ort der nächsten Berufsschule.",
-       "Über passende Gelegenheiten für die beiden Varianten.",
-       "Über die Gebühren für neue Prüfgeräte."
+       "Über passende Gelegenheiten für die beiden Varianten."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1177,60 +1177,60 @@
      "type": "mcq",
      "q": "Người ghi là Amir, người kiểm tra là cô hướng dẫn. Chọn vế chỉ mục đích.",
      "options": [
-      "um die Ausbilderin prüft die Ergebnisse",
       "damit prüft die Ausbilderin die Ergebnisse",
       "um die Ausbilderin die Ergebnisse zu prüfen",
-      "damit die Ausbilderin die Ergebnisse prüfen kann"
+      "damit die Ausbilderin die Ergebnisse prüfen kann",
+      "um die Ausbilderin prüft die Ergebnisse"
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "Khi nêu rõ chủ ngữ khác ở vế mục đích, dùng {{damit}} và đưa {{kann}} về cuối."
     },
     {
      "type": "mcq",
      "q": "Câu nào tương đương về mục đích với {{Ich notiere die Nummer, damit ich sie morgen wiederfinde.}}?",
      "options": [
-      "Ich notiere die Nummer, um sie morgen wiederzufinden.",
-      "Ich notiere die Nummer, weil ich sie morgen wiederfinde.",
       "Ich notiere die Nummer, damit du sie morgen wiederfindest.",
-      "Ich notiere die Nummer, um morgen sie wieder findet."
+      "Ich notiere die Nummer, weil ich sie morgen wiederfinde.",
+      "Ich notiere die Nummer, um morgen sie wieder findet.",
+      "Ich notiere die Nummer, um sie morgen wiederzufinden."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Cùng một người ghi và tìm lại nên dùng được {{um … zu}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có vị trí động từ đúng sau cụm mục đích mở đầu.",
      "options": [
-      "Um die Liste zu verstehen, ich frage nach.",
       "Um die Liste zu verstehen, nach ich frage.",
-      "Um die Liste zu verstehen, frage ich nach.",
-      "Um die Liste verstehen zu, frage ich nach."
+      "Um die Liste verstehen zu, frage ich nach.",
+      "Um die Liste zu verstehen, ich frage nach.",
+      "Um die Liste zu verstehen, frage ich nach."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Cụm mục đích chiếm vị trí 1. {{frage}} theo ngay sau dấu phẩy."
     },
     {
      "type": "mcq",
      "q": "Cụm nào chỉ việc đối chiếu linh kiện với danh sách?",
      "options": [
-      "die Teile anleiten",
-      "die Teile mit der Liste abgleichen",
+      "die Teile in der Liste erholen",
       "die Teile protokollieren lassen",
-      "die Teile in der Liste erholen"
+      "die Teile mit der Liste abgleichen",
+      "die Teile anleiten"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{abgleichen mit}} chỉ việc đối chiếu với một nguồn khác."
     },
     {
      "type": "mcq",
      "q": "Câu nào giải thích nguyên nhân của việc hỏi lại?",
      "options": [
+      "Ich frage nach, weil mir die Nummer unklar ist.",
       "Ich frage nach, um die Nummer zu verstehen.",
-      "Ich frage nach, damit ich die Nummer verstehe.",
       "Ich frage nach, damit Jana helfen kann.",
-      "Ich frage nach, weil mir die Nummer unklar ist."
+      "Ich frage nach, damit ich die Nummer verstehe."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{weil}} đưa ra nguyên nhân đã có. {{um … zu}} và {{damit}} nêu mục đích."
     },
     {
@@ -1832,8 +1832,8 @@
       "q": "Warum interessiert sich Nora für den Kurs?",
       "options": [
        "Sie will besseres Lernmaterial für die Arbeit gestalten.",
-       "Sie muss eine neue Arbeitsstelle finden.",
-       "Sie will in der Hochschule arbeiten."
+       "Sie will in der Hochschule arbeiten.",
+       "Sie muss eine neue Arbeitsstelle finden."
       ],
       "answer": 0
      },
@@ -1867,11 +1867,11 @@
      {
       "q": "Was möchte Nora vor ihrer Entscheidung zur Vorlesung wissen?",
       "options": [
-       "Wie viel Vorbereitung nötig ist.",
        "Wann ihre Kolleginnen in Urlaub gehen.",
+       "Wie viel Vorbereitung nötig ist.",
        "Wie viele Blätter sie im Kurs erstellt hat."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1886,46 +1886,46 @@
      "type": "mcq",
      "q": "Câu nào diễn đạt ‘Nora xem video mà không ghi chú’?",
      "options": [
-      "Nora sieht das Video, um Notizen zu machen.",
       "Nora sieht das Video, ohne Notizen zu machen.",
       "Nora sieht das Video, statt Notizen machen.",
-      "Nora sieht das Video, damit sie Notizen macht."
+      "Nora sieht das Video, damit sie Notizen macht.",
+      "Nora sieht das Video, um Notizen zu machen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{ohne … zu}} diễn tả việc ghi chú không xảy ra trong khi xem video."
     },
     {
      "type": "mcq",
      "q": "Nora chia bài thành hai buổi, thay cho việc học hết một lần. Chọn mẫu đúng.",
      "options": [
-      "Ohne sie den ganzen Stoff auf einmal liest, teilt sie ihn auf.",
       "Damit sie den ganzen Stoff auf einmal liest, teilt sie ihn auf.",
-      "Statt den ganzen Stoff auf einmal lesen, teilt sie ihn auf.",
-      "Statt den ganzen Stoff auf einmal zu lesen, teilt sie ihn auf."
+      "Ohne sie den ganzen Stoff auf einmal liest, teilt sie ihn auf.",
+      "Statt den ganzen Stoff auf einmal zu lesen, teilt sie ihn auf.",
+      "Statt den ganzen Stoff auf einmal lesen, teilt sie ihn auf."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{statt … zu}} đưa lựa chọn không được thực hiện vào cụm nguyên mẫu."
     },
     {
      "type": "mcq",
      "q": "Câu nào đúng khi hai người được nêu rõ và Amir không phải giúp?",
      "options": [
+      "Nora löst die Aufgabe, statt Amir ihr helfen muss.",
       "Nora löst die Aufgabe, ohne dass Amir ihr helfen muss.",
-      "Nora löst die Aufgabe, ohne Amir ihr helfen zu muss.",
       "Nora löst die Aufgabe, ohne dass Amir muss ihr helfen.",
-      "Nora löst die Aufgabe, statt Amir ihr helfen muss."
+      "Nora löst die Aufgabe, ohne Amir ihr helfen zu muss."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{ohne dass}} mở đầu mệnh đề có chủ ngữ {{Amir}}. {{muss}} đứng cuối."
     },
     {
      "type": "mcq",
      "q": "Chọn cách viết đúng với động từ tách {{nachholen}}.",
      "options": [
-      "statt die Übung nachholen zu",
       "statt die Übung zu nachholen",
+      "statt die Übung nach zu holen",
       "statt die Übung nachzuholen",
-      "statt die Übung nach zu holen"
+      "statt die Übung nachholen zu"
      ],
      "answer": 2,
      "explain": "Dạng có {{zu}} của {{nachholen}} là {{nachzuholen}}."
@@ -1935,23 +1935,23 @@
      "q": "Khái niệm nào chỉ chương trình đại học từ xa?",
      "options": [
       "die Lerngruppe",
-      "das Fernstudium",
+      "die Kursgebühr",
       "das Lerntagebuch",
-      "die Kursgebühr"
+      "das Fernstudium"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Fernstudium}} là chương trình học đại học từ xa."
     },
     {
      "type": "mcq",
      "q": "Câu nào trả lời câu hỏi về mục đích tham gia nhóm học?",
      "options": [
-      "Ich gehe in die Lerngruppe, ohne vorher zu lesen.",
       "Ich gehe in die Lerngruppe, statt allein zu lernen.",
       "Ich gehe in die Lerngruppe, weil ich die ersten Termine verpasst habe.",
-      "Ich gehe in die Lerngruppe, um offene Fragen zu klären."
+      "Ich gehe in die Lerngruppe, um offene Fragen zu klären.",
+      "Ich gehe in die Lerngruppe, ohne vorher zu lesen."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{um offene Fragen zu klären}} nêu mục đích đi học nhóm."
     },
     {
@@ -2605,20 +2605,20 @@
      {
       "q": "Was galt früher in Deutschland im Hinblick auf Bildung als Standard?",
       "options": [
-       "Man wechselte alle fünf Jahre komplett das Berufsfeld.",
+       "Niemand schloss vor dem dreißigsten Lebensjahr eine Ausbildung ab.",
        "Man wandte das einmal in Ausbildung oder Studium erworbene Wissen bis zur Rente an.",
-       "Niemand schloss vor dem dreißigsten Lebensjahr eine Ausbildung ab."
+       "Man wechselte alle fünf Jahre komplett das Berufsfeld."
       ],
       "answer": 1
      },
      {
       "q": "Warum veralten berufliche Fachkenntnisse heute wesentlich schneller als früher?",
       "options": [
+       "Weil die gesetzliche Arbeitszeit drastisch verkürzt wurde.",
        "Weil Universitäten keine Abschlussarbeiten mehr verlangen.",
-       "Aufgrund des rasanten technologischen Wandels und der Digitalisierung.",
-       "Weil die gesetzliche Arbeitszeit drastisch verkürzt wurde."
+       "Aufgrund des rasanten technologischen Wandels und der Digitalisierung."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welchen Vorteil bietet der bezahlte Bildungsurlaub für Arbeitnehmer?",
@@ -2633,10 +2633,10 @@
       "q": "Was tun fortschrittliche Unternehmen zunehmend, statt teure Fachkräfte extern zu suchen?",
       "options": [
        "Sie schließen die betroffenen Abteilungen vollständig.",
-       "Sie zwingen Mitarbeiter zu unbezahlter Schichtarbeit.",
-       "Sie finanzieren ihren Mitarbeitern gezielte Fortbildungen oder Umschulungen."
+       "Sie finanzieren ihren Mitarbeitern gezielte Fortbildungen oder Umschulungen.",
+       "Sie zwingen Mitarbeiter zu unbezahlter Schichtarbeit."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Welche persönliche Bedeutung hat lebenslanges Lernen laut dem letzten Absatz?",
@@ -2659,24 +2659,24 @@
      "type": "mcq",
      "q": "Wann MUSS der Finalsatz mit „damit“ anstelle von „um … zu“ gebildet werden?",
      "options": [
-      "Wenn beide Sätze dasselbe Subjekt haben",
-      "Wenn Hauptsatz und Nebensatz unterschiedliche Subjekte haben",
       "Wenn das Verb trennbar ist",
-      "Wenn der Hauptsatz im Präteritum steht"
+      "Wenn der Hauptsatz im Präteritum steht",
+      "Wenn Hauptsatz und Nebensatz unterschiedliche Subjekte haben",
+      "Wenn beide Sätze dasselbe Subjekt haben"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'um ... zu' chỉ dùng được khi hai mệnh đề cùng chung một chủ ngữ. Khi hai chủ ngữ khác nhau, bắt buộc phải dùng liên từ 'damit'."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Der Vater arbeitet viel, ___ seine Tochter an der Universität studieren kann.",
      "options": [
-      "um",
       "damit",
-      "ohne",
-      "statt"
+      "um",
+      "statt",
+      "ohne"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Chủ ngữ vế 1 là 'der Vater', vế 2 là 'seine Tochter'. Hai chủ ngữ khác nhau, bắt buộc dùng 'damit'."
     },
     {
@@ -2685,8 +2685,8 @@
      "options": [
       "Er plant, zu aufstehen früh.",
       "Er plant, früh aufzustehen.",
-      "Er plant, früh aufstehen zu.",
-      "Er plant, aufstehen zu früh."
+      "Er plant, aufstehen zu früh.",
+      "Er plant, früh aufstehen zu."
      ],
      "answer": 1,
      "explain": "Với động từ tách 'aufstehen', 'zu' bắt buộc phải chèn vào giữa tiền tố và gốc động từ: 'aufzustehen'."
@@ -2695,12 +2695,12 @@
      "type": "mcq",
      "q": "Welches Verb steht OHNE „zu“ mit dem Infinitiv?",
      "options": [
-      "hoffen",
       "beabsichtigen",
       "können",
-      "versuchen"
+      "versuchen",
+      "hoffen"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Động từ khuyết thiếu 'können' (Modalverb) đi trực tiếp với động từ nguyên mẫu không có 'zu'."
     },
     {
@@ -2708,35 +2708,35 @@
      "q": "Was drückt die Konstruktion „ohne … zu + Infinitiv“ aus?",
      "options": [
       "Einen Zweck oder eine Absicht",
-      "Eine Handlung, die unerwarteterweise unterbleibt oder fehlt",
       "Eine Alternative zu einer Handlung",
+      "Eine Handlung, die unerwarteterweise unterbleibt oder fehlt",
       "Eine Bedingung in der Vergangenheit"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'ohne ... zu + Infinitiv' diễn tả một hành động không được thực hiện mặc dù đáng lẽ ra phải có (làm việc gì mà không làm việc kia)."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Er ging zur Prüfung, ___ sich ausreichend vorbereitet zu haben.",
      "options": [
-      "um",
-      "damit",
       "ohne",
-      "anstatt dass"
+      "damit",
+      "anstatt dass",
+      "um"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Cụm 'ohne ... zu haben' có nghĩa là: đi thi mà không chuẩn bị kỹ lưỡng."
     },
     {
      "type": "mcq",
      "q": "Welche Bedeutung hat das Substantiv „die Zulassung“ an einer Hochschule?",
      "options": [
-      "Die Bezahlung der Semestergebühren",
       "Die offizielle Erlaubnis, das Studium aufzunehmen",
       "Das Zeugnis am Ende des Studiums",
-      "Die Kündigung eines Arbeitsvertrages"
+      "Die Kündigung eines Arbeitsvertrages",
+      "Die Bezahlung der Semestergebühren"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'Die Zulassung' là giấy báo trúng tuyển / sự chấp thuận cho phép nhập học chính thức tại trường đại học."
     },
     {
@@ -2744,21 +2744,21 @@
      "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
      "options": [
       "Statt zu lernen für die Klausur, spielte er Computerspiele.",
-      "Statt für die Klausur zu lernen, spielte er Computerspiele.",
       "Statt für die Klausur lernen zu, spielte er Computerspiele.",
+      "Statt für die Klausur zu lernen, spielte er Computerspiele.",
       "Statt zu die Klausur lernen, spielte er Computerspiele."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Cấu trúc 'statt ... zu + Infinitiv': 'zu lernen' đứng ở cuối mệnh đề phụ."
     },
     {
      "type": "mcq",
      "q": "Was ist der Plural von „das Stipendium“?",
      "options": [
-      "die Stipendiums",
-      "die Stipendien",
       "die Stipendiere",
-      "die Stipendia"
+      "die Stipendien",
+      "die Stipendia",
+      "die Stipendiums"
      ],
      "answer": 1,
      "explain": "Dạng số nhiều chuẩn theo Duden của danh từ gốc Latinh 'das Stipendium' là 'die Stipendien'."
@@ -2767,10 +2767,10 @@
      "type": "mcq",
      "q": "Was bedeutet die Wendung „Wert legen auf etwas (+ Akk)“?",
      "options": [
-      "Etwas sehr teuer verkaufen",
-      "Etwas als besonders wichtig erachten",
       "Etwas auf den Schreibtisch legen",
-      "Ein Buch lesen"
+      "Etwas als besonders wichtig erachten",
+      "Ein Buch lesen",
+      "Etwas sehr teuer verkaufen"
      ],
      "answer": 1,
      "explain": "'Wert legen auf + Akk' là thành ngữ có nghĩa là đặc biệt coi trọng, đánh giá cao điều gì."

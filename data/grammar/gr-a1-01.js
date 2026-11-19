@@ -26,12 +26,12 @@
    "type": "mcq",
    "q": "Welche Verbform passt? 'Ich ___ seit zwei Monaten Deutsch.'",
    "options": [
+    "lernen",
     "lerne",
     "lernst",
-    "lernt",
-    "lernen"
+    "lernt"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Chủ ngữ là 'ich' nên động từ 'lernen' có đuôi là '-e': ich lerne."
   },
   {
@@ -39,11 +39,11 @@
    "q": "Welche Verbform passt? 'Woher ___ du, Maria?'",
    "options": [
     "komme",
+    "kommen",
     "kommst",
-    "kommt",
-    "kommen"
+    "kommt"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Chủ ngữ là 'du' nên động từ 'kommen' có đuôi là '-st': du kommst."
   },
   {
@@ -51,32 +51,32 @@
    "q": "Welche Verbform passt? 'Mein Vater ___ als Ingenieur bei Siemens.'",
    "options": [
     "arbeite",
+    "arbeiten",
     "arbeitest",
-    "arbeitet",
-    "arbeiten"
+    "arbeitet"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "Chủ ngữ 'Mein Vater' tương đương ngôi 'er'. Động từ 'arbeiten' có gốc kết thúc bằng -t nên thêm '-et': er arbeitet."
   },
   {
    "type": "mcq",
    "q": "Welche Verbform passt? 'Wie ___ du mit Nachnamen?'",
    "options": [
+    "heißen",
     "heißest",
     "heißst",
-    "heißt",
-    "heißen"
+    "heißt"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "Động từ 'heißen' có gốc tận cùng là -ß nên ngôi 'du' chỉ thêm đuôi '-t': du heißt."
   },
   {
    "type": "mcq",
    "q": "Welche Verbform passt? 'Frau Schmidt, ___ Sie heute Abend Tee oder Kaffee?'",
    "options": [
-    "trinke",
     "trinkst",
     "trinkt",
+    "trinke",
     "trinken"
    ],
    "answer": 3,

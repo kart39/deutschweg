@@ -13,48 +13,48 @@
    "type": "mcq",
    "q": "Welches Prinzip beschreibt die Verteilung von bekannter und neuer Information im Satz?",
    "options": [
-    "Thema-Rhema-Gliederung",
-    "Nominalstil-Verbalstil-Wechsel",
     "Subjekt-Objekt-Vertauschung",
-    "Klammerprinzip"
+    "Thema-Rhema-Gliederung",
+    "Klammerprinzip",
+    "Nominalstil-Verbalstil-Wechsel"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Quy luật Đề - Thuyết (Thema-Rhema-Gliederung) điều phối việc đặt thông tin đã biết (Thema) ở đầu câu và thông tin mới (Rhema) ở cuối câu."
   },
   {
    "type": "mcq",
    "q": "Welches Konnektor-Adverb drückt eine steigernde Ergänzung aus ('hơn thế nữa, vả lại')?",
    "options": [
-    "überdies",
+    "indessen",
     "demgegenüber",
     "folglich",
-    "indessen"
+    "überdies"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'überdies' (đồng nghĩa với darüber hinaus, zudem) diễn tả sự bổ sung tăng cấp."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz hat die KORREKTE Wortstellung nach dem Konnektor 'demzufolge'?",
    "options": [
-    "Demzufolge müssen wir die Strategie grundlegend überdenken.",
-    "Demzufolge wir müssen die Strategie grundlegend überdenken.",
     "Demzufolge die Strategie wir müssen überdenken.",
-    "Demzufolge müssen überdenken wir die Strategie."
+    "Demzufolge müssen wir die Strategie grundlegend überdenken.",
+    "Demzufolge müssen überdenken wir die Strategie.",
+    "Demzufolge wir müssen die Strategie grundlegend überdenken."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'demzufolge' là trạng từ liên kết chiếm vị trí 1, gây đảo ngữ: Demzufolge müssen wir..."
   },
   {
    "type": "mcq",
    "q": "Wie vermeidet man im anspruchsvollen Text stilistisch unschöne Wortwiederholungen?",
    "options": [
-    "Durch Pronominalisierung, Synonyme und Hyperonyme (Oberbegriffe).",
-    "Indem man Wörter einfach ersatzlos streicht.",
     "Indem man jeden Satz mit 'Und' beginnt.",
-    "Durch ständige Passivkonstruktionen."
+    "Indem man Wörter einfach ersatzlos streicht.",
+    "Durch ständige Passivkonstruktionen.",
+    "Durch Pronominalisierung, Synonyme und Hyperonyme (Oberbegriffe)."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Dùng đại từ hóa, từ đồng nghĩa và từ bao hàm (Hyperonyme) là phương pháp chuẩn mực để tránh lặp từ."
   },
   {
@@ -62,9 +62,9 @@
    "q": "Welcher Konnektor eignet sich am besten für das abschließende Fazit einer Erörterung?",
    "options": [
     "Zusammenfassend lässt sich festhalten, dass...",
+    "Ferner sei erwähnt, dass...",
     "Zunächst einmal...",
-    "Auf der einen Seite...",
-    "Ferner sei erwähnt, dass..."
+    "Auf der einen Seite..."
    ],
    "answer": 0,
    "explain": "'Zusammenfassend lässt sich festhalten, dass...' là mẫu câu kinh điển để kết luận, tổng kết vấn đề."
@@ -74,9 +74,9 @@
    "q": "Welches Demonstrativpronomen verweist elegant auf einen zuvor erwähnten Sachverhalt?",
    "options": [
     "dieser / diese / dieses",
-    "irgendein",
+    "niemand",
     "jemand",
-    "niemand"
+    "irgendein"
    ],
    "answer": 0,
    "explain": "Đại từ chỉ định 'dieser/diese/dieses' dùng để kết nối trực tiếp với sự việc đã được đề cập ngay trước đó."

@@ -108,47 +108,47 @@
   {
    "q": "Wie war das Wetter in München an diesem Samstag?",
    "options": [
-    "Es hat geregnet",
     "Sonnig und 24 Grad warm",
-    "Sehr kalt und windig"
+    "Sehr kalt und windig",
+    "Es hat geregnet"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Was haben die Freunde auf dem Viktualienmarkt gekauft?",
    "options": [
-    "Souvenirs",
     "Frisches Obst und Brezeln",
+    "Souvenirs",
     "Fahrräder"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Wohin sind sie mittags mit dem Fahrrad gefahren?",
    "options": [
+    "An den Flughafen",
     "Zum Schloss Neuschwanstein",
-    "In den Englischen Garten",
-    "An den Flughafen"
+    "In den Englischen Garten"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Was haben sie an der Eisbachwelle gemacht?",
    "options": [
+    "Sie haben gepicknickt",
     "Sie haben den Surfern zugeschaut",
-    "Sie sind geschwommen",
-    "Sie haben gepicknickt"
+    "Sie sind geschwommen"
    ],
-   "answer": 0
+   "answer": 1
   },
   {
    "q": "Was planen sie für den nächsten Tag?",
    "options": [
     "Eine Reise nach Berlin",
-    "Einen Ausflug an den Starnberger See",
-    "Einen Tag zu Hause"
+    "Einen Tag zu Hause",
+    "Einen Ausflug an den Starnberger See"
    ],
-   "answer": 1
+   "answer": 2
   }
  ]
 });

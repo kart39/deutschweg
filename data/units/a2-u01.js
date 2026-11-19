@@ -368,34 +368,34 @@
       "q": "Wer hat das Baumhaus gebaut?",
       "options": [
        "Die Oma.",
-       "Die Cousine.",
-       "Der Onkel."
-      ],
-      "answer": 2
-     },
-     {
-      "q": "Was haben die Kinder bei Regen gemacht?",
-      "options": [
-       "Sie haben mit der Oma ein Brettspiel gespielt.",
-       "Sie haben auf dem Spielplatz Kastanien gesammelt.",
-       "Sie sind zum ersten Mal hinaufgeklettert."
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Was hat die Person aufgehoben, die diese Geschichte erzählt?",
-      "options": [
-       "Die Kiste.",
-       "Ein Foto.",
-       "Ein Buch."
+       "Der Onkel.",
+       "Die Cousine."
       ],
       "answer": 1
      },
      {
+      "q": "Was haben die Kinder bei Regen gemacht?",
+      "options": [
+       "Sie haben auf dem Spielplatz Kastanien gesammelt.",
+       "Sie sind zum ersten Mal hinaufgeklettert.",
+       "Sie haben mit der Oma ein Brettspiel gespielt."
+      ],
+      "answer": 2
+     },
+     {
+      "q": "Was hat die Person aufgehoben, die diese Geschichte erzählt?",
+      "options": [
+       "Ein Foto.",
+       "Die Kiste.",
+       "Ein Buch."
+      ],
+      "answer": 0
+     },
+     {
       "q": "Was erfahren wir über die Kastanien im Frühling?",
       "options": [
-       "Die Oma hat sie zu Hause versteckt.",
        "Die Kinder haben sie im Flur gefunden.",
+       "Die Oma hat sie zu Hause versteckt.",
        "Die Kiste war leer, und die beiden wissen bis heute nicht, was mit den Kastanien passiert ist."
       ],
       "answer": 2
@@ -413,24 +413,24 @@
      "type": "mcq",
      "q": "Chọn trợ động từ. {{Wir ___ in den Ferien oft draußen gespielt.}}",
      "options": [
+      "seid",
       "sind",
-      "haben",
       "hat",
-      "seid"
+      "haben"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{spielen}} tạo Perfekt với {{haben}}, kể cả khi có cụm nơi chốn."
     },
     {
      "type": "mcq",
      "q": "Câu nào dùng đúng Perfekt của {{aufwachsen}}?",
      "options": [
-      "Ich habe in Bonn aufgewachsen.",
-      "Ich bin in Bonn gewachsen auf.",
       "Ich bin in Bonn geaufwachsen.",
-      "Ich bin in Bonn aufgewachsen."
+      "Ich bin in Bonn aufgewachsen.",
+      "Ich habe in Bonn aufgewachsen.",
+      "Ich bin in Bonn gewachsen auf."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{aufwachsen}} đi với {{sein}} và phân từ là {{aufgewachsen}}."
     },
     {
@@ -438,9 +438,9 @@
      "q": "Sau cụm thời gian, câu nào có đúng trật tự?",
      "options": [
       "Als Kind habe ich oft draußen gespielt.",
-      "Als Kind ich habe oft draußen gespielt.",
       "Als Kind ich oft draußen habe gespielt.",
-      "Als Kind habe oft ich gespielt draußen."
+      "Als Kind habe oft ich gespielt draußen.",
+      "Als Kind ich habe oft draußen gespielt."
      ],
      "answer": 0,
      "explain": "Cụm {{als Kind}} ở vị trí đầu. Trợ động từ đứng ngay sau cụm."
@@ -449,24 +449,24 @@
      "type": "mcq",
      "q": "Điền đúng Partizip II. {{Wer hat das Foto ___?}}",
      "options": [
-      "geentdeckt",
-      "entdecken",
+      "entgedeckt",
       "entdeckt",
-      "entgedeckt"
+      "geentdeckt",
+      "entdecken"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Tiền tố {{ent-}} không tách. Dạng đúng là {{entdeckt}}."
     },
     {
      "type": "mcq",
      "q": "Câu hỏi nào hỏi nơi bạn lớn lên?",
      "options": [
-      "Was hast du dort gemacht?",
-      "Wo bist du aufgewachsen?",
+      "Wohin gehst du heute?",
       "Wo hast du aufgewachsen?",
-      "Wohin gehst du heute?"
+      "Wo bist du aufgewachsen?",
+      "Was hast du dort gemacht?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Dùng {{wo}} cho nơi chốn và {{bist … aufgewachsen}} cho Perfekt."
     },
     {
@@ -997,9 +997,9 @@
      {
       "q": "Warum musste Eva früher aufstehen als die Person, die erzählt?",
       "options": [
-       "Sie musste morgens in der Schule malen.",
+       "Sie musste der Lehrerin jeden Morgen helfen.",
        "Ihr Schulweg war länger und sie nahm den Schulbus.",
-       "Sie musste der Lehrerin jeden Morgen helfen."
+       "Sie musste morgens in der Schule malen."
       ],
       "answer": 1
      },
@@ -1007,28 +1007,28 @@
       "q": "Was mussten die beiden nach dem Vorlesen machen?",
       "options": [
        "Zwei oder drei Wörter von der Tafel abschreiben.",
-       "Eine ganze Geschichte schreiben.",
-       "Den Schulbus und das Schultor malen."
+       "Den Schulbus und das Schultor malen.",
+       "Eine ganze Geschichte schreiben."
       ],
       "answer": 0
      },
      {
       "q": "Was hat Eva im Kunstunterricht gemalt?",
       "options": [
-       "Ihr Dorf und die Lehrerin.",
+       "Den Schulbus und das Schultor.",
        "Nur das Klassenzimmer.",
-       "Den Schulbus und das Schultor."
+       "Ihr Dorf und die Lehrerin."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Wie hat Eva ihr altes Bild wieder gesehen?",
       "options": [
-       "Sie hat es selbst beim Aufräumen gefunden.",
        "Sie hat ein Foto davon bekommen.",
-       "Es hing im Klassenzimmer."
+       "Es hing im Klassenzimmer.",
+       "Sie hat es selbst beim Aufräumen gefunden."
       ],
-      "answer": 1
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1044,9 +1044,9 @@
      "q": "Câu nào diễn đạt ‘Thời đó tôi biết đọc’?",
      "options": [
       "Damals konnte ich lesen.",
-      "Damals musste ich lesen.",
+      "Damals konntest ich lesen.",
       "Damals kann ich lesen.",
-      "Damals konntest ich lesen."
+      "Damals musste ich lesen."
      ],
      "answer": 0,
      "explain": "{{Ich konnte lesen.}} nói về khả năng ở thời điểm quá khứ."
@@ -1055,24 +1055,24 @@
      "type": "mcq",
      "q": "Chọn dạng quá khứ. {{___ ihr um acht im Klassenzimmer sein?}}",
      "options": [
-      "Musste",
-      "Musstet",
       "Mussten",
-      "Musst"
+      "Musst",
+      "Musste",
+      "Musstet"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Dạng quá khứ của {{müssen}} với {{ihr}} là {{musstet}}."
     },
     {
      "type": "mcq",
      "q": "Đặt động từ đúng. {{Am Montag ___ wir früh ___.}}",
      "options": [
-      "musste / aufstehen",
+      "müssen / aufgestanden",
       "mussten / aufgestanden",
-      "mussten / aufstehen",
-      "müssen / aufgestanden"
+      "musste / aufstehen",
+      "mussten / aufstehen"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Với {{wir}} dùng {{mussten}}. Động từ chính ở cuối ở dạng {{aufstehen}}."
     },
     {
@@ -1080,23 +1080,23 @@
      "q": "Câu nào nói rằng việc làm bài tập hôm đó không bắt buộc?",
      "options": [
       "Wir konnten keine Hausaufgaben machen.",
-      "Wir mussten alle Hausaufgaben machen.",
       "Wir mussten keine Hausaufgaben machen.",
-      "Wir haben keine Hausaufgaben gemacht."
+      "Wir haben keine Hausaufgaben gemacht.",
+      "Wir mussten alle Hausaufgaben machen."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Wir mussten keine Hausaufgaben machen.}} nói không có nghĩa vụ làm bài."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có nghĩa ‘Bạn có thể đi xe buýt trường không?’ khi hỏi về hồi trước.",
      "options": [
-      "Kann ich mit dem Schulbus fahren?",
-      "Konntest du mit dem Schulbus fahren?",
+      "Konnten sie mit dem Schulbus fahren?",
       "Musstest du mit dem Schulbus fahren?",
-      "Konnten sie mit dem Schulbus fahren?"
+      "Kann ich mit dem Schulbus fahren?",
+      "Konntest du mit dem Schulbus fahren?"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Hỏi khả năng trong quá khứ với {{Konntest du …?}}."
     },
     {
@@ -1657,29 +1657,29 @@
      {
       "q": "Was war in dem Briefumschlag?",
       "options": [
-       "Ein Foto und ein kurzer Brief.",
+       "Ein Kochrezept und eine Kassette.",
        "Zwei Fotos.",
-       "Ein Kochrezept und eine Kassette."
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Was durfte der Vater mit sieben noch nicht?",
-      "options": [
-       "Äpfel schneiden.",
-       "Den Tisch sauber machen.",
-       "Den Ofen benutzen."
+       "Ein Foto und ein kurzer Brief."
       ],
       "answer": 2
      },
      {
-      "q": "Was haben die beiden am Nachmittag gemacht?",
+      "q": "Was durfte der Vater mit sieben noch nicht?",
       "options": [
-       "Sie haben das alte Foto zur Oma gebracht.",
-       "Sie haben einen Kuchen gebacken und fotografiert.",
-       "Sie haben alle Rezepte abgeschrieben."
+       "Den Tisch sauber machen.",
+       "Den Ofen benutzen.",
+       "Äpfel schneiden."
       ],
       "answer": 1
+     },
+     {
+      "q": "Was haben die beiden am Nachmittag gemacht?",
+      "options": [
+       "Sie haben einen Kuchen gebacken und fotografiert.",
+       "Sie haben das alte Foto zur Oma gebracht.",
+       "Sie haben alle Rezepte abgeschrieben."
+      ],
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1694,60 +1694,60 @@
      "type": "mcq",
      "q": "Trong quá khứ, câu nào nói ‘Tôi muốn quay một đoạn video’?",
      "options": [
-      "Ich wollte ein Video aufnehmen.",
       "Ich durfte ein Video aufnehmen.",
+      "Ich musste ein Video aufnehmen.",
       "Ich will ein Video aufnehmen.",
-      "Ich musste ein Video aufnehmen."
+      "Ich wollte ein Video aufnehmen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Ich wollte}} diễn tả mong muốn trong quá khứ."
     },
     {
      "type": "mcq",
      "q": "Câu nào nghĩa là ‘Chúng tôi không được phép dùng lò nướng’?",
      "options": [
-      "Wir wollten den Ofen nicht benutzen.",
-      "Wir mussten den Ofen nicht benutzen.",
+      "Wir haben den Ofen nicht benutzt.",
       "Wir durften den Ofen nicht benutzen.",
-      "Wir haben den Ofen nicht benutzt."
+      "Wir wollten den Ofen nicht benutzen.",
+      "Wir mussten den Ofen nicht benutzen."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{nicht dürfen}} nói về việc không được phép."
     },
     {
      "type": "mcq",
      "q": "Dạng quá khứ nào phù hợp? {{___ du die Videokamera benutzen?}}",
      "options": [
-      "Darfst",
       "Durften",
-      "Durfte",
-      "Durftest"
+      "Darfst",
+      "Durftest",
+      "Durfte"
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "Với {{du}}, dùng {{durftest}}. {{Darfst}} ở hiện tại."
     },
     {
      "type": "mcq",
      "q": "Câu nào khẳng định bọn trẻ đã xem video?",
      "options": [
-      "Die Kinder haben das Video gesehen.",
-      "Die Kinder wollten das Video sehen.",
       "Die Kinder durften das Video sehen.",
-      "Die Kinder konnten das Video sehen."
+      "Die Kinder konnten das Video sehen.",
+      "Die Kinder wollten das Video sehen.",
+      "Die Kinder haben das Video gesehen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{haben … gesehen}} kể việc đã xảy ra. Các dạng khuyết thiếu cho biết mong muốn, quyền hoặc khả năng."
     },
     {
      "type": "mcq",
      "q": "Câu nào phân biệt đúng ý ‘Họ không phải ở lại’?",
      "options": [
-      "Sie durften nicht bleiben.",
       "Sie mussten nicht bleiben.",
-      "Sie wollten nicht bleiben.",
-      "Sie sind nicht geblieben."
+      "Sie durften nicht bleiben.",
+      "Sie sind nicht geblieben.",
+      "Sie wollten nicht bleiben."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{mussten nicht bleiben}} nghĩa là không có nghĩa vụ phải ở lại."
     },
     {
@@ -2411,29 +2411,29 @@
      {
       "q": "Was musste Herr Tuan nach der Schule zu Hause machen?",
       "options": [
-       "Er musste am Laptop Hausaufgaben machen.",
        "Er musste zum Basketballtraining gehen.",
-       "Er musste seiner Mutter beim Kochen helfen und auf seine kleine Schwester aufpassen."
-      ],
-      "answer": 2
-     },
-     {
-      "q": "Was war damals der größte Wunsch von Herrn Tuan?",
-      "options": [
-       "Ein eigenes Smartphone.",
-       "Ein eigenes Comic-Heft von Doraemon.",
-       "Eine Reise nach Dresden."
+       "Er musste seiner Mutter beim Kochen helfen und auf seine kleine Schwester aufpassen.",
+       "Er musste am Laptop Hausaufgaben machen."
       ],
       "answer": 1
      },
      {
-      "q": "Welche Aussage über den 16-jährigen Minh ist richtig?",
+      "q": "Was war damals der größte Wunsch von Herrn Tuan?",
       "options": [
-       "Er findet die Geschichten über die Kindheit seines Vaters sehr spannend.",
-       "Er darf zu Hause kein Smartphone und keinen Laptop benutzen.",
-       "Er ist in den 1980er-Jahren in Nordvietnam aufgewachsen."
+       "Ein eigenes Comic-Heft von Doraemon.",
+       "Eine Reise nach Dresden.",
+       "Ein eigenes Smartphone."
       ],
       "answer": 0
+     },
+     {
+      "q": "Welche Aussage über den 16-jährigen Minh ist richtig?",
+      "options": [
+       "Er ist in den 1980er-Jahren in Nordvietnam aufgewachsen.",
+       "Er darf zu Hause kein Smartphone und keinen Laptop benutzen.",
+       "Er findet die Geschichten über die Kindheit seines Vaters sehr spannend."
+      ],
+      "answer": 2
      }
     ],
     "glossary": []
@@ -2450,8 +2450,8 @@
      "options": [
       "hast ... aufgewachsen",
       "bist ... aufgewachsen",
-      "bist ... aufgewachst",
-      "warst ... aufwachsen"
+      "warst ... aufwachsen",
+      "bist ... aufgewachst"
      ],
      "answer": 1,
      "explain": "„aufwachsen“ là động từ mạnh tách được chỉ quá trình lớn lên (thay đổi trạng thái), nên bắt buộc dùng trợ động từ „sein“ + „aufgewachsen“."
@@ -2461,35 +2461,35 @@
      "q": "Chọn dạng Partizip II đúng của ba động từ hỗn hợp „denken“, „bringen“ và „wissen“:",
      "options": [
       "gedenkt / gebringt / gewisst",
+      "dachte / brachte / wusste",
       "gedacht / gebracht / gewusst",
-      "gedunken / gebrungen / gewissen",
-      "dachte / brachte / wusste"
+      "gedunken / gebrungen / gewissen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Ba động từ hỗn hợp (gemischte Verben) đổi nguyên âm gốc nhưng vẫn giữ đuôi „-t“ ở Partizip II: „gedacht“, „gebracht“, „gewusst“."
     },
     {
      "type": "mcq",
      "q": "Khi muốn nói „ở vùng nông thôn / miền quê“, người Đức dùng cụm giới từ nào?",
      "options": [
-      "in das Land",
       "auf dem Land",
       "unter dem Land",
-      "an der Land"
+      "an der Land",
+      "in das Land"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Cụm từ cố định chỉ việc sống ở vùng nông thôn/thôn quê là „auf dem Land (leben / wohnen / aufwachsen)“."
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng ngữ pháp với động từ „umziehen“ (chuyển nhà) ở thì Perfekt:",
      "options": [
+      "Vor zwei Jahren ist unsere Familie nach München geumzogen.",
       "Vor zwei Jahren hat unsere Familie nach München umgezogen.",
       "Vor zwei Jahren ist unsere Familie nach München umgezogen.",
-      "Vor zwei Jahren ist unsere Familie nach München geumzogen.",
       "Vor zwei Jahren sind unsere Familie nach München umzieht."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„umziehen“ (chuyển nhà sang nơi ở mới) chỉ sự di chuyển chỗ ở nên dùng trợ động từ „sein“: „unsere Familie (số ít) ist ... umgezogen“."
     },
     {
@@ -2659,24 +2659,24 @@
      "type": "mcq",
      "q": "Chọn dạng chia đúng ở thì Präteritum của „müssen“ và „dürfen“ cho ngôi „ich“: „Als Kind ___ ich viel im Haushalt helfen und ___ nur am Wochenende lange fernsehen.“",
      "options": [
-      "müsste ... dürfte",
       "musste ... durfte",
+      "musstet ... durftet",
       "muss ... darf",
-      "musstet ... durftet"
+      "müsste ... dürfte"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Ở thì Präteritum, tất cả các động từ khuyết thiếu đều BỎ Umlaut (ü → u): „ich musste“ (tôi đã phải) và „ich durfte“ (tôi đã được phép)."
     },
     {
      "type": "mcq",
      "q": "Khi muốn nói „Hôm qua tôi đã muốn đi xem phim“ (quá khứ của ich möchte / ich will), ta nói như thế nào?",
      "options": [
-      "Ich möchtete gestern ins Kino gehen.",
-      "Ich wollte gestern ins Kino gehen.",
+      "Ich willte gestern ins Kino gehen.",
       "Ich mochte gestern ins Kino gehen.",
-      "Ich willte gestern ins Kino gehen."
+      "Ich möchtete gestern ins Kino gehen.",
+      "Ich wollte gestern ins Kino gehen."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Trong tiếng Đức không có từ „möchtete“; dạng quá khứ của cả „möchten“ và „wollen“ khi đi với động từ nguyên mẫu đều dùng „wollte“."
     },
     {
@@ -2684,21 +2684,21 @@
      "q": "Chọn dạng Präteritum đúng của động từ „mögen“ (thích một món ăn/môn học): „In der Grundschule ___ mein Bruder kein Gemüse, aber er ___ Fußball sehr.“",
      "options": [
       "möchte ... möchte",
-      "mochte ... mochte",
       "magte ... magte",
-      "mögt ... mögt"
+      "mögt ... mögt",
+      "mochte ... mochte"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Thì quá khứ đơn (Präteritum) của động từ „mögen“ là „mochte“ (ich/er/sie/es mochte)."
     },
     {
      "type": "mcq",
      "q": "Trong hệ thống thang điểm ở trường phổ thông Đức (Noten von 1 bis 6), điểm số nào là xuất sắc nhất (Sehr gut)?",
      "options": [
-      "Die Note 6",
-      "Die Note 1",
       "Die Note 10",
-      "Die Note 5"
+      "Die Note 1",
+      "Die Note 5",
+      "Die Note 6"
      ],
      "answer": 1,
      "explain": "Ở Đức, thang điểm đi từ 1 đến 6, trong đó điểm 1 (Note 1 = sehr gut) là điểm cao nhất/xuất sắc nhất, và điểm 6 (ungenügend) là điểm kém nhất."
@@ -2869,20 +2869,20 @@
      "q": "Dạng quá khứ đơn (Präteritum) của cụm tồn tại „es gibt“ (có...) là gì?",
      "options": [
       "es gebt",
+      "es gibtet",
       "es gab",
-      "es gegeben",
-      "es gibtet"
+      "es gegeben"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„geben“ là động từ mạnh (e → a – e), nên ở thì Präteritum ngôi thứ 3 số ít „es gibt“ chuyển thành „es gab“ (vd: Damals gab es noch kein Internet)."
     },
     {
      "type": "mcq",
      "q": "Chọn trợ động từ đúng cho động từ „klettern“ (trèo cây / leo núi) khi chỉ sự di chuyển lên cao: „Als Kinder ___ wir oft auf hohe Bäume geklettert.“",
      "options": [
-      "haben",
-      "sind",
       "waren",
+      "sind",
+      "haben",
       "hatten"
      ],
      "answer": 1,
@@ -2892,10 +2892,10 @@
      "type": "mcq",
      "q": "Trạng từ nào đồng nghĩa với „heute“ khi muốn nhấn mạnh ý „ngày nay, thời buổi hiện đại này“ (đối lập với früher/damals)?",
      "options": [
-      "vorgestern",
+      "vorher",
       "heutzutage",
-      "damals",
-      "vorher"
+      "vorgestern",
+      "damals"
      ],
      "answer": 1,
      "explain": "„heutzutage“ nghĩa là ngày nay / thời buổi hiện nay, thường dùng để so sánh xã hội hiện tại với „früher“ (ngày xưa)."
@@ -2904,10 +2904,10 @@
      "type": "mcq",
      "q": "Chọn câu kết hợp đúng và tự nhiên nhất giữa Präteritum (cho trạng thái/khuyết thiếu) và Perfekt (cho hành động):",
      "options": [
-      "Als ich klein bin gewesen, habe ich wollte Arzt werden.",
+      "Als ich klein gewesen, wollte ich Arzt geworden.",
       "Als ich klein war, wollte ich Arzt werden und habe viel gelernt.",
       "Als ich klein war, habe ich Arzt werden gewollt.",
-      "Als ich klein gewesen, wollte ich Arzt geworden."
+      "Als ich klein bin gewesen, habe ich wollte Arzt werden."
      ],
      "answer": 1,
      "explain": "Trong tiếng Đức chuẩn, „sein“ và „wollen“ dùng ở Präteritum („war“, „wollte“), còn hành động „lernen“ dùng ở Perfekt („habe viel gelernt“)."

@@ -400,56 +400,56 @@
      {
       "q": "Was wurde mehrsprachigen Familien früher häufig geraten?",
       "options": [
-       "Zuhause nur Hochdeutsch und keine Muttersprache mehr zu sprechen.",
        "Jeden Tag fünf neue Fremdsprachen zu lernen.",
        "Nur noch Dialekt zu verwenden.",
+       "Zuhause nur Hochdeutsch und keine Muttersprache mehr zu sprechen.",
        "Auf den Schulbesuch zu verzichten."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 1 cho biết phụ huynh di cư trước đây thường được khuyên bỏ tiếng mẹ đẻ ở nhà để chỉ nói tiếng Đức."
      },
      {
       "q": "Warum trainiert Mehrsprachigkeit laut der Linguistin das Gehirn?",
       "options": [
-       "Weil man alle Wörter wörtlich übersetzen muss.",
        "Weil stets beide Sprachsysteme aktiv sind und das Gehirn flexibel auswählen muss.",
        "Weil mehrsprachige Menschen weniger schlafen.",
+       "Weil man alle Wörter wörtlich übersetzen muss.",
        "Weil man keine Grammatikregeln braucht."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 2 giải thích cả hai ngôn ngữ luôn hoạt động nên não phải liên tục chọn từ phù hợp."
      },
      {
       "q": "Welchen Vorteil bietet eine gut beherrschte Muttersprache beim Lernen weiterer Sprachen?",
       "options": [
-       "Sie ersetzt den Wortschatz der Fremdsprache komplett.",
        "Sie bildet ein stabiles Fundament für das Verständnis neuer Grammatik.",
-       "Sie verhindert jeden Akzent.",
-       "Sie macht Wörterbücher überflüssig."
+       "Sie ersetzt den Wortschatz der Fremdsprache komplett.",
+       "Sie macht Wörterbücher überflüssig.",
+       "Sie verhindert jeden Akzent."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 3 nêu vốn từ vững chắc ở tiếng mẹ đẻ là nền móng cho việc học ngữ pháp ngôn ngữ thứ hai."
      },
      {
       "q": "Wie hat sich das Bild von regionalen Dialekten verändert?",
       "options": [
        "Sie sind heute gesetzlich verboten.",
-       "Sie gelten heute statt als Bildungsmangel als wertvolles Kulturgut.",
        "Sie werden nur noch im Fernsehen gesprochen.",
-       "Sie verdrängen die Standardsprache in Schulen."
+       "Sie verdrängen die Standardsprache in Schulen.",
+       "Sie gelten heute statt als Bildungsmangel als wertvolles Kulturgut."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 4 đối chiếu: trước đây bị xem là thiếu học thức, nay là di sản văn hóa quý giá."
      },
      {
       "q": "Was kritisiert der Autor im letzten Abschnitt?",
       "options": [
+       "Dass Übersetzungsprogramme verboten werden sollten.",
        "Dass ein Akzent bei Bewerbungen manchmal fälschlich als geringere Fachkompetenz gedeutet wird.",
        "Dass zu viele Menschen Hochdeutsch sprechen.",
-       "Dass Übersetzungsprogramme verboten werden sollten.",
        "Dass es zu wenige Dialekte gibt."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn cuối phê phán định kiến đánh đồng giọng ngoại quốc với năng lực chuyên môn kém."
      }
     ],
@@ -468,8 +468,8 @@
      "options": [
       "sei",
       "seie",
-      "ist",
-      "wäre"
+      "wäre",
+      "ist"
      ],
      "answer": 0,
      "explain": "Động từ 'sein' ở Konjunktiv I ngôi thứ 3 số ít là 'sei'."
@@ -478,60 +478,60 @@
      "type": "mcq",
      "q": "Welche indirekte Rede gibt den Satz „Die Expertin sagt: ‚Sprache verändert sich schnell‘“ im Konjunktiv I korrekt wieder?",
      "options": [
+      "Die Expertin sagt, Sprache veränderte sich schnell.",
       "Die Expertin sagt, Sprache verändere sich schnell.",
       "Die Expertin sagt, Sprache verändert sich schnell.",
-      "Die Expertin sagt, Sprache veränderte sich schnell.",
       "Die Expertin sagt, Sprache veränderst sich schnell."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Gốc 'verändern' bỏ -n và thêm -e ở ngôi thứ 3 số ít: 'verändere'."
     },
     {
      "type": "mcq",
      "q": "Wie lautet der Konjunktiv I (3. Person Singular) von „sprechen“?",
      "options": [
+      "sprich",
       "spreche",
       "spricht",
-      "spräche",
-      "sprich"
+      "spräche"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Konjunktiv I không đổi nguyên âm gốc e→i: sprechen → er/sie spreche."
     },
     {
      "type": "mcq",
      "q": "Wählen Sie die richtige Form: „Minh erzählt, er ___ bereits drei Jahre in Berlin.“",
      "options": [
-      "lebe",
       "lebt",
       "lebte",
-      "leben"
+      "leben",
+      "lebe"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Konjunktiv I ngôi thứ 3 số ít của 'leben' là 'lebe'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „eine Redewendung wörtlich übersetzen“?",
      "options": [
+      "Einen Dialekt im Radio sprechen",
       "Jedes einzelne Wort direkt übertragen",
       "Den Sinn frei umschreiben",
-      "Einen Dialekt im Radio sprechen",
       "Ein Wörterbuch neu schreiben"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'wörtlich' = dịch sát từng chữ theo nghĩa đen."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Dialekt“?",
      "options": [
-      "der",
       "die",
-      "das",
-      "–"
+      "der",
+      "–",
+      "das"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Danh từ chuẩn là 'der Dialekt, die Dialekte'."
     },
     {
@@ -539,9 +539,9 @@
      "q": "Wie lautet die 3. Person Singular Konjunktiv I von „können“?",
      "options": [
       "könne",
-      "kann",
       "könnte",
-      "könnt"
+      "könnt",
+      "kann"
      ],
      "answer": 0,
      "explain": "Gốc 'könn-' + đuôi '-e' → 'er/sie könne'."
@@ -550,12 +550,12 @@
      "type": "mcq",
      "q": "Welches Verb passt: „Viele Familien ___ ihre Muttersprache auch im Ausland.“",
      "options": [
-      "pflegen",
-      "verdrängen",
+      "bemerken",
       "übersetzen",
-      "bemerken"
+      "verdrängen",
+      "pflegen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'eine Sprache pflegen' = gìn giữ, trau dồi một ngôn ngữ."
     },
     {
@@ -1146,56 +1146,56 @@
      {
       "q": "Warum entstehen in internationalen Teams trotz gemeinsamer Arbeitssprache Missverständnisse?",
       "options": [
-       "Weil alle Wörter im Wörterbuch fehlen.",
        "Weil ungeschriebene kulturelle Regeln für Höflichkeit und Kritik unterschiedlich sind.",
+       "Weil alle Wörter im Wörterbuch fehlen.",
        "Weil niemand Englisch oder Deutsch versteht.",
        "Weil die Tagesordnung zu lang ist."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 1 nêu các quy tắc bất thành văn về lịch sự, thứ bậc và góp ý là nguyên nhân gây hiểu lầm."
      },
      {
       "q": "Wie empfinden manche internationale Mitarbeitende die deutsche Direktheit am Anfang?",
       "options": [
-       "Als persönliche Ablehnung, obwohl sie sachlich gemeint ist.",
-       "Als übertriebene Schüchternheit.",
        "Als Beweis für Desinteresse an der Arbeit.",
-       "Als Einladung zum Smalltalk."
+       "Als Einladung zum Smalltalk.",
+       "Als übertriebene Schüchternheit.",
+       "Als persönliche Ablehnung, obwohl sie sachlich gemeint ist."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 2 chỉ ra sự góp ý thẳng đôi khi bị hiểu nhầm là sự bác bỏ cá nhân."
      },
      {
       "q": "Warum bevorzugen viele deutsche Geschäftspartner einen schnellen Einstieg in die Tagesordnung?",
       "options": [
+       "Weil Smalltalk gesetzlich verboten ist.",
        "Um ihre Gäste zu beleidigen.",
        "Um Zeit zu sparen und sachlich zu bleiben.",
-       "Weil sie keine Familien haben.",
-       "Weil Smalltalk gesetzlich verboten ist."
+       "Weil sie keine Familien haben."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 3 giải thích mục đích của sự đi thẳng vào vấn đề là tiết kiệm thời gian."
      },
      {
       "q": "Wie kann eine kurze Gesprächspause kulturell unterschiedlich gedeutet werden?",
       "options": [
+       "Als Zeichen für schlechte Technik.",
        "Entweder als Respekt und Nachdenken oder als Unsicherheit.",
-       "Immer als Zustimmung.",
        "Stets als Beleidigung.",
-       "Als Zeichen für schlechte Technik."
+       "Immer als Zustimmung."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 3 đối chiếu: ở một số nơi là tôn trọng và suy ngẫm, ở phương Tây dễ bị hiểu là thiếu chắc chắn."
      },
      {
       "q": "Was hilft laut dem Text am besten gegen interkulturelle Stolpersteine?",
       "options": [
-       "Sich streng an nationale Klischees zu halten.",
-       "Umgangsformen offen zu besprechen, Empathie zu zeigen und im Zweifel nachzufragen.",
        "Auf jede Kritik zu verzichten.",
-       "Nur noch schriftlich per E-Mail zu kommunizieren."
+       "Sich streng an nationale Klischees zu halten.",
+       "Nur noch schriftlich per E-Mail zu kommunizieren.",
+       "Umgangsformen offen zu besprechen, Empathie zu zeigen und im Zweifel nachzufragen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn cuối đề xuất trao đổi minh bạch về phép ứng xử, thấu cảm và hỏi lại thân thiện."
      }
     ],
@@ -1212,36 +1212,36 @@
      "type": "mcq",
      "q": "Warum benutzt man im Satz „Die Gäste sagten, sie hätten viel Zeit“ nicht „haben“?",
      "options": [
-      "Weil ‚haben‘ im Konjunktiv I mit dem Indikativ identisch ist (Ersatz durch Konjunktiv II).",
       "Weil ‚hätten‘ eine Zukunft ausdrückt.",
+      "Weil Gäste immer unhöflich sind.",
       "Weil ‚sie‘ Singular ist.",
-      "Weil Gäste immer unhöflich sind."
+      "Weil ‚haben‘ im Konjunktiv I mit dem Indikativ identisch ist (Ersatz durch Konjunktiv II)."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Ngôi số nhiều 'sie haben' trùng giữa Konjunktiv I và Indikativ nên phải thay bằng Konjunktiv II 'hätten'."
     },
     {
      "type": "mcq",
      "q": "Welche Ersatzform passt: „Die Kolleginnen versprechen, sie ___ (helfen) uns morgen“?",
      "options": [
-      "würden helfen",
       "helfen",
       "halfen",
-      "geholfen"
+      "geholfen",
+      "würden helfen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Konjunktiv I (helfen) trùng Indikativ, Konjunktiv II (hülfen) ít dùng hiện đại → dùng 'würden helfen'."
     },
     {
      "type": "mcq",
      "q": "Wie lautet die korrekte indirekte Rede in der Vergangenheit: „Sie berichteten: ‚Wir haben das Problem gelöst‘“?",
      "options": [
+      "Sie berichteten, sie lösten das Problem.",
       "Sie berichteten, sie hätten das Problem gelöst.",
       "Sie berichteten, sie haben das Problem gelöst.",
-      "Sie berichteten, sie lösten das Problem.",
       "Sie berichteten, sie werden das Problem gelöst."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Quá khứ gián tiếp số nhiều 'sie haben' trùng Indikativ → dùng 'sie hätten ... gelöst'."
     },
     {
@@ -1250,8 +1250,8 @@
      "options": [
       "Aus Versehen etwas Peinliches oder Unpassendes sagen/tun",
       "Besonders höflich Smalltalk führen",
-      "Einen großen Erfolg im Beruf feiern",
-      "Eine Fremdsprache fließend sprechen"
+      "Eine Fremdsprache fließend sprechen",
+      "Einen großen Erfolg im Beruf feiern"
      ],
      "answer": 0,
      "explain": "'ins Fettnäpfchen treten' = vô tình nói/làm điều gì đó hớ hênh, gây ngượng ngùng."
@@ -1260,12 +1260,12 @@
      "type": "mcq",
      "q": "Welche indirekte Rede ist für eine Einzelperson im Perfekt korrekt: „Minh sagte: ‚Ich war in Hamburg‘“?",
      "options": [
-      "Minh sagte, er sei in Hamburg gewesen.",
+      "Minh sagte, er würde in Hamburg sein.",
       "Minh sagte, er war in Hamburg.",
-      "Minh sagte, er ist in Hamburg gewesen.",
-      "Minh sagte, er würde in Hamburg sein."
+      "Minh sagte, er sei in Hamburg gewesen.",
+      "Minh sagte, er ist in Hamburg gewesen."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Ngôi thứ 3 số ít của 'sein' là 'sei' (khác Indikativ) → 'er sei ... gewesen'."
     },
     {
@@ -1284,24 +1284,24 @@
      "type": "mcq",
      "q": "Welches Adjektiv passt: „Beim ersten Treffen sollte man ___ Themen wie Einkommen meiden.“",
      "options": [
-      "heikle",
-      "fließende",
       "wörtliche",
-      "sachliche"
+      "fließende",
+      "sachliche",
+      "heikle"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'heikle Themen' = những chủ đề nhạy cảm, tế nhị."
     },
     {
      "type": "mcq",
      "q": "Wie wandelt man „Die Gäste meinen: ‚Wir kommen gern‘“ richtig um?",
      "options": [
-      "Die Gäste meinen, sie kämen gern.",
       "Die Gäste meinen, sie kommen gern.",
       "Die Gäste meinen, wir kommen gern.",
+      "Die Gäste meinen, sie kämen gern.",
       "Die Gäste meinen, sie kommt gern."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'sie kommen' trùng Indikativ → đổi sang Konjunktiv II 'sie kämen' (hoặc 'würden kommen')."
     },
     {
@@ -1891,43 +1891,43 @@
      {
       "q": "Was passiert laut Text, wenn gesprochene Worte und Körpersprache sich widersprechen?",
       "options": [
+       "Man achtet nur noch auf die geschriebenen Wörter.",
        "Menschen vertrauen oft stärker den unbewussten nonverbalen Signalen.",
-       "Die Zuhörer bemerken den Unterschied nie.",
        "Das Gespräch wird sofort abgebrochen.",
-       "Man achtet nur noch auf die geschriebenen Wörter."
+       "Die Zuhörer bemerken den Unterschied nie."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 2 nêu khi lời nói và thái độ mâu thuẫn, người nghe thường tin vào tín hiệu vô thức hơn."
      },
      {
       "q": "Warum warnen Fachleute vor einfachen Gesten-Ratgebern?",
       "options": [
        "Weil Gesten immer unhöflich sind.",
+       "Weil Mimik wichtiger ist als Sprache.",
        "Weil eine einzelne Geste keine feste Universalbedeutung hat und vom Kontext abhängt.",
-       "Weil niemand mehr gestikuliert.",
-       "Weil Mimik wichtiger ist als Sprache."
+       "Weil niemand mehr gestikuliert."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 2 lấy ví dụ người khoanh tay có thể chỉ vì lạnh, chứ không hẳn là phòng thủ."
      },
      {
       "q": "Warum wird Ironie in E-Mails oder Chats häufig missverstanden?",
       "options": [
-       "Weil E-Mails zu lang sind.",
        "Weil Tonfall und Mimik fehlen.",
+       "Weil E-Mails zu lang sind.",
        "Weil alle Kollegen ungeduldig sind.",
        "Weil Emojis gesetzlich verboten sind."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 3 giải thích sự thiếu vắng giọng điệu và nét mặt khiến mỉa mai dễ bị hiểu theo nghĩa đen."
      },
      {
       "q": "Welches Problem tritt in Videokonferenzen beim Blickkontakt auf?",
       "options": [
        "Man schaut meistens auf den Bildschirm statt direkt in die Kamera.",
-       "Die Bildschirme sind zu hell.",
+       "Sprachnachrichten stören das Bild.",
        "Man spricht immer gleichzeitig.",
-       "Sprachnachrichten stören das Bild."
+       "Die Bildschirme sind zu hell."
       ],
       "answer": 0,
       "explain": "Đoạn 4 chỉ ra việc nhìn vào màn hình thay vì ống kính khiến giao tiếp ánh mắt thật khó hình thành."
@@ -1935,12 +1935,12 @@
      {
       "q": "Welche Empfehlung gibt der Text am Ende?",
       "options": [
-       "Alle Chats im Büro abzuschaffen.",
        "Den Kommunikationskanal bewusst passend zum Thema auszuwählen.",
-       "In Meetings niemals zu nicken.",
-       "Nur noch Sprachnachrichten zu verschicken."
+       "Alle Chats im Büro abzuschaffen.",
+       "Nur noch Sprachnachrichten zu verschicken.",
+       "In Meetings niemals zu nicken."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn cuối khuyên chọn kênh giao tiếp phù hợp: chat cho việc nhanh, gọi điện/gặp trực tiếp cho việc nhạy cảm."
      }
     ],
@@ -1957,36 +1957,36 @@
      "type": "mcq",
      "q": "Welcher Satz drückt in der indirekten Rede Skepsis oder Zweifel des Sprechers aus?",
      "options": [
-      "Er behauptet, er wäre zu dem Zeitpunkt im Ausland gewesen.",
+      "Er fragt, ob er im Ausland war.",
       "Er erklärt, er sei zu dem Zeitpunkt im Ausland gewesen.",
-      "Er sagt, er war zu dem Zeitpunkt im Ausland.",
-      "Er fragt, ob er im Ausland war."
+      "Er behauptet, er wäre zu dem Zeitpunkt im Ausland gewesen.",
+      "Er sagt, er war zu dem Zeitpunkt im Ausland."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Dùng Konjunktiv II ('wäre ... gewesen') khi Konjunktiv I ('sei') vẫn khả dụng thể hiện sự nghi ngờ của người tường thuật."
     },
     {
      "type": "mcq",
      "q": "Wie wandelt man die Frage „Wann beginnt die Konferenz?“ korrekt in die indirekte Rede um?",
      "options": [
-      "Sie fragt, wann die Konferenz beginne.",
       "Sie fragt, ob wann die Konferenz beginne.",
-      "Sie fragt, dass wann die Konferenz beginne.",
-      "Sie fragt, wann beginne die Konferenz."
+      "Sie fragt, wann beginne die Konferenz.",
+      "Sie fragt, wann die Konferenz beginne.",
+      "Sie fragt, dass wann die Konferenz beginne."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Câu hỏi W-Frage giữ từ để hỏi 'wann' và đưa động từ chia (Konjunktiv I: beginne) ra cuối câu."
     },
     {
      "type": "mcq",
      "q": "Wie lautet die korrekte indirekte Ja/Nein-Frage für „Haben Sie die E-Mail erhalten?“?",
      "options": [
-      "Er fragt, ob sie die E-Mail erhalten habe.",
       "Er fragt, dass sie die E-Mail erhalten habe.",
       "Er fragt, wenn sie die E-Mail erhalten habe.",
+      "Er fragt, ob sie die E-Mail erhalten habe.",
       "Er fragt, ob habe sie die E-Mail erhalten."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Câu hỏi Có/Không dùng liên từ 'ob' và đưa động từ xuống cuối câu."
     },
     {
@@ -1994,8 +1994,8 @@
      "q": "Wie gibt man die Aufforderung „Bitte schauen Sie in die Kamera!“ höflich im Konjunktiv I wieder?",
      "options": [
       "Die Leiterin bittet, wir mögen in die Kamera schauen.",
-      "Die Leiterin bittet, wir schauen in die Kamera.",
       "Die Leiterin bittet, ob wir in die Kamera schauen.",
+      "Die Leiterin bittet, wir schauen in die Kamera.",
       "Die Leiterin bittet, in die Kamera geschaut."
      ],
      "answer": 0,
@@ -2005,12 +2005,12 @@
      "type": "mcq",
      "q": "Welche Bedeutung hat „authentisch“?",
      "options": [
-      "echt und glaubwürdig",
       "künstlich und übertrieben",
       "ironisch und spöttisch",
+      "echt und glaubwürdig",
       "distanziert und unhöflich"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'authentisch' = chân thật, tự nhiên, đáng tin cậy."
     },
     {
@@ -2018,9 +2018,9 @@
      "q": "Welcher Artikel gehört zu „Tonfall“?",
      "options": [
       "der",
-      "die",
       "das",
-      "–"
+      "–",
+      "die"
      ],
      "answer": 0,
      "explain": "Danh từ chuẩn là 'der Tonfall, die Tonfälle'."
@@ -2029,24 +2029,24 @@
      "type": "mcq",
      "q": "Was bedeutet „eine Behauptung anzweifeln“?",
      "options": [
-      "Nicht sicher sein, ob eine Aussage stimmt",
       "Einer Aussage sofort voll zustimmen",
+      "Einen Blickkontakt halten",
       "Eine Aussage wörtlich übersetzen",
-      "Einen Blickkontakt halten"
+      "Nicht sicher sein, ob eine Aussage stimmt"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'anzweifeln' = nghi ngờ tính xác thực."
     },
     {
      "type": "mcq",
      "q": "Warum wird Ironie im Chat oft missverstanden?",
      "options": [
-      "Weil Tonfall und Mimik fehlen.",
-      "Weil der Chat zu langsam ist.",
       "Weil alle Wörter großgeschrieben sind.",
-      "Weil die Körperhaltung zu aufrecht ist."
+      "Weil der Chat zu langsam ist.",
+      "Weil die Körperhaltung zu aufrecht ist.",
+      "Weil Tonfall und Mimik fehlen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Thiếu giọng điệu (Tonfall) và nét mặt (Mimik) khiến sự mỉa mai dễ bị hiểu theo nghĩa đen."
     },
     {
@@ -2557,8 +2557,8 @@
       "options": [
        "Dass jede bewusste Wortwahl die Wahrnehmung des Publikums beeinflusst.",
        "Dass beide Wörter genau dasselbe Gefühl auslösen.",
-       "Dass Politik auf Sprache verzichten kann.",
-       "Dass Journalisten keine Adjektive nutzen dürfen."
+       "Dass Journalisten keine Adjektive nutzen dürfen.",
+       "Dass Politik auf Sprache verzichten kann."
       ],
       "answer": 0,
       "explain": "Đoạn 1 chứng minh cách chọn từ định hướng trực tiếp cách công chúng cảm nhận vấn đề."
@@ -2566,21 +2566,21 @@
      {
       "q": "Welche Funktion erfüllt der Konjunktiv I in Zeitungsartikeln?",
       "options": [
+       "Er ersetzt alle Quellenverweise.",
        "Er macht Artikel länger.",
-       "Er markiert sachliche Distanz und zeigt, dass eine Aussage zitiert wird.",
        "Er drückt immer starke Empörung der Redaktion aus.",
-       "Er ersetzt alle Quellenverweise."
+       "Er markiert sachliche Distanz und zeigt, dass eine Aussage zitiert wird."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 2 giải thích Konjunktiv I đánh dấu khoảng cách khách quan và cho thấy đây là lời trích dẫn có nguồn."
      },
      {
       "q": "Was signalisiert laut Text der Einsatz von Konjunktiv II statt Konjunktiv I, obwohl Konjunktiv I möglich wäre?",
       "options": [
-       "Besondere Zustimmung",
+       "Eine direkte Aufforderung",
        "Leise Skepsis oder Zweifel an der Aussage",
        "Einen Tippfehler",
-       "Eine direkte Aufforderung"
+       "Besondere Zustimmung"
       ],
       "answer": 1,
       "explain": "Đoạn 2 nêu rõ việc dùng Konjunktiv II gợi lên sự hoài nghi nhẹ giữa các dòng chữ."
@@ -2588,21 +2588,21 @@
      {
       "q": "Warum reden Menschen in sozialen Netzwerken laut Abschnitt 3 oft aneinander vorbei?",
       "options": [
-       "Weil komplexe Themen verkürzt werden und Begriffe unterschiedlich definiert sind.",
-       "Weil niemand mehr lesen kann.",
        "Weil dort nur Hochdeutsch erlaubt ist.",
-       "Weil alle Kommentare zu lang sind."
+       "Weil alle Kommentare zu lang sind.",
+       "Weil niemand mehr lesen kann.",
+       "Weil komplexe Themen verkürzt werden und Begriffe unterschiedlich definiert sind."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 3 chỉ ra sự rút gọn phức tạp thành từ khóa và định nghĩa khác nhau khiến mọi người nói lệch nhịp."
      },
      {
       "q": "Wie bewertet der Autor Anglizismen im Deutschen?",
       "options": [
-       "Er fordert ein strenges Verbot.",
-       "Er sieht sie als Teil des normalen Sprachwandels, solange Präzision und Verständnis bleiben.",
        "Er hält sie für gefährlicher als Dialekte.",
-       "Er meint, sie würden bald wieder verschwinden."
+       "Er sieht sie als Teil des normalen Sprachwandels, solange Präzision und Verständnis bleiben.",
+       "Er meint, sie würden bald wieder verschwinden.",
+       "Er fordert ein strenges Verbot."
       ],
       "answer": 1,
       "explain": "Đoạn 4 xem từ vay mượn là phần tự nhiên của biến đổi ngôn ngữ miễn vẫn chính xác và dễ hiểu."
@@ -2610,12 +2610,12 @@
      {
       "q": "Was gehört laut dem letzten Abschnitt zu einem guten Sprachgefühl?",
       "options": [
+       "Auf Konjunktiv-Formen ganz zu verzichten.",
        "Möglichst viele Fremdwörter zu benutzen.",
        "Klar und diplomatisch zu formulieren sowie Aussagen kritisch zu hinterfragen.",
-       "Auf Konjunktiv-Formen ganz zu verzichten.",
        "Immer das letzte Wort zu behalten."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn cuối tóm tắt 2 kỹ năng: diễn đạt rõ ràng khéo léo và kiểm chứng phản biện lời người khác."
      }
     ],
@@ -2634,8 +2634,8 @@
      "options": [
       "Die Ministerin sagte, das Programm starte im Herbst.",
       "Die Ministerin sagte, das Programm startet im Herbst.",
-      "Die Ministerin sagte, das Programm startete im Herbst.",
-      "Die Ministerin sagte, das Programm starten im Herbst."
+      "Die Ministerin sagte, das Programm starten im Herbst.",
+      "Die Ministerin sagte, das Programm startete im Herbst."
      ],
      "answer": 0,
      "explain": "Ngôi thứ 3 số ít Konjunktiv I của 'starten' là 'starte'."
@@ -2644,48 +2644,48 @@
      "type": "mcq",
      "q": "Wann ersetzt man Konjunktiv I durch Konjunktiv II?",
      "options": [
-      "Wenn der Konjunktiv I mit dem Indikativ identisch ist.",
       "Wenn der Sprecher sehr höflich ist.",
+      "Wenn ein Satz mit ‚dass‘ beginnt.",
       "Immer bei ‚sein‘ im Singular.",
-      "Wenn ein Satz mit ‚dass‘ beginnt."
+      "Wenn der Konjunktiv I mit dem Indikativ identisch ist."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Khi Konjunktiv I trùng Indikativ (như ở ngôi số nhiều), chuyển sang Konjunktiv II."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz zeigt die richtige Ersatzform für ‚sie gehen‘ in der indirekten Rede?",
      "options": [
-      "Sie sagten, sie gingen sofort nach Hause.",
-      "Sie sagten, sie gehen sofort nach Hause.",
       "Sie sagten, sie gehe sofort nach Hause.",
-      "Sie sagten, sie geht sofort nach Hause."
+      "Sie sagten, sie gingen sofort nach Hause.",
+      "Sie sagten, sie geht sofort nach Hause.",
+      "Sie sagten, sie gehen sofort nach Hause."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'sie gehen' trùng Indikativ → thay bằng Konjunktiv II 'sie gingen'."
     },
     {
      "type": "mcq",
      "q": "Wie lautet die Vergangenheitsform der indirekten Rede für „Die Eltern sagten: ‚Wir haben lange gewartet‘“?",
      "options": [
-      "Die Eltern sagten, sie hätten lange gewartet.",
       "Die Eltern sagten, sie haben lange gewartet.",
+      "Die Eltern sagten, sie seien lange gewartet.",
       "Die Eltern sagten, sie warteten lange.",
-      "Die Eltern sagten, sie seien lange gewartet."
+      "Die Eltern sagten, sie hätten lange gewartet."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Quá khứ gián tiếp số nhiều 'haben' → 'hätten ... gewartet'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „zwischen den Zeilen lesen“?",
      "options": [
-      "Verborgene oder indirekte Bedeutungen erkennen",
+      "Einen Text wörtlich abschreiben",
       "Sehr schnell ein Buch durchblättern",
       "Jedes Wort laut vorlesen",
-      "Einen Text wörtlich abschreiben"
+      "Verborgene oder indirekte Bedeutungen erkennen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'zwischen den Zeilen lesen' = hiểu ẩn ý đằng sau câu chữ."
     },
     {
@@ -2693,8 +2693,8 @@
      "q": "Welches Verb bedeutet „eine falsche Meldung offiziell für unwahr erklären“?",
      "options": [
       "dementieren",
-      "formulieren",
       "deuten",
+      "formulieren",
       "betonen"
      ],
      "answer": 0,
@@ -2704,48 +2704,48 @@
      "type": "mcq",
      "q": "Was passiert, wenn zwei Personen „aneinander vorbeireden“?",
      "options": [
-      "Sie missverstehen sich, weil sie unterschiedliche Dinge meinen.",
       "Sie sprechen besonders diplomatisch.",
+      "Sie nutzen nur Körpersprache.",
       "Sie wechseln ins Hochdeutsche.",
-      "Sie nutzen nur Körpersprache."
+      "Sie missverstehen sich, weil sie unterschiedliche Dinge meinen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'aneinander vorbeireden' = nói không ăn nhập, hiểu sai ý nhau."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz gibt „Der Chef fragt: ‚Haben Sie das Protokoll?‘“ korrekt wieder?",
      "options": [
-      "Der Chef fragt, ob sie das Protokoll habe.",
       "Der Chef fragt, dass sie das Protokoll habe.",
       "Der Chef fragt, wenn sie das Protokoll hat.",
+      "Der Chef fragt, ob sie das Protokoll habe.",
       "Der Chef fragt, ob habe sie das Protokoll."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Câu hỏi Có/Không dùng 'ob' + động từ cuối câu."
     },
     {
      "type": "mcq",
      "q": "Warum sollte man bei ‚er sei‘ NICHT ‚er würde sein‘ schreiben?",
      "options": [
-      "Weil ‚sei‘ ein eindeutiger Konjunktiv I ist und stilistisch Vorrang hat.",
       "Weil ‚würde‘ im Deutschen verboten ist.",
-      "Weil ‚sei‘ Vergangenheit ausdrückt.",
-      "Weil ‚würde‘ nur für Dialekte gilt."
+      "Weil ‚würde‘ nur für Dialekte gilt.",
+      "Weil ‚sei‘ ein eindeutiger Konjunktiv I ist und stilistisch Vorrang hat.",
+      "Weil ‚sei‘ Vergangenheit ausdrückt."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Luôn ưu tiên Konjunktiv I khi khác Indikativ ('sei' là chuẩn nhất)."
     },
     {
      "type": "mcq",
      "q": "Was ist der Unterschied zwischen ‚Dialekt‘ und ‚Akzent‘?",
      "options": [
+      "Dialekt spricht man nur schriftlich.",
       "Dialekt ist eine regionale Sprachvariante; Akzent ist die Aussprachefärbung einer Fremdsprache.",
       "Beide Wörter sind völlig identisch.",
-      "Dialekt spricht man nur schriftlich.",
       "Akzent gibt es nur in der Politik."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Dialekt = phương ngữ vùng miền; Akzent = âm sắc/giọng khi nói ngoại ngữ."
     },
     {

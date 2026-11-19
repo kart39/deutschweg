@@ -10,60 +10,60 @@
    "type": "mcq",
    "q": "Welche Frage passt zur Antwort? \"– Auf wen wartest du?\"",
    "options": [
-    "Ich warte auf meinen Freund Peter.",
+    "Ich warte auf den Feierabend.",
     "Ich warte auf den nächsten Bus.",
     "Ich warte auf schönes Wetter.",
-    "Ich warte auf den Feierabend."
+    "Ich warte auf meinen Freund Peter."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'Auf wen?' hỏi về NGƯỜI (Person), do đó câu trả lời phải là một người: 'auf meinen Freund Peter'."
   },
   {
    "type": "mcq",
    "q": "Worüber ärgert sich der Chef? – \"Er ärgert sich ___.\"",
    "options": [
-    "über die Verspätung",
     "über den Kollegen",
     "über seinen Assistenten",
-    "über die Mitarbeiterin"
+    "über die Mitarbeiterin",
+    "über die Verspätung"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'Worüber?' hỏi về ĐỒ VẬT/SỰ VIỆC, vì vậy đáp án là 'über die Verspätung' (sự trễ giờ)."
   },
   {
    "type": "mcq",
    "q": "Welches Pronominaladverb ist korrekt gebildet? \"wo + an\"",
    "options": [
-    "woran",
-    "woan",
     "wovan",
-    "wodan"
+    "wodan",
+    "woran",
+    "woan"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Khi ghép 'wo-' với giới từ bắt đầu bằng nguyên âm 'an', phải chèn thêm phụ âm '-r-' thành 'woran'."
   },
   {
    "type": "mcq",
    "q": "Er träumt schon seit seiner Kindheit ___ einer Reise nach Japan.",
    "options": [
-    "von",
     "über",
-    "an",
-    "für"
+    "für",
+    "von",
+    "an"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Động từ 'träumen' luôn đi với giới từ 'von' (+ Dativ)."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist grammatisch VOLLKOMMEN KORREKT?",
    "options": [
-    "Ich freue mich sehr darauf, dich bald wiederzusehen.",
-    "Ich freue mich sehr darüber, dich bald wiederzusehen.",
     "Ich freue mich sehr dafür, dich bald wiederzusehen.",
-    "Ich freue mich sehr davon, dich bald wiederzusehen."
+    "Ich freue mich sehr darüber, dich bald wiederzusehen.",
+    "Ich freue mich sehr davon, dich bald wiederzusehen.",
+    "Ich freue mich sehr darauf, dich bald wiederzusehen."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Mong đợi một sự việc trong tương lai dùng 'sich freuen auf' -> từ báo hiệu là 'darauf'."
   },
   {
@@ -72,8 +72,8 @@
    "options": [
     "wem",
     "wen",
-    "was",
-    "womit"
+    "womit",
+    "was"
    ],
    "answer": 0,
    "explain": "'sprechen mit' đòi hỏi Dativ, hỏi về người ở Dativ là 'wem': 'Mit wem'."

@@ -289,24 +289,24 @@
      "type": "mcq",
      "q": "Chọn từ đúng để hoàn thành chuỗi so sánh mức độ yêu thích: „Ich lese gern, noch ___ höre ich Musik, aber ___ spiele ich Gitarre.“",
      "options": [
-      "besser ... am besten",
       "lieber ... am liebsten",
+      "besser ... am besten",
       "mehr ... am meisten",
       "gerner ... am gernsten"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Ba cấp độ của „gern“ (thích) là: „gern“ (thích) – „lieber“ (thích hơn) – „am liebsten“ (thích nhất). Không bao giờ nói „gerner“!"
     },
     {
      "type": "mcq",
      "q": "Chọn dạng chia đúng của động từ „treffen“ cho ngôi thứ 3 số ít: „Am Samstag ___ Lisa ihre Freundin im Kino.“",
      "options": [
-      "trefft",
       "trifft",
       "treffen",
+      "trefft",
       "trafft"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„treffen“ là động từ mạnh biến âm e → i ở ngôi du (triffst) và er/sie/es (trifft)."
     },
     {
@@ -314,11 +314,11 @@
      "q": "Giới từ nào luôn đi trước tên các mùa trong năm (Frühling, Sommer, Herbst, Winter)?",
      "options": [
       "am",
-      "um",
       "im",
+      "um",
       "auf"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Trước tên các mùa và các tháng trong năm, tiếng Đức luôn dùng giới từ „im“ (viết tắt của in dem), ví dụ: „im Sommer“, „im Winter“."
     },
     {
@@ -327,8 +327,8 @@
      "options": [
       "du fahrst / du laufst",
       "du fährst / du läufst",
-      "du fahrt / du lauft",
-      "du führst / du liefst"
+      "du führst / du liefst",
+      "du fahrt / du lauft"
      ],
      "answer": 1,
      "explain": "Ở thì Präsens, cả „fahren“ (a → ä) và „laufen“ (au → äu) đều nhận Umlaut ở ngôi „du“ và „er/sie/es“: „du fährst“, „du läufst“."
@@ -758,33 +758,33 @@
      "type": "mcq",
      "q": "Chọn dạng chia đúng của động từ „wollen“ cho ngôi „er“: „Mein Bruder ___ im Sommer nach München fahren.“",
      "options": [
-      "wollt",
-      "willt",
+      "wolle",
       "will",
-      "wolle"
+      "willt",
+      "wollt"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Động từ khuyết thiếu „wollen“ đổi o → i ở số ít và KHÔNG có đuôi -t ở ngôi er/sie/es: „ich will / er will“."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng chia đúng của động từ „können“ cho ngôi „ihr“: „___ ihr schon gut Deutsch sprechen?“",
      "options": [
-      "Kann",
-      "Könnt",
+      "Kannst",
       "Können",
-      "Kannst"
+      "Könnt",
+      "Kann"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Ở ngôi số nhiều „ihr“ (các bạn), động từ khuyết thiếu giữ nguyên nguyên âm gốc của Infinitiv và thêm đuôi -t: „ihr könnt“."
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng ngữ pháp khi kết hợp „wollen“ với động từ tách „mitkommen“:",
      "options": [
-      "Willst du heute Abend kommst mit?",
-      "Willst du heute Abend mitkommen?",
       "Kommst du willst heute Abend mit?",
+      "Willst du heute Abend mitkommen?",
+      "Willst du heute Abend kommst mit?",
       "Willst mitkommen du heute Abend?"
      ],
      "answer": 1,
@@ -795,11 +795,11 @@
      "q": "Câu „Meine Schwester kann sehr gut backen“ có nghĩa là gì?",
      "options": [
       "Em gái tôi muốn nướng bánh ngay bây giờ.",
-      "Em gái tôi biết nướng bánh rất ngon / rất giỏi.",
+      "Em gái toi phai di mua bánh.",
       "Em gái toi khong thích nuong bánh.",
-      "Em gái toi phai di mua bánh."
+      "Em gái tôi biết nướng bánh rất ngon / rất giỏi."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„können“ đi với các hoạt động như kochen, backen, schwimmen, Gitarre spielen mang nghĩa là „biết làm gì / có kỹ năng làm gì“."
     },
     {
@@ -1242,28 +1242,28 @@
       "q": "Was will Lukas am Samstag mit seinen Freunden machen?",
       "options": [
        "Er will ins Kino gehen und danach Pizza essen.",
-       "Er will an den Chiemsee fahren, dort schwimmen und grillen.",
-       "Er will seinem Bruder beim Umzug helfen."
+       "Er will seinem Bruder beim Umzug helfen.",
+       "Er will an den Chiemsee fahren, dort schwimmen und grillen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was schreibt Sarah in ihrer Antwort?",
       "options": [
+       "Sie kann nicht schwimmen und bleibt lieber zu Hause.",
        "Sie hat am Samstag leider keine Zeit.",
-       "Sie kommt gern mit und bringt Kartoffelsalat und Getränke mit.",
-       "Sie kann nicht schwimmen und bleibt lieber zu Hause."
+       "Sie kommt gern mit und bringt Kartoffelsalat und Getränke mit."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Warum kann Tobias am Samstag nicht mitkommen?",
       "options": [
-       "Er muss für eine Prüfung an der Universität lernen.",
+       "Sein Bruder zieht um und Tobias muss Möbel tragen.",
        "Er ist krank und muss im Bett bleiben.",
-       "Sein Bruder zieht um und Tobias muss Möbel tragen."
+       "Er muss für eine Prüfung an der Universität lernen."
       ],
-      "answer": 2
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1278,48 +1278,48 @@
      "type": "mcq",
      "q": "Chọn đại từ nhân xưng đúng ở cách Akkusativ: „Wo ist mein Computer? Ich sehe ___ nicht.“",
      "options": [
-      "er",
-      "es",
       "ihn",
-      "ihm"
+      "es",
+      "ihm",
+      "er"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "„der Computer“ mang giống Đực (der). Sau động từ „sehen“ (+ Akkusativ), đại từ giống Đực „er“ biến đổi thành „ihn“."
     },
     {
      "type": "mcq",
      "q": "Chọn đại từ đúng để điền vào chỗ trống: „Du hast morgen Geburtstag. Ich kaufe ein Geschenk für ___.“",
      "options": [
-      "du",
       "dir",
-      "dich",
-      "dein"
+      "du",
+      "dein",
+      "dich"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Giới từ „für“ (dành cho) luôn đi với cách Akkusativ. Đại từ „du“ ở Akkusativ là „dich“."
     },
     {
      "type": "mcq",
      "q": "Chọn đại từ đúng: „Hallo Maria, hallo Lukas! Wann kann ich ___ am Bahnhof abholen?“",
      "options": [
-      "ihr",
-      "euch",
       "uns",
-      "sie"
+      "sie",
+      "ihr",
+      "euch"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Khi nói chuyện trực tiếp với 2 người bạn (Maria và Lukas = ngôi „ihr“ – các cậu), tân ngữ Akkusativ của „ihr“ là „euch“."
     },
     {
      "type": "mcq",
      "q": "Câu nào dùng để từ chối một lời mời một cách lịch sự?",
      "options": [
+      "Das ist eine fantastische Idee!",
       "Ja, das passt mir super!",
-      "Es tut mir leid, am Samstag habe ich leider keine Zeit.",
       "Wann und wo treffen wir uns?",
-      "Das ist eine fantastische Idee!"
+      "Es tut mir leid, am Samstag habe ich leider keine Zeit."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„Es tut mir leid, am Samstag habe ich leider keine Zeit.“ có nghĩa là: Rất tiếc, thứ Bảy này tôi không có thời gian."
     },
     {
@@ -1909,10 +1909,10 @@
       "q": "Wann ist das Picknick?",
       "options": [
        "Am Sonntag um zwei.",
-       "Am Samstag um zwei.",
-       "Am Samstag um eins."
+       "Am Samstag um eins.",
+       "Am Samstag um zwei."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wen holt Ben um eins ab?",
@@ -1926,11 +1926,11 @@
      {
       "q": "Was bringt Mara mit?",
       "options": [
-       "Brot.",
+       "Kinokarten.",
        "Einen Ball.",
-       "Kinokarten."
+       "Brot."
       ],
-      "answer": 0
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1945,60 +1945,60 @@
      "type": "mcq",
      "q": "Chọn từ diễn đạt “thích hơn” trong câu “Ich singe gern, aber ich tanze ___.”",
      "options": [
+      "am liebsten",
       "gern",
       "lieber",
-      "am liebsten",
       "draußen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{lieber}} là dạng so sánh hơn của {{gern}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào có nghĩa “Mình thích chơi piano nhất”?",
      "options": [
-      "Ich spiele gern Klavier.",
+      "Ich spiele am liebsten Klavier.",
       "Ich spiele lieber Klavier.",
       "Ich spiele draußen Klavier.",
-      "Ich spiele am liebsten Klavier."
+      "Ich spiele gern Klavier."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{am liebsten}} cho biết chơi piano là hoạt động mình thích nhất."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm có nghĩa “vào mùa xuân”.",
      "options": [
+      "im Winter",
       "im Frühling",
       "im Sommer",
-      "im Herbst",
-      "im Winter"
+      "im Herbst"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{der Frühling}} là mùa xuân. Cụm chỉ mùa là {{im Frühling}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng có cụm chỉ mùa ở đầu và mang nghĩa “Mùa thu mình thích đi bộ đường dài”.",
      "options": [
-      "Im Herbst ich wandere gern.",
-      "Im Herbst wandern ich gern.",
+      "Im Herbst wandere gern ich.",
       "Im Herbst wandere ich gern.",
-      "Im Herbst wandere gern ich."
+      "Im Herbst ich wandere gern.",
+      "Im Herbst wandern ich gern."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Im Herbst}} chiếm vị trí đầu. Động từ đã chia {{wandere}} ở vị trí thứ hai, rồi đến chủ ngữ {{ich}}."
     },
     {
      "type": "mcq",
      "q": "Chọn từ chỉ nơi chốn để hoàn thành câu “Ich male im Sommer ___.” với nghĩa “Mùa hè mình vẽ ở ngoài trời”.",
      "options": [
+      "gern",
       "drinnen",
       "draußen",
-      "gern",
       "lieber"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{draußen}} nghĩa là ở ngoài trời, còn {{drinnen}} nghĩa là ở trong nhà."
     },
     {
@@ -2175,36 +2175,36 @@
      "type": "mcq",
      "q": "Chọn dạng đúng trong câu “Ich ___ gut schwimmen.” với động từ können.",
      "options": [
-      "können",
-      "kannst",
       "kann",
-      "könnt"
+      "könnt",
+      "kannst",
+      "können"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Với {{ich}}, động từ {{können}} có dạng {{kann}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu hỏi đúng có nghĩa “Các bạn muốn chơi bóng bàn không?”",
      "options": [
-      "Wollt ihr Tischtennis spielen?",
+      "Wollt ihr spielt Tischtennis?",
       "Willst ihr Tischtennis spielen?",
       "Spielen ihr wollt Tischtennis?",
-      "Wollt ihr spielt Tischtennis?"
+      "Wollt ihr Tischtennis spielen?"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Câu hỏi có/không bắt đầu bằng {{wollt}} khi chủ ngữ là {{ihr}}. Dạng nguyên mẫu {{spielen}} đứng cuối."
     },
     {
      "type": "mcq",
      "q": "Câu nào nói người đó biết bơi?",
      "options": [
-      "Tim will schwimmen.",
-      "Tim kann nicht schwimmen.",
+      "Tim kann schwimmen.",
       "Tim schwimmt gern.",
-      "Tim kann schwimmen."
+      "Tim kann nicht schwimmen.",
+      "Tim will schwimmen."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{Tim kann schwimmen.}} nói về khả năng. {{will}} nói về mong muốn, còn {{gern}} nói về sở thích."
     },
     {
@@ -2212,21 +2212,21 @@
      "q": "Chọn câu từ chối lịch sự vì không thể đến.",
      "options": [
       "Ja, gern!",
+      "Sonntag geht.",
       "Ich kann leider nicht kommen.",
-      "Wollen wir spielen?",
-      "Sonntag geht."
+      "Wollen wir spielen?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{leider}} nghĩa là tiếc là. {{Ich kann leider nicht kommen.}} cho biết người nói không thể đến."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng đúng của động từ trong câu “Lea kann morgen ___.” (đi cùng).",
      "options": [
+      "mit zu kommen",
       "kommt mit",
-      "mitkommt",
       "mitkommen",
-      "mit zu kommen"
+      "mitkommt"
      ],
      "answer": 2,
      "explain": "Sau {{kann}}, đặt nguyên mẫu {{mitkommen}} ở cuối và viết liền."
@@ -2405,20 +2405,20 @@
      "type": "mcq",
      "q": "Chọn đại từ thay cho Leo trong câu “Leo mag Filme. Ich lade ___ ein.”",
      "options": [
-      "er",
-      "ihn",
+      "es",
       "ihm",
-      "es"
+      "er",
+      "ihn"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Leo}} là tân ngữ của {{einladen}}. Dạng {{Akkusativ}} tương ứng với {{er}} là {{ihn}}."
     },
     {
      "type": "mcq",
      "q": "Bạn nói trực tiếp với hai người bạn. Câu nào có nghĩa “Chiều nay mình đến đón các bạn”?",
      "options": [
-      "Ich hole uns heute Nachmittag ab.",
       "Ich hole dich heute Nachmittag ab.",
+      "Ich hole uns heute Nachmittag ab.",
       "Ich hole sie heute Nachmittag ab.",
       "Ich hole euch heute Nachmittag ab."
      ],
@@ -2429,34 +2429,34 @@
      "type": "mcq",
      "q": "Chọn đại từ thay cho “das Buch” trong câu “Hier ist das Buch. Ich nehme ___ mit.”",
      "options": [
-      "es",
-      "ihn",
       "sie",
-      "euch"
+      "es",
+      "euch",
+      "ihn"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{das Buch}} là danh từ giống trung. Dùng {{es}} làm tân ngữ thay cho danh từ này."
     },
     {
      "type": "mcq",
      "q": "Câu nào hỏi một người bạn xem bạn ấy có đón mình được không?",
      "options": [
-      "Kann ich dich abholen?",
       "Kannst du mich holst ab?",
-      "Kannst du mich abholen?",
-      "Kannst mich du abholen?"
+      "Kann ich dich abholen?",
+      "Kannst mich du abholen?",
+      "Kannst du mich abholen?"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Với {{du}}, dùng {{kannst}} ở đầu câu hỏi. Đại từ {{mich}} chỉ người nói, còn nguyên mẫu {{abholen}} đứng cuối."
     },
     {
      "type": "mcq",
      "q": "Chọn đại từ thay cho “die Kinokarten” trong câu “Wo sind die Kinokarten? Ich brauche ___.”",
      "options": [
-      "ihn",
+      "uns",
       "sie",
       "es",
-      "uns"
+      "ihn"
      ],
      "answer": 1,
      "explain": "{{die Kinokarten}} ở số nhiều. Đại từ tân ngữ thay cho danh từ số nhiều là {{sie}}."

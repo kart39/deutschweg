@@ -27,10 +27,10 @@
    "type": "mcq",
    "q": "Welche Verbform passt? 'Er ___ sehr gut schwimmen.'",
    "options": [
-    "kannst",
+    "können",
     "könnt",
     "kann",
-    "können"
+    "kannst"
    ],
    "answer": 2,
    "explain": "Ngôi 'er' của 'können' là 'kann' (giống ngôi 'ich' và không có đuôi)."
@@ -39,48 +39,48 @@
    "type": "mcq",
    "q": "Welcher Satz hat die richtige Wortstellung?",
    "options": [
-    "Ich will lernen heute Deutsch.",
-    "Ich will heute Deutsch lernen.",
+    "Heute ich will Deutsch lernen.",
     "Ich lernen will heute Deutsch.",
-    "Heute ich will Deutsch lernen."
+    "Ich will heute Deutsch lernen.",
+    "Ich will lernen heute Deutsch."
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Cấu trúc khung câu: Modalverb ở vị trí 2 (will), Infinitiv ở cuối câu (lernen)."
   },
   {
    "type": "mcq",
    "q": "Was bedeutet das Verkehrsschild? 'Hier ___ man nicht parken!'",
    "options": [
+    "will",
     "muss",
     "darf",
-    "kann",
-    "will"
+    "kann"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Biển báo cấm (không được phép) dùng 'darf nicht'."
   },
   {
    "type": "mcq",
    "q": "Welche Form von 'müssen' passt? 'Peter, du ___ dein Zimmer aufräumen!'",
    "options": [
-    "musst",
     "müsst",
     "muss",
-    "müssen"
+    "müssen",
+    "musst"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Ngôi 'du' của 'müssen' rụng Umlaut và thêm '-st': 'du musst'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz drückt eine höfliche Bitte aus?",
    "options": [
-    "Ich will einen Kaffee trinken.",
+    "Ich soll einen Kaffee trinken.",
     "Ich muss einen Kaffee trinken.",
-    "Ich möchte einen Kaffee trinken.",
-    "Ich soll einen Kaffee trinken."
+    "Ich will einen Kaffee trinken.",
+    "Ich möchte einen Kaffee trinken."
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "'möchte' diễn tả mong muốn lịch sự, nhã nhặn nhất."
   },
   {

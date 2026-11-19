@@ -358,9 +358,9 @@
      {
       "q": "Wen treffen Huy und Lena in Hamburg?",
       "options": [
-       "Lenas Schwester.",
+       "Huys Tante.",
        "Lenas Cousine.",
-       "Huys Tante."
+       "Lenas Schwester."
       ],
       "answer": 1
      },
@@ -368,19 +368,19 @@
       "q": "Wohin fahren die beiden am Samstag zuerst?",
       "options": [
        "An die Küste.",
-       "Nach Hamburg.",
-       "Zum Museum."
+       "Zum Museum.",
+       "Nach Hamburg."
       ],
       "answer": 0
      },
      {
       "q": "Wann wollen sie zurückfahren?",
       "options": [
-       "Am Samstagmorgen.",
        "Am Sonntagabend.",
-       "Am Montagvormittag."
+       "Am Montagvormittag.",
+       "Am Samstagmorgen."
       ],
-      "answer": 2
+      "answer": 1
      }
     ],
     "glossary": []
@@ -395,12 +395,12 @@
      "type": "mcq",
      "q": "Chọn câu hỏi về điểm đến của chuyến đi.",
      "options": [
-      "Wo seid ihr?",
-      "Wohin fahrt ihr?",
+      "Wann fahrt ihr?",
       "Woher kommt ihr?",
-      "Wann fahrt ihr?"
+      "Wohin fahrt ihr?",
+      "Wo seid ihr?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Wohin?}} dùng để hỏi điểm đến hoặc hướng đi."
     },
     {
@@ -419,22 +419,22 @@
      "type": "mcq",
      "q": "Chọn cách nói “đi đến Salzburg”.",
      "options": [
-      "nach Salzburg fahren",
       "in Salzburg fahren",
-      "aus Salzburg fahren",
-      "von Salzburg fahren"
+      "nach Salzburg fahren",
+      "von Salzburg fahren",
+      "aus Salzburg fahren"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{nach Salzburg}} chỉ đích đến là một thành phố."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm có nghĩa “đi đến ga” với giới từ zu.",
      "options": [
-      "zur Bahnhof",
+      "von dem Bahnhof",
       "zu den Bahnhof",
       "zum Bahnhof",
-      "von dem Bahnhof"
+      "zur Bahnhof"
      ],
      "answer": 2,
      "explain": "{{der Bahnhof}} ở {{Dativ}} là {{dem Bahnhof}}. Gộp {{zu dem}} thành {{zum}}."
@@ -443,10 +443,10 @@
      "type": "mcq",
      "q": "Chọn cụm có nghĩa “đi ra một hòn đảo”.",
      "options": [
-      "an der Insel fahren",
+      "aus einer Insel fahren",
       "auf eine Insel fahren",
-      "auf einer Insel fahren",
-      "aus einer Insel fahren"
+      "an der Insel fahren",
+      "auf einer Insel fahren"
      ],
      "answer": 1,
      "explain": "{{auf eine Insel}} trả lời {{Wohin?}} và dùng {{Akkusativ}}."
@@ -625,11 +625,11 @@
      "q": "Chọn từ chỉ lúc bắt đầu đi trong câu “Wir fahren morgen früh ___.”",
      "options": [
       "weiter",
+      "los",
       "zurück",
-      "hin",
-      "los"
+      "hin"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{losfahren}} là khởi hành. {{weiterreisen}} nói về đi tiếp và {{zurückfahren}} nói về quay về."
     }
    ]
@@ -978,28 +978,28 @@
       "q": "Wo bekommt Frau Nguyen bei der regulären Ankunft die Schlüsselkarten?",
       "options": [
        "Auf der Terrasse.",
-       "Im Frühstücksraum.",
-       "An der Rezeption."
+       "An der Rezeption.",
+       "Im Frühstücksraum."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was soll Frau Nguyen tun, wenn sie nach 20 Uhr ankommt?",
       "options": [
-       "Vorher anrufen.",
        "Vorher bezahlen.",
+       "Vorher anrufen.",
        "An der Rezeption warten."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Wo steht das Frühstücksbuffet?",
       "options": [
        "Auf der Terrasse.",
-       "Im Frühstücksraum.",
-       "Hinter dem Gästehaus."
+       "Hinter dem Gästehaus.",
+       "Im Frühstücksraum."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1014,10 +1014,10 @@
      "type": "mcq",
      "q": "Chọn cụm chỉ vị trí “trong nhà khách”.",
      "options": [
+      "ins Gästehaus",
       "zum Gästehaus",
-      "aus dem Gästehaus",
       "im Gästehaus",
-      "ins Gästehaus"
+      "aus dem Gästehaus"
      ],
      "answer": 2,
      "explain": "{{im}} gộp {{in dem}} và chỉ vị trí bên trong nhà khách."
@@ -1027,9 +1027,9 @@
      "q": "Chọn cụm dùng an có nghĩa “đến quầy lễ tân”.",
      "options": [
       "an die Rezeption",
+      "bei der Rezeption",
       "an der Rezeption",
-      "von der Rezeption",
-      "bei der Rezeption"
+      "von der Rezeption"
      ],
      "answer": 0,
      "explain": "{{an die Rezeption}} là đích đến, nên dùng {{Akkusativ}}."
@@ -1038,22 +1038,22 @@
      "type": "mcq",
      "q": "“Das Frühstück ist im Preis inbegriffen.” nghĩa là gì?",
      "options": [
+      "Giá đã gồm bữa sáng.",
       "Bữa sáng được phục vụ trong phòng.",
-      "Bữa sáng chỉ phục vụ khi đặt trước.",
       "Cần trả thêm tiền cho bữa sáng.",
-      "Giá đã gồm bữa sáng."
+      "Bữa sáng chỉ phục vụ khi đặt trước."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{im Preis inbegriffen}} nghĩa là đã tính vào giá."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có nghĩa “Chúng mình nghỉ qua đêm trong khu cắm trại”.",
      "options": [
-      "Wir fahren auf den Campingplatz.",
+      "Wir treffen uns vor dem Campingplatz.",
       "Wir übernachten auf dem Campingplatz.",
       "Wir fahren vom Campingplatz.",
-      "Wir treffen uns vor dem Campingplatz."
+      "Wir fahren auf den Campingplatz."
      ],
      "answer": 1,
      "explain": "Vị trí nghỉ qua đêm là {{auf dem Campingplatz}} với {{Dativ}}."
@@ -1062,12 +1062,12 @@
      "type": "mcq",
      "q": "Chọn tính từ nghĩa “hết phòng” trong câu “Für Samstag ist die Pension ___.”",
      "options": [
-      "verfügbar",
-      "inbegriffen",
       "ausgebucht",
-      "frühzeitig"
+      "inbegriffen",
+      "frühzeitig",
+      "verfügbar"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{ausgebucht}} nghĩa là mọi phòng đã được đặt hết."
     },
     {
@@ -1242,12 +1242,12 @@
      "type": "mcq",
      "q": "Chọn câu hỏi nơi nhận thẻ mở cửa.",
      "options": [
+      "Woher kommt die Schlüsselkarte?",
       "Wann bekomme ich die Schlüsselkarte?",
       "Wo bekomme ich die Schlüsselkarte?",
-      "Wie viel kostet die Schlüsselkarte?",
-      "Woher kommt die Schlüsselkarte?"
+      "Wie viel kostet die Schlüsselkarte?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Wo?}} hỏi địa điểm nhận thẻ."
     }
    ]
@@ -1614,10 +1614,10 @@
       "q": "Wohin fährt Hoa am nächsten Tag?",
       "options": [
        "Nach Hause.",
-       "Zum Bahnhof.",
-       "Auf die Insel Poel."
+       "Auf die Insel Poel.",
+       "Zum Bahnhof."
       ],
-      "answer": 2
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1632,48 +1632,48 @@
      "type": "mcq",
      "q": "Hỏi “Tàu vừa đến từ đâu?” bằng câu nào?",
      "options": [
-      "Wohin fährt der Zug?",
       "Wo ist der Zug?",
       "Woher kommt der Zug?",
+      "Wohin fährt der Zug?",
       "Wann kommt der Zug?"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Woher?}} hỏi nguồn hoặc điểm xuất phát."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm nghĩa “đi ra từ trong khách sạn”.",
      "options": [
+      "im Hotel bleiben",
       "aus dem Hotel kommen",
-      "zum Hotel gehen",
       "ins Hotel gehen",
-      "im Hotel bleiben"
+      "zum Hotel gehen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{aus dem Hotel}} chỉ điểm xuất phát ở bên trong khách sạn."
     },
     {
      "type": "mcq",
      "q": "Chọn câu nghĩa “Chúng mình vừa từ bãi biển về”.",
      "options": [
-      "Wir sind gerade am Strand.",
       "Wir fahren gerade an den Strand.",
-      "Wir gehen gerade zum Strand.",
-      "Wir kommen gerade vom Strand."
+      "Wir kommen gerade vom Strand.",
+      "Wir sind gerade am Strand.",
+      "Wir gehen gerade zum Strand."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{vom Strand}} là điểm xuất phát. {{vom}} gộp {{von dem}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào đề nghị đổi phòng?",
      "options": [
-      "Wo ist die Rezeption?",
-      "Können wir das Zimmer wechseln?",
       "Ist das Frühstück inbegriffen?",
-      "Können wir am Meer bleiben?"
+      "Können wir am Meer bleiben?",
+      "Können wir das Zimmer wechseln?",
+      "Wo ist die Rezeption?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{das Zimmer wechseln}} nghĩa là đổi phòng."
     },
     {
@@ -1681,11 +1681,11 @@
      "q": "Chọn cụm có nghĩa “từ Thụy Sĩ”.",
      "options": [
       "in der Schweiz",
-      "in die Schweiz",
       "aus der Schweiz",
+      "in die Schweiz",
       "an der Schweiz"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{aus}} chỉ nguồn gốc và đi với {{Dativ}}. Với {{die Schweiz}}, dùng {{aus der Schweiz}}."
     },
     {
@@ -1862,12 +1862,12 @@
      "type": "mcq",
      "q": "Chọn cụm phù hợp để kết bưu thiếp gửi một người bạn.",
      "options": [
-      "Liebe Grüße",
       "Zimmer zwölf",
+      "Liebe Grüße",
       "Vom 14. bis zum 16. Mai",
       "Woher kommen Sie?"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Liebe Grüße}} là lời chào kết thư thân mật."
     }
    ]
@@ -2342,20 +2342,20 @@
      {
       "q": "Wo übernachten Mai und Lukas während ihres Urlaubs auf der Insel Kreta?",
       "options": [
-       "In einem großen Fünf-Sterne-Hotel in den Bergen.",
+       "In einem Zelt auf einem Campingplatz.",
        "In einer kleinen Ferienwohnung direkt an der Küste, hundert Meter vom Strand entfernt.",
-       "In einem Zelt auf einem Campingplatz."
+       "In einem großen Fünf-Sterne-Hotel in den Bergen."
       ],
       "answer": 1
      },
      {
       "q": "Welche Probleme hatte Familie Becker in den Alpen?",
       "options": [
-       "Sie haben ihre Reisepässe am Flughafen verloren.",
        "Sie standen vier Stunden im Stau, es regnet und ist kalt, und ihr erstes Zimmer neben dem Aufzug war zu laut.",
+       "Sie haben ihre Reisepässe am Flughafen verloren.",
        "Das Essen im Fischerdorf war zu salzig."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was macht Familie Becker heute Nachmittag trotz des schlechten Wetters?",
@@ -2380,21 +2380,21 @@
      "q": "Chọn giới từ đúng để điền vào hai câu: „Wohin fahrt ihr im Sommer? – Wir fahren ___ Meer. Wir verbringen zwei Wochen ___ Meer.“",
      "options": [
       "nach ... im",
-      "ans ... am",
+      "aufs ... auf dem",
       "ins ... im",
-      "aufs ... auf dem"
+      "ans ... am"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Với „das Meer“ (biển) và các vùng mặt nước: khi di chuyển tới (Wohin?) dùng „an + Akkusativ“ = „ans Meer“ (an das Meer); khi đang ở đó (Wo?) dùng „an + Dativ“ = „am Meer“ (an dem Meer)."
     },
     {
      "type": "mcq",
      "q": "Chọn giới từ đúng với tên quốc gia có mạo từ „die Schweiz“ (Thụy Sĩ): „Im Winter reisen wir ___ Schweiz, weil unsere Freunde ___ Schweiz wohnen.“",
      "options": [
-      "nach ... in",
+      "an die ... an der",
       "in die ... in der",
-      "in der ... in die",
-      "an die ... an der"
+      "nach ... in",
+      "in der ... in die"
      ],
      "answer": 1,
      "explain": "„die Schweiz“ là quốc gia giống Cái luôn dùng kèm mạo từ: Đi tới đâu (Wohin? + Akkusativ) → „in die Schweiz“; Sống ở đâu (Wo? + Dativ) → „in der Schweiz“."
@@ -2403,10 +2403,10 @@
      "type": "mcq",
      "q": "Khi muốn nói „đi lên vùng núi / lên dãy Alps“ (Wohin?) và „đi bộ leo núi ở trên núi“ (Wo?), ta dùng cụm giới từ nào?",
      "options": [
-      "auf die Berge / auf den Bergen",
+      "an die Berge / an den Bergen",
       "in die Berge / in den Bergen",
-      "nach Berge / bei Bergen",
-      "an die Berge / an den Bergen"
+      "auf die Berge / auf den Bergen",
+      "nach Berge / bei Bergen"
      ],
      "answer": 1,
      "explain": "Với dãy núi số nhiều („die Berge“, „die Alpen“), tiếng Đức luôn dùng giới từ „in“: Wohin? → „in die Berge“ (Akkusativ); Wo? → „in den Bergen“ (Dativ số nhiều thêm -n)."
@@ -2415,12 +2415,12 @@
      "type": "mcq",
      "q": "Khi muốn nói „bay ra một hòn đảo“ (Wohin? – die Insel) và „nghỉ mát ở trên đảo“ (Wo?), ta dùng giới từ nào?",
      "options": [
-      "in die Insel / in der Insel",
       "auf die Insel / auf der Insel",
       "an die Insel / an der Insel",
-      "nach die Insel / bei der Insel"
+      "nach die Insel / bei der Insel",
+      "in die Insel / in der Insel"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Với hòn đảo („die Insel“), tiếng Đức dùng giới từ „auf“: Wohin? → „auf die Insel“ (Akkusativ); Wo? → „auf der Insel“ (Dativ)."
     },
     {
@@ -2593,24 +2593,24 @@
      "type": "mcq",
      "q": "Loại hình lưu trú nào là một căn hộ có đầy đủ nhà bếp riêng để các gia đình đi nghỉ mát có thể tự nấu ăn?",
      "options": [
+      "Das Einzelzimmer",
       "Der Campingplatz",
       "Die Ferienwohnung (FeWo)",
-      "Das Einzelzimmer",
       "Das Wartezimmer"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„die Ferienwohnung“ (FeWo) là căn hộ nghỉ dưỡng cho khách du lịch thuê theo tuần/ngày, có trang bị bếp riêng."
     },
     {
      "type": "mcq",
      "q": "Khi muốn hủy một đơn đặt phòng khách sạn hoặc vé máy bay đã đặt trước, tiếng Đức dùng động từ nào?",
      "options": [
-      "renovieren",
-      "stornieren",
+      "probieren",
       "funktionieren",
-      "probieren"
+      "stornieren",
+      "renovieren"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„stornieren“ (+ Akkusativ) là thuật ngữ chuẩn dùng cho việc hủy đặt phòng khách sạn, vé tàu, vé máy bay hoặc đơn hàng (eine Buchung / ein Zimmer stornieren)."
     },
     {
@@ -2618,23 +2618,23 @@
      "q": "Trong câu „Im Badezimmer fehlen die Handtücher“, động từ „fehlen“ có nghĩa là gì?",
      "options": [
       "Được giặt sạch sẽ",
+      "Đang treo trên tường",
       "Bị thiếu / chưa có",
-      "Rất đắt tiền",
-      "Đang treo trên tường"
+      "Rất đắt tiền"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„fehlen“ có nghĩa là bị thiếu hoặc vắng mặt (cái gì bị thiếu thì đóng vai trò làm chủ ngữ của fehlen!)."
     },
     {
      "type": "mcq",
      "q": "Sự khác biệt giữa „Halbpension“ và „Vollpension“ khi đặt khách sạn là gì?",
      "options": [
-      "Halbpension là phòng nửa giường; Vollpension là phòng cả giường.",
       "Halbpension gồm 2 bữa (bữa sáng + bữa tối); còn Vollpension gồm trọn cả 3 bữa (sáng, trưa, tối).",
-      "Halbpension không có phòng tắm; Vollpension có phòng tắm.",
-      "Halbpension danh cho tre em; Vollpension danh cho nguoi gia."
+      "Halbpension danh cho tre em; Vollpension danh cho nguoi gia.",
+      "Halbpension là phòng nửa giường; Vollpension là phòng cả giường.",
+      "Halbpension không có phòng tắm; Vollpension có phòng tắm."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„die Halbpension“ = bao ăn 2 bữa (sáng và tối); „die Vollpension“ = bao ăn trọn 3 bữa (sáng, trưa, tối)."
     },
     {
@@ -2802,22 +2802,22 @@
      "type": "mcq",
      "q": "Chọn giới từ đúng: „Am Nachmittag sind wir gemütlich ___ die historische Altstadt gebummelt.“ (đi dạo xuyên qua khu phố cổ)",
      "options": [
-      "mit",
       "durch",
       "aus",
-      "von"
+      "von",
+      "mit"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Giới từ „durch“ (+ Akkusativ) mang nghĩa là đi xuyên qua, đi dạo khắp một không gian (durch die Altstadt, durch den Park, durch den Wald)."
     },
     {
      "type": "mcq",
      "q": "Cách viết lời chào mở đầu một tấm bưu thiếp gửi từ một hòn đảo („die Insel Rügen“) hoặc từ biển („das Meer“) nào sau đây là ĐÚNG?",
      "options": [
-      "Sonnige Grüße aus die Insel Rügen / aus das Meer!",
+      "Sonnige Grüße in die Insel Rügen!",
       "Sonnige Grüße von der Insel Rügen / vom Meer!",
       "Sonnige Grüße nach der Insel Rügen!",
-      "Sonnige Grüße in die Insel Rügen!"
+      "Sonnige Grüße aus die Insel Rügen / aus das Meer!"
      ],
      "answer": 1,
      "explain": "Lời chào gửi TỪ đâu tới (Woher?): với thành phố/quốc gia không mạo từ dùng „aus“ (Grüße aus Berlin/Italien); nhưng với Đảo (auf der Insel) và Biển/Hồ (am Meer/See) phải dùng „von + Dativ“: „Grüße von der Insel Rügen / vom Meer / vom Bodensee!“."
@@ -2826,12 +2826,12 @@
      "type": "mcq",
      "q": "Chọn dạng Partizip II đúng của động từ „genießen“ (tận hưởng, thưởng thức):",
      "options": [
+      "gegenossen",
       "gegenießt",
-      "genossen",
       "genießt",
-      "gegenossen"
+      "genossen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„genießen“ có tiền tố không tách „ge-“ và là động từ mạnh (ie → o): „hat genossen“."
     },
     {
@@ -2839,11 +2839,11 @@
      "q": "Khi đi ô tô trên đường cao tốc mà gặp „eine Autopanne“, điều đó có nghĩa là gì?",
      "options": [
       "Trời nắng đẹp",
-      "Xe ô tô bị hỏng giữa đường",
       "Tìm được trạm xăng giá rẻ",
-      "Đến nơi sớm hơn dự kiến"
+      "Đến nơi sớm hơn dự kiến",
+      "Xe ô tô bị hỏng giữa đường"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„die Panne / die Autopanne“ là sự cố xe bị hỏng kỹ thuật hoặc thủng lốp giữa đường; còn „der Stau“ là tắc đường, kẹt xe."
     },
     {

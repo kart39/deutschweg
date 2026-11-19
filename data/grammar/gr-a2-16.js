@@ -10,48 +10,48 @@
    "type": "mcq",
    "q": "Welche Satzstellung ist nach \"deshalb\" KORREKT?",
    "options": [
-    "Er ist krank, deshalb bleibt er heute zu Hause.",
     "Er ist krank, deshalb er bleibt heute zu Hause.",
     "Er ist krank, deshalb er heute zu Hause bleibt.",
-    "Er ist krank, deshalb heute bleibt er zu Hause."
+    "Er ist krank, deshalb heute bleibt er zu Hause.",
+    "Er ist krank, deshalb bleibt er heute zu Hause."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Sau phó từ liên kết 'deshalb' (vị trí 1), động từ chia 'bleibt' phải đứng ở vị trí 2: 'deshalb bleibt er...'."
   },
   {
    "type": "mcq",
    "q": "Welches Adverb passt? \"Es regnet in Strömen. ___ geht sie ohne Schirm spazieren.\"",
    "options": [
-    "Trotzdem",
     "Deshalb",
-    "Weil",
-    "Denn"
+    "Trotzdem",
+    "Denn",
+    "Weil"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Hành động đi dạo không che ô khi trời mưa tầm tã là sự tương phản bất ngờ, do đó dùng 'Trotzdem' (dẫu vậy)."
   },
   {
    "type": "mcq",
    "q": "Er hat kein Geld dabei, ___ kann er die Rechnung nicht bezahlen.",
    "options": [
-    "deshalb",
-    "trotzdem",
     "obwohl",
+    "trotzdem",
+    "deshalb",
     "weil"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Không có tiền dẫn đến kết quả không trả được hóa đơn (quan hệ nhân quả thuận), dùng 'deshalb' (vì vậy)."
   },
   {
    "type": "mcq",
    "q": "Zuerst kochen wir das Abendessen, ___ essen wir alle zusammen.",
    "options": [
-    "dann",
+    "obwohl",
     "denn",
-    "weil",
-    "obwohl"
+    "dann",
+    "weil"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Chỉ trình tự thời gian tiếp nối dùng 'dann' (sau đó, rồi thì)."
   },
   {
@@ -59,9 +59,9 @@
    "q": "Welcher Satz mit \"danach\" ist grammatisch RICHTIG?",
    "options": [
     "Wir haben lange gelernt, danach sind wir ins Kino gegangen.",
+    "Wir haben lange gelernt, danach ins Kino sind wir gegangen.",
     "Wir haben lange gelernt, danach wir sind ins Kino gegangen.",
-    "Wir haben lange gelernt, danach wir ins Kino gegangen sind.",
-    "Wir haben lange gelernt, danach ins Kino sind wir gegangen."
+    "Wir haben lange gelernt, danach wir ins Kino gegangen sind."
    ],
    "answer": 0,
    "explain": "Sau 'danach', trợ động từ 'sind' đứng ở vị trí thứ hai: 'danach sind wir...'."
@@ -71,8 +71,8 @@
    "q": "Er war sehr müde, ___ hat er den ganzen Abend konzentriert gearbeitet.",
    "options": [
     "trotzdem",
-    "deshalb",
     "deswegen",
+    "deshalb",
     "darum"
    ],
    "answer": 0,

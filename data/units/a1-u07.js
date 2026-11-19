@@ -278,34 +278,34 @@
      "type": "mcq",
      "q": "Chọn giới từ đúng để điền vào câu: „Mein Bruder arbeitet ___ Programmierer ___ SAP in Walldorf.“",
      "options": [
+      "bei ... für",
       "wie ... in",
       "als ... bei",
-      "für ... als",
-      "bei ... für"
+      "für ... als"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Khi nói làm nghề gì, ta dùng „arbeiten als + Nghề nghiệp“ (als Programmierer); khi nói làm tại công ty nào, ta dùng „bei + Tên công ty“ (bei SAP)."
     },
     {
      "type": "mcq",
      "q": "Dạng danh từ chỉ nghề nghiệp nữ (Feminin) đúng của „der Arzt“ và „der Koch“ là gì?",
      "options": [
-      "die Arztin / die Kochin",
       "die Ärztin / die Köchin",
       "die Ärzte / die Köche",
-      "die Ärztinnen / die Köchinnen"
+      "die Ärztinnen / die Köchinnen",
+      "die Arztin / die Kochin"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„der Arzt“ và „der Koch“ khi thêm đuôi „-in“ để chỉ nữ giới số ít đồng thời nhận thêm Umlaut: „die Ärztin“, „die Köchin“."
     },
     {
      "type": "mcq",
      "q": "Câu nào sau đây đúng chuẩn ngữ pháp tiếng Đức khi giới thiệu nghề nghiệp?",
      "options": [
-      "Ich bin ein Ingenieur von Beruf.",
+      "Ich mache Ingenieur.",
       "Ich bin Ingenieur von Beruf.",
       "Ich arbeite wie ein Ingenieur.",
-      "Ich mache Ingenieur."
+      "Ich bin ein Ingenieur von Beruf."
      ],
      "answer": 1,
      "explain": "Trong tiếng Đức, khi giới thiệu nghề nghiệp tổng quát sau „sein“ hoặc „als“, ta KHÔNG dùng mạo từ „ein/eine“: „Ich bin Ingenieur (von Beruf).“"
@@ -314,12 +314,12 @@
      "type": "mcq",
      "q": "Động từ „studieren“ trong tiếng Đức được dùng cho trường hợp nào?",
      "options": [
+      "Học chuyên ngành tại trường đại học / cao đẳng (Universität / Hochschule).",
       "Học bài ở trường tiểu học.",
       "Học từ vựng ở nhà mỗi tối.",
-      "Học chuyên ngành tại trường đại học / cao đẳng (Universität / Hochschule).",
       "Học lái xe ô tô."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "„studieren“ chỉ dùng cho việc theo học một chuyên ngành ở bậc đại học/cao đẳng (vd: Medizin/Informatik studieren). Học phổ thông hay học kỹ năng dùng „lernen“."
     },
     {
@@ -739,12 +739,12 @@
      "type": "mcq",
      "q": "Chọn mạo từ sở hữu đúng ở cách Akkusativ: „Ich kann ___ Schlüssel nicht finden. Weißt du, wo er ist?“",
      "options": [
-      "mein",
+      "meinem",
       "meine",
-      "meinen",
-      "meinem"
+      "mein",
+      "meinen"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "„der Schlüssel“ mang giống Đực (der). Làm tân ngữ trực tiếp (Akkusativ) của động từ „finden“, nên mạo từ sở hữu phải thêm đuôi -en: „meinen Schlüssel“."
     },
     {
@@ -752,32 +752,32 @@
      "q": "Chọn mạo từ sở hữu đúng cho ngôi „er“ (Lukas): „Lukas fährt nach München und besucht dort ___ Bruder.“",
      "options": [
       "sein",
-      "seinen",
       "ihren",
+      "seinen",
       "deinen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Của Lukas (ngôi er) là „sein-“. „der Bruder“ là giống Đực đứng sau động từ „besucht“ (+ Akkusativ) → „seinen Bruder“."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng đúng của mạo từ sở hữu ngôi „ihr“ (các bạn): „Kinder, habt ihr ___ Hausaufgaben schon gemacht?“",
      "options": [
-      "euere",
       "eure",
+      "ihre",
       "euren",
-      "ihre"
+      "euere"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„die Hausaufgaben“ là số nhiều. Mạo từ sở hữu „euer“ khi thêm đuôi „-e“ sẽ bỏ chữ „e“ ở giữa → „eure Hausaufgaben“."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng chia đúng của động từ „vergessen“ ở ngôi thứ 3 số ít: „Mein Großvater ___ oft ___ Brille.“",
      "options": [
-      "vergesst ... seine",
-      "vergisst ... seine",
       "vergisst ... seinen",
+      "vergisst ... seine",
+      "vergesst ... seine",
       "vergessen ... ihre"
      ],
      "answer": 1,
@@ -1216,20 +1216,20 @@
      {
       "q": "Was ist im Kursraum während des Unterrichts erlaubt?",
       "options": [
-       "Man darf mit dem Handy telefonieren.",
        "Man darf Wasser oder Kaffee trinken.",
+       "Man darf mit dem Handy telefonieren.",
        "Man darf warme Pizza essen."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was muss man in der Bibliothek im 2. Stock machen, wenn man ein Buch ausleihen will?",
       "options": [
-       "Man muss fünf Euro Gebühr bezahlen.",
        "Man muss ein Formular im Sekretariat unterschreiben.",
-       "Man muss seinen Schülerausweis zeigen."
+       "Man muss seinen Schülerausweis zeigen.",
+       "Man muss fünf Euro Gebühr bezahlen."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Wo darf man sein Fahrrad abstellen?",
@@ -1253,10 +1253,10 @@
      "type": "mcq",
      "q": "Chọn dạng chia đúng của động từ „dürfen“ cho ngôi „ich“ và „er/sie/es“:",
      "options": [
-      "dürfe / dürft",
+      "durfte / durft",
       "darf / darf",
-      "darfe / darft",
-      "durfte / durft"
+      "dürfe / dürft",
+      "darfe / darft"
      ],
      "answer": 1,
      "explain": "Ở thì Präsens, động từ khuyết thiếu „dürfen“ đổi ü → a ở các ngôi số ít và không có đuôi ở ngôi ich và er/sie/es: „ich darf“, „du darfst“, „er/sie/es darf“."
@@ -1265,33 +1265,33 @@
      "type": "mcq",
      "q": "Chọn động từ khuyết thiếu phù hợp với biển báo cấm: „Hier ist absolutes Halteverbot. Hier ___ man nicht parken!“",
      "options": [
+      "darf",
       "muss",
       "kann",
-      "darf",
       "will"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Để diễn tả sự cấm đoán (Verbot = không được phép làm gì), tiếng Đức luôn dùng „nicht dürfen“: „Hier darf man nicht parken!“"
     },
     {
      "type": "mcq",
      "q": "Câu „Am Samstag muss ich nicht arbeiten“ có nghĩa chính xác là gì?",
      "options": [
-      "Thứ Bảy tôi bị cấm đi làm.",
       "Thứ Bảy tôi không cần phải đi làm (không bắt buộc).",
+      "Thứ Bảy tôi bị cấm đi làm.",
       "Thứ Bảy tôi không biết làm việc.",
       "Thứ Bảy tôi muốn đi làm."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„nicht müssen“ nghĩa là không bắt buộc / không cần phải làm gì. Còn „bị cấm“ là „nicht dürfen“."
     },
     {
      "type": "mcq",
      "q": "Khi muốn hủy hẳn một lịch hẹn vì bị ốm, bạn dùng động từ nào?",
      "options": [
-      "einen Termin vereinbaren",
-      "einen Termin absagen",
       "einen Termin unterschreiben",
+      "einen Termin absagen",
+      "einen Termin vereinbaren",
       "einen Termin ausfüllen"
      ],
      "answer": 1,
@@ -1990,8 +1990,8 @@
      {
       "q": "Wo hat Mai um halb fünf einen Termin?",
       "options": [
-       "Im Büro.",
        "Im Kursraum.",
+       "Im Büro.",
        "Im Sekretariat."
       ],
       "answer": 2
@@ -2009,10 +2009,10 @@
       "q": "Was dürfen Mai und Ben im Kursraum nicht machen?",
       "options": [
        "Eine Übung machen.",
-       "Telefonieren.",
-       "Schreiben."
+       "Schreiben.",
+       "Telefonieren."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -2027,12 +2027,12 @@
      "type": "mcq",
      "q": "Chọn dạng của müssen. Ich ___ heute arbeiten.",
      "options": [
-      "müssen",
       "musst",
-      "muss",
-      "müsst"
+      "müssen",
+      "müsst",
+      "muss"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Với {{ich}}, dùng {{muss}}."
     },
     {
@@ -2040,9 +2040,9 @@
      "q": "Chọn dạng của dürfen. ___ du hier telefonieren?",
      "options": [
       "Darfst",
+      "Dürft",
       "Darf",
-      "Dürfen",
-      "Dürft"
+      "Dürfen"
      ],
      "answer": 0,
      "explain": "Với {{du}}, dùng {{darfst}}. Đầu câu viết {{Darfst}}."
@@ -2051,24 +2051,24 @@
      "type": "mcq",
      "q": "Chọn câu nói bạn không bắt buộc phải làm việc hôm nay.",
      "options": [
-      "Du musst heute arbeiten.",
-      "Du darfst heute nicht arbeiten.",
       "Du darfst heute arbeiten.",
-      "Du musst heute nicht arbeiten."
+      "Du musst heute arbeiten.",
+      "Du musst heute nicht arbeiten.",
+      "Du darfst heute nicht arbeiten."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Nicht müssen}} diễn đạt không bắt buộc. {{Nicht dürfen}} diễn đạt không được phép."
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng để nói chúng tôi phải học.",
      "options": [
-      "Wir müssen lernen.",
-      "Wir muss lernen.",
       "Wir musst lernen.",
-      "Wir müssen lernt."
+      "Wir müssen lernt.",
+      "Wir muss lernen.",
+      "Wir müssen lernen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Chia {{müssen}} theo {{wir}} và giữ {{lernen}} ở dạng nguyên mẫu."
     },
     {
@@ -2076,11 +2076,11 @@
      "q": "Câu nào diễn đạt ở đây cấm gọi điện?",
      "options": [
       "Hier musst du telefonieren.",
-      "Hier darfst du nicht telefonieren.",
       "Hier musst du nicht telefonieren.",
+      "Hier darfst du nicht telefonieren.",
       "Hier darfst du telefonieren."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Cụm {{darfst du nicht}} cho biết hành động đó không được phép."
     },
     {
@@ -2262,47 +2262,47 @@
      "q": "Chọn dạng sở hữu chỉ bút của tôi. Ich brauche ___ Stift.",
      "options": [
       "mein",
-      "meinen",
       "meine",
-      "deinen"
+      "deinen",
+      "meinen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Stift}} là tân ngữ giống đực. Gốc {{mein}} nhận đuôi {{-en}}."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng chỉ vở của bạn. Hast du ___ Heft?",
      "options": [
-      "deine",
-      "deinen",
       "mein",
-      "dein"
+      "dein",
+      "deinen",
+      "deine"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{Heft}} là tân ngữ giống trung. Dùng {{dein}}."
     },
     {
      "type": "mcq",
      "q": "Lena lấy túi của mình. Lena nimmt ___ Tasche.",
      "options": [
+      "ihr",
       "ihre",
-      "ihren",
       "seine",
-      "ihr"
+      "ihren"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Lena}} là người sở hữu, chọn gốc {{ihr}}. {{Tasche}} là giống cái nên dùng {{ihre}}."
     },
     {
      "type": "mcq",
      "q": "Chọn cách nói chúng tôi cần máy in của mình.",
      "options": [
-      "Wir brauchen unser Drucker.",
-      "Wir brauchen unseren Drucker nicht.",
+      "Wir brauchen euren Drucker.",
       "Wir brauchen unseren Drucker.",
-      "Wir brauchen euren Drucker."
+      "Wir brauchen unseren Drucker nicht.",
+      "Wir brauchen unser Drucker."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Với một {{Drucker}}, giống đực số ít, dạng tân ngữ của {{unser}} là {{unseren}}."
     },
     {
@@ -2310,9 +2310,9 @@
      "q": "Chọn dạng chỉ máy tính xách tay của các bạn. Habt ihr ___ Laptop?",
      "options": [
       "euren",
-      "eurer",
       "eure",
-      "euer"
+      "euer",
+      "eurer"
      ],
      "answer": 0,
      "explain": "Dạng chuẩn dùng trong bài là {{euren}} với danh từ giống đực làm tân ngữ."
@@ -2499,36 +2499,36 @@
      "type": "mcq",
      "q": "Chọn cụm với bei ở dạng đúng để nói tôi làm việc ở một công ty.",
      "options": [
-      "bei eine Firma",
       "bei ein Firma",
       "bei einer Firma",
+      "bei eine Firma",
       "bei einen Firma"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Bei}} đi với {{Dativ}}. Với danh từ giống cái {{Firma}}, dùng {{einer Firma}}."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng gộp của in dem trong câu Ich bin ___ Büro.",
      "options": [
-      "im",
       "ins",
-      "am",
-      "beim"
+      "im",
+      "beim",
+      "am"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Im}} là dạng gộp của {{in dem}} và nêu vị trí ở đây."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm nêu mục đích ở đúng cách.",
      "options": [
-      "für der Kurs",
-      "für dem Kurs",
       "für die Kurs",
-      "für den Kurs"
+      "für den Kurs",
+      "für der Kurs",
+      "für dem Kurs"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{Für}} đi với {{Akkusativ}}. {{Der Kurs}} thành {{den Kurs}}."
     },
     {
@@ -2536,23 +2536,23 @@
      "q": "Chọn cách nói tôi cần giáo trình của mình cho khóa học.",
      "options": [
       "Ich brauche meinen Lehrbuch für den Kurs.",
-      "Ich brauche mein Lehrbuch für den Kurs.",
       "Ich brauche mein Lehrbuch für dem Kurs.",
+      "Ich brauche mein Lehrbuch für den Kurs.",
       "Ich brauche meine Lehrbuch für den Kurs."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Lehrbuch}} là giống trung nên dùng {{mein}}. {{Für}} yêu cầu {{den Kurs}} ở {{Akkusativ}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu diễn đạt lệnh cấm gọi điện trong phòng học.",
      "options": [
-      "Wir dürfen im Kursraum telefonieren.",
       "Wir müssen im Kursraum telefonieren.",
       "Wir dürfen im Kursraum nicht telefonieren.",
-      "Wir müssen im Kursraum nicht telefonieren."
+      "Wir müssen im Kursraum nicht telefonieren.",
+      "Wir dürfen im Kursraum telefonieren."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Nicht dürfen}} diễn đạt lệnh cấm. {{Nicht müssen}} diễn đạt không bắt buộc."
     },
     {

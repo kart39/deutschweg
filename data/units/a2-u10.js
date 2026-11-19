@@ -377,25 +377,25 @@
       "q": "Warum ist der Weg am Ufer gesperrt?",
       "options": [
        "Wegen Hochwasser.",
-       "Wegen einer Ausstellung.",
-       "Wegen einer Baustelle."
+       "Wegen einer Baustelle.",
+       "Wegen einer Ausstellung."
       ],
       "answer": 0
      },
      {
       "q": "Was schlägt Ben bei gutem Wetter vor?",
       "options": [
-       "Eine Tour direkt am Ufer.",
        "Einen kurzen Weg am Stadtrand.",
+       "Eine Tour direkt am Ufer.",
        "Eine Fahrt ans Meer."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was besucht die Gruppe am Ende?",
       "options": [
-       "Den Wanderverein.",
        "Das Schwimmbad.",
+       "Den Wanderverein.",
        "Das Naturmuseum."
       ],
       "answer": 2
@@ -403,9 +403,9 @@
      {
       "q": "Wann möchte die Gruppe die Wanderung nachholen?",
       "options": [
-       "Am selben Abend.",
+       "Am Montagmorgen.",
        "Am nächsten Wochenende.",
-       "Am Montagmorgen."
+       "Am selben Abend."
       ],
       "answer": 1
      }
@@ -423,19 +423,19 @@
      "q": "Câu nào đề xuất nhẹ nhàng dời buổi đi bộ?",
      "options": [
       "Wir haben die Wanderung verschoben.",
-      "Wir könnten die Wanderung verschieben.",
       "Wir konnten die Wanderung nicht verschieben.",
+      "Wir könnten die Wanderung verschieben.",
       "Wir verschieben die Wanderung nie."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Könnten}} đưa ra một phương án trong cuộc bàn bạc."
     },
     {
      "type": "mcq",
      "q": "Dạng phù hợp với ich trong câu giả định là gì?",
      "options": [
-      "würdet",
       "würdest",
+      "würdet",
       "würden",
       "würde"
      ],
@@ -446,24 +446,24 @@
      "type": "mcq",
      "q": "Chọn trật tự đúng.",
      "options": [
-      "Ich würde bei Starkregen drinnen bleiben.",
+      "Ich drinnen würde bleiben bei Starkregen.",
       "Ich würde bleiben bei Starkregen drinnen.",
       "Ich bei Starkregen würde drinnen bleiben.",
-      "Ich drinnen würde bleiben bei Starkregen."
+      "Ich würde bei Starkregen drinnen bleiben."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Würde}} ở vị trí hai, nguyên mẫu {{bleiben}} ở cuối."
     },
     {
      "type": "mcq",
      "q": "Câu nào nói về khả năng ngày mai?",
      "options": [
-      "Gestern konnte ich helfen.",
-      "Ich habe gestern geholfen.",
       "Morgen könnte ich helfen.",
+      "Ich habe gestern geholfen.",
+      "Gestern konnte ich helfen.",
       "Ich musste gestern helfen."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{Könnte}} nêu một khả năng đang cân nhắc."
     },
     {
@@ -471,11 +471,11 @@
      "q": "Từ nào có nghĩa ‘mưa đá’?",
      "options": [
       "der Frost",
-      "der Hagel",
+      "der Blitz",
       "der Donner",
-      "der Blitz"
+      "der Hagel"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Hagel}} là mưa đá."
     },
     {
@@ -1017,37 +1017,37 @@
       "q": "Warum passte am Ende ein zweiter Eimer unter die Spüle?",
       "options": [
        "Jonas stellte einen Topf in den Schrank.",
-       "Mai stellte den alten Eimer in den Hof.",
-       "Die Hausverwaltung brachte einen neuen Schrank."
+       "Die Hausverwaltung brachte einen neuen Schrank.",
+       "Mai stellte den alten Eimer in den Hof."
       ],
       "answer": 0
      },
      {
       "q": "Was steht auf der Tonne im Hof?",
       "options": [
+       "Restmüll.",
        "Glas.",
-       "Papier.",
-       "Restmüll."
-      ],
-      "answer": 1
-     },
-     {
-      "q": "Wofür ist der Stoffbeutel an der Wohnungstür?",
-      "options": [
-       "Für Töpfe.",
-       "Für altes Papier.",
-       "Für leere Flaschen mit Pfand."
+       "Papier."
       ],
       "answer": 2
      },
      {
-      "q": "Wo ist Platz für Dinge zum Wiederverwenden?",
+      "q": "Wofür ist der Stoffbeutel an der Wohnungstür?",
       "options": [
-       "Neben der Kühlschranktür.",
-       "Im Innenhof.",
-       "Im Bad."
+       "Für leere Flaschen mit Pfand.",
+       "Für altes Papier.",
+       "Für Töpfe."
       ],
       "answer": 0
+     },
+     {
+      "q": "Wo ist Platz für Dinge zum Wiederverwenden?",
+      "options": [
+       "Im Innenhof.",
+       "Neben der Kühlschranktür.",
+       "Im Bad."
+      ],
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1062,10 +1062,10 @@
      "type": "mcq",
      "q": "Câu nào diễn đạt ‘Tôi muốn có một thùng nhỏ’?",
      "options": [
-      "Ich hatte einen kleinen Eimer.",
       "Ich wäre ein kleiner Eimer.",
+      "Ich hätte einen kleinen Eimer gekauft.",
       "Ich hätte gern einen kleinen Eimer.",
-      "Ich hätte einen kleinen Eimer gekauft."
+      "Ich hatte einen kleinen Eimer."
      ],
      "answer": 2,
      "explain": "Dùng {{Ich hätte gern}} cho điều muốn có."
@@ -1074,24 +1074,24 @@
      "type": "mcq",
      "q": "Chọn dạng của sein trong giả định với ein zweiter Eimer.",
      "options": [
+      "hätte",
       "wären",
-      "wäre",
       "war",
-      "hätte"
+      "wäre"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Chủ ngữ số ít tương ứng với {{er}}, nên dùng {{wäre}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng với wenn.",
      "options": [
+      "Wenn wir mehr Platz hätten, wir könnten zwei Eimer aufstellen.",
       "Wenn wir mehr Platz hätten, könnten wir zwei Eimer aufstellen.",
       "Wenn wir hätten mehr Platz, könnten wir zwei Eimer aufstellen.",
-      "Wenn wir mehr Platz hätten, wir könnten zwei Eimer aufstellen.",
       "Wenn hätten wir mehr Platz, könnten wir zwei Eimer aufstellen."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Hätten}} đứng cuối mệnh đề phụ. Sau dấu phẩy bắt đầu bằng {{könnten}}."
     },
     {
@@ -1099,11 +1099,11 @@
      "q": "Từ nào chỉ chai dùng lại qua nhiều lượt?",
      "options": [
       "die Einwegflasche",
-      "der Stoffbeutel",
       "die Verpackung",
-      "die Mehrwegflasche"
+      "die Mehrwegflasche",
+      "der Stoffbeutel"
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Mehrwegflasche}} là chai được dùng nhiều lượt."
     },
     {
@@ -1111,11 +1111,11 @@
      "q": "Chọn câu nêu đánh giá giả định ‘Có túi vải ở đó thì tiện’.",
      "options": [
       "Dort lag ein Stoffbeutel.",
-      "Ein Stoffbeutel wäre dort praktisch.",
+      "Wir werfen den Stoffbeutel weg.",
       "Dort liegt mein Stoffbeutel.",
-      "Wir werfen den Stoffbeutel weg."
+      "Ein Stoffbeutel wäre dort praktisch."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Wäre}} cho biết đây là đánh giá về một phương án giả định."
     },
     {
@@ -1657,38 +1657,38 @@
      {
       "q": "Wo hat die Klasse die Tiere beobachtet?",
       "options": [
-       "Vom Weg aus.",
+       "Aus einem Bus.",
        "Mitten auf der Wiese.",
-       "Aus einem Bus."
+       "Vom Weg aus."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was wünscht sich Linh?",
       "options": [
        "Einen neuen Teich.",
-       "Eine zweite Bank.",
-       "Ein Schild mit Bildern und Namen."
-      ],
-      "answer": 2
-     },
-     {
-      "q": "Was möchte Mia zuerst wissen?",
-      "options": [
-       "Welche Biene auf der Wiese lebt.",
-       "Ob es dort genug Platz gibt.",
-       "Wie alt der Teich ist."
+       "Ein Schild mit Bildern und Namen.",
+       "Eine zweite Bank."
       ],
       "answer": 1
      },
      {
-      "q": "Welche Idee findet die Mitarbeiterin gut?",
+      "q": "Was möchte Mia zuerst wissen?",
       "options": [
-       "Ein kleines Schild.",
-       "Einen Weg quer durch die Wiese.",
-       "Einen größeren Teich."
+       "Ob es dort genug Platz gibt.",
+       "Welche Biene auf der Wiese lebt.",
+       "Wie alt der Teich ist."
       ],
       "answer": 0
+     },
+     {
+      "q": "Welche Idee findet die Mitarbeiterin gut?",
+      "options": [
+       "Einen Weg quer durch die Wiese.",
+       "Einen größeren Teich.",
+       "Ein kleines Schild."
+      ],
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1703,12 +1703,12 @@
      "type": "mcq",
      "q": "Câu nào nêu một phương án bảo vệ thiên nhiên đang bàn?",
      "options": [
-      "Wir haben gestern Blumen gepflanzt.",
-      "Wir pflanzen jeden Samstag Blumen.",
+      "Wir mussten gestern Blumen pflanzen.",
       "Wir könnten mehr Blumen pflanzen.",
-      "Wir mussten gestern Blumen pflanzen."
+      "Wir haben gestern Blumen gepflanzt.",
+      "Wir pflanzen jeden Samstag Blumen."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Wir könnten}} nêu một phương án có thể cân nhắc."
     },
     {
@@ -1727,22 +1727,22 @@
      "type": "mcq",
      "q": "Chọn câu đúng với ‘Có tấm bảng ở đó thì hữu ích’.",
      "options": [
-      "Dort wäre das Schild laut.",
-      "Ein Schild war gestern dort.",
       "Wir hätten ein Schild gekauft.",
-      "Ein Schild wäre dort hilfreich."
+      "Ein Schild wäre dort hilfreich.",
+      "Dort wäre das Schild laut.",
+      "Ein Schild war gestern dort."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{Wäre hilfreich}} đánh giá phương án trong tình huống giả định."
     },
     {
      "type": "mcq",
      "q": "Chọn từ có nghĩa ‘nơi sống của một loài’ trong bài.",
      "options": [
-      "der Wanderweg",
+      "der Teich",
       "der Lebensraum",
       "der Nistkasten",
-      "der Teich"
+      "der Wanderweg"
      ],
      "answer": 1,
      "explain": "{{Lebensraum}} là từ chung chỉ môi trường sống."
@@ -1751,12 +1751,12 @@
      "type": "mcq",
      "q": "Điền dạng chia. {{An deiner Stelle ___ ich am Rand bleiben.}}",
      "options": [
-      "würde",
-      "würdest",
       "würden",
+      "würdest",
+      "würde",
       "würdet"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Chủ ngữ {{ich}} dùng {{würde}}."
     },
     {
@@ -2387,11 +2387,11 @@
      {
       "q": "Wie kann man beim Einkaufen von Obst und Gemüse viel Verpackungsmüll vermeiden?",
       "options": [
-       "Indem man jedes Stück Obst in eine eigene Plastiktüte packt.",
        "Indem man eine Stofftasche mitnimmt und Obst sowie Gemüse lose auf dem Wochenmarkt kauft.",
-       "Indem man überhaupt kein Obst und Gemüse mehr isst."
+       "Indem man überhaupt kein Obst und Gemüse mehr isst.",
+       "Indem man jedes Stück Obst in eine eigene Plastiktüte packt."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Wie viele Kilogramm Lebensmittel wirft jeder Bürger in Deutschland durchschnittlich pro Jahr weg?",
@@ -2406,10 +2406,10 @@
       "q": "Was sollte man im Winter machen, wenn man die Fenster zum Lüften öffnet?",
       "options": [
        "Man sollte die Heizung auf die höchste Stufe stellen.",
-       "Man sollte alle Lampen in der Wohnung einschalten.",
-       "Man sollte die Heizung während des Lüftens herunterdrehen."
+       "Man sollte die Heizung während des Lüftens herunterdrehen.",
+       "Man sollte alle Lampen in der Wohnung einschalten."
       ],
-      "answer": 2
+      "answer": 1
      }
     ],
     "glossary": []
@@ -2437,35 +2437,35 @@
      "q": "Từ nào dùng để chỉ hiện tượng „lũ lụt / nước sông dâng cao gây ngập“ sau những trận mưa bão lớn?",
      "options": [
       "die Hitze",
-      "das Hochwasser",
+      "die Trockenheit",
       "der Sonnenschein",
-      "die Trockenheit"
+      "das Hochwasser"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„das Hochwasser“ (hoặc die Überschwemmung) là hiện tượng lũ lụt, nước dâng cao. Còn „die Hitze“ là nắng nóng gay gắt."
     },
     {
      "type": "mcq",
      "q": "Động từ nào có nghĩa là „cho (thú cưng / động vật) ăn“?",
      "options": [
-      "schützen",
-      "füttern",
+      "klettern",
       "blühen",
-      "klettern"
+      "füttern",
+      "schützen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„füttern“ (+ Akkusativ) = cho động vật hoặc trẻ nhỏ ăn (den Hund / die Katze / die Vögel füttern)."
     },
     {
      "type": "mcq",
      "q": "Danh từ chỉ loài vật nào sau đây mang giống Trung („das“)?",
      "options": [
-      "Hund (con chó)",
+      "Vogel (con chim)",
       "Katze (con meo)",
-      "Pferd (con ngua)",
-      "Vogel (con chim)"
+      "Hund (con chó)",
+      "Pferd (con ngua)"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "„das Pferd“ (con ngựa), „das Schwein“ (con lợn), „das Huhn“ (con gà), „das Kaninchen“ (con thỏ), „das Tier“ (con vật) mang giống Trung. Còn „der Hund“, „der Vogel“ là giống Đực; „die Katze“, „die Kuh“ là giống Cái."
     },
     {
@@ -2637,48 +2637,48 @@
      "type": "mcq",
      "q": "Chọn cặp động từ ở thức Giả định II (Konjunktiv II) đúng cho câu điều kiện không có thật ở hiện tại: „Wenn ich viel Geld und Zeit ___, ___ ich ein Jahr lang um die Welt reisen!“",
      "options": [
-      "hatte ... wurde",
       "hätte ... würde",
       "habe ... werde",
-      "wäre ... hätte"
+      "wäre ... hätte",
+      "hatte ... wurde"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Trong câu điều kiện giả định ở hiện tại (Konjunktiv II): „haben“ chuyển thành „hätte“ (có Umlaut ä!) và „reisen“ dùng cấu trúc „würde + reisen“."
     },
     {
      "type": "mcq",
      "q": "Cách nào sau đây là LỊCH SỰ NHẤT khi nhờ một người lạ trên tàu đóng giúp cửa sổ?",
      "options": [
+      "Warum schließen Sie das Fenster nicht?",
       "Mach sofort das Fenster zu!",
       "Könnten Sie bitte das Fenster zumachen? / Würden Sie bitte das Fenster schließen?",
-      "Sie müssen das Fenster schließen!",
-      "Warum schließen Sie das Fenster nicht?"
+      "Sie müssen das Fenster schließen!"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Thức Konjunktiv II („Könnten Sie bitte...?“ hoặc „Würden Sie bitte...?“) là cách diễn đạt lời nhờ vả lịch sự và trang nhã nhất trong tiếng Đức."
     },
     {
      "type": "mcq",
      "q": "Chọn động từ Konjunktiv II phù hợp để đưa ra lời khuyên: „Du siehst sehr müde aus. Du ___ heute Abend früher ins Bett gehen!“",
      "options": [
-      "wärst",
-      "solltest",
+      "würdest",
       "hättest",
-      "würdest"
+      "wärst",
+      "solltest"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Để đưa ra lời khuyên („Bạn nên...“), tiếng Đức dùng Konjunktiv II của „sollen“ là „du solltest + Infinitiv“."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng Konjunktiv II đúng của động từ „sein“ cho câu ước: „Hier regnet es. Ach, ___ wir jetzt doch am sonnigen Strand in Vietnam!“",
      "options": [
+      "würden",
       "waren",
       "wären",
-      "würden",
       "hätten"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Ước được ĐANG Ở đâu (động từ sein) với chủ ngữ „wir“ ở thức Konjunktiv II là „wären“ (Präteritum waren + Umlaut ä)."
     },
     {
@@ -2851,48 +2851,48 @@
      "type": "mcq",
      "q": "Ở Đức, bạn nên làm gì với các vỏ chai nhựa hoặc lon nước có ký hiệu „Pfand“ (Pfandflaschen) sau khi uống hết?",
      "options": [
+      "Bỏ vào thùng rác giấy màu xanh dương.",
       "Đốt ở ngoài vườn.",
-      "Mang đến máy thu hồi vỏ chai tự động (Pfandautomat) ở siêu thị để nhận lại tiền cược (8–25 Cent/chai).",
       "Vứt xuống sông.",
-      "Bỏ vào thùng rác giấy màu xanh dương."
+      "Mang đến máy thu hồi vỏ chai tự động (Pfandautomat) ở siêu thị để nhận lại tiền cược (8–25 Cent/chai)."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Các vỏ chai có ký hiệu Pfand (Einweg/Mehrweg) được mang trả lại tại Pfandautomat trong siêu thị để nhận lại tiền cược vỏ chai và đưa vào quy trình tái chế."
     },
     {
      "type": "mcq",
      "q": "Tính từ „umweltfreundlich“ có nghĩa là gì?",
      "options": [
-      "Gây ô nhiễm môi trường nghiêm trọng",
       "Thân thiện với môi trường",
       "Rất đắt đỏ",
+      "Gây ô nhiễm môi trường nghiêm trọng",
       "Tốn nhiều điện năng"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„die Umwelt“ (môi trường) + „freundlich“ (thân thiện) = „umweltfreundlich“ (thân thiện với môi trường)."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng chia đúng của động từ mạnh tách được „wegwerfen“ (vứt đi) ở ngôi thứ 3 số ít Präsens và Partizip II:",
      "options": [
+      "er wirft weg / ist weggeworfen",
       "er wegwirft / hat gewegworfen",
-      "er wirft weg / hat weggeworfen",
       "er werft weg / hat weggewerft",
-      "er wirft weg / ist weggeworfen"
+      "er wirft weg / hat weggeworfen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„wegwerfen“ (e → i ở ngôi du/er, quá khứ a – o): „er wirft ... weg“ và ở Perfekt là „hat weggeworfen“."
     },
     {
      "type": "mcq",
      "q": "Chọn câu khuyên bảo dùng thức Konjunktiv II đúng ngữ pháp:",
      "options": [
+      "An deiner Stelle werde ich den Müll nicht trennen.",
       "Wenn alle Menschen mit der Bahn fahren würden, gäbe es viel weniger Abgase in der Stadt.",
-      "Wenn alle Menschen mit der Bahn fahren, würde es weniger Abgase gegeben.",
       "Wir sollten mehr Plastiktüten im Meer wegwerfen.",
-      "An deiner Stelle werde ich den Müll nicht trennen."
+      "Wenn alle Menschen mit der Bahn fahren, würde es weniger Abgase gegeben."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Câu điều kiện giả định dùng Konjunktiv II („Wenn ... fahren würden, gäbe es / würde es ... geben“) diễn tả giả định tích cực về việc giảm khí thải (Abgase)."
     },
     {

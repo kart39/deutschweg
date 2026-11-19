@@ -108,18 +108,18 @@
   {
    "q": "Wann findet der Flohmarkt im Mauerpark statt?",
    "options": [
+    "Täglich",
     "Jeden Samstag",
-    "Jeden Sonntag von 9:00 bis 18:00 Uhr",
-    "Täglich"
+    "Jeden Sonntag von 9:00 bis 18:00 Uhr"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "In welchem Berliner Stadtteil liegt der Mauerpark?",
    "options": [
-    "Kreuzberg",
+    "Charlottenburg",
     "Prenzlauer Berg",
-    "Charlottenburg"
+    "Kreuzberg"
    ],
    "answer": 1
   },
@@ -135,20 +135,20 @@
   {
    "q": "Was beginnt um 15:00 Uhr im Park?",
    "options": [
+    "Ein Kochkurs",
     "Ein Fußballspiel",
-    "Ein Open-Air-Karaoke",
-    "Ein Kochkurs"
+    "Ein Open-Air-Karaoke"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Wie viel kostet der Eintritt zum Flohmarkt?",
    "options": [
-    "Der Eintritt ist kostenlos",
     "5 Euro",
-    "2 Euro"
+    "2 Euro",
+    "Der Eintritt ist kostenlos"
    ],
-   "answer": 0
+   "answer": 2
   }
  ]
 });

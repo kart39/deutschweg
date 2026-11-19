@@ -399,21 +399,21 @@
      {
       "q": "Was reicht laut dem ersten Abschnitt für echte Zugehörigkeit allein nicht aus?",
       "options": [
-       "Ein abgeschlossener Sprach- und Integrationskurs ohne Begegnungen im Alltag.",
        "Ein guter Arbeitsvertrag.",
+       "Ein abgeschlossener Sprach- und Integrationskurs ohne Begegnungen im Alltag.",
        "Eine Wohnung im Stadtzentrum.",
        "Ein langes Studium."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 1 nhấn mạnh chỉ học xong khóa hội nhập là chưa đủ nếu thiếu gặp gỡ đời thường và giảm rào cản."
      },
      {
       "q": "Welches Problem entsteht durch lange Wartezeiten bei der Anerkennung von Abschlüssen?",
       "options": [
        "Fachkräfte arbeiten unter ihrer Qualifikation oder verlieren Motivation.",
+       "Die Mieten steigen sofort.",
        "Unternehmen bekommen zu viele Bewerbungen.",
-       "Sprachkurse werden abgesagt.",
-       "Die Mieten steigen sofort."
+       "Sprachkurse werden abgesagt."
       ],
       "answer": 0,
       "explain": "Đoạn 2 chỉ ra sự lãng phí năng lực và mất động lực khi chờ công nhận bằng cấp quá lâu."
@@ -421,10 +421,10 @@
      {
       "q": "Wie helfen ehrenamtliche Patenschaften und Sprachcafés konkret?",
       "options": [
-       "Sie ersetzen alle Behördengänge.",
+       "Sie organisieren Flugreisen ins Herkunftsland.",
        "Sie ermöglichen Kontakte auf Augenhöhe und vermitteln ungeschriebene Alltagsregeln.",
-       "Sie bezahlen die erste Miete.",
-       "Sie organisieren Flugreisen ins Herkunftsland."
+       "Sie ersetzen alle Behördengänge.",
+       "Sie bezahlen die erste Miete."
       ],
       "answer": 1,
       "explain": "Đoạn 3 nêu lợi ích tạo kết nối bình đẳng và học quy tắc đời sống tự nhiên."
@@ -433,9 +433,9 @@
       "q": "Welche versteckte Barriere kritisiert Abschnitt 4?",
       "options": [
        "Dass Menschen mit ausländisch klingenden Namen bei Wohnungssuche und Bewerbungen oft benachteiligt werden.",
+       "Dass Behörden zu schnell arbeiten.",
        "Dass es zu wenige Sportvereine gibt.",
-       "Dass Nachbarn zu viel miteinander reden.",
-       "Dass Behörden zu schnell arbeiten."
+       "Dass Nachbarn zu viel miteinander reden."
       ],
       "answer": 0,
       "explain": "Đoạn 4 đề cập sự phân biệt đối xử âm thầm dựa trên tên gọi."
@@ -443,12 +443,12 @@
      {
       "q": "Warum bezeichnet der Text Integration als ‚keine Einbahnstraße‘?",
       "options": [
+       "Weil Integration nur in Großstädten gelingt.",
        "Weil sowohl Zugezogene als auch die Aufnahmegesellschaft ihren Beitrag leisten müssen.",
-       "Weil jeder jeden Tag Bus fahren muss.",
        "Weil niemand seine Muttersprache behalten darf.",
-       "Weil Integration nur in Großstädten gelingt."
+       "Weil jeder jeden Tag Bus fahren muss."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn cuối khẳng định hội nhập là quá trình hai chiều từ cả người mới đến và xã hội sở tại."
      }
     ],
@@ -465,24 +465,24 @@
      "type": "mcq",
      "q": "Welche Modalpartikel macht eine Bitte oder Aufforderung lockerer und freundlicher?",
      "options": [
+      "trotzdem",
       "mal",
       "aber",
-      "trotzdem",
       "obwohl"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'mal' (viết ngắn của einmal) làm nhẹ lời nhờ vả hoặc gợi ý."
     },
     {
      "type": "mcq",
      "q": "Wofür steht ‚doch‘ im Satz: „Das weißt du doch!“?",
      "options": [
-      "Der Sprecher erinnert an etwas, das der Zuhörer eigentlich schon weiß.",
-      "Der Sprecher stellt eine ganz neue Frage.",
       "Der Sprecher drückt große Überraschung über etwas Unerwartetes aus.",
-      "Der Sprecher lehnt einen Vorschlag ab."
+      "Der Sprecher lehnt einen Vorschlag ab.",
+      "Der Sprecher erinnert an etwas, das der Zuhörer eigentlich schon weiß.",
+      "Der Sprecher stellt eine ganz neue Frage."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'doch' nhắc lại điều hiển nhiên mà người nghe vốn đã biết."
     },
     {
@@ -501,36 +501,36 @@
      "type": "mcq",
      "q": "Welcher Satz drückt freundliche Ermutigung aus?",
      "options": [
-      "Komm doch am Donnerstag mal mit ins Sprachcafé!",
       "Komm nicht mit ins Sprachcafé!",
-      "Doch kommst du am Donnerstag mit!",
-      "Mal komm doch mit!"
+      "Mal komm doch mit!",
+      "Komm doch am Donnerstag mal mit ins Sprachcafé!",
+      "Doch kommst du am Donnerstag mit!"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Kết hợp 'doch + mal' trong câu mệnh lệnh tạo lời mời cực kỳ thân thiện."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „berufliche Anerkennung“?",
      "options": [
-      "Die offizielle Prüfung und Gleichstellung eines ausländischen Abschlusses",
-      "Ein Gespräch im Sportverein",
       "Die Verlängerung des Mietvertrags",
-      "Ein kostenloser Sprachkurs"
+      "Ein Gespräch im Sportverein",
+      "Ein kostenloser Sprachkurs",
+      "Die offizielle Prüfung und Gleichstellung eines ausländischen Abschlusses"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Anerkennung' = sự công nhận chính thức bằng cấp/chứng chỉ."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Heimweh“?",
      "options": [
-      "das",
-      "der",
       "die",
-      "–"
+      "–",
+      "das",
+      "der"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Danh từ chuẩn là 'das Heimweh'."
     },
     {
@@ -549,12 +549,12 @@
      "type": "mcq",
      "q": "Was ist eine „Niederlassungserlaubnis“?",
      "options": [
-      "Ein unbefristetes Aufenthaltsrecht in Deutschland",
+      "Eine Bescheinigung über Heimweh",
       "Ein befristetes Touristenvisum",
       "Ein Vertrag mit einem Sportverein",
-      "Eine Bescheinigung über Heimweh"
+      "Ein unbefristetes Aufenthaltsrecht in Deutschland"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Niederlassungserlaubnis' = giấy phép định cư vĩnh viễn không thời hạn."
     },
     {
@@ -1143,9 +1143,9 @@
      {
       "q": "Warum empfinden manche junge Menschen mit internationaler Geschichte die Frage ‚Wo kommst du eigentlich her?‘ als schwierig?",
       "options": [
-       "Weil sie nicht Deutsch sprechen können.",
-       "Weil sie sich mit mehreren Kulturen verbunden fühlen und nicht in einfache Schubladen passen.",
        "Weil sie ihre Eltern nicht mögen.",
+       "Weil sie sich mit mehreren Kulturen verbunden fühlen und nicht in einfache Schubladen passen.",
+       "Weil sie nicht Deutsch sprechen können.",
        "Weil sie ständig umziehen."
       ],
       "answer": 1,
@@ -1154,45 +1154,45 @@
      {
       "q": "Wie beschreibt die moderne Soziologie kulturelle Identität?",
       "options": [
-       "Als starren Behälter für genau eine Sprache.",
-       "Als etwas Flexibles, bei dem verschiedene kulturelle Einflüsse einander bereichern.",
        "Als Hindernis für den Beruf.",
-       "Als reines Problem großer Städte."
+       "Als reines Problem großer Städte.",
+       "Als starren Behälter für genau eine Sprache.",
+       "Als etwas Flexibles, bei dem verschiedene kulturelle Einflüsse einander bereichern."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 2 khẳng định hai nền văn hóa kết hợp tự nhiên và làm giàu cho nhau."
      },
      {
       "q": "Was verletzt das Zugehörigkeitsgefühl laut Abschnitt 3 besonders?",
       "options": [
-       "Alltagsrassismus, Vorurteile und das Gefühl, trotz gleichen Passes als fremd zu gelten.",
        "Zu viele Sprachcafés in der Stadt.",
+       "Das Feiern traditioneller Feste.",
        "Mehrsprachige Kinderbücher.",
-       "Das Feiern traditioneller Feste."
+       "Alltagsrassismus, Vorurteile und das Gefühl, trotz gleichen Passes als fremd zu gelten."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 3 nêu rõ sự phân biệt tinh vi hằng ngày và cảm giác bị coi là người ngoài."
      },
      {
       "q": "Wo zeigen sich laut Abschnitt 4 positive gesellschaftliche Veränderungen?",
       "options": [
+       "In geschlossenen Wohnvierteln.",
        "In strengeren Einreiseverboten.",
-       "In mehrsprachigen Schulprojekten, Nachbarschaftsfesten und vielfältigen Vorbildern.",
        "Im Verzicht auf alle Traditionen.",
-       "In geschlossenen Wohnvierteln."
+       "In mehrsprachigen Schulprojekten, Nachbarschaftsfesten und vielfältigen Vorbildern."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 4 liệt kê 3 điểm sáng giúp sự đa dạng trở thành bình thường."
      },
      {
       "q": "Wie definiert der Schlusssatz ‚Heimat‘?",
       "options": [
-       "Als einen einzigen Geburtsort auf der Landkarte.",
        "Als jeden Ort, an dem man respektiert, akzeptiert und willkommen geheißen wird.",
        "Als eine reine Frage des Reisepasses.",
+       "Als einen einzigen Geburtsort auf der Landkarte.",
        "Als Erinnerung an die Kindheit allein."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Câu kết khẳng định quê hương hình thành ở bất cứ nơi nào con người được tôn trọng và đón nhận."
      }
     ],
@@ -1209,60 +1209,60 @@
      "type": "mcq",
      "q": "Welche Modalpartikel drückt aus, dass man eine unveränderliche Tatsache akzeptiert („Es ist nun mal so“)?",
      "options": [
-      "eben / halt",
       "eigentlich",
+      "wohl",
       "mal",
-      "wohl"
+      "eben / halt"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'eben' hoặc 'halt' diễn tả sự chấp nhận một thực tế vốn dĩ như vậy."
     },
     {
      "type": "mcq",
      "q": "Wofür verwendet man ‚eigentlich‘ in einer Frage wie „Woher kommst du eigentlich?“?",
      "options": [
+      "Um eine Vermutung über das Wetter auszudrücken",
       "Um eine neugierige Frage höflicher und beiläufiger zu machen",
       "Um große Wut zu zeigen",
-      "Um eine Vermutung über das Wetter auszudrücken",
       "Um einen Befehl zu geben"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'eigentlich' giúp câu hỏi tự nhiên, tò mò lịch sự hơn."
     },
     {
      "type": "mcq",
      "q": "Welche Bedeutung hat ‚wohl‘ im Satz „Er dürfte wohl schon zu Hause sein“?",
      "options": [
-      "eine wahrscheinliche Vermutung (~75 %)",
+      "ein Widerspruch gegen eine Lüge",
       "eine sichere Verneinung",
-      "eine unhöfliche Aufforderung",
-      "ein Widerspruch gegen eine Lüge"
+      "eine wahrscheinliche Vermutung (~75 %)",
+      "eine unhöfliche Aufforderung"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'wohl' diễn tả sự phỏng đoán có cơ sở ('chắc là / có lẽ')."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet ‚eigentlich‘ im Satz: „Eigentlich wollte ich gehen, aber es regnet“?",
      "options": [
-      "ursprünglich / im Grunde genommen (Gegensatz zur Realität)",
       "soeben vor einer Minute",
+      "ursprünglich / im Grunde genommen (Gegensatz zur Realität)",
       "überhaupt nicht",
       "immer und überall"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'eigentlich' ở đây đối chiếu ý định ban đầu với thực tế hiện tại."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „jemanden auf seine Herkunft reduzieren“?",
      "options": [
-      "Einen Menschen nur nach seinem Geburtsland beurteilen und andere Eigenschaften ignorieren",
-      "Jemandem beim Deutschlernen helfen",
       "Zwei Kulturen erfolgreich verbinden",
-      "Alte Familientraditionen bewahren"
+      "Alte Familientraditionen bewahren",
+      "Einen Menschen nur nach seinem Geburtsland beurteilen und andere Eigenschaften ignorieren",
+      "Jemandem beim Deutschlernen helfen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'auf etwas reduzieren' = quy chụp, thu hẹp ai đó chỉ vào một yếu tố duy nhất."
     },
     {
@@ -1270,9 +1270,9 @@
      "q": "Welcher Artikel gehört zu „Brauch“?",
      "options": [
       "der",
+      "–",
       "die",
-      "das",
-      "–"
+      "das"
      ],
      "answer": 0,
      "explain": "Danh từ chuẩn là 'der Brauch, die Bräuche'."
@@ -1281,24 +1281,24 @@
      "type": "mcq",
      "q": "Welches Verb bedeutet „einen Ort oder ein Leben durch Vielfalt wertvoller machen“?",
      "options": [
-      "bereichern",
       "reduzieren",
+      "bereichern",
       "benachteiligen",
       "ausgrenzen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'bereichern' = làm phong phú, làm giàu thêm."
     },
     {
      "type": "mcq",
      "q": "Was ist das Gegenteil von „Multikulturalität ablehnen“?",
      "options": [
-      "Vielfalt offen akzeptieren und als Bereicherung sehen",
-      "Andere Bräuche sofort verbieten",
+      "Stereotype nicht hinterfragen",
       "Vorurteile weiter pflegen",
-      "Stereotype nicht hinterfragen"
+      "Vielfalt offen akzeptieren und als Bereicherung sehen",
+      "Andere Bräuche sofort verbieten"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Chấp nhận cởi mở sự đa dạng là trái nghĩa với bác bỏ đa văn hóa."
     },
     {
@@ -1891,21 +1891,21 @@
      {
       "q": "Welche demografische Ursache verstärkt laut Abschnitt 1 den Arbeitskräftemangel?",
       "options": [
-       "Es gehen deutlich mehr Menschen in Rente, als junge Jahrgänge nachrücken.",
        "Zu viele Jugendliche studieren im Ausland.",
-       "Alle Handwerksbetriebe schließen freiwillig.",
-       "Die Geburtenrate ist viel zu hoch."
+       "Es gehen deutlich mehr Menschen in Rente, als junge Jahrgänge nachrücken.",
+       "Die Geburtenrate ist viel zu hoch.",
+       "Alle Handwerksbetriebe schließen freiwillig."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 1 nêu rõ số người nghỉ hưu nhiều hơn hẳn lớp trẻ kế cận."
      },
      {
       "q": "Was soll das Fachkräfteeinwanderungsgesetz ermöglichen?",
       "options": [
-       "Komplette Abschaffung aller Sprachkenntnisse.",
+       "Höhere Gebühren bei der Botschaft.",
        "Einen einfacheren Zugang zu Arbeitsvisa für qualifizierte Bewerber aus Nicht-EU-Staaten.",
-       "Ein Verbot von Studienabschlüssen.",
-       "Höhere Gebühren bei der Botschaft."
+       "Komplette Abschaffung aller Sprachkenntnisse.",
+       "Ein Verbot von Studienabschlüssen."
       ],
       "answer": 1,
       "explain": "Đoạn 2 giải thích mục tiêu giúp ứng viên có chuyên môn từ ngoài EU xin visa lao động dễ hơn."
@@ -1915,8 +1915,8 @@
       "options": [
        "In zu vielen digitalen Portalen.",
        "In überlasteten Ausländerbehörden, Personalmangel und langwierigen Verwaltungsverfahren.",
-       "In mangelndem Interesse ausländischer Fachkräfte.",
-       "In zu niedrigen Löhnen im IT-Sektor."
+       "In zu niedrigen Löhnen im IT-Sektor.",
+       "In mangelndem Interesse ausländischer Fachkräfte."
       ],
       "answer": 1,
       "explain": "Đoạn 3 chỉ ra bộ máy hành chính quá tải, thiếu nhân sự và phần mềm cũ là rào cản chính."
@@ -1924,23 +1924,23 @@
      {
       "q": "Was müssen Betriebe neben dem Anwerben von Talenten tun?",
       "options": [
-       "Sie beim Sprachlernen und Einleben aktiv begleiten.",
-       "Ihnen sofort kündigen, falls sie Heimweh haben.",
        "Auf Einarbeitung verzichten.",
-       "Nur noch befristete Verträge anbieten."
+       "Ihnen sofort kündigen, falls sie Heimweh haben.",
+       "Nur noch befristete Verträge anbieten.",
+       "Sie beim Sprachlernen und Einleben aktiv begleiten."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 4 nhấn mạnh việc đồng hành học tiếng và hòa nhập giúp giữ chân nhân lực lâu hơn."
      },
      {
       "q": "Was entscheidet laut dem letzten Abschnitt über den Erfolg moderner Einwanderungspolitik?",
       "options": [
        "Allein strenge Kontrollen an der Grenze.",
-       "Das Zusammenspiel aus klugen Gesetzen, schneller Verwaltung und gesellschaftlicher Offenheit.",
+       "Die Erhöhung des Rentenalters auf achtzig Jahre.",
        "Der Verzicht auf jede Anerkennung von Abschlüssen.",
-       "Die Erhöhung des Rentenalters auf achtzig Jahre."
+       "Das Zusammenspiel aus klugen Gesetzen, schneller Verwaltung und gesellschaftlicher Offenheit."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn cuối tóm tắt 3 trụ cột: luật thông minh, hành chính nhanh và xã hội cởi mở."
      }
     ],
@@ -1957,96 +1957,96 @@
      "type": "mcq",
      "q": "Welche Modalpartikel passt in einer freundlichen, neugierigen Frage: „Wie lange dauert das ___ noch?“",
      "options": [
-      "denn",
       "halt",
-      "eben",
-      "etwa"
+      "etwa",
+      "denn",
+      "eben"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'denn' giúp câu hỏi trở nên thân thiện, gắn kết tự nhiên với bối cảnh."
     },
     {
      "type": "mcq",
      "q": "Was drückt ‚etwa‘ in der Frage „Hast du etwa meinen Brief vergessen?“ aus?",
      "options": [
-      "Überraschung oder ungläubiges Erstaunen",
-      "Eine höfliche Entschuldigung",
       "Eine sichere Zustimmung",
-      "Ein zeitliches ‚gerade eben‘"
+      "Überraschung oder ungläubiges Erstaunen",
+      "Ein zeitliches ‚gerade eben‘",
+      "Eine höfliche Entschuldigung"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'etwa' trong câu hỏi Có/Không mang nghĩa 'chẳng lẽ lại...' (ngạc nhiên/khó tin)."
     },
     {
      "type": "mcq",
      "q": "Welche Kombination von Modalpartikeln ist in einer Aufforderung richtig?",
      "options": [
-      "Schau doch mal in das neue Gesetz!",
+      "Schau halt bloß nicht in doch!",
       "Schau mal doch in das neue Gesetz!",
-      "Schau etwa denn in das neue Gesetz!",
-      "Schau halt bloß nicht in doch!"
+      "Schau doch mal in das neue Gesetz!",
+      "Schau etwa denn in das neue Gesetz!"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Trật tự chuẩn của cặp tiểu từ đề nghị là 'doch mal'."
     },
     {
      "type": "mcq",
      "q": "Wofür stehen ‚bloß‘ oder ‚nur‘ in der Frage „Wie sollen wir das bloß schaffen?“?",
      "options": [
-      "Sorge, Ratlosigkeit oder Dringlichkeit",
       "Große Freude über einen Urlaub",
       "Akzeptanz einer langweiligen Regel",
+      "Sorge, Ratlosigkeit oder Dringlichkeit",
       "Einen Vergleich zweier Preise"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'bloß / nur' trong câu hỏi W-Frage thể hiện sự lo lắng, sốt ruột."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „demografischer Wandel“?",
      "options": [
-      "Die Veränderung der Altersstruktur einer Bevölkerung (z. B. immer mehr ältere Menschen)",
       "Ein neuer Kurs im Sprachcafé",
       "Ein schnelleres Verfahren für Visa",
-      "Die Renovierung eines Rathauses"
+      "Die Renovierung eines Rathauses",
+      "Die Veränderung der Altersstruktur einer Bevölkerung (z. B. immer mehr ältere Menschen)"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'demografischer Wandel' = sự biến đổi cơ cấu dân số (già hóa dân số)."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Arbeitsvisum“?",
      "options": [
-      "das",
-      "der",
       "die",
-      "–"
+      "–",
+      "der",
+      "das"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Danh từ chuẩn là 'das Arbeitsvisum, die Arbeitsvisa'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „Bewerber durch zu lange Wartezeiten entmutigen“?",
      "options": [
-      "abschrecken",
+      "sichern",
       "anwerben",
-      "entlasten",
-      "sichern"
+      "abschrecken",
+      "entlasten"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'abschrecken' = làm nản lòng, khiến người khác e ngại bỏ cuộc."
     },
     {
      "type": "mcq",
      "q": "Welches Verb beschreibt das gezielte Suchen und Gewinnen von Personal im Ausland?",
      "options": [
-      "anwerben",
       "überaltern",
-      "beschleunigen",
-      "beantragen"
+      "anwerben",
+      "beantragen",
+      "beschleunigen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'anwerben' = tuyển mộ, thu hút nhân lực."
     },
     {
@@ -2550,21 +2550,21 @@
      {
       "q": "Welches Fundament bildet laut Abschnitt 2 die Basis für das Zusammenleben in Deutschland?",
       "options": [
-       "Einheitliche Kleidung und Bräuche.",
-       "Das Grundgesetz mit verbindlichen Grundrechten für alle unabhängig von der Herkunft.",
+       "Geschlossene Nachbarschaften.",
        "Ein Verbot von Mehrsprachigkeit.",
-       "Geschlossene Nachbarschaften."
+       "Einheitliche Kleidung und Bräuche.",
+       "Das Grundgesetz mit verbindlichen Grundrechten für alle unabhängig von der Herkunft."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 2 khẳng định Luật Cơ bản đặt ra các giá trị ràng buộc cho mọi người bất kể xuất thân."
      },
      {
       "q": "Welche Rolle spielen Schulen, Sportvereine und Bibliotheken laut Abschnitt 3?",
       "options": [
        "Sie sind Orte alltäglicher Begegnung auf Augenhöhe, die Vorbehalte abbauen.",
-       "Sie ersetzen die Ausländerbehörde.",
        "Sie verursachen nur Konflikte.",
-       "Sie verhindern Sprachmittlung."
+       "Sie verhindern Sprachmittlung.",
+       "Sie ersetzen die Ausländerbehörde."
       ],
       "answer": 0,
       "explain": "Đoạn 3 nêu các không gian gặp gỡ bình đẳng giúp xóa bỏ dè dặt ban đầu."
@@ -2572,45 +2572,45 @@
      {
       "q": "Warum hilft professionelle Sprachmittlung in Kliniken und Ämtern?",
       "options": [
-       "Damit niemand mehr Deutsch lernen muss.",
-       "Damit Verständigungsprobleme nicht zu Hilflosigkeit oder Fehlern führen.",
        "Um den Eintrittspreis zu senken.",
-       "Um Parallelgesellschaften zu fördern."
+       "Um Parallelgesellschaften zu fördern.",
+       "Damit niemand mehr Deutsch lernen muss.",
+       "Damit Verständigungsprobleme nicht zu Hilflosigkeit oder Fehlern führen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 giải thích trung gian ngôn ngữ giúp người dân không rơi vào thế bất lực khi giao tiếp."
      },
      {
       "q": "Welchen Nutzen hat die Option des Doppelpasses laut Abschnitt 4?",
       "options": [
-       "Sie erleichtert politische Teilhabe, ohne dass Menschen ihre familiären Wurzeln verleugnen müssen.",
-       "Sie macht Sprachkurse überflüssig.",
+       "Sie schränkt das Wahlrecht ein.",
        "Sie verhindert den Besuch von Hochschulen.",
-       "Sie schränkt das Wahlrecht ein."
+       "Sie macht Sprachkurse überflüssig.",
+       "Sie erleichtert politische Teilhabe, ohne dass Menschen ihre familiären Wurzeln verleugnen müssen."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 4 nêu song tịch giúp công dân tham gia chính trị trọn vẹn mà vẫn giữ cội nguồn."
      },
      {
       "q": "Wie geht eine reife Gesellschaft mit unvermeidlichen Alltagskonflikten um?",
       "options": [
+       "Sie schiebt Probleme auf die lange Bank.",
        "Sie verbietet alle fremden Feste.",
-       "Sie bespricht Reibungen respektvoll, direkt und sachlich.",
        "Sie ignoriert jede Beschwerde.",
-       "Sie schiebt Probleme auf die lange Bank."
+       "Sie bespricht Reibungen respektvoll, direkt und sachlich."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn cuối khẳng định xã hội trưởng thành đối thoại tôn trọng, thẳng thắn và khách quan."
      },
      {
       "q": "Wann wird Vielfalt laut dem Schlusssatz zur größten Kraftquelle?",
       "options": [
-       "Wenn faire Regeln, berufliche Perspektiven und gegenseitige Neugier zusammenkommen.",
-       "Wenn alle genau dieselben Gewohnheiten haben.",
        "Wenn niemand über Lärm spricht.",
-       "Wenn es keinen Sozialstaat mehr gibt."
+       "Wenn alle genau dieselben Gewohnheiten haben.",
+       "Wenn es keinen Sozialstaat mehr gibt.",
+       "Wenn faire Regeln, berufliche Perspektiven und gegenseitige Neugier zusammenkommen."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Câu kết nêu 3 yếu tố: luật công bằng, cơ hội nghề nghiệp và sự quan tâm lẫn nhau."
      }
     ],
@@ -2640,9 +2640,9 @@
      "q": "Welche Reihenfolge der Modalpartikeln ist richtig?",
      "options": [
       "Er hat es doch mal versucht.",
-      "Er hat mal doch es versucht.",
+      "Er hat es versucht doch mal.",
       "Doch er hat es mal versucht.",
-      "Er hat es versucht doch mal."
+      "Er hat mal doch es versucht."
      ],
      "answer": 0,
      "explain": "Đại từ ('es') đứng trước cặp tiểu từ 'doch mal' ở Mittelfeld."
@@ -2663,12 +2663,12 @@
      "type": "mcq",
      "q": "Was bedeutet „beruflich Fuß fassen“?",
      "options": [
-      "Im Beruf einen stabilen Anfang und festen Platz finden",
-      "Einen Sportverein gründen",
       "Einen Doppelpass ablehnen",
-      "Beim Behördengang warten"
+      "Beim Behördengang warten",
+      "Im Beruf einen stabilen Anfang und festen Platz finden",
+      "Einen Sportverein gründen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Fuß fassen' = đứng vững, tạo dựng chỗ đứng ổn định."
     },
     {
@@ -2676,9 +2676,9 @@
      "q": "Was bedeutet „ein Gespräch auf Augenhöhe“?",
      "options": [
       "Ein respektvolles Gespräch zwischen gleichberechtigten Partnern",
+      "Eine Diskussion über Architektur",
       "Ein Gespräch, bei dem eine Person alles befiehlt",
-      "Ein schriftlicher Antrag beim Amt",
-      "Eine Diskussion über Architektur"
+      "Ein schriftlicher Antrag beim Amt"
      ],
      "answer": 0,
      "explain": "'auf Augenhöhe' = ngang hàng, bình đẳng tôn trọng nhau."
@@ -2687,12 +2687,12 @@
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Grundgesetz“?",
      "options": [
-      "das",
-      "der",
       "die",
-      "–"
+      "–",
+      "das",
+      "der"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Danh từ chuẩn là 'das Grundgesetz'."
     },
     {
@@ -2700,8 +2700,8 @@
      "q": "Welches Verb verlangt den Dativ: „Frühe Förderung wirkt sozialer Ungleichheit ___.“?",
      "options": [
       "entgegen",
-      "auf",
       "durch",
+      "auf",
       "ab"
      ],
      "answer": 0,
@@ -2711,12 +2711,12 @@
      "type": "mcq",
      "q": "Was beschreibt ein „durchlässiges Bildungssystem“?",
      "options": [
-      "Ein Schulsystem, das flexible Wechsel und spätere Aufstiegschancen ermöglicht",
       "Eine Schule mit großen Fenstern",
-      "Ein System ohne Sprachkurse",
-      "Eine reine Universität für Technik"
+      "Ein Schulsystem, das flexible Wechsel und spätere Aufstiegschancen ermöglicht",
+      "Eine reine Universität für Technik",
+      "Ein System ohne Sprachkurse"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'durchlässig' (hệ thống giáo dục) = liên thông mở, cho phép học lên linh hoạt."
     },
     {
@@ -2724,8 +2724,8 @@
      "q": "Was ist eine „Parallelgesellschaft“?",
      "options": [
       "Eine abgeschottete Gruppe, die kaum Kontakt zur übrigen Gesellschaft hat",
-      "Ein buntes Nachbarschaftsfest",
       "Ein zweisprachiger Kindergarten",
+      "Ein buntes Nachbarschaftsfest",
       "Eine berufliche Weiterbildung"
      ],
      "answer": 0,
@@ -2735,12 +2735,12 @@
      "type": "mcq",
      "q": "Welche Partikel macht eine W-Frage freundlicher und verbindender?",
      "options": [
-      "denn",
-      "etwa",
       "halt",
-      "wohl"
+      "wohl",
+      "etwa",
+      "denn"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'denn' làm câu hỏi W-Frage tự nhiên, thân thiện."
     },
     {

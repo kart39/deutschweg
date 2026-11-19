@@ -428,37 +428,37 @@
       "q": "Was möchte Ina zuerst über das graue Modell wissen?",
       "options": [
        "Ob es unter ihr Regal passt.",
-       "Ob es am Montag geliefert wird.",
-       "Ob es in anderen Farben günstiger ist."
+       "Ob es in anderen Farben günstiger ist.",
+       "Ob es am Montag geliefert wird."
       ],
       "answer": 0
      },
      {
       "q": "Welches Problem hat das erste Modell für Ina?",
       "options": [
-       "Es ist zu hoch.",
        "Sein Kabel ist zu kurz.",
-       "Das Produktfoto fehlt."
+       "Das Produktfoto fehlt.",
+       "Es ist zu hoch."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Wie groß ist der Unterschied zwischen den beiden Endpreisen?",
       "options": [
        "Sechs Euro.",
-       "Acht Euro.",
-       "Zwei Euro."
+       "Zwei Euro.",
+       "Acht Euro."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was erspart sich Ina mit dem zweiten Modell?",
       "options": [
+       "Eine neue Lampe für das Regal.",
        "Eine Verlängerung für das Kabel.",
-       "Einen zusätzlichen Tisch.",
-       "Eine neue Lampe für das Regal."
+       "Einen zusätzlichen Tisch."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -473,21 +473,21 @@
      "type": "mcq",
      "q": "Chọn câu bị động hiện tại, số ít, mang nghĩa “Giá cuối cùng được hiển thị”.",
      "options": [
+      "Der Endpreis zeigt an.",
       "Der Endpreis werden angezeigt.",
       "Der Endpreis wird angezeigt.",
-      "Der Endpreis zeigt an.",
       "Der Endpreis wird anzeigen."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Chủ ngữ số ít đi với {{wird}}, còn {{angezeigt}} là {{Partizip II}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu bị động tương ứng với “Der Shop bewirbt die Lampen.”",
      "options": [
-      "Der Shop wird von den Lampen beworben.",
       "Die Lampen wird beworben.",
       "Die Lampen werden bewerben.",
+      "Der Shop wird von den Lampen beworben.",
       "Die Lampen werden beworben."
      ],
      "answer": 3,
@@ -497,12 +497,12 @@
      "type": "mcq",
      "q": "Từ nào là Partizip II của einblenden?",
      "options": [
+      "geeinblendet",
       "eingeblendet",
       "einblendet",
-      "geeinblendet",
       "einblenden"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Động từ tách {{einblenden}} chèn {{ge-}} sau tiền tố: {{eingeblendet}}."
     },
     {
@@ -510,23 +510,23 @@
      "q": "Chọn câu có mệnh đề phụ đúng trật tự.",
      "options": [
       "Ich warte, weil wird der Preis angezeigt.",
-      "Ich warte, weil der Preis wird angezeigt.",
       "Ich warte, weil der Preis angezeigt wird.",
+      "Ich warte, weil der Preis wird angezeigt.",
       "Ich warte, weil angezeigt der Preis wird."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Trong mệnh đề phụ với {{weil}}, trợ động từ {{wird}} đứng sau {{angezeigt}}."
     },
     {
      "type": "mcq",
      "q": "Welche Angabe zeigt den gesamten Preis, den man zahlt?",
      "options": [
-      "der Werbeslogan",
       "der Endpreis",
       "die Zielgruppe",
+      "der Werbeslogan",
       "das Produktfoto"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{der Endpreis}} là giá cuối cùng."
     },
     {
@@ -534,8 +534,8 @@
      "q": "Chọn cụm nêu tác nhân là một cửa hàng trong câu bị động.",
      "options": [
       "von einen Fachladen",
-      "vom einen Fachladen",
       "durch einem Fachladen",
+      "vom einen Fachladen",
       "von einem Fachladen"
      ],
      "answer": 3,
@@ -1142,38 +1142,38 @@
      {
       "q": "Welche Abholstation wählte Linh bei der Bestellung?",
       "options": [
-       "Die Station in der Lindenstraße.",
        "Die Station am Bahnhof.",
+       "Die Station in der Lindenstraße.",
        "Die Station neben dem Shop."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Warum lag das Paket in der Lindenstraße?",
       "options": [
        "Linh hatte einen falschen Abholcode eingegeben.",
-       "Die Sendungsnummer war doppelt vergeben.",
-       "Auf dem Versandetikett stand eine alte Adresse."
+       "Auf dem Versandetikett stand eine alte Adresse.",
+       "Die Sendungsnummer war doppelt vergeben."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Welche Lösung wählte Linh?",
       "options": [
-       "Das Paket zum Bahnhof weiterleiten lassen.",
+       "Das Paket in der Lindenstraße abholen.",
        "Den Wasserkocher noch einmal bestellen.",
-       "Das Paket in der Lindenstraße abholen."
+       "Das Paket zum Bahnhof weiterleiten lassen."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Wann holte Linh den Wasserkocher ab?",
       "options": [
+       "Freitagabend.",
        "Mittwochabend.",
-       "Donnerstagmorgen.",
-       "Freitagabend."
+       "Donnerstagmorgen."
       ],
-      "answer": 2
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1188,12 +1188,12 @@
      "type": "mcq",
      "q": "Chọn câu bị động Präteritum về việc gửi xác nhận.",
      "options": [
-      "Die Bestätigung wird geschickt.",
       "Die Bestätigung ist geschickt worden.",
       "Die Bestätigung wurde geschickt.",
+      "Die Bestätigung wird geschickt.",
       "Die Bestätigung hat geschickt."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{wurde geschickt}} là {{Präteritum}} của câu bị động."
     },
     {
@@ -1202,8 +1202,8 @@
      "options": [
       "Das Paket ist zugestellt worden.",
       "Das Paket wurde zugestellt worden.",
-      "Das Paket hat zugestellt worden.",
-      "Das Paket ist zugestellt geworden."
+      "Das Paket ist zugestellt geworden.",
+      "Das Paket hat zugestellt worden."
      ],
      "answer": 0,
      "explain": "Bị động {{Perfekt}} dùng {{sein + Partizip II + worden}}."
@@ -1224,22 +1224,22 @@
      "type": "mcq",
      "q": "Chọn câu phụ đúng trật tự ở Präteritum.",
      "options": [
+      "Ich weiß, wann zugestellt wurde das Paket.",
       "Ich weiß, wann wurde das Paket zugestellt.",
-      "Ich weiß, wann das Paket zugestellt wurde.",
       "Ich weiß, wann das Paket wurde zugestellt.",
-      "Ich weiß, wann zugestellt wurde das Paket."
+      "Ich weiß, wann das Paket zugestellt wurde."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Trong mệnh đề phụ, {{wurde}} đứng sau {{zugestellt}}."
     },
     {
      "type": "mcq",
      "q": "Tìm cách nói “theo hệ thống theo dõi lô hàng”.",
      "options": [
+      "vor der Bestellung",
       "auf dem Versandetikett",
-      "bei einer Rückfrage",
       "laut Sendungsverfolgung",
-      "vor der Bestellung"
+      "bei einer Rückfrage"
      ],
      "answer": 2,
      "explain": "{{laut Sendungsverfolgung}} cho biết thông tin được lấy từ hệ thống theo dõi."
@@ -1248,12 +1248,12 @@
      "type": "mcq",
      "q": "Dạng nào điền đúng khi câu nói sản phẩm đã đắt lên?",
      "options": [
-      "Das Produkt ist teurer geworden.",
-      "Das Produkt ist teurer worden.",
+      "Das Produkt wurde teurer worden.",
       "Das Produkt hat teurer geworden.",
-      "Das Produkt wurde teurer worden."
+      "Das Produkt ist teurer geworden.",
+      "Das Produkt ist teurer worden."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Ở đây {{werden}} mang nghĩa “trở nên”, với dạng {{Perfekt}} là {{ist geworden}}."
     },
     {
@@ -1859,10 +1859,10 @@
       "q": "Was passiert beim ersten Test des Geräts?",
       "options": [
        "Es lässt sich nicht aufladen.",
-       "Es schaltet sich nach einigen Sekunden aus.",
-       "Es spielt zu laut."
+       "Es spielt zu laut.",
+       "Es schaltet sich nach einigen Sekunden aus."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was muss nach dem Ablauf dieses Shops hochgeladen werden?",
@@ -1885,11 +1885,11 @@
      {
       "q": "Was findet Paula bei der Kommunikation besonders hilfreich?",
       "options": [
-       "Jede Nachricht enthielt einen Rabattcode.",
        "Die Nachrichten erklärten den nächsten Schritt.",
-       "Alle Nachrichten kamen per Telefon."
+       "Alle Nachrichten kamen per Telefon.",
+       "Jede Nachricht enthielt einen Rabattcode."
       ],
-      "answer": 1
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1904,9 +1904,9 @@
      "type": "mcq",
      "q": "Chọn câu có nghĩa “Chứng từ mua hàng phải được tải lên”.",
      "options": [
-      "Der Kaufbeleg muss hochladen werden.",
-      "Der Kaufbeleg muss hochgeladen werden.",
       "Der Kaufbeleg wird hochgeladen muss.",
+      "Der Kaufbeleg muss hochgeladen werden.",
+      "Der Kaufbeleg muss hochladen werden.",
       "Der Kaufbeleg muss hochgeladen worden."
      ],
      "answer": 1,
@@ -1916,9 +1916,9 @@
      "type": "mcq",
      "q": "Chọn câu bị động với động từ khuyết thiếu ở quá khứ.",
      "options": [
-      "Das Gerät kann geprüft werden.",
-      "Das Gerät wurde geprüft.",
       "Das Gerät ist geprüft worden.",
+      "Das Gerät wurde geprüft.",
+      "Das Gerät kann geprüft werden.",
       "Das Gerät musste geprüft werden."
      ],
      "answer": 3,
@@ -1928,12 +1928,12 @@
      "type": "mcq",
      "q": "Chọn câu có mệnh đề với ob đúng trật tự.",
      "options": [
-      "Ich frage, ob der Artikel ausgetauscht werden kann.",
+      "Ich frage, ob der Artikel ausgetauscht kann werden.",
       "Ich frage, ob der Artikel kann ausgetauscht werden.",
       "Ich frage, ob kann der Artikel ausgetauscht werden.",
-      "Ich frage, ob der Artikel ausgetauscht kann werden."
+      "Ich frage, ob der Artikel ausgetauscht werden kann."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Trong mệnh đề phụ, {{kann}} đứng sau {{ausgetauscht werden}}."
     },
     {
@@ -1941,11 +1941,11 @@
      "q": "Welche Formulierung fragt nach einer Rückzahlung?",
      "options": [
       "Kann der Artikel geprüft werden?",
+      "Kann der Kaufbeleg hochgeladen werden?",
       "Kann eine Ersatzlieferung veranlasst werden?",
-      "Kann der Kaufpreis erstattet werden?",
-      "Kann der Kaufbeleg hochgeladen werden?"
+      "Kann der Kaufpreis erstattet werden?"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{den Kaufpreis erstatten}} nghĩa là hoàn tiền mua hàng."
     },
     {
@@ -1953,11 +1953,11 @@
      "q": "Câu nào cho biết hoàn tất việc gửi hàng thay thế?",
      "options": [
       "Die Ersatzlieferung muss verschickt werden.",
-      "Die Ersatzlieferung ist verschickt worden.",
       "Die Ersatzlieferung soll verschickt werden.",
-      "Die Ersatzlieferung kann verschickt werden."
+      "Die Ersatzlieferung kann verschickt werden.",
+      "Die Ersatzlieferung ist verschickt worden."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{ist verschickt worden}} báo việc gửi đã xảy ra."
     },
     {
@@ -1966,10 +1966,10 @@
      "options": [
       "Gewährleistung",
       "Kaufbeleg",
-      "Widerrufsfrist",
-      "Kulanz"
+      "Kulanz",
+      "Widerrufsfrist"
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Kulanz}} chỉ sự linh động hỗ trợ trên cơ sở tự nguyện."
     },
     {
@@ -2624,36 +2624,36 @@
      {
       "q": "Welche Wirkung haben künstliche Zeitlimits wie „Nur noch heute!“ auf Käufer?",
       "options": [
-       "Sie senken automatisch die Versandkosten.",
        "Sie erzeugen Stress und schalten oft rationale Überlegungen aus.",
+       "Sie senken automatisch die Versandkosten.",
        "Sie garantieren lebenslange Haltbarkeit."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Wie kann sich ein smarter Konsument vor Fehlkäufen schützen?",
       "options": [
        "Indem er stets das teuerste Produkt ohne Prüfung kauft.",
-       "Indem er Angebote vergleicht und unabhängige Testberichte liest.",
-       "Indem er überhaupt keine Rechnungen mehr bezahlt."
+       "Indem er überhaupt keine Rechnungen mehr bezahlt.",
+       "Indem er Angebote vergleicht und unabhängige Testberichte liest."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welches gesetzliche Recht steht Online-Käufern in der EU grundsätzlich zu?",
       "options": [
-       "Ein mindestens vierzehntägiges Widerrufsrecht ohne Angabe von Gründen.",
+       "Ein Anspruch auf tägliche Geschenke des Händlers.",
        "Kostenloses Behalten aller Waren ohne Bezahlung.",
-       "Ein Anspruch auf tägliche Geschenke des Händlers."
+       "Ein mindestens vierzehntägiges Widerrufsrecht ohne Angabe von Gründen."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was muss der Händler tun, wenn die gelieferte Ware Mängel aufweist?",
       "options": [
-       "Den Kunden sofort verklagen.",
+       "Den Preis für das Produkt nachträglich verdoppeln.",
        "Die Ware kostenfrei nachbessern oder ersetzen.",
-       "Den Preis für das Produkt nachträglich verdoppeln."
+       "Den Kunden sofort verklagen."
       ],
       "answer": 1
      }
@@ -2669,10 +2669,10 @@
      "type": "mcq",
      "q": "Wie lautet die korrekte Passivform im Perfekt für: „Der Kunde hat die Rechnung bezahlt“?",
      "options": [
-      "Die Rechnung ist bezahlt geworden.",
-      "Die Rechnung ist bezahlt worden.",
       "Die Rechnung wurde bezahlt worden.",
-      "Die Rechnung hat bezahlt werden."
+      "Die Rechnung ist bezahlt worden.",
+      "Die Rechnung hat bezahlt werden.",
+      "Die Rechnung ist bezahlt geworden."
      ],
      "answer": 1,
      "explain": "Cấu trúc Passiv Perfekt luôn dùng trợ động từ 'sein' kết hợp với Partizip II và 'worden': 'ist bezahlt worden'."
@@ -2681,46 +2681,46 @@
      "type": "mcq",
      "q": "Ergänzen Sie: Das defekte Smartphone ___ gestern vom Kundenservice repariert.",
      "options": [
-      "wurde",
-      "worden",
+      "wäre",
       "hat",
-      "wäre"
+      "wurde",
+      "worden"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Thời Präteritum của Passiv với chủ ngữ số ít 'das Smartphone' là 'wurde'."
     },
     {
      "type": "mcq",
      "q": "Welche Präposition bezeichnet den persönlichen Urheber einer Handlung im Passiv?",
      "options": [
-      "durch (+ Akk)",
       "von (+ Dat)",
+      "bei (+ Dat)",
       "mit (+ Dat)",
-      "bei (+ Dat)"
+      "durch (+ Akk)"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Tác nhân trực tiếp (người, doanh nghiệp, pháp nhân) trong câu bị động luôn đi với 'von + Dativ'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
      "options": [
-      "Die Reklamation muss innerhalb der Frist eingereicht werden.",
       "Die Reklamation muss innerhalb der Frist werden eingereicht.",
       "Die Reklamation muss innerhalb der Frist eingereicht worden.",
-      "Die Reklamation wird innerhalb der Frist eingereicht müssen."
+      "Die Reklamation wird innerhalb der Frist eingereicht müssen.",
+      "Die Reklamation muss innerhalb der Frist eingereicht werden."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Trong câu bị động có Modalverb, trợ động từ 'werden' ở dạng nguyên mẫu đứng ở vị trí cuối cùng của câu."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Der Rechnungsbetrag ___ bereits vom Konto abgebucht worden, als die Stornierung eintraf.",
      "options": [
-      "hatte",
-      "war",
       "wurde",
-      "ist"
+      "war",
+      "ist",
+      "hatte"
      ],
      "answer": 1,
      "explain": "Hành động đã bị trừ tiền xảy ra trước một hành động quá khứ khác ('eintraf'), dùng Plusquamperfekt Passiv: 'war ... abgebucht worden'."
@@ -2729,12 +2729,12 @@
      "type": "mcq",
      "q": "Was bedeutet das Substantiv „der Fehlkauf“?",
      "options": [
+      "Ein Diebstahl im Supermarkt",
       "Ein besonders günstiger Einkauf",
       "Der Kauf eines Gegenstandes, der sich als unbrauchbar oder unnötig erweist",
-      "Ein Diebstahl im Supermarkt",
       "Ein Rabattgutschein"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'Der Fehlkauf' là việc mua sắm sai lầm khi mua phải món đồ không dùng được hoặc hoàn toàn thừa thãi."
     },
     {
@@ -2742,23 +2742,23 @@
      "q": "Welches Verb kann KEIN Passiv bilden?",
      "options": [
       "liefern",
-      "besitzen",
+      "überweisen",
       "reparieren",
-      "überweisen"
+      "besitzen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Động từ chỉ trạng thái sở hữu 'besitzen' (có, sở hữu) là ngoại lệ không thể tạo được câu bị động."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Die Lieferverzögerung wurde ___ einen Fehler im Computersystem verursacht.",
      "options": [
+      "mit",
       "von",
       "durch",
-      "mit",
       "über"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Nguyên nhân gián tiếp, phương tiện trung gian ('ein Fehler') đi với giới từ 'durch + Akkusativ'."
     },
     {
@@ -2766,9 +2766,9 @@
      "q": "Was ist das Gegenteil von „kostspielig“?",
      "options": [
       "preiswert",
-      "mangelhaft",
       "überflüssig",
-      "schwierig"
+      "schwierig",
+      "mangelhaft"
      ],
      "answer": 0,
      "explain": "Trái nghĩa với 'kostspielig' (đắt đỏ, tốn kém) là 'preiswert' (phải chăng, hợp túi tiền)."
@@ -2778,11 +2778,11 @@
      "q": "Was bedeutet die Wendung „den Betrag überweisen“?",
      "options": [
       "Geld bar auf den Tisch legen",
-      "Geld per Banküberweisung auf ein anderes Konto transferieren",
+      "Geld leihen",
       "Geld verlieren",
-      "Geld leihen"
+      "Geld per Banküberweisung auf ein anderes Konto transferieren"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "'den Betrag überweisen' có nghĩa là chuyển khoản số tiền vào một tài khoản ngân hàng khác."
     },
     {

@@ -10,36 +10,36 @@
    "type": "mcq",
    "q": "Welche Reihenfolge der Angaben nach der TeKaMoLo-Regel ist KORREKT?",
    "options": [
-    "Ich fahre morgen mit dem Zug nach Berlin.",
     "Ich fahre nach Berlin morgen mit dem Zug.",
     "Ich fahre mit dem Zug nach Berlin morgen.",
+    "Ich fahre morgen mit dem Zug nach Berlin.",
     "Ich fahre nach Berlin mit dem Zug morgen."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Thứ tự TeKaMoLo: morgen (Te - thời gian) đứng trước mit dem Zug (Mo - thể cách), sau đó đến nach Berlin (Lo - nơi chốn)."
   },
   {
    "type": "mcq",
    "q": "Welche Stellung der Pronomen ist grammatisch RICHTIG? \"Er gibt ___.\"",
    "options": [
+    "dem Mann es",
     "es ihm",
-    "ihm es",
     "das Buch ihm",
-    "dem Mann es"
+    "ihm es"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Khi cả hai tân ngữ đều là đại từ nhân xưng, tân ngữ Akkusativ (es) bắt buộc phải đứng trước tân ngữ Dativ (ihm): 'es ihm'."
   },
   {
    "type": "mcq",
    "q": "Welche Satzstellung mit einem Nomen und einem Pronomen ist KORREKT?",
    "options": [
+    "Der Lehrer gibt das Buch ihm.",
     "Der Lehrer gibt es dem Schüler.",
     "Der Lehrer gibt dem Schüler es.",
-    "Der Lehrer gibt das Buch ihm.",
     "Der Lehrer gibt dem Schüler das Buch es."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Khi có một đại từ (es) và một danh từ (dem Schüler), đại từ luôn luôn đứng trước danh từ."
   },
   {
@@ -47,8 +47,8 @@
    "q": "Welcher Satz mit zwei Nomen-Objekten ist RICHTIG?",
    "options": [
     "Der Vater schenkt seinem Sohn ein Fahrrad.",
-    "Der Vater schenkt ein Fahrrad seinem Sohn.",
     "Der Vater schenkt es seinem Sohn ein Fahrrad.",
+    "Der Vater schenkt ein Fahrrad seinem Sohn.",
     "Der Vater schenkt seinem Sohn es."
    ],
    "answer": 0,
@@ -58,24 +58,24 @@
    "type": "mcq",
    "q": "Er ist gestern ___ nach Hause gefahren.",
    "options": [
+    "sehr schnell nach Hause gestern",
     "wegen des Sturms sehr schnell",
-    "sehr schnell wegen des Sturms",
     "nach Hause wegen des Sturms",
-    "sehr schnell nach Hause gestern"
+    "sehr schnell wegen des Sturms"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "TeKaMoLo: 'wegen des Sturms' (Ka - nguyên nhân) đứng trước 'sehr schnell' (Mo - thể cách)."
   },
   {
    "type": "mcq",
    "q": "Könntest du ___ bitte morgen mitbringen?",
    "options": [
-    "es mir",
     "mir es",
+    "den Stift mir",
     "das Buch mir",
-    "den Stift mir"
+    "es mir"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Hai đại từ: Akkusativ 'es' đứng trước Dativ 'mir': 'es mir'."
   },
   {

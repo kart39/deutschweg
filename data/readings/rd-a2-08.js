@@ -107,47 +107,47 @@
   {
    "q": "Wohin fuhr der Zug?",
    "options": [
-    "Nach Berlin",
     "Nach Salzburg",
+    "Nach Berlin",
     "Nach Wien"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Welches Musikinstrument hatte Fabian dabei?",
    "options": [
     "Eine Gitarre",
-    "Eine Geige",
-    "Ein Cello"
+    "Ein Cello",
+    "Eine Geige"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Warum reiste Fabian nach Salzburg?",
    "options": [
-    "Er besuchte seine Familie",
     "Er hatte eine Aufnahmeprüfung am Mozarteum",
+    "Er besuchte seine Familie",
     "Er machte Urlaub"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Worunter litt Fabian vor der Prüfung?",
    "options": [
-    "Unter Zahnschmerzen",
     "Unter starkem Lampenfieber",
-    "Unter Schlafmangel"
+    "Unter Schlafmangel",
+    "Unter Zahnschmerzen"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Welche Nachricht erhielt der Autor zwei Wochen später?",
    "options": [
+    "Fabian brauchte Geld",
     "Fabian hatte die Prüfung bestanden",
-    "Fabian hatte den Zug verpasst",
-    "Fabian brauchte Geld"
+    "Fabian hatte den Zug verpasst"
    ],
-   "answer": 0
+   "answer": 1
   }
  ]
 });

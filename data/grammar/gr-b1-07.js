@@ -10,72 +10,72 @@
    "type": "mcq",
    "q": "Welche Form ist grammatisch KORREKT? \"Wenn ich gestern Zeit gehabt ___, wäre ich zu deiner Feier gekommen.\"",
    "options": [
-    "hätte",
-    "hatte",
+    "würde haben",
     "habe",
-    "würde haben"
+    "hatte",
+    "hätte"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Câu điều kiện phi thực tế trong quá khứ với động từ 'haben' là 'gehabt hätte'."
   },
   {
    "type": "mcq",
    "q": "Wenn der Zug pünktlich gewesen wäre, ___ wir den Anschlussflug nicht verpasst.",
    "options": [
-    "hätten",
     "wären",
+    "hätten",
     "hatten",
     "würden haben"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'verpassen' là ngoại động từ đi với 'haben' -> ở vế chính dùng 'hätten wir ... verpasst'."
   },
   {
    "type": "mcq",
    "q": "Welcher irreale Wunschsatz drückt ein Bedauern KORREKT aus?",
    "options": [
-    "Hätte ich doch bloß besser aufgepasst!",
-    "Hätte ich doch bloß besser aufgepasst haben!",
+    "Hatte ich doch bloß besser aufgepasst!",
     "Würde ich doch bloß besser aufgepasst haben!",
-    "Hatte ich doch bloß besser aufgepasst!"
+    "Hätte ich doch bloß besser aufgepasst haben!",
+    "Hätte ich doch bloß besser aufgepasst!"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Câu ước muốn quá khứ đảo động từ lên đầu: 'Hätte ich doch bloß ... Partizip II!'."
   },
   {
    "type": "mcq",
    "q": "Du ___ mich gestern wirklich anrufen sollen!",
    "options": [
-    "hättest",
-    "wärst",
     "solltest",
-    "würdest"
+    "würdest",
+    "wärst",
+    "hättest"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Lời trách móc trong quá khứ với Modalverb (Ersatzinfinitiv): 'hättest ... anrufen sollen'."
   },
   {
    "type": "mcq",
    "q": "Wenn das Wetter gestern sonnig gewesen wäre, ___ wir ans Meer gefahren.",
    "options": [
-    "wären",
     "hätten",
     "waren",
+    "wären",
     "würden sein"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'fahren' là động từ chuyển động đi với 'sein', dạng quá khứ Konjunktiv II là 'wären wir ... gefahren'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist VOLLKOMMEN KORREKT gebildet?",
    "options": [
-    "Hätte ich das gewusst, wäre ich zu Hause geblieben.",
-    "Hätte ich das gewusst, würde ich zu Hause geblieben sein.",
     "Hatte ich das gewusst, war ich zu Hause geblieben.",
-    "Wenn ich das gewusst hätte, ich wäre zu Hause geblieben."
+    "Hätte ich das gewusst, wäre ich zu Hause geblieben.",
+    "Wenn ich das gewusst hätte, ich wäre zu Hause geblieben.",
+    "Hätte ich das gewusst, würde ich zu Hause geblieben sein."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Cấu trúc không có wenn đảo động từ: 'Hätte ich das gewusst, wäre ich zu Hause geblieben.'"
   },
   {

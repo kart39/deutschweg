@@ -436,16 +436,16 @@
       "q": "Wer muss sich bis Mittwoch anmelden?",
       "options": [
        "Alle Besucher.",
-       "Besucher, die Bücher abgeben wollen.",
-       "Nur Familien mit Kindern."
+       "Nur Familien mit Kindern.",
+       "Besucher, die Bücher abgeben wollen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wo findet die Lesung statt?",
       "options": [
-       "Am Haupteingang.",
        "Im Hof.",
+       "Am Haupteingang.",
        "Im kleinen Raum neben dem Lesesaal."
       ],
       "answer": 2
@@ -454,8 +454,8 @@
       "q": "Was können Besitzer nach dem Tausch mit übrigen Büchern tun?",
       "options": [
        "Sie können sie am Eingang wieder abholen.",
-       "Sie müssen sie schon am Mittwoch abholen.",
-       "Sie dürfen sie nur im Büro abgeben."
+       "Sie dürfen sie nur im Büro abgeben.",
+       "Sie müssen sie schon am Mittwoch abholen."
       ],
       "answer": 0
      }
@@ -477,12 +477,12 @@
      "type": "mcq",
      "q": "Hör dir die vorherige Ansage an. Bis wann kann man sich anmelden?",
      "options": [
-      "Bis Montag.",
       "Bis Dienstag.",
-      "Bis Mittwoch.",
-      "Bis Samstag."
+      "Bis Samstag.",
+      "Bis Montag.",
+      "Bis Mittwoch."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Đoạn nghe nêu hạn đăng ký là {{am Mittwoch}}. {{am Samstag}} là ngày nhận sách."
     },
     {
@@ -494,48 +494,48 @@
      "type": "mcq",
      "q": "Hör dir die vorherige Ansage an. Wo beginnt die Einführung um vier Uhr?",
      "options": [
-      "Im Lesesaal im ersten Stock.",
-      "Im Vorraum im Erdgeschoss.",
       "Am Haupteingang.",
-      "Im Hof."
+      "Im Hof.",
+      "Im Vorraum im Erdgeschoss.",
+      "Im Lesesaal im ersten Stock."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Địa điểm được phát là {{im Lesesaal im ersten Stock}}. Tầng trệt được nhắc vì sảnh vẫn đóng."
     },
     {
      "type": "mcq",
      "q": "Câu nào cho biết giờ mới đang có hiệu lực?",
      "options": [
-      "Ursprünglich war elf Uhr geplant.",
-      "Viele kamen beim letzten Mal um zehn.",
       "Früher öffnete die Tür um neun.",
-      "Der Einlass beginnt jetzt erst um zwölf."
+      "Der Einlass beginnt jetzt erst um zwölf.",
+      "Viele kamen beim letzten Mal um zehn.",
+      "Ursprünglich war elf Uhr geplant."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{jetzt erst}} báo giờ hiện tại là mười hai giờ."
     },
     {
      "type": "mcq",
      "q": "Chọn mệnh đề phụ đúng để nêu lý do.",
      "options": [
-      "weil am Eingang wird gearbeitet",
-      "weil am Eingang gearbeitet wird",
       "weil wird am Eingang gearbeitet",
-      "weil gearbeitet wird am Eingang"
+      "weil am Eingang wird gearbeitet",
+      "weil gearbeitet wird am Eingang",
+      "weil am Eingang gearbeitet wird"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Với {{weil}}, động từ đã chia {{wird}} đứng ở cuối mệnh đề trong mẫu này."
     },
     {
      "type": "mcq",
      "q": "Was hilft am besten, eine Antwort im Lesetext zu begründen?",
      "options": [
-      "Die Länge der Antworten.",
-      "Ein ähnliches Wort in der Frage.",
+      "Die Reihenfolge der Buchstaben.",
       "Eine passende Belegstelle.",
-      "Die Reihenfolge der Buchstaben."
+      "Die Länge der Antworten.",
+      "Ein ähnliches Wort in der Frage."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{eine passende Belegstelle}} làm bằng chứng trực tiếp cho đáp án."
     },
     {
@@ -543,9 +543,9 @@
      "q": "Chọn câu hệ quả có trật tự chuẩn sau deshalb.",
      "options": [
       "Deshalb findet der Tausch später statt.",
+      "Deshalb stattfindet der Tausch später.",
       "Deshalb der Tausch findet später statt.",
-      "Deshalb der Tausch später stattfindet.",
-      "Deshalb stattfindet der Tausch später."
+      "Deshalb der Tausch später stattfindet."
      ],
      "answer": 0,
      "explain": "Khi {{deshalb}} đứng đầu câu chính, động từ đã chia {{findet}} đứng ngay sau."
@@ -1138,11 +1138,11 @@
      {
       "q": "Warum wünscht sich Linh einen ruhigen Raum?",
       "options": [
-       "Ihre Lerngruppe möchte dort laut sprechen.",
        "Zu Hause findet sie vor Prüfungen oft keinen stillen Platz.",
-       "Die Bibliothek ist am Nachmittag geschlossen."
+       "Die Bibliothek ist am Nachmittag geschlossen.",
+       "Ihre Lerngruppe möchte dort laut sprechen."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Warum möchte Mias Gruppe den Dienstag behalten?",
@@ -1156,20 +1156,20 @@
      {
       "q": "Welchen ersten Termin schlägt David vor?",
       "options": [
-       "Freitag ab zwei Uhr.",
        "Dienstag am Vormittag.",
-       "Donnerstag ab zwei Uhr."
+       "Donnerstag ab zwei Uhr.",
+       "Freitag ab zwei Uhr."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was möchte Linh nach vier Wochen wissen?",
       "options": [
-       "Ob die Bibliothek neue Tische gekauft hat.",
        "Wie viele Personen das Angebot genutzt haben.",
+       "Ob die Bibliothek neue Tische gekauft hat.",
        "Wie viele Vorstellungsgespräche erfolgreich waren."
       ],
-      "answer": 1
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1184,12 +1184,12 @@
      "type": "mcq",
      "q": "Chọn câu mở đầu nêu quan điểm rõ ràng cho bài diễn đàn.",
      "options": [
-      "Im Anhang finden Sie meine Rechnung.",
       "Meiner Meinung nach braucht die Bibliothek ruhige Lernplätze.",
-      "Mit freundlichen Grüßen, Mai Nguyen.",
-      "Könnten Sie mir eine Buchungsbestätigung schicken?"
+      "Im Anhang finden Sie meine Rechnung.",
+      "Könnten Sie mir eine Buchungsbestätigung schicken?",
+      "Mit freundlichen Grüßen, Mai Nguyen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{Meiner Meinung nach}} báo cho người đọc rằng người viết đang nêu quan điểm."
     },
     {
@@ -1197,35 +1197,35 @@
      "q": "Chọn câu hỏi gián tiếp đúng để viết email.",
      "options": [
       "Könnten Sie sagen, ob ist der Raum frei?",
-      "Könnten Sie sagen, ob frei ist der Raum?",
+      "Könnten Sie sagen, ob der Raum frei ist?",
       "Könnten Sie sagen, ob der Raum ist frei?",
-      "Könnten Sie sagen, ob der Raum frei ist?"
+      "Könnten Sie sagen, ob frei ist der Raum?"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Trong câu hỏi gián tiếp với {{ob}}, động từ đã chia {{ist}} đứng cuối."
     },
     {
      "type": "mcq",
      "q": "Chọn cặp câu có trật tự đúng với trotzdem.",
      "options": [
-      "Der Raum ist klein. Trotzdem finden alle einen Platz.",
+      "Der Raum ist klein. Trotzdem einen Platz finden alle.",
       "Der Raum ist klein. Trotzdem alle finden einen Platz.",
-      "Der Raum ist klein. Trotzdem alle einen Platz finden.",
-      "Der Raum ist klein. Trotzdem einen Platz finden alle."
+      "Der Raum ist klein. Trotzdem finden alle einen Platz.",
+      "Der Raum ist klein. Trotzdem alle einen Platz finden."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Khi {{trotzdem}} đứng đầu câu chính, động từ {{finden}} đứng ngay sau."
     },
     {
      "type": "mcq",
      "q": "Câu nào đặt động từ đúng với obwohl?",
      "options": [
-      "Obwohl verstehe ich den Einwand, möchte ich etwas ausprobieren.",
-      "Obwohl ich verstehe den Einwand, möchte ich etwas ausprobieren.",
+      "Obwohl den Einwand verstehe ich, möchte ich etwas ausprobieren.",
       "Obwohl ich den Einwand verstehe, möchte ich etwas ausprobieren.",
-      "Obwohl den Einwand verstehe ich, möchte ich etwas ausprobieren."
+      "Obwohl ich verstehe den Einwand, möchte ich etwas ausprobieren.",
+      "Obwohl verstehe ich den Einwand, möchte ich etwas ausprobieren."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Dùng {{verstehe}} ở cuối mệnh đề phụ và {{möchte}} ngay sau dấu phẩy."
     },
     {
@@ -1233,11 +1233,11 @@
      "q": "Welche Zeile passt als Betreff zu einer Anfrage an die Bibliothek?",
      "options": [
       "Viele Grüße aus Bonn",
-      "Frage zu den Öffnungszeiten am Donnerstag",
+      "Freundliche Grüße, Linh Nguyen",
       "Hallo und bis morgen",
-      "Freundliche Grüße, Linh Nguyen"
+      "Frage zu den Öffnungszeiten am Donnerstag"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Dòng {{Frage zu den Öffnungszeiten am Donnerstag}} nói rõ nội dung email."
     },
     {
@@ -1245,11 +1245,11 @@
      "q": "Câu nào nêu lý do trực tiếp ủng hộ việc có chỗ học yên tĩnh?",
      "options": [
       "Die Bibliothek hat eine große Tür.",
-      "Ich habe am Mittwoch Sport.",
       "Der Stuhl ist aus Holz.",
-      "Zu Hause kann ich mich oft nicht konzentrieren."
+      "Zu Hause kann ich mich oft nicht konzentrieren.",
+      "Ich habe am Mittwoch Sport."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "Việc khó tập trung tại nhà giải thích nhu cầu có chỗ học yên tĩnh."
     },
     {
@@ -1849,20 +1849,20 @@
      {
       "q": "Was macht der Redner direkt nach der Einleitung?",
       "options": [
-       "Er berichtet von einem Spielenachmittag in der Bibliothek.",
+       "Er beantwortet Fragen aus dem Publikum.",
        "Er bittet um einen neuen Raum.",
-       "Er beantwortet Fragen aus dem Publikum."
+       "Er berichtet von einem Spielenachmittag in der Bibliothek."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Warum konnten beim ersten Spiel alle schnell mitmachen?",
       "options": [
+       "Die Regeln wurden einfach erklärt.",
        "Sie kannten sich schon lange.",
-       "Jeder brachte ein eigenes Spiel mit.",
-       "Die Regeln wurden einfach erklärt."
+       "Jeder brachte ein eigenes Spiel mit."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Was war ein Problem beim ersten Treffen?",
@@ -1876,11 +1876,11 @@
      {
       "q": "Warum möchte der Redner beim nächsten Mal nur zwei Spiele vorbereiten?",
       "options": [
-       "Damit genug Zeit bleibt, die Regeln zu erklären.",
        "Damit alle ein Spiel mit nach Hause nehmen können.",
-       "Damit die Bibliothek früher schließen kann."
+       "Damit die Bibliothek früher schließen kann.",
+       "Damit genug Zeit bleibt, die Regeln zu erklären."
       ],
-      "answer": 0
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1895,24 +1895,24 @@
      "type": "mcq",
      "q": "Chọn cách đưa ra một đề xuất để bạn nói có thể phản hồi.",
      "options": [
+      "Am Samstag hat die Bibliothek geöffnet.",
       "Samstag ist beschlossen. Du kommst.",
       "Wir könnten uns am Samstag treffen. Was hältst du davon?",
-      "Ich habe deinen Namen auf die Liste geschrieben.",
-      "Am Samstag hat die Bibliothek geöffnet."
+      "Ich habe deinen Namen auf die Liste geschrieben."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Wir könnten …}} đưa phương án, còn {{Was hältst du davon?}} mời bạn góp ý."
     },
     {
      "type": "mcq",
      "q": "Câu nào chốt cả thời gian lẫn địa điểm?",
      "options": [
-      "Das können wir später klären.",
       "Vielleicht bringe ich ein Spiel mit.",
       "Können wir den Raum irgendwann wechseln?",
-      "Dann halten wir fest: Samstag um drei im kleinen Raum."
+      "Dann halten wir fest: Samstag um drei im kleinen Raum.",
+      "Das können wir später klären."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Dann halten wir fest}} báo phần chốt. Câu ghi cả giờ và phòng."
     },
     {
@@ -1920,9 +1920,9 @@
      "q": "Chọn câu dùng um … zu đúng trật tự.",
      "options": [
       "Wir rücken die Tische zusammen, um mehr Platz zu schaffen.",
-      "Wir rücken die Tische zusammen, um mehr Platz schaffen zu.",
+      "Wir rücken die Tische zusammen, um schaffen zu mehr Platz.",
       "Wir rücken die Tische zusammen, um wir mehr Platz schaffen.",
-      "Wir rücken die Tische zusammen, um schaffen zu mehr Platz."
+      "Wir rücken die Tische zusammen, um mehr Platz schaffen zu."
      ],
      "answer": 0,
      "explain": "Trong cụm {{um … zu}}, đặt {{zu}} cùng động từ nguyên mẫu {{schaffen}} ở cuối."
@@ -1931,12 +1931,12 @@
      "type": "mcq",
      "q": "Chọn câu giải thích mục đích đăng lịch để mọi người biết giờ.",
      "options": [
-      "Ich hänge den Plan aus, obwohl alle die Uhrzeit kennen.",
-      "Ich hänge den Plan aus, bevor alle die Uhrzeit kennen.",
+      "Ich hänge den Plan aus, weil alle die Uhrzeit kennen.",
       "Ich hänge den Plan aus, damit alle die Uhrzeit kennen.",
-      "Ich hänge den Plan aus, weil alle die Uhrzeit kennen."
+      "Ich hänge den Plan aus, bevor alle die Uhrzeit kennen.",
+      "Ich hänge den Plan aus, obwohl alle die Uhrzeit kennen."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{damit}} nêu mục đích là để mọi người biết giờ."
     },
     {
@@ -1945,8 +1945,8 @@
      "options": [
       "Warte bitte kurz vor dem Eingang.",
       "Zum Schluss möchte ich meinen Vorschlag zusammenfassen.",
-      "Entschuldigung, wo ist der Ausgang?",
-      "Wer hat das Spiel mitgebracht?"
+      "Wer hat das Spiel mitgebracht?",
+      "Entschuldigung, wo ist der Ausgang?"
      ],
      "answer": 1,
      "explain": "{{Zum Schluss}} giúp người nghe nhận ra phần kết luận sắp bắt đầu."
@@ -1955,8 +1955,8 @@
      "type": "mcq",
      "q": "Chọn câu xin người nghe nhắc lại câu hỏi.",
      "options": [
-      "Das passt für mich.",
       "Die Frage steht im letzten Absatz.",
+      "Das passt für mich.",
       "Ich übernehme den Aufbau.",
       "Könntest du die Frage bitte wiederholen?"
      ],
@@ -2571,56 +2571,56 @@
      {
       "question": "Was benötigt man laut Text neben einem breiten Wortschatz vor allem für den B1-Erfolg?",
       "options": [
-       "Eine methodisch durchdachte Herangehensweise an alle vier Module",
        "Ein mehrjähriges Studium der Germanistik an einer Universität",
-       "Ausschließliches Lernen von Grammatikregeln ohne Sprechpraxis",
-       "Das Auswendiglernen von fertigen Musteraufsätzen aus dem Internet"
+       "Das Auswendiglernen von fertigen Musteraufsätzen aus dem Internet",
+       "Eine methodisch durchdachte Herangehensweise an alle vier Module",
+       "Ausschließliches Lernen von Grammatikregeln ohne Sprechpraxis"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Đoạn 1 nêu rõ: 'benötigt neben einem breiten Wortschatzumfang vor allem eine methodisch durchdachte Herangehensweise an alle vier Prüfungsmodule'."
      },
      {
       "question": "Was sollten Prüflinge beim Leseverstehen zuerst tun?",
       "options": [
-       "Den Text zügig überfliegen, um die Hauptaussage zu erfassen",
+       "Den gesamten Text Wort für Wort laut vorlesen",
        "Jedes einzelne unbekannte Wort sofort im Wörterbuch nachschlagen",
-       "Direkt die letzte Frage ankreuzen und raten",
-       "Den gesamten Text Wort für Wort laut vorlesen"
+       "Den Text zügig überfliegen, um die Hauptaussage zu erfassen",
+       "Direkt die letzte Frage ankreuzen und raten"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Đoạn 2 hướng dẫn: 'sollten Prüflinge den Text zunächst zügig überfliegen, um die globale Hauptaussage zu erfassen'."
      },
      {
       "question": "Warum steht die richtige Antwort beim Lesen selten wortgleich im Text?",
       "options": [
-       "Weil die Prüfer geschickte Paraphrasen verwenden",
        "Weil der Prüfungstext grundsätzlich fehlerhaft gedruckt wird",
-       "Weil die Aufgaben absichtlich falsche Vokabeln enthalten",
-       "Weil das B1-Zertifikat keine Textfragen vorsieht"
+       "Weil die Prüfer geschickte Paraphrasen verwenden",
+       "Weil das B1-Zertifikat keine Textfragen vorsieht",
+       "Weil die Aufgaben absichtlich falsche Vokabeln enthalten"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Đoạn 2 giải thích: 'Häufig verwenden die Prüfer geschickte Paraphrasen, sodass die richtige Antwort selten wortgleich im Text steht'."
      },
      {
       "question": "Welche formale Anforderung ist beim Modul Schreiben zwingend zu erfüllen?",
       "options": [
+       "Es müssen mindestens zehn Zitate von Philosophen vorkommen",
        "Sämtliche vorgegebenen Leitpunkte müssen behandelt werden",
-       "Man darf ausschließlich einfache Hauptsätze verwenden",
        "Der Text muss genau fünfhundert Wörter umfassen",
-       "Es müssen mindestens zehn Zitate von Philosophen vorkommen"
+       "Man darf ausschließlich einfache Hauptsätze verwenden"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Đoạn 3 khẳng định: 'müssen sämtliche vorgegebenen Leitpunkte zwingend behandelt werden'."
      },
      {
       "question": "Worauf achten die Prüfenden beim gemeinsamen Planungsgespräch in Teil 1 besonders?",
       "options": [
+       "Auf das Auswendiglernen eines langen Vortrags ohne Partner",
        "Auf aktives Zuhören, spontanes Eingehen und gemeinsame Kompromisse",
-       "Darauf, dass ein Teilnehmer das gesamte Gespräch dominiert",
        "Ausschließlich auf eine extrem schnelle Sprechgeschwindigkeit",
-       "Auf das Auswendiglernen eines langen Vortrags ohne Partner"
+       "Darauf, dass ein Teilnehmer das gesamte Gespräch dominiert"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Đoạn 4 nêu: 'honorieren die Prüfenden aktives Zuhören, spontanes Eingehen auf gegenteilige Vorschläge und die Fähigkeit, gemeinsam tragfähige Kompromisse zu erzielen'."
      }
     ]
@@ -2634,24 +2634,24 @@
      "type": "mcq",
      "q": "Wie viele Punkte muss ein Kandidat mindestens erreichen, um ein B1-Modul erfolgreich zu bestehen?",
      "options": [
-      "60 Punkte (60%)",
-      "50 Punkte (50%)",
       "75 Punkte (75%)",
+      "50 Punkte (50%)",
+      "60 Punkte (60%)",
       "80 Punkte (80%)"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Ngưỡng điểm đỗ (Bestehensgrenze) cho mỗi kỹ năng trong kỳ thi Goethe B1 là 60% (60/100 điểm)."
     },
     {
      "type": "mcq",
      "q": "Welche Redemittel eignet sich am besten, um im Planungsgespräch (Sprechen T1) höflich zu widersprechen?",
      "options": [
-      "Das ist ein interessanter Vorschlag, aber könnten wir nicht auch...",
       "Du hast völlig unrecht und dein Plan ist schlecht.",
       "Ich will das auf keinen Fall machen, mach du das alleine.",
-      "Wir machen das jetzt so, wie ich es gesagt habe."
+      "Wir machen das jetzt so, wie ich es gesagt habe.",
+      "Das ist ein interessanter Vorschlag, aber könnten wir nicht auch..."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Das ist ein interessanter Vorschlag, aber...' là mẫu câu phản bác lịch sự và mang tính xây dựng cao."
     },
     {
@@ -2659,9 +2659,9 @@
      "q": "Was passiert bei der Bewertung des Prüfungsteils Schreiben, wenn ein Leitpunkt völlig fehlt?",
      "options": [
       "Es gibt einen empfindlichen Punktabzug bei der Aufgabenerfüllung.",
-      "Die gesamte Prüfung wird sofort mit null Punkten bewertet.",
       "Der Prüfling muss den Aufsatz sofort mündlich wiederholen.",
-      "Es hat keinerlei Einfluss auf die erreichte Note."
+      "Es hat keinerlei Einfluss auf die erreichte Note.",
+      "Die gesamte Prüfung wird sofort mit null Punkten bewertet."
      ],
      "answer": 0,
      "explain": "Bỏ sót Leitpunkt sẽ bị trừ nặng điểm ở tiêu chí Hoàn thành yêu cầu đề bài (Aufgabenerfüllung)."
@@ -2670,84 +2670,84 @@
      "type": "mcq",
      "q": "Welche Konjunktion verbindet zwei Sätze mit unterschiedlichen Subjekten für einen Zweck (mục đích)?",
      "options": [
-      "damit",
       "um... zu",
+      "indem",
       "obwohl",
-      "indem"
+      "damit"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Khi hai mệnh đề khác chủ ngữ, để chỉ mục đích bắt buộc dùng liên từ 'damit'."
     },
     {
      "type": "mcq",
      "q": "Welche Form von Konjunktiv II drückt eine höfliche Bitte an die Prüferin aus?",
      "options": [
-      "Könnten Sie die Frage bitte noch einmal wiederholen?",
       "Wiederholen Sie die Frage sofort!",
       "Sie müssen die Frage wiederholen.",
-      "Wiederholst du die Frage bitte?"
+      "Wiederholst du die Frage bitte?",
+      "Könnten Sie die Frage bitte noch einmal wiederholen?"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Könnten Sie bitte... wiederholen?' là cấu trúc Konjunktiv II lịch thiệp và chuẩn mực nhất khi đi thi."
     },
     {
      "type": "mcq",
      "q": "Welcher Konnektor drückt eine gegensätzliche Einschränkung aus (tuy... nhưng)?",
      "options": [
-      "zwar ... aber",
-      "sowohl ... als auch",
       "entweder ... oder",
-      "nicht nur ... sondern auch"
+      "zwar ... aber",
+      "nicht nur ... sondern auch",
+      "sowohl ... als auch"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'zwar ... aber' diễn tả sự thừa nhận một vế nhưng khẳng định vế tương phản đối lập."
     },
     {
      "type": "mcq",
      "q": "Was ist die wichtigste Strategie beim ersten Lesen eines Leseverstehen-Textes?",
      "options": [
-      "Den Text zügig überfliegen, um das Hauptthema zu erfassen.",
-      "Jedes unbekannte Wort sofort im Wörterbuch nachschlagen.",
       "Alle Sätze Wort für Wort ins Vietnamesische übersetzen.",
-      "Sofort mit dem Beantworten der Detailfragen beginnen."
+      "Jedes unbekannte Wort sofort im Wörterbuch nachschlagen.",
+      "Sofort mit dem Beantworten der Detailfragen beginnen.",
+      "Den Text zügig überfliegen, um das Hauptthema zu erfassen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Kỹ thuật 'überfliegen' (skimming) giúp nắm bắt ý chính toàn cục trước khi đi vào chi tiết."
     },
     {
      "type": "mcq",
      "q": "Welche Anrede ist für eine formelle Entschuldigung (Schreiben Teil 3) angemessen?",
      "options": [
-      "Sehr geehrte Frau Müller,",
-      "Liebe Frau Müller,",
       "Hallo Frau Müller,",
-      "Guten Morgen Müller,"
+      "Sehr geehrte Frau Müller,",
+      "Guten Morgen Müller,",
+      "Liebe Frau Müller,"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Thư trang trọng (formell) gửi cơ quan, giáo viên hay đối tác luôn mở đầu bằng 'Sehr geehrte(r)...'."
     },
     {
      "type": "mcq",
      "q": "Welches Nomen bezeichnet die logische und inhaltliche Verknüpfung von Sätzen in einem Text?",
      "options": [
-      "die Kohärenz",
       "die Stornierung",
       "die Durchsage",
+      "die Kohärenz",
       "die Reklamation"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'die Kohärenz' là tính mạch lạc và liên kết logic của văn bản."
     },
     {
      "type": "mcq",
      "q": "Mit welcher Formulierung leitet man den Schluss einer Präsentation (Sprechen T2) ein?",
      "options": [
-      "Zusammenfassend möchte ich festhalten, dass...",
+      "Ich habe jetzt keine Lust mehr weiterzusprechen.",
       "Zuerst spreche ich über meine persönlichen Erfahrungen.",
       "Nun komme ich zum ersten Punkt meiner Gliederung.",
-      "Ich habe jetzt keine Lust mehr weiterzusprechen."
+      "Zusammenfassend möchte ich festhalten, dass..."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Zusammenfassend möchte ich festhalten, dass...' là mẫu câu kết luận (Fazit) xuất sắc cho bài thuyết trình."
     },
     {

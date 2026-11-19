@@ -13,72 +13,72 @@
    "type": "mcq",
    "q": "Was bedeutet die Redewendung 'Nägel mit Köpfen machen'?",
    "options": [
+    "Lange und zögernd verhandeln",
     "Eine Sache entschieden und gründlich zu Ende bringen",
-    "Ein Haus renovieren",
     "Einen handwerklichen Beruf erlernen",
-    "Lange und zögernd verhandeln"
+    "Ein Haus renovieren"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'Nägel mit Köpfen machen' nghĩa là hành động dứt khoát, làm cho xong việc, không chần chừ."
   },
   {
    "type": "mcq",
    "q": "Welche Redewendung bedeutet 'genau das Richtige sagen / den Kern treffen'?",
    "options": [
-    "den Nagel auf den Kopf treffen",
+    "auf Granit beißen",
     "ins Fettnäpfchen treten",
     "die Flinte ins Korn werfen",
-    "auf Granit beißen"
+    "den Nagel auf den Kopf treffen"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'den Nagel auf den Kopf treffen' nghĩa là nói trúng tim đen, nhận xét chuẩn xác 100%."
   },
   {
    "type": "mcq",
    "q": "Was drückt 'die Flinte ins Korn werfen' aus?",
    "options": [
+    "Einen Streit schlichten",
     "Den Mut verlieren und aufgeben",
     "Einen Krieg beginnen",
-    "Die Ernte einbringen",
-    "Einen Streit schlichten"
+    "Die Ernte einbringen"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'die Flinte ins Korn werfen' nghĩa là nản lòng, buông xuôi, bỏ cuộc."
   },
   {
    "type": "mcq",
    "q": "Wenn jemand 'ins Fettnäpfchen tritt', was ist ihm passiert?",
    "options": [
+    "Er hat köstlich gegessen.",
     "Er hat aus Versehen etwas Unpassendes oder Taktloses gesagt.",
     "Er hat viel Geld gewonnen.",
-    "Er hat einen schweren Unfall erlitten.",
-    "Er hat köstlich gegessen."
+    "Er hat einen schweren Unfall erlitten."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'ins Fettnäpfchen treten' nghĩa là lỡ lời phạm phải điều vô duyên, hớ hênh làm phật lòng người khác."
   },
   {
    "type": "mcq",
    "q": "Was bedeutet 'Farbe bekennen'?",
    "options": [
+    "Ein buntes Kleidungsstück anziehen",
     "Seine wahre Meinung oder Absicht offenlegen",
     "Ein Bild malen",
-    "Ein buntes Kleidungsstück anziehen",
     "Vor Gericht lügen"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'Farbe bekennen' nghĩa là công khai bày tỏ rõ ràng lập trường, quan điểm của mình."
   },
   {
    "type": "mcq",
    "q": "Welche Wendung bedeutet 'in einer ausweglosen Situation sein'?",
    "options": [
-    "mit dem Rücken zur Wand stehen",
-    "zwei Fliegen mit einer Klappe schlagen",
     "die Kirche im Dorf lassen",
-    "reinen Tisch machen"
+    "reinen Tisch machen",
+    "mit dem Rücken zur Wand stehen",
+    "zwei Fliegen mit einer Klappe schlagen"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'mit dem Rücken zur Wand stehen' nghĩa là đứng ở bước đường cùng, không còn đường lùi."
   },
   {

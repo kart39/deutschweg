@@ -13,12 +13,12 @@
    "type": "mcq",
    "q": "Welcher Satz ist die korrekte Umformung ohne 'wenn': 'Wenn Sie Hilfe brauchen, rufen Sie mich an.'?",
    "options": [
-    "Brauchen Sie Hilfe, so rufen Sie mich an.",
-    "Wenn brauchen Sie Hilfe, rufen Sie mich an.",
+    "Brauchen Hilfe Sie, rufen Sie mich an.",
     "Sie brauchen Hilfe, rufen Sie mich an.",
-    "Brauchen Hilfe Sie, rufen Sie mich an."
+    "Wenn brauchen Sie Hilfe, rufen Sie mich an.",
+    "Brauchen Sie Hilfe, so rufen Sie mich an."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Bỏ 'wenn', đưa động từ chia 'Brauchen' lên vị trí 1: Brauchen Sie Hilfe, so rufen Sie mich an."
   },
   {
@@ -26,9 +26,9 @@
    "q": "Welche Subjunktion passt für eine geringe Wahrscheinlichkeit ('lỡ như, ngộ nhỡ')?",
    "options": [
     "falls",
-    "weil",
+    "damit",
     "obwohl",
-    "damit"
+    "weil"
    ],
    "answer": 0,
    "explain": "'falls' nhấn mạnh khả năng xảy ra thấp, tình cờ ('lỡ như')."
@@ -39,8 +39,8 @@
    "options": [
     "außer wenn (trừ phi)",
     "weil (bởi vì)",
-    "obwohl (mặc dù)",
-    "damit (để mà)"
+    "damit (để mà)",
+    "obwohl (mặc dù)"
    ],
    "answer": 0,
    "explain": "'es sei denn' tương đương với 'außer wenn' (trừ phi, ngoại trừ khi)."
@@ -49,36 +49,36 @@
    "type": "mcq",
    "q": "Ergänzen Sie: '___ Sie Fragen haben sollten, wenden Sie sich an die Information.'",
    "options": [
-    "Sollten",
+    "Wären",
     "Wenn sollten",
-    "Hätten",
-    "Wären"
+    "Sollten",
+    "Hätten"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Cấu trúc đảo ngữ điều kiện: 'Sollten Sie Fragen haben...' (Verb auf Pos. 1)."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz drückt eine Bedingung mit Einschränkung aus ('miễn là')?",
    "options": [
-    "Sofern die Ware vorrätig ist, liefern wir sofort.",
-    "Obwohl die Ware vorrätig ist, liefern wir nicht.",
     "Weil die Ware vorrätig ist, freuen wir uns.",
-    "Während die Ware geliefert wird, warten wir."
+    "Sofern die Ware vorrätig ist, liefern wir sofort.",
+    "Während die Ware geliefert wird, warten wir.",
+    "Obwohl die Ware vorrätig ist, liefern wir nicht."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'sofern' mang nghĩa 'miễn là, chừng nào mà'."
   },
   {
    "type": "mcq",
    "q": "Hätte der Fahrer rechtzeitig gebremst, ___ der Unfall nicht passiert.",
    "options": [
-    "wäre",
+    "sei",
     "hätte",
     "würde",
-    "sei"
+    "wäre"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'passieren' là nội động từ chuyển trạng thái, đi với trợ động từ sein ở Konjunktiv II Plusquamperfekt: wäre passiert."
   },
   {

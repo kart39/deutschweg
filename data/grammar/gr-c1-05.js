@@ -15,8 +15,8 @@
    "options": [
     "die Dokumente, die eingereicht werden müssen",
     "die Dokumente, die eingereicht haben",
-    "die Dokumente, die einreichen",
-    "die Dokumente, die eingereicht worden sind"
+    "die Dokumente, die eingereicht worden sind",
+    "die Dokumente, die einreichen"
    ],
    "answer": 0,
    "explain": "Gerundivum trong ngữ cảnh hành chính diễn tả nghĩa bị động bắt buộc: die eingereicht werden müssen."
@@ -25,60 +25,60 @@
    "type": "mcq",
    "q": "Welche Bedeutung hat das Gerundivum im Satz: 'Das ist ein kaum zu lösendes Problem.'?",
    "options": [
+    "Niemand will das Problem lösen (Wille).",
     "Das Problem kann kaum gelöst werden (Möglichkeit).",
     "Das Problem muss sofort gelöst werden (Pflicht).",
-    "Niemand will das Problem lösen (Wille).",
     "Das Problem wurde bereits gelöst (Vergangenheit)."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Đi kèm với 'kaum', Gerundivum diễn tả khả năng (Möglichkeit): kann kaum gelöst werden."
   },
   {
    "type": "mcq",
    "q": "Welches Verb kann KEIN Gerundivum bilden?",
    "options": [
-    "schlafen",
+    "beachten",
     "reparieren",
     "untersuchen",
-    "beachten"
+    "schlafen"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'schlafen' là nội động từ (không có tân ngữ Akkusativ) nên không thể tạo cấu trúc bị động Gerundivum."
   },
   {
    "type": "mcq",
    "q": "Wie lautet das korrekte Gerundivum des trennbaren Verbs 'ausfüllen' für: 'das Formular' (Nominativ)?",
    "options": [
+    "das ausgefüllte zu Formular",
     "das auszufüllende Formular",
     "das zu ausfüllende Formular",
-    "das ausfüllende Formular",
-    "das ausgefüllte zu Formular"
+    "das ausfüllende Formular"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Với động từ tách, 'zu' kẹp vào giữa tiền tố và thân từ: aus-zu-füllen-d- + e (Neutrum Nom)."
   },
   {
    "type": "mcq",
    "q": "Was unterscheidet 'das lesende Kind' von 'das zu lesende Buch'?",
    "options": [
-    "'das lesende Kind' ist aktiv (Kind liest), 'das zu lesende Buch' ist passivisch (Buch muss gelesen werden).",
-    "Beide Ausdrücke sind vollkommen bedeutungsgleich.",
     "'das lesende Kind' ist passiv, 'das zu lesende Buch' ist aktiv.",
-    "Das Gerundivum drückt eine Vergangenheit aus."
+    "Beide Ausdrücke sind vollkommen bedeutungsgleich.",
+    "Das Gerundivum drückt eine Vergangenheit aus.",
+    "'das lesende Kind' ist aktiv (Kind liest), 'das zu lesende Buch' ist passivisch (Buch muss gelesen werden)."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Partizip I không có zu mang nghĩa chủ động; Gerundivum có zu mang nghĩa bị động khuyết thiếu."
   },
   {
    "type": "mcq",
    "q": "Ergänzen Sie die Endung: 'Die vom Arzt verordneten, täglich einzunehmend___ Tabletten halfen schnell.'",
    "options": [
-    "en",
-    "e",
     "er",
-    "es"
+    "es",
+    "e",
+    "en"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Nominativ Plural đi với quán từ xác định 'Die' có đuôi tính từ là '-en': die einzunehmenden Tabletten."
   },
   {

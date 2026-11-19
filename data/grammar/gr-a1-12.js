@@ -25,10 +25,10 @@
    "type": "mcq",
    "q": "Welche Präposition passt? 'Der Unterricht beginnt ___ 8:30 Uhr.'",
    "options": [
-    "am",
+    "an",
     "um",
-    "im",
-    "an"
+    "am",
+    "im"
    ],
    "answer": 1,
    "explain": "Chỉ giờ giấc cụ thể trên đồng hồ luôn dùng giới từ 'um': 'um 8:30 Uhr'."
@@ -37,24 +37,24 @@
    "type": "mcq",
    "q": "Welche Präposition passt? '___ Samstag schlafe ich gerne lange aus.'",
    "options": [
+    "In",
     "Am",
-    "Um",
     "Im",
-    "In"
+    "Um"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Chỉ ngày trong tuần luôn dùng giới từ 'am': 'am Samstag'."
   },
   {
    "type": "mcq",
    "q": "Welche Präposition passt? '___ Juli und August ist es in Deutschland warm.'",
    "options": [
-    "Am",
     "Um",
-    "Im",
-    "Von"
+    "Von",
+    "Am",
+    "Im"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "Chỉ tháng trong năm luôn dùng giới từ 'im': 'im Juli'."
   },
   {
@@ -62,21 +62,21 @@
    "q": "Welcher Ausdruck ist grammatisch völlig korrekt?",
    "options": [
     "In 2024 fliege ich nach Berlin.",
+    "Um 2024 fliege ich nach Berlin.",
     "Im Jahr 2024 fliege ich nach Berlin.",
-    "Am Jahr 2024 fliege ich nach Berlin.",
-    "Um 2024 fliege ich nach Berlin."
+    "Am Jahr 2024 fliege ich nach Berlin."
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Trước năm ta nói trực tiếp số năm hoặc dùng 'Im Jahr 2024'."
   },
   {
    "type": "mcq",
    "q": "Welche Präposition passt für die Tageszeit 'Nacht'?",
    "options": [
+    "um der Nacht",
     "am Nacht",
-    "im Nacht",
     "in der Nacht",
-    "um der Nacht"
+    "im Nacht"
    ],
    "answer": 2,
    "explain": "Ban đêm là ngoại lệ duy nhất trong các buổi trong ngày, dùng 'in der Nacht'."

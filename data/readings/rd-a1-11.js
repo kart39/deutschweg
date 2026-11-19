@@ -108,18 +108,18 @@
   {
    "q": "An wen schreibt David diese Postkarte?",
    "options": [
-    "An seine Mutter",
     "An seine Oma",
-    "An seine Schwester"
+    "An seine Schwester",
+    "An seine Mutter"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "In welcher Stadt verbringt David seinen Urlaub?",
    "options": [
-    "In Berlin",
+    "In Salzburg",
     "In Wien",
-    "In Salzburg"
+    "In Berlin"
    ],
    "answer": 1
   },
@@ -135,11 +135,11 @@
   {
    "q": "Was hat David im Kaffeehaus gegessen?",
    "options": [
+    "Einen Apfel",
     "Eine Pizza",
-    "Ein Stück Sachertorte mit Schlagobers",
-    "Einen Apfel"
+    "Ein Stück Sachertorte mit Schlagobers"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Wann kehrt David nach Hause zurück?",

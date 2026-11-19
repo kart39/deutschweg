@@ -400,56 +400,56 @@
      {
       "q": "Welchen häufigen Zweifel beschreibt der Text im ersten Abschnitt?",
       "options": [
-       "Dass individuelles Handeln wenig nützt, solange große Konzerne viel ausstoßen.",
+       "Dass Gletscher überhaupt nicht schmelzen.",
        "Dass Mülltrennung zu teuer für Haushalte ist.",
        "Dass niemand mehr Bahn fahren möchte.",
-       "Dass Gletscher überhaupt nicht schmelzen."
+       "Dass individuelles Handeln wenig nützt, solange große Konzerne viel ausstoßen."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 1 nêu nghi ngờ phổ biến về tác dụng của hành động cá nhân trước lượng thải của tập đoàn lớn."
      },
      {
       "q": "In welchen drei Konsumbereichen entsteht laut Abschnitt 2 ein großer Teil privater Emissionen?",
       "options": [
-       "Kleidung, Bücher und Internet.",
-       "Mobilität, Wohnen und Ernährung.",
+       "Telefon, Bildung und Gesundheit.",
        "Sport, Musik und Kino.",
-       "Telefon, Bildung und Gesundheit."
+       "Mobilität, Wohnen und Ernährung.",
+       "Kleidung, Bücher und Internet."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 2 liệt kê 3 lĩnh vực: đi lại (Mobilität), nhà ở (Wohnen) và ăn uống (Ernährung)."
      },
      {
       "q": "Wie wirkt privates Verhalten über den eigenen Haushalt hinaus?",
       "options": [
-       "Es zwingt Nachbarn gesetzlich zum Umzug.",
-       "Durch veränderte Nachfrage passen Firmen ihr Angebot an und es entsteht eine neue soziale Norm.",
+       "Es senkt sofort die Preise für Flugtickets.",
        "Es ersetzt alle Regierungen.",
-       "Es senkt sofort die Preise für Flugtickets."
+       "Es zwingt Nachbarn gesetzlich zum Umzug.",
+       "Durch veränderte Nachfrage passen Firmen ihr Angebot an und es entsteht eine neue soziale Norm."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 giải thích tác động lên nguồn cung doanh nghiệp và chuẩn mực xã hội xung quanh."
      },
      {
       "q": "Warum reicht individuelles Handeln laut Abschnitt 4 allein nicht aus?",
       "options": [
-       "Weil Einzelne weder das Stromnetz umbauen noch Bahnverbindungen schaffen können.",
        "Weil Ökostrom nicht funktioniert.",
+       "Weil Wärmedämmung verboten ist.",
        "Weil niemand saisonales Gemüse mag.",
-       "Weil Wärmedämmung verboten ist."
+       "Weil Einzelne weder das Stromnetz umbauen noch Bahnverbindungen schaffen können."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 4 nhấn mạnh cá nhân không thể tự xây hạ tầng lưới điện hay đường sắt mà cần chính sách nhà nước."
      },
      {
       "q": "Welche Schlussfolgerung zieht der letzte Abschnitt?",
       "options": [
        "Man muss sofort perfekt leben.",
+       "Kleine Schritte haben keinerlei Bedeutung.",
        "Persönliche Gewohnheiten und politische Rahmenbedingungen verstärken sich gegenseitig.",
-       "Nur die Wirtschaft trägt Verantwortung.",
-       "Kleine Schritte haben keinerlei Bedeutung."
+       "Nur die Wirtschaft trägt Verantwortung."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn cuối khẳng định thói quen cá nhân và định hướng chính trị bổ trợ lẫn nhau."
      }
     ],
@@ -466,96 +466,96 @@
      "type": "mcq",
      "q": "Welcher Satz verwendet „sofern“ grammatikalisch korrekt?",
      "options": [
-      "Wir erreichen die Klimaziele, sofern alle Staaten konsequent mitarbeiten.",
-      "Wir erreichen die Klimaziele, sofern arbeiten alle Staaten konsequent mit.",
       "Wir erreichen die Klimaziele, sofern alle Staaten mitarbeiten konsequent.",
+      "Wir erreichen die Klimaziele, sofern arbeiten alle Staaten konsequent mit.",
+      "Wir erreichen die Klimaziele, sofern alle Staaten konsequent mitarbeiten.",
       "Sofern alle Staaten mitarbeiten, wir erreichen die Klimaziele."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'sofern' là liên từ phụ thuộc → động từ chia ('mitarbeiten') đứng cuối mệnh đề phụ."
     },
     {
      "type": "mcq",
      "q": "Welche Struktur ist bei „es sei denn“ (ohne ‚dass‘) richtig?",
      "options": [
-      "Die Erderwärmung schreitet voran, es sei denn, wir senken den Ausstoß.",
       "Die Erderwärmung schreitet voran, es sei denn, wir den Ausstoß senken.",
       "Die Erderwärmung schreitet voran, es sei denn, senken wir den Ausstoß.",
+      "Die Erderwärmung schreitet voran, es sei denn, wir senken den Ausstoß.",
       "Die Erderwärmung schreitet voran, es sei denn, gesenkt wird der Ausstoß."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Sau 'es sei denn' (không có 'dass'), câu giữ trật tự mệnh đề chính S + V ('wir senken')."
     },
     {
      "type": "mcq",
      "q": "Wie setzt man „vorausgesetzt, dass“ richtig ein?",
      "options": [
+      "Vorausgesetzt dass, das Projekt gelingt.",
       "Das Projekt gelingt, vorausgesetzt, dass genug Geld investiert wird.",
       "Das Projekt gelingt, vorausgesetzt, dass wird genug Geld investiert.",
-      "Das Projekt gelingt, vorausgesetzt, genug Geld investiert wird dass.",
-      "Vorausgesetzt dass, das Projekt gelingt."
+      "Das Projekt gelingt, vorausgesetzt, genug Geld investiert wird dass."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'vorausgesetzt, dass' đưa động từ chia ('wird') xuống cuối câu."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „Lebensmittelverschwendung“?",
      "options": [
+      "Dass Wasser im Sommer knapp wird",
       "Dass essbare Nahrungsmittel unnötig weggeworfen werden",
-      "Dass Obst besonders frisch und saisonal ist",
       "Dass Bauernhöfe auf Ökostrom umsteigen",
-      "Dass Wasser im Sommer knapp wird"
+      "Dass Obst besonders frisch und saisonal ist"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'Lebensmittelverschwendung' = sự lãng phí thực phẩm."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Ökosystem“?",
      "options": [
-      "das",
-      "der",
       "die",
-      "–"
+      "der",
+      "–",
+      "das"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Danh từ chuẩn là 'das Ökosystem, die Ökosysteme'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „vom Auto auf die Bahn wechseln“?",
      "options": [
+      "gefährden",
       "umsteigen",
-      "aussterben",
       "verschwenden",
-      "gefährden"
+      "aussterben"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'umsteigen auf + Akk' = chuyển sang phương tiện/năng lượng khác."
     },
     {
      "type": "mcq",
      "q": "Welches Hilfsverb braucht „aussterben“ im Perfekt?",
      "options": [
-      "sein (ist ausgestorben)",
       "haben (hat ausgestorben)",
+      "lassen (lässt ausgestorben)",
       "werden (wird ausgestorben)",
-      "lassen (lässt ausgestorben)"
+      "sein (ist ausgestorben)"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'aussterben' chỉ sự biến đổi trạng thái → dùng 'sein'."
     },
     {
      "type": "mcq",
      "q": "Was bewirkt eine gute „Wärmedämmung“ am Haus?",
      "options": [
-      "Sie hält im Winter die Wärme im Haus und senkt den Energieverbrauch.",
+      "Sie vergrößert den ökologischen Fußabdruck.",
       "Sie erhöht den Stromverbrauch der Heizung.",
-      "Sie verursacht Überschwemmungen.",
-      "Sie vergrößert den ökologischen Fußabdruck."
+      "Sie hält im Winter die Wärme im Haus und senkt den Energieverbrauch.",
+      "Sie verursacht Überschwemmungen."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Wärmedämmung' = lớp cách nhiệt giúp tiết kiệm năng lượng sưởi."
     },
     {
@@ -1146,56 +1146,56 @@
      {
       "q": "Welches Paradoxon beim Stromnetz beschreibt Abschnitt 2?",
       "options": [
-       "Dass Windräder bei starkem Wind manchmal abgeschaltet werden müssen, weil Leitungen und Speicher fehlen.",
        "Dass im Süden Deutschlands gar kein Strom gebraucht wird.",
-       "Dass Solaranlagen nur nachts Strom produzieren.",
-       "Dass Stromnetze viel zu schnell gebaut wurden."
+       "Dass Windräder bei starkem Wind manchmal abgeschaltet werden müssen, weil Leitungen und Speicher fehlen.",
+       "Dass Stromnetze viel zu schnell gebaut wurden.",
+       "Dass Solaranlagen nur nachts Strom produzieren."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 2 chỉ ra nghịch lý phải tắt tuabin gió ngày nhiều gió vì thiếu đường dây tải điện và công nghệ lưu trữ."
      },
      {
       "q": "Warum stoßen höhere CO2-Preise bei manchen Menschen auf Widerstand?",
       "options": [
+       "Weil Benzin kostenlos verteilt wird.",
        "Weil sie keine Heizung besitzen.",
-       "Weil Mieter und Pendler steigende Alltagskosten fürchten, während Eigentümer leichter umrüsten.",
        "Weil Wärmepumpen verboten sind.",
-       "Weil Benzin kostenlos verteilt wird."
+       "Weil Mieter und Pendler steigende Alltagskosten fürchten, während Eigentümer leichter umrüsten."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 phân tích nỗi lo chi phí sinh hoạt tăng ở người thuê nhà và người đi làm xa."
      },
      {
       "q": "Wie lässt sich die Akzeptanz neuer Wind- und Solarparks vor Ort erhöhen?",
       "options": [
-       "Durch Geheimhaltung bis zum Baubeginn.",
        "Durch direkte Bürgerbeteiligung, etwa über Genossenschaften, und sichtbare Vorteile für die Gemeinde.",
+       "Durch höhere Gebühren für die Anwohner.",
        "Durch den Verzicht auf erneuerbare Energien.",
-       "Durch höhere Gebühren für die Anwohner."
+       "Durch Geheimhaltung bis zum Baubeginn."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 4 nêu giải pháp cho người dân tham gia qua hợp tác xã và hưởng lợi ích trực tiếp."
      },
      {
       "q": "Welche Rolle spielt der soziale Ausgleich?",
       "options": [
-       "Er gibt steigende CO2-Abgaben gezielt an Haushalte mit geringerem Einkommen zurück.",
+       "Er verzögert den Strukturwandel.",
        "Er finanziert neue Kohlekraftwerke.",
-       "Er schafft alle Steuern ab.",
-       "Er verzögert den Strukturwandel."
+       "Er gibt steigende CO2-Abgaben gezielt an Haushalte mit geringerem Einkommen zurück.",
+       "Er schafft alle Steuern ab."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 4 giải thích cơ chế hoàn trả hỗ trợ cho hộ thu nhập thấp."
      },
      {
       "q": "Was ist die Kernaussage des letzten Abschnitts?",
       "options": [
-       "Die Energiewende ist eine gesellschaftliche Aufgabe, die verlässliche Investitionen und Fairness erfordert.",
-       "Alle Probleme lösen sich über Nacht von selbst.",
+       "Man sollte das alte Stromnetz unverändert lassen.",
        "Nur Ingenieure tragen Verantwortung.",
-       "Man sollte das alte Stromnetz unverändert lassen."
+       "Die Energiewende ist eine gesellschaftliche Aufgabe, die verlässliche Investitionen und Fairness erfordert.",
+       "Alle Probleme lösen sich über Nacht von selbst."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn cuối khẳng định chuyển đổi năng lượng là nhiệm vụ xã hội cần đầu tư đáng tin cậy và sự công bằng."
      }
     ],
@@ -1212,24 +1212,24 @@
      "type": "mcq",
      "q": "Welcher Modus steht normalerweise im Nebensatz nach „als ob“ oder „als wenn“?",
      "options": [
-      "Konjunktiv II (oder Konjunktiv I)",
-      "Imperativ",
+      "nur Partizip I",
       "nur Futur II",
-      "nur Partizip I"
+      "Imperativ",
+      "Konjunktiv II (oder Konjunktiv I)"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Mệnh đề so sánh giả định không có thật dùng Konjunktiv II (hoặc Konjunktiv I)."
     },
     {
      "type": "mcq",
      "q": "Welche verkürzte Form (ohne ‚ob‘) ist grammatikalisch richtig?",
      "options": [
-      "Er redet, als hätte er das Problem längst gelöst.",
-      "Er redet, als er hätte das Problem längst gelöst.",
       "Er redet, als ob hätte er das Problem längst gelöst.",
+      "Er redet, als er hätte das Problem längst gelöst.",
+      "Er redet, als hätte er das Problem längst gelöst.",
       "Er redet, als er das Problem längst gelöst hätte."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Khi bỏ 'ob' chỉ còn 'als', động từ chia ('hätte') đảo lên đứng ngay sau 'als'."
     },
     {
@@ -1237,9 +1237,9 @@
      "q": "Ergänzen Sie richtig: „Manche Firmen handeln so, als ob die Rohstoffe unbegrenzt ___.“",
      "options": [
       "wären",
-      "sind",
+      "sein",
       "waren",
-      "sein"
+      "sind"
      ],
      "answer": 0,
      "explain": "Tình huống phi thực tế ở hiện tại dùng Konjunktiv II 'wären'."
@@ -1248,24 +1248,24 @@
      "type": "mcq",
      "q": "Was bedeutet „Energieeffizienz“ bzw. „die Energiewende“?",
      "options": [
-      "Der Übergang von fossilen Brennstoffen zu erneuerbaren Energien",
-      "Die Rückkehr zu alten Kohlekraftwerken",
       "Ein Verbot für Solarenergie",
-      "Die Erhöhung aller Strompreise ohne Grund"
+      "Die Erhöhung aller Strompreise ohne Grund",
+      "Der Übergang von fossilen Brennstoffen zu erneuerbaren Energien",
+      "Die Rückkehr zu alten Kohlekraftwerken"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Energiewende' = cuộc chuyển đổi sang năng lượng tái tạo."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Stromnetz“?",
      "options": [
-      "das",
-      "der",
       "die",
+      "der",
+      "das",
       "–"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Danh từ chuẩn là 'das Stromnetz, die Stromnetze'."
     },
     {
@@ -1273,9 +1273,9 @@
      "q": "Welches Verb passt: „Ein stabiles Netz muss Schwankungen zuverlässig ___.“",
      "options": [
       "ausgleichen",
-      "scheitern",
       "verschwenden",
-      "gefährden"
+      "gefährden",
+      "scheitern"
      ],
      "answer": 0,
      "explain": "'Schwankungen ausgleichen' = cân bằng, bù đắp các dao động."
@@ -1284,24 +1284,24 @@
      "type": "mcq",
      "q": "Woran scheitert der Bau neuer Windkraftanlagen laut Text oft?",
      "options": [
-      "An langwierigen Genehmigungsverfahren und fehlender Bürgerbeteiligung",
-      "An zu viel Sonnenschein",
       "An zu niedrigen Preisen für Ökostrom",
-      "An zu vielen Speichertechnologien"
+      "An zu vielen Speichertechnologien",
+      "An langwierigen Genehmigungsverfahren und fehlender Bürgerbeteiligung",
+      "An zu viel Sonnenschein"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Thủ tục cấp phép kéo dài và thiếu sự tham gia của người dân làm giảm đồng thuận."
     },
     {
      "type": "mcq",
      "q": "Welche Form drückt eine irreale Vergangenheit nach „als ob“ aus?",
      "options": [
+      "Sie tut so, als ob sie die Warnung nie hören muss.",
       "Sie tut so, als ob sie die Warnung nie gehört hätte.",
       "Sie tut so, als ob sie die Warnung nie hört.",
-      "Sie tut so, als ob sie die Warnung nie hören wird.",
-      "Sie tut so, als ob sie die Warnung nie hören muss."
+      "Sie tut so, als ob sie die Warnung nie hören wird."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Giả định không có thật ở quá khứ dùng Konjunktiv II quá khứ: 'gehört hätte'."
     },
     {
@@ -1893,53 +1893,53 @@
      {
       "q": "Warum ist der Gegensatz zwischen Wohlstand und Klimaschutz laut Text oft kurzsichtig?",
       "options": [
-       "Weil ungebremste Erderwärmung künftig viel höhere Folgekosten verursacht.",
        "Weil Klimaschutz gar kein Geld kostet.",
-       "Weil niemand mehr Arbeit braucht.",
-       "Weil Dürren der Landwirtschaft helfen."
+       "Weil ungebremste Erderwärmung künftig viel höhere Folgekosten verursacht.",
+       "Weil Dürren der Landwirtschaft helfen.",
+       "Weil niemand mehr Arbeit braucht."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 2 chỉ ra chi phí thiệt hại tương lai lớn hơn nhiều so với chi phí đầu tư phòng ngừa hôm nay."
      },
      {
       "q": "Welche zwei Grundhaltungen stehen sich in der öffentlichen Debatte gegenüber?",
       "options": [
-       "Nur Technik und Innovation versus Verzicht auf alles Moderne.",
        "Reiner Fokus auf technische Innovationen versus ein grundlegendes Umdenken beim Lebensstil.",
+       "Nur Technik und Innovation versus Verzicht auf alles Moderne.",
        "Stadtbewohner versus Touristinnen.",
        "Winter versus Sommer."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 3 đối chiếu hai quan điểm: chỉ tin vào công nghệ mới vs. đòi hỏi thay đổi lối sống tiêu dùng."
      },
      {
       "q": "Warum reichen technische Durchbrüche allein laut Abschnitt 4 oft nicht?",
       "options": [
-       "Weil neue Technik zu langsam ist.",
-       "Weil wachsende Nachfrage die erzielten Einsparungen oft wieder auffrisst.",
        "Weil Städte keine Grünflächen mögen.",
-       "Weil Batterien verboten werden."
+       "Weil neue Technik zu langsam ist.",
+       "Weil Batterien verboten werden.",
+       "Weil wachsende Nachfrage die erzielten Einsparungen oft wieder auffrisst."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 4 giải thích nhu cầu tiêu dùng tăng cao có thể triệt tiêu phần tiết kiệm nhờ công nghệ."
      },
      {
       "q": "Welche Maßnahmen helfen Städten bei der Klimaanpassung?",
       "options": [
-       "Mehr Parkplätze aus Beton.",
-       "Entsiegelte Böden, schattige Parks und ein gut ausgerüsteter Katastrophenschutz.",
        "Höhere Temperaturen in Büros.",
-       "Weniger Bäume in Innenstädten."
+       "Mehr Parkplätze aus Beton.",
+       "Weniger Bäume in Innenstädten.",
+       "Entsiegelte Böden, schattige Parks und ein gut ausgerüsteter Katastrophenschutz."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn cuối liệt kê 3 biện pháp thích ứng hiệu quả tại đô thị."
      },
      {
       "q": "Wovon hängt es ab, ob die schlimmsten Klimarisiken abgewendet werden können?",
       "options": [
        "Von internationaler Verbindlichkeit und konkreten Kontrollen bei Abkommen.",
-       "Von unverbindlichen Reden ohne Ziele.",
        "Vom Ende aller Innovationen.",
+       "Von unverbindlichen Reden ohne Ziele.",
        "Von noch längeren Flugreisen."
       ],
       "answer": 0,
@@ -1959,48 +1959,48 @@
      "type": "mcq",
      "q": "Welcher Konditionalsatz ohne „wenn“ ist grammatikalisch richtig?",
      "options": [
-      "Handeln wir heute nicht, steigen die Folgekosten enorm.",
-      "Wir handeln heute nicht, steigen die Folgekosten enorm.",
       "Handeln wir heute nicht, die Folgekosten steigen enorm.",
-      "Wenn handeln wir heute nicht, steigen die Folgekosten enorm."
+      "Wir handeln heute nicht, steigen die Folgekosten enorm.",
+      "Wenn handeln wir heute nicht, steigen die Folgekosten enorm.",
+      "Handeln wir heute nicht, steigen die Folgekosten enorm."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Câu điều kiện bỏ 'wenn' đặt động từ chia ở vị trí 1 ('Handeln wir...'), vế sau cũng bắt đầu bằng động từ ('steigen')."
     },
     {
      "type": "mcq",
      "q": "Welcher Kasus folgt auf die Präposition „im Falle“?",
      "options": [
-      "Genitiv",
       "Akkusativ",
       "Dativ",
-      "Nominativ"
+      "Nominativ",
+      "Genitiv"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'im Falle + Genitiv': im Falle einer Dürre / eines Unwetters."
     },
     {
      "type": "mcq",
      "q": "Wie lautet der irreale Konditionalsatz ohne „wenn“ in der Vergangenheit?",
      "options": [
-      "Hätten wir früher umgedacht, wäre der Schaden kleiner geblieben.",
       "Wenn hätten wir früher umgedacht, wäre der Schaden kleiner geblieben.",
+      "Hätten wir früher umgedacht, wäre der Schaden kleiner geblieben.",
       "Hätten wir früher umgedacht, der Schaden wäre kleiner geblieben.",
       "Wir hätten früher umgedacht, wäre der Schaden kleiner geblieben."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Bỏ 'wenn' ở Konjunktiv II quá khứ: 'Hätten wir ..., wäre ...'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet ein klimatischer „Kipppunkt“?",
      "options": [
-      "Eine kritische Schwelle, ab der Veränderungen kaum noch umkehrbar sind",
-      "Ein neuer Vertrag auf einer Klimakonferenz",
       "Ein besonders heißer Tag im Juli",
-      "Ein Programm für Solarenergie"
+      "Eine kritische Schwelle, ab der Veränderungen kaum noch umkehrbar sind",
+      "Ein Programm für Solarenergie",
+      "Ein neuer Vertrag auf einer Klimakonferenz"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'Kipppunkt' = điểm tới hạn không thể đảo ngược."
     },
     {
@@ -2008,9 +2008,9 @@
      "q": "Welcher Artikel gehört zu „Abkommen“?",
      "options": [
       "das",
+      "–",
       "der",
-      "die",
-      "–"
+      "die"
      ],
      "answer": 0,
      "explain": "Danh từ chuẩn là 'das Abkommen, die Abkommen'."
@@ -2019,12 +2019,12 @@
      "type": "mcq",
      "q": "Welches Verb bedeutet „eine drohende Katastrophe verhindern“?",
      "options": [
-      "abwenden",
-      "eskalieren",
       "verhandeln",
+      "eskalieren",
+      "abwenden",
       "umdenken"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'abwenden' = ngăn chặn, đẩy lùi nguy cơ."
     },
     {
@@ -2032,9 +2032,9 @@
      "q": "Welches Adjektiv beschreibt eine Entscheidung, die nur an den schnellen Vorteil heute denkt?",
      "options": [
       "kurzsichtig",
-      "unumkehrbar",
       "entschlossen",
-      "realistisch"
+      "realistisch",
+      "unumkehrbar"
      ],
      "answer": 0,
      "explain": "'kurzsichtig' = thiển cận, chỉ nhìn ngắn hạn."
@@ -2043,12 +2043,12 @@
      "type": "mcq",
      "q": "Welche Präposition ersetzt „wenn es keine internationale Zusammenarbeit gibt“?",
      "options": [
-      "Ohne internationale Zusammenarbeit",
       "Bei internationaler Zusammenarbeit",
       "Wegen internationaler Zusammenarbeit",
-      "Nach internationaler Zusammenarbeit"
+      "Nach internationaler Zusammenarbeit",
+      "Ohne internationale Zusammenarbeit"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'ohne + Akkusativ' diễn tả điều kiện phủ định ('nếu không có...')."
     },
     {
@@ -2556,23 +2556,23 @@
      {
       "q": "Welches doppelte Problem verursacht die starke Flächenversiegelung in Großstädten?",
       "options": [
-       "Überschwemmungen bei Starkregen und extreme Hitze im Sommer.",
        "Zu viele Parks und zu wenig Parkplätze.",
+       "Zu viel Grundwasser im Boden.",
        "Sinkende Mieten und leere Straßenbahnen.",
-       "Zu viel Grundwasser im Boden."
+       "Überschwemmungen bei Starkregen und extreme Hitze im Sommer."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 1 nêu rõ hai hệ quả: ngập lụt khi mưa lớn và hấp thụ nhiệt quá mức vào mùa hè."
      },
      {
       "q": "Wie funktioniert das Prinzip der ‚Schwammstadt‘?",
       "options": [
+       "Es werden gar keine Bäume mehr gepflanzt.",
        "Wasser wird möglichst schnell in Kanäle gepumpt.",
        "Entsiegelte Böden, begrünte Dächer und Zisternen speichern Regenwasser vor Ort.",
-       "Alle Straßen werden weiß gestrichen.",
-       "Es werden gar keine Bäume mehr gepflanzt."
+       "Alle Straßen werden weiß gestrichen."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 2 giải thích cơ chế giữ và thấm nước tại chỗ thông qua giải tỏa bê tông, mái xanh và bể ngầm."
      },
      {
@@ -2589,23 +2589,23 @@
      {
       "q": "Welchen doppelten Vorteil hat die energetische Sanierung älterer Häuser?",
       "options": [
-       "Sie macht Straßen breiter und lauter.",
-       "Sie schützt das Klima und senkt dauerhaft die Heizrechnung.",
        "Sie ersetzt den öffentlichen Nahverkehr.",
-       "Sie erhöht den Stromverbrauch."
+       "Sie macht Straßen breiter und lauter.",
+       "Sie erhöht den Stromverbrauch.",
+       "Sie schützt das Klima und senkt dauerhaft die Heizrechnung."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 4 nêu lợi ích kép: bảo vệ khí hậu và giảm tiền sưởi."
      },
      {
       "q": "Was kritisiert der letzte Abschnitt an der Vergangenheit?",
       "options": [
-       "Dass notwendige Umbauten zu lange auf die lange Bank geschoben wurden.",
-       "Dass Architekten zu viele Parks geplant haben.",
+       "Dass Bürger zu viel mitreden dürfen.",
        "Dass es zu viele Vorreiterstädte gibt.",
-       "Dass Bürger zu viel mitreden dürfen."
+       "Dass Architekten zu viele Parks geplant haben.",
+       "Dass notwendige Umbauten zu lange auf die lange Bank geschoben wurden."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn cuối phê phán sự trì hoãn kéo dài như thể khí hậu tự ổn định."
      },
      {
@@ -2633,72 +2633,72 @@
      "type": "mcq",
      "q": "Welcher Satz wandelt „Wenn wir Bäume pflanzen, sinkt die Hitze“ korrekt in einen Konditionalsatz ohne ‚wenn‘ um?",
      "options": [
-      "Pflanzen wir Bäume, so sinkt die Hitze.",
+      "So pflanzen wir Bäume, sinkt die Hitze.",
       "Wir pflanzen Bäume, so sinkt die Hitze.",
-      "Pflanzen wir Bäume, die Hitze sinkt.",
-      "So pflanzen wir Bäume, sinkt die Hitze."
+      "Pflanzen wir Bäume, so sinkt die Hitze.",
+      "Pflanzen wir Bäume, die Hitze sinkt."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Câu điều kiện bỏ 'wenn' đặt động từ 'Pflanzen' ở đầu câu, vế sau dùng 'so sinkt' hoặc 'sinkt'."
     },
     {
      "type": "mcq",
      "q": "Welche Bedeutung hat „es sei denn“?",
      "options": [
+      "während / zur gleichen Zeit, als ...",
       "wenn nicht / außer in dem Fall, dass ...",
-      "weil / aus dem Grund, dass ...",
       "obwohl / trotz der Tatsache, dass ...",
-      "während / zur gleichen Zeit, als ..."
+      "weil / aus dem Grund, dass ..."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'es sei denn' = trừ phi, nếu không thì."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz mit „als ob“ ist grammatikalisch am besten?",
      "options": [
+      "Sie tut so, als ob sähe sie die Umweltprobleme nicht.",
       "Sie tut so, als ob sie die Umweltprobleme nicht sähe.",
       "Sie tut so, als ob sie die Umweltprobleme nicht sieht.",
-      "Sie tut so, als ob sähe sie die Umweltprobleme nicht.",
       "Sie tut so, als sie die Umweltprobleme nicht sähe."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'als ob' đưa động từ Konjunktiv II ('sähe') xuống cuối câu."
     },
     {
      "type": "mcq",
      "q": "Welche verkürzte Form entspricht „als ob es kein Morgen gäbe“?",
      "options": [
-      "als gäbe es kein Morgen",
       "als es gäbe kein Morgen",
+      "als gäbe es kein Morgen",
       "als ob gäbe es kein Morgen",
       "als kein Morgen gäbe es"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Khi bỏ 'ob' chỉ còn 'als', động từ 'gäbe' đứng ngay sau 'als'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die Redewendung „etwas auf die lange Bank schieben“?",
      "options": [
-      "Eine Aufgabe immer wieder verzögern und nicht erledigen",
       "Eine Parkbank im Grünen aufstellen",
+      "Eine Aufgabe immer wieder verzögern und nicht erledigen",
       "Einen Kompromiss sofort unterschreiben",
       "Alten Beton schnell entsiegeln"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'auf die lange Bank schieben' = trì hoãn mãi chưa chịu làm."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „an einem Strang ziehen“?",
      "options": [
-      "Gemeinsam dasselbe Ziel verfolgen und zusammenarbeiten",
+      "Ein Förderprogramm ablehnen",
       "Sich heftig über Klimaziele streiten",
-      "Einen alten Baum fällen",
-      "Ein Förderprogramm ablehnen"
+      "Gemeinsam dasselbe Ziel verfolgen und zusammenarbeiten",
+      "Einen alten Baum fällen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'an einem Strang ziehen' = đồng lòng chung sức cùng một hướng."
     },
     {
@@ -2706,9 +2706,9 @@
      "q": "Welcher Artikel gehört zu „Schadstoff“?",
      "options": [
       "der",
-      "die",
       "das",
-      "–"
+      "–",
+      "die"
      ],
      "answer": 0,
      "explain": "Danh từ chuẩn là 'der Schadstoff, die Schadstoffe'."
@@ -2717,24 +2717,24 @@
      "type": "mcq",
      "q": "Welches Verb bedeutet „Asphalt oder Beton entfernen, damit Regenwasser versickern kann“?",
      "options": [
+      "subventionieren",
       "entsiegeln",
-      "aufforsten",
       "sanieren",
-      "subventionieren"
+      "aufforsten"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'entsiegeln' = phá bỏ lớp phủ bê tông/nhựa đường."
     },
     {
      "type": "mcq",
      "q": "Welche Präposition fordert den Genitiv?",
      "options": [
-      "im Falle",
       "bei",
       "ohne",
-      "trotzdem"
+      "trotzdem",
+      "im Falle"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'im Falle + Genitiv' (vd: im Falle einer Dürre)."
     },
     {
@@ -2742,9 +2742,9 @@
      "q": "Warum sind Mischwälder widerstandsfähiger als reine Fichtenwälder?",
      "options": [
       "Sie verkraften Trockenheit und Schadstoffe deutlich besser.",
+      "Sie verhindern jede Wärmedämmung.",
       "Sie brauchen gar keinen Regen.",
-      "Sie wachsen nur in Großstädten.",
-      "Sie verhindern jede Wärmedämmung."
+      "Sie wachsen nur in Großstädten."
      ],
      "answer": 0,
      "explain": "Rừng hỗn giao chịu hạn và sâu bệnh/chất độc tốt hơn."

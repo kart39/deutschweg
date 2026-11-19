@@ -395,52 +395,52 @@
      {
       "q": "Was macht die Kursleiterin vor dem Versuch?",
       "options": [
-       "Sie bestellt neue Bildschirme.",
        "Sie bittet die Hausverwaltung um Erlaubnis.",
        "Sie schließt den Kursraum ab.",
-       "Sie verkauft die Lampen."
+       "Sie verkauft die Lampen.",
+       "Sie bestellt neue Bildschirme."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was schreibt Mai am Montag in die Tabelle?",
       "options": [
-       "Welche Lampen gerade eingeschaltet sind.",
        "Nur die Uhrzeit der Pause.",
+       "Welche Lampen gerade eingeschaltet sind.",
        "Den Preis aller Geräte.",
        "Die Namen der Teilnehmer."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was beobachtet Lukas nach Kursende?",
       "options": [
-       "Das Licht ist überall an.",
-       "Die Kursleiterin benutzt den Bildschirm weiter.",
        "Der Bildschirm bleibt im Stand-by-Modus.",
-       "Die Haustür schließt automatisch."
+       "Das Licht ist überall an.",
+       "Die Haustür schließt automatisch.",
+       "Die Kursleiterin benutzt den Bildschirm weiter."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Warum gehen am Mittwoch die Lampen am Fenster später an?",
       "options": [
-       "Sie sind kaputt.",
        "Der Strom fällt aus.",
-       "Der Kursraum ist leer.",
-       "Es ist am Anfang noch hell genug."
+       "Sie sind kaputt.",
+       "Es ist am Anfang noch hell genug.",
+       "Der Kursraum ist leer."
       ],
-      "answer": 3
+      "answer": 2
      },
      {
       "q": "Was möchte die Gruppe künftig vor dem Verlassen prüfen?",
       "options": [
+       "Ob die Stromrechnung bezahlt ist.",
        "Ob die Geräte und Lampen noch gebraucht werden.",
        "Ob alle Geräte gleich alt sind.",
-       "Ob das ganze Gebäude schon geschlossen ist.",
-       "Ob die Stromrechnung bezahlt ist."
+       "Ob das ganze Gebäude schon geschlossen ist."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -455,10 +455,10 @@
      "type": "mcq",
      "q": "Câu nào nói tắt đèn trước, sau đó rời phòng?",
      "options": [
-      "Während wir den Raum verlassen, schalten wir das Licht aus.",
+      "Wir haben das Licht nach dem Verlassen ausgeschaltet.",
       "Bevor wir das Licht ausschalten, verlassen wir den Raum.",
       "Bevor wir den Raum verlassen, schalten wir das Licht aus.",
-      "Wir haben das Licht nach dem Verlassen ausgeschaltet."
+      "Während wir den Raum verlassen, schalten wir das Licht aus."
      ],
      "answer": 2,
      "explain": "{{Bevor}} giới thiệu việc diễn ra sau hành động chính."
@@ -467,21 +467,21 @@
      "type": "mcq",
      "q": "Chọn câu có hai việc đồng thời.",
      "options": [
-      "Wir messen den Verbrauch, während das Gerät läuft.",
       "Wir messen den Verbrauch, bevor das Gerät läuft.",
-      "Bevor wir messen, ist das Gerät aus.",
-      "Wir haben gestern gemessen."
+      "Wir messen den Verbrauch, während das Gerät läuft.",
+      "Wir haben gestern gemessen.",
+      "Bevor wir messen, ist das Gerät aus."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Während}} biểu thị các khoảng thời gian trùng nhau."
     },
     {
      "type": "mcq",
      "q": "Chọn trật tự đúng khi câu phụ đứng đầu.",
      "options": [
+      "Bevor wir gehen prüfen wir das Licht.",
       "Bevor wir gehen, wir prüfen das Licht.",
       "Bevor gehen wir, prüfen wir das Licht.",
-      "Bevor wir gehen prüfen wir das Licht.",
       "Bevor wir gehen, prüfen wir das Licht."
      ],
      "answer": 3,
@@ -491,10 +491,10 @@
      "type": "mcq",
      "q": "Cụm nào dùng giới từ, không phải liên từ?",
      "options": [
-      "Während das Gerät läuft.",
-      "Während der Messung.",
       "Während wir arbeiten.",
-      "Während Mai die Werte notiert."
+      "Während der Messung.",
+      "Während Mai die Werte notiert.",
+      "Während das Gerät läuft."
      ],
      "answer": 1,
      "explain": "{{Während der Messung}} theo sau bằng cụm danh từ."
@@ -503,12 +503,12 @@
      "type": "mcq",
      "q": "Từ nào chỉ giá trị thu được khi đo?",
      "options": [
+      "der Messwert",
       "der Lichtschalter",
       "das Tageslicht",
-      "der Messwert",
       "die Wärme"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{Messwert}} là giá trị đo."
     },
     {
@@ -1090,8 +1090,8 @@
       "q": "Wo befindet sich die vorläufige Bushaltestelle?",
       "options": [
        "Vor der Bibliothek.",
-       "An der Schule.",
        "Gegenüber dem Markt.",
+       "An der Schule.",
        "Unter dem alten Baum."
       ],
       "answer": 0
@@ -1099,12 +1099,12 @@
      {
       "q": "Wann soll der Zugang von der Marktstraße wieder möglich sein?",
       "options": [
-       "Sobald die Skizze abgegeben ist.",
-       "Am nächsten Schultag.",
+       "Nach Abschluss aller Arbeiten.",
        "Solange die Busse umgeleitet werden.",
-       "Nach Abschluss aller Arbeiten."
+       "Am nächsten Schultag.",
+       "Sobald die Skizze abgegeben ist."
       ],
-      "answer": 3
+      "answer": 0
      },
      {
       "q": "Warum hat die Klasse eine Skizze abgegeben?",
@@ -1119,12 +1119,12 @@
      {
       "q": "Warum soll eine Bank unter dem alten Baum stehen?",
       "options": [
-       "Dort ist der Platz für Lieferfahrzeuge.",
        "Dort halten die Busse gewöhnlich.",
        "Dort gibt es bereits Schatten.",
+       "Dort ist der Platz für Lieferfahrzeuge.",
        "Dort darf man die Räder abstellen."
       ],
-      "answer": 2
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1140,59 +1140,59 @@
      "q": "Câu nào nêu một thay đổi vẫn có hệ quả hiện tại?",
      "options": [
       "Bis die Stadt den Gehweg verbreitert, sitzen wir im Park.",
+      "Bevor wir spazieren gehen, suchen wir die Jacken.",
       "Seitdem die Stadt den Gehweg verbreitert hat, gehen wir dort öfter spazieren.",
-      "Während wir spazieren gehen, regnet es.",
-      "Bevor wir spazieren gehen, suchen wir die Jacken."
+      "Während wir spazieren gehen, regnet es."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Seitdem}} đưa ra mốc bắt đầu của thay đổi."
     },
     {
      "type": "mcq",
      "q": "Tuyến tạm dùng đến khi giao lộ mở lại. Chọn câu đúng.",
      "options": [
-      "Seitdem die Kreuzung offen ist, nehmen wir die Umleitung.",
-      "Bis die Umleitung endet, bleibt die Radspur offen.",
       "Bis die Kreuzung wieder offen ist, nehmen wir die Umleitung.",
-      "Während die Kreuzung offen ist, nehmen wir die Umleitung."
+      "Während die Kreuzung offen ist, nehmen wir die Umleitung.",
+      "Seitdem die Kreuzung offen ist, nehmen wir die Umleitung.",
+      "Bis die Umleitung endet, bleibt die Radspur offen."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Mệnh đề {{bis die Kreuzung wieder offen ist}} đặt mốc kết thúc việc dùng đường tránh."
     },
     {
      "type": "mcq",
      "q": "Chọn trật tự đúng.",
      "options": [
-      "Seitdem fährt der Bus anders.",
-      "Seitdem der Bus fährt anders.",
       "Seitdem fährt anders der Bus.",
+      "Seitdem der Bus fährt anders.",
+      "Seitdem fährt der Bus anders.",
       "Seitdem anders der Bus fährt."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Ở đây {{seitdem}} là trạng từ đầu câu, {{fährt}} đứng vị trí hai."
     },
     {
      "type": "mcq",
      "q": "Was ist eine Übergangslösung?",
      "options": [
-      "Die erste Idee eines Kindes.",
-      "Ein endgültiger Stadtplan.",
       "Eine private Zufahrt für Lieferwagen.",
-      "Eine vorläufige Regelung."
+      "Die erste Idee eines Kindes.",
+      "Eine vorläufige Regelung.",
+      "Ein endgültiger Stadtplan."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Übergangslösung}} là giải pháp dùng trong giai đoạn chuyển tiếp."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có mệnh đề phụ ở đầu và động từ mệnh đề chính ở đúng chỗ.",
      "options": [
-      "Seitdem wir dort wohnen, wir fahren öfter Rad.",
-      "Seitdem wir dort wohnen, fahren wir öfter Rad.",
+      "Seitdem wir dort, fahren wir öfter Rad wohnen.",
       "Seitdem wohnen wir dort, fahren wir öfter Rad.",
-      "Seitdem wir dort, fahren wir öfter Rad wohnen."
+      "Seitdem wir dort wohnen, wir fahren öfter Rad.",
+      "Seitdem wir dort wohnen, fahren wir öfter Rad."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Sau dấu phẩy là động từ chia {{fahren}} của mệnh đề chính."
     },
     {
@@ -1777,20 +1777,20 @@
      {
       "q": "Warum kam die Gruppe auf die Idee für den Schrank?",
       "options": [
+       "Ines wollte ihre Bücher verkaufen.",
        "Eine Schule spendete mehrere Werkzeuge.",
        "Drei Personen suchten eine Pumpe, obwohl schon eine da war.",
-       "Die alte Liste stand im Regen.",
-       "Ines wollte ihre Bücher verkaufen."
+       "Die alte Liste stand im Regen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was trägt man bei der Ausleihe in die Liste ein?",
       "options": [
+       "Die Nummer des Schranks und das Alter des Geräts.",
        "Den Preis und die Adresse.",
-       "Den Namen der Hausverwaltung und die Uhrzeit.",
        "Den Vornamen und den Rückgabetag.",
-       "Die Nummer des Schranks und das Alter des Geräts."
+       "Den Namen der Hausverwaltung und die Uhrzeit."
       ],
       "answer": 2
      },
@@ -1798,29 +1798,29 @@
       "q": "Wer half, als das Ersatzteil für die Pumpe fehlte?",
       "options": [
        "Die Hausverwaltung kaufte ein neues Fahrrad.",
-       "Die Jugendlichen reparierten die Pumpe allein.",
+       "Ein Nachbar stellte seine Pumpe zur Verfügung.",
        "Niemand kümmerte sich um den Schrank.",
-       "Ein Nachbar stellte seine Pumpe zur Verfügung."
+       "Die Jugendlichen reparierten die Pumpe allein."
       ],
-      "answer": 3
+      "answer": 1
      },
      {
       "q": "Was gibt es seit der Teilnahme der Jugendlichen zusätzlich?",
       "options": [
-       "Ein Fach für Stoffreste und Knöpfe.",
        "Ein großes Bücherregal.",
        "Eine neue Kellertür.",
+       "Ein Fach für Stoffreste und Knöpfe.",
        "Eine Werkbank mit Rollen."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was macht die Gruppe, bevor sie über einen zweiten Schrank entscheidet?",
       "options": [
-       "Sie verschenkt alle Werkzeuge.",
+       "Sie schließt den Hof am Abend früher.",
        "Sie sammelt Wünsche und beobachtet, was gebraucht wird.",
        "Sie bestimmt eine feste Rückgabezeit für alle.",
-       "Sie schließt den Hof am Abend früher."
+       "Sie verschenkt alle Werkzeuge."
       ],
       "answer": 1
      }
@@ -1837,12 +1837,12 @@
      "type": "mcq",
      "q": "Ngay khi kệ hoàn thành, tôi chụp ảnh. Chọn câu tương ứng.",
      "options": [
-      "Ich fotografiere das Regal, solange es im Hof steht.",
-      "Sobald das Regal fertig ist, mache ich ein Foto.",
+      "Ich baue das Regal, während du ein Foto machst.",
       "Bis das Regal fertig ist, bleibt der Hof leer.",
-      "Ich baue das Regal, während du ein Foto machst."
+      "Ich fotografiere das Regal, solange es im Hof steht.",
+      "Sobald das Regal fertig ist, mache ich ein Foto."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Sobald}} nêu sự việc kích hoạt hành động tiếp theo."
     },
     {
@@ -1850,9 +1850,9 @@
      "q": "Câu nào diễn đạt việc thử đồ giới hạn trong thời gian cửa hàng mở?",
      "options": [
       "Solange der Laden offen ist, kannst du die Pumpe ausprobieren.",
-      "Sobald der Laden schließt, kannst du die Pumpe ausprobieren.",
+      "Seitdem der Laden geschlossen ist, kannst du die Pumpe ausprobieren.",
       "Bevor du die Pumpe ausprobierst, schließt die Tür.",
-      "Seitdem der Laden geschlossen ist, kannst du die Pumpe ausprobieren."
+      "Sobald der Laden schließt, kannst du die Pumpe ausprobieren."
      ],
      "answer": 0,
      "explain": "{{Solange}} nói về khoảng thời gian cửa hàng còn mở và việc thử bơm còn có thể."
@@ -1861,10 +1861,10 @@
      "type": "mcq",
      "q": "Wann zahlt die Gruppe in diesem Satz? „Sobald das Ersatzteil da ist, bezahlen wir.“",
      "options": [
-      "Die Gruppe zahlt schon vor der Lieferung.",
       "Die Gruppe zahlt irgendwann vorher.",
+      "Die Gruppe zahlt erst einen Monat nach der Lieferung.",
       "Die Gruppe zahlt, wenn das Teil angekommen ist.",
-      "Die Gruppe zahlt erst einen Monat nach der Lieferung."
+      "Die Gruppe zahlt schon vor der Lieferung."
      ],
      "answer": 2,
      "explain": "{{Sobald das Ersatzteil da ist}} có nghĩa là ngay khi linh kiện tới."
@@ -1873,24 +1873,24 @@
      "type": "mcq",
      "q": "Chọn trật tự động từ đúng.",
      "options": [
-      "Solange wir auf das Teil warten, wir reparieren die Taschen.",
       "Solange wir warten auf das Teil, reparieren wir die Taschen.",
-      "Solange wir auf das Teil, reparieren wir die Taschen warten.",
-      "Solange wir auf das Teil warten, reparieren wir die Taschen."
+      "Solange wir auf das Teil warten, wir reparieren die Taschen.",
+      "Solange wir auf das Teil warten, reparieren wir die Taschen.",
+      "Solange wir auf das Teil, reparieren wir die Taschen warten."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Warten}} đứng cuối mệnh đề phụ, {{reparieren}} đứng ngay sau dấu phẩy."
     },
     {
      "type": "mcq",
      "q": "Was ist ein Tauschregal?",
      "options": [
-      "Ein Lager für Schrott.",
-      "Ein Regal, auf das Menschen Dinge zum Mitnehmen und Tauschen legen.",
       "Ein Schrank, den man nur reparieren darf.",
-      "Eine Tasche für kaputte Werkzeuge."
+      "Ein Lager für Schrott.",
+      "Eine Tasche für kaputte Werkzeuge.",
+      "Ein Regal, auf das Menschen Dinge zum Mitnehmen und Tauschen legen."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Tauschregal}} là kệ để mọi người đặt và lấy đồ trao đổi."
     },
     {
@@ -2544,47 +2544,47 @@
      {
       "q": "Wie viel Prozent der globalen Treibhausgasemissionen verursachen Städte gegenwärtig?",
       "options": [
-       "Weniger als zehn Prozent.",
        "Über siebzig Prozent.",
+       "Weniger als zehn Prozent.",
        "Genau fünfzig Prozent."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was geschieht laut dem Text, bevor neue städtische Verkehrskonzepte umgesetzt werden?",
       "options": [
+       "Der gesamte Autoverkehr wird ohne Vorankündigung verboten.",
        "Alle alten Straßen werden sofort gesprengt.",
-       "Die Bürgerinnen und Bürger werden aktiv in die Planung eingebunden.",
-       "Der gesamte Autoverkehr wird ohne Vorankündigung verboten."
+       "Die Bürgerinnen und Bürger werden aktiv in die Planung eingebunden."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welche Maßnahme ergreifen viele Kommunen bei Neubauten zur Energiegewinnung?",
       "options": [
-       "Sie verbieten den Bau von Dächern.",
+       "Sie verlangen den ausschließlichen Einsatz von Kohleöfen.",
        "Sie schreiben die Installation von Solaranlagen gesetzlich vor.",
-       "Sie verlangen den ausschließlichen Einsatz von Kohleöfen."
+       "Sie verbieten den Bau von Dächern."
       ],
       "answer": 1
      },
      {
       "q": "Wie tragen Leihläden und Reparaturtreffs zur Nachhaltigkeit im städtischen Alltag bei?",
       "options": [
-       "Sie ermutigen dazu, Dinge wiederzuverwenden und zu reparieren, statt sie wegzuwerfen.",
+       "Sie zwingen Menschen dazu, auf Elektrizität zu verzichten.",
        "Sie verkaufen ausschließlich teure Neuwaren aus Übersee.",
-       "Sie zwingen Menschen dazu, auf Elektrizität zu verzichten."
+       "Sie ermutigen dazu, Dinge wiederzuverwenden und zu reparieren, statt sie wegzuwerfen."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Welches Ziel verfolgt die ökologische Stadtplanung laut dem Schlussabsatz?",
       "options": [
-       "Städte zu Vorbildern für ein nachhaltiges Zusammenleben im Einklang mit der Natur zu machen.",
+       "Nur noch Autos mit Benzinmotoren zuzulassen.",
        "Alle Städte komplett aufzugeben und in den Wald zu ziehen.",
-       "Nur noch Autos mit Benzinmotoren zuzulassen."
+       "Städte zu Vorbildern für ein nachhaltiges Zusammenleben im Einklang mit der Natur zu machen."
       ],
-      "answer": 0
+      "answer": 2
      }
     ]
    },
@@ -2598,46 +2598,46 @@
      "type": "mcq",
      "q": "Welche Subjunktion drückt Gleichzeitigkeit aus („trong khi“)?",
      "options": [
-      "bevor",
       "während",
       "nachdem",
+      "bevor",
       "seitdem"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'während' là liên từ phụ diễn tả hai hành động diễn ra đồng thời cùng lúc (Gleichzeitigkeit)."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Schalten Sie das Licht aus, ___ Sie den Raum verlassen!",
      "options": [
-      "bevor",
+      "solange",
       "während",
-      "nachdem",
-      "solange"
+      "bevor",
+      "nachdem"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'bevor' (trước khi): hành động tắt đèn diễn ra trước hành động rời khỏi phòng."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz drückt eine Handlung aus, die seit der Vergangenheit bis heute andauert?",
      "options": [
-      "Bis ich in Berlin wohnte, trennte ich Müll.",
-      "Seitdem wir Ökostrom nutzen, sparen wir CO2.",
+      "Bevor er abreist, packt er den Koffer.",
       "Sobald der Sommer kommt, wird es warm.",
-      "Bevor er abreist, packt er den Koffer."
+      "Seitdem wir Ökostrom nutzen, sparen wir CO2.",
+      "Bis ich in Berlin wohnte, trennte ich Müll."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'seitdem' diễn tả hành động bắt đầu trong quá khứ và vẫn đang tiếp diễn ở hiện tại."
     },
     {
      "type": "mcq",
      "q": "Welche Subjunktion betont den plötzlichen Beginn eines Ereignisses („ngay khi“)?",
      "options": [
-      "solange",
+      "bis",
       "sobald",
       "während",
-      "bis"
+      "solange"
      ],
      "answer": 1,
      "explain": "'sobald' có nghĩa là ngay khi, ngay sau khi một điều kiện xảy ra tức thời."
@@ -2647,9 +2647,9 @@
      "q": "Ergänzen Sie: ___ wir Energie verschwenden, wird die globale Erwärmung zunehmen.",
      "options": [
       "Solange",
-      "Sobald",
       "Bevor",
-      "Nachdem"
+      "Nachdem",
+      "Sobald"
      ],
      "answer": 0,
      "explain": "'solange' (chừng nào mà): chừng nào chúng ta còn lãng phí năng lượng thì nhiệt độ trái đất còn tăng."
@@ -2658,60 +2658,60 @@
      "type": "mcq",
      "q": "Was bedeutet das Substantiv „der Umweltschutz“?",
      "options": [
-      "Der Bau neuer Autobahnen",
       "Die Gesamtheit aller Maßnahmen zum Erhalt der natürlichen Lebensgrundlagen",
+      "Der Bau neuer Autobahnen",
       "Ein Wetterbericht im Fernsehen",
       "Der Verkauf von Plastikflaschen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'Der Umweltschutz' là toàn bộ các biện pháp bảo vệ và giữ gìn môi trường sống tự nhiên."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
      "options": [
-      "Sobald die Sonne scheint, erzeugen wir Strom.",
-      "Sobald scheint die Sonne, erzeugen wir Strom.",
       "Sobald die Sonne scheint, wir erzeugen Strom.",
-      "Sobald die Sonne scheinen wird, erzeugen wir Strom."
+      "Sobald scheint die Sonne, erzeugen wir Strom.",
+      "Sobald die Sonne scheinen wird, erzeugen wir Strom.",
+      "Sobald die Sonne scheint, erzeugen wir Strom."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Mệnh đề phụ với 'sobald' có động từ chia 'scheint' ở cuối; mệnh đề chính bắt đầu ngay bằng động từ 'erzeugen' (Inversion)."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die Wendung „auf Plastik verzichten“?",
      "options": [
-      "Besonders viel Plastik kaufen",
-      "Keine Kunststoffprodukte verwenden",
+      "Plastik mit Wasser reinigen",
       "Plastik im Garten verbrennen",
-      "Plastik mit Wasser reinigen"
+      "Besonders viel Plastik kaufen",
+      "Keine Kunststoffprodukte verwenden"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "'auf Plastik verzichten' có nghĩa là từ bỏ, không sử dụng các sản phẩm bằng chất dẻo/nhựa."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Wir bleiben im Haus, ___ der heftige Sturm vorüber ist.",
      "options": [
-      "bis",
       "seitdem",
+      "bis",
       "während",
       "sobald"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'bis' (cho đến khi): chúng tôi ở trong nhà cho đến khi cơn bão mạnh qua đi."
     },
     {
      "type": "mcq",
      "q": "Was ist das Gegenteil von „schädlich“?",
      "options": [
-      "umweltfreundlich",
       "kostspielig",
+      "überflüssig",
       "mangelhaft",
-      "überflüssig"
+      "umweltfreundlich"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Trái nghĩa với 'schädlich' (độc hại, có hại) là 'umweltfreundlich' (thân thiện với môi trường)."
     },
     {

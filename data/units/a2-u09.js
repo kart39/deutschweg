@@ -356,29 +356,29 @@
      {
       "q": "Wohin gehen die Gäste, wenn es regnet?",
       "options": [
-       "In die Bibliothek.",
+       "An die Bushaltestelle.",
        "In den Gemeindesaal.",
-       "An die Bushaltestelle."
+       "In die Bibliothek."
       ],
       "answer": 1
      },
      {
       "q": "Bis wann sollen die Gäste zusagen?",
       "options": [
-       "Bis Dienstag.",
        "Bis Samstag.",
-       "Bis Donnerstag."
+       "Bis Donnerstag.",
+       "Bis Dienstag."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was können die Gäste dem Gastgeber mitbringen?",
       "options": [
-       "Einen Kuchen.",
+       "Wasser für alle.",
        "Einen Tisch.",
-       "Wasser für alle."
+       "Einen Kuchen."
       ],
-      "answer": 0
+      "answer": 2
      }
     ],
     "glossary": []
@@ -393,72 +393,72 @@
      "type": "mcq",
      "q": "Trong {{Wir schicken unserer Nachbarin die Einladungskarte.}}, cụm nào cho biết người nhận?",
      "options": [
-      "Die Einladungskarte",
       "Unserer Nachbarin",
+      "Schicken",
       "Wir",
-      "Schicken"
+      "Die Einladungskarte"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Hỏi {{Wem schicken wir die Einladungskarte?}}. Câu trả lời là {{unserer Nachbarin}}, cụm ở {{Dativ}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu nghĩa là ‘Chúng tôi mời người hàng xóm của mình’.",
      "options": [
+      "Wir laden unseren Nachbarn ein.",
       "Wir laden unserem Nachbarn ein.",
       "Wir laden unseren Nachbarn aus.",
-      "Wir laden unser Nachbar ein.",
-      "Wir laden unseren Nachbarn ein."
+      "Wir laden unser Nachbar ein."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{Einladen}} đi với người được mời ở {{Akkusativ}}. Dạng đúng ở đây là {{unseren Nachbarn}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào xác nhận người nói sẽ đến dự?",
      "options": [
-      "Danke, ich komme gern.",
       "Danke, ich weiß es noch nicht.",
       "Leider bin ich nicht da.",
+      "Danke, ich komme gern.",
       "Ich sage dir morgen Bescheid."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{Ich komme gern.}} là lời nhận mời trực tiếp."
     },
     {
      "type": "mcq",
      "q": "Thông báo {{Der Eintritt ist frei.}} nói điều gì?",
      "options": [
-      "Chỗ ngồi đã hết.",
-      "Khách phai dat vé.",
       "Vào cửa miễn phí.",
+      "Khách phai dat vé.",
+      "Chỗ ngồi đã hết.",
       "Can mang vé moi."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{Freier Eintritt}} nghĩa là khách vào cửa miễn phí."
     },
     {
      "type": "mcq",
      "q": "Câu nào có cả người nhận và vật được mang đến?",
      "options": [
-      "Linh bringt mir einen Kuchen mit.",
       "Linh kommt zum Fest.",
-      "Linh feiert mit mir.",
-      "Linh bringt dich zum Saal."
+      "Linh bringt mir einen Kuchen mit.",
+      "Linh bringt dich zum Saal.",
+      "Linh feiert mit mir."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Mir}} chỉ người nhận, {{einen Kuchen}} chỉ vật được mang đến."
     },
     {
      "type": "mcq",
      "q": "{{Bitte sagt bis spätestens Freitag zu.}} yêu cầu gì?",
      "options": [
+      "Den sau thu Sáu.",
       "Đến dự vào thứ Sáu.",
       "Xác nhận muộn nhất vào thứ Sáu.",
-      "Den sau thu Sáu.",
       "Đợi đến thứ Sáu mới được trả lời."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Zusagen}} nghĩa là nhận lời. {{Bis spätestens Freitag}} đặt hạn cuối là thứ Sáu."
     },
     {
@@ -998,9 +998,9 @@
      {
       "q": "Warum besorgt Khoa eine Topfpflanze?",
       "options": [
-       "Samira hat keinen Platz für eine Kerze.",
+       "Paul hat die Wunschliste vergessen.",
        "Samira mag frische Kräuter.",
-       "Paul hat die Wunschliste vergessen."
+       "Samira hat keinen Platz für eine Kerze."
       ],
       "answer": 1
      },
@@ -1016,11 +1016,11 @@
      {
       "q": "Wann gibt Paul Khoa die Karte mit?",
       "options": [
+       "Am Freitagnachmittag.",
        "Schon am Donnerstag.",
-       "Erst nach dem Fest.",
-       "Am Freitagnachmittag."
+       "Erst nach dem Fest."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Wem schickt Samira ein Foto?",
@@ -1044,12 +1044,12 @@
      "type": "mcq",
      "q": "Thay {{meiner Schwester}} trong {{Ich gebe meiner Schwester die Karte.}} và chọn câu trung tính.",
      "options": [
-      "Ich gebe sie die Karte.",
-      "Ich gebe ihm die Karte.",
+      "Ich gebe die Karte sie.",
       "Ich gebe ihr die Karte.",
-      "Ich gebe die Karte sie."
+      "Ich gebe sie die Karte.",
+      "Ich gebe ihm die Karte."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Ihr}} thay người nhận là {{meiner Schwester}} ở {{Dativ}}. Đại từ đứng trước cụm danh từ {{die Karte}}."
     },
     {
@@ -1068,36 +1068,36 @@
      "type": "mcq",
      "q": "Nhân viên muốn nói lịch sự ‘Tôi đưa cho ông/bà chiếc túi quà’. Chọn câu đúng.",
      "options": [
+      "Ich gebe Ihnen die Geschenktüte.",
       "Ich gebe Sie die Geschenktüte.",
-      "Ich gebe ihnen die Geschenktüte.",
       "Ich gebe ihr die Geschenktüte.",
-      "Ich gebe Ihnen die Geschenktüte."
+      "Ich gebe ihnen die Geschenktüte."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Người đối diện ở {{Dativ}} lịch sự là {{Ihnen}}, viết hoa cả giữa câu."
     },
     {
      "type": "mcq",
      "q": "Bạn cần gì để bọc một cuốn sách làm quà?",
      "options": [
-      "Einen Blumenstrauß.",
-      "Geschenkpapier.",
+      "Eine Duftkerze.",
       "Eine Wunschliste.",
-      "Eine Duftkerze."
+      "Geschenkpapier.",
+      "Einen Blumenstrauß."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Geschenkpapier}} là giấy dùng để gói quà."
     },
     {
      "type": "mcq",
      "q": "{{Er gibt Khoa die Karte mit.}} nghĩa là gì?",
      "options": [
-      "Anh ay dua thiep cho Khoa mang di.",
-      "Anh ấy đặt thiệp trong túi mình.",
       "Anh ấy mượn thiệp của Khoa.",
-      "Anh ấy viết lại thiệp cho Khoa."
+      "Anh ấy viết lại thiệp cho Khoa.",
+      "Anh ay dua thiep cho Khoa mang di.",
+      "Anh ấy đặt thiệp trong túi mình."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{Mitgeben}} diễn tả đưa một vật cho ai để người đó mang theo."
     },
     {
@@ -1106,10 +1106,10 @@
      "options": [
       "Ich tausche meiner Mutter eine Karte.",
       "Ich beschrifte meine Mutter mit einer Karte.",
-      "Ich bastle meiner Mutter eine Karte.",
-      "Ich wickele meiner Mutter die Karte aus."
+      "Ich wickele meiner Mutter die Karte aus.",
+      "Ich bastle meiner Mutter eine Karte."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Basteln}} nghĩa là làm đồ thủ công. {{Meiner Mutter}} là người nhận ở {{Dativ}}."
     },
     {
@@ -1655,10 +1655,10 @@
       "q": "Warum kann Duy nicht zur Feier kommen?",
       "options": [
        "Er hat keine Einladung bekommen.",
-       "Er muss arbeiten.",
-       "Er ist auf einer Reise."
+       "Er ist auf einer Reise.",
+       "Er muss arbeiten."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wo findet Khoa das Foto?",
@@ -1672,18 +1672,18 @@
      {
       "q": "Wem zeigt Lea bei der Feier das Foto?",
       "options": [
+       "Anna.",
        "Ben.",
-       "Duy.",
-       "Anna."
+       "Duy."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was machen Anna und Ben am Sonntag?",
       "options": [
        "Sie schicken Duy eine Nachricht mit einem Bild.",
-       "Sie bringen Lea das Foto zurück.",
-       "Sie laden Duy zum Frühstück ein."
+       "Sie laden Duy zum Frühstück ein.",
+       "Sie bringen Lea das Foto zurück."
       ],
       "answer": 0
      }
@@ -1700,12 +1700,12 @@
      "type": "mcq",
      "q": "Thay cả {{der Braut}} và {{die Karte}} trong {{Ich gebe der Braut die Karte.}}. Chọn trật tự trung tính.",
      "options": [
-      "Ich gebe es ihr.",
       "Ich gebe ihr ihr.",
       "Ich gebe sie ihr.",
+      "Ich gebe es ihr.",
       "Ich gebe sie sie."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Sie}} thay vật giống cái ở {{Akkusativ}}, {{ihr}} thay người nhận ở {{Dativ}}. Đặt {{sie}} trước {{ihr}} trong câu trung tính."
     },
     {
@@ -1713,8 +1713,8 @@
      "q": "Chọn câu nghĩa là ‘Mình cảm ơn bạn vì tấm thiệp’, với {{danken}}.",
      "options": [
       "Ich danke dir für die Karte.",
-      "Ich danke dich für die Karte.",
       "Ich danke dir bei der Karte.",
+      "Ich danke dich für die Karte.",
       "Ich bedanke dir für die Karte."
      ],
      "answer": 0,
@@ -1725,45 +1725,45 @@
      "q": "Lời chúc nào phù hợp với đám cưới?",
      "options": [
       "Gute Besserung!",
+      "Herzlichen Glückwunsch zur Hochzeit!",
       "Frohe Weihnachten!",
-      "Gern geschehen!",
-      "Herzlichen Glückwunsch zur Hochzeit!"
+      "Gern geschehen!"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{Zur Hochzeit}} nêu đúng dịp cưới. {{Herzlichen Glückwunsch!}} là lời chúc mừng."
     },
     {
      "type": "mcq",
      "q": "Thay {{das Foto}} bằng đại từ trong {{Ich zeige dir das Foto.}} và giữ trật tự trung tính.",
      "options": [
-      "Ich zeige dir ihn.",
       "Ich zeige es dir.",
+      "Ich zeige dir ihn.",
       "Ich zeige ihn dich.",
       "Ich zeige ihm dir."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{Das Foto}} đổi thành {{es}} trong {{Akkusativ}} và đứng trước {{dir}}."
     },
     {
      "type": "mcq",
      "q": "Ai nhận lời chào trong {{Ich richte ihm die Grüße aus.}}?",
      "options": [
+      "Những người đã được nhắc tới.",
       "Người đàn ông đã được nhắc tới.",
-      "Người phụ nữ đã được nhắc tới.",
       "Nguoi nói.",
-      "Những người đã được nhắc tới."
+      "Người phụ nữ đã được nhắc tới."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Trong tình huống nói về người lớn, {{ihm}} có thể thay cho một người nam ở {{Dativ}}. Dạng dành cho một người nữ là {{ihr}}."
     },
     {
      "type": "mcq",
      "q": "Bạn có thể đáp lại {{Vielen Dank für deine Hilfe!}} thế nào?",
      "options": [
+      "Wann beginnt das Fest?",
       "Alles Gute zur Hochzeit!",
-      "Ich habe noch nicht zugesagt.",
       "Gern geschehen!",
-      "Wann beginnt das Fest?"
+      "Ich habe noch nicht zugesagt."
      ],
      "answer": 2,
      "explain": "{{Gern geschehen!}} là cách đáp lại lời cảm ơn."
@@ -2365,37 +2365,37 @@
       "q": "Welche zwei Gründe hat Quang für seine Feier am Freitag, dem 27. November?",
       "options": [
        "Er hat Geburtstag und zieht in eine andere Stadt um.",
-       "Er hat sein Masterstudium erfolgreich abgeschlossen und ab 1. Dezember eine Stelle als Ingenieur in Stuttgart bekommen.",
-       "Er hat geheiratet und ein Auto gekauft."
+       "Er hat geheiratet und ein Auto gekauft.",
+       "Er hat sein Masterstudium erfolgreich abgeschlossen und ab 1. Dezember eine Stelle als Ingenieur in Stuttgart bekommen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wo findet die Abschlussfeier von Quang statt?",
       "options": [
-       "Im Gemeinschaftsraum seines Hauses im Erdgeschoss.",
        "In einem Restaurant an der Universität.",
+       "Im Gemeinschaftsraum seines Hauses im Erdgeschoss.",
        "Auf einem Schiff auf dem Rhein."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Wofür bedankt sich Quang besonders bei seiner Nachbarin Frau Peters?",
       "options": [
-       "Sie hat ihm 500 Euro für den Urlaub geliehen.",
+       "Sie hat die ganze Nacht Gitarre gespielt.",
        "Sie hat ihm am Nachmittag beim Dekorieren geholfen und eine köstliche Apfeltorte gebacken.",
-       "Sie hat die ganze Nacht Gitarre gespielt."
+       "Sie hat ihm 500 Euro für den Urlaub geliehen."
       ],
       "answer": 1
      },
      {
       "q": "Was haben die Gäste Quang gemeinsam geschenkt?",
       "options": [
+       "Ein Fahrrad.",
        "Eine neue Kaffeemaschine.",
-       "Einen blauen Anzug und eine Krawatte.",
-       "Ein Fahrrad."
+       "Einen blauen Anzug und eine Krawatte."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -2410,10 +2410,10 @@
      "type": "mcq",
      "q": "Chọn hai tân ngữ đúng (Người nhận ở Dativ + Vật được tặng ở Akkusativ): „Zum Geburtstag schenke ich ___ Vater (der) ___ Armbanduhr (die).“",
      "options": [
-      "meinen Vater ... eine Armbanduhr",
+      "mein Vater ... die Armbanduhr",
       "meinem Vater ... eine Armbanduhr",
-      "meinem Vater ... einer Armbanduhr",
-      "mein Vater ... die Armbanduhr"
+      "meinen Vater ... eine Armbanduhr",
+      "meinem Vater ... einer Armbanduhr"
      ],
      "answer": 1,
      "explain": "Động từ „schenken“ cần Người nhận ở cách Dativ („meinem Vater“ – der Vater → meinem) và Món quà ở cách Akkusativ („eine Armbanduhr“ – die Armbanduhr → eine)."
@@ -2422,36 +2422,36 @@
      "type": "mcq",
      "q": "Chọn đại từ nhân xưng ở cách Dativ đúng để thay thế cho „meiner Schwester“ (chị gái tôi – sie) và „meinem Bruder“ (anh trai tôi – er):",
      "options": [
-      "sie / ihn",
-      "ihr / ihm",
+      "ihnen / ihm",
       "ihr / ihn",
-      "ihnen / ihm"
+      "sie / ihn",
+      "ihr / ihm"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Ở cách Dativ (cho ai): ngôi thứ 3 số ít giống Cái („sie“ – chị gái) đổi thành „ihr“; giống Đực („er“ – anh trai) đổi thành „ihm“."
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng ở cách Dativ số nhiều: „Wir schicken ___ Großeltern zu Weihnachten ein Paket.“",
      "options": [
-      "unsere Großeltern",
-      "unseren Großeltern",
+      "unserer Großeltern",
       "unserem Großeltern",
-      "unserer Großeltern"
+      "unsere Großeltern",
+      "unseren Großeltern"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„die Großeltern“ (ông bà) là danh từ số nhiều đóng vai trò người nhận (Dativ) của động từ „schicken“, nên mạo từ sở hữu nhận đuôi „-en“: „unseren Großeltern“."
     },
     {
      "type": "mcq",
      "q": "Động từ mạnh „leihen“ (cho mượn / mượn) có dạng Phân từ II (Partizip II) ở thì Perfekt là gì?",
      "options": [
-      "geleiht",
-      "geliehen",
       "geliht",
-      "leihen"
+      "geleiht",
+      "leihen",
+      "geliehen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„leihen“ là động từ mạnh đổi nguyên âm ei → ie ở quá khứ: „leiht, lieh, hat geliehen“."
     },
     {
@@ -2621,8 +2621,8 @@
      "q": "Chọn câu có trật tự hai tân ngữ ĐÚNG khi cả hai đều là DANH TỪ: (der Kellner / bringt / die Rechnung [Akk.] / dem Gast [Dat.])",
      "options": [
       "Der Kellner bringt dem Gast die Rechnung.",
-      "Der Kellner bringt die Rechnung dem Gast.",
       "Der Kellner dem Gast die Rechnung bringt.",
+      "Der Kellner bringt die Rechnung dem Gast.",
       "Der Kellner bringt den Gast der Rechnung."
      ],
      "answer": 0,
@@ -2632,12 +2632,12 @@
      "type": "mcq",
      "q": "Chọn câu đúng khi thay cả hai danh từ trong câu „Ich schenke meinem Vater (ihm) den Schal (ihn)“ bằng ĐẠI TỪ:",
      "options": [
-      "Ich schenke ihm ihn.",
-      "Ich schenke ihn ihm.",
+      "Ich schenke es ihm.",
       "Ich schenke er ihn.",
-      "Ich schenke es ihm."
+      "Ich schenke ihm ihn.",
+      "Ich schenke ihn ihm."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Quy tắc vàng: Khi cả hai tân ngữ đều là ĐẠI TỪ, đại từ Akkusativ („ihn“ = den Schal) bắt buộc đảo lên đứng TRƯỚC đại từ Dativ („ihm“ = meinem Vater): „Ich schenke ihn ihm.“"
     },
     {
@@ -2645,21 +2645,21 @@
      "q": "Chọn câu đúng khi thay „das Buch“ bằng đại từ „es“ trong câu „Ich gebe meiner Schwester das Buch“:",
      "options": [
       "Ich gebe meiner Schwester es.",
-      "Ich gebe es meiner Schwester.",
+      "Ich gebe sie es.",
       "Ich gebe ihr das.",
-      "Ich gebe sie es."
+      "Ich gebe es meiner Schwester."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Khi có 1 Đại từ („es“ = das Buch) và 1 Danh từ („meiner Schwester“), Đại từ luôn đứng TRƯỚC Danh từ: „Ich gebe es meiner Schwester.“ (Và nếu thay cả hai bằng đại từ: „Ich gebe es ihr.“)."
     },
     {
      "type": "mcq",
      "q": "Động từ „gehören“ (thuộc về ai) luôn đi với cách nào?",
      "options": [
-      "Akkusativ (Das Auto gehört mich.)",
+      "Di voi gioi tu zu (Das Auto gehört zu mir.)",
       "Dativ (Das Auto gehört mir / meinem Vater.)",
-      "Nominativ (Das Auto gehört ich.)",
-      "Di voi gioi tu zu (Das Auto gehört zu mir.)"
+      "Akkusativ (Das Auto gehört mich.)",
+      "Nominativ (Das Auto gehört ich.)"
      ],
      "answer": 1,
      "explain": "„gehören“ là động từ nội hướng luôn đi trực tiếp với cách Dativ (không có giới từ!): „Wem gehört das Buch? – Es gehört mir / meinem Bruder.“"
@@ -2835,47 +2835,47 @@
      "q": "Khi bạn quên sinh nhật của một người bạn vào hôm qua và hôm nay mới gửi lời chúc mừng sinh nhật muộn, bạn phải dùng thêm trạng từ nào?",
      "options": [
       "vorher",
-      "nachträglich (Alles Gute nachträglich zum Geburtstag!)",
+      "kostenlos",
       "pünktlich",
-      "kostenlos"
+      "nachträglich (Alles Gute nachträglich zum Geburtstag!)"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„nachträglich“ có nghĩa là bổ sung sau / chúc muộn sau khi ngày kỷ niệm đã qua: „Herzlichen Glückwunsch nachträglich zum Geburtstag!“."
     },
     {
      "type": "mcq",
      "q": "Chọn giới từ đúng đi kèm với động từ phản thân „sich bedanken“: „Ich möchte mich herzlich ___ Ihnen ___ das schöne Geschenk bedanken.“",
      "options": [
+      "zu ... von",
       "mit ... über",
       "bei ... für",
-      "an ... um",
-      "zu ... von"
+      "an ... um"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Cấu trúc cố định: „sich bedanken bei + Dativ (cảm ơn ai) für + Akkusativ (vì điều gì)“."
     },
     {
      "type": "mcq",
      "q": "Động từ „heiraten“ (kết hôn với ai) trong tiếng Đức đi với tân ngữ như thế nào?",
      "options": [
-      "Di voi gioi tu mit: Er heiratet mit seiner Freundin.",
-      "Đi trực tiếp với tân ngữ Akkusativ KHÔNG có giới từ: Er heiratet seine Freundin.",
+      "Di voi gioi tu zu: Er heiratet zu seiner Freundin.",
       "Di voi cách Dativ: Er heiratet seiner Freundin.",
-      "Di voi gioi tu zu: Er heiratet zu seiner Freundin."
+      "Di voi gioi tu mit: Er heiratet mit seiner Freundin.",
+      "Đi trực tiếp với tân ngữ Akkusativ KHÔNG có giới từ: Er heiratet seine Freundin."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Khác với tiếng Việt („kết hôn với ai“), động từ „heiraten“ trong tiếng Đức là ngoại động từ đi TRỰC TIẾP với cách Akkusativ, tuyệt đối không dùng „mit“: „Er heiratet seine Freundin / seinen Freund.“"
     },
     {
      "type": "mcq",
      "q": "Động từ tách nào mang nghĩa „xác nhận tham dự / nhận lời mời“ (trái nghĩa với absagen)?",
      "options": [
-      "zusagen",
       "vorlesen",
+      "einpacken",
       "anstoßen",
-      "einpacken"
+      "zusagen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "„zusagen“ = đồng ý nhận lời mời / xác nhận tham dự; trái nghĩa với „absagen“ = từ chối / báo bận không tham dự được."
     },
     {

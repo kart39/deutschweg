@@ -27,9 +27,9 @@
    "type": "mcq",
    "q": "Welcher Artikel passt? 'Ich möchte bitte ___ Kaffee ohne Milch.'",
    "options": [
-    "der",
-    "den",
     "dem",
+    "den",
+    "der",
     "das"
    ],
    "answer": 1,
@@ -39,46 +39,46 @@
    "type": "mcq",
    "q": "Welcher unbestimmte Artikel passt? 'Mein Bruder sucht ___ neue Wohnung.'",
    "options": [
+    "einem",
     "ein",
-    "eine",
     "einen",
-    "einem"
+    "eine"
    ],
-   "answer": 1,
+   "answer": 3,
    "explain": "'Wohnung' là danh từ giống cái (die Wohnung), ở Akkusativ mạo từ giữ nguyên là 'eine'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist grammatisch vollkommen richtig?",
    "options": [
-    "Herr Müller ist einen Lehrer.",
-    "Herr Müller ist ein Lehrer.",
     "Herr Müller hat ein Lehrer.",
-    "Herr Müller sucht der Lehrer."
+    "Herr Müller sucht der Lehrer.",
+    "Herr Müller ist ein Lehrer.",
+    "Herr Müller ist einen Lehrer."
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Sau động từ 'sein' luôn là Nominativ nên dùng 'ein Lehrer'."
   },
   {
    "type": "mcq",
    "q": "Welche Form von 'kein' passt? 'Ich habe heute ___ Hunger.'",
    "options": [
-    "kein",
+    "keinem",
     "keine",
-    "keinen",
-    "keinem"
+    "kein",
+    "keinen"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "'Hunger' là danh từ giống đực (der Hunger), ở Akkusativ sau 'haben' chia là 'keinen Hunger'."
   },
   {
    "type": "mcq",
    "q": "Welcher Artikel passt? 'Siehst du ___ Mann dort drüben an der Ecke?'",
    "options": [
-    "der",
-    "den",
     "dem",
-    "das"
+    "den",
+    "das",
+    "der"
    ],
    "answer": 1,
    "explain": "Tân ngữ trực tiếp cho động từ 'sehen' (Wen siehst du?) với danh từ giống đực (der Mann) đổi thành 'den Mann'."

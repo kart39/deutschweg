@@ -107,47 +107,47 @@
   {
    "q": "Woher kommt Nam?",
    "options": [
-    "Aus Deutschland",
+    "Aus Japan",
     "Aus Vietnam",
-    "Aus Japan"
+    "Aus Deutschland"
    ],
    "answer": 1
   },
   {
    "q": "Was studiert Nam in Leipzig?",
    "options": [
-    "Medizin",
+    "Germanistik",
     "Informatik",
-    "Germanistik"
+    "Medizin"
    ],
    "answer": 1
   },
   {
    "q": "Was macht Nam gern in seiner Freizeit?",
    "options": [
-    "Kochen und Gitarre spielen",
     "Videospiele programmieren",
+    "Kochen und Gitarre spielen",
     "Nur fernsehen"
    ],
-   "answer": 0
+   "answer": 1
   },
   {
    "q": "Was kocht Nam für seinen Mitbewohner?",
    "options": [
-    "Italienische Nudeln",
+    "Bayerische Weißwurst",
     "Vietnamesische Gerichte",
-    "Bayerische Weißwurst"
+    "Italienische Nudeln"
    ],
    "answer": 1
   },
   {
    "q": "Wie beschreibt der Autor Nam?",
    "options": [
+    "Ernst und schweigsam",
     "Laut und unordentlich",
-    "Freundlich, ordentlich und hilfsbereit",
-    "Ernst und schweigsam"
+    "Freundlich, ordentlich und hilfsbereit"
    ],
-   "answer": 1
+   "answer": 2
   }
  ]
 });

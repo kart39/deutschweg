@@ -401,56 +401,56 @@
      {
       "q": "Warum scheitern manche sprachlich gute Lernende laut Abschnitt 1 trotzdem an der B2-Prüfung?",
       "options": [
-       "Weil sie im Alltag überhaupt keine Gespräche verstehen.",
        "Weil ihnen neben Sprachwissen oft die strategische Prüfungskompetenz fehlt.",
-       "Weil in der Prüfung ausschließlich Grammatiktabellen abgefragt werden.",
-       "Weil die Prüfer zu leise sprechen."
+       "Weil die Prüfer zu leise sprechen.",
+       "Weil sie im Alltag überhaupt keine Gespräche verstehen.",
+       "Weil in der Prüfung ausschließlich Grammatiktabellen abgefragt werden."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 1 nêu rõ bên cạnh từ vựng và ngữ pháp, chính năng lực chiến lược làm bài (strategische Prüfungskompetenz) quyết định thành công."
      },
      {
       "q": "Wie gehen erfolgreiche Prüflinge laut Abschnitt 2 bei längeren Lesetexten vor?",
       "options": [
-       "Sie übersetzen zuerst jedes unbekannte Fachwort im Kopf.",
        "Sie lesen nur den letzten Satz des Artikels.",
        "Sie verschaffen sich erst einen Überblick und suchen danach gezielt nach relevanten Stellen.",
-       "Sie bearbeiten die Aufgaben ohne den Text anzusehen."
+       "Sie bearbeiten die Aufgaben ohne den Text anzusehen.",
+       "Sie übersetzen zuerst jedes unbekannte Fachwort im Kopf."
       ],
-      "answer": 2,
+      "answer": 1,
       "explain": "Đoạn 2 mô tả quy trình theo bước: nắm tổng quan từ tiêu đề và đoạn mở đầu trước, sau đó mới tìm đúng đoạn văn ứng với câu hỏi."
      },
      {
       "q": "Wodurch zeichnen sich richtige Antworten in der B2-Prüfung meist aus?",
       "options": [
-       "Sie wiederholen wörtlich die Stichwörter aus dem Ausgangstext.",
        "Sie enthalten immer extreme Wörter wie ausschließlich.",
        "Sie geben den Inhalt des Textes sinngemäß mit anderen Wörtern wieder.",
+       "Sie wiederholen wörtlich die Stichwörter aus dem Ausgangstext.",
        "Sie sind stets deutlich kürzer als die falschen Optionen."
       ],
-      "answer": 2,
+      "answer": 1,
       "explain": "Đoạn 3 giải thích đáp án đúng hầu như luôn dùng Paraphrase – diễn giải lại ý bằng từ ngữ khác."
      },
      {
       "q": "Worauf sollte man beim einmaligen Hören eines Interviews besonders achten?",
       "options": [
+       "Dass man nur auf Zahlen und Jahreszahlen hört.",
        "Dass man sofort nach dem ersten Stichwort ankreuzt.",
        "Dass man die Vorbereitungszeit nutzt und Aussagen bis zu möglichen Einschränkungen zu Ende hört.",
-       "Dass man alle unbekannten Wörter mitschreibt.",
-       "Dass man nur auf Zahlen und Jahreszahlen hört."
+       "Dass man alle unbekannten Wörter mitschreibt."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 4 nhấn mạnh tận dụng thời gian đọc đề trước và lắng nghe hết ý vì người nói hay tự điều chỉnh sau andererseits/doch."
      },
      {
       "q": "Welche Empfehlung gibt der Text am Ende für die Prüfungsvorbereitung?",
       "options": [
+       "Die Antworten erst nach Abgabe des Bogens zu überprüfen.",
        "Vor der Prüfung keine Modelltests mehr zu machen.",
        "Ausschließlich Podcasts ohne Aufgaben zu hören.",
-       "Unter realen Zeitbedingungen und mit einem Antwortbogen zu trainieren.",
-       "Die Antworten erst nach Abgabe des Bogens zu überprüfen."
+       "Unter realen Zeitbedingungen und mit einem Antwortbogen zu trainieren."
       ],
-      "answer": 2,
+      "answer": 3,
       "explain": "Câu cuối khuyên luyện tập thường xuyên với phiếu trả lời thật và bấm giờ nghiêm ngặt để tạo thói quen."
      }
     ],
@@ -467,12 +467,12 @@
      "type": "mcq",
      "q": "Im Text steht: „Die neue App wird vorwiegend von Berufstätigen genutzt.“ Welche Aussage ist richtig?",
      "options": [
-      "Die App richtet sich ausschließlich an Berufstätige.",
-      "Die Mehrheit der Nutzerinnen und Nutzer steht im Berufsleben.",
       "Berufstätige nutzen die App kaum.",
-      "Studierende dürfen die App keineswegs verwenden."
+      "Studierende dürfen die App keineswegs verwenden.",
+      "Die App richtet sich ausschließlich an Berufstätige.",
+      "Die Mehrheit der Nutzerinnen und Nutzer steht im Berufsleben."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„vorwiegend“ (chủ yếu) được diễn đạt đồng nghĩa chính xác là „die Mehrheit“ (phần lớn), không phải „ausschließlich“ (chỉ duy nhất)."
     },
     {
@@ -481,70 +481,70 @@
      "options": [
       "beispielsweise",
       "außerdem",
-      "allerdings",
-      "deshalb"
+      "deshalb",
+      "allerdings"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "„allerdings“ (tuy nhiên) thường mở đầu cho một giới hạn hoặc sự điều chỉnh lại ý kiến vừa nêu."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet der Begriff „Paraphrase“ im Prüfungstraining?",
      "options": [
-      "Das wörtliche Abschreiben eines Satzes.",
-      "Die sinngemäße Wiedergabe einer Aussage mit anderen Wörtern.",
+      "Eine besonders schnelle Aussprache im Hörtext.",
       "Das Streichen unbekannter Vokabeln.",
-      "Eine besonders schnelle Aussprache im Hörtext."
+      "Das wörtliche Abschreiben eines Satzes.",
+      "Die sinngemäße Wiedergabe einer Aussage mit anderen Wörtern."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Paraphrase là diễn đạt lại cùng một ý nghĩa bằng những từ ngữ và cấu trúc khác."
     },
     {
      "type": "mcq",
      "q": "Im Hörtext sagt jemand: „Eigentlich wollte ich mit dem Zug fahren, aber angesichts des Streiks nehme ich wohl doch das Auto.“ Wofür entscheidet sich die Person?",
      "options": [
-      "Für den Zug.",
-      "Für das Flugzeug.",
       "Für das Auto.",
+      "Für das Flugzeug.",
+      "Für den Zug.",
       "Sie sagt die Reise ganz ab."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Người nói ban đầu định đi tàu („Eigentlich wollte ich...“), nhưng sau „aber ... doch“ quyết định đi ô tô."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt? „Aus dem Zusammenhang lässt sich die Bedeutung leicht ___.“",
      "options": [
-      "erschließen",
-      "übertragen",
       "widersprechen",
-      "ankreuzen"
+      "ankreuzen",
+      "erschließen",
+      "übertragen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Cụm chuẩn là „die Bedeutung aus dem Zusammenhang erschließen“ (suy luận nghĩa từ ngữ cảnh)."
     },
     {
      "type": "mcq",
      "q": "Welchen Satz drückt „Das Projekt ist keineswegs gescheitert“ sinngemäß richtig aus?",
      "options": [
-      "Das Projekt war ein völliger Misserfolg.",
-      "Das Projekt ist überhaupt nicht misslungen.",
+      "Das Projekt wird bald abgebrochen.",
       "Das Projekt wurde ausschließlich im Ausland getestet.",
-      "Das Projekt wird bald abgebrochen."
+      "Das Projekt war ein völliger Misserfolg.",
+      "Das Projekt ist überhaupt nicht misslungen."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„keineswegs“ = hoàn toàn không; „gescheitert“ = thất bại → „überhaupt nicht misslungen“."
     },
     {
      "type": "mcq",
      "q": "Was ist beim Übertragen der Lösungen auf den Antwortbogen am wichtigsten?",
      "options": [
-      "Es erst nach Ende der Prüfungszeit zu tun.",
-      "Die Aufgabennummern genau zu prüfen, um nicht in der Zeile zu verrutschen.",
       "Möglichst viele Optionen pro Frage anzukreuzen.",
-      "Mit Bleistift ohne Kontrolle zu arbeiten."
+      "Es erst nach Ende der Prüfungszeit zu tun.",
+      "Mit Bleistift ohne Kontrolle zu arbeiten.",
+      "Die Aufgabennummern genau zu prüfen, um nicht in der Zeile zu verrutschen."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Kiểm tra kỹ số thứ tự câu hỏi để tránh tô lệch dòng trên Antwortbogen."
     },
     {
@@ -1168,22 +1168,22 @@
       "q": "Was kritisieren erfahrene Prüfende laut Abschnitt 1?",
       "options": [
        "Abwechslungsreiche und klar gegliederte Sätze.",
+       "Eine zu höfliche Wortwahl.",
        "Zu komplexe, fehleranfällige Schachtelsätze auf Kosten der Verständlichkeit.",
-       "Die Verwendung von Nebensätzen im Allgemeinen.",
-       "Eine zu höfliche Wortwahl."
+       "Die Verwendung von Nebensätzen im Allgemeinen."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 1 bác bỏ quan niệm phải viết câu lồng ghép quá phức tạp (überladene Schachtelsätze) dễ sai vị trí động từ."
      },
      {
       "q": "Warum rät der Text von einem vollständigen Entwurf ab?",
       "options": [
+       "Weil man dann automatisch einen Leitpunkt vergisst.",
        "Weil Entwürfe in der Prüfung verboten sind.",
        "Weil man dadurch keine Stichpunkte mehr machen kann.",
-       "Weil das vollständige Abschreiben zu viel kostbare Zeit kostet.",
-       "Weil man dann automatisch einen Leitpunkt vergisst."
+       "Weil das vollständige Abschreiben zu viel kostbare Zeit kostet."
       ],
-      "answer": 2,
+      "answer": 3,
       "explain": "Đoạn 2 chỉ rõ việc chép lại toàn bộ bản nháp làm mất nhiều thời gian quý giá."
      },
      {
@@ -1191,8 +1191,8 @@
       "options": [
        "An einer losen Nummerierung der vier Leitpunkte.",
        "An sinnvollen Übergängen und Konnektoren zwischen den Absätzen.",
-       "An der ständigen Wiederholung einfacher Verben.",
-       "An möglichst kurzen Ein-Wort-Sätzen."
+       "An möglichst kurzen Ein-Wort-Sätzen.",
+       "An der ständigen Wiederholung einfacher Verben."
       ],
       "answer": 1,
       "explain": "Đoạn 3 nêu bài viết mạch lạc dùng các từ chuyển ý và liên từ kết nối mượt mà các đoạn."
@@ -1200,12 +1200,12 @@
      {
       "q": "Was ist laut Abschnitt 4 bei einer formellen Nachricht besonders wichtig?",
       "options": [
-       "Möglichst direkte Forderungen im Imperativ.",
        "Eine Mischung aus Du und Sie, um freundlich zu wirken.",
        "Ein höflicher, sachlicher Ton mit Konjunktiv II und Verständnis für Unannehmlichkeiten.",
-       "Eine ausführliche persönliche Lebensgeschichte."
+       "Eine ausführliche persönliche Lebensgeschichte.",
+       "Möglichst direkte Forderungen im Imperativ."
       ],
-      "answer": 2,
+      "answer": 1,
       "explain": "Đoạn 4 nhấn mạnh lời đề nghị gián tiếp ở Konjunktiv II và sự chân thành khi xin lỗi về bất tiện."
      },
      {
@@ -1213,8 +1213,8 @@
       "options": [
        "Auf das Umschreiben der gesamten Einleitung.",
        "Auf Verbstellung, Kasus, Groß- und Kleinschreibung sowie die Anrede.",
-       "Auf das Zählen jedes einzelnen Buchstabens.",
-       "Auf das Hinzufügen neuer, nicht geforderter Themen."
+       "Auf das Hinzufügen neuer, nicht geforderter Themen.",
+       "Auf das Zählen jedes einzelnen Buchstabens."
       ],
       "answer": 1,
       "explain": "Câu cuối liệt kê đúng các mục soát lỗi: Verbendstellung, Kasus, Groß- und Kleinschreibung và Anrede."
@@ -1233,10 +1233,10 @@
      "type": "mcq",
      "q": "Wie beginnt der erste Satz nach der Anrede „Sehr geehrte Frau Weber,“ korrekt?",
      "options": [
-      "Ich danke Ihnen für Ihre E-Mail.",
+      "Danke Ihnen für Ihre E-Mail.",
       "ich danke Ihnen für Ihre E-Mail.",
       "ICH danke Ihnen für Ihre E-Mail.",
-      "Danke Ihnen für Ihre E-Mail."
+      "Ich danke Ihnen für Ihre E-Mail."
      ],
      "answer": 1,
      "explain": "Trong tiếng Đức, sau dấu phẩy ở lời chào mở thư, chữ cái đầu của dòng tiếp theo phải viết thường (trừ danh từ hoặc đại từ Sie)."
@@ -1245,34 +1245,34 @@
      "type": "mcq",
      "q": "Welche Formulierung passt am besten in eine formelle Entschuldigung?",
      "options": [
-      "Sorry, dass es nicht geklappt hat.",
       "Tja, das war leider Pech.",
       "Für die entstandenen Unannehmlichkeiten möchte ich mich aufrichtig entschuldigen.",
-      "Ich kann ja auch nichts dafür."
+      "Ich kann ja auch nichts dafür.",
+      "Sorry, dass es nicht geklappt hat."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Câu C mang văn phong trang trọng, chuẩn mực và lịch sự đúng yêu cầu phần Schreiben Teil 2."
     },
     {
      "type": "mcq",
      "q": "Welcher Ausdruck ist eine gelungene Alternative zu „sehr wichtig“?",
      "options": [
-      "von großer Bedeutung",
-      "total super",
       "ganz okay",
-      "ziemlich egal"
+      "ziemlich egal",
+      "total super",
+      "von großer Bedeutung"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "„von großer Bedeutung“ là cụm từ trang trọng thay thế rất tốt cho „sehr wichtig“ để tránh lặp từ."
     },
     {
      "type": "mcq",
      "q": "Welches Verb ergänzt den Satz richtig? „Ich möchte heute zu diesem Thema ___ nehmen.“",
      "options": [
-      "Meinung",
-      "Stellung",
       "Antwort",
-      "Gliederung"
+      "Stellung",
+      "Gliederung",
+      "Meinung"
      ],
      "answer": 1,
      "explain": "Cụm danh-động từ chuẩn là „zu etwas Stellung nehmen“ (bày tỏ quan điểm về điều gì)."
@@ -1282,35 +1282,35 @@
      "q": "Welche Bitte im Konjunktiv II klingt in einer geschäftlichen E-Mail am höflichsten?",
      "options": [
       "Schicken Sie mir das sofort!",
-      "Wäre es möglich, die Frist um zwei Tage zu verlängern?",
       "Verlängern Sie bitte mal schnell die Frist.",
-      "Ich will die Frist verlängern."
+      "Ich will die Frist verlängern.",
+      "Wäre es möglich, die Frist um zwei Tage zu verlängern?"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Cấu trúc „Wäre es möglich, ... zu + Infinitiv?“ là mẫu đề nghị trang trọng chuẩn B2."
     },
     {
      "type": "mcq",
      "q": "Wozu dient das Notieren von Stichpunkten vor dem Schreiben?",
      "options": [
-      "Um den Text unnötig in die Länge zu ziehen.",
       "Um alle Leitpunkte logisch zu ordnen und keinen Aspekt zu vergessen.",
-      "Um auf Absätze verzichten zu können.",
-      "Um die Grußformel auswendig zu lernen."
+      "Um den Text unnötig in die Länge zu ziehen.",
+      "Um die Grußformel auswendig zu lernen.",
+      "Um auf Absätze verzichten zu können."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Ghi ý phác thảo giúp đảm bảo đủ mọi Leitpunkte và bố cục mạch lạc."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt? „Darf ich das Dokument morgen ___?“",
      "options": [
-      "nachreichen",
       "abwägen",
-      "widersprechen",
-      "überfliegen"
+      "überfliegen",
+      "nachreichen",
+      "widersprechen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "„nachreichen“ nghĩa là nộp bổ sung sau."
     },
     {
@@ -1933,32 +1933,32 @@
      {
       "q": "Welchen Fehler machen viele Prüflinge laut Abschnitt 2 in der Vorbereitungszeit?",
       "options": [
-       "Sie wählen überhaupt kein Thema aus.",
-       "Sie schreiben vollständige Sätze auf den Notizzettel und lesen sie später ab.",
        "Sie lernen die Namen der Prüfer nicht auswendig.",
-       "Sie sprechen während der Vorbereitung zu laut."
+       "Sie wählen überhaupt kein Thema aus.",
+       "Sie sprechen während der Vorbereitung zu laut.",
+       "Sie schreiben vollständige Sätze auf den Notizzettel und lesen sie später ab."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 2 chỉ rõ nhiều thí sinh viết cả câu hoàn chỉnh lên giấy ghi chú rồi dán mắt đọc lại trong phòng thi."
      },
      {
       "q": "Wie werden einzelne kleine Grammatikfehler beim Sprechen bewertet?",
       "options": [
-       "Sie führen sofort zum Nichtbestehen der Prüfung.",
        "Sie kosten kaum Punkte, wenn man flüssig und auf B2-Niveau spricht.",
+       "Sie spielen nur in der Diskussion eine Rolle.",
        "Sie werden strenger bestraft als ein fehlender Aufbau.",
-       "Sie spielen nur in der Diskussion eine Rolle."
+       "Sie führen sofort zum Nichtbestehen der Prüfung."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 2 khẳng định vài lỗi ngữ pháp nhỏ lẻ hầu như không làm mất điểm nếu giao tiếp trôi chảy và vốn từ đạt chuẩn B2."
      },
      {
       "q": "Worauf kommt es in der Diskussion besonders an?",
       "options": [
-       "Darauf, den Gesprächspartner möglichst schnell zu überreden.",
+       "Darauf, jede Rückfrage des Partners zu vermeiden.",
        "Darauf, möglichst lange ohne Pause allein zu sprechen.",
        "Darauf, aktiv zuzuhören, auf Einwände einzugehen und gemeinsam eine Lösung zu suchen.",
-       "Darauf, jede Rückfrage des Partners zu vermeiden."
+       "Darauf, den Gesprächspartner möglichst schnell zu überreden."
       ],
       "answer": 2,
       "explain": "Đoạn 3 nhấn mạnh tiêu chí tương tác: lắng nghe, phản hồi ý kiến đối phương và cùng tìm giải pháp."
@@ -1966,21 +1966,21 @@
      {
       "q": "Was empfiehlt der Text, wenn einem während des Sprechens ein Wort nicht einfällt?",
       "options": [
-       "Die Prüfung kurz zu unterbrechen.",
        "Das fehlende Wort einfach auf Englisch oder Vietnamesisch zu sagen.",
-       "Das Wort kurz zu umschreiben statt lange zu schweigen.",
-       "Den ganzen Vortrag noch einmal von vorn zu beginnen."
+       "Die Prüfung kurz zu unterbrechen.",
+       "Den ganzen Vortrag noch einmal von vorn zu beginnen.",
+       "Das Wort kurz zu umschreiben statt lange zu schweigen."
       ],
-      "answer": 2,
+      "answer": 3,
       "explain": "Đoạn 4 khuyên diễn giải vòng ngắn gọn (kurze Umschreibung) thay vì im lặng lúng túng."
      },
      {
       "q": "Was wird im Hinblick auf die Aussprache auf B2-Niveau erwartet?",
       "options": [
-       "Eine völlig akzentfreie Aussprache wie bei Muttersprachlern.",
+       "Eine besonders laute Stimme.",
        "Deutliche Betonung, verständliche Satzmelodie und ein natürlicher Rhythmus.",
-       "Ein möglichst schnelles Sprechtempo.",
-       "Eine besonders laute Stimme."
+       "Eine völlig akzentfreie Aussprache wie bei Muttersprachlern.",
+       "Ein möglichst schnelles Sprechtempo."
       ],
       "answer": 1,
       "explain": "Đoạn 4 nêu một chút giọng mẹ đẻ là bình thường; điều quan trọng là trọng âm rõ, ngữ điệu dễ hiểu và nhịp tự nhiên."
@@ -1999,9 +1999,9 @@
      "type": "mcq",
      "q": "Welche Formulierung eignet sich am besten, um den Aufbau eines Kurzvortrags anzukündigen?",
      "options": [
-      "Ich weiß noch nicht genau, worüber ich rede.",
-      "Zunächst stelle ich verschiedene Möglichkeiten vor, anschließend wäge ich Vor- und Nachteile ab.",
       "Das war schon alles, tschüss.",
+      "Zunächst stelle ich verschiedene Möglichkeiten vor, anschließend wäge ich Vor- und Nachteile ab.",
+      "Ich weiß noch nicht genau, worüber ich rede.",
       "Hören Sie einfach mal zu, vielleicht wird es interessant."
      ],
      "answer": 1,
@@ -2012,23 +2012,23 @@
      "q": "Wie reagiert man in einer B2-Diskussion höflich auf einen Einwand des Partners?",
      "options": [
       "Das ist totaler Unsinn!",
-      "Ich verstehe deinen Einwand gut, allerdings sehe ich das etwas anders.",
       "Sei bitte still, jetzt bin ich dran.",
+      "Ich verstehe deinen Einwand gut, allerdings sehe ich das etwas anders.",
       "Dazu habe ich keine Lust etwas zu sagen."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Ghi nhận ý kiến đối phương trước rồi mới phản biện bằng „allerdings“ là mẫu tương tác chuẩn."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt mit der Präposition „auf + Akkusativ“?",
      "options": [
+      "zusammenfassen",
       "ausweichen",
       "eingehen",
-      "widersprechen",
-      "zusammenfassen"
+      "widersprechen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„auf etwas eingehen“ (đề cập sâu tới, phản hồi lại điều gì) đi với giới từ „auf + Akkusativ“."
     },
     {
@@ -2047,36 +2047,36 @@
      "type": "mcq",
      "q": "Welche Redewendung bedeutet „etwas knapp und treffend formulieren“?",
      "options": [
-      "einer Frage ausweichen",
-      "etwas auf den Punkt bringen",
       "jemanden unterbrechen",
-      "vom Zettel ablesen"
+      "vom Zettel ablesen",
+      "etwas auf den Punkt bringen",
+      "einer Frage ausweichen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„etwas auf den Punkt bringen“ = nói trúng trọng tâm, tóm gọn đúng ý."
     },
     {
      "type": "mcq",
      "q": "Welche Frage eignet sich am Ende einer Diskussion, um eine gemeinsame Lösung festzuhalten?",
      "options": [
-      "Können wir uns also darauf einigen, dass ...?",
-      "Warum hast du überhaupt mitdiskutiert?",
       "Wann ist die Prüfung endlich vorbei?",
-      "Hast du meinen Notizzettel gesehen?"
+      "Warum hast du überhaupt mitdiskutiert?",
+      "Hast du meinen Notizzettel gesehen?",
+      "Können wir uns also darauf einigen, dass ...?"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "„Können wir uns darauf einigen, dass ...?“ là mẫu câu chốt thỏa thuận rất tự nhiên."
     },
     {
      "type": "mcq",
      "q": "Was hilft am besten, wenn einem beim Sprechen ein bestimmtes Wort nicht einfällt?",
      "options": [
-      "Lange schweigen und auf Hilfe warten.",
       "Das Wort kurz umschreiben und ruhig weitersprechen.",
-      "Den Vortrag abbrechen.",
-      "Die Prüfer nach einem Wörterbuch fragen."
+      "Die Prüfer nach einem Wörterbuch fragen.",
+      "Lange schweigen und auf Hilfe warten.",
+      "Den Vortrag abbrechen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Diễn giải vòng (umschreiben) là chiến lược bù đắp chuẩn khi nói."
     },
     {
@@ -2634,65 +2634,65 @@
      {
       "q": "Welche Bedeutung hat das Niveau B2 laut Abschnitt 1 im Europäischen Referenzrahmen?",
       "options": [
-       "Es ermöglicht lediglich einfache Alltagsgespräche beim Einkaufen.",
        "Es markiert den Übergang zu selbstständigem, fließendem Sprachgebrauch auch bei komplexen Themen.",
-       "Es ersetzt jedes Fachstudium im deutschsprachigen Raum.",
-       "Es erfordert noch gar kein Verständnis komplexer Texte."
+       "Es ermöglicht lediglich einfache Alltagsgespräche beim Einkaufen.",
+       "Es erfordert noch gar kein Verständnis komplexer Texte.",
+       "Es ersetzt jedes Fachstudium im deutschsprachigen Raum."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 1 nêu B2 là cột mốc giúp nắm nội dung chính văn bản phức tạp và giao tiếp trôi chảy không gây khó khăn cho hai bên."
      },
      {
       "q": "Welches Risiko beschreibt Abschnitt 2 unmittelbar nach dem Bestehen der Prüfung?",
       "options": [
-       "Dass das Zertifikat nach wenigen Wochen ungültig wird.",
        "Dass die Lernroutine ohne Prüfungsdruck schnell nachlässt und der aktive Wortschatz einrostet.",
-       "Dass man keine neuen Podcasts mehr findet.",
-       "Dass Muttersprachler nicht mehr mit einem sprechen wollen."
+       "Dass Muttersprachler nicht mehr mit einem sprechen wollen.",
+       "Dass das Zertifikat nach wenigen Wochen ungültig wird.",
+       "Dass man keine neuen Podcasts mehr findet."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 2 cảnh báo khi hết áp lực ngày thi, thói quen học dễ tan vỡ khiến vốn từ chủ động bị mai một."
      },
      {
       "q": "Womit vergleicht der Autor eine Fremdsprache in Abschnitt 2?",
       "options": [
-       "Mit einem Führerschein.",
        "Mit einem Musikinstrument, das regelmäßig gespielt werden muss.",
        "Mit einem Wörterbuch.",
+       "Mit einem Führerschein.",
        "Mit einer einmaligen sportlichen Auszeichnung."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 2 so sánh ngôn ngữ với nhạc cụ (Musikinstrument) chỉ sống động khi được luyện tập thường xuyên."
      },
      {
       "q": "Welche Medien empfehlen Sprachdidaktiker nach dem B2-Abschluss?",
       "options": [
-       "Ausschließlich weitere B2-Modelltests.",
-       "Authentische Medien wie Tageszeitungen, Fachpodcasts und Dokumentationen passend zum eigenen Interesse.",
        "Nur noch zweisprachige Kinderbücher.",
-       "Kurze Werbespots mit Untertiteln."
+       "Ausschließlich weitere B2-Modelltests.",
+       "Kurze Werbespots mit Untertiteln.",
+       "Authentische Medien wie Tageszeitungen, Fachpodcasts und Dokumentationen passend zum eigenen Interesse."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 khuyên thay đề thi thử bằng báo chí uy tín, podcast chuyên ngành và phim tài liệu theo sở thích cá nhân."
      },
      {
       "q": "Welche Kompetenzen prägen laut Abschnitt 3 den Übergang zum Niveau C1?",
       "options": [
-       "Das Nachschlagen jedes einzelnen Wortes im Wörterbuch.",
-       "Ein feineres Gespür für Stil, Register und Zwischentöne.",
        "Das Auswendiglernen möglichst vieler Grußformeln.",
-       "Der Verzicht auf längere Texte."
+       "Der Verzicht auf längere Texte.",
+       "Das Nachschlagen jedes einzelnen Wortes im Wörterbuch.",
+       "Ein feineres Gespür für Stil, Register und Zwischentöne."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Cuối đoạn 3 chỉ rõ bước chuyển sang C1 gắn với cảm quan tinh tế về văn phong (Stil), tầng ngôn ngữ (Register) và sắc thái ngầm (Zwischentöne)."
      },
      {
       "q": "Wie bewertet der Autor das B2-Zertifikat im Schlussabschnitt?",
       "options": [
+       "Als unnötig, wenn man schon Podcasts hört.",
        "Als endgültigen Abschluss des Deutschlernens.",
-       "Als kaum relevant für das Berufsleben.",
        "Als stabiles Fundament für weiterführende sprachliche Souveränität.",
-       "Als unnötig, wenn man schon Podcasts hört."
+       "Als kaum relevant für das Berufsleben."
       ],
       "answer": 2,
       "explain": "Câu cuối khẳng định bằng B2 không phải đích cuối mà là nền móng vững chắc cho sự làm chủ ngôn ngữ."
@@ -2711,24 +2711,24 @@
      "type": "mcq",
      "q": "Welcher Satz mit „je ... desto“ ist grammatisch korrekt?",
      "options": [
+      "Je mehr übt man, desto wird man sicherer.",
       "Je mehr man übt, desto man wird sicherer.",
       "Je mehr man übt, desto sicherer wird man.",
-      "Je man mehr übt, desto sicherer man wird.",
-      "Je mehr übt man, desto wird man sicherer."
+      "Je man mehr übt, desto sicherer man wird."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Cấu trúc chuẩn: „Je + so sánh hơn ... động từ cuối, desto + so sánh hơn + động từ + chủ ngữ“."
     },
     {
      "type": "mcq",
      "q": "Welche Passiversatzform entspricht dem Satz „Die Aufgabe kann leicht gelöst werden“?",
      "options": [
-      "Die Aufgabe lässt sich leicht lösen.",
-      "Die Aufgabe lässt leicht zu lösen.",
       "Die Aufgabe ist leicht gelöst zu werden.",
-      "Die Aufgabe hat sich leicht gelöst."
+      "Die Aufgabe lässt leicht zu lösen.",
+      "Die Aufgabe hat sich leicht gelöst.",
+      "Die Aufgabe lässt sich leicht lösen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "„sich lassen + Infinitiv“ thay thế cho „können + Passiv“."
     },
     {
@@ -2737,8 +2737,8 @@
      "options": [
       "Wenn ich mehr Zeit hätte, hätte ich besser gelernt.",
       "Hätte ich früher angefangen, wäre ich rechtzeitig fertig geworden.",
-      "Hätte ich früher angefangen, würde ich rechtzeitig fertig geworden.",
-      "Wenn ich früher angefangen habe, wäre ich fertig geworden."
+      "Wenn ich früher angefangen habe, wäre ich fertig geworden.",
+      "Hätte ich früher angefangen, würde ich rechtzeitig fertig geworden."
      ],
      "answer": 1,
      "explain": "Konjunktiv II quá khứ của „werden“ là „wäre ... geworden“; đảo ngữ bỏ „wenn“ đặt „Hätte“ lên đầu câu."
@@ -2747,82 +2747,82 @@
      "type": "mcq",
      "q": "Welche Form zeigt das korrekte Partizipialattribut für „die Studie, die gestern veröffentlicht wurde“?",
      "options": [
-      "die gestern veröffentlichende Studie",
-      "die gestern veröffentlichte Studie",
+      "die gestern veröffentlichten Studie",
       "die gestern zu veröffentlichende Studie",
-      "die gestern veröffentlichten Studie"
+      "die gestern veröffentlichende Studie",
+      "die gestern veröffentlichte Studie"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Nghĩa bị động đã hoàn thành dùng Partizip II („veröffentlicht“) + đuôi tính từ „-e“ (Nominativ số ít giống cái)."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz verwendet „trotzdem“ korrekt?",
      "options": [
-      "Trotzdem er nervös war, sprach er flüssig.",
-      "Er war nervös, trotzdem sprach er flüssig.",
       "Er war nervös, trotzdem er flüssig sprach.",
-      "Trotzdem nervös war er, sprach er flüssig."
+      "Trotzdem er nervös war, sprach er flüssig.",
+      "Trotzdem nervös war er, sprach er flüssig.",
+      "Er war nervös, trotzdem sprach er flüssig."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„trotzdem“ là trạng từ liên kết (Konjunktionaladverb) chiếm vị trí 1 nên động từ chia „sprach“ đứng ngay vị trí 2."
     },
     {
      "type": "mcq",
      "q": "Welche indirekte Rede steht im korrekten Konjunktiv I?",
      "options": [
-      "Die Prüferin sagte, die Leistung sei überzeugend gewesen.",
       "Die Prüferin sagte, die Leistung war überzeugend gewesen.",
+      "Die Prüferin sagte, die Leistung sei überzeugend gewesen.",
       "Die Prüferin sagte, die Leistung ist überzeugend sein.",
       "Die Prüferin sagte, die Leistung wäre sein."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Konjunktiv I ngôi 3 số ít của „sein“ là „sei“; quá khứ là „sei ... gewesen“."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz im Passiv Perfekt ist richtig?",
      "options": [
-      "Alle Formulare sind pünktlich abgegeben geworden.",
-      "Alle Formulare sind pünktlich abgegeben worden.",
       "Alle Formulare haben pünktlich abgegeben worden.",
-      "Alle Formulare wurden pünktlich abgegeben worden."
+      "Alle Formulare wurden pünktlich abgegeben worden.",
+      "Alle Formulare sind pünktlich abgegeben geworden.",
+      "Alle Formulare sind pünktlich abgegeben worden."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Passiv Perfekt luôn dùng „sein + Partizip II + worden“ (không dùng „geworden“)."
     },
     {
      "type": "mcq",
      "q": "Welche Präposition verlangt den Genitiv?",
      "options": [
-      "aufgrund",
       "gegenüber",
+      "entgegen",
       "mit",
-      "entgegen"
+      "aufgrund"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "„aufgrund“ (do, bởi vì) đi với Genitiv (vd. aufgrund eines Fehlers)."
     },
     {
      "type": "mcq",
      "q": "Welches Pronominaladverb passt? „Ich bin ___ überzeugt, dass du bestehst.“",
      "options": [
-      "darüber",
-      "davon",
+      "daran",
       "damit",
-      "daran"
+      "darüber",
+      "davon"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Cụm cố định là „von etwas überzeugt sein“ → „davon überzeugt sein“."
     },
     {
      "type": "mcq",
      "q": "Welche Nomen-Verb-Verbindung bedeutet „etwas ernsthaft überlegen“?",
      "options": [
-      "außer Acht lassen",
-      "in Betracht ziehen",
       "zur Verfügung stehen",
-      "Stellung nehmen"
+      "in Betracht ziehen",
+      "Stellung nehmen",
+      "außer Acht lassen"
      ],
      "answer": 1,
      "explain": "„etwas in Betracht ziehen“ = cân nhắc, tính đến điều gì."

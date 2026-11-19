@@ -13,72 +13,72 @@
    "type": "mcq",
    "q": "Welcher Relativsatz entspricht: 'die gestern gelandete Maschine'?",
    "options": [
-    "die Maschine, die gestern gelandet ist",
     "die Maschine, die gestern gelandet wurde",
     "die Maschine, die gestern landet",
+    "die Maschine, die gestern gelandet ist",
     "die Maschine, die gestern landen wird"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'landen' là nội động từ chuyển dịch (đi với sein ở Perfekt): die gelandete Maschine = die Maschine, die gelandet ist."
   },
   {
    "type": "mcq",
    "q": "Welcher Relativsatz entspricht: 'die vom Minister beschlossenen Gesetze'?",
    "options": [
-    "die Gesetze, die vom Minister beschlossen wurden",
     "die Gesetze, die den Minister beschlossen haben",
+    "die Gesetze, die vom Minister beschlossen wurden",
     "die Gesetze, die der Minister beschließt",
     "die Gesetze, die vom Minister beschließen"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Partizip II của ngoại động từ beschließen mang nghĩa bị động: die beschlossen wurden."
   },
   {
    "type": "mcq",
    "q": "Was bedeutet 'das brennende Haus'?",
    "options": [
-    "Das Haus, das im Moment brennt.",
     "Das Haus, das gestern abgebrannt ist.",
     "Das Haus, das angezündet wurde.",
+    "Das Haus, das im Moment brennt.",
     "Das Haus, das nicht brennen kann."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Partizip I (brennend) diễn tả hành động chủ động đang diễn ra tại thời điểm nói."
   },
   {
    "type": "mcq",
    "q": "Welche Wortstellung im Partizipialattribut ist KORREKT?",
    "options": [
-    "der von Experten geprüfte Bericht",
-    "der geprüfte von Experten Bericht",
+    "der von Experten Bericht geprüfte",
     "der Bericht geprüfte von Experten",
-    "der von Experten Bericht geprüfte"
+    "der von Experten geprüfte Bericht",
+    "der geprüfte von Experten Bericht"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Cấu trúc chuẩn: Quán từ (der) + Phần mở rộng (von Experten) + Phân từ (geprüfte) + Danh từ (Bericht)."
   },
   {
    "type": "mcq",
    "q": "Ergänzen Sie die richtige Endung: 'Die im Garten spielend___ Kinder lachen laut.'",
    "options": [
+    "es",
     "en",
-    "e",
     "er",
-    "es"
+    "e"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Nominativ Plural đi với quán từ xác định 'Die' có đuôi tính từ là '-en': die spielenden Kinder."
   },
   {
    "type": "mcq",
    "q": "Welcher Ausdruck beschreibt ein Ereignis, das BEREITS VORBEI ist?",
    "options": [
-    "der abgefahrene Zug",
     "der abfahrende Zug",
+    "der abgefahrene Zug",
     "der pünktlich ankommende Zug",
     "der wartende Zug"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'der abgefahrene Zug' (Partizip II của abfahren) chỉ đoàn tàu đã khởi hành xong."
   },
   {

@@ -92,4 +92,22 @@ function item(x) {
   if (x.type === 'exam') return { ...x, sections: x.sections.map(s => ({ ...s, text: deText(s.text), audio: deText(s.audio), sample: deText(s.sample), exercises: (s.exercises || []).map(exercise) })) };
   return x;
 }
-module.exports = { item, unit, vocab, exercise, deText, ipa, theory, ipaFields };
+// Trộn thứ tự phương án trắc nghiệm (mcq và câu hỏi bài đọc): AI hay đặt đáp án đúng ở cùng một vị trí.
+// Trộn ổn định theo nội dung câu hỏi (cùng câu → cùng thứ tự) để chạy lại nhiều lần không đổi kết quả.
+function seeded(str) {
+  let h = 2166136261;
+  for (const c of str) h = Math.imul(h ^ c.codePointAt(0), 16777619);
+  return () => { h = Math.imul(h ^ (h >>> 15), 2246822507); h = Math.imul(h ^ (h >>> 13), 3266489909); return ((h ^= h >>> 16) >>> 0) / 4294967296; };
+}
+function shuffleOne(q) {
+  if (!Array.isArray(q.options) || typeof q.answer !== 'number' || q.options.length < 2) return q;
+  const correct = q.options[q.answer];
+  const rnd = seeded((q.q || '') + '|' + [...q.options].sort().join('|'));
+  const opts = [...q.options].sort();            // thứ tự gốc không ảnh hưởng kết quả → ổn định
+  for (let i = opts.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [opts[i], opts[j]] = [opts[j], opts[i]]; }
+  return { ...q, options: opts, answer: opts.indexOf(correct) };
+}
+const shuffleChoices = x => Array.isArray(x) ? x.map(shuffleChoices)
+  : x && typeof x === 'object' ? shuffleOne(Object.fromEntries(Object.entries(x).map(([k, v]) => [k, shuffleChoices(v)]))) : x;
+
+module.exports = { item, unit, vocab, exercise, deText, ipa, theory, ipaFields, shuffleChoices };

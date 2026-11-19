@@ -401,10 +401,10 @@
      {
       "q": "Was zeigt der Rückblick auf die Wissenschaftsgeschichte laut dem Text?",
       "options": [
-       "Große Erfindungen entstehen immer nach einem strengen Zeitplan.",
+       "Nur große Teams können wichtige Patente anmelden.",
        "Viele Durchbrüche gehen auf unerwartete Beobachtungen zurück.",
-       "Messfehler verhindern meist jede neue Erkenntnis.",
-       "Nur große Teams können wichtige Patente anmelden."
+       "Große Erfindungen entstehen immer nach einem strengen Zeitplan.",
+       "Messfehler verhindern meist jede neue Erkenntnis."
       ],
       "answer": 1,
       "explain": "Đoạn 1 nêu rõ nhiều phát minh và khám phá ra đời từ các quan sát bất ngờ hoặc sai sót bề ngoài."
@@ -412,45 +412,45 @@
      {
       "q": "Warum war Alexander Flemings Entdeckung erfolgreich?",
       "options": [
-       "Er warf die verunreinigte Schale sofort weg.",
        "Er untersuchte das ungewöhnliche Phänomen genau und andere Teams forschten weiter.",
+       "Er nutzte bereits leistungsfähige Computer.",
        "Er hatte das Penicillin gezielt im Labor hergestellt.",
-       "Er nutzte bereits leistungsfähige Computer."
+       "Er warf die verunreinigte Schale sofort weg."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 2 cho biết Fleming không vứt đĩa nuôi cấy đi mà nghiên cứu kỹ, và các nhóm khác tiếp tục phát triển thành thuốc."
      },
      {
       "q": "Welche Eigenschaft ist laut Wissenschaftstheoretikern bei Zufällen entscheidend?",
       "options": [
-       "Ein geschulter Blick und die Bereitschaft, eigene Annahmen zu hinterfragen.",
        "Die Fähigkeit, abweichende Werte sofort zu löschen.",
+       "Ein geschulter Blick und die Bereitschaft, eigene Annahmen zu hinterfragen.",
        "Ein möglichst großes Budget für Werbung.",
        "Die Vermeidung von Laborarbeiten."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 3 nhấn mạnh cần có con mắt tinh tường và sẵn sàng bác bỏ giả định ban đầu."
      },
      {
       "q": "Worin liegt das Problem bei den Erwartungen von Wirtschaft und Politik?",
       "options": [
-       "Sie lehnen jede Art von Patenten ab.",
        "Sie verlangen oft schnelle, direkt anwendbare Ergebnisse statt geduldiger Grundlagenforschung.",
+       "Sie verbieten den Einsatz digitaler Technik im Labor.",
        "Sie finanzieren ausschließlich medizinische Studien.",
-       "Sie verbieten den Einsatz digitaler Technik im Labor."
+       "Sie lehnen jede Art von Patenten ab."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 4 chỉ ra kinh tế và chính trị hay đòi hỏi kết quả nhanh, trong khi nghiên cứu cơ bản cần nhiều năm."
      },
      {
       "q": "Welche Rolle spielt der Mensch trotz moderner Computertechnik?",
       "options": [
-       "Er wird im Labor bald vollständig ersetzt.",
-       "Seine Neugier und sein offenes Denken bleiben der wichtigste Motor.",
        "Er muss keine Hypothesen mehr aufstellen.",
-       "Er kontrolliert nur noch die Stromversorgung der Rechner."
+       "Er kontrolliert nur noch die Stromversorgung der Rechner.",
+       "Er wird im Labor bald vollständig ersetzt.",
+       "Seine Neugier und sein offenes Denken bleiben der wichtigste Motor."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn cuối khẳng định trí tò mò khoa học và tư duy cởi mở của con người vẫn là động lực quan trọng nhất."
      }
     ],
@@ -467,48 +467,48 @@
      "type": "mcq",
      "q": "Welche Nominalisierung ersetzt den Satz „Weil die Daten ungenau waren, wurde das Experiment wiederholt“ korrekt?",
      "options": [
-      "Aufgrund der ungenauen Daten wurde das Experiment wiederholt.",
       "Trotz der ungenauen Daten wurde das Experiment wiederholt.",
       "Bei den ungenauen Daten wurde das Experiment wiederholt.",
-      "Nach den ungenauen Daten wurde das Experiment wiederholt."
+      "Nach den ungenauen Daten wurde das Experiment wiederholt.",
+      "Aufgrund der ungenauen Daten wurde das Experiment wiederholt."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Liên từ nguyên nhân 'weil' chuyển sang giới từ nguyên nhân 'aufgrund + Genitiv'."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie richtig: „___ des Experiments müssen alle Schutzbrillen tragen.“",
      "options": [
-      "Während",
-      "Wegen",
       "Auf",
-      "Durch"
+      "Wegen",
+      "Durch",
+      "Während"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'während + Genitiv' diễn tả trong suốt thời gian diễn ra thí nghiệm."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz zeigt einen korrekten Genitiv nach einer Nominalisierung?",
      "options": [
-      "Die Auswertung der Messergebnisse dauerte zwei Tage.",
-      "Die Auswertung die Messergebnisse dauerte zwei Tage.",
+      "Die Auswertung von Messergebnis dauerte zwei Tage.",
       "Die Auswertung den Messergebnissen dauerte zwei Tage.",
-      "Die Auswertung von Messergebnis dauerte zwei Tage."
+      "Die Auswertung die Messergebnisse dauerte zwei Tage.",
+      "Die Auswertung der Messergebnisse dauerte zwei Tage."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Tân ngữ số nhiều 'die Messergebnisse' chuyển thành Genitiv 'der Messergebnisse' sau danh từ 'die Auswertung'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „eine Hypothese widerlegen“?",
      "options": [
-      "Beweisen, dass eine Annahme falsch ist",
-      "Eine neue Idee zum ersten Mal aufschreiben",
       "Ein Patent beim Amt einreichen",
-      "Eine Umfrage im Internet teilen"
+      "Beweisen, dass eine Annahme falsch ist",
+      "Eine Umfrage im Internet teilen",
+      "Eine neue Idee zum ersten Mal aufschreiben"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'widerlegen' có nghĩa là bác bỏ, chứng minh một giả thuyết là sai."
     },
     {
@@ -516,9 +516,9 @@
      "q": "Welcher Artikel gehört zu „Labor“ (Einzahl) und wie lautet der Standardplural im Duden?",
      "options": [
       "das Labor, die Labore",
+      "das Labor, die Labor",
       "der Labor, die Laboren",
-      "die Labor, die Labore",
-      "das Labor, die Labor"
+      "die Labor, die Labore"
      ],
      "answer": 0,
      "explain": "Duden ghi nhận 'das Labor', số nhiều chuẩn là 'die Labore' (cũng có dạng Labors)."
@@ -527,12 +527,12 @@
      "type": "mcq",
      "q": "Wählen Sie die passende Nominalisierung für „Obwohl intensiv geforscht wurde“:",
      "options": [
+      "Mithilfe intensiver Forschung",
       "Trotz intensiver Forschung",
       "Aufgrund intensiver Forschung",
-      "Vor intensiver Forschung",
-      "Mithilfe intensiver Forschung"
+      "Vor intensiver Forschung"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'obwohl' (nhượng bộ) tương ứng với giới từ 'trotz + Genitiv'."
     },
     {
@@ -540,8 +540,8 @@
      "q": "Welches Verb passt in die Lücke: „Die Wissenschaftler konnten den Zusammenhang eindeutig ___.“",
      "options": [
       "nachweisen",
-      "aufstellen",
       "auswerten",
+      "aufstellen",
       "erfinden"
      ],
      "answer": 0,
@@ -551,12 +551,12 @@
      "type": "mcq",
      "q": "Welcher Satz drückt einen Zweck (damit / um ... zu) im Nominalstil aus?",
      "options": [
-      "Zur Messung der Temperatur nutzt man einen Sensor.",
       "Nach der Messung der Temperatur geht man nach Hause.",
-      "Trotz der Messung der Temperatur bleibt der Wert unklar.",
-      "Wegen der Messung der Temperatur wartet das Team."
+      "Zur Messung der Temperatur nutzt man einen Sensor.",
+      "Wegen der Messung der Temperatur wartet das Team.",
+      "Trotz der Messung der Temperatur bleibt der Wert unklar."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'zur + danh từ hóa (Dativ)' diễn tả mục đích (để đo nhiệt độ)."
     },
     {
@@ -1151,53 +1151,53 @@
       "q": "Welche Aufgabe haben Ethikkommissionen bei medizinischen Studien?",
       "options": [
        "Sie finanzieren neue Laborgeräte.",
-       "Sie prüfen vorab, ob der Nutzen die Risiken rechtfertigt und Probanden geschützt sind.",
        "Sie schreiben die wissenschaftlichen Artikel für die Forscher.",
-       "Sie verkaufen die getesteten Medikamente direkt an Apotheken."
+       "Sie verkaufen die getesteten Medikamente direkt an Apotheken.",
+       "Sie prüfen vorab, ob der Nutzen die Risiken rechtfertigt und Probanden geschützt sind."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 2 nêu rõ hội đồng đạo đức kiểm tra kế hoạch, cân nhắc lợi ích-rủi ro và cấp phép trước khi thử nghiệm."
      },
      {
       "q": "Was ist eine Voraussetzung für die Teilnahme von Probanden?",
       "options": [
+       "Sie müssen selbst Naturwissenschaft studiert haben.",
        "Sie müssen ein hohes Honorar zahlen.",
-       "Sie müssen über Risiken aufgeklärt werden und schriftlich freiwillig einwilligen.",
        "Sie dürfen nicht wissen, worum es in der Studie geht.",
-       "Sie müssen selbst Naturwissenschaft studiert haben."
+       "Sie müssen über Risiken aufgeklärt werden und schriftlich freiwillig einwilligen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 2 nhấn mạnh người tham gia phải được giải thích về tác dụng phụ và tự nguyện ký đồng thuận."
      },
      {
       "q": "Warum kommt es laut Text in Einzelfällen zu Datenmanipulation?",
       "options": [
-       "Wegen veralteter Computer.",
-       "Aufgrund des hohen Leistungsdrucks bei Karriere und Finanzierung.",
        "Weil es keine Gesetze gegen Plagiate gibt.",
-       "Weil die Ergebnisse niemanden interessieren."
+       "Weil die Ergebnisse niemanden interessieren.",
+       "Wegen veralteter Computer.",
+       "Aufgrund des hohen Leistungsdrucks bei Karriere und Finanzierung."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 chỉ ra áp lực thành tích để có cơ hội nghề nghiệp và tài trợ dẫn đến gian lận."
      },
      {
       "q": "Warum sollen auch fehlgeschlagene Experimente veröffentlicht werden?",
       "options": [
-       "Damit andere Teams nicht dieselben Fehler wiederholen.",
+       "Um Konkurrenten zu entmutigen.",
        "Um die Zeitschriften mit mehr Seiten zu füllen.",
        "Damit niemand mehr Grundlagenforschung betreibt.",
-       "Um Konkurrenten zu entmutigen."
+       "Damit andere Teams nicht dieselben Fehler wiederholen."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 4 giải thích việc công bố thí nghiệm thất bại giúp các nhóm khác tránh lặp lại sai lầm."
      },
      {
       "q": "Wie bewertet der Text ethische Regeln insgesamt?",
       "options": [
-       "Als unnötige Bürokratie für junge Wissenschaftler.",
+       "Als Verbot jeglicher digitaler Technik.",
        "Als sinnvolle Leitplanken, die Vertrauen und gesellschaftliche Akzeptanz sichern.",
        "Als Hauptursache für den Fachkräftemangel.",
-       "Als Verbot jeglicher digitaler Technik."
+       "Als unnötige Bürokratie für junge Wissenschaftler."
       ],
       "answer": 1,
       "explain": "Đoạn cuối khẳng định quy tắc đạo đức không kìm hãm tiến bộ mà bảo vệ lợi ích con người và sự chấp nhận của xã hội."
@@ -1217,9 +1217,9 @@
      "q": "Welche Verbalisierung entspricht dem Ausdruck „Nach Erteilung der Genehmigung begann der Versuch“?",
      "options": [
       "Nachdem die Genehmigung erteilt worden war, begann der Versuch.",
-      "Bevor die Genehmigung erteilt wurde, begann der Versuch.",
+      "Während die Genehmigung erteilt wird, begann der Versuch.",
       "Obwohl die Genehmigung erteilt wurde, begann der Versuch.",
-      "Während die Genehmigung erteilt wird, begann der Versuch."
+      "Bevor die Genehmigung erteilt wurde, begann der Versuch."
      ],
      "answer": 0,
      "explain": "'nach' chuyển thành 'nachdem' với thì Plusquamperfekt bị động (er-teilt worden war) vì mệnh đề chính ở Präteritum."
@@ -1229,9 +1229,9 @@
      "q": "Wählen Sie die richtige Verbindung: „Der Arzt informiert die Probanden genau, ___ sie selbst entscheiden können.“",
      "options": [
       "damit",
+      "aufgrund",
       "um ... zu",
-      "trotz",
-      "aufgrund"
+      "trotz"
      ],
      "answer": 0,
      "explain": "Hai vế khác chủ ngữ (der Arzt ≠ sie) nên bắt buộc dùng 'damit' thay vì 'um ... zu'."
@@ -1240,36 +1240,36 @@
      "type": "mcq",
      "q": "Welche Formulierung ersetzt „Trotz ethischer Bedenken“ korrekt im Verbalstil?",
      "options": [
-      "Obwohl es ethische Bedenken gibt",
-      "Weil es ethische Bedenken gibt",
       "Damit es ethische Bedenken gibt",
-      "Wenn es ethische Bedenken gab"
+      "Obwohl es ethische Bedenken gibt",
+      "Wenn es ethische Bedenken gab",
+      "Weil es ethische Bedenken gibt"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'trotz' (nhượng bộ) chuyển sang liên từ 'obwohl'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „ein Plagiat begehen“?",
      "options": [
-      "Fremde Texte oder Ideen ohne Quellenangabe als eigene ausgeben",
-      "Eine neue Theorie im Labor testen",
       "Eine Studie finanziell unterstützen",
-      "Einen Antrag bei der Ethikkommission stellen"
+      "Einen Antrag bei der Ethikkommission stellen",
+      "Eine neue Theorie im Labor testen",
+      "Fremde Texte oder Ideen ohne Quellenangabe als eigene ausgeben"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Plagiat' là hành vi đạo văn, sao chép ý tưởng/văn bản người khác mà không trích dẫn nguồn."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bildet die Nomen-Verb-Verbindung „Verantwortung ___“?",
      "options": [
-      "übernehmen",
-      "erfinden",
       "widerlegen",
-      "fälschen"
+      "fälschen",
+      "übernehmen",
+      "erfinden"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Cụm chuẩn là 'Verantwortung übernehmen' (nhận trách nhiệm) hoặc 'Verantwortung tragen'."
     },
     {
@@ -1277,9 +1277,9 @@
      "q": "Welcher Satz ist grammatikalisch richtig?",
      "options": [
       "Nachdem das Team die Daten geprüft hat, veröffentlicht es den Bericht.",
-      "Nachdem das Team die Daten prüft, veröffentlicht es den Bericht.",
       "Nachdem das Team die Daten prüfen wird, veröffentlicht es den Bericht.",
-      "Nachdem das Team die Daten geprüft hatte, veröffentlicht es den Bericht."
+      "Nachdem das Team die Daten geprüft hatte, veröffentlicht es den Bericht.",
+      "Nachdem das Team die Daten prüft, veröffentlicht es den Bericht."
      ],
      "answer": 0,
      "explain": "Mệnh đề chính ở Präsens (veröffentlicht) → mệnh đề nachdem phải ở Perfekt (geprüft hat)."
@@ -1289,8 +1289,8 @@
      "q": "Was passt in die Lücke: „Ohne eine ___ der Ethikkommission darf die Studie nicht starten.“",
      "options": [
       "Genehmigung",
-      "Manipulation",
       "Nebenwirkung",
+      "Manipulation",
       "Quellenangabe"
      ],
      "answer": 0,
@@ -1300,12 +1300,12 @@
      "type": "mcq",
      "q": "Welche Bedeutung hat „vertretbar“ im Satz „Das Risiko ist ethisch vertretbar“?",
      "options": [
-      "akzeptabel und moralisch zu rechtfertigen",
       "völlig verboten",
+      "akzeptabel und moralisch zu rechtfertigen",
       "technisch unmöglich",
       "finanziell viel zu teuer"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'vertretbar' = có thể chấp nhận và bảo vệ được về mặt lý lẽ/đạo đức."
     },
     {
@@ -1894,23 +1894,23 @@
      {
       "q": "Welche Gefahr besteht laut dem ersten Abschnitt bei Statistiken?",
       "options": [
+       "Wissenschaftliche Studien verzichten heute auf Diagramme.",
        "Zahlen sind grundsätzlich immer gefälscht.",
        "Selbst richtige Zahlen können durch geschickte Darstellung einen falschen Eindruck erzeugen.",
-       "Statistiken werden nur in Wahlkämpfen verwendet.",
-       "Wissenschaftliche Studien verzichten heute auf Diagramme."
+       "Statistiken werden nur in Wahlkämpfen verwendet."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 1 chỉ ra ngay cả dữ liệu đúng cũng có thể gây hiểu nhầm nếu được trình bày khéo léo có chủ ý."
      },
      {
       "q": "Wie entsteht eine optische Verzerrung bei Liniendiagrammen?",
       "options": [
-       "Wenn die senkrechte Achse nicht bei null beginnt.",
-       "Wenn zu viele Farben benutzt werden.",
+       "Wenn keine Prozentzahlen vorkommen.",
        "Wenn das Diagramm eine Überschrift hat.",
-       "Wenn keine Prozentzahlen vorkommen."
+       "Wenn die senkrechte Achse nicht bei null beginnt.",
+       "Wenn zu viele Farben benutzt werden."
       ],
-      "answer": 0,
+      "answer": 2,
       "explain": "Đoạn 2 giải thích việc cắt trục tung không bắt đầu từ 0 khiến mức tăng nhỏ trông rất lớn."
      },
      {
@@ -1918,8 +1918,8 @@
       "options": [
        "Dass 2 Prozentpunkte genau dasselbe sind wie eine Steigerung um 2 Prozent.",
        "Wie je nach Absicht zwischen Prozentpunkten (2) und relativer Steigerung (20 %) gewählt wird.",
-       "Dass Kreisdiagramme immer besser sind als Liniendiagramme.",
-       "Dass Produkte um 12 Prozent teurer geworden sind."
+       "Dass Produkte um 12 Prozent teurer geworden sind.",
+       "Dass Kreisdiagramme immer besser sind als Liniendiagramme."
       ],
       "answer": 1,
       "explain": "Đoạn 2 phân tích sự khác nhau giữa 2 điểm phần trăm và mức tăng tương đối 20%."
@@ -1928,22 +1928,22 @@
       "q": "Worauf muss man beim Vergleichszeitraum einer Grafik achten?",
       "options": [
        "Ob der Zeitraum genau zwölf Monate dauert.",
-       "Ob bewusst ein besonders schlechtes Krisenjahr als Startpunkt gewählt wurde.",
        "Ob die Daten älter als zehn Jahre sind.",
-       "Ob nur Spitzenreiter gezeigt werden."
+       "Ob nur Spitzenreiter gezeigt werden.",
+       "Ob bewusst ein besonders schlechtes Krisenjahr als Startpunkt gewählt wurde."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 cảnh báo việc chọn năm khủng hoảng có mức đáy lịch sử làm mốc so sánh để thổi phồng tăng trưởng."
      },
      {
       "q": "Was gehört laut dem letzten Abschnitt zu einer seriösen Grafik?",
       "options": [
-       "Möglichst große Balken ohne Text.",
-       "Klare Überschrift, eindeutige Einheiten, Erhebungszeitraum und überprüfbare Quelle.",
+       "Nur geschätzte Durchschnittswerte.",
        "Eine Online-Abstimmung ohne Stichprobenangabe.",
-       "Nur geschätzte Durchschnittswerte."
+       "Klare Überschrift, eindeutige Einheiten, Erhebungszeitraum und überprüfbare Quelle.",
+       "Möglichst große Balken ohne Text."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn cuối liệt kê 4 yếu tố bắt buộc của một biểu đồ nghiêm túc."
      }
     ],
@@ -1960,24 +1960,24 @@
      "type": "mcq",
      "q": "Der Anteil der E-Books stieg von 10 % auf 15 %. Welche Aussage ist mathematisch und sprachlich korrekt?",
      "options": [
-      "Der Anteil stieg um 5 Prozentpunkte.",
       "Der Anteil stieg auf 5 Prozentpunkte.",
-      "Der Anteil sank um 5 Prozentpunkte.",
-      "Der Anteil stieg um 15 Prozent."
+      "Der Anteil stieg um 15 Prozent.",
+      "Der Anteil stieg um 5 Prozentpunkte.",
+      "Der Anteil sank um 5 Prozentpunkte."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Từ 10% lên 15% là tăng thêm (chênh lệch) 5 điểm phần trăm: 'um 5 Prozentpunkte'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz beschreibt das Ergebnis nach einer Preiserhöhung richtig (Alter Preis: 20 €, neuer Preis: 25 €)?",
      "options": [
+      "Der Preis ist von 25 Euro gestiegen.",
       "Der Preis ist auf 25 Euro gestiegen.",
-      "Der Preis ist um 25 Euro gestiegen.",
       "Der Preis ist bei 25 Euro gestiegen.",
-      "Der Preis ist von 25 Euro gestiegen."
+      "Der Preis ist um 25 Euro gestiegen."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Đạt đến mức giá cuối cùng dùng 'auf + Akk.': auf 25 Euro."
     },
     {
@@ -1985,9 +1985,9 @@
      "q": "Welches Diagramm eignet sich am besten, um die prozentuale Verteilung eines Budgets (insgesamt 100 %) zu zeigen?",
      "options": [
       "das Kreisdiagramm",
+      "die Stichprobe",
       "das Liniendiagramm",
-      "der Lebenslauf",
-      "die Stichprobe"
+      "der Lebenslauf"
      ],
      "answer": 0,
      "explain": "Biểu đồ tròn (Kreisdiagramm) chuyên dùng để biểu thị tỷ trọng phần trăm trong tổng 100%."
@@ -1996,12 +1996,12 @@
      "type": "mcq",
      "q": "Welches Verb ist intransitiv (kann kein Akkusativobjekt haben)?",
      "options": [
+      "erhöhen",
       "sinken",
-      "senken",
       "steigern",
-      "erhöhen"
+      "senken"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'sinken' (tự giảm) là nội động từ; 'senken, steigern, erhöhen' là ngoại động từ cần tân ngữ Akkusativ."
     },
     {
@@ -2010,8 +2010,8 @@
      "options": [
       "Die Zahl bleibt über längere Zeit fast unverändert.",
       "Die Zahl fällt auf den Tiefstwert.",
-      "Die Zahl verdoppelt sich plötzlich.",
-      "Die Zahl lässt sich nicht messen."
+      "Die Zahl lässt sich nicht messen.",
+      "Die Zahl verdoppelt sich plötzlich."
      ],
      "answer": 0,
      "explain": "'stagnieren' = giậm chân tại chỗ, không tăng không giảm."
@@ -2021,9 +2021,9 @@
      "q": "Ergänzen Sie: „Im Vergleich ___ Vorjahr hat sich die Quote verdoppelt.“",
      "options": [
       "zum",
+      "über dem",
       "auf das",
-      "um das",
-      "über dem"
+      "um das"
      ],
      "answer": 0,
      "explain": "Cụm cố định: 'im Vergleich zu + Dativ' → 'im Vergleich zum Vorjahr'."
@@ -2032,12 +2032,12 @@
      "type": "mcq",
      "q": "Welcher Ausdruck bedeutet „den ersten Platz belegen“?",
      "options": [
-      "Spitzenreiter sein",
       "Schlusslicht sein",
       "im Durchschnitt liegen",
+      "Spitzenreiter sein",
       "sprunghaft sinken"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Spitzenreiter' là người/đơn vị dẫn đầu."
     },
     {
@@ -2561,21 +2561,21 @@
      {
       "q": "Was kritisiert die Open-Science-Bewegung am traditionellen Publikationsmodell?",
       "options": [
+       "Dass es zu wenige Universitäten gibt.",
        "Dass Forschungsteams zu schnell arbeiten.",
        "Dass Ergebnisse aus steuerfinanzierter Forschung oft hinter teuren Bezahlschranken verschwinden.",
-       "Dass Fachzeitschriften zu viele Rohdaten drucken.",
-       "Dass es zu wenige Universitäten gibt."
+       "Dass Fachzeitschriften zu viele Rohdaten drucken."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 1 và 2 nêu vấn đề bài báo từ tiền thuế công lại nằm sau tường thu phí đắt đỏ."
      },
      {
       "q": "Warum sollen laut Text auch Rohdaten und Softwarecodes veröffentlicht werden?",
       "options": [
        "Damit andere Teams Berechnungen prüfen und Manipulationen schneller entdecken können.",
-       "Damit Studierende weniger im Labor arbeiten müssen.",
        "Um die Druckkosten der Zeitschriften zu senken.",
-       "Damit niemand mehr Patente anmeldet."
+       "Damit niemand mehr Patente anmeldet.",
+       "Damit Studierende weniger im Labor arbeiten müssen."
       ],
       "answer": 0,
       "explain": "Đoạn 2 giải thích việc công khai dữ liệu thô và mã nguồn giúp kiểm chứng và phát hiện sai sót/gian lận."
@@ -2583,32 +2583,32 @@
      {
       "q": "Wie hat sich der Anteil frei zugänglicher Fachartikel in den letzten zehn Jahren entwickelt?",
       "options": [
-       "Er sank von 50 auf 20 Prozent.",
+       "Er fiel auf einen Tiefstwert.",
        "Er stagnierte bei 30 Prozent.",
-       "Er stieg von rund 20 Prozent auf über 50 Prozent.",
-       "Er fiel auf einen Tiefstwert."
+       "Er sank von 50 auf 20 Prozent.",
+       "Er stieg von rund 20 Prozent auf über 50 Prozent."
       ],
-      "answer": 2,
+      "answer": 3,
       "explain": "Đoạn 3 nêu rõ tỷ lệ tăng từ khoảng 20% lên hơn 50%."
      },
      {
       "q": "Welche Bedenken äußern Kritiker gegenüber Open Science?",
       "options": [
-       "Dass Patientendaten missbraucht werden könnten und Firmen Erfindungen vor Konkurrenz schützen müssen.",
        "Dass das Internet dadurch zu langsam wird.",
+       "Dass Patientendaten missbraucht werden könnten und Firmen Erfindungen vor Konkurrenz schützen müssen.",
        "Dass zu viele negative Ergebnisse verschwiegen werden.",
        "Dass Gremien keine Artikel mehr lesen."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 4 đề cập hai rủi ro: bảo mật dữ liệu bệnh nhân và xung đột với bằng sáng chế của doanh nghiệp."
      },
      {
       "q": "Welchen Nutzen hat die Vorab-Registrierung von Studienplänen?",
       "options": [
-       "Sie macht das Labor überflüssig.",
+       "Sie ersetzt die Einwilligung der Probanden.",
        "Sie verhindert, dass unbequeme Messwerte nachträglich verschwiegen werden.",
        "Sie garantiert automatisch einen Durchbruch.",
-       "Sie ersetzt die Einwilligung der Probanden."
+       "Sie macht das Labor überflüssig."
       ],
       "answer": 1,
       "explain": "Đoạn 5 giải thích việc đăng ký trước kế hoạch giúp ngăn chặn tình trạng giấu kết quả không mong muốn."
@@ -2616,10 +2616,10 @@
      {
       "q": "Welche Haltung vertritt der Artikel insgesamt zu Open Science?",
       "options": [
-       "Er lehnt sie wegen Datenschutzproblemen ab.",
+       "Er fordert die Abschaffung aller Fachzeitschriften.",
        "Er sieht sie als wichtiges Fundament einer verlässlichen Forschungskultur, sofern Datenschutz und Ethik gewahrt bleiben.",
-       "Er hält sie für einen kurzfristigen Trend.",
-       "Er fordert die Abschaffung aller Fachzeitschriften."
+       "Er lehnt sie wegen Datenschutzproblemen ab.",
+       "Er hält sie für einen kurzfristigen Trend."
       ],
       "answer": 1,
       "explain": "Đoạn cuối khẳng định đây là nền tảng đáng tin cậy nếu kết hợp tốt minh bạch, bảo mật và đạo đức."
@@ -2638,48 +2638,48 @@
      "type": "mcq",
      "q": "Welcher Satz wandelt „Weil die Stichprobe zu klein war, wurde die Studie abgelehnt“ korrekt in den Nominalstil um?",
      "options": [
-      "Aufgrund der zu kleinen Stichprobe wurde die Studie abgelehnt.",
       "Trotz der zu kleinen Stichprobe wurde die Studie abgelehnt.",
       "Nach der zu kleinen Stichprobe wurde die Studie abgelehnt.",
-      "Zur zu kleinen Stichprobe wurde die Studie abgelehnt."
+      "Zur zu kleinen Stichprobe wurde die Studie abgelehnt.",
+      "Aufgrund der zu kleinen Stichprobe wurde die Studie abgelehnt."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'weil' (nguyên nhân) → 'aufgrund + Genitiv'."
     },
     {
      "type": "mcq",
      "q": "Welche Präposition ergänzt den Satz: „Die Forschungsausgaben stiegen von 2,0 ___ 2,5 Prozent“?",
      "options": [
-      "auf",
-      "um",
+      "nach",
       "bei",
-      "nach"
+      "auf",
+      "um"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Mức đầu đến mức cuối dùng 'von ... auf'."
     },
     {
      "type": "mcq",
      "q": "Welches Hilfsverb braucht „sinken“ im Perfekt?",
      "options": [
-      "sein (ist gesunken)",
-      "haben (hat gesunken)",
       "werden (wird gesunken)",
-      "lassen (lässt gesunken)"
+      "lassen (lässt gesunken)",
+      "haben (hat gesunken)",
+      "sein (ist gesunken)"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Động từ chỉ sự thay đổi trạng thái/mức độ như 'steigen, sinken' dùng trợ động từ 'sein'."
     },
     {
      "type": "mcq",
      "q": "Was passt: „Der Anteil wuchs von 12 auf 18 Prozent, also ___ sechs Prozentpunkte.“",
      "options": [
+      "von",
       "um",
       "auf",
-      "bei",
-      "von"
+      "bei"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Chỉ độ chênh lệch tăng thêm dùng 'um'."
     },
     {
@@ -2687,8 +2687,8 @@
      "q": "Welche Verbalisierung ersetzt „Vor Beginn der Tests prüft das Gremium den Antrag“?",
      "options": [
       "Bevor die Tests beginnen, prüft das Gremium den Antrag.",
-      "Nachdem die Tests beginnen, prüft das Gremium den Antrag.",
       "Obwohl die Tests beginnen, prüft das Gremium den Antrag.",
+      "Nachdem die Tests beginnen, prüft das Gremium den Antrag.",
       "Damit die Tests beginnen, prüft das Gremium den Antrag."
      ],
      "answer": 0,
@@ -2698,60 +2698,60 @@
      "type": "mcq",
      "q": "Welches Substantiv bedeutet „sự bóp méo, sai lệch“?",
      "options": [
-      "die Verzerrung",
-      "die Einwilligung",
       "die Erfindung",
-      "die Genehmigung"
+      "die Genehmigung",
+      "die Verzerrung",
+      "die Einwilligung"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Verzerrung' = sự bóp méo (vd: optische Verzerrung)."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz hat die richtige Zeitform bei „nachdem“?",
      "options": [
+      "Nachdem der Bericht begutachtet worden ist, erschien er.",
       "Nachdem der Bericht begutachtet worden war, erschien er.",
       "Nachdem der Bericht begutachtet wurde, erschien er.",
-      "Nachdem der Bericht begutachtet wird, erschien er.",
-      "Nachdem der Bericht begutachtet worden ist, erschien er."
+      "Nachdem der Bericht begutachtet wird, erschien er."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Mệnh đề chính ở Präteritum ('erschien') → mệnh đề nachdem phải ở Plusquamperfekt ('worden war')."
     },
     {
      "type": "mcq",
      "q": "Welcher Ausdruck beschreibt die niedrigste Position in einer Rangliste?",
      "options": [
+      "einen Zuwachs verzeichnen",
       "das Schlusslicht bilden",
-      "Spitzenreiter sein",
       "einen Meilenstein setzen",
-      "einen Zuwachs verzeichnen"
+      "Spitzenreiter sein"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'das Schlusslicht bilden' = đứng cuối bảng."
     },
     {
      "type": "mcq",
      "q": "Welche Präposition fordert den Genitiv?",
      "options": [
-      "aufgrund",
+      "mit",
       "bei",
       "nach",
-      "mit"
+      "aufgrund"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'aufgrund, wegen, trotz, während, mithilfe' đi với Genitiv."
     },
     {
      "type": "mcq",
      "q": "Was ist der Unterschied zwischen „Erfindung“ und „Entdeckung“?",
      "options": [
-      "Erfindung = etwas Neues schaffen; Entdeckung = etwas Vorhandenes finden.",
-      "Beide Wörter bedeuten exakt dasselbe.",
       "Entdeckung gilt nur für Maschinen.",
+      "Beide Wörter bedeuten exakt dasselbe.",
+      "Erfindung = etwas Neues schaffen; Entdeckung = etwas Vorhandenes finden.",
       "Erfindung ist ein Verb."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Phát minh (Erfindung) tạo ra cái mới; khám phá (Entdeckung) tìm ra cái đã có."
     },
     {

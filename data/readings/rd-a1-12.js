@@ -110,47 +110,47 @@
   {
    "q": "Von wann bis wann gilt die tägliche Nachtruhe?",
    "options": [
-    "Von 20:00 bis 6:00 Uhr",
     "Von 22:00 bis 7:00 Uhr",
+    "Von 20:00 bis 6:00 Uhr",
     "Von 23:00 bis 8:00 Uhr"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Was ist während der Ruhezeiten verboten?",
    "options": [
-    "Kochen",
     "Laute Musik, Bohren oder Hämmern",
+    "Kochen",
     "Fernsehen mit Kopfhörern"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Wo darf man Fahrräder und Kinderwagen abstellen?",
    "options": [
-    "Im Treppenhaus",
     "In den vorgesehenen Kellerräumen",
+    "Im Treppenhaus",
     "Vor der Haustür"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Welcher Container ist für Altpapier gedacht?",
    "options": [
-    "Der gelbe Container",
     "Der blaue Container",
+    "Der gelbe Container",
     "Der braune Container"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "An wen wendet man sich bei technischen Problemen?",
    "options": [
+    "An das Rathaus",
     "An die Polizei",
-    "An den Hausmeister Herrn Krause",
-    "An das Rathaus"
+    "An den Hausmeister Herrn Krause"
    ],
-   "answer": 1
+   "answer": 2
   }
  ]
 });

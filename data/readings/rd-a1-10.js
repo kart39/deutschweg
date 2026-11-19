@@ -109,27 +109,27 @@
   {
    "q": "Für wie viele Personen ist dieses Rezept gedacht?",
    "options": [
+    "Für sechs Personen",
     "Für zwei Personen",
-    "Für vier Personen",
-    "Für sechs Personen"
+    "Für vier Personen"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Welches Gemüse braucht man für die Suppe?",
    "options": [
     "Kartoffeln, Karotten, Lauch, Zwiebel und Sellerie",
-    "Tomaten und Gurken",
-    "Nur Kartoffeln und Salat"
+    "Nur Kartoffeln und Salat",
+    "Tomaten und Gurken"
    ],
    "answer": 0
   },
   {
    "q": "Wie lange kocht das Gemüse im Topf?",
    "options": [
-    "Ca. 5 Minuten",
+    "Eine Stunde",
     "Ca. 20 Minuten",
-    "Eine Stunde"
+    "Ca. 5 Minuten"
    ],
    "answer": 1
   },
@@ -145,9 +145,9 @@
   {
    "q": "Was gibt man zum Schluss in die heiße Suppe?",
    "options": [
-    "Käse und Eier",
+    "Zucker und Milch",
     "Würstchen in Scheiben und Petersilie",
-    "Zucker und Milch"
+    "Käse und Eier"
    ],
    "answer": 1
   }

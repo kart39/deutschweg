@@ -13,72 +13,72 @@
    "type": "mcq",
    "q": "Welcher Satz hat einen FEHLERHAFTEN Subjektbezug (Falscher Subjektbezug)?",
    "options": [
-    "In Berlin angekommen, regnete es den ganzen Tag in Strömen.",
     "In Berlin angekommen, suchte der Minister sofort sein Hotel auf.",
-    "Vom Beifall überwältigt, verneigte sich die Künstlerin.",
-    "Laut um Hilfe rufend, versuchte das Kind die Passanten zu alarmieren."
+    "Laut um Hilfe rufend, versuchte das Kind die Passanten zu alarmieren.",
+    "In Berlin angekommen, regnete es den ganzen Tag in Strömen.",
+    "Vom Beifall überwältigt, verneigte sich die Künstlerin."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Chủ ngữ mệnh đề chính là 'es' (trời mưa). Trời mưa không thể tự mình 'đến Berlin' được (falscher Subjektbezug)."
   },
   {
    "type": "mcq",
    "q": "Wird das Partizip in einer satzwertigen Partizipialkonstruktion dekliniert (flektiert)?",
    "options": [
-    "Nein, satzwertige Partizipien bleiben undekliniert (ohne Adjektivendung).",
     "Ja, sie erhalten immer die Endung '-en'.",
+    "Nein, satzwertige Partizipien bleiben undekliniert (ohne Adjektivendung).",
     "Ja, sie richten sich nach dem Subjekt.",
     "Nur wenn sie am Satzende stehen."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Phân từ độc lập tương đương mệnh đề không bao giờ chia đuôi tính từ (bleibt undekliniert)."
   },
   {
    "type": "mcq",
    "q": "Welchem Nebensatz entspricht: 'Durch den Sturm schwer beschädigt, musste das Haus geräumt werden.'?",
    "options": [
-    "Weil das Haus durch den Sturm schwer beschädigt worden war,...",
-    "Obwohl das Haus durch den Sturm schwer beschädigt worden war,...",
     "Damit das Haus durch den Sturm schwer beschädigt wurde,...",
-    "Während das Haus durch den Sturm schwer beschädigt wurde,..."
+    "Weil das Haus durch den Sturm schwer beschädigt worden war,...",
+    "Während das Haus durch den Sturm schwer beschädigt wurde,...",
+    "Obwohl das Haus durch den Sturm schwer beschädigt worden war,..."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Cấu trúc phân từ này diễn tả quan hệ nhân quả (Kausalsatz): Weil das Haus beschädigt worden war..."
   },
   {
    "type": "mcq",
    "q": "Welches Partizip drückt eine GLEICHZEITIGE Handlung aus?",
    "options": [
-    "Partizip I (z.B. lachend)",
-    "Partizip II (z.B. gelacht)",
     "Infinitiv mit zu",
-    "Gerundivum"
+    "Partizip II (z.B. gelacht)",
+    "Gerundivum",
+    "Partizip I (z.B. lachend)"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Partizip I (-end) luôn diễn tả hành động đang diễn tiến đồng thời với mệnh đề chính."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist grammatisch KORREKT formuliert?",
    "options": [
-    "Erschöpft von der langen Wanderung, schlief der Tourist sofort ein.",
-    "Erschöpfte von der langen Wanderung, schlief der Tourist sofort ein.",
     "Erschöpft von der langen Wanderung, der Tourist schlief sofort ein.",
-    "Erschöpften von der Wanderung, schlief der Tourist sofort ein."
+    "Erschöpften von der Wanderung, schlief der Tourist sofort ein.",
+    "Erschöpfte von der langen Wanderung, schlief der Tourist sofort ein.",
+    "Erschöpft von der langen Wanderung, schlief der Tourist sofort ein."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Cấu trúc chuẩn: Phân từ không chia đuôi (Erschöpft), có dấu phẩy, mệnh đề chính đảo ngữ (schlief der Tourist)."
   },
   {
    "type": "mcq",
    "q": "Was bedeutet 'Richtig angewendet, spart diese Methode viel Zeit.'?",
    "options": [
+    "Weil diese Methode richtig angewendet wurde, sparte sie viel Zeit.",
     "Wenn diese Methode richtig angewendet wird, spart sie viel Zeit.",
     "Obwohl diese Methode richtig angewendet wird, spart sie viel Zeit.",
-    "Weil diese Methode richtig angewendet wurde, sparte sie viel Zeit.",
     "Damit diese Methode richtig angewendet wird, spart sie viel Zeit."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Cấu trúc phân từ này diễn tả điều kiện giả định (Konditionalsatz mit wenn)."
   },
   {

@@ -117,38 +117,38 @@
   {
    "q": "Wohin gehören fettige Pizzakartons?",
    "options": [
-    "In die blaue Papiertonne",
+    "In die Biotonne",
     "In den schwarzen Restmüll",
-    "In die Biotonne"
+    "In die blaue Papiertonne"
    ],
    "answer": 1
   },
   {
    "q": "Darf man Plastiktüten in die braune Biotonne werfen?",
    "options": [
+    "Nein, auf keinen Fall",
     "Ja, immer",
-    "Nur biologisch abbaubare Plastiktüten",
-    "Nein, auf keinen Fall"
+    "Nur biologisch abbaubare Plastiktüten"
    ],
-   "answer": 2
+   "answer": 0
   },
   {
    "q": "Wie wird Altglas entsorgt?",
    "options": [
+    "In der Papiertonne",
     "Im Restmüll",
-    "Nach Farben getrennt in öffentlichen Containern",
-    "In der Papiertonne"
+    "Nach Farben getrennt in öffentlichen Containern"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Warum sollte man Altglas nur zu bestimmten Zeiten einwerfen?",
    "options": [
-    "Um die Nachbarn nicht durch Lärm zu stören",
     "Weil die Container nachts abgeschlossen sind",
+    "Um die Nachbarn nicht durch Lärm zu stören",
     "Weil Glas nachts explodiert"
    ],
-   "answer": 0
+   "answer": 1
   }
  ]
 });

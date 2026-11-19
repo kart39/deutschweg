@@ -277,22 +277,22 @@
      "type": "mcq",
      "q": "Khi mua vé tàu hỏa ở Đức, cụm từ „hin und zurück“ có nghĩa là gì?",
      "options": [
-      "Vé một chiều (chỉ lượt đi)",
-      "Vé khứ hồi (cả lượt đi và lượt về)",
       "Vé tàu cao tốc hạng nhất",
-      "Vé danh cho tre em"
+      "Vé một chiều (chỉ lượt đi)",
+      "Vé danh cho tre em",
+      "Vé khứ hồi (cả lượt đi và lượt về)"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„hin und zurück“ nghĩa là khứ hồi (đi và về); còn vé một chiều là „einfache Fahrt“."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng đúng của động từ tách „abfahren“ (khởi hành) cho câu: „Der Zug nach Berlin ___ heute von Gleis 4 ___.“",
      "options": [
-      "fahrt ... ab",
+      "fahren ... ab",
       "fährt ... ab",
       "abfährt ...",
-      "fahren ... ab"
+      "fahrt ... ab"
      ],
      "answer": 1,
      "explain": "„abfahren“ là động từ tách và bất quy tắc (a → ä ở ngôi du và er/sie/es): „Der Zug fährt ... ab“."
@@ -302,23 +302,23 @@
      "q": "Khi đi du lịch một mình và muốn đặt phòng cho 1 người ở khách sạn, bạn đặt loại phòng nào?",
      "options": [
       "Ein Doppelzimmer",
-      "Ein Einzelzimmer",
       "Ein Wohnzimmer",
+      "Ein Einzelzimmer",
       "Ein Wartezimmer"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„das Einzelzimmer“ là phòng đơn (dành cho 1 người); „das Doppelzimmer“ là phòng đôi (dành cho 2 người)."
     },
     {
      "type": "mcq",
      "q": "Danh từ nào trái nghĩa với „die Abfahrt“ (giờ khởi hành) trên bảng thông tin ở nhà ga?",
      "options": [
+      "die Rezeption (quầy lễ tân)",
       "die Ankunft (giờ đến nơi)",
       "die Durchsage (thong báo qua loa)",
-      "die Rezeption (quầy lễ tân)",
       "die Haltestelle (tram dung)"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„die Abfahrt“ (xuất phát từ động từ abfahren) = giờ khởi hành; trái nghĩa với „die Ankunft“ (xuất phát từ ankommen) = giờ đến nơi."
     },
     {
@@ -732,48 +732,48 @@
      "type": "mcq",
      "q": "Dạng Phân từ II (Partizip II) đúng của hai động từ „fotografieren“ và „besuchen“ là gì?",
      "options": [
-      "gefotografiert / gebesucht",
       "fotografiert / besucht",
       "fotografieren / besuchen",
-      "gefotografieren / besucht"
+      "gefotografieren / besucht",
+      "gefotografiert / gebesucht"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Các động từ kết thúc bằng „-ieren“ (fotografieren) và động từ có tiền tố không tách „be-“ (besuchen) TUYỆT ĐỐI KHÔNG thêm „ge-“ ở Partizip II: „fotografiert“, „besucht“."
     },
     {
      "type": "mcq",
      "q": "Dạng Phân từ II (Partizip II) đúng của động từ tách „einkaufen“ là gì?",
      "options": [
-      "geeinkauft",
       "eingekauft",
       "einkaufen",
-      "gekauft ein"
+      "gekauft ein",
+      "geeinkauft"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Với động từ tách, âm tiết „-ge-“ được chèn vào giữa tiền tố tách và động từ gốc, viết liền thành 1 từ ở cuối câu: „eingekauft“."
     },
     {
      "type": "mcq",
      "q": "Chọn cặp Partizip II đúng của hai động từ bất quy tắc „essen“ (ăn) và „trinken“ (uống):",
      "options": [
-      "geessen / getrinkt",
-      "gegessen / getrunken",
+      "geisst / getrinken",
       "gessen / getranken",
-      "geisst / getrinken"
+      "gegessen / getrunken",
+      "geessen / getrinkt"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„essen“ có Partizip II đặc biệt thêm chữ g ở giữa là „gegessen“; „trinken“ biến âm i → u thành „getrunken“."
     },
     {
      "type": "mcq",
      "q": "Chọn câu ở thì Perfekt có trật tự từ đúng:",
      "options": [
-      "Ich habe gelesen gestern ein Buch.",
       "Ich habe gestern ein Buch gelesen.",
-      "Ich gestern habe ein Buch gelesen.",
-      "Gestern ich habe gelesen ein Buch."
+      "Gestern ich habe gelesen ein Buch.",
+      "Ich habe gelesen gestern ein Buch.",
+      "Ich gestern habe ein Buch gelesen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Trong câu Perfekt, trợ động từ „habe“ đứng ở vị trí số 2, còn Partizip II „gelesen“ bắt buộc đứng ở vị trí cuối cùng của câu."
     },
     {
@@ -1168,20 +1168,20 @@
      {
       "q": "Wie lange sind Markus und seine Frau in Hanoi geblieben?",
       "options": [
+       "Zwei Wochen.",
        "Zwei Tage.",
-       "Vier Tage.",
-       "Zwei Wochen."
+       "Vier Tage."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was haben sie jeden Morgen in Hanoi gemacht?",
       "options": [
-       "Sie haben bis elf Uhr im Hotel geschlafen.",
        "Sie sind früh aufgestanden, um den Hoan-Kiem-See spazieren gegangen und haben Pho gegessen.",
+       "Sie haben bis elf Uhr im Hotel geschlafen.",
        "Sie sind im Meer geschwommen."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Womit sind sie am fünften Tag von Hanoi zur Ha-Long-Bucht gefahren?",
@@ -1206,47 +1206,47 @@
      "q": "Chọn trợ động từ đúng ở thì Perfekt cho động từ „fliegen“ và „bleiben“: „Letzten Sommer ___ wir nach Spanien geflogen und ___ zehn Tage am Meer geblieben.“",
      "options": [
       "haben ... haben",
-      "sind ... haben",
       "sind ... sind",
+      "sind ... haben",
       "haben ... sind"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„fliegen“ (di chuyển từ A sang B) và „bleiben“ (động từ đặc biệt chỉ sự lưu lại) đều BẮT BUỘC đi với trợ động từ „sein“ ở thì Perfekt: „wir sind geflogen und sind geblieben“."
     },
     {
      "type": "mcq",
      "q": "Chọn câu ở thì Perfekt đúng ngữ pháp:",
      "options": [
+      "Heute Morgen bin ich um sechs Uhr aufstehen.",
       "Heute Morgen habe ich um sechs Uhr aufgestanden.",
       "Heute Morgen bin ich um sechs Uhr aufgestanden.",
-      "Heute Morgen bin ich um sechs Uhr aufstehen.",
       "Heute Morgen ist ich um sechs Uhr aufgestanden."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„aufstehen“ (thức dậy) chỉ sự thay đổi trạng thái và chuyển động đứng lên nên dùng trợ động từ „sein“ (ich bin) + Partizip II „aufgestanden“."
     },
     {
      "type": "mcq",
      "q": "Động từ nào sau đây dùng trợ động từ „haben“ (chứ KHÔNG dùng „sein“) ở thì Perfekt?",
      "options": [
-      "wandern (đi bộ đường dài)",
-      "ankommen (đến nơi)",
+      "abfahren (khởi hành)",
       "besichtigen (tham quan)",
-      "abfahren (khởi hành)"
+      "ankommen (đến nơi)",
+      "wandern (đi bộ đường dài)"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„besichtigen“ (+ Akkusativ, tham quan một địa điểm) là ngoại động từ dùng với „haben“: „Wir haben die Stadt besichtigt.“ Ba động từ còn lại chỉ sự di chuyển nên đi với „sein“."
     },
     {
      "type": "mcq",
      "q": "Dạng Phân từ II (Partizip II) đúng của „schwimmen“ và „gehen“ là gì?",
      "options": [
-      "geschwimmt / gegeht",
       "geschwommen / gegangen",
-      "geschwammen / gegingen",
-      "schwommen / gangen"
+      "geschwimmt / gegeht",
+      "schwommen / gangen",
+      "geschwammen / gegingen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Hai động từ mạnh bất quy tắc rất phổ biến: „schwimmen → ist geschwommen“ và „gehen → ist gegangen“."
     },
     {
@@ -1926,17 +1926,17 @@
       "q": "Wo hat Mai übernachtet?",
       "options": [
        "In einer Pension.",
-       "In einem Zelt.",
-       "Bei Linh."
+       "Bei Linh.",
+       "In einem Zelt."
       ],
       "answer": 0
      },
      {
       "q": "Warum hat Mai Fotos mit dem Handy gemacht?",
       "options": [
-       "Sie hat ihr Handy verloren.",
+       "Sie hat keine Fotos gemacht.",
        "Sie hat die Kamera zu Hause vergessen.",
-       "Sie hat keine Fotos gemacht."
+       "Sie hat ihr Handy verloren."
       ],
       "answer": 1
      },
@@ -1962,12 +1962,12 @@
      "type": "mcq",
      "q": "Chọn trợ động từ đúng. {{Ich ___ ein Zimmer gebucht.}}",
      "options": [
-      "hat",
       "hast",
       "habe",
+      "hat",
       "haben"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Ich}} đi với {{habe}}."
     },
     {
@@ -1976,8 +1976,8 @@
      "options": [
       "reserviert",
       "gereserviert",
-      "reservieren",
-      "reservierte"
+      "reservierte",
+      "reservieren"
      ],
      "answer": 0,
      "explain": "Động từ kết thúc bằng {{-ieren}} tạo phân từ không có {{ge-}}."
@@ -1986,24 +1986,24 @@
      "type": "mcq",
      "q": "Chọn câu hỏi lịch sự về việc đã đặt phòng.",
      "options": [
+      "Haben Sie ein Zimmer gebucht?",
       "Sie haben ein Zimmer gebucht.",
-      "Haben Sie ein Zimmer buchen?",
       "Hat Sie ein Zimmer gebucht?",
-      "Haben Sie ein Zimmer gebucht?"
+      "Haben Sie ein Zimmer buchen?"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Đưa {{haben}} lên đầu và đặt {{gebucht}} ở cuối."
     },
     {
      "type": "mcq",
      "q": "Chọn câu nói Nora đã xếp đồ vào va-li.",
      "options": [
-      "Nora packt den Koffer.",
       "Nora hat den Koffer gepackt.",
       "Nora hast den Koffer gepackt.",
-      "Nora hat den Koffer packen."
+      "Nora hat den Koffer packen.",
+      "Nora packt den Koffer."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{Nora}} đi với {{hat}}. Dùng phân từ {{gepackt}} để kể việc đã làm."
     },
     {
@@ -2011,11 +2011,11 @@
      "q": "Chọn dạng đúng cho câu ở {{Perfekt}}. {{Wir haben das Formular ___.}}",
      "options": [
       "ausfüllen",
-      "ausfüllt",
       "ausgefüllt",
-      "ausfüllten"
+      "ausfüllten",
+      "ausfüllt"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Chèn {{ge-}} sau tiền tố tách {{aus}} và dùng đuôi {{-t}}."
     },
     {
@@ -2198,35 +2198,35 @@
      "q": "Chọn trợ động từ. {{Ich ___ nach Wien gefahren.}}",
      "options": [
       "habe",
-      "bin",
       "ist",
-      "bist"
+      "bist",
+      "bin"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Trong câu này, {{fahren}} chỉ di chuyển tới Wien. Với {{ich}}, dùng {{bin}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu kể chúng tôi đã hạ cánh lúc chín giờ.",
      "options": [
-      "Wir haben um neun Uhr gelandet.",
-      "Wir sind um neun Uhr landen.",
+      "Wir sind um neun Uhr gelandet.",
       "Wir ist um neun Uhr gelandet.",
-      "Wir sind um neun Uhr gelandet."
+      "Wir haben um neun Uhr gelandet.",
+      "Wir sind um neun Uhr landen."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{Landen}} ở đây dùng {{sein}}. Với {{wir}}, dùng {{sind}} và phân từ {{gelandet}}."
     },
     {
      "type": "mcq",
      "q": "Chọn phân từ của {{bleiben}}.",
      "options": [
-      "geblieben",
-      "gebleibt",
+      "bleiben",
       "blieb",
-      "bleiben"
+      "gebleibt",
+      "geblieben"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Dạng phân từ của {{bleiben}} là {{geblieben}}."
     },
     {
@@ -2234,23 +2234,23 @@
      "q": "Chọn câu hỏi đúng theo mẫu trợ động từ đứng đầu.",
      "options": [
       "Seid ihr nach Bonn fahren?",
-      "Ihr seid nach Bonn gefahren.",
       "Seid ihr nach Bonn gefahren?",
+      "Ihr seid nach Bonn gefahren.",
       "Sind ihr nach Bonn gefahren?"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Ihr}} đi với {{seid}}. Câu hỏi này có {{Seid}} ở đầu và {{gefahren}} ở cuối."
     },
     {
      "type": "mcq",
      "q": "Chọn từ chỉ việc đến nơi.",
      "options": [
-      "der Abflug",
-      "die Ankunft",
       "die Verspätung",
-      "der Ausflug"
+      "der Ausflug",
+      "die Ankunft",
+      "der Abflug"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Ankunft}} chỉ việc đến nơi hoặc giờ đến. {{Abflug}} chỉ việc khởi hành bằng máy bay."
     },
     {
@@ -2432,36 +2432,36 @@
      "type": "mcq",
      "q": "Chọn phân từ đúng của {{schicken}}.",
      "options": [
+      "schicken",
       "geschicken",
       "schickte",
-      "geschickt",
-      "schicken"
+      "geschickt"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Schicken}} là động từ yếu, tạo phân từ {{geschickt}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu kể tôi đã làm mất thẻ mở cửa.",
      "options": [
-      "Ich habe die Schlüsselkarte verloren.",
-      "Ich bin die Schlüsselkarte verloren.",
       "Ich habe die Schlüsselkarte geverloren.",
-      "Ich habe die Schlüsselkarte verlieren."
+      "Ich habe die Schlüsselkarte verlieren.",
+      "Ich bin die Schlüsselkarte verloren.",
+      "Ich habe die Schlüsselkarte verloren."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Verlieren}} dùng {{haben}} và phân từ {{verloren}}."
     },
     {
      "type": "mcq",
      "q": "Chọn phân từ đúng của {{einpacken}}.",
      "options": [
-      "geeinpackt",
-      "einpackte",
       "einpacken",
-      "eingepackt"
+      "eingepackt",
+      "einpackte",
+      "geeinpackt"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Chèn {{ge-}} sau tiền tố tách {{ein}}."
     },
     {
@@ -2469,23 +2469,23 @@
      "q": "Chọn cặp trợ động từ cho hai câu {{Ich ___ angekommen. Ich ___ eine Postkarte geschickt.}}",
      "options": [
       "habe, bin",
-      "bin, habe",
+      "bin, bin",
       "habe, habe",
-      "bin, bin"
+      "bin, habe"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Ankommen}} dùng {{sein}}. {{Eine Postkarte schicken}} dùng {{haben}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu kể chúng tôi đã tham quan bảo tàng.",
      "options": [
-      "Wir besichtigen das Museum.",
       "Wir sind das Museum besichtigt.",
       "Wir haben das Museum besichtigt.",
-      "Wir haben das Museum gebesichtigt."
+      "Wir haben das Museum gebesichtigt.",
+      "Wir besichtigen das Museum."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Besichtigen}} dùng {{haben}} và phân từ {{besichtigt}}."
     },
     {

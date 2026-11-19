@@ -11,9 +11,9 @@
    "q": "Wie bestellt man im Café am höflichsten? \"Guten Tag, ___.\"",
    "options": [
     "ich hätte gerne ein Stück Käsekuchen.",
-    "ich will ein Stück Käsekuchen.",
+    "ich würde haben ein Stück Käsekuchen.",
     "gib mir ein Stück Käsekuchen.",
-    "ich würde haben ein Stück Käsekuchen."
+    "ich will ein Stück Käsekuchen."
    ],
    "answer": 0,
    "explain": "Cách gọi đồ ăn/uống lịch sự và tự nhiên nhất của người Đức là 'Ich hätte gerne...'."
@@ -22,60 +22,60 @@
    "type": "mcq",
    "q": "Welche Form drückt eine höfliche Bitte aus? \"___ Sie mir bitte kurz helfen?\"",
    "options": [
-    "Könnten",
     "Konnten",
     "Können",
-    "Kann"
+    "Kann",
+    "Könnten"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'Könnten Sie bitte...' là mẫu câu chuẩn mực nhất để nhờ vả lịch sự."
   },
   {
    "type": "mcq",
    "q": "Ergänzen Sie den Ratschlag: \"Du hast starkes Fieber, du ___ lieber zum Arzt gehen.\"",
    "options": [
-    "solltest",
+    "hast",
     "musst",
-    "willst",
-    "hast"
+    "solltest",
+    "willst"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Để đưa ra lời khuyên nhẹ nhàng, tế nhị, ta dùng Konjunktiv II của sollen: 'solltest'."
   },
   {
    "type": "mcq",
    "q": "Ich ___ jetzt am liebsten am Strand und würde mich ausruhen.",
    "options": [
+    "bin",
     "wäre",
     "würde sein",
-    "bin",
     "war"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Konjunktiv II của 'sein' là 'wäre'. Tuyệt đối không dùng 'würde sein'."
   },
   {
    "type": "mcq",
    "q": "Welche Form von \"haben\" ist im Konjunktiv II (ich/er) korrekt?",
    "options": [
-    "hätte",
     "hatte",
+    "würde haben",
     "hättest",
-    "würde haben"
+    "hätte"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Dạng Konjunktiv II của 'haben' cho ngôi ich và er là 'hätte'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz mit \"würde\" ist grammatisch KORREKT?",
    "options": [
-    "Ich würde gerne im nächsten Sommer nach Vietnam reisen.",
-    "Ich würde gerne im nächsten Sommer nach Vietnam gereist.",
     "Ich würde gerne im nächsten Sommer reisen nach Vietnam.",
+    "Ich würde gerne im nächsten Sommer nach Vietnam gereist.",
+    "Ich würde gerne im nächsten Sommer nach Vietnam reisen.",
     "Ich würde reisen gerne im nächsten Sommer nach Vietnam."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Trong cấu trúc với 'würde', động từ nguyên mẫu 'reisen' phải đứng ở vị trí cuối cùng của câu."
   },
   {

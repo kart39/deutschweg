@@ -398,11 +398,11 @@
      {
       "q": "Was bedeutet „etwas auf dem Kerbholz haben“?",
       "options": [
-       "Gut mit Holz arbeiten können",
        "Etwas Unrechtes getan haben",
+       "Gut mit Holz arbeiten können",
        "Viel Geld gespart haben"
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Warum musste der Letzte in der Badestube „etwas ausbaden“?",
@@ -416,9 +416,9 @@
      {
       "q": "Woher stammt die Wendung „ein Buch mit sieben Siegeln“?",
       "options": [
-       "Aus einem Theaterstück von Goethe",
+       "Aus der Sprache der Buchhändler",
        "Aus der Bibel",
-       "Aus der Sprache der Buchhändler"
+       "Aus einem Theaterstück von Goethe"
       ],
       "answer": 1
      },
@@ -434,20 +434,20 @@
      {
       "q": "Was empfehlen Sprachwissenschaftler zum Lernen von Redewendungen?",
       "options": [
-       "Sie wörtlich zu übersetzen",
        "Sie in typischen Kontexten zu lernen und Entsprechungen zu suchen",
-       "Sie möglichst häufig in jeden Text einzubauen"
+       "Sie möglichst häufig in jeden Text einzubauen",
+       "Sie wörtlich zu übersetzen"
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welche Aussage trifft auf neue Redewendungen zu?",
       "options": [
        "Es entstehen heute keine neuen mehr.",
-       "Sie stammen oft aus Technik und Internet.",
-       "Sie sind alle aus dem Englischen übernommen."
+       "Sie sind alle aus dem Englischen übernommen.",
+       "Sie stammen oft aus Technik und Internet."
       ],
-      "answer": 1
+      "answer": 2
      }
     ]
    },
@@ -461,10 +461,10 @@
      "type": "mcq",
      "q": "Was bedeutet „Sie nimmt kein Blatt vor den Mund.“?",
      "options": [
-      "Sie spricht sehr leise.",
-      "Sie sagt offen ihre Meinung.",
       "Sie schweigt lieber.",
-      "Sie liest gern laut vor."
+      "Sie sagt offen ihre Meinung.",
+      "Sie liest gern laut vor.",
+      "Sie spricht sehr leise."
      ],
      "answer": 1,
      "explain": "*kein Blatt vor den Mund nehmen* = nói thẳng, không kiêng nể."
@@ -475,8 +475,8 @@
      "options": [
       "auf die Bühne gegangen",
       "über die Bühne gegangen",
-      "hinter die Bühne gegangen",
-      "unter die Bühne gegangen"
+      "unter die Bühne gegangen",
+      "hinter die Bühne gegangen"
      ],
      "answer": 1,
      "explain": "Cụm cố định *über die Bühne gehen* = diễn ra (suôn sẻ). Không thay giới từ được."
@@ -485,36 +485,36 @@
      "type": "mcq",
      "q": "In welchem Kontext ist „Das ist mir Wurst.“ angemessen?",
      "options": [
+      "In einem Bewerbungsschreiben",
       "In einer E-Mail an die Geschäftsführung",
-      "In einem Gespräch unter Freunden",
       "In einer wissenschaftlichen Arbeit",
-      "In einem Bewerbungsschreiben"
+      "In einem Gespräch unter Freunden"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Thành ngữ khẩu ngữ, chỉ dùng trong ngữ cảnh thân mật."
     },
     {
      "type": "mcq",
      "q": "Welche Form ist korrekt?",
      "options": [
+      "Er nimmt die Warnung auf der leichten Schulter.",
       "Er nimmt die Warnung auf leichte Schulter.",
       "Er nimmt die Warnung auf die leichte Schulter.",
-      "Er nimmt die Warnung auf der leichten Schulter.",
       "Er nimmt die Warnung an die leichte Schulter."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Cụm cố định: *auf die leichte Schulter nehmen* – có mạo từ *die*, Akkusativ (hướng)."
     },
     {
      "type": "mcq",
      "q": "Welche deutsche Redewendung entspricht „Thấy cây mà không thấy rừng“?",
      "options": [
-      "Den Wald vor lauter Bäumen nicht sehen",
-      "Den Kopf in den Sand stecken",
+      "Zwischen den Zeilen lesen",
       "Ein Auge zudrücken",
-      "Zwischen den Zeilen lesen"
+      "Den Kopf in den Sand stecken",
+      "Den Wald vor lauter Bäumen nicht sehen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Hình ảnh gần như trùng khớp: vì quá chú ý chi tiết mà không thấy tổng thể."
     },
     {
@@ -522,11 +522,11 @@
      "q": "„Der Verkäufer hat mir einen Bären aufgebunden.“ bedeutet:",
      "options": [
       "Er hat mir ein Stofftier geschenkt.",
+      "Er hat mich beleidigt.",
       "Er hat mich angelogen.",
-      "Er hat mir geholfen.",
-      "Er hat mich beleidigt."
+      "Er hat mir geholfen."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "*jemandem einen Bären aufbinden* = lừa ai, bịa chuyện."
     },
     {
@@ -1109,55 +1109,55 @@
       "q": "Was war Fachleuten über die Benin-Bronzen seit Langem bekannt?",
       "options": [
        "Dass sie Fälschungen sind",
-       "Dass viele 1897 geraubt und verkauft worden waren",
-       "Dass sie aus Deutschland stammen"
+       "Dass sie aus Deutschland stammen",
+       "Dass viele 1897 geraubt und verkauft worden waren"
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Womit hängt der Beginn der deutschen Debatte vor allem zusammen?",
       "options": [
-       "Mit dem Humboldt Forum in Berlin",
        "Mit einer Ausstellung in London",
+       "Mit dem Humboldt Forum in Berlin",
        "Mit einem Gerichtsurteil"
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was entschied die Bundesregierung 2022?",
       "options": [
-       "Alle afrikanischen Objekte aus Museen zu entfernen",
        "Das Eigentum an mehr als tausend Benin-Bronzen an Nigeria zu übertragen",
-       "Die Bronzen nach London zu schicken"
+       "Die Bronzen nach London zu schicken",
+       "Alle afrikanischen Objekte aus Museen zu entfernen"
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Warum übten einige deutsche Politiker später Kritik?",
       "options": [
-       "Weil die Bronzen zu teuer waren",
        "Weil sie erwartet hatten, dass die Objekte öffentlich zugänglich bleiben",
-       "Weil Nigeria die Bronzen ablehnte"
+       "Weil Nigeria die Bronzen ablehnte",
+       "Weil die Bronzen zu teuer waren"
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welche Veränderung in den Museen wird NICHT genannt?",
       "options": [
        "Stellen für Provenienzforschung",
-       "Zusammenarbeit mit Fachleuten aus den Herkunftsländern",
-       "Kostenloser Eintritt für alle Besucher"
+       "Kostenloser Eintritt für alle Besucher",
+       "Zusammenarbeit mit Fachleuten aus den Herkunftsländern"
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Wie argumentieren die Befürworter der Rückgaben?",
       "options": [
-       "Museen gewinnen durch Ehrlichkeit an Glaubwürdigkeit.",
+       "Das europäische Publikum braucht keine Weltkunst.",
        "Alle Bestände sollten zurückgegeben werden.",
-       "Das europäische Publikum braucht keine Weltkunst."
+       "Museen gewinnen durch Ehrlichkeit an Glaubwürdigkeit."
       ],
-      "answer": 0
+      "answer": 2
      }
     ]
    },
@@ -1183,10 +1183,10 @@
      "type": "mcq",
      "q": "„Die Debatte ___ erst nach dem Zeitungsartikel in Gang.“",
      "options": [
+      "stellte",
       "brachte",
-      "setzte",
       "kam",
-      "stellte"
+      "setzte"
      ],
      "answer": 2,
      "explain": "Cuộc tranh luận tự bắt đầu (không có tác nhân làm chủ ngữ) → *in Gang kommen*. *bringen/setzen* cần chủ ngữ gây ra."
@@ -1195,48 +1195,48 @@
      "type": "mcq",
      "q": "Was bedeutet „Für die Stelle kommen nur zwei Kandidatinnen in Frage.“?",
      "options": [
-      "Nur zwei Kandidatinnen werden kritisiert.",
       "Nur zwei Kandidatinnen sind mögliche Optionen.",
-      "Zwei Kandidatinnen stellen Fragen.",
-      "Zwei Kandidatinnen bezweifeln die Stelle."
+      "Zwei Kandidatinnen bezweifeln die Stelle.",
+      "Nur zwei Kandidatinnen werden kritisiert.",
+      "Zwei Kandidatinnen stellen Fragen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "*in Frage kommen* = có thể được xem xét; khác hẳn *in Frage stellen* = nghi ngờ."
     },
     {
      "type": "mcq",
      "q": "Welche Negation ist korrekt?",
      "options": [
-      "Das Thema kam keine Sprache.",
       "Das Thema kam nicht zur Sprache.",
-      "Das Thema kam zur keiner Sprache.",
-      "Das Thema kam zur Sprache nicht."
+      "Das Thema kam zur Sprache nicht.",
+      "Das Thema kam keine Sprache.",
+      "Das Thema kam zur keiner Sprache."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "FVG có giới từ (*zur Sprache kommen*) → phủ định bằng *nicht* đứng trước cụm giới từ."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist korrekt?",
      "options": [
-      "Die Mittel stellen zur Verfügung.",
-      "Die Stiftung steht die Mittel zur Verfügung.",
+      "Die Mittel stellen der Stiftung zur Verfügung.",
       "Die Stiftung stellt die Mittel zur Verfügung.",
-      "Die Mittel stellen der Stiftung zur Verfügung."
+      "Die Mittel stellen zur Verfügung.",
+      "Die Stiftung steht die Mittel zur Verfügung."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "*stellen* = chủ thể cung cấp (Akk); *stehen* = có sẵn (chủ ngữ là thứ được cung cấp): *Die Mittel stehen zur Verfügung.*"
     },
     {
      "type": "mcq",
      "q": "Welche Präposition gehört zu „Einfluss nehmen“?",
      "options": [
-      "an + Dat",
-      "über + Akk",
       "auf + Akk",
-      "zu + Dat"
+      "zu + Dat",
+      "über + Akk",
+      "an + Dat"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "*Einfluss nehmen auf + Akk* (giống *beeinflussen* + Akk)."
     },
     {
@@ -1821,56 +1821,56 @@
      {
       "q": "Warum lehnte der Fotograf den Preis ab?",
       "options": [
-       "Er war mit der Platzierung unzufrieden.",
+       "Die Jury hatte sein Bild beschädigt.",
        "Sein Bild war mit einem Bildgenerator erzeugt worden.",
-       "Die Jury hatte sein Bild beschädigt."
+       "Er war mit der Platzierung unzufrieden."
       ],
       "answer": 1
      },
      {
       "q": "Wie sehen die Befürworter KI in der Kunst?",
       "options": [
-       "Als Demokratisierung der Kreativität",
        "Als Ende der Fotografie",
+       "Als Demokratisierung der Kreativität",
        "Als Gefahr für die Demokratie"
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Welches Argument bringen Kritiker gegen maschinelle Kreativität vor?",
       "options": [
        "Programme sind zu langsam.",
-       "Ein Programm weiß nicht, was es tut, und hat keine Absicht.",
-       "Maschinen können keine Musik erzeugen."
+       "Maschinen können keine Musik erzeugen.",
+       "Ein Programm weiß nicht, was es tut, und hat keine Absicht."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wozu dienen im Text die Beispiele Goethe und Brecht?",
       "options": [
+       "Zu erklären, wie KI trainiert wird",
        "Zu zeigen, dass auch menschliche Kunst auf Vorbildern aufbaut",
-       "Zu beweisen, dass beide Diebe waren",
-       "Zu erklären, wie KI trainiert wird"
+       "Zu beweisen, dass beide Diebe waren"
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was bedeutet die Metapher „ein Brief ohne Absender“?",
       "options": [
        "Ein Kunstwerk, hinter dem kein mitteilender Mensch steht",
-       "Ein Werk, das nicht verschickt wurde",
-       "Ein anonymer Liebesbrief"
+       "Ein anonymer Liebesbrief",
+       "Ein Werk, das nicht verschickt wurde"
       ],
       "answer": 0
      },
      {
       "q": "Welchen historischen Vergleich zieht der Text am Ende?",
       "options": [
-       "Mit der Erfindung des Buchdrucks",
        "Mit der Erfindung der Fotografie",
+       "Mit der Erfindung des Buchdrucks",
        "Mit der Erfindung des Radios"
       ],
-      "answer": 1
+      "answer": 0
      }
     ]
    },
@@ -1884,10 +1884,10 @@
      "type": "mcq",
      "q": "Welcher Satz ist korrekt?",
      "options": [
-      "Er tut, als er wüsste alles.",
+      "Er tut, als ob er alles weiß wüsste.",
       "Er tut, als wüsste er alles.",
       "Er tut, als ob wüsste er alles.",
-      "Er tut, als ob er alles weiß wüsste."
+      "Er tut, als er wüsste alles."
      ],
      "answer": 1,
      "explain": "Sau *als* (không có *ob*), động từ chia đứng ngay sau *als*: *als wüsste er alles*."
@@ -1908,12 +1908,12 @@
      "type": "mcq",
      "q": "Welches Stilmittel ist „Die Sonne lacht“?",
      "options": [
+      "Alliteration",
       "Hyperbel",
       "Personifikation",
-      "Litotes",
-      "Alliteration"
+      "Litotes"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Mặt trời được gán hành động của con người (cười) → nhân hoá."
     },
     {
@@ -1922,8 +1922,8 @@
      "options": [
       "Die Präsentation war sehr schlecht.",
       "Die Präsentation war ziemlich gut.",
-      "Es gab keine Präsentation.",
-      "Die Präsentation war mittelmäßig schlecht."
+      "Die Präsentation war mittelmäßig schlecht.",
+      "Es gab keine Präsentation."
      ],
      "answer": 1,
      "explain": "Litotes: phủ định cái ngược lại để khen một cách dè dặt."
@@ -1932,8 +1932,8 @@
      "type": "mcq",
      "q": "Welcher Ausdruck ist eine Metapher und kein Vergleich?",
      "options": [
-      "stark wie ein Bär",
       "schneller als der Wind",
+      "stark wie ein Bär",
       "eine Flut von E-Mails",
       "so leise wie eine Maus"
      ],
@@ -2487,54 +2487,54 @@
      {
       "q": "Was zeichnet die deutsche Theaterlandschaft laut Text aus?",
       "options": [
+       "Sie ist erst nach 1990 entstanden.",
        "Sie ist besonders dicht und öffentlich getragen.",
-       "Sie besteht fast nur aus privaten Bühnen.",
-       "Sie ist erst nach 1990 entstanden."
+       "Sie besteht fast nur aus privaten Bühnen."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Welche Metapher verwendete Schiller für die Bühne?",
       "options": [
+       "Museum der Gesellschaft",
        "Probenraum",
-       "moralische Anstalt",
-       "Museum der Gesellschaft"
+       "moralische Anstalt"
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Warum stehen die Theater unter Druck?",
       "options": [
-       "Wegen zu vieler junger Zuschauer",
        "Wegen leerer Kassen und eines alternden Publikums",
-       "Weil es keine Schauspieler mehr gibt"
+       "Weil es keine Schauspieler mehr gibt",
+       "Wegen zu vieler junger Zuschauer"
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was werfen Gegner dem Regietheater vor?",
       "options": [
        "Dass es zu wenig Geld kostet",
-       "Dass Regisseure sich auf Kosten der Autoren in Szene setzen",
-       "Dass es nur Komödien spielt"
+       "Dass es nur Komödien spielt",
+       "Dass Regisseure sich auf Kosten der Autoren in Szene setzen"
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welches Beispiel für mehr Vielfalt nennt der Text?",
       "options": [
-       "Vorstellungen mit Übertiteln in mehreren Sprachen",
        "Kostenlose Getränke im Foyer",
-       "Kürzere Stücke"
+       "Kürzere Stücke",
+       "Vorstellungen mit Übertiteln in mehreren Sprachen"
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Welches Bild verwendet der Text am Ende für das Theater?",
       "options": [
-       "Ein Museum",
+       "Ein Auslaufmodell",
        "Ein Probenraum der Gesellschaft",
-       "Ein Auslaufmodell"
+       "Ein Museum"
       ],
       "answer": 1
      }
@@ -2550,69 +2550,69 @@
      "type": "mcq",
      "q": "Welche Variante ist für einen formellen Brief am besten geeignet?",
      "options": [
+      "Er fand den Plan total daneben.",
       "Er hat kein gutes Haar an dem Plan gelassen.",
       "Er übte deutliche Kritik an dem Plan.",
-      "Er fand den Plan total daneben.",
       "Dem war der Plan Wurst."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "FVG *Kritik üben an* thuộc văn phong trang trọng; các phương án khác là khẩu ngữ."
     },
     {
      "type": "mcq",
      "q": "„Er spielt, ___ er nie geprobt hätte.“",
      "options": [
-      "wie",
       "als",
-      "als ob",
-      "wenn"
+      "wenn",
+      "wie",
+      "als ob"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "So sánh không có thật, động từ ở cuối câu → *als ob*. (*als* sẽ cần động từ ngay sau: *als hätte er nie geprobt*.)"
     },
     {
      "type": "mcq",
      "q": "„Die Debatte ___ erst nach der Premiere zur Sprache.“",
      "options": [
-      "brachte",
       "kam",
+      "brachte",
       "stellte",
       "nahm"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Chủ ngữ là *die Debatte* (tự xảy ra) → *zur Sprache kommen*."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „Der Regisseur tanzt gern aus der Reihe.“?",
      "options": [
-      "Er tanzt gern auf der Bühne.",
       "Er macht gern Dinge anders als üblich.",
+      "Er tanzt gern auf der Bühne.",
       "Er kommt immer zu spät.",
       "Er arbeitet nur mit Tänzern."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "*aus der Reihe tanzen* = làm khác người, không theo khuôn phép."
     },
     {
      "type": "mcq",
      "q": "Welche Aussage ist eine Metapher?",
      "options": [
-      "Das Theater ist so alt wie die Stadt.",
-      "Das Theater ist das Gedächtnis der Stadt.",
+      "Das Theater liegt im Zentrum.",
       "Das Theater ist größer als das Kino.",
-      "Das Theater liegt im Zentrum."
+      "Das Theater ist das Gedächtnis der Stadt.",
+      "Das Theater ist so alt wie die Stadt."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Nhà hát được gọi thẳng là \"ký ức\" – không có từ so sánh."
     },
     {
      "type": "mcq",
      "q": "Welche Präposition ist korrekt? „Wir müssen ___ die Interessen der Anwohner Rücksicht nehmen.“",
      "options": [
-      "an",
-      "auf",
       "für",
+      "auf",
+      "an",
       "über"
      ],
      "answer": 1,
@@ -2622,10 +2622,10 @@
      "type": "mcq",
      "q": "„Mit ihrem Roman hat sie den Nerv der Zeit getroffen.“ bedeutet:",
      "options": [
-      "Sie hat die Leser verärgert.",
+      "Ihr Roman ist zu spät erschienen.",
       "Ihr Roman behandelt genau, was die Menschen gerade bewegt.",
       "Ihr Roman ist medizinisch korrekt.",
-      "Ihr Roman ist zu spät erschienen."
+      "Sie hat die Leser verärgert."
      ],
      "answer": 1,
      "explain": "*den Nerv der Zeit treffen* = chạm đúng điều xã hội đang quan tâm."
@@ -2634,12 +2634,12 @@
      "type": "mcq",
      "q": "Welcher Satz enthält einen Fehler?",
      "options": [
-      "Die Mittel stehen nicht zur Verfügung.",
       "Sie brachte das Problem zur Sprache.",
       "Er übte Kritik über die Inszenierung.",
-      "Die Ausstellung fand großen Anklang."
+      "Die Ausstellung fand großen Anklang.",
+      "Die Mittel stehen nicht zur Verfügung."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Đúng phải là *Kritik üben an + Dat*: *an der Inszenierung*."
     },
     {

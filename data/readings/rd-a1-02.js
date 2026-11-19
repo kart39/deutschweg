@@ -111,47 +111,47 @@
   {
    "q": "Wie viele Zimmer hat die Wohnung?",
    "options": [
-    "Ein Zimmer",
     "Zwei Zimmer",
-    "Drei Zimmer"
-   ],
-   "answer": 1
-  },
-  {
-   "q": "Ab wann ist die Wohnung frei?",
-   "options": [
-    "Ab 1. Dezember",
-    "Ab 1. Oktober",
-    "Ab 15. Dezember"
+    "Drei Zimmer",
+    "Ein Zimmer"
    ],
    "answer": 0
   },
   {
-   "q": "Wie hoch ist die monatliche Kaltmiete?",
+   "q": "Ab wann ist die Wohnung frei?",
    "options": [
-    "150 Euro",
-    "550 Euro",
-    "650 Euro"
+    "Ab 1. Oktober",
+    "Ab 15. Dezember",
+    "Ab 1. Dezember"
    ],
    "answer": 2
+  },
+  {
+   "q": "Wie hoch ist die monatliche Kaltmiete?",
+   "options": [
+    "650 Euro",
+    "550 Euro",
+    "150 Euro"
+   ],
+   "answer": 0
   },
   {
    "q": "Was ist in der Wohnung nicht erlaubt?",
    "options": [
     "Kochen",
-    "Haustiere",
-    "Musik hören"
+    "Musik hören",
+    "Haustiere"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Wann kann man die Wohnung besichtigen?",
    "options": [
-    "Nur am Sonntag",
     "Am Samstag von 10 bis 14 Uhr",
-    "Jeden Werktag um 18 Uhr"
+    "Jeden Werktag um 18 Uhr",
+    "Nur am Sonntag"
    ],
-   "answer": 1
+   "answer": 0
   }
  ]
 });

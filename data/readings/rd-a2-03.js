@@ -107,47 +107,47 @@
   {
    "q": "Wohin sind Sophie und Marco am Wochenende gereist?",
    "options": [
-    "An die Ostsee",
     "In den Schwarzwald",
-    "Nach München"
+    "Nach München",
+    "An die Ostsee"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Wo haben sie am Samstagmittag gegessen?",
    "options": [
+    "In einer Pizzeria",
     "Im Zug",
-    "In einer urigen Berghütte",
-    "In einer Pizzeria"
+    "In einer urigen Berghütte"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Was aßen sie zum Nachtisch?",
    "options": [
+    "Apfelstrudel",
     "Schokoladeneis",
-    "Schwarzwälder Kirschtorte",
-    "Apfelstrudel"
+    "Schwarzwälder Kirschtorte"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Was haben sie am Samstagnachmittag auf dem See gemacht?",
    "options": [
     "Sie sind mit einem Tretboot gefahren",
-    "Sie sind getaucht",
-    "Sie haben geangelt"
+    "Sie haben geangelt",
+    "Sie sind getaucht"
    ],
    "answer": 0
   },
   {
    "q": "Welche Sehenswürdigkeit besuchten sie am Sonntag?",
    "options": [
-    "Das Brandenburger Tor",
     "Die Triberger Wasserfälle",
+    "Das Brandenburger Tor",
     "Den Kölner Dom"
    ],
-   "answer": 1
+   "answer": 0
   }
  ]
 });

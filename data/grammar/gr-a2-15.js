@@ -10,72 +10,72 @@
    "type": "mcq",
    "q": "Welche Konjunktion passt? \"___ ich gestern nach Hause kam, war meine Familie schon beim Abendessen.\"",
    "options": [
-    "Als",
     "Wenn",
+    "Als",
     "Wann",
     "Weil"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Hành động xảy ra một lần duy nhất trong quá khứ ('gestern nach Hause kam') bắt buộc dùng liên từ 'Als'."
   },
   {
    "type": "mcq",
    "q": "___ ich ein kleines Kind war, lebte ich mit meinen Eltern auf dem Land.",
    "options": [
-    "Als",
-    "Wenn",
     "Wann",
-    "Ob"
+    "Ob",
+    "Als",
+    "Wenn"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Thời thơ ấu ('ein kleines Kind war') là một giai đoạn duy nhất trong quá khứ -> dùng 'Als'."
   },
   {
    "type": "mcq",
    "q": "Immer ___ mein Großvater zu Besuch kam, brachte er leckere Schokolade mit.",
    "options": [
-    "wenn",
-    "als",
     "wann",
-    "dass"
+    "dass",
+    "als",
+    "wenn"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Có từ 'immer' chỉ hành động lặp đi lặp lại nhiều lần trong quá khứ -> bắt buộc dùng 'wenn'."
   },
   {
    "type": "mcq",
    "q": "___ du morgen Zeit hast, können wir zusammen ins Museum gehen.",
    "options": [
-    "Wenn",
-    "Als",
     "Wann",
-    "Ob"
+    "Wenn",
+    "Ob",
+    "Als"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Thời gian ở tương lai ('morgen') -> bắt buộc dùng 'Wenn'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist grammatisch KORREKT?",
    "options": [
-    "Als ich 18 Jahre alt wurde, machte ich den Führerschein.",
-    "Wenn ich 18 Jahre alt wurde, machte ich den Führerschein.",
     "Wann ich 18 Jahre alt wurde, machte ich den Führerschein.",
-    "Als ich 18 Jahre alt werde, mache ich den Führerschein."
+    "Wenn ich 18 Jahre alt wurde, machte ich den Führerschein.",
+    "Als ich 18 Jahre alt werde, mache ich den Führerschein.",
+    "Als ich 18 Jahre alt wurde, machte ich den Führerschein."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Cột mốc sinh nhật 18 tuổi diễn ra một lần trong quá khứ dùng 'Als'."
   },
   {
    "type": "mcq",
    "q": "Jedes Mal ___ es stark regnet, nehme ich die U-Bahn zur Arbeit.",
    "options": [
-    "wenn",
-    "als",
     "wann",
-    "ob"
+    "als",
+    "ob",
+    "wenn"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'Jedes Mal wenn' diễn tả sự việc lặp lại ở hiện tại."
   },
   {

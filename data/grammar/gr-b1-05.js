@@ -11,9 +11,9 @@
    "q": "Welche Konjunktion passt? \"Die Mutter gibt dem Kind etwas Geld, ___ es sich ein Eis kaufen kann.\"",
    "options": [
     "damit",
+    "dass",
     "um",
-    "weil",
-    "dass"
+    "weil"
    ],
    "answer": 0,
    "explain": "Hai chủ ngữ khác nhau ('Die Mutter' ≠ 'es/das Kind'), vì vậy bắt buộc phải dùng liên từ 'damit'."
@@ -22,60 +22,60 @@
    "type": "mcq",
    "q": "Er lernt jeden Tag fleißig, ___ die schwere B1-Prüfung zu bestehen.",
    "options": [
-    "um",
     "damit",
-    "für",
-    "weil"
+    "um",
+    "weil",
+    "für"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Hai mệnh đề có cùng chủ ngữ 'er' và phía sau có cấu trúc 'zu bestehen', vì vậy dùng 'um'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist grammatisch VOLLKOMMEN KORREKT?",
    "options": [
-    "Ich spare Geld, um im Sommer nach Vietnam zu fliegen.",
     "Ich spare Geld, um im Sommer nach Vietnam fliegen zu wollen.",
-    "Ich spare Geld, um ich im Sommer nach Vietnam fliege.",
-    "Ich spare Geld für im Sommer nach Vietnam zu fliegen."
+    "Ich spare Geld für im Sommer nach Vietnam zu fliegen.",
+    "Ich spare Geld, um im Sommer nach Vietnam zu fliegen.",
+    "Ich spare Geld, um ich im Sommer nach Vietnam fliege."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Trong cấu trúc 'um ... zu', chủ ngữ bị lược bỏ và không dùng động từ 'wollen': 'um ... zu fliegen'."
   },
   {
    "type": "mcq",
    "q": "Der Lehrer spricht sehr langsam und deutlich, ___ alle Schüler ihn gut verstehen können.",
    "options": [
+    "ob",
     "damit",
     "um",
-    "ob",
     "dass"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Chủ ngữ câu chính là 'Der Lehrer', chủ ngữ câu phụ là 'alle Schüler' (khác nhau) -> dùng 'damit'."
   },
   {
    "type": "mcq",
    "q": "Er steht jeden Tag um fünf Uhr auf, um pünktlich zur Arbeit ___.",
    "options": [
-    "zu kommen",
     "kommen",
+    "zu kommen",
     "zukommen",
     "gekommen"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Động từ 'kommen' trong cấu trúc 'um ... zu' là 'zu kommen'."
   },
   {
    "type": "mcq",
    "q": "Welche Satzstellung nach \"Um ... zu\" am Satzanfang ist KORREKT?",
    "options": [
-    "Um fit zu bleiben, treibt er jeden Morgen Sport.",
     "Um fit zu bleiben, er treibt jeden Morgen Sport.",
-    "Um fit zu bleiben, er jeden Morgen Sport treibt.",
-    "Um fit zu bleiben, Sport treibt er jeden Morgen."
+    "Um fit zu bleiben, Sport treibt er jeden Morgen.",
+    "Um fit zu bleiben, treibt er jeden Morgen Sport.",
+    "Um fit zu bleiben, er jeden Morgen Sport treibt."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Khi mệnh đề 'Um ... zu' đứng đầu câu, mệnh đề chính phải bắt đầu bằng động từ chia: 'treibt er...'."
   },
   {

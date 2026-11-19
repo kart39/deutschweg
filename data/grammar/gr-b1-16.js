@@ -10,24 +10,24 @@
    "type": "mcq",
    "q": "Welche Präposition passt? \"Der Erfolg unseres Projekts hängt stark ___ der guten Vorbereitung ab.\"",
    "options": [
-    "von",
     "an",
+    "von",
     "auf",
     "für"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Động từ tách 'abhängen' luôn đi với giới từ 'von' (+ Dativ)."
   },
   {
    "type": "mcq",
    "q": "Sie bewirbt sich ___ eine attraktive Stelle im Marketing.",
    "options": [
-    "um",
     "für",
+    "um",
     "auf",
     "an"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'sich bewerben' (nộp đơn xin việc) đi với giới từ 'um' (+ Akkusativ)."
   },
   {
@@ -35,8 +35,8 @@
    "q": "Er kann sich nur sehr schwer ___ das kalte Klima in Deutschland gewöhnen.",
    "options": [
     "an",
-    "mit",
     "auf",
+    "mit",
     "in"
    ],
    "answer": 0,
@@ -46,36 +46,36 @@
    "type": "mcq",
    "q": "Viele Berufspendler verzichten heutzutage freiwillig ___ das eigene Auto.",
    "options": [
-    "auf",
-    "an",
+    "um",
     "für",
-    "um"
+    "an",
+    "auf"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'verzichten' (từ bỏ cái gì) luôn đi với giới từ 'auf' (+ Akkusativ)."
   },
   {
    "type": "mcq",
    "q": "Der Arzt nimmt im Herbst an einer internationalen Fachkonferenz ___.",
    "options": [
-    "teil",
-    "auf",
     "mit",
-    "an"
+    "an",
+    "teil",
+    "auf"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Động từ 'teilnehmen an' (+ Dativ), tiền tố tách là 'teil'."
   },
   {
    "type": "mcq",
    "q": "Die Mitarbeiter protestierten lautstark ___ die geplanten Kürzungen.",
    "options": [
-    "gegen",
+    "um",
     "über",
     "an",
-    "um"
+    "gegen"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'protestieren' (biểu tình phản đối) đi với giới từ 'gegen' (+ Akkusativ)."
   },
   {

@@ -118,8 +118,8 @@
    "q": "Was durften die Kinder in der Abteilung 'Kinder-Reich' machen?",
    "options": [
     "Selbst an Stationen experimentieren",
-    "Nur Bücher lesen",
-    "Filme schauen"
+    "Filme schauen",
+    "Nur Bücher lesen"
    ],
    "answer": 0
   },
@@ -135,18 +135,18 @@
   {
    "q": "Warum passierte dem Freiwilligen im Metallkäfig nichts?",
    "options": [
-    "Wegen des Faradayschen Käfigs",
+    "Weil er Gummischuhe trug",
     "Weil der Strom abgeschaltet war",
-    "Weil er Gummischuhe trug"
+    "Wegen des Faradayschen Käfigs"
    ],
-   "answer": 0
+   "answer": 2
   },
   {
    "q": "Wie lautet das Fazit des Autors über den Museumsbesuch?",
    "options": [
-    "Es war langweilig und teuer",
+    "Nur für Physiker geeignet",
     "Es lohnt sich für Jung und Alt gleichermaßen",
-    "Nur für Physiker geeignet"
+    "Es war langweilig und teuer"
    ],
    "answer": 1
   }

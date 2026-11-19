@@ -419,45 +419,45 @@
      {
       "q": "Wer zeigte Mariam zum ersten Mal, wie sie einen Reifen wechselt?",
       "options": [
-       "Uwe.",
+       "Eine Kollegin.",
        "Eine Nachbarin.",
-       "Eine Kollegin."
+       "Uwe."
       ],
       "answer": 1
      },
      {
       "q": "Warum arbeitete Mariam zunächst im Café?",
       "options": [
+       "Sie musste auf ihre Prüfung warten.",
        "Sie fand in ihrem Heimatort keine Lehrstelle.",
-       "Sie wollte das Café später übernehmen.",
-       "Sie musste auf ihre Prüfung warten."
+       "Sie wollte das Café später übernehmen."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was half ihr beim zweiten Prüfungsversuch?",
       "options": [
-       "Eine neue Ausbildung.",
+       "Übung mit einer Kollegin.",
        "Der Unterricht einer Nachbarin.",
-       "Übung mit einer Kollegin."
-      ],
-      "answer": 2
-     },
-     {
-      "q": "Woran erkannte Mariam, dass sie die Werkstatt gern leiten würde?",
-      "options": [
-       "Sie freute sich über die Arbeit während Uwes Reise.",
-       "Uwe versprach ihr ein höheres Gehalt.",
-       "Die Lieferanten boten ihr einen neuen Job an."
+       "Eine neue Ausbildung."
       ],
       "answer": 0
      },
      {
+      "q": "Woran erkannte Mariam, dass sie die Werkstatt gern leiten würde?",
+      "options": [
+       "Die Lieferanten boten ihr einen neuen Job an.",
+       "Sie freute sich über die Arbeit während Uwes Reise.",
+       "Uwe versprach ihr ein höheres Gehalt."
+      ],
+      "answer": 1
+     },
+     {
       "q": "Warum erzählt sie ihre Geschichte heute?",
       "options": [
-       "Sie möchte das Café bekannt machen.",
+       "Sie möchte ihre Prüfungsnote erklären.",
        "Sie möchte Lernenden nach einem Misserfolg Mut machen.",
-       "Sie möchte ihre Prüfungsnote erklären."
+       "Sie möchte das Café bekannt machen."
       ],
       "answer": 1
      }
@@ -474,12 +474,12 @@
      "type": "mcq",
      "q": "Chọn dạng {{Präteritum}} đúng của {{beginnen}} với chủ ngữ {{sie}} số ít.",
      "options": [
+      "begannen",
       "begannte",
       "begann",
-      "beginnt",
-      "begannen"
+      "beginnt"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Beginnen}} là động từ mạnh. Ngôi thứ ba số ít ở {{Präteritum}} là {{begann}}."
     },
     {
@@ -488,10 +488,10 @@
      "options": [
       "Sie nennt es ihren Wendepunkt.",
       "Sie nennte es ihren Wendepunkt.",
-      "Sie nennten es ihren Wendepunkt.",
-      "Sie nannte es ihren Wendepunkt."
+      "Sie nannte es ihren Wendepunkt.",
+      "Sie nennten es ihren Wendepunkt."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Nennen}} đổi thân sang {{nann-}} và thêm dạng đuôi của động từ hỗn hợp."
     },
     {
@@ -512,34 +512,34 @@
      "options": [
       "der Nebenjob",
       "der Berufseinstieg",
-      "der Geburtsort",
-      "der Schulabschluss"
+      "der Schulabschluss",
+      "der Geburtsort"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Geburtsort}} là nơi sinh. {{Heimatort}} là quê nhà hoặc nơi được coi là quê hương."
     },
     {
      "type": "mcq",
      "q": "Câu nào nghĩa là ‘Lần đầu anh ấy thi trượt’?",
      "options": [
-      "Beim ersten Versuch bestand er die Prüfung nicht.",
-      "Beim ersten Versuch übernahm er die Prüfung.",
+      "Beim ersten Versuch gab er der Prüfung eine Note.",
       "Beim ersten Versuch gelang ihm die Prüfung.",
-      "Beim ersten Versuch gab er der Prüfung eine Note."
+      "Beim ersten Versuch übernahm er die Prüfung.",
+      "Beim ersten Versuch bestand er die Prüfung nicht."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Die Prüfung bestehen}} là thi đỗ. {{Nicht}} phủ định kết quả đó."
     },
     {
      "type": "mcq",
      "q": "Chọn câu diễn đạt ‘Bước vào nghề thuận lợi đối với cô ấy’.",
      "options": [
-      "Sie gelang den Einstieg.",
       "Der Einstieg gelang sie.",
-      "Sie gelang der Einstieg.",
-      "Der Einstieg gelang ihr."
+      "Der Einstieg gelang ihr.",
+      "Sie gelang den Einstieg.",
+      "Sie gelang der Einstieg."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Với {{gelingen}}, việc thành công là chủ ngữ và người trải qua ở {{Dativ}}."
     },
     {
@@ -1137,47 +1137,47 @@
      {
       "q": "Warum konnte die Person Leila am Bahnhof nicht anrufen?",
       "options": [
+       "Der Akku war leer.",
        "Sie hatte das Telefon zu Hause vergessen.",
-       "Die Telefonnummer war falsch.",
-       "Der Akku war leer."
-      ],
-      "answer": 2
-     },
-     {
-      "q": "Was hatte sie vor der Abfahrt ausgedruckt?",
-      "options": [
-       "Leilas Brief mit der Adresse.",
-       "Den Fahrplan für Dienstag.",
-       "Eine Liste mit zwei Vermieterinnen."
+       "Die Telefonnummer war falsch."
       ],
       "answer": 0
      },
      {
-      "q": "Warum stand sie am Montag im falschen Haus?",
+      "q": "Was hatte sie vor der Abfahrt ausgedruckt?",
       "options": [
-       "Sie war an der falschen Haltestelle ausgestiegen.",
-       "Sie hatte die Hausnummern falsch notiert.",
-       "Die Vermieterin hatte den Termin verschoben."
+       "Eine Liste mit zwei Vermieterinnen.",
+       "Leilas Brief mit der Adresse.",
+       "Den Fahrplan für Dienstag."
       ],
       "answer": 1
+     },
+     {
+      "q": "Warum stand sie am Montag im falschen Haus?",
+      "options": [
+       "Die Vermieterin hatte den Termin verschoben.",
+       "Sie war an der falschen Haltestelle ausgestiegen.",
+       "Sie hatte die Hausnummern falsch notiert."
+      ],
+      "answer": 2
      },
      {
       "q": "Was fiel ihr anfangs trotz des früheren Deutschlernens schwer?",
       "options": [
        "Einen Fahrplan zu lesen.",
-       "Den Kursort zu finden.",
-       "Die Aussprache vor Ort zu verstehen."
+       "Die Aussprache vor Ort zu verstehen.",
+       "Den Kursort zu finden."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Wie entstanden Kontakte in der neuen Stadt?",
       "options": [
+       "Über den Unterricht am Montag.",
        "Über eine Gesprächsgruppe in der Bibliothek.",
-       "Durch die Arbeit am Bahnhof.",
-       "Über den Unterricht am Montag."
+       "Durch die Arbeit am Bahnhof."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1192,12 +1192,12 @@
      "type": "mcq",
      "q": "Chọn dạng {{Plusquamperfekt}} thích hợp: {{Als wir ankamen, ___ Mira schon ___.}}",
      "options": [
+      "ist … zurückkehren",
       "hat … zurückgekehrt",
       "war … zurückgekehrt",
-      "ist … zurückkehren",
       "hatte … zurückgekehrt"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Zurückkehren}} dùng {{sein}} trong {{Perfekt}}. Ở {{Plusquamperfekt}} với Mira, dùng {{war zurückgekehrt}}."
     },
     {
@@ -1205,23 +1205,23 @@
      "q": "Sự kiện nào xảy ra trước trong {{Ich war nervös, weil ich die Adresse falsch notiert hatte.}}?",
      "options": [
       "Mình thấy lo.",
-      "Mình tìm lại địa chỉ trong email.",
+      "Mình ghi sai địa chỉ.",
       "Mình đến gặp chủ nhà.",
-      "Mình ghi sai địa chỉ."
+      "Mình tìm lại địa chỉ trong email."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{Notiert hatte}} đánh dấu việc xảy ra trước mốc mình lo lắng."
     },
     {
      "type": "mcq",
      "q": "Chọn câu dùng {{Plusquamperfekt}} và giữ đúng vị trí động từ trong mệnh đề với {{weil}}.",
      "options": [
-      "Wir kannten den Weg, weil wir die Karte angesehen hatten.",
       "Wir kannten den Weg, weil wir hatten die Karte angesehen.",
-      "Wir kannten den Weg, weil wir die Karte hatten anseht.",
-      "Wir kannten den Weg, weil wir die Karte sahen hatten."
+      "Wir kannten den Weg, weil wir die Karte angesehen hatten.",
+      "Wir kannten den Weg, weil wir die Karte sahen hatten.",
+      "Wir kannten den Weg, weil wir die Karte hatten anseht."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Trong mệnh đề với {{weil}}, dùng phân từ {{angesehen}} rồi đến trợ động từ đã chia {{hatten}}."
     },
     {
@@ -1229,35 +1229,35 @@
      "q": "{{Eine Anlaufstelle}} là gì trong bối cảnh mới chuyển đến?",
      "options": [
       "Một khoản đặt cọc.",
+      "Đích đến của xe buýt.",
       "Món do dung khi di xa.",
-      "Một nơi có thể tìm đến để hỏi hoặc nhờ hỗ trợ.",
-      "Đích đến của xe buýt."
+      "Một nơi có thể tìm đến để hỏi hoặc nhờ hỗ trợ."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Anlaufstelle}} chỉ nơi hoặc cơ quan người ta có thể tìm đến để xin thông tin hay hỗ trợ."
     },
     {
      "type": "mcq",
      "q": "Chọn ý khớp với {{Vorläufig kam sie bei Freunden unter.}}",
      "options": [
-      "Cô tạm ở nhà bạn bè.",
       "Cô đổi quốc tịch.",
+      "Cô tạm ở nhà bạn bè.",
       "Cô rời nhà bạn ngay.",
       "Bạn bè đến ở nhà cô."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Unterkommen}} nghĩa là tìm được chỗ ở. {{Bei Freunden}} cho biết cô ở nhà bạn bè."
     },
     {
      "type": "mcq",
      "q": "Chọn phản hồi có đúng trợ động từ và dạng phản thân trong {{Plusquamperfekt}}.",
      "options": [
-      "Ich war mich eingelebt.",
       "Ich hatte eingeleben.",
       "Ich hatte mir eingelebt.",
-      "Ich hatte mich eingelebt."
+      "Ich hatte mich eingelebt.",
+      "Ich war mich eingelebt."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Sich einleben}} dùng {{haben}} và đại từ phản thân ở {{Akkusativ}} là {{mich}} với {{ich}}."
     },
     {
@@ -1871,36 +1871,36 @@
      {
       "q": "Was hatte Ada vor ihrem Umzug gemacht?",
       "options": [
-       "Sie hatte in Porto in einer Druckerei gearbeitet.",
        "Sie hatte in Wien bereits Bücher verkauft.",
-       "Sie hatte in Porto eine Bibliothek geleitet."
+       "Sie hatte in Porto eine Bibliothek geleitet.",
+       "Sie hatte in Porto in einer Druckerei gearbeitet."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Wann hörte Ada von dem Projekt in der Bibliothek?",
       "options": [
+       "Im Zug nach Porto.",
        "Am ersten Tag des Kurses.",
-       "Zwei Tage vor der geplanten Abfahrt.",
-       "Im Zug nach Porto."
+       "Zwei Tage vor der geplanten Abfahrt."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was veränderte sich nach dem ersten Nachmittag?",
       "options": [
-       "Die Kinder durften nur noch auf Deutsch schreiben.",
        "Das Projekt wurde an einen anderen Ort verlegt.",
-       "Aus einem Nachmittag wurden vier Termine."
+       "Aus einem Nachmittag wurden vier Termine.",
+       "Die Kinder durften nur noch auf Deutsch schreiben."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Wann entschloss sich Ada, länger in Wien zu wohnen?",
       "options": [
        "Am Ende des Sommers.",
-       "Vor ihrer Abfahrt aus Porto.",
-       "Gleich nach dem ersten Unterrichtstag."
+       "Gleich nach dem ersten Unterrichtstag.",
+       "Vor ihrer Abfahrt aus Porto."
       ],
       "answer": 0
      },
@@ -1926,72 +1926,72 @@
      "type": "mcq",
      "q": "Sự kiện nào xảy ra trước trong {{Nachdem sie den Kurs abgeschlossen hatte, suchte sie eine Stelle.}}?",
      "options": [
-      "Cô bắt đầu tìm việc.",
-      "Cô hoàn thành khóa học.",
+      "Cô nhận được việc.",
       "Cô chuyển đến thành phố.",
-      "Cô nhận được việc."
+      "Cô hoàn thành khóa học.",
+      "Cô bắt đầu tìm việc."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Nachdem}} nêu sự kiện xảy ra trước, ở đây là {{den Kurs abgeschlossen hatte}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có đúng trật tự từ sau mệnh đề phụ đứng đầu.",
      "options": [
-      "Nachdem ich angekommen war, ich rief Lea an.",
-      "Nachdem ich war angekommen, rief ich Lea an.",
+      "Nachdem ich angekommen war, rief ich Lea an.",
       "Nachdem ich angekommen war rief ich Lea an.",
-      "Nachdem ich angekommen war, rief ich Lea an."
+      "Nachdem ich angekommen war, ich rief Lea an.",
+      "Nachdem ich war angekommen, rief ich Lea an."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Trong mệnh đề phụ, trợ động từ {{war}} đứng cuối. Sau dấu phẩy dùng động từ chính đã chia {{rief}} trước chủ ngữ."
     },
     {
      "type": "mcq",
      "q": "Nối hai câu {{Er fand eine Wohnung. Dann zog seine Familie nach.}} thành một câu với {{nachdem}} và giữ đúng thứ tự sự kiện.",
      "options": [
-      "Nachdem er eine Wohnung gefunden hatte, zog seine Familie nach.",
       "Nachdem seine Familie nachgezogen war, fand er eine Wohnung.",
       "Nachdem er eine Wohnung fand, zieht seine Familie nächstes Jahr nach.",
+      "Nachdem er eine Wohnung gefunden hatte, zog seine Familie nach.",
       "Nachdem er eine Wohnung hat gefunden, zog seine Familie nach."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Việc tìm được nhà xảy ra trước nên nằm trong mệnh đề {{nachdem}}. Dùng {{gefunden hatte}} trong cặp thì của đoạn kể quá khứ."
     },
     {
      "type": "mcq",
      "q": "Dạng nào hoàn thành đúng câu nói về hiện tại {{Nachdem sie den Vertrag ___, sucht sie eine Wohnung.}}?",
      "options": [
-      "unterschrieb hat",
       "hat unterschrieben",
-      "unterschrieben hat",
-      "unterschreiben hatte"
+      "unterschrieb hat",
+      "unterschreiben hatte",
+      "unterschrieben hat"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Unterschrieben hat}} là {{Perfekt}} đứng cuối mệnh đề phụ. {{Sucht}} kể việc diễn ra ở hiện tại."
     },
     {
      "type": "mcq",
      "q": "Câu nào diễn đạt việc vẫn giữ liên lạc kể từ mốc được nhắc đến?",
      "options": [
+      "Damals kannte ich ihn nicht.",
       "Seither schreiben wir uns jede Woche.",
       "Daraufhin schrieb ich ihm nur einmal.",
-      "Damals kannte ich ihn nicht.",
       "Anschließend fuhr ich nach Hause."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Chọn {{seither}} để nối mốc trước đó với thời gian cho đến nay."
     },
     {
      "type": "mcq",
      "q": "{{Der Abschied fiel ihr schwer.}} nghĩa là gì?",
      "options": [
-      "Cô muốn quay lại làm việc quá sức.",
-      "Cô thấy dễ làm quen với nơi mới.",
       "Cô không hề nhớ quê.",
-      "Co thay khó khan khi phai chia tay."
+      "Cô thấy dễ làm quen với nơi mới.",
+      "Co thay khó khan khi phai chia tay.",
+      "Cô muốn quay lại làm việc quá sức."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Jemandem schwerfallen}} nghĩa là một việc khiến ai đó thấy khó, ở đây là việc chia tay."
     },
     {
@@ -2657,47 +2657,47 @@
      {
       "q": "Warum brach Nguyen sein erstes Studium der Rechtswissenschaften ab?",
       "options": [
+       "Weil er von der Universität verwiesen wurde.",
        "Weil er finanzielle Probleme hatte.",
-       "Weil ihn Gesetzestexte nicht erfüllten und er seiner wahren Leidenschaft folgen wollte.",
-       "Weil er von der Universität verwiesen wurde."
-      ],
-      "answer": 1
-     },
-     {
-      "q": "Was unternahm Nguyen, nachdem er das Jurastudium beendet hatte?",
-      "options": [
-       "Er reiste sofort ohne Sprachkenntnisse nach Deutschland.",
-       "Er gründete ein eigenes Unternehmen in Hai Phong.",
-       "Er nahm eine praktische Berufsausbildung zum Solartechniker auf."
+       "Weil ihn Gesetzestexte nicht erfüllten und er seiner wahren Leidenschaft folgen wollte."
       ],
       "answer": 2
      },
      {
+      "q": "Was unternahm Nguyen, nachdem er das Jurastudium beendet hatte?",
+      "options": [
+       "Er gründete ein eigenes Unternehmen in Hai Phong.",
+       "Er nahm eine praktische Berufsausbildung zum Solartechniker auf.",
+       "Er reiste sofort ohne Sprachkenntnisse nach Deutschland."
+      ],
+      "answer": 1
+     },
+     {
       "q": "Welche Vorbereitung traf Nguyen vor seiner Abreise nach Leipzig?",
       "options": [
-       "Er hatte in Vietnam bereits intensiv die deutsche Sprache gelernt.",
        "Er kaufte sich ein Haus in Mitteldeutschland.",
+       "Er hatte in Vietnam bereits intensiv die deutsche Sprache gelernt.",
        "Er arbeitete bereits als Projektleiter für die Firma."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Wie fühlte sich Nguyen bei seiner Ankunft am Leipziger Bahnhof?",
       "options": [
        "Er war sofort völlig gelassen und fand sich mühelos zurecht.",
-       "Er fühlte sich zunächst von der neuen Kultur und Sprachbarriere überwältigt.",
-       "Er wollte am liebsten sofort wieder nach Hai Phong zurückkehren."
+       "Er wollte am liebsten sofort wieder nach Hai Phong zurückkehren.",
+       "Er fühlte sich zunächst von der neuen Kultur und Sprachbarriere überwältigt."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wie beurteilt Nguyen heute rückblickend seine Umwege im Leben?",
       "options": [
-       "Als notwendige Schritte, die ihm halfen, innere Stärke und Klarheit zu gewinnen.",
+       "Als Zeitverschwendung, die er seinen Eltern vorwirft.",
        "Als bedauerliche Fehler, die seine Karriere jahrelang verzögert haben.",
-       "Als Zeitverschwendung, die er seinen Eltern vorwirft."
+       "Als notwendige Schritte, die ihm halfen, innere Stärke und Klarheit zu gewinnen."
       ],
-      "answer": 0
+      "answer": 2
      }
     ]
    },
@@ -2711,12 +2711,12 @@
      "type": "mcq",
      "q": "Welches Hilfsverb und welche Zeitform verlangt der Nebensatz mit „nachdem“, wenn der Hauptsatz im Präteritum steht?",
      "options": [
-      "Perfekt mit haben oder sein",
       "Plusquamperfekt mit hatte oder war",
       "Präsens mit haben oder sein",
-      "Futur I mit werden"
+      "Futur I mit werden",
+      "Perfekt mit haben oder sein"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Khi mệnh đề chính ở thời quá khứ (Präteritum), mệnh đề phụ với 'nachdem' bắt buộc phải ở thời Plusquamperfekt (hatte/war + Partizip II) để diễn tả tính xảy ra trước (Vorzeitigkeit)."
     },
     {
@@ -2724,9 +2724,9 @@
      "q": "Ergänzen Sie: Nachdem die Familie nach Deutschland gezogen ___, fand sie schnell eine neue Bleibe.",
      "options": [
       "war",
+      "ist",
       "hatte",
-      "wäre",
-      "ist"
+      "wäre"
      ],
      "answer": 0,
      "explain": "Động từ 'ziehen' chỉ sự di chuyển chỗ ở dùng trợ động từ 'sein'. Ở Plusquamperfekt đi với ngôi số ít 'die Familie', ta dùng 'war'."
@@ -2747,24 +2747,24 @@
      "type": "mcq",
      "q": "Was bedeutet das Nomen „der Meilenstein“ im übertragenen Sinne?",
      "options": [
-      "Ein schwerer Stein auf einer Baustelle",
       "Ein wichtiger Wendepunkt oder Entwicklungsschritt",
-      "Eine Verkehrsstrafe für zu schnelles Fahren",
-      "Ein Zeugnis am Ende der Grundschule"
+      "Ein schwerer Stein auf einer Baustelle",
+      "Ein Zeugnis am Ende der Grundschule",
+      "Eine Verkehrsstrafe für zu schnelles Fahren"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'Der Meilenstein' theo nghĩa bóng là một cột mốc lịch sử, một bước ngoặt hay bước tiến quan trọng trong cuộc đời hoặc dự án."
     },
     {
      "type": "mcq",
      "q": "Welche Wortstellung folgt auf das Konjunktionaladverb „daraufhin“?",
      "options": [
-      "Subjekt + Verb an Position 2",
       "Verb an Position 2 + Subjekt (Inversion)",
-      "Verb am Satzende",
-      "Infinitiv mit zu"
+      "Subjekt + Verb an Position 2",
+      "Infinitiv mit zu",
+      "Verb am Satzende"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'Daraufhin' là trạng từ liên kết chiếm vị trí 1, do đó động từ chia bắt buộc phải đứng ở vị trí 2, ngay trước chủ ngữ."
     },
     {
@@ -2772,21 +2772,21 @@
      "q": "Ergänzen Sie: Bevor er nach Berlin ging, ___ er fünf Jahre in Hanoi als Ingenieur gearbeitet.",
      "options": [
       "war",
-      "wurde",
       "hatte",
-      "hat"
+      "hat",
+      "wurde"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Hành động đã làm việc ở Hà Nội xảy ra trước hành động đến Berlin trong quá khứ, dùng Plusquamperfekt: 'hatte ... gearbeitet'."
     },
     {
      "type": "mcq",
      "q": "Was ist das richtige Genus des Wortes „Neuanfang“?",
      "options": [
-      "das Neuanfang",
+      "dem Neuanfang",
       "die Neuanfang",
       "der Neuanfang",
-      "dem Neuanfang"
+      "das Neuanfang"
      ],
      "answer": 2,
      "explain": "Thành tố cuối là danh từ giống đực 'der Anfang', vì vậy từ ghép 'der Neuanfang' cũng mang giống đực (der)."
@@ -2795,10 +2795,10 @@
      "type": "mcq",
      "q": "Welches Präteritum gehört zum starken Verb „einschlagen“ (er/sie/es)?",
      "options": [
-      "schlagte ein",
+      "schlüge ein",
       "schlug ein",
-      "hat eingeschlagen",
-      "schlüge ein"
+      "schlagte ein",
+      "hat eingeschlagen"
      ],
      "answer": 1,
      "explain": "Dạng Präteritum của động từ mạnh 'einschlagen' là 'schlug ein' (không thêm -te)."
@@ -2808,23 +2808,23 @@
      "q": "Wählen Sie den Satz mit der richtigen Vorzeitigkeit in Gegenwart/Zukunft:",
      "options": [
       "Nachdem ich die Prüfung bestehe, reise ich nach Hause.",
-      "Nachdem ich die Prüfung bestanden habe, reise ich nach Hause.",
       "Nachdem ich die Prüfung bestanden hatte, reise ich nach Hause.",
-      "Nachdem ich die Prüfung bestanden haben werde, reiste ich."
+      "Nachdem ich die Prüfung bestanden haben werde, reiste ich.",
+      "Nachdem ich die Prüfung bestanden habe, reise ich nach Hause."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Khi mệnh đề chính ở hiện tại hoặc tương lai ('reise ich'), mệnh đề phụ với 'nachdem' phải dùng thì Perfekt ('bestanden habe')."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die feste Redewendung „Fuß fassen“?",
      "options": [
+      "Sehr schnell zu Fuß laufen",
       "Sich am Fuß verletzen",
       "In einer neuen Umgebung heimisch werden und sich etablieren",
-      "Sehr schnell zu Fuß laufen",
       "Schuhe anziehen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "'Fuß fassen' là thành ngữ chỉ việc hòa nhập và tạo dựng được chỗ đứng vững chắc ở một môi trường mới."
     },
     {

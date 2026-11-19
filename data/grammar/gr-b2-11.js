@@ -14,9 +14,9 @@
    "q": "Welche Modalpartikel schwächt eine Aufforderung höflich ab: 'Komm ___ bitte kurz her!'?",
    "options": [
     "mal",
-    "bloß",
+    "denn",
     "etwa",
-    "denn"
+    "bloß"
    ],
    "answer": 0,
    "explain": "'mal' làm dịu lời mệnh lệnh/yêu cầu, tạo sự thân thiện, nhẹ nhàng."
@@ -25,24 +25,24 @@
    "type": "mcq",
    "q": "Welche Modalpartikel drückt ein Gerücht oder eine Vermutung aus: 'Er ist ___ krank, sonst wäre er gekommen.'?",
    "options": [
-    "wohl",
     "bloß",
+    "etwa",
     "denn",
-    "etwa"
+    "wohl"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'wohl' diễn tả sự suy đoán có căn cứ (~70-80%), tương đương 'wahrscheinlich'."
   },
   {
    "type": "mcq",
    "q": "In welchem Fragesatz drückt 'etwa' einen negativen Zweifel aus ('đừng bảo là...')?",
    "options": [
+    "Haben Sie wohl Zeit für mich?",
     "Hast du etwa mein ganzes Erspartes ausgegeben?",
     "Wie heißt du denn eigentlich?",
-    "Kommst du mal kurz mit mir?",
-    "Haben Sie wohl Zeit für mich?"
+    "Kommst du mal kurz mit mir?"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'etwa' trong câu hỏi diễn tả sự ngờ vực tiêu cực, mong đợi câu trả lời là 'không'."
   },
   {
@@ -50,9 +50,9 @@
    "q": "Welche Modalpartikel betont etwas, das beiden Sprechern BEREITS BEKANNT ist?",
    "options": [
     "ja",
-    "denn",
+    "bloß",
     "etwa",
-    "bloß"
+    "denn"
    ],
    "answer": 0,
    "explain": "'ja' dùng để khẳng định điều hiển nhiên mà người đối thoại cũng đã biết rõ."
@@ -61,24 +61,24 @@
    "type": "mcq",
    "q": "Was drückt 'bloß' im Satz 'Mach das bloß nicht noch einmal!' aus?",
    "options": [
-    "Eine ernste Warnung / Drohung",
     "Eine höfliche Bitte",
-    "Eine freudige Überraschung",
-    "Eine Vermutung"
+    "Eine Vermutung",
+    "Eine ernste Warnung / Drohung",
+    "Eine freudige Überraschung"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'bloß nicht' diễn tả lời cảnh báo nghiêm túc, đe dọa nhẹ ('coi chừng đấy!')."
   },
   {
    "type": "mcq",
    "q": "Darf eine Modalpartikel wie 'denn' oder 'doch' auf Position 1 im Hauptsatz stehen?",
    "options": [
-    "Nein, Modalpartikeln stehen im Mittelfeld und können nicht auf Position 1 stehen.",
+    "Nein, sie dürfen nur ganz am Ende des Satzes stehen.",
     "Ja, sie können überall im Satz stehen.",
     "Ja, aber nur in Fragesätzen.",
-    "Nein, sie dürfen nur ganz am Ende des Satzes stehen."
+    "Nein, Modalpartikeln stehen im Mittelfeld und können nicht auf Position 1 stehen."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Modalpartikeln chỉ đứng ở Mittelfeld (sau động từ chia / đại từ), không bao giờ đứng ở Position 1."
   },
   {

@@ -426,53 +426,53 @@
      {
       "q": "Welche zentrale Funktion erfüllt der Konjunktiv I laut Abschnitt 1 und 2 in Sitzungsprotokollen?",
       "options": [
+       "Er wird ausschließlich in lockeren Alltagsgesprächen genutzt.",
        "Er drückt immer aus, dass der Protokollant dem Gesagten widerspricht.",
-       "Er kennzeichnet Aussagen neutral als fremde Position, ohne dass der Berichtende selbst dafür bürgt.",
        "Er verkürzt lange Sätze durch den Wegfall von Verben.",
-       "Er wird ausschließlich in lockeren Alltagsgesprächen genutzt."
+       "Er kennzeichnet Aussagen neutral als fremde Position, ohne dass der Berichtende selbst dafür bürgt."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 1–2 nhấn mạnh Konjunktiv I là tín hiệu khoảng cách trung lập, cho biết đây là phát biểu của nguồn chứ không phải cam kết của người ghi."
      },
      {
       "q": "Wann muss man in der indirekten Rede auf die Umschreibung mit „würden“ ausweichen?",
       "options": [
-       "Immer bei starken Verben in der dritten Person Singular.",
-       "Nur bei Modalverben wie müssen oder können.",
        "Wenn sowohl der Konjunktiv I mit dem Indikativ Präsens als auch der Konjunktiv II mit dem Präteritum Indikativ identisch ist.",
-       "Sobald ein Satz in der Vergangenheit steht."
+       "Sobald ein Satz in der Vergangenheit steht.",
+       "Nur bei Modalverben wie müssen oder können.",
+       "Immer bei starken Verben in der dritten Person Singular."
       ],
-      "answer": 2,
+      "answer": 0,
       "explain": "Đoạn 3 giải thích quy tắc bậc thang: dùng „würden“ khi Konj. I trùng Ind. Präsens VÀ Konj. II cũng trùng Präteritum (vd. sie planten)."
      },
      {
       "q": "Worin unterscheidet sich die Zeitenfolge der deutschen indirekten Rede laut Abschnitt 4 vom Englischen?",
       "options": [
-       "Im Deutschen gibt es keine starre Verschiebung ins Präteritum; entscheidend ist das Zeitverhältnis zur Originalaussage.",
        "Im Deutschen darf man in der indirekten Rede keine Vergangenheit ausdrücken.",
-       "Im Deutschen stehen alle Aussagen im Plusquamperfekt.",
-       "Im Deutschen entfällt das Hilfsverb vollständig."
+       "Im Deutschen gibt es keine starre Verschiebung ins Präteritum; entscheidend ist das Zeitverhältnis zur Originalaussage.",
+       "Im Deutschen entfällt das Hilfsverb vollständig.",
+       "Im Deutschen stehen alle Aussagen im Plusquamperfekt."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 4 nêu rõ tiếng Đức không lùi thì cứng nhắc về quá khứ mà dựa vào quan hệ đồng thời/trước đó/tương lai so với lời nói gốc."
      },
      {
       "q": "Welche Zeitform wird im Konjunktiv I für alle vergangenen Ereignisse verwendet?",
       "options": [
-       "Konjunktiv Präteritum",
        "Konjunktiv Perfekt (habe/sei + Partizip II)",
-       "Indikativ Plusquamperfekt",
-       "Konjunktiv Futur I"
+       "Konjunktiv Präteritum",
+       "Konjunktiv Futur I",
+       "Indikativ Plusquamperfekt"
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 4 khẳng định mọi sự việc xảy ra trước (Vorzeitiges) đều dùng Konjunktiv Perfekt („sei gewesen“, „habe beschlossen“)."
      },
      {
       "q": "Wie setzt ein gutes Protokoll laut Abschnitt 5 redeeinleitende Verben ein?",
       "options": [
-       "Es wiederholt in jedem Satz das Verb „sagen“.",
-       "Es nutzt präzise Verben wie „bemängeln“ oder „einräumen“, um die Art der Aussage klar, aber wertfrei wiederzugeben.",
        "Es verzichtet völlig auf redeeinleitende Verben.",
+       "Es nutzt präzise Verben wie „bemängeln“ oder „einräumen“, um die Art der Aussage klar, aber wertfrei wiederzugeben.",
+       "Es wiederholt in jedem Satz das Verb „sagen“.",
        "Es bewertet jede Aussage offen als richtig oder falsch."
       ],
       "answer": 1,
@@ -481,12 +481,12 @@
      {
       "q": "Warum bleibt der Konjunktiv I laut Abschnitt 6 trotz digitaler Transkripte wichtig?",
       "options": [
-       "Weil automatische Programme keine Substantive erkennen.",
-       "Weil bei rechtlich verbindlicher Dokumentation und Unternehmenskommunikation sprachliche Klarheit über Glaubwürdigkeit entscheidet.",
        "Weil Chatnachrichten im Büro verboten wurden.",
-       "Weil er schneller zu tippen ist als der Indikativ."
+       "Weil er schneller zu tippen ist als der Indikativ.",
+       "Weil bei rechtlich verbindlicher Dokumentation und Unternehmenskommunikation sprachliche Klarheit über Glaubwürdigkeit entscheidet.",
+       "Weil automatische Programme keine Substantive erkennen."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 6 kết luận khi lưu trữ có tính ràng buộc pháp lý hoặc truyền thông toàn công ty, làm chủ lời nói gián tiếp quyết định sự minh bạch và uy tín."
      }
     ],
@@ -503,10 +503,10 @@
      "type": "mcq",
      "q": "Welche Form des Konjunktivs I von „sprechen“ (er/sie/es) ist korrekt?",
      "options": [
-      "er spräche",
+      "er sprach",
       "er spreche",
       "er spricht",
-      "er sprach"
+      "er spräche"
      ],
      "answer": 1,
      "explain": "Konjunktiv I cấu tạo từ gốc Infinitiv „sprech-“ + „-e“ (không đổi nguyên âm gốc): „er spreche“."
@@ -515,46 +515,46 @@
      "type": "mcq",
      "q": "Welche Ersatzform ist im Satz „Die Mitarbeitenden sagten, sie ___ zu wenig Informationen erhalten“ grammatisch korrekt?",
      "options": [
+      "hatten",
       "haben",
-      "hätten",
       "würden haben",
-      "hatten"
+      "hätten"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Vì Konj. I „sie haben“ trùng hệt Indikativ nên chuyển sang Konj. II „sie hätten“."
     },
     {
      "type": "mcq",
      "q": "Wie lautet der korrekte Satz in der indirekten Rede für „Der Chef sagte: ‚Das Projekt wurde bereits abgeschlossen.‘“?",
      "options": [
-      "Der Chef sagte, das Projekt sei bereits abgeschlossen worden.",
       "Der Chef sagte, das Projekt wurde bereits abgeschlossen.",
+      "Der Chef sagte, das Projekt sei bereits abgeschlossen worden.",
       "Der Chef sagte, das Projekt habe bereits abgeschlossen worden.",
       "Der Chef sagte, das Projekt sei bereits abgeschlossen geworden."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Passiv quá khứ trong Konjunktiv I là „sei + Partizip II + worden“."
     },
     {
      "type": "mcq",
      "q": "Welche Form drückt eine höfliche indirekte Bitte der Projektleiterin aus?",
      "options": [
-      "Sie bat die Teams, sie mögen die Berichte bis Freitag einreichen.",
       "Sie bat die Teams, sie mussten die Berichte bis Freitag einreichen.",
       "Sie bat die Teams, sie reichten die Berichte bis Freitag ein.",
+      "Sie bat die Teams, sie mögen die Berichte bis Freitag einreichen.",
       "Sie bat die Teams, sie durften die Berichte bis Freitag einreichen."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Lời đề nghị lịch sự trong lời nói gián tiếp dùng „mögen“ ở Konjunktiv I („sie mögen ... einreichen“)."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „einen Fehler oder ein Problem offen zugeben“?",
      "options": [
-      "dementieren",
+      "ankündigen",
       "einräumen",
       "protokollieren",
-      "ankündigen"
+      "dementieren"
      ],
      "answer": 1,
      "explain": "„einräumen“ = thừa nhận một sai sót hay hạn chế."
@@ -565,8 +565,8 @@
      "options": [
       "Sie bestätigte das Gerücht offiziell.",
       "Sie wies das Gerücht offiziell als falsch zurück.",
-      "Sie protokollierte das Gerücht für den Betriebsrat.",
-      "Sie kündigte das Gerücht für nächste Woche an."
+      "Sie kündigte das Gerücht für nächste Woche an.",
+      "Sie protokollierte das Gerücht für den Betriebsrat."
      ],
      "answer": 1,
      "explain": "„dementieren“ = cải chính, bác bỏ chính thức một tin đồn/thông tin."
@@ -576,11 +576,11 @@
      "q": "Welche Form ist für regelmäßige Verben im Plural (z. B. „sie planen“) als Ersatzform in der indirekten Rede nötig?",
      "options": [
       "sie planen",
-      "sie planten",
       "sie würden planen",
+      "sie planten",
       "sie hätten geplant"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Vì Konj. I „sie planen“ trùng Ind. Präsens và Konj. II „sie planten“ trùng Präteritum nên dùng „sie würden planen“."
     },
     {
@@ -1227,67 +1227,67 @@
      {
       "q": "Was versteht man laut Abschnitt 1 im Unternehmensalltag unter dem „Flurfunk“?",
       "options": [
+       "Die gesetzlich vorgeschriebenen Tarifverhandlungen.",
        "Das offizielle Intranet der Personalabteilung.",
        "Ein informelles Netzwerk, über das sich ungeprüfte Gerüchte im Unternehmen verbreiten.",
-       "Die gesetzlich vorgeschriebenen Tarifverhandlungen.",
        "Eine moderne Software für Protokolle."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 1 giải thích Flurfunk là mạng lưới không chính thức thứ hai trong công ty, nơi các tin đồn lan truyền."
      },
      {
       "q": "Welche Bedeutung trägt das Modalverb „sollen“ im subjektiven Gebrauch laut Abschnitt 2?",
       "options": [
        "Eine verbindliche Weisung des Vorgesetzten.",
-       "Eine weitgehend neutrale Wiedergabe von Informationen aus fremden Quellen ohne eigene Gewähr.",
        "Eine direkte Ablehnung durch den Sprecher.",
+       "Eine weitgehend neutrale Wiedergabe von Informationen aus fremden Quellen ohne eigene Gewähr.",
        "Eine eigene Absicht des Satzsubjekts."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn 2 chỉ rõ „sollen“ chủ quan tường thuật thông tin nghe/đọc từ nguồn khác mà người nói không đứng ra bảo đảm, giữ thái độ trung lập."
      },
      {
       "q": "Worin unterscheidet sich „Er will den Kunden informiert haben“ von „Er soll den Kunden informiert haben“?",
       "options": [
-       "Bei „will“ behauptet er es selbst und der Berichtende ist skeptisch; bei „soll“ berichten Dritte darüber.",
+       "„soll“ drückt immer stärkere Skepsis aus als „will“.",
        "Beide Sätze bedeuten im Deutschen exakt dasselbe.",
        "Bei „will“ geht es um die Zukunft, bei „soll“ um die Vergangenheit.",
-       "„soll“ drückt immer stärkere Skepsis aus als „will“."
+       "Bei „will“ behauptet er es selbst und der Berichtende ist skeptisch; bei „soll“ berichten Dritte darüber."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 3 đối chiếu rõ: „will“ = chủ ngữ tự khẳng định (kèm sự hoài nghi của người tường thuật), „soll“ = người thứ ba kể lại."
      },
      {
       "q": "Welche Funktion erfüllen Ausdrücke wie „nach Angaben der Gewerkschaft“ oder „einer Befragung zufolge“?",
       "options": [
-       "Sie verbergen absichtlich die Herkunft einer Meldung.",
        "Sie benennen die Informationsquelle transparent und ermöglichen eine eigene Überprüfung.",
        "Sie machen jede Aussage automatisch rechtlich verbindlich.",
+       "Sie verbergen absichtlich die Herkunft einer Meldung.",
        "Sie ersetzen im Deutschen den gesamten Konjunktiv I."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 4 nêu rõ các cụm dẫn nguồn giúp minh bạch hóa xuất xứ thông tin để người đọc tự kiểm chứng."
      },
      {
       "q": "Was verhindert laut Abschnitt 5 am wirksamsten, dass sich Gerüchte im Betrieb verselbstständigen?",
       "options": [
-       "Das strenge Verbot von Gesprächen in der Kaffeeküche.",
        "Eine transparente und frühzeitige Informationspolitik der Unternehmensleitung.",
-       "Das Weitererzählen von Spekulationen im Indikativ.",
-       "Die vollständige Abschaffung schriftlicher Stellungnahmen."
+       "Das strenge Verbot von Gesprächen in der Kaffeeküche.",
+       "Die vollständige Abschaffung schriftlicher Stellungnahmen.",
+       "Das Weitererzählen von Spekulationen im Indikativ."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 5 khẳng định chính sách thông tin minh bạch và kịp thời từ ban lãnh đạo làm tin đồn hành lang mất đất sống."
      },
      {
       "q": "Welchen doppelten Nutzen haben diese sprachlichen Mittel laut Abschnitt 6 für Deutschlernende?",
       "options": [
-       "Sie erleichtern das Verständnis von Wirtschaftsjournalismus und ermöglichen präzises, diplomatisches Formulieren im Beruf.",
-       "Sie sparen Zeit beim Tippen von Chatnachrichten und ersetzen Fachvokabular.",
        "Sie sind nur für Juristen relevant.",
-       "Sie verhindern jede Form von Fluktuation."
+       "Sie erleichtern das Verständnis von Wirtschaftsjournalismus und ermöglichen präzises, diplomatisches Formulieren im Beruf.",
+       "Sie verhindern jede Form von Fluktuation.",
+       "Sie sparen Zeit beim Tippen von Chatnachrichten und ersetzen Fachvokabular."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 6 nêu lợi ích kép: mài giũa đọc hiểu báo chí kinh tế và diễn đạt khéo léo, chính xác, chặt chẽ trong công việc."
      }
     ],
@@ -1304,33 +1304,33 @@
      "type": "mcq",
      "q": "Was bedeutet der Satz „Die Firma soll im Herbst ein neues Werk eröffnen“?",
      "options": [
-      "Die Firma ist gesetzlich verpflichtet, ein Werk zu eröffnen.",
       "Man hört oder liest aus fremden Quellen, dass die Firma ein neues Werk plant.",
+      "Die Firma lehnt den Bau eines neuen Werkes ab.",
       "Die Firma behauptet es selbst, aber niemand glaubt es.",
-      "Die Firma lehnt den Bau eines neuen Werkes ab."
+      "Die Firma ist gesetzlich verpflichtet, ein Werk zu eröffnen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„sollen“ ở cách dùng chủ quan diễn tả thông tin nghe/đọc từ bên thứ ba (nghe nói rằng)."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz drückt aus, dass der Projektleiter selbst etwas über die Vergangenheit behauptet und der Sprecher skeptisch ist?",
      "options": [
-      "Der Projektleiter soll die E-Mail gestern abgeschickt haben.",
-      "Der Projektleiter will die E-Mail gestern abgeschickt haben.",
       "Der Projektleiter musste die E-Mail gestern abschicken.",
-      "Der Projektleiter durfte die E-Mail gestern abschicken."
+      "Der Projektleiter durfte die E-Mail gestern abschicken.",
+      "Der Projektleiter soll die E-Mail gestern abgeschickt haben.",
+      "Der Projektleiter will die E-Mail gestern abgeschickt haben."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„wollen + Infinitiv Perfekt“ („will ... abgeschickt haben“) diễn tả lời tự khẳng định của chủ ngữ kèm sự hoài nghi của người nói."
     },
     {
      "type": "mcq",
      "q": "Welche Konstruktion mit „laut“ ist grammatisch korrekt?",
      "options": [
-      "Laut den neuen Bericht steigen die Löhne.",
-      "Laut dem neuen Bericht steigen die Löhne.",
       "Dem neuen Bericht laut steigen die Löhne.",
+      "Laut dem neuen Bericht steigen die Löhne.",
+      "Laut den neuen Bericht steigen die Löhne.",
       "Laut dem neuen Bericht die Löhne steigen."
      ],
      "answer": 1,
@@ -1341,11 +1341,11 @@
      "q": "Welches Adjektiv signalisiert bereits im Voraus Zweifel an einer Behauptung?",
      "options": [
       "verbindlich",
+      "ausdrücklich",
       "angeblich",
-      "vertraulich",
-      "ausdrücklich"
+      "vertraulich"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„angeblich“ (nghe đồn là, được cho là) luôn mang sắc thái hoài nghi, chưa kiểm chứng."
     },
     {
@@ -1353,8 +1353,8 @@
      "q": "Welches Verb passt? „Der Manager wies alle Anschuldigungen als haltlos ___.“",
      "options": [
       "zurück",
-      "durch",
       "vor",
+      "durch",
       "an"
      ],
      "answer": 0,
@@ -1364,21 +1364,21 @@
      "type": "mcq",
      "q": "Was bedeutet „Es ist durchgesickert, dass die Prämien gekürzt werden“?",
      "options": [
-      "Die Information wurde offiziell auf der Hauptversammlung gefeiert.",
       "Die vertrauliche Information ist inoffiziell nach außen gelangt.",
+      "Die Information wurde offiziell auf der Hauptversammlung gefeiert.",
       "Die Prämien wurden doppelt ausgezahlt.",
       "Die Gewerkschaft hat die Kürzung vorgeschlagen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„durchsickern“ = bị rò rỉ thông tin nội bộ ra ngoài."
     },
     {
      "type": "mcq",
      "q": "Wie bildet man den subjektiven Gebrauch von „sollen“ für die Vergangenheit?",
      "options": [
-      "sollte + Infinitiv Präsens",
-      "soll + Infinitiv Perfekt (z. B. soll unterschrieben haben)",
       "hat sollen + Infinitiv",
+      "soll + Infinitiv Perfekt (z. B. soll unterschrieben haben)",
+      "sollte + Infinitiv Präsens",
       "wird sollen + Partizip II"
      ],
      "answer": 1,
@@ -2030,8 +2030,8 @@
       "options": [
        "Weil Mitarbeitende keine klaren Ziele mehr wünschen.",
        "Weil sich Märkte und Technologien so rasch wandeln, dass eine einzelne Führungskraft nicht mehr alles allein wissen kann.",
-       "Weil Hierarchien gesetzlich abgeschafft wurden.",
-       "Weil autoritäre Führung in stabilen Märkten niemals funktioniert hat."
+       "Weil autoritäre Führung in stabilen Märkten niemals funktioniert hat.",
+       "Weil Hierarchien gesetzlich abgeschafft wurden."
       ],
       "answer": 1,
       "explain": "Đoạn 1 chỉ rõ trong nền kinh tế tri thức biến đổi nhanh, một quản lý đơn lẻ không thể nắm hết chi tiết mà cần trí tuệ tập thể."
@@ -2039,56 +2039,56 @@
      {
       "q": "Was ist laut Abschnitt 2 bei flachen Hierarchien besonders wichtig?",
       "options": [
-       "Dass niemand mehr Verantwortung trägt.",
        "Dass klar abgegrenzte Zuständigkeiten und transparente Entscheidungsprozesse bestehen.",
-       "Dass sämtliche Zielvereinbarungen abgeschafft werden.",
-       "Dass Führungskräfte alle Detailaufgaben selbst erledigen."
+       "Dass niemand mehr Verantwortung trägt.",
+       "Dass Führungskräfte alle Detailaufgaben selbst erledigen.",
+       "Dass sämtliche Zielvereinbarungen abgeschafft werden."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 2 nhấn mạnh phân cấp phẳng không phải mất định hướng mà càng đòi hỏi phạm vi phụ trách rõ và quy trình quyết định minh bạch."
      },
      {
       "q": "Welche Folge hat eine angstgeprägte Fehlerkultur laut Abschnitt 3?",
       "options": [
-       "Kleine Pannen werden aus Angst vor Strafe vertuscht und wachsen oft zu großen Krisen an.",
-       "Teams testen besonders viele innovative Ideen.",
        "Überforderung wird frühzeitig offen angesprochen.",
-       "Es passieren überhaupt keine Fehler mehr."
+       "Teams testen besonders viele innovative Ideen.",
+       "Es passieren überhaupt keine Fehler mehr.",
+       "Kleine Pannen werden aus Angst vor Strafe vertuscht und wachsen oft zu großen Krisen an."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 3 nêu rõ nỗi sợ trừng phạt khiến nhân viên che giấu lỗi nhỏ cho đến khi chúng phình to thành khủng hoảng tốn kém."
      },
      {
       "q": "Wodurch zeichnet sich wertschätzendes Feedback laut Abschnitt 4 aus?",
       "options": [
-       "Es erfolgt erst am Ende des Jahres mit pauschalen Vorwürfen.",
        "Es ist zeitnah, konkret, sachlich und sucht gemeinsam nach Verbesserungen.",
+       "Es wird grundsätzlich vor der gesamten Abteilung ausgesprochen.",
        "Es verzichtet vollständig auf das Benennen von Problemen.",
-       "Es wird grundsätzlich vor der gesamten Abteilung ausgesprochen."
+       "Es erfolgt erst am Ende des Jahres mit pauschalen Vorwürfen."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 4 mô tả phản hồi trân trọng là kịp thời, cụ thể, không hạ thấp cá nhân, nêu dữ kiện quan sát và cùng tìm giải pháp."
      },
      {
       "q": "Wie bewertet Abschnitt 5 Meinungsverschiedenheiten in vielfältigen Teams?",
       "options": [
        "Als schweren Betriebsunfall, der um jeden Preis vermieden werden muss.",
-       "Als natürlichen Bestandteil produktiver Zusammenarbeit, sofern sie sachlich ausgetragen werden.",
        "Als Zeichen dafür, dass die Vertrauensbasis endgültig zerstört ist.",
-       "Als alleinige Aufgabe externer Gerichte."
+       "Als alleinige Aufgabe externer Gerichte.",
+       "Als natürlichen Bestandteil produktiver Zusammenarbeit, sofern sie sachlich ausgetragen werden."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 5 khẳng định bất đồng ý kiến không phải tai nạn vận hành mà là phần tự nhiên của hợp tác hiệu quả nếu giải quyết sớm, khách quan."
      },
      {
       "q": "Wie charakterisiert der Schlussabschnitt „Führen auf Augenhöhe“?",
       "options": [
        "Als naive Harmoniesucht ohne Leistungsanspruch.",
+       "Als vollständigen Verzicht auf Führungskräfte.",
        "Als kurzlebigen Modetrend junger Start-ups.",
-       "Als anspruchsvolle Kompetenz, die Klarheit mit Empathie verbindet und Unternehmen krisenfest macht.",
-       "Als vollständigen Verzicht auf Führungskräfte."
+       "Als anspruchsvolle Kompetenz, die Klarheit mit Empathie verbindet und Unternehmen krisenfest macht."
       ],
-      "answer": 2,
+      "answer": 3,
       "explain": "Đoạn 6 định nghĩa lãnh đạo bình đẳng là năng lực chuyên môn đòi hỏi cao kết hợp sự rõ ràng với thấu cảm."
      }
     ],
@@ -2105,84 +2105,84 @@
      "type": "mcq",
      "q": "Welcher Führungsstil beschreibt eine Zusammenarbeit, bei der Mitarbeitende aktiv an Entscheidungen beteiligt werden?",
      "options": [
-      "autoritär",
       "partizipativ",
       "haltlos",
-      "vermeintlich"
+      "vermeintlich",
+      "autoritär"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„partizipativ“ = có sự tham gia đồng kiến tạo của nhân viên."
     },
     {
      "type": "mcq",
      "q": "Welche Formulierung entspricht am besten den Regeln für konstruktives Feedback mit Ich-Botschaften?",
      "options": [
+      "Das war einfach schlecht, mach es noch einmal.",
       "Du bist völlig unzuverlässig und lieferst immer zu spät!",
       "Mir ist aufgefallen, dass der Bericht zweimal nach der Frist ankam; wie können wir das künftig besser lösen?",
-      "Alle im Team beschweren sich hinter deinem Rücken über dich.",
-      "Das war einfach schlecht, mach es noch einmal."
+      "Alle im Team beschweren sich hinter deinem Rücken über dich."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Thông điệp ngôi thứ nhất (Ich-Botschaft) mô tả quan sát khách quan, không công kích cá nhân và hướng tới giải pháp chung."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die Redewendung „an einem Strang ziehen“?",
      "options": [
-      "einen Konflikt eskalieren lassen",
-      "gemeinsam und geschlossen auf dasselbe Ziel hinarbeiten",
+      "Fehler vor dem Vorgesetzten vertuschen",
       "alle Aufgaben allein erledigen",
-      "Fehler vor dem Vorgesetzten vertuschen"
+      "einen Konflikt eskalieren lassen",
+      "gemeinsam und geschlossen auf dasselbe Ziel hinarbeiten"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„an einem Strang ziehen“ = đồng lòng hợp sức hướng tới mục tiêu chung."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt? „Die Mediatorin half beiden Abteilungen, den langen Konflikt endgültig ___.“",
      "options": [
-      "beizulegen",
       "zu vertuschen",
+      "zu dementieren",
       "zu verschärfen",
-      "zu dementieren"
+      "beizulegen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "„einen Konflikt beilegen“ = giải quyết êm đẹp, khép lại mâu thuẫn."
     },
     {
      "type": "mcq",
      "q": "Welchen Kasus verlangt die feste Verbindung „jemandem/etwas gerecht werden“?",
      "options": [
-      "Akkusativ",
       "Genitiv",
       "Dativ",
+      "Akkusativ",
       "Nominativ"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„den Bedürfnissen (Dativ) aller Teammitglieder gerecht werden“."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „Fehler vertuschen“?",
      "options": [
-      "Fehler offen im Team analysieren",
-      "Fehler heimlich verbergen oder verheimlichen",
+      "Fehler zeitnah korrigieren",
       "Fehler schriftlich protokollieren",
-      "Fehler zeitnah korrigieren"
+      "Fehler heimlich verbergen oder verheimlichen",
+      "Fehler offen im Team analysieren"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„vertuschen“ = bưng bít, che giấu sai sót/sự cố."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet der Ausdruck „auf Augenhöhe kommunizieren“?",
      "options": [
-      "von oben herab Weisungen erteilen",
       "gleichberechtigt und gegenseitig respektvoll miteinander sprechen",
       "ausschließlich per E-Mail kommunizieren",
+      "von oben herab Weisungen erteilen",
       "jeden Konflikt vermeiden"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„auf Augenhöhe“ = bình đẳng, ngang hàng tôn trọng lẫn nhau."
     },
     {
@@ -2742,43 +2742,43 @@
      {
       "q": "Wie fielen die Ergebnisse der großen deutschen Begleitstudie zur Vier-Tage-Woche laut Abschnitt 2 aus?",
       "options": [
+       "Ausschließlich große Industriekonzerne konnten teilnehmen.",
        "Die Mehrheit der Betriebe brach das Experiment wegen massiver Umsatzeinbrüche ab.",
-       "Über 70 Prozent wollten das Modell fortführen, und die Produktivität blieb stabil oder stieg leicht.",
        "Die Zahl der Besprechungen verdoppelte sich durch die kürzere Woche.",
-       "Ausschließlich große Industriekonzerne konnten teilnehmen."
+       "Über 70 Prozent wollten das Modell fortführen, und die Produktivität blieb stabil oder stieg leicht."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 2 nêu rõ hơn 70% doanh nghiệp muốn tiếp tục và năng suất không giảm mà ổn định hoặc cải thiện nhẹ."
      },
      {
       "q": "Wodurch gelang es den beteiligten Betrieben laut Abschnitt 2, die Produktivität zu halten?",
       "options": [
-       "Durch konsequentes Kürzen unnötiger Besprechungen und Straffen digitaler Abläufe.",
        "Durch unbezahlte Überstunden am Wochenende.",
+       "Durch eine drastische Gehaltskürzung.",
        "Durch die Abschaffung sämtlicher Pausen.",
-       "Durch eine drastische Gehaltskürzung."
+       "Durch konsequentes Kürzen unnötiger Besprechungen und Straffen digitaler Abläufe."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 2 chỉ ra các công ty cắt bỏ cuộc họp thừa, tinh gọn quy trình số và giảm yếu tố gây xao nhãng."
      },
      {
       "q": "Welche Effekte zeigten sich laut Abschnitt 3 im Personalbereich?",
       "options": [
        "Höhere Fluktuation und mehr Krankmeldungen.",
-       "Weniger Stress und Fehlzeiten sowie mehr qualifizierte Bewerbungen und geringere Fluktuation.",
+       "Sinkende Motivation in mittelständischen Betrieben.",
        "Keine messbaren Veränderungen bei der Gesundheit.",
-       "Sinkende Motivation in mittelständischen Betrieben."
+       "Weniger Stress und Fehlzeiten sowie mehr qualifizierte Bewerbungen und geringere Fluktuation."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 nêu rõ căng thẳng và nghỉ ốm giảm, trong khi hồ sơ chất lượng tăng và biến động nhân sự giảm."
      },
      {
       "q": "Warum warnen Arbeitswissenschaftler laut Abschnitt 4 vor einer pauschalen Übertragung auf alle Branchen?",
       "options": [
-       "Weil die Beschäftigten in Krankenhäusern keine freien Tage wünschen.",
+       "Weil digitale Abläufe im Handwerk unmöglich sind.",
        "Weil in Bereichen mit Rund-um-die-Uhr-Präsenz zusätzliches Personal nötig wäre, das auf dem Arbeitsmarkt fehlt.",
        "Weil die Vier-Tage-Woche im Ausland vollständig gescheitert ist.",
-       "Weil digitale Abläufe im Handwerk unmöglich sind."
+       "Weil die Beschäftigten in Krankenhäusern keine freien Tage wünschen."
       ],
       "answer": 1,
       "explain": "Đoạn 4 nêu giới hạn cứng ở bệnh viện, viện dưỡng lão, giao thông công cộng, làm ca – cần thêm nhân sự vốn đang thiếu."
@@ -2797,12 +2797,12 @@
      {
       "q": "Welchen grundlegenden Wandel des Leistungsbegriffs betont der Schlussabschnitt?",
       "options": [
-       "Weg von bloßer Anwesenheit am Schreibtisch hin zu konkretem Ergebnis und nachhaltiger Gesundheit.",
-       "Zurück zu strenger Präsenzpflicht und autoritärer Kontrolle.",
        "Weg von wirtschaftlicher Tragfähigkeit hin zu reinem Freizeitfokus.",
-       "Die vollständige Abschaffung aller hybriden Arbeitsmodelle."
+       "Weg von bloßer Anwesenheit am Schreibtisch hin zu konkretem Ergebnis und nachhaltiger Gesundheit.",
+       "Die vollständige Abschaffung aller hybriden Arbeitsmodelle.",
+       "Zurück zu strenger Präsenzpflicht und autoritärer Kontrolle."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 6 khẳng định chuyển dịch từ sự có mặt đơn thuần sang kết quả công việc cụ thể và sức khỏe bền vững."
      }
     ],
@@ -2819,10 +2819,10 @@
      "type": "mcq",
      "q": "Welche Form des Konjunktivs I von „fahren“ (er/sie/es) ist korrekt?",
      "options": [
-      "er führe",
+      "er fähre",
       "er fahre",
-      "er fährt",
-      "er fähre"
+      "er führe",
+      "er fährt"
      ],
      "answer": 1,
      "explain": "Konjunktiv I của động từ mạnh không biến âm: gốc „fahr-“ + „-e“ → „er fahre“."
@@ -2831,21 +2831,21 @@
      "type": "mcq",
      "q": "Welcher Satz drückt klar aus, dass man eine fremde Meldung aus dritten Quellen wiedergibt?",
      "options": [
-      "Das Unternehmen will nächstes Jahr expandieren.",
       "Das Unternehmen soll nächstes Jahr stark expandieren.",
+      "Das Unternehmen will nächstes Jahr expandieren.",
       "Das Unternehmen muss nächstes Jahr expandieren.",
       "Das Unternehmen darf nächstes Jahr expandieren."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„sollen“ chủ quan = nghe nói rằng (nguồn thứ ba)."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz drückt deutliche Skepsis gegenüber der Eigenbehauptung eines Kollegen aus?",
      "options": [
-      "Er soll den Vertrag gestern geprüft haben.",
-      "Er will den Vertrag gestern sorgfältig geprüft haben.",
       "Er musste den Vertrag gestern prüfen.",
+      "Er will den Vertrag gestern sorgfältig geprüft haben.",
+      "Er soll den Vertrag gestern geprüft haben.",
       "Er hat den Vertrag gestern geprüft."
      ],
      "answer": 1,
@@ -2855,58 +2855,58 @@
      "type": "mcq",
      "q": "Wie lautet der korrekte Satz in der indirekten Rede für „Sie sagte: ‚Ich arbeitete damals in Hamburg.‘“?",
      "options": [
-      "Sie sagte, sie arbeitete damals in Hamburg.",
-      "Sie sagte, sie habe damals in Hamburg gearbeitet.",
+      "Sie sagte, sie sei damals in Hamburg gearbeitet.",
       "Sie sagte, sie hätte damals in Hamburg arbeitet.",
-      "Sie sagte, sie sei damals in Hamburg gearbeitet."
+      "Sie sagte, sie habe damals in Hamburg gearbeitet.",
+      "Sie sagte, sie arbeitete damals in Hamburg."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Mọi thì quá khứ chuyển sang Konjunktiv I đều dùng Konjunktiv Perfekt: „sie habe ... gearbeitet“."
     },
     {
      "type": "mcq",
      "q": "Welches Verb passt? „Machtmissbrauch muss von der Leitung sofort ___ werden.“",
      "options": [
-      "unterbunden",
+      "delegiert",
       "vorgelebt",
-      "befürwortet",
-      "delegiert"
+      "unterbunden",
+      "befürwortet"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "„etwas unterbinden“ = ngăn chặn dứt khoát (Partizip II: „unterbunden“)."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „Werte glaubwürdig vorleben“?",
      "options": [
+      "Werte erst nach dem Ruhestand beachten",
       "Werte nur auf Plakaten veröffentlichen",
-      "Werte durch das eigene tägliche Verhalten beispielhaft zeigen",
       "Werte vor Mitarbeitenden geheim halten",
-      "Werte erst nach dem Ruhestand beachten"
+      "Werte durch das eigene tägliche Verhalten beispielhaft zeigen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„vorleben“ = làm gương sống động bằng chính hành động hằng ngày của mình."
     },
     {
      "type": "mcq",
      "q": "Welcher Ausdruck bedeutet „dafür sorgen, dass auch kritische Stimmen ernsthaft angehört werden“?",
      "options": [
-      "Gehör finden",
       "den Ton angeben",
+      "Gehör finden",
       "zur Debatte stehen",
       "in Kraft treten"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„Gehör finden“ = được lắng nghe, được tiếp thu ý kiến."
     },
     {
      "type": "mcq",
      "q": "Welche Ersatzform ist im Plural notwendig? „Die Abteilungsleiter meinten, sie ___ das neue Konzept unterstützen.“",
      "options": [
-      "unterstützen",
+      "seien",
       "unterstützten",
       "würden",
-      "seien"
+      "unterstützen"
      ],
      "answer": 2,
      "explain": "Động từ yếu số nhiều có Konj. I trùng Ind. Präsens và Konj. II trùng Präteritum nên dùng „würden + Infinitiv“."
@@ -2916,21 +2916,21 @@
      "q": "Welches Nomen bezeichnet die rechtliche oder organisatorische Erlaubnis, Entscheidungen zu treffen?",
      "options": [
       "die Fluktuation",
+      "die Überforderung",
       "die Befugnis",
-      "die Skepsis",
-      "die Überforderung"
+      "die Skepsis"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„die Befugnis“ = thẩm quyền, quyền hạn chính thức."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektiv beschreibt eine Besprechung, die sich auf praktische Lösungen statt auf Schuldzuweisungen konzentriert?",
      "options": [
-      "belastend",
       "haltlos",
+      "autoritär",
       "lösungsorientiert",
-      "autoritär"
+      "belastend"
      ],
      "answer": 2,
      "explain": "„lösungsorientiert“ = hướng tới giải pháp."

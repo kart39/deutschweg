@@ -390,49 +390,49 @@
      {
       "q": "Welche Rückmeldungen überraschten das Team?",
       "options": [
+       "Die meisten wollten das Haus ganz schließen.",
        "Viele Menschen wollten für die Kurse bezahlen.",
        "Das Thema Uhrzeit war besonders häufig.",
-       "Die meisten wollten das Haus ganz schließen.",
        "Die Leitung erhielt fast ausschließlich Bauvorschläge."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Warum wünschen sich manche Ehrenamtliche feste Schlusszeiten?",
       "options": [
-       "Sie wollen den Rest ihrer Woche besser planen.",
-       "Sie benötigen mehr Kurse zu verschiedenen Themen.",
        "Sie möchten mehr Spätschichten übernehmen.",
-       "Sie wollen die Rückmeldungen persönlich überbringen."
+       "Sie benötigen mehr Kurse zu verschiedenen Themen.",
+       "Sie wollen die Rückmeldungen persönlich überbringen.",
+       "Sie wollen den Rest ihrer Woche besser planen."
       ],
-      "answer": 0
+      "answer": 3
      },
      {
       "q": "Was erschwert einen längeren Abendbetrieb?",
       "options": [
-       "Der Raum ist abends bereits untervermietet.",
-       "Die Besucher dürfen abends keine Nachrichten schicken.",
+       "Mindestens eine weitere Person müsste regelmäßig länger bleiben.",
        "Der Anschlussbus ist grundsätzlich kostenlos.",
-       "Mindestens eine weitere Person müsste regelmäßig länger bleiben."
+       "Die Besucher dürfen abends keine Nachrichten schicken.",
+       "Der Raum ist abends bereits untervermietet."
       ],
-      "answer": 3
+      "answer": 0
      },
      {
       "q": "Worin besteht der Versuch?",
       "options": [
        "Alle Angebote finden am frühen Vormittag statt.",
-       "Jedes Treffen erhält zwei unterschiedliche Schlusszeiten.",
        "Ein Treff wechselt seine Anfangszeit; Veranstaltungen haben feste Schlusszeiten.",
+       "Jedes Treffen erhält zwei unterschiedliche Schlusszeiten.",
        "Nur angemeldete Personen können teilnehmen."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was soll die Auswertung über Besucherzahlen hinaus berücksichtigen?",
       "options": [
-       "Den Anschaffungspreis des Hauses.",
-       "Die Planbarkeit der Aufgaben für Ehrenamtliche.",
        "Die Anzahl der Buslinien in der ganzen Stadt.",
+       "Die Planbarkeit der Aufgaben für Ehrenamtliche.",
+       "Den Anschaffungspreis des Hauses.",
        "Die Zahl der Kurse in anderen Vierteln."
       ],
       "answer": 1
@@ -450,56 +450,56 @@
      "type": "mcq",
      "q": "Câu nào nêu phương án có thể cân nhắc, với phương án làm chủ ngữ?",
      "options": [
-      "Wir bringen den Abendtermin zur Sprache.",
-      "Der Abendtermin kommt für uns in Frage.",
       "Wir ziehen den Abendtermin in Betracht.",
-      "Der Abendtermin gewinnt an Bedeutung."
+      "Der Abendtermin gewinnt an Bedeutung.",
+      "Der Abendtermin kommt für uns in Frage.",
+      "Wir bringen den Abendtermin zur Sprache."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Der Abendtermin}} là phương án và làm chủ ngữ của {{in Frage kommen}}."
     },
     {
      "type": "mcq",
      "q": "Welche Ergänzung passt? „Mina legt Wert ___ einen verlässlichen Plan.“",
      "options": [
-      "von",
+      "auf",
       "mit",
       "in",
-      "auf"
+      "von"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Mẫu là {{Wert auf etwas legen}} với Akkusativ."
     },
     {
      "type": "mcq",
      "q": "Chọn câu Perfekt đúng.",
      "options": [
-      "Wir sind in Betracht gekommen.",
-      "Der Termin hat für uns in Frage gekommen.",
       "Der Termin ist für uns in Frage gekommen.",
-      "Wir haben eine Entscheidung getreffen."
+      "Wir haben eine Entscheidung getreffen.",
+      "Der Termin hat für uns in Frage gekommen.",
+      "Wir sind in Betracht gekommen."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{In Frage kommen}} tạo Perfekt với {{sein}} và Partizip II {{gekommen}}."
     },
     {
      "type": "mcq",
      "q": "Wie lässt sich die Aussage „Die Gruppe erwägt kürzere Treffen“ umformulieren?",
      "options": [
-      "Die Gruppe zieht kürzere Treffen in Betracht.",
-      "Die Gruppe trifft kürzere Treffen.",
       "Die Gruppe bringt sich bei kürzeren Treffen in Frage.",
+      "Die Gruppe trifft kürzere Treffen.",
+      "Die Gruppe zieht kürzere Treffen in Betracht.",
       "Die Gruppe legt kürzere Treffen zur Verfügung."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{Etwas in Betracht ziehen}} diễn tả việc đang cân nhắc một phương án."
     },
     {
      "type": "mcq",
      "q": "Câu nào cho biết quyết định đã được đưa ra?",
      "options": [
-      "Das Team zieht eine Änderung in Betracht.",
       "Für das Team kommt eine Änderung in Frage.",
+      "Das Team zieht eine Änderung in Betracht.",
       "Das Team spielt mit dem Gedanken an eine Änderung.",
       "Das Team hat die Entscheidung getroffen, den Termin zu ändern."
      ],
@@ -510,12 +510,12 @@
      "type": "mcq",
      "q": "Was bedeutet „Sie hat die unklare Schlusszeit zur Sprache gebracht“?",
      "options": [
-      "Sie beendet jedes Treffen selbst.",
-      "Sie hat die unklare Schlusszeit im Gespräch erwähnt.",
+      "Sie kommt bei den Treffen immer zu spät.",
       "Sie hat den Plan der Gruppe vorgelesen.",
-      "Sie kommt bei den Treffen immer zu spät."
+      "Sie hat die unklare Schlusszeit im Gespräch erwähnt.",
+      "Sie beendet jedes Treffen selbst."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Zur Sprache bringen}} là chủ động đưa một vấn đề vào cuộc trao đổi."
     },
     {
@@ -1095,49 +1095,49 @@
       "q": "Warum wurde die alte Terminliste kritisiert?",
       "options": [
        "Sie hatte keine Felder für Freitag.",
+       "Die Liste wurde jede Nacht gelöscht.",
        "Nur Theatermitglieder durften sich eintragen.",
-       "Leute mit flexiblen Arbeitszeiten konnten schneller buchen.",
-       "Die Liste wurde jede Nacht gelöscht."
+       "Leute mit flexiblen Arbeitszeiten konnten schneller buchen."
       ],
-      "answer": 2
+      "answer": 3
      },
      {
       "q": "Warum wollten andere die langfristige Buchung zunächst behalten?",
       "options": [
        "Manche Gruppen müssen Einladungen und Teilnehmer früh koordinieren.",
-       "Für einen Film stehen grundsätzlich nur Samstage zur Verfügung.",
        "Die Hausversammlung hat die kurzfristige Buchung verboten.",
-       "Die Gruppen möchten eine Miete für den Raum festlegen."
+       "Die Gruppen möchten eine Miete für den Raum festlegen.",
+       "Für einen Film stehen grundsätzlich nur Samstage zur Verfügung."
       ],
       "answer": 0
      },
      {
       "q": "Was ist mit den Freitagsterminen nach dem Vorschlag vorgesehen?",
       "options": [
-       "Alle werden spontan am gleichen Tag vergeben.",
-       "Sie stehen nur der Lernrunde zur Verfügung.",
+       "Ein Teil bleibt langfristig buchbar, der andere wird kurzfristiger freigegeben.",
        "Alle werden zuerst an private Feiern vergeben.",
-       "Ein Teil bleibt langfristig buchbar, der andere wird kurzfristiger freigegeben."
+       "Alle werden spontan am gleichen Tag vergeben.",
+       "Sie stehen nur der Lernrunde zur Verfügung."
       ],
-      "answer": 3
+      "answer": 0
      },
      {
       "q": "Wer ist künftig für die Übergabe einer Buchung zuständig?",
       "options": [
-       "Immer dieselben beiden Bewohner.",
        "Eine Person, die die jeweilige Gruppe nennt.",
        "Eine externe Reinigungskraft.",
-       "Das älteste Mitglied der Hausversammlung."
+       "Das älteste Mitglied der Hausversammlung.",
+       "Immer dieselben beiden Bewohner."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welche Frage ist Teil der geplanten Auswertung?",
       "options": [
-       "Welcher Filmkreis die meisten Einladungen druckt.",
        "Wie viel der Raum bei einem Verkauf wert wäre.",
+       "Welche Theaterstücke die besten Bewertungen erhalten.",
        "Wer durch die geänderten Abläufe mehr Arbeit bekommt.",
-       "Welche Theaterstücke die besten Bewertungen erhalten."
+       "Welcher Filmkreis die meisten Einladungen druckt."
       ],
       "answer": 2
      }
@@ -1154,36 +1154,36 @@
      "type": "mcq",
      "q": "Chọn cụm tương đương nhất với „Wir berücksichtigen die Bedürfnisse der Nachbarn.“",
      "options": [
-      "Wir nehmen Rücksicht auf die Nachbarn.",
-      "Wir erheben Anspruch auf die Nachbarn.",
+      "Wir nehmen die Nachbarn in Kauf.",
       "Wir stoßen auf die Nachbarn.",
-      "Wir nehmen die Nachbarn in Kauf."
+      "Wir erheben Anspruch auf die Nachbarn.",
+      "Wir nehmen Rücksicht auf die Nachbarn."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Rücksicht auf jemanden nehmen}} nghĩa là tính đến nhu cầu và tình huống của họ."
     },
     {
      "type": "mcq",
      "q": "Welche Ergänzung passt? „Leyla übernimmt Verantwortung ___ die Schlüsselübergabe.“",
      "options": [
-      "an",
-      "über",
       "für",
+      "über",
+      "an",
       "aus"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Mẫu là {{Verantwortung für etwas übernehmen}} với Akkusativ."
     },
     {
      "type": "mcq",
      "q": "Câu nào mô tả một yếu tố có ảnh hưởng, với chủ ngữ là yếu tố đó?",
      "options": [
+      "Wir beeinflussen die Planung.",
       "Der Verein nimmt Einfluss auf die Liste.",
-      "Die Uhrzeit hat Einfluss auf die Teilnahme.",
       "Die Beteiligten bringen einen Einwand vor.",
-      "Wir beeinflussen die Planung."
+      "Die Uhrzeit hat Einfluss auf die Teilnahme."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Die Uhrzeit hat Einfluss}} trình bày ảnh hưởng của giờ giấc."
     },
     {
@@ -1191,23 +1191,23 @@
      "q": "Was bedeutet „Der Vorschlag stieß auf Zustimmung“?",
      "options": [
       "Man hat den Vorschlag nicht gehört.",
-      "Eine andere Gruppe hat den Raum gebucht.",
+      "Menschen hielten den Vorschlag für gut.",
       "Mehrere Personen haben ihre Teilnahme abgesagt.",
-      "Menschen hielten den Vorschlag für gut."
+      "Eine andere Gruppe hat den Raum gebucht."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{Auf Zustimmung stoßen}} có nghĩa là nhận được sự đồng tình."
     },
     {
      "type": "mcq",
      "q": "Chọn cách diễn đạt đúng với nghĩa đề xuất dung hòa nhu cầu.",
      "options": [
-      "Wir wollen einen Ausgleich zwischen den Bedürfnissen schaffen.",
-      "Wir wollen eine Zustimmung zwischen den Bedürfnissen nehmen.",
       "Wir wollen einen Einfluss zwischen den Bedürfnissen spielen.",
-      "Wir wollen einen Anspruch zwischen den Bedürfnissen leisten."
+      "Wir wollen eine Zustimmung zwischen den Bedürfnissen nehmen.",
+      "Wir wollen einen Anspruch zwischen den Bedürfnissen leisten.",
+      "Wir wollen einen Ausgleich zwischen den Bedürfnissen schaffen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Dùng {{einen Ausgleich zwischen ... schaffen}} để nói về dung hòa các bên."
     },
     {
@@ -1810,51 +1810,51 @@
       "q": "Welche Regel galt von Anfang an für die Notizen?",
       "options": [
        "Tara sammelte sie nach jedem Treffen ein.",
-       "Ein Teil musste im Hof ausgehängt werden.",
        "Nur gute Ereignisse waren zugelassen.",
-       "Die Schreibenden konnten sie für sich behalten."
+       "Die Schreibenden konnten sie für sich behalten.",
+       "Ein Teil musste im Hof ausgehängt werden."
       ],
-      "answer": 3
+      "answer": 2
      },
      {
       "q": "Welche Beobachtung machte eine Teilnehmerin nach der ersten Woche?",
       "options": [
-       "Die Frage erinnerte sie an eine kleine konkrete Hilfe.",
+       "Der Treff fand nun immer morgens statt.",
        "Sie musste sich einen neuen Schlüssel kaufen.",
        "Eine Anmeldung war plötzlich kostenpflichtig.",
-       "Der Treff fand nun immer morgens statt."
+       "Die Frage erinnerte sie an eine kleine konkrete Hilfe."
       ],
-      "answer": 0
+      "answer": 3
      },
      {
       "q": "Was wollte der Besucher mit der anstrengenden Woche zunächst ansprechen?",
       "options": [
-       "Seine Pläne für den Samstag.",
        "Die Auswahl der Hefte.",
        "Unerfüllte Erwartungen bei der Arbeit.",
-       "Die Hilfe mit einem Ersatzschlüssel."
-      ],
-      "answer": 2
-     },
-     {
-      "q": "Welche zusätzliche Möglichkeit führte das Team ein?",
-      "options": [
-       "Alle mussten im Plenum laut vorlesen.",
-       "Teilnehmende konnten je nach Wunsch zu zweit sprechen oder zuhören.",
-       "Die Spätschicht sollte grundsätzlich an anderen Treffen teilnehmen.",
-       "Privatnotizen wurden nach Punkten bewertet."
+       "Die Hilfe mit einem Ersatzschlüssel.",
+       "Seine Pläne für den Samstag."
       ],
       "answer": 1
      },
      {
+      "q": "Welche zusätzliche Möglichkeit führte das Team ein?",
+      "options": [
+       "Teilnehmende konnten je nach Wunsch zu zweit sprechen oder zuhören.",
+       "Alle mussten im Plenum laut vorlesen.",
+       "Die Spätschicht sollte grundsätzlich an anderen Treffen teilnehmen.",
+       "Privatnotizen wurden nach Punkten bewertet."
+      ],
+      "answer": 0
+     },
+     {
       "q": "Welche Reichweite hatten die Rückmeldungen laut Text?",
       "options": [
-       "Sie bewiesen eine langfristige Wirkung der Übung.",
-       "Sie lieferten eine Rangfolge aller Freizeitangebote.",
        "Sie erlaubten eine Entscheidung über den eigenen Ablauf.",
+       "Sie lieferten eine Rangfolge aller Freizeitangebote.",
+       "Sie bewiesen eine langfristige Wirkung der Übung.",
        "Sie ergaben eine allgemeine Empfehlung für alle Viertel."
       ],
-      "answer": 2
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1869,12 +1869,12 @@
      "type": "mcq",
      "q": "Welche Formulierung stellt das bereitgestellte Ding in den Mittelpunkt?",
      "options": [
-      "Die Leiterin stellt den Gruppen zwei Räume zur Verfügung.",
-      "Die Leitung trifft eine Entscheidung über zwei Räume.",
       "Den Gruppen stehen zwei Räume zur Verfügung.",
-      "Die Gruppen buchen zwei Räume."
+      "Die Leitung trifft eine Entscheidung über zwei Räume.",
+      "Die Gruppen buchen zwei Räume.",
+      "Die Leiterin stellt den Gruppen zwei Räume zur Verfügung."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Ở đây {{zwei Räume}} làm chủ ngữ trong cụm {{zur Verfügung stehen}}."
     },
     {
@@ -1882,9 +1882,9 @@
      "q": "Chọn câu mô tả người sử dụng hỗ trợ.",
      "options": [
       "Emil nimmt Unterstützung in Anspruch.",
-      "Emil stellt Unterstützung zur Verfügung.",
       "Emil bietet Unterstützung an.",
-      "Emil vermittelt Unterstützung."
+      "Emil vermittelt Unterstützung.",
+      "Emil stellt Unterstützung zur Verfügung."
      ],
      "answer": 0,
      "explain": "{{Unterstützung in Anspruch nehmen}} nêu hành động sử dụng sự hỗ trợ."
@@ -1893,36 +1893,36 @@
      "type": "mcq",
      "q": "Welche Aussage bleibt bei vier Rückmeldungen vorsichtig?",
      "options": [
-      "Die Methode ist in jeder Gruppe wirksam.",
-      "Das Format sollte überall sofort eingeführt werden.",
       "Die vier Personen stehen für alle Stadtteile.",
-      "Einige Personen der Runde fanden das Format hilfreich."
+      "Einige Personen der Runde fanden das Format hilfreich.",
+      "Das Format sollte überall sofort eingeführt werden.",
+      "Die Methode ist in jeder Gruppe wirksam."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{Einige Personen der Runde}} giới hạn phạm vi nhận định vào những người được nhắc tới."
     },
     {
      "type": "mcq",
      "q": "Câu nào cho biết vấn đề được nhắc đến trong cuộc trao đổi?",
      "options": [
+      "Die Uhrzeit wurde vor der Sitzung geändert.",
       "Bei dem Treffen wurde die Zeit gemessen.",
-      "Bei dem Treffen kam die Uhrzeit zur Sprache.",
       "Die Uhrzeit blieb frei.",
-      "Die Uhrzeit wurde vor der Sitzung geändert."
+      "Bei dem Treffen kam die Uhrzeit zur Sprache."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Zur Sprache kommen}} diễn đạt việc một chủ đề được đề cập."
     },
     {
      "type": "mcq",
      "q": "Welche Form passt? „In der Gruppe ___ das Thema zur Sprache gekommen.“",
      "options": [
-      "hat",
-      "sind",
       "ist",
-      "wird"
+      "wird",
+      "sind",
+      "hat"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{Zur Sprache kommen}} đi với {{sein}} trong Perfekt, nên dùng {{ist}}."
     },
     {
@@ -1931,8 +1931,8 @@
      "options": [
       "Der Beitrag fand Anerkennung.",
       "Der Beitrag stellte Anerkennung zur Diskussion.",
-      "Der Beitrag nahm Anerkennung in Anspruch.",
-      "Der Beitrag setzte Anerkennung voraus."
+      "Der Beitrag setzte Anerkennung voraus.",
+      "Der Beitrag nahm Anerkennung in Anspruch."
      ],
      "answer": 0,
      "explain": "{{Anerkennung finden}} đặt đóng góp được công nhận làm chủ ngữ."
@@ -2564,21 +2564,21 @@
      {
       "question": "Was belegt das Easterlin-Paradox laut Text bezüglich des Einkommens?",
       "options": [
-       "Ab einem gewissen Niveau steigert mehr Vermögen die Lebenszufriedenheit kaum noch",
        "Höheres Einkommen führt in jedem Fall linear zu unendlichem Glück",
        "Nur wer völlig mittellos lebt, kann innere Zufriedenheit empfinden",
-       "Geld spielt überhaupt keine Rolle für die menschliche Existenz"
+       "Geld spielt überhaupt keine Rolle für die menschliche Existenz",
+       "Ab einem gewissen Niveau steigert mehr Vermögen die Lebenszufriedenheit kaum noch"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Đoạn 2 nêu rõ Nghịch lý Easterlin: 'dass ab einem gewissen gesicherten Einkommensniveau... der Zuwachs an weiterem Vermögen die persönliche Lebenszufriedenheit kaum noch steigert'."
      },
      {
       "question": "Woraus nährt sich wahres Glück laut den Erkenntnissen der modernen Glücksforschung?",
       "options": [
        "Aus intakten Beziehungen, sozialer Anerkennung und einem selbstbestimmten Dasein",
-       "Ausschließlich aus dem unbegrenzten Erwerb neuester Luxusartikel",
+       "Aus der vollständigen Isolation von anderen Menschen",
        "Aus ständigen Überstunden und dem Aufstieg im Großkonzern",
-       "Aus der vollständigen Isolation von anderen Menschen"
+       "Ausschließlich aus dem unbegrenzten Erwerb neuester Luxusartikel"
       ],
       "answer": 0,
       "explanation": "Đoạn 2 khẳng định: 'Wahres Glück nährt sich... primär aus intakten zwischenmenschlichen Beziehungen, gelebter sozialer Anerkennung und dem Gefühl, das eigene Dasein selbstbestimmt und sinnerfüllt zu gestalten'."
@@ -2586,34 +2586,34 @@
      {
       "question": "Welche positive Wirkung haben Entschleunigung und Achtsamkeit auf Erwerbstätige?",
       "options": [
-       "Sie helfen Belastungsgrenzen zu erkennen und innere Ausgeglichenheit zu bewahren",
-       "Sie führen unweigerlich zu sofortiger Arbeitslosigkeit und Verarmung",
        "Sie zwingen Menschen dazu, auf jegliche Technologie zu verzichten",
-       "Sie verringern die geistige Leistungsfähigkeit dauerhaft"
+       "Sie führen unweigerlich zu sofortiger Arbeitslosigkeit und Verarmung",
+       "Sie verringern die geistige Leistungsfähigkeit dauerhaft",
+       "Sie helfen Belastungsgrenzen zu erkennen und innere Ausgeglichenheit zu bewahren"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Đoạn 3 chỉ ra: 'helfen gestressten Erwerbstätigen dabei, persönliche Belastungsgrenzen rechtzeitig wahrzunehmen und ihre innere Ausgeglichenheit wiederzuerlangen'."
      },
      {
       "question": "Warum darf die Verantwortung für Lebensqualität nicht nur beim Einzelnen liegen?",
       "options": [
-       "Weil Politik und Wirtschaft lebenswerte Rahmenbedingungen wie flexible Arbeitszeiten schaffen müssen",
        "Weil Individuen grundsätzlich unfähig sind, eigene Entscheidungen zu treffen",
        "Weil der Staat sämtliche privaten Lebensbereiche vollständig steuern sollte",
-       "Weil Arbeitsverträge in Zukunft gesetzlich verboten werden sollen"
+       "Weil Arbeitsverträge in Zukunft gesetzlich verboten werden sollen",
+       "Weil Politik und Wirtschaft lebenswerte Rahmenbedingungen wie flexible Arbeitszeiten schaffen müssen"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Đoạn cuối nhấn mạnh: 'Es steht außer Zweifel, dass auch Politik und Wirtschaft gefordert sind, lebenswerte Rahmenbedingungen zu schaffen. Dazu gehören flexible Arbeitszeitmodelle...'."
      },
      {
       "question": "Wann verwandelt sich laut Schlusssatz die Sehnsucht nach Lebensqualität in Wirklichkeit?",
       "options": [
-       "Wenn gesellschaftliche Strukturen und individuelle Wertvorstellungen ineinandergreifen",
-       "Wenn alle Bürger ausnahmslos auf den Konsum verzichten",
        "Wenn sämtliche Betriebe verstaatlicht werden",
-       "Wenn Menschen aufhören, sich für Philosophie zu interessieren"
+       "Wenn alle Bürger ausnahmslos auf den Konsum verzichten",
+       "Wenn Menschen aufhören, sich für Philosophie zu interessieren",
+       "Wenn gesellschaftliche Strukturen und individuelle Wertvorstellungen ineinandergreifen"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Câu kết đoạn 4: 'Erst wenn gesellschaftliche Strukturen und individuelle Wertvorstellungen harmonisch ineinandergreifen, verwandelt sich die theoretische Sehnsucht nach Lebensqualität in eine gelebte, alltägliche Wirklichkeit'."
      }
     ]
@@ -2651,96 +2651,96 @@
      "type": "mcq",
      "q": "Welches Verb drückt den passivischen Zustand aus: 'Das heikle Thema ______ derzeit im Stadtrat zur Diskussion.'?",
      "options": [
-      "steht",
       "stellt",
       "bringt",
+      "steht",
       "zieht"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'zur Diskussion stehen' diễn tả trạng thái đang được thảo luận (Passiv/Zustand)."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die Nomen-Verb-Verbindung 'in Erwägung ziehen'?",
      "options": [
-      "etwas gründlich prüfen und als Möglichkeit bedenken",
-      "etwas sofort und ohne Prüfung ablehnen",
       "eine Beschwerde beim Betriebsrat einreichen",
-      "auf jegliche Verhandlung verzichten"
+      "auf jegliche Verhandlung verzichten",
+      "etwas sofort und ohne Prüfung ablehnen",
+      "etwas gründlich prüfen und als Möglichkeit bedenken"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'in Erwägung ziehen' = cân nhắc kỹ lưỡng, tính đến khả năng xảy ra."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektivattribut passt am besten zur gehobenen Wendung: 'Sie traf eine ______ Entscheidung.'?",
      "options": [
-      "wohlüberlegte",
       "gemachte",
       "geholfene",
-      "gesagte"
+      "gesagte",
+      "wohlüberlegte"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Trong văn phong B2/C1: 'eine wohlüberlegte Entscheidung treffen' (đưa ra quyết định cân nhắc thấu đáo)."
     },
     {
      "type": "mcq",
      "q": "Welches Verb komplettiert den Ausdruck: 'wirkungsvolle Maßnahmen ______'?",
      "options": [
-      "ergreifen",
-      "nehmen",
       "stellen",
-      "halten"
+      "halten",
+      "ergreifen",
+      "nehmen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'Maßnahmen ergreifen' (áp dụng biện pháp, triển khai hành động)."
     },
     {
      "type": "mcq",
      "q": "Was drückt die Wendung 'außer Zweifel stehen' aus?",
      "options": [
-      "dass etwas vollkommen sicher und unbestreitbar ist",
       "dass man große Bedenken hat",
-      "dass eine Entscheidung noch unklar ist",
-      "dass ein Verdacht geäußert wird"
+      "dass ein Verdacht geäußert wird",
+      "dass etwas vollkommen sicher und unbestreitbar ist",
+      "dass eine Entscheidung noch unklar ist"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'außer Zweifel stehen' = không còn nghi ngờ gì nữa, là điều chắc chắn rõ ràng."
     },
     {
      "type": "mcq",
      "q": "Welches Nomen bezeichnet die psychische Widerstandskraft in Krisensituationen?",
      "options": [
-      "die Resilienz",
       "die Stornierung",
-      "die Durchsage",
-      "die Quittung"
+      "die Resilienz",
+      "die Quittung",
+      "die Durchsage"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'die Resilienz' là năng lực phục hồi tâm lý và sức chịu đựng dẻo dai trước nghịch cảnh."
     },
     {
      "type": "mcq",
      "q": "Welche Nomen-Verb-Verbindung drückt den Beginn eines Prozesses aus?",
      "options": [
+      "eine Grenze ziehen",
       "einen Wandel in Gang setzen",
       "zur Ruhe kommen",
-      "einen Beschluss aufheben",
-      "eine Grenze ziehen"
+      "einen Beschluss aufheben"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'in Gang setzen' = khởi động, đưa một tiến trình đi vào vận hành."
     },
     {
      "type": "mcq",
      "q": "Welche feste Präposition verlangt die Wendung: 'Abschied nehmen ______'?",
      "options": [
-      "von + Dativ",
-      "an + Dativ",
       "auf + Akkusativ",
-      "vor + Dativ"
+      "vor + Dativ",
+      "an + Dativ",
+      "von + Dativ"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Abschied nehmen von + Dativ' (từ biệt ai, từ bỏ điều gì)."
     },
     {

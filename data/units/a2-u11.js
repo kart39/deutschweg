@@ -357,20 +357,20 @@
      {
       "q": "Welche Nummer erscheint auf dem Bildschirm?",
       "options": [
-       "A 10.",
        "A 12.",
-       "A 14."
+       "A 14.",
+       "A 10."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Nach welcher Information fragt Frau Riedel?",
       "options": [
+       "Nach der Nachbarin.",
        "Nach der Anschrift.",
-       "Nach Leas Arbeitszeit.",
-       "Nach der Nachbarin."
+       "Nach Leas Arbeitszeit."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Welches Problem entdeckt Lea im Formular?",
@@ -385,8 +385,8 @@
       "q": "Was macht Lea nach dem Termin?",
       "options": [
        "Sie schreibt der Nachbarin.",
-       "Sie geht noch einmal zum Schalter.",
-       "Sie druckt ein Formular aus."
+       "Sie druckt ein Formular aus.",
+       "Sie geht noch einmal zum Schalter."
       ],
       "answer": 0
      }
@@ -403,22 +403,22 @@
      "type": "mcq",
      "q": "Chọn cụm đúng để nói đợi tới lượt gọi.",
      "options": [
-      "auf den Aufruf warten",
-      "um den Aufruf warten",
+      "auf dem Aufruf warten",
       "nach den Aufruf warten",
-      "auf dem Aufruf warten"
+      "um den Aufruf warten",
+      "auf den Aufruf warten"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{warten auf}} chỉ điều đợi và dùng Akkusativ."
     },
     {
      "type": "mcq",
      "q": "Tôi lo việc xử lý đơn. Chọn câu đúng.",
      "options": [
-      "Ich kümmere um den Antrag.",
       "Ich kümmere mich nach dem Antrag.",
+      "Ich kümmere mir um den Antrag.",
       "Ich kümmere mich um den Antrag.",
-      "Ich kümmere mir um den Antrag."
+      "Ich kümmere um den Antrag."
      ],
      "answer": 2,
      "explain": "Mẫu cần dùng là {{sich kümmern um}} + Akkusativ."
@@ -427,36 +427,36 @@
      "type": "mcq",
      "q": "Điền cụm đúng: {{Sie fragt ___ neuen Anschrift.}} (Cô ấy hỏi về địa chỉ mới.)",
      "options": [
-      "nach die",
-      "nach der",
       "für der",
-      "auf die"
+      "auf die",
+      "nach die",
+      "nach der"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{fragen nach}} đi với Dativ. Với {{die Anschrift}}, dùng {{nach der neuen Anschrift}}."
     },
     {
      "type": "mcq",
      "q": "Khách phải ghi tên mình vào ô đầu tiên. Cụm nào diễn tả việc ghi vào ô?",
      "options": [
-      "den Namen vorlegen",
-      "nach dem Namen warten",
       "den Namen aufrufen",
-      "den Namen eintragen"
+      "den Namen eintragen",
+      "nach dem Namen warten",
+      "den Namen vorlegen"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "{{eintragen}} là điền hoặc ghi thông tin vào một ô hay danh sách."
     },
     {
      "type": "mcq",
      "q": "Cụm nào có nghĩa là số thứ tự chờ?",
      "options": [
-      "die Wartenummer",
-      "die Unterschrift",
       "der Geburtsort",
-      "der Nachweis"
+      "die Unterschrift",
+      "der Nachweis",
+      "die Wartenummer"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{die Wartenummer}} là số dùng để chờ tới lượt."
     },
     {
@@ -989,38 +989,38 @@
      {
       "q": "Wofür möchte Mara Geld überweisen?",
       "options": [
-       "Für ihre Miete.",
        "Für ihren Sportverein.",
+       "Für ihre Miete.",
        "Für ein neues Konto."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was prüft sie nach der Erklärung des Mitarbeiters noch einmal?",
       "options": [
-       "Den Betrag.",
        "Den Namen ihres Bruders.",
+       "Den Betrag.",
        "Die Öffnungszeiten."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Womit bezahlt Mara in der Postfiliale?",
       "options": [
-       "Mit Bargeld.",
        "Mit Briefmarken.",
-       "Mit Karte."
+       "Mit Karte.",
+       "Mit Bargeld."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was schickt sie ihrem Bruder zuerst aufs Handy?",
       "options": [
+       "Ein Foto des Umschlags.",
        "Ein Foto der Sendungsnummer.",
-       "Ein Foto des Bankbriefs.",
-       "Ein Foto des Umschlags."
+       "Ein Foto des Bankbriefs."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1035,10 +1035,10 @@
      "type": "mcq",
      "q": "Chọn từ hỏi trong câu hỏi chuẩn về vật đang đợi: {{___ warten Sie? – Auf den Einlieferungsbeleg.}}",
      "options": [
-      "Womit",
+      "Worum",
       "Worauf",
-      "Wofür",
-      "Worum"
+      "Womit",
+      "Wofür"
      ],
      "answer": 1,
      "explain": "Từ hỏi của giới từ {{auf}} là {{worauf}}, có {{r}} trước nguyên âm."
@@ -1048,23 +1048,23 @@
      "q": "Điền dạng thay cho {{mit der Karte}}: {{Ich habe meine Bankkarte. ___ bezahle ich.}}",
      "options": [
       "Darauf",
+      "Damit",
       "Dafür",
-      "Danach",
-      "Damit"
+      "Danach"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Dạng thay cho cụm mở đầu bằng {{mit}} là {{damit}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu hỏi khi muốn biết danh tính người đang được đợi.",
      "options": [
-      "Auf wen warten Sie?",
       "Womit warten Sie?",
-      "Worauf warten Sie?",
-      "Wofür warten Sie?"
+      "Auf wen warten Sie?",
+      "Wofür warten Sie?",
+      "Worauf warten Sie?"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Hỏi người sau {{auf}} bằng {{auf wen}}, vì trong cụm này {{auf}} đi với Akkusativ."
     },
     {
@@ -1072,23 +1072,23 @@
      "q": "Câu nào hỏi về mục đích của khoản phí?",
      "options": [
       "Worum dauert die Gebühr?",
-      "Womit ist die Gebühr?",
       "Wofür ist die Gebühr?",
-      "Wonach wartet die Gebühr?"
+      "Wonach wartet die Gebühr?",
+      "Womit ist die Gebühr?"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{wofür}} hỏi dùng cho mục đích gì."
     },
     {
      "type": "mcq",
      "q": "Hành động nào là ‘nộp tiền mặt vào tài khoản’?",
      "options": [
-      "Bargeld auf das Konto einzahlen",
       "Bargeld vom Konto abheben",
-      "einen Umschlag frankieren",
-      "das Porto mit Karte bezahlen"
+      "das Porto mit Karte bezahlen",
+      "Bargeld auf das Konto einzahlen",
+      "einen Umschlag frankieren"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{einzahlen}} là nộp tiền vào tài khoản. {{abheben}} là rút tiền."
     },
     {
@@ -1615,29 +1615,29 @@
      {
       "q": "Warum fragt Mara am Dienstag nach?",
       "options": [
+       "Sie hat noch keine Nachricht bekommen.",
        "Sie hat die Nummer verloren.",
-       "Eine Karte fehlt noch.",
-       "Sie hat noch keine Nachricht bekommen."
+       "Eine Karte fehlt noch."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Woran erkennt die Mitarbeiterin die Geldbörse?",
       "options": [
-       "An der blauen Naht.",
        "An einem grünen Anhänger.",
-       "An einem Namen auf dem Leder."
+       "An einem Namen auf dem Leder.",
+       "An der blauen Naht."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was stimmt am Ende?",
       "options": [
+       "Mara findet den Busfahrer nicht.",
        "Das Leder hat einen kleinen Fleck.",
-       "Zwei Karten fehlen.",
-       "Mara findet den Busfahrer nicht."
+       "Zwei Karten fehlen."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1652,34 +1652,34 @@
      "type": "mcq",
      "q": "Điền từ nêu hệ quả: {{Ich habe noch keine Nachricht. ___ frage ich morgen nach.}}",
      "options": [
-      "Womit",
-      "Dafür",
+      "Deshalb",
       "Trotzdem",
-      "Deshalb"
+      "Dafür",
+      "Womit"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Việc chưa có tin là lý do để hỏi lại. {{Deshalb}} nêu hệ quả."
     },
     {
      "type": "mcq",
      "q": "Điền từ diễn tả ‘dù chưa biết nơi mất, cô vẫn báo’. {{Mara kennt den Ort nicht. ___ meldet sie den Verlust.}}",
      "options": [
-      "Trotzdem",
       "Worauf",
       "Damit",
+      "Trotzdem",
       "Deshalb"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{Trotzdem}} cho biết có trở ngại nhưng hành động vẫn xảy ra."
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng với {{deshalb}} đứng đầu.",
      "options": [
+      "Deshalb ich frage nach morgen.",
       "Deshalb ich frage morgen nach.",
-      "Deshalb morgen ich nachfrage.",
       "Deshalb frage ich morgen nach.",
-      "Deshalb ich frage nach morgen."
+      "Deshalb morgen ich nachfrage."
      ],
      "answer": 2,
      "explain": "{{Deshalb}} chiếm vị trí đầu. Ngay sau đó là động từ đã chia {{frage}}."
@@ -1689,23 +1689,23 @@
      "q": "Cụm nào có nghĩa ‘đồ vật nhặt được’?",
      "options": [
       "die Rückfrage",
-      "das Fundstück",
       "die Vorgangsnummer",
-      "der Fundort"
+      "der Fundort",
+      "das Fundstück"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{das Fundstück}} là đồ nhặt được. {{der Fundort}} là nơi tìm thấy đồ."
     },
     {
      "type": "mcq",
      "q": "Khách muốn hỏi một đặc điểm để nhận ra chiếc ví. Chọn câu hỏi chuẩn.",
      "options": [
-      "Woran erkennt man die Geldbörse?",
-      "Worum erkennt man die Geldbörse?",
       "Auf wen erkennt man die Geldbörse?",
-      "Wofür erkennt man die Geldbörse?"
+      "Wofür erkennt man die Geldbörse?",
+      "Worum erkennt man die Geldbörse?",
+      "Woran erkennt man die Geldbörse?"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{etwas an einem Merkmal erkennen}} → {{Woran erkennt man es?}}"
     },
     {
@@ -2329,20 +2329,20 @@
      {
       "q": "Was soll man als Erstes tun, wenn man seinen Geldbeutel mit der Bankkarte verloren hat?",
       "options": [
+       "Man soll eine neue Brieftasche im Kaufhaus kaufen.",
        "Man soll zwei Wochen warten.",
-       "Man soll sofort den kostenlosen Sperr-Notruf 116 116 anrufen und die Karten sperren lassen.",
-       "Man soll eine neue Brieftasche im Kaufhaus kaufen."
+       "Man soll sofort den kostenlosen Sperr-Notruf 116 116 anrufen und die Karten sperren lassen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Warum lohnt es sich, nach zwei bis drei Tagen auch im Fundbüro nachzufragen?",
       "options": [
+       "Weil die Polizei im Fundbüro arbeitet.",
        "Weil man im Fundbüro kostenlos einen neuen Reisepass bekommt.",
-       "Weil viele Diebe nur das Bargeld nehmen und den Geldbeutel mit den Ausweisen wegwerfen, den ehrliche Finder dann im Fundbüro abgeben.",
-       "Weil die Polizei im Fundbüro arbeitet."
+       "Weil viele Diebe nur das Bargeld nehmen und den Geldbeutel mit den Ausweisen wegwerfen, den ehrliche Finder dann im Fundbüro abgeben."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wohin muss man gehen, um neue Dokumente (wie den Ausweis oder Reisepass) zu beantragen?",
@@ -2366,48 +2366,48 @@
      "type": "mcq",
      "q": "Chọn giới từ và mạo từ đúng đi kèm với động từ „warten“ (chờ đợi): „Ich sitze im Wartezimmer und warte ___ ___ Beamten (der).“",
      "options": [
-      "für den Beamten",
-      "auf den Beamten",
+      "über den Beamten",
       "auf dem Beamten",
-      "über den Beamten"
+      "auf den Beamten",
+      "für den Beamten"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Cấu trúc cố định: „warten auf + AKKUSATIV“ (chờ đợi ai/cái gì). „der Beamte“ ở Akkusativ là „auf den Beamten“."
     },
     {
      "type": "mcq",
      "q": "Chọn giới từ đúng đi kèm với động từ phản thân „sich kümmern“ (lo liệu, chăm sóc): „Wer kümmert sich ___ den Antrag für das Visum?“",
      "options": [
-      "für",
       "um",
-      "auf",
-      "mit"
+      "mit",
+      "für",
+      "auf"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Cấu trúc cố định: „sich kümmern um + Akkusativ“ (chăm sóc ai / lo liệu giải quyết việc gì)."
     },
     {
      "type": "mcq",
      "q": "Khi muốn mở một tài khoản ngân hàng mới và rút tiền mặt ở cây ATM, người Đức dùng hai cụm động từ nào?",
      "options": [
+      "ein Konto mieten / Geld kündigen",
       "ein Konto einschalten / Geld herunterladen",
-      "ein Konto eröffnen / Geld am Automaten abheben",
       "ein Konto stornieren / Geld wegwerfen",
-      "ein Konto mieten / Geld kündigen"
+      "ein Konto eröffnen / Geld am Automaten abheben"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„ein Konto eröffnen“ = mở tài khoản ngân hàng; „Geld (am Geldautomaten) abheben“ = rút tiền mặt (tại cây ATM)."
     },
     {
      "type": "mcq",
      "q": "Phân biệt „sich freuen auf“ và „sich freuen über“ trong câu: „Ich freue mich sehr ___ dein schönes Geschenk von gestern, und ich freue mich schon ___ unser Treffen nächste Woche!“",
      "options": [
-      "auf ... über",
       "über ... auf",
       "für ... um",
-      "über ... über"
+      "über ... über",
+      "auf ... über"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„sich freuen über + Akk.“ dùng cho việc ĐÃ hoặc ĐANG diễn ra (món quà hôm qua); còn „sich freuen auf + Akk.“ dùng để háo hức mong chờ một sự kiện SẮP TỚI trong tương lai (cuộc gặp tuần tới)."
     },
     {
@@ -2580,12 +2580,12 @@
      "type": "mcq",
      "q": "Phân biệt từ để hỏi cho SỰ VẬT và cho CON NGƯỜI với động từ „warten auf (+ Akk.)“:",
      "options": [
-      "Su vat: Auf was wartest du? / Con nguoi: Worauf wartest du?",
       "Su vat: Worauf wartest du? / Con nguoi: Auf wen wartest du?",
+      "Su vat: Darauf wartest du? / Con nguoi: Auf ihn wartest du?",
       "Su vat: Wovon wartest du? / Con nguoi: Auf wem wartest du?",
-      "Su vat: Darauf wartest du? / Con nguoi: Auf ihn wartest du?"
+      "Su vat: Auf was wartest du? / Con nguoi: Worauf wartest du?"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Khi hỏi về SỰ VẬT (chờ xe buýt, chờ thư), ta ghép „wo + r + auf = Worauf wartest du?“. Khi hỏi về CON NGƯỜI (chờ ai), ta dùng „Giới từ + wen (Akk.) = Auf wen wartest du?“."
     },
     {
@@ -2593,35 +2593,35 @@
      "q": "Chọn đại từ thay thế đúng trong hai câu trả lời: „Wartest du auf den Bus? – Ja, ich warte schon zehn Minuten ___.“ / „Wartest du auf deinen Bruder? – Ja, ich warte schon zehn Minuten ___.“",
      "options": [
       "auf ihn ... darauf",
-      "darauf ... auf ihn",
+      "damit ... mit ihm",
       "darauf ... darauf",
-      "damit ... mit ihm"
+      "darauf ... auf ihn"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„der Bus“ là sự vật nên thay thế bằng „da + r + auf = darauf“. Còn „deinen Bruder“ là con người nên bắt buộc dùng „Giới từ + đại từ nhân xưng = auf ihn“!"
     },
     {
      "type": "mcq",
      "q": "Tại sao khi ghép „wo-“ hoặc „da-“ với các giới từ „auf, über, um, an“ ta phải chèn thêm chữ „-r-“ ở giữa (worauf, darüber, darum, daran), còn với „für, mit, von, nach“ thì KHÔNG chèn „-r-“ (wofür, damit, wovon, danach)?",
      "options": [
-      "Vi các gioi tu auf, über, um, an di voi Akkusativ.",
       "Vì các giới từ auf, über, um, an bắt đầu bằng một NGUYÊN ÂM (a, ü, u), nên cần chèn phụ âm nối „-r-“ để đọc không bị dính hai nguyên âm vào nhau.",
       "Vì đó là quy tắc ngẫu nhiên.",
+      "Vi các gioi tu auf, über, um, an di voi Akkusativ.",
       "Vi für, mit, von chi dung cho nguoi."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Vì „wo-“ và „da-“ kết thúc bằng nguyên âm (o, a), nên khi giới từ đi sau bắt đầu bằng một NGUYÊN ÂM (auf, über, um, an, in), tiếng Đức chèn âm nối „-r-“ ở giữa: worauf, worüber, worum, woran, worin."
     },
     {
      "type": "mcq",
      "q": "Trên một phong bì thư hoặc kiện hàng ở Đức, hai từ „der Absender“ và „der Empfänger“ có nghĩa là gì?",
      "options": [
-      "Con tem và thùng thư",
       "Người gửi và người nhận",
       "Bưu tá và cảnh sát",
-      "Cước phí và hóa đơn"
+      "Cước phí và hóa đơn",
+      "Con tem và thùng thư"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„der Absender“ (từ động từ absenden) = người gửi; „der Empfänger“ (từ động từ empfangen) = người nhận."
     },
     {
@@ -2783,10 +2783,10 @@
      "type": "mcq",
      "q": "Phân biệt ý nghĩa của „deshalb“ (vì vậy) và „trotzdem“ (mặc dù vậy) để điền vào hai câu sau:\n1) „Mein Fahrrad war abgeschlossen, ___ wurde es gestern Nacht gestohlen.“\n2) „Mein Fahrrad wurde gestohlen, ___ gehe ich jetzt zur Polizei.“",
      "options": [
-      "1) deshalb / 2) trotzdem",
-      "1) trotzdem / 2) deshalb",
       "1) weil / 2) obwohl",
-      "1) deshalb / 2) deshalb"
+      "1) trotzdem / 2) deshalb",
+      "1) deshalb / 2) deshalb",
+      "1) deshalb / 2) trotzdem"
      ],
      "answer": 1,
      "explain": "Câu 1 chỉ kết quả ngược với mong đợi (Xe đã khóa, MẶC DÙ VẬY vẫn bị trộm) → dùng „trotzdem“. Câu 2 chỉ hệ quả thuận lý (Xe bị trộm, VÌ VẬY tôi đi báo cảnh sát) → dùng „deshalb“."
@@ -2795,12 +2795,12 @@
      "type": "mcq",
      "q": "Chọn câu có trật tự từ ĐÚNG sau trạng từ liên kết „deshalb“:",
      "options": [
-      "Ich habe meinen Geldbeutel verloren, deshalb ich lasse meine Bankkarte sperren.",
       "Ich habe meinen Geldbeutel verloren, deshalb lasse ich meine Bankkarte sperren.",
-      "Ich habe meinen Geldbeutel verloren, deshalb meine Bankkarte sperren lasse ich.",
-      "Ich habe meinen Geldbeutel verloren, ich deshalb lasse meine Bankkarte sperren."
+      "Ich habe meinen Geldbeutel verloren, deshalb ich lasse meine Bankkarte sperren.",
+      "Ich habe meinen Geldbeutel verloren, ich deshalb lasse meine Bankkarte sperren.",
+      "Ich habe meinen Geldbeutel verloren, deshalb meine Bankkarte sperren lasse ich."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„deshalb“ (và „trotzdem / außerdem“) chiếm Vị trí số 1 của mệnh đề sau, vì vậy động từ đã chia („lasse“) phải đứng ngay sau ở Vị trí số 2, rồi mới đến chủ ngữ („ich“)."
     },
     {
@@ -2819,12 +2819,12 @@
      "type": "mcq",
      "q": "Chọn dạng Partizip II đúng của động từ mạnh „stehlen“ (ăn cắp, lấy trộm):",
      "options": [
-      "gestehlt",
-      "gestohlen",
+      "stohlen",
       "gestahlen",
-      "stohlen"
+      "gestohlen",
+      "gestehlt"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„stehlen“ là động từ mạnh (stiehlt, stahl, hat gestohlen)."
     },
     {

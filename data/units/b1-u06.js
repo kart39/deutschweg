@@ -393,42 +393,42 @@
      {
       "q": "Wofür wurde das Gebäude früher genutzt?",
       "options": [
-       "Als Fotostudio.",
-       "Als Werkstatt für Fahrradteile.",
        "Als Schule.",
-       "Als Kino."
+       "Als Fotostudio.",
+       "Als Kino.",
+       "Als Werkstatt für Fahrradteile."
       ],
-      "answer": 1
+      "answer": 3
      },
      {
       "q": "Was fehlt zuerst unter dem Foto aus dem Hof?",
       "options": [
-       "Der Name des Fotografen.",
        "Die Farbe des Hofs.",
-       "Die Namen der Arbeiter.",
-       "Der Name des Museums."
+       "Der Name des Museums.",
+       "Der Name des Fotografen.",
+       "Die Namen der Arbeiter."
       ],
-      "answer": 2
+      "answer": 3
      },
      {
       "q": "Wer hilft dem Museum, Personen auf den Fotos zu erkennen?",
       "options": [
        "Besucher aus dem Viertel.",
+       "Schüler aus einer anderen Stadt.",
        "Nur die Künstlerin.",
-       "Ein Filmteam.",
-       "Schüler aus einer anderen Stadt."
+       "Ein Filmteam."
       ],
       "answer": 0
      },
      {
       "q": "Wann besuchte die Künstlerin den Hof?",
       "options": [
+       "An einem Winterabend.",
        "An einem Sommermorgen.",
-       "Bei einer Führung im Mai.",
        "In der Mittagspause.",
-       "An einem Winterabend."
+       "Bei einer Führung im Mai."
       ],
-      "answer": 3
+      "answer": 0
      },
      {
       "q": "Wie wird die Ausstellung weiter ergänzt?",
@@ -453,24 +453,24 @@
      "type": "mcq",
      "q": "Chọn cụm Genitiv trung tính.",
      "options": [
-      "die Geschichte des Museums",
       "die Geschichte dem Museum",
       "die Geschichte der Museums",
+      "die Geschichte des Museums",
       "die Geschichte eines Museum"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{Das Museum}} thành {{des Museums}} ở Genitiv."
     },
     {
      "type": "mcq",
      "q": "Điền đúng. {{die Kamera ___ Fotografen}}",
      "options": [
+      "den",
       "dem",
       "der",
-      "des",
-      "den"
+      "des"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Des Fotografen}} là Genitiv giống đực của danh từ biến cách yếu."
     },
     {
@@ -489,22 +489,22 @@
      "type": "mcq",
      "q": "Chọn cách viết sở hữu với Max.",
      "options": [
-      "Maxs Foto",
+      "Max’ Foto",
       "Maxes Foto",
       "Max Foto",
-      "Max’ Foto"
+      "Maxs Foto"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Tên kết thúc bằng âm s dùng dấu nháy để biểu thị sở hữu."
     },
     {
      "type": "mcq",
      "q": "Cụm nào đúng với mạo từ không xác định?",
      "options": [
-      "die Geschichte einem alten Gebäude",
+      "die Geschichte einer alten Gebäudes",
       "die Geschichte eines altes Gebäude",
       "die Geschichte eines alten Gebäudes",
-      "die Geschichte einer alten Gebäudes"
+      "die Geschichte einem alten Gebäude"
      ],
      "answer": 2,
      "explain": "Dùng {{eines}}, tính từ {{alten}} và danh từ {{Gebäudes}}."
@@ -1074,52 +1074,52 @@
      {
       "q": "Warum wechselt das Konzert den Ort?",
       "options": [
-       "Der Boden vor der Bühne wird durch Regen nass.",
        "Der Chor kann nicht kommen.",
        "Alle Plätze sind schon verkauft.",
-       "Der Saal ist geschlossen."
+       "Der Saal ist geschlossen.",
+       "Der Boden vor der Bühne wird durch Regen nass."
       ],
-      "answer": 0
+      "answer": 3
      },
      {
       "q": "Wie informieren zwei Schüler die Besucher?",
       "options": [
+       "Sie informieren nur die Band.",
        "Sie rufen jede Person einzeln an.",
-       "Sie hängen ein Schild auf und teilen ein Foto davon.",
        "Sie drucken ein ganz neues Programmheft.",
-       "Sie informieren nur die Band."
+       "Sie hängen ein Schild auf und teilen ein Foto davon."
       ],
-      "answer": 1
+      "answer": 3
      },
      {
       "q": "Was passiert während des Auftritts der Band?",
       "options": [
+       "Ein Mikrofon fällt aus.",
        "Das Bühnenlicht geht aus.",
        "Das Orchester fängt gleichzeitig an.",
-       "Ein Mikrofon fällt aus.",
        "Die Besucher verlassen den Saal."
-      ],
-      "answer": 2
-     },
-     {
-      "q": "Was gefällt einem Zuhörer am Saal?",
-      "options": [
-       "Er kann den Chor besser hören.",
-       "Er kann draußen tanzen.",
-       "Der Eintritt ist teurer.",
-       "Der Chor beginnt später."
       ],
       "answer": 0
      },
      {
+      "q": "Was gefällt einem Zuhörer am Saal?",
+      "options": [
+       "Er kann draußen tanzen.",
+       "Der Eintritt ist teurer.",
+       "Er kann den Chor besser hören.",
+       "Der Chor beginnt später."
+      ],
+      "answer": 2
+     },
+     {
       "q": "Was möchte Lea für das nächste Jahr vorbereiten?",
       "options": [
-       "Ein neues Orchester.",
        "Ein Fest ohne Publikum.",
-       "Ein längeres Lied für die Band.",
-       "Einen klaren Plan bei Regen."
+       "Einen klaren Plan bei Regen.",
+       "Ein neues Orchester.",
+       "Ein längeres Lied für die Band."
       ],
-      "answer": 3
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1134,12 +1134,12 @@
      "type": "mcq",
      "q": "Chọn cụm nêu nguyên nhân ‘vì mưa’.",
      "options": [
-      "trotz des Regens",
       "wegen des Regens",
-      "während des Regens",
-      "innerhalb des Saals"
+      "trotz des Regens",
+      "innerhalb des Saals",
+      "während des Regens"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{Wegen}} nêu nguyên nhân."
     },
     {
@@ -1147,11 +1147,11 @@
      "q": "Câu nào nói trở ngại mà chương trình vẫn diễn ra?",
      "options": [
       "Das Konzert wurde wegen des Regens verlegt.",
-      "Während des Regens wurde der Saal geöffnet.",
       "Wegen des Regens blieben alle zu Hause.",
-      "Trotz des Regens kamen viele Besucher."
+      "Trotz des Regens kamen viele Besucher.",
+      "Während des Regens wurde der Saal geöffnet."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Trotz}} diễn tả điều xảy ra dù có trở ngại."
     },
     {
@@ -1159,9 +1159,9 @@
      "q": "Chọn dạng chuẩn viết.",
      "options": [
       "während des Konzerts",
-      "während der Konzerts",
       "während dem Konzerts",
-      "während des Konzert"
+      "während des Konzert",
+      "während der Konzerts"
      ],
      "answer": 0,
      "explain": "Với {{das Konzert}}, dùng {{des Konzerts}} ở Genitiv."
@@ -1182,12 +1182,12 @@
      "type": "mcq",
      "q": "Câu nào đúng về vị trí động từ?",
      "options": [
+      "Trotz des Regens um acht das Konzert beginnt.",
       "Trotz des Regens das Konzert beginnt um acht.",
-      "Trotz des Regens beginnt das Konzert um acht.",
       "Trotz des Regens das Konzert um acht beginnt.",
-      "Trotz des Regens um acht das Konzert beginnt."
+      "Trotz des Regens beginnt das Konzert um acht."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Cụm đứng đầu chiếm một vị trí. Sau đó là {{beginnt}}."
     },
     {
@@ -1768,50 +1768,50 @@
      {
       "q": "Warum ändert der Kulturverein den Film?",
       "options": [
+       "Der Hof musste geschlossen werden.",
        "Der alte Film war zu kurz.",
        "Die Filmkopie kommt nicht rechtzeitig.",
-       "Die Regisseurin konnte nicht kommen.",
-       "Der Hof musste geschlossen werden."
-      ],
-      "answer": 1
-     },
-     {
-      "q": "Was zeigen die Personen im Dokumentarfilm?",
-      "options": [
-       "Drei Werkstätten und Veränderungen der Arbeit.",
-       "Einen Wettbewerb zwischen drei Kinos.",
-       "Einen langen Urlaub.",
-       "Eine Geschichte über eine Schule im Ausland."
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Wofür waren die Untertitel nützlich?",
-      "options": [
-       "Sie zeigten die Uhrzeit.",
-       "Sie nannten die Eintrittspreise.",
-       "Sie halfen, die Gespräche zu verstehen.",
-       "Sie ersetzten das Filmgespräch."
+       "Die Regisseurin konnte nicht kommen."
       ],
       "answer": 2
      },
      {
+      "q": "Was zeigen die Personen im Dokumentarfilm?",
+      "options": [
+       "Einen Wettbewerb zwischen drei Kinos.",
+       "Eine Geschichte über eine Schule im Ausland.",
+       "Drei Werkstätten und Veränderungen der Arbeit.",
+       "Einen langen Urlaub."
+      ],
+      "answer": 2
+     },
+     {
+      "q": "Wofür waren die Untertitel nützlich?",
+      "options": [
+       "Sie halfen, die Gespräche zu verstehen.",
+       "Sie zeigten die Uhrzeit.",
+       "Sie ersetzten das Filmgespräch.",
+       "Sie nannten die Eintrittspreise."
+      ],
+      "answer": 0
+     },
+     {
       "q": "Welche Szene gefiel dem Publikum besonders?",
       "options": [
-       "Eine Autofahrt bei Regen.",
        "Ein Gespräch über die Eintrittskarten.",
-       "Eine Störung auf der Bühne.",
-       "Ein Mann zeigt einem Schüler, wie man einen Holzrahmen baut."
+       "Ein Mann zeigt einem Schüler, wie man einen Holzrahmen baut.",
+       "Eine Autofahrt bei Regen.",
+       "Eine Störung auf der Bühne."
       ],
-      "answer": 3
+      "answer": 1
      },
      {
       "q": "Was möchte der Verein als Nächstes organisieren?",
       "options": [
        "Einen Abend mit Geschichten von Bewohnern der Region.",
-       "Ein Festival ohne Filme.",
+       "Einen Wettbewerb für Synchronfassungen.",
        "Eine neue Werkstatt am Bahnhof.",
-       "Einen Wettbewerb für Synchronfassungen."
+       "Ein Festival ohne Filme."
       ],
       "answer": 0
      }
@@ -1828,36 +1828,36 @@
      "type": "mcq",
      "q": "Chọn cách nói ‘thay cho phim truyện’.",
      "options": [
-      "während des Spielfilms",
-      "innerhalb des Spielfilms",
+      "wegen des Spielfilms",
       "statt des Spielfilms",
-      "wegen des Spielfilms"
+      "innerhalb des Spielfilms",
+      "während des Spielfilms"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Statt}} nêu một lựa chọn thay cho lựa chọn khác."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm đúng cho thời hạn một tháng.",
      "options": [
-      "innerhalb eines Monats",
       "innerhalb einem Monat",
-      "innerhalb einer Monats",
-      "innerhalb eines Monat"
+      "innerhalb eines Monats",
+      "innerhalb eines Monat",
+      "innerhalb einer Monats"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Der Monat}} có dạng Genitiv {{eines Monats}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào nói dùng hành động này thay hành động kia?",
      "options": [
-      "Statt des Films gibt es Musik.",
-      "Während der Pause sehen wir uns um.",
       "Innerhalb einer Woche antworten wir.",
-      "Statt ins Kino zu gehen, treffen wir uns im Museum."
+      "Während der Pause sehen wir uns um.",
+      "Statt ins Kino zu gehen, treffen wir uns im Museum.",
+      "Statt des Films gibt es Musik."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Statt … zu}} nối một cụm nguyên mẫu chỉ hành động được thay thế."
     },
     {
@@ -1876,12 +1876,12 @@
      "type": "mcq",
      "q": "Từ nào nghĩa là ‘phiên bản dùng ngôn ngữ gốc’?",
      "options": [
-      "der Untertitel",
-      "der Vorverkauf",
       "die Originalfassung",
-      "die Handlung"
+      "der Untertitel",
+      "die Handlung",
+      "der Vorverkauf"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{Originalfassung}} là bản dùng ngôn ngữ gốc."
     },
     {
@@ -2523,45 +2523,45 @@
      {
       "q": "Was sind historische Bauwerke laut dem ersten Absatz des Textes?",
       "options": [
-       "Wertlose alte Steine, die abgerissen werden sollten.",
        "Lebendige Zeugen vergangener Epochen und Spiegel der regionalen Identität.",
-       "Ausschließlich teure Wohnungen für reiche Bürger."
+       "Ausschließlich teure Wohnungen für reiche Bürger.",
+       "Wertlose alte Steine, die abgerissen werden sollten."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Warum erfordern Restaurierungsarbeiten an historischen Fassaden so viel Sorgfalt?",
       "options": [
        "Weil die Gebäude aus reinem Gold gebaut wurden.",
-       "Wegen der strengen gesetzlichen Vorschriften des Denkmalschutzes.",
-       "Weil Touristen sonst den Eintritt nicht bezahlen würden."
+       "Weil Touristen sonst den Eintritt nicht bezahlen würden.",
+       "Wegen der strengen gesetzlichen Vorschriften des Denkmalschutzes."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was befindet sich heute innerhalb der Mauern des ehemaligen Schlosses?",
       "options": [
-       "Eine international renommierte Galerie für zeitgenössische Kunst.",
+       "Ein moderner Großflughafen.",
        "Eine große Fabrik für Plastikmöbel.",
-       "Ein moderner Großflughafen."
+       "Eine international renommierte Galerie für zeitgenössische Kunst."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was geschieht während der beliebten alljährlichen Museumsnacht?",
       "options": [
-       "Alle Museen bleiben wegen Reinigungsarbeiten geschlossen.",
        "Die Ausstellungsräume öffnen bis spät in die Nacht ihre Pforten für das Publikum.",
-       "Sämtliche Kunstwerke werden an das Ausland versteigert."
+       "Sämtliche Kunstwerke werden an das Ausland versteigert.",
+       "Alle Museen bleiben wegen Reinigungsarbeiten geschlossen."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welches Fazit zieht der Text über das Verhältnis von Geschichte und Gegenwart?",
       "options": [
-       "Geschichte und moderne Kunst schließen sich gegenseitig völlig aus.",
+       "Kulturgüter sollten vor der Öffentlichkeit für immer verschlossen bleiben.",
        "Der kreative Austausch zwischen historischem Erbe und Gegenwartskunst bereichert die Gesellschaft.",
-       "Kulturgüter sollten vor der Öffentlichkeit für immer verschlossen bleiben."
+       "Geschichte und moderne Kunst schließen sich gegenseitig völlig aus."
       ],
       "answer": 1
      }
@@ -2591,8 +2591,8 @@
      "options": [
       "mit",
       "trotz",
-      "nach",
-      "von"
+      "von",
+      "nach"
      ],
      "answer": 1,
      "explain": "'trotz' (bất chấp, mặc dù) là giới từ đòi hỏi danh từ đi sau phải chia ở cách Genitiv trong tiếng Đức chuẩn."
@@ -2601,84 +2601,84 @@
      "type": "mcq",
      "q": "Ergänzen Sie: Wegen ___ starken Regens wurde das Freilichtkonzert in den Saal verlegt.",
      "options": [
-      "des",
-      "dem",
       "den",
-      "der"
+      "der",
+      "dem",
+      "des"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'der Regen' là danh từ giống đực, đi sau 'wegen' chia ở Genitiv: 'des starken Regens'."
     },
     {
      "type": "mcq",
      "q": "Welcher Genitiv verlangt zwingend die Endung „-es“ am Nomen?",
      "options": [
-      "des Lehrers",
       "des Platzes",
       "des Gemäldes",
-      "des Künstlers"
+      "des Künstlers",
+      "des Lehrers"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Các danh từ giống đực/trung kết thúc bằng âm xuýt như -z (der Platz) bắt buộc phải thêm đuôi '-es': 'des Platzes'."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Während ___ spannenden Theateraufführung herrschte absolute Stille im Saal.",
      "options": [
-      "die",
       "der",
+      "dem",
       "den",
-      "dem"
+      "die"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'die Aufführung' là danh từ giống cái, mạo từ Genitiv đi với 'während' là 'der': 'während der spannenden Aufführung'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet das Substantiv „die Vernissage“?",
      "options": [
-      "Ein Konzert im Freien",
       "Die feierliche Eröffnung einer Kunstausstellung",
       "Ein alter Bilderrahmen",
-      "Der Verkauf von Theaterkarten"
+      "Der Verkauf von Theaterkarten",
+      "Ein Konzert im Freien"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'Die Vernissage' là buổi lễ khai mạc triển lãm nghệ thuật trang trọng dành cho khách mời và công chúng."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
      "options": [
-      "Statt eines klassischen Spielfilms schauten wir eine Dokumentation.",
+      "Statt einen klassischen Spielfilm schauten wir eine Dokumentation.",
       "Statt einem klassischen Spielfilm schauten wir eine Dokumentation.",
-      "Statt ein klassischer Spielfilm schauten wir eine Dokumentation.",
-      "Statt einen klassischen Spielfilm schauten wir eine Dokumentation."
+      "Statt eines klassischen Spielfilms schauten wir eine Dokumentation.",
+      "Statt ein klassischer Spielfilm schauten wir eine Dokumentation."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Giới từ 'statt' đòi hỏi cách Genitiv: 'statt eines klassischen Spielfilms' (Maskulin Genitiv)."
     },
     {
      "type": "mcq",
      "q": "Was ist die Genitivform von „die Meisterwerke“ (Plural)?",
      "options": [
-      "der Meisterwerke",
-      "des Meisterwerkes",
       "den Meisterwerken",
-      "die Meisterwerke"
+      "die Meisterwerke",
+      "des Meisterwerkes",
+      "der Meisterwerke"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Mạo từ Genitiv ở số nhiều (Plural) là 'der', danh từ không thêm đuôi: 'der Meisterwerke'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet die Redewendung „den Horizont erweitern“?",
      "options": [
-      "Eine Brille kaufen",
       "Neue Erfahrungen machen und sein Wissen vergrößern",
       "Weit in die Ferne blicken",
+      "Eine Brille kaufen",
       "Ein Bild malen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'den Horizont erweitern' mang nghĩa bóng là mở mang tầm mắt, mở rộng vốn hiểu biết và trải nghiệm mới."
     },
     {

@@ -10,72 +10,72 @@
    "type": "mcq",
    "q": "Welches Relativpronomen passt? \"Das ist der neue Kollege, ___ heute seinen ersten Arbeitstag hat.\"",
    "options": [
-    "der",
     "den",
-    "das",
-    "dem"
+    "dem",
+    "der",
+    "das"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Danh từ 'Kollege' giống đực (der Kollege) và đóng vai trò là chủ ngữ (Nominativ) trong mệnh đề quan hệ -> dùng 'der'."
   },
   {
    "type": "mcq",
    "q": "Das ist der interessante Roman, ___ ich gestern in der Buchhandlung gekauft habe.",
    "options": [
-    "den",
-    "der",
+    "dem",
     "das",
-    "dem"
+    "den",
+    "der"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'Roman' giống đực (der Roman), trong mệnh đề quan hệ 'ich' là chủ ngữ, đại từ đóng vai trò tân ngữ Akkusativ -> dùng 'den'."
   },
   {
    "type": "mcq",
    "q": "Welche Form ist korrekt? \"Dort steht das Auto, ___ so extrem schnell fährt.\"",
    "options": [
-    "das",
     "dass",
+    "das",
     "der",
     "den"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Danh từ 'Auto' giống trung (das Auto), đại từ quan hệ là 'das' (1 chữ s)."
   },
   {
    "type": "mcq",
    "q": "Die Studentin, ___ fließend vier Fremdsprachen spricht, kommt aus Vietnam.",
    "options": [
-    "die",
-    "der",
     "den",
-    "das"
+    "das",
+    "der",
+    "die"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'Studentin' giống cái số ít, đại từ quan hệ làm chủ ngữ là 'die'."
   },
   {
    "type": "mcq",
    "q": "Die fleißigen Kinder, die im Hof spielen, ___ sehr laut.",
    "options": [
-    "sind",
-    "ist",
     "war",
-    "sein"
+    "sein",
+    "sind",
+    "ist"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Mệnh đề chính: 'Die fleißigen Kinder ... sind sehr laut' (chủ ngữ số nhiều chia 'sind')."
   },
   {
    "type": "mcq",
    "q": "Welcher Relativsatz ist grammatisch VOLLKOMMEN KORREKT?",
    "options": [
-    "Das ist der Mann, den ich gestern im Supermarkt gesehen habe.",
-    "Das ist der Mann, der ich gestern im Supermarkt gesehen habe.",
     "Das ist der Mann, den habe ich gestern im Supermarkt gesehen.",
-    "Das ist der Mann, ich gestern im Supermarkt gesehen habe."
+    "Das ist der Mann, der ich gestern im Supermarkt gesehen habe.",
+    "Das ist der Mann, ich gestern im Supermarkt gesehen habe.",
+    "Das ist der Mann, den ich gestern im Supermarkt gesehen habe."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Đại từ quan hệ giống đực Akkusativ là 'den' và động từ 'gesehen habe' đứng ở cuối câu."
   },
   {

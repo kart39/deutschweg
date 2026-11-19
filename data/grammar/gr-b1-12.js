@@ -10,24 +10,24 @@
    "type": "mcq",
    "q": "Welche Konjunktion passt? \"___ man einen Vertrag unterschreibt, sollte man ihn gründlich lesen.\"",
    "options": [
-    "Bevor",
-    "Nachdem",
+    "Bis",
     "Seitdem",
-    "Bis"
+    "Nachdem",
+    "Bevor"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Hành động đọc hợp đồng phải diễn ra TRƯỚC KHI ký -> dùng 'Bevor' (trước khi)."
   },
   {
    "type": "mcq",
    "q": "___ der Vater das Essen kochte, hörte die Mutter im Wohnzimmer Musik.",
    "options": [
-    "Während",
-    "Nachdem",
+    "Sobald",
     "Bevor",
-    "Sobald"
+    "Nachdem",
+    "Während"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Hai hành động diễn ra đồng thời, song song trong quá khứ -> dùng 'Während' (trong khi)."
   },
   {
@@ -35,8 +35,8 @@
    "q": "Ich warte hier am Bahnhof so lange, ___ mein Zug endlich einfährt.",
    "options": [
     "bis",
-    "während",
     "seitdem",
+    "während",
     "sobald"
    ],
    "answer": 0,
@@ -46,12 +46,12 @@
    "type": "mcq",
    "q": "___ er die Prüfung bestanden hatte, lud er seine Freunde zum Essen ein.",
    "options": [
-    "Nachdem",
-    "Bevor",
     "Während",
-    "Bis"
+    "Bis",
+    "Bevor",
+    "Nachdem"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Hành động thi đỗ xảy ra trước trong quá khứ (Plusquamperfekt: 'bestanden hatte') -> dùng 'Nachdem'."
   },
   {
@@ -60,8 +60,8 @@
    "options": [
     "Seitdem",
     "Bevor",
-    "Nachdem",
-    "Bis"
+    "Bis",
+    "Nachdem"
    ],
    "answer": 0,
    "explain": "Hành động bắt đầu trong quá khứ và vẫn tiếp diễn ở hiện tại -> dùng 'Seitdem' (kể từ khi)."
@@ -71,9 +71,9 @@
    "q": "___ ich zu Hause ankomme, rufe ich dich sofort an.",
    "options": [
     "Sobald",
-    "Während",
     "Bevor",
-    "Bis"
+    "Bis",
+    "Während"
    ],
    "answer": 0,
    "explain": "Hành động gọi điện diễn ra ngay lập tức sau khi về đến nhà -> dùng 'Sobald' (ngay khi)."

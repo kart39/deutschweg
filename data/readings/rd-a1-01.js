@@ -115,38 +115,38 @@
   {
    "q": "Wo wird gefeiert?",
    "options": [
-    "In einem Restaurant",
     "In Lenas Wohnung",
+    "In einem Restaurant",
     "Im Park"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Was kocht Lena für ihre Gäste?",
    "options": [
-    "Eine Pizza",
     "Einen Topf Gemüsesuppe",
+    "Eine Pizza",
     "Nudeln mit Fisch"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Was sollen die Gäste mitbringen?",
    "options": [
-    "Kuchen",
     "Getränke",
-    "Spiele"
+    "Spiele",
+    "Kuchen"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Bis wann sollen die Freunde Bescheid sagen?",
    "options": [
+    "Bis Mittwoch",
     "Bis Samstag",
-    "Bis Freitag",
-    "Bis Mittwoch"
+    "Bis Freitag"
    ],
-   "answer": 2
+   "answer": 0
   }
  ]
 });

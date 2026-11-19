@@ -271,48 +271,48 @@
      "type": "mcq",
      "q": "Chọn mạo từ đúng ở cách Dativ để trả lời câu hỏi „Wo?“: „Das Café liegt direkt neben ___ Bahnhof.“",
      "options": [
-      "der",
-      "den",
+      "des",
       "dem",
-      "des"
+      "der",
+      "den"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„der Bahnhof“ là danh từ giống Đực. Khi trả lời câu hỏi vị trí tĩnh „Wo?“ sau giới từ „neben“, giống Đực đổi từ „der“ sang „dem“ (Dativ)."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng đúng ở cách Dativ cho danh từ giống Cái „die Post“: „Die Bushaltestelle ist direkt vor ___ Post.“",
      "options": [
+      "den",
       "die",
       "der",
-      "dem",
-      "den"
+      "dem"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Danh từ giống Cái („die Post“) khi chuyển sang cách Dativ (trả lời câu hỏi Wo?) luôn đổi mạo từ thành „der“: „vor der Post“."
     },
     {
      "type": "mcq",
      "q": "Từ viết gộp „im“ là kết hợp của hai từ nào?",
      "options": [
-      "in + ihm",
-      "in + dem",
       "in + einem",
-      "in + der"
+      "in + der",
+      "in + ihm",
+      "in + dem"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„im“ là dạng viết gộp chuẩn của giới từ „in“ + mạo từ Dativ „dem“ (dùng cho danh từ giống Đực và giống Trung)."
     },
     {
      "type": "mcq",
      "q": "Khi bị ốm và cần mua thuốc theo đơn bác sĩ ở Đức, bạn phải đến đâu?",
      "options": [
-      "In die Bäckerei",
       "In die Apotheke",
-      "Auf die Post",
-      "In die Buchhandlung"
+      "In die Buchhandlung",
+      "In die Bäckerei",
+      "Auf die Post"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„die Apotheke“ là hiệu thuốc tây. „die Bäckerei“ là tiệm bánh mì, „die Post“ là bưu điện, „die Buchhandlung“ là hiệu sách."
     },
     {
@@ -744,12 +744,12 @@
      "type": "mcq",
      "q": "Chọn cụm từ đúng để hoàn thành câu: „Meine Kollegin fährt jeden Tag ___ zur Arbeit.“",
      "options": [
-      "mit die Straßenbahn",
       "mit der Straßenbahn",
       "mit dem Straßenbahn",
+      "mit die Straßenbahn",
       "von der Straßenbahn"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Giới từ „mit“ luôn đi với cách Dativ. „die Straßenbahn“ là danh từ giống Cái nên đổi „die“ thành „der“: „mit der Straßenbahn“."
     },
     {
@@ -757,11 +757,11 @@
      "q": "Khi muốn nói „Tôi đi bộ đến trường“, câu tiếng Đức nào là đúng?",
      "options": [
       "Ich gehe mit dem Fuß zur Schule.",
-      "Ich gehe zu Fuß zur Schule.",
       "Ich fahre zu Fuß in die Schule.",
+      "Ich gehe zu Fuß zur Schule.",
       "Ich gehe auf dem Fuß nach Schule."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Cụm từ cố định chỉ việc đi bộ là „zu Fuß gehen“ (không dùng mit!). Đi tới trường là „zur Schule“ (= zu der Schule)."
     },
     {
@@ -770,8 +770,8 @@
      "options": [
       "zu ... nach",
       "nach ... zu",
-      "in ... bei",
-      "nach ... bei"
+      "nach ... bei",
+      "in ... bei"
      ],
      "answer": 1,
      "explain": "Đi về nhà (chỉ hướng Wohin?) dùng „nach Hause“. Ở tại nhà (chỉ vị trí tĩnh Wo?) dùng „zu Hause“."
@@ -781,11 +781,11 @@
      "q": "Chọn từ viết gộp đúng: „Ich gehe erst ___ Bahnhof und danach ___ Post.“",
      "options": [
       "zur ... zum",
-      "zum ... zur",
+      "nach dem ... zu der",
       "zum ... zum",
-      "nach dem ... zu der"
+      "zum ... zur"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„der Bahnhof“ (giống Đực): zu + dem = „zum Bahnhof“. „die Post“ (giống Cái): zu + der = „zur Post“."
     },
     {
@@ -1221,27 +1221,27 @@
      {
       "q": "Mit welchem Verkehrsmittel soll man vom Hauptbahnhof Potsdam bis zum Luisenplatz fahren?",
       "options": [
-       "Mit der Straßenbahn Linie 4.",
        "Mit dem Bus Linie 695.",
-       "Mit dem Taxi."
+       "Mit dem Taxi.",
+       "Mit der Straßenbahn Linie 4."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Wo genau liegt das neue Haus von Linh und Matthias in der Lindenallee?",
       "options": [
-       "Auf der rechten Seite, gegenüber vom Bahnhof.",
        "Direkt hinter dem großen Supermarkt.",
-       "Auf der linken Seite, zwischen einer Bäckerei und einer Apotheke."
+       "Auf der linken Seite, zwischen einer Bäckerei und einer Apotheke.",
+       "Auf der rechten Seite, gegenüber vom Bahnhof."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Wo können die Gäste parken, wenn sie mit dem Auto kommen?",
       "options": [
        "Auf dem Parkplatz hinter dem Supermarkt an der Ecke.",
-       "Direkt vor der Apotheke in der Lindenallee.",
-       "Auf dem Luisenplatz neben der Haltestelle."
+       "Auf dem Luisenplatz neben der Haltestelle.",
+       "Direkt vor der Apotheke in der Lindenallee."
       ],
       "answer": 0
      }
@@ -1259,23 +1259,23 @@
      "q": "Chọn dạng mệnh lệnh (Imperativ) đúng ở ngôi lịch sự „Sie“ với động từ tách „abbiegen“:",
      "options": [
       "Abbiegen Sie an der Ampel links!",
-      "Biegen Sie an der Ampel links ab!",
+      "Biegt Sie an der Ampel links ab!",
       "Sie biegen an der Ampel links ab!",
-      "Biegt Sie an der Ampel links ab!"
+      "Biegen Sie an der Ampel links ab!"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Trong câu mệnh lệnh ngôi „Sie“, động từ chính đứng đầu câu („Biegen“), đại từ „Sie“ đứng ngay sau, và tiền tố tách „ab“ đứng ở cuối câu: „Biegen Sie ... ab!“."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng mệnh lệnh (Imperativ) đúng ở ngôi thân mật „du“ (bạn) của động từ „nehmen“ (lấy/đi tuyến xe):",
      "options": [
-      "Nehme!",
-      "Nimm!",
       "Nimmst!",
-      "Nehmt!"
+      "Nehme!",
+      "Nehmt!",
+      "Nimm!"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„nehmen“ ở ngôi du là „du nimmst“ (đổi e → i). Khi chuyển sang Imperativ ngôi „du“, ta bỏ „du“ và bỏ đuôi „-st“ nhưng giữ nguyên âm i: „Nimm!“ (vd: Nimm den Bus!)."
     },
     {
@@ -1283,23 +1283,23 @@
      "q": "Chọn dạng mệnh lệnh (Imperativ) đúng ở ngôi „du“ của động từ „fahren“ (đi xe):",
      "options": [
       "Fähr!",
-      "Fahr!",
       "Fährst!",
+      "Fahr!",
       "Fahrt!"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Các động từ nhận Umlaut a → ä ở Präsens („du fährst“) khi sang Imperativ ngôi „du“ phải BỎ Umlaut và bỏ đuôi -st: „Fahr!“ (vd: Fahr bitte langsam!)."
     },
     {
      "type": "mcq",
      "q": "Cụm từ „gleich hier um die Ecke“ khi chỉ đường có nghĩa là gì?",
      "options": [
-      "Ở cách đây rất xa ngoài ngoại ô.",
       "Ngay vòng qua góc phố này thôi (rất gần).",
+      "Ở cách đây rất xa ngoài ngoại ô.",
       "Ở bên kia cây cầu lớn.",
       "Ở tầng hầm của tòa nhà."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„um die Ecke“ nghĩa là ngay vòng qua góc phố, chỉ một địa điểm ở rất gần."
     },
     {
@@ -1876,28 +1876,28 @@
       "q": "Wie kommt Mai zum Bahnhof?",
       "options": [
        "Mit dem Bus.",
-       "Mit der S-Bahn.",
-       "Mit dem Taxi."
+       "Mit dem Taxi.",
+       "Mit der S-Bahn."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was macht Mai an der Ampel?",
       "options": [
-       "Sie biegt links ab.",
        "Sie biegt rechts ab.",
+       "Sie biegt links ab.",
        "Sie wartet dort."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Wo ist der Treffpunkt um drei Uhr?",
       "options": [
-       "An der Ecke bei der Post.",
+       "Am Eingang der Bibliothek.",
        "Am Zebrastreifen.",
-       "Am Eingang der Bibliothek."
+       "An der Ecke bei der Post."
       ],
-      "answer": 2
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1912,24 +1912,24 @@
      "type": "mcq",
      "q": "Chọn mạo từ đúng. {{Ich fahre mit ___ Bus.}}",
      "options": [
-      "der",
       "den",
       "dem",
+      "der",
       "des"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Mit}} đi với {{Dativ}}. {{Der Bus}} thành {{dem Bus}}."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm có nghĩa tới điểm dừng.",
      "options": [
-      "zur Haltestelle",
-      "zum Haltestelle",
       "mit der Haltestelle",
-      "von der Haltestelle"
+      "zum Haltestelle",
+      "von der Haltestelle",
+      "zur Haltestelle"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Zur}} là dạng gộp của {{zu der}} với danh từ giống cái {{Haltestelle}}."
     },
     {
@@ -1937,23 +1937,23 @@
      "q": "Chọn giới từ chỉ đích đến là thành phố Bonn. {{Wir fahren ___ Bonn.}}",
      "options": [
       "aus",
+      "nach",
       "mit",
-      "von",
-      "nach"
+      "von"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Dùng {{nach Bonn}} để nói đích đến là thành phố Bonn."
     },
     {
      "type": "mcq",
      "q": "Cụm nào nói đi ra từ bên trong nhà ga?",
      "options": [
+      "mit dem Zug",
       "zum Bahnhof",
-      "aus dem Bahnhof",
       "beim Bahnhof",
-      "mit dem Zug"
+      "aus dem Bahnhof"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Aus dem Bahnhof}} chỉ chuyển động từ trong nhà ga ra ngoài."
     },
     {
@@ -2162,34 +2162,34 @@
      "type": "mcq",
      "q": "Chọn cụm nói đợi ở chỗ đèn giao thông.",
      "options": [
-      "an der Ampel",
-      "an die Ampel",
       "in der Ampel",
-      "auf dem Ampel"
+      "an der Ampel",
+      "auf dem Ampel",
+      "an die Ampel"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{An der Ampel}} chỉ vị trí ở ngay chỗ đèn giao thông."
     },
     {
      "type": "mcq",
      "q": "Chọn mạo từ đúng. {{Die Kinder sind auf ___ Spielplatz.}}",
      "options": [
-      "der",
-      "den",
       "die",
-      "dem"
+      "der",
+      "dem",
+      "den"
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Spielplatz}} là giống đực. Chỉ vị trí với {{auf}} dùng {{dem}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào trả lời câu hỏi thư viện ở đâu?",
      "options": [
-      "Das ist eine Bibliothek.",
-      "Die Bibliothek ist in der Innenstadt.",
       "Die Bibliothek ist groß.",
-      "Wann ist die Bibliothek offen?"
+      "Die Bibliothek ist in der Innenstadt.",
+      "Wann ist die Bibliothek offen?",
+      "Das ist eine Bibliothek."
      ],
      "answer": 1,
      "explain": "{{In der Innenstadt}} nêu vị trí, trả lời câu hỏi {{Wo?}}."
@@ -2198,12 +2198,12 @@
      "type": "mcq",
      "q": "Chọn dạng gộp chỉ vị trí ở lối vào. {{Ich warte ___ Eingang.}}",
      "options": [
-      "im",
-      "zum",
+      "aus",
       "am",
-      "aus"
+      "im",
+      "zum"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Am Eingang}} là dạng gộp của {{an dem Eingang}}."
     },
     {
@@ -2388,23 +2388,23 @@
      "q": "Chọn câu bảo một người bạn đi thẳng.",
      "options": [
       "Gehen du geradeaus.",
+      "Gehst geradeaus.",
       "Geht geradeaus.",
-      "Geh geradeaus.",
-      "Gehst geradeaus."
+      "Geh geradeaus."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Dạng mệnh lệnh ngắn cho một người quen là {{Geh}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu chỉ đường lịch sự cho ông/bà rẽ trái.",
      "options": [
-      "Biegen Sie links ab.",
-      "Biegt Sie links ab.",
       "Biegen links ab Sie.",
-      "Biegen Sie ab links."
+      "Biegen Sie links ab.",
+      "Biegen Sie ab links.",
+      "Biegt Sie links ab."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Đặt {{Biegen Sie}} đầu câu và tiền tố {{ab}} ở cuối mẫu."
     },
     {
@@ -2412,23 +2412,23 @@
      "q": "Chọn dạng phù hợp khi nói với nhiều người quen. {{___ bitte weiter.}}",
      "options": [
       "Geh",
-      "Gehen",
       "Gehst",
-      "Geht"
+      "Geht",
+      "Gehen"
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "Mệnh lệnh cho nhiều người quen dùng dạng {{geht}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu nêu vị trí ở chỗ đèn giao thông.",
      "options": [
-      "Ich gehe zur Ampel.",
-      "Ich warte an der Ampel.",
+      "Ich fahre mit der Bahn.",
       "Ich komme von der Ampel.",
-      "Ich fahre mit der Bahn."
+      "Ich warte an der Ampel.",
+      "Ich gehe zur Ampel."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{An der Ampel}} sau {{warte}} cho biết vị trí đang đợi."
     },
     {

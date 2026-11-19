@@ -10,36 +10,36 @@
    "type": "mcq",
    "q": "Welche Zeitform gehört in die Lücke? \"Nachdem er die Hausaufgaben gemacht ___, ging er mit Freunden Fußball spielen.\"",
    "options": [
-    "hatte",
     "hat",
     "habe",
-    "hätte"
+    "hätte",
+    "hatte"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Chuỗi sự việc trong quá khứ với 'nachdem': hành động xảy ra trước dùng Plusquamperfekt 'hatte gemacht'."
   },
   {
    "type": "mcq",
    "q": "Welches Hilfsverb passt? \"Nachdem der Zug in Berlin angekommen ___, stiegen alle Fahrgäste aus.\"",
    "options": [
-    "war",
     "hatte",
+    "war",
     "ist",
     "wurde"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'ankommen' là động từ chuyển động đi với trợ động từ 'sein' -> ở Plusquamperfekt dùng 'war'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz drückt die Vorzeitigkeit in der Vergangenheit KORREKT aus?",
    "options": [
-    "Nachdem sie die Prüfung bestanden hatte, feierte sie mit ihren Freunden.",
-    "Nachdem sie die Prüfung bestand, hatte sie mit ihren Freunden gefeiert.",
+    "Nachdem sie die Prüfung bestanden hatte, hatte sie gefeiert.",
     "Nachdem sie die Prüfung bestanden hat, feierte sie mit ihren Freunden.",
-    "Nachdem sie die Prüfung bestanden hatte, hatte sie gefeiert."
+    "Nachdem sie die Prüfung bestanden hatte, feierte sie mit ihren Freunden.",
+    "Nachdem sie die Prüfung bestand, hatte sie mit ihren Freunden gefeiert."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Hành động thi đỗ xảy ra trước (Plusquamperfekt: 'bestanden hatte'), hành động ăn mừng xảy ra sau (Präteritum: 'feierte')."
   },
   {
@@ -47,9 +47,9 @@
    "q": "Als wir am Bahnhof ankamen, ___ der Zug bereits abgefahren.",
    "options": [
     "war",
-    "hatte",
     "ist",
-    "wurde"
+    "wurde",
+    "hatte"
    ],
    "answer": 0,
    "explain": "'abfahren' đi với trợ động từ 'sein', dạng Plusquamperfekt là 'war abgefahren'."
@@ -58,12 +58,12 @@
    "type": "mcq",
    "q": "Er konnte nicht bezahlen, weil er seine Geldbörse zu Hause vergessen ___.",
    "options": [
-    "hatte",
     "war",
+    "hätte",
     "hat",
-    "hätte"
+    "hatte"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'vergessen' là ngoại động từ đi với 'haben' -> Plusquamperfekt dùng 'hatte vergessen'."
   },
   {

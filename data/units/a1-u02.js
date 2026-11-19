@@ -397,12 +397,12 @@
      {
       "q": "Wo wohnen Claras Eltern?",
       "options": [
-       "In München",
        "In Augsburg",
+       "In München",
        "In Nürnberg",
        "In Wien"
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Wer ist Katharina?",
@@ -417,12 +417,12 @@
      {
       "q": "Wie heißt der Sohn von Tante Julia?",
       "options": [
+       "Felix",
        "Heinrich",
-       "Thomas",
        "Jonas",
-       "Felix"
+       "Thomas"
       ],
-      "answer": 3
+      "answer": 0
      }
     ],
     "glossary": []
@@ -437,12 +437,12 @@
      "type": "mcq",
      "q": "Chọn mạo từ xác định đúng cho danh từ: „___ Eltern wohnen in Berlin.“",
      "options": [
-      "Der",
       "Die",
       "Das",
-      "Ein"
+      "Ein",
+      "Der"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Danh từ „Eltern“ (bố mẹ) chỉ dùng ở dạng số nhiều, nên mạo từ xác định ở cách Nominativ luôn là „die“."
     },
     {
@@ -451,46 +451,46 @@
      "options": [
       "sein",
       "seine",
-      "ihr",
-      "ihre"
+      "ihre",
+      "ihr"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Chủ sở hữu là Anna (ngôi sie – cô ấy) nên dùng gốc „ihr-“. Danh từ „Bruder“ là giống đực (der Bruder) ở cách Nominativ nên không thêm đuôi -e → „ihr Bruder“."
     },
     {
      "type": "mcq",
      "q": "Điền mạo từ sở hữu đúng: „Das ist Markus. ___ Schwester heißt Julia.“",
      "options": [
-      "Sein",
-      "Seine",
+      "Ihre",
       "Ihr",
-      "Ihre"
+      "Seine",
+      "Sein"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Chủ sở hữu là Markus (ngôi er – anh ấy) nên dùng gốc „sein-“. Danh từ „Schwester“ là giống cái (die Schwester) nên phải thêm đuôi -e → „Seine Schwester“."
     },
     {
      "type": "mcq",
      "q": "Điền mạo từ sở hữu đúng cho ngôi „ihr“ (các bạn): „Kinder, wo wohnt ___ Oma?“",
      "options": [
-      "euer",
       "euere",
-      "eure",
-      "unser"
+      "euer",
+      "unser",
+      "eure"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Ngôi „ihr“ (các bạn) có mạo từ sở hữu là „euer“. Vì „Oma“ là giống cái (die Oma), khi thêm đuôi -e ta lược bỏ chữ e ở giữa: „euer“ + „-e“ → „eure“."
     },
     {
      "type": "mcq",
      "q": "Câu nào sau đây đúng ngữ pháp?",
      "options": [
+      "Das sind mein Eltern.",
       "Das ist meine Kind.",
       "Das sind meine Großeltern.",
-      "Das ist mein Schwester.",
-      "Das sind mein Eltern."
+      "Das ist mein Schwester."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„Großeltern“ là danh từ số nhiều nên đi với động từ số nhiều „sind“ và mạo từ sở hữu có đuôi -e „meine“. (Kind là das Kind → mein Kind; Schwester là die Schwester → meine Schwester; Eltern là số nhiều → meine Eltern)."
     },
     {
@@ -677,10 +677,10 @@
      "type": "mcq",
      "q": "Chọn dạng chỉ vợ của anh ấy. Ist das ___ Frau?",
      "options": [
-      "sein",
+      "ihre",
       "seine",
       "ihr",
-      "ihre"
+      "sein"
      ],
      "answer": 1,
      "explain": "Của anh ấy dùng gốc sein. Frau là giống cái nên thêm -e."
@@ -1017,32 +1017,32 @@
      {
       "q": "Wie alt ist Florians Vater?",
       "options": [
-       "58 Jahre alt",
+       "84 Jahre alt",
        "62 Jahre alt",
        "29 Jahre alt",
-       "84 Jahre alt"
+       "58 Jahre alt"
       ],
       "answer": 1
      },
      {
       "q": "Wie viele Enkel hat Oma Martha?",
       "options": [
-       "Zwei Enkel",
        "Drei Enkel",
        "Vier Enkel",
+       "Zwei Enkel",
        "Sieben Enkel"
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Wer ist Bello?",
       "options": [
-       "Florians Bruder",
-       "Florians Cousin",
+       "Florians Opa",
        "Der Hund von der Familie",
-       "Florians Opa"
+       "Florians Bruder",
+       "Florians Cousin"
       ],
-      "answer": 2
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1057,10 +1057,10 @@
      "type": "mcq",
      "q": "Chọn dạng đúng của động từ „haben“: „Du ___ eine nette Familie.“",
      "options": [
-      "habe",
+      "hat",
       "habst",
       "hast",
-      "hat"
+      "habe"
      ],
      "answer": 2,
      "explain": "Ở ngôi „du“, động từ bất quy tắc „haben“ bỏ phụ âm „b“ và chia thành „hast“."
@@ -1069,22 +1069,22 @@
      "type": "mcq",
      "q": "Chọn dạng đúng của động từ „haben“: „Mein Bruder ___ zwei Kinder.“",
      "options": [
-      "haben",
       "hat",
+      "habt",
       "hast",
-      "habt"
+      "haben"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Chủ ngữ „Mein Bruder“ tương ứng với ngôi thứ 3 số ít „er“, nên động từ „haben“ chia là „hat“."
     },
     {
      "type": "mcq",
      "q": "Số „47“ được viết bằng chữ trong tiếng Đức là gì?",
      "options": [
-      "vierzigundsieben",
+      "siebundvierzig",
       "siebenundvierzig",
-      "siebzigundvier",
-      "siebundvierzig"
+      "vierzigundsieben",
+      "siebzigundvier"
      ],
      "answer": 1,
      "explain": "Trong tiếng Đức, số hàng đơn vị đọc trước, nối bằng „und“ rồi đến hàng chục: 7 (sieben) + und + 40 (vierzig) = siebenundvierzig (không bỏ -en ở hàng đơn vị)."
@@ -1095,22 +1095,22 @@
      "options": [
       "dreizig",
       "sechszig",
-      "siebzig",
-      "einundzwanzich"
+      "einundzwanzich",
+      "siebzig"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "70 viết là „siebzig“ (bỏ -en). Các đáp án khác sai vì: 30 phải là „dreißig“ (dùng ß), 60 phải là „sechzig“ (bỏ s), 21 viết là „einundzwanzig“ (đuôi -ig)."
     },
     {
      "type": "mcq",
      "q": "Câu nào sau đây hỏi và trả lời về tuổi ĐÚNG ngữ pháp tiếng Đức?",
      "options": [
-      "Ich habe fünfundzwanzig Jahre alt.",
-      "Ich bin fünfundzwanzig Jahre alt.",
+      "Ich habe fünfundzwanzig.",
       "Ich bin einundzwanzigschen Jahre.",
-      "Ich habe fünfundzwanzig."
+      "Ich bin fünfundzwanzig Jahre alt.",
+      "Ich habe fünfundzwanzig Jahre alt."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Khi nói về tuổi tác trong tiếng Đức, ta bắt buộc dùng động từ „sein“ (Ich bin ... Jahre alt), không dùng động từ „haben“."
     },
     {
@@ -1636,29 +1636,29 @@
      {
       "q": "Was ist Maja von Beruf?",
       "options": [
+       "Sie ist Köchin.",
        "Sie ist Ingenieurin.",
        "Sie ist Lehrerin.",
-       "Sie ist Köchin.",
        "Sie ist Ärztin."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wie ist der Familienstand von Hanna?",
       "options": [
        "Sie ist ledig.",
        "Sie ist verheiratet.",
-       "Sie ist geschieden.",
-       "Sie ist verwitwet."
+       "Sie ist verwitwet.",
+       "Sie ist geschieden."
       ],
-      "answer": 2
+      "answer": 3
      },
      {
       "q": "Wer arbeitet als Koch in Zürich?",
       "options": [
        "Sebastian",
-       "Leon",
        "Hannas Vater",
+       "Leon",
        "Hannas Bruder Stefan"
       ],
       "answer": 3
@@ -1668,10 +1668,10 @@
       "options": [
        "34 Jahre alt",
        "42 Jahre alt",
-       "56 Jahre alt",
-       "65 Jahre alt"
+       "65 Jahre alt",
+       "56 Jahre alt"
       ],
-      "answer": 3
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1686,36 +1686,36 @@
      "type": "mcq",
      "q": "Câu nào sau đây nói về nghề nghiệp ĐÚNG chuẩn ngữ pháp tiếng Đức?",
      "options": [
-      "Meine Schwester ist eine Ärztin von Beruf.",
-      "Meine Schwester ist Ärztin von Beruf.",
       "Meine Schwester ist Arzt von Beruf.",
-      "Meine Schwester hat Ärztin von Beruf."
+      "Meine Schwester hat Ärztin von Beruf.",
+      "Meine Schwester ist Ärztin von Beruf.",
+      "Meine Schwester ist eine Ärztin von Beruf."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Khi nói nghề nghiệp với „sein“, ta KHÔNG dùng mạo từ „eine“ và phải dùng danh từ giống cái „Ärztin“ cho „Meine Schwester“."
     },
     {
      "type": "mcq",
      "q": "Chọn từ trả lời đúng: „Hast du keine Geschwister?“ – „___, ich habe zwei Schwestern!“",
      "options": [
-      "Ja",
       "Nein",
-      "Doch",
-      "Nicht"
+      "Ja",
+      "Nicht",
+      "Doch"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Để phản bác lại câu hỏi phủ định („Hast du keine...?“ – Bạn không có... à?) và khẳng định là mình CÓ, tiếng Đức bắt buộc dùng „Doch“."
     },
     {
      "type": "mcq",
      "q": "Câu hỏi Ja/Nein nào dưới đây đúng ngữ pháp?",
      "options": [
-      "Du bist verheiratet?",
       "Verheiratet du bist?",
-      "Bist du verheiratet?",
-      "Sind du verheiratet?"
+      "Sind du verheiratet?",
+      "Du bist verheiratet?",
+      "Bist du verheiratet?"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Trong câu hỏi Ja/Nein, động từ chia theo chủ ngữ („bist“ ứng với „du“) phải đứng ở vị trí số 1 (đầu câu): „Bist du verheiratet?“."
     },
     {
@@ -1734,12 +1734,12 @@
      "type": "mcq",
      "q": "Dạng danh từ chỉ nữ giới của „der Koch“ (đầu bếp) là gì?",
      "options": [
-      "die Kochin",
       "die Köchin",
       "die Koche",
+      "die Kochin",
       "die Köcherin"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„der Koch“ khi chuyển sang danh từ chỉ nghề nghiệp nữ giới vừa thêm đuôi „-in“ vừa biến đổi nguyên âm gốc sang Umlaut: „die Köchin“."
     },
     {

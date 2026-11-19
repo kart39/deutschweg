@@ -14,9 +14,9 @@
    "q": "Welcher Satz hat die KORREKTE Wortstellung mit 'obwohl'?",
    "options": [
     "Obwohl er sich schlecht fühlte, ging er zur Arbeit.",
-    "Obwohl er fühlte sich schlecht, ging er zur Arbeit.",
     "Obwohl er sich schlecht fühlte, aber er ging zur Arbeit.",
-    "Er ging zur Arbeit, obwohl er fühlte sich schlecht."
+    "Er ging zur Arbeit, obwohl er fühlte sich schlecht.",
+    "Obwohl er fühlte sich schlecht, ging er zur Arbeit."
    ],
    "answer": 0,
    "explain": "'obwohl' là Subjunktion, động từ chia (fühlte) phải ở cuối mệnh đề phụ. Mệnh đề chính bắt đầu bằng Verb (ging)."
@@ -25,60 +25,60 @@
    "type": "mcq",
    "q": "Welcher Satz hat die KORREKTE Wortstellung mit 'trotzdem'?",
    "options": [
-    "Er war krank; trotzdem ging er zur Arbeit.",
+    "Er war krank; er ging trotzdem zur Arbeit nicht.",
     "Er war krank; trotzdem er ging zur Arbeit.",
-    "Trotzdem er krank war, ging er zur Arbeit.",
-    "Er war krank; er ging trotzdem zur Arbeit nicht."
+    "Er war krank; trotzdem ging er zur Arbeit.",
+    "Trotzdem er krank war, ging er zur Arbeit."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'trotzdem' là Konjunktionaladverb, đứng đầu mệnh đề chính gây đảo ngữ: trotzdem ging er..."
   },
   {
    "type": "mcq",
    "q": "Er trinkt keinen Kaffee, ___ er bevorzugt grünen Tee.",
    "options": [
-    "sondern",
     "aber",
-    "obwohl",
-    "dennoch"
+    "sondern",
+    "dennoch",
+    "obwohl"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Sau mệnh đề phủ định (keinen Kaffee), dùng 'sondern' để chỉ sự lựa chọn thay thế đối lập."
   },
   {
    "type": "mcq",
    "q": "Welche Subjunktion drückt einen reinen Gegensatz (Adversativ) aus?",
    "options": [
-    "wohingegen",
-    "obwohl",
     "weil",
-    "damit"
+    "obwohl",
+    "damit",
+    "wohingegen"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'wohingegen' (trong khi/ngược lại) là liên từ phụ thuộc diễn tả sự đối lập, tương phản thuần túy."
   },
   {
    "type": "mcq",
    "q": "Welches Wort ist ein gehobenes Synonym für 'trotzdem'?",
    "options": [
-    "gleichwohl",
+    "folglich",
     "deshalb",
     "nämlich",
-    "folglich"
+    "gleichwohl"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'gleichwohl' là trạng từ liên kết trang trọng (gehoben C1) đồng nghĩa với 'dennoch / trotzdem'."
   },
   {
    "type": "mcq",
    "q": "Ergänzen Sie das Satzpaar: '___ ist die Wohnung klein, andererseits liegt sie sehr zentral.'",
    "options": [
-    "Einerseits",
     "Zwar",
     "Sowohl",
+    "Einerseits",
     "Entweder"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Cặp liên từ song đôi chỉ hai mặt tương phản: 'Einerseits ... andererseits'."
   },
   {

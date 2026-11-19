@@ -10,24 +10,24 @@
    "type": "mcq",
    "q": "Welche Form ist korrekt? \"Mein Bruder ist zwei Jahre älter ___ ich.\"",
    "options": [
-    "als",
-    "wie",
     "denn",
-    "so"
+    "wie",
+    "so",
+    "als"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Trong so sánh hơn ('älter'), liên từ so sánh bắt buộc là 'als'."
   },
   {
    "type": "mcq",
    "q": "Ergänzen Sie den Komparativ: \"Dieses moderne Hotel ist viel ___ (teuer) als das alte Gasthaus.\"",
    "options": [
-    "teurer",
-    "teuerer",
     "teures",
-    "teuersten"
+    "teuersten",
+    "teuerer",
+    "teurer"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Tính từ 'teuer' bị rụng âm e ở giữa khi sang dạng so sánh hơn thành 'teurer'."
   },
   {
@@ -48,8 +48,8 @@
    "options": [
     "lieber",
     "besser",
-    "mehr",
-    "gerner"
+    "gerner",
+    "mehr"
    ],
    "answer": 0,
    "explain": "Dạng so sánh hơn của 'gern' là 'lieber' (thích hơn)."
@@ -58,12 +58,12 @@
    "type": "mcq",
    "q": "Er ist so fleißig ___ seine Schwester.",
    "options": [
-    "wie",
     "als",
+    "wie",
     "so",
     "denn"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Trong so sánh bằng ('so fleißig'), liên từ bắt buộc là 'wie'."
   },
   {

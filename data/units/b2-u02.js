@@ -398,47 +398,47 @@
      {
       "q": "Welchen doppelten Vorteil nennt der Text für das Einsparen von Pendelzeiten durch Homeoffice?",
       "options": [
-       "Man spart Geld für neue Software und arbeitet weniger Stunden.",
        "Die Lebensqualität der Beschäftigten steigt und es entstehen weniger Abgase.",
-       "Die Büros werden größer und die Mieten in den Städten sinken sofort."
+       "Die Büros werden größer und die Mieten in den Städten sinken sofort.",
+       "Man spart Geld für neue Software und arbeitet weniger Stunden."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was führt laut dem zweiten Abschnitt häufig zu einer erhöhten psychischen Arbeitsbelastung?",
       "options": [
-       "Die ständige Erreichbarkeit am Abend und das Verschwimmen der Grenze zwischen Arbeit und Freizeit.",
        "Die vielen Videokonferenzen am Vormittag.",
+       "Die ständige Erreichbarkeit am Abend und das Verschwimmen der Grenze zwischen Arbeit und Freizeit.",
        "Die fehlenden Kaffeeküchen in modernen Wohnungen."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Warum ist die Arbeit vor Ort im Büro besonders für Berufseinsteiger unverzichtbar?",
       "options": [
        "Weil sie zu Hause meistens kein schnelles Internet haben.",
-       "Weil sie durch den direkten Austausch mit erfahrenen Kollegen besser in neue Aufgaben hineinwachsen.",
-       "Weil sie im Büro kostenloses Mittagessen bekommen."
+       "Weil sie im Büro kostenloses Mittagessen bekommen.",
+       "Weil sie durch den direkten Austausch mit erfahrenen Kollegen besser in neue Aufgaben hineinwachsen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welche Empfehlung geben Experten für ein gesundes hybrides Arbeitsmodell?",
       "options": [
        "Homeoffice komplett abzuschaffen und zur Fünftagewoche im Büro zurückzukehren.",
-       "Verbindliche Teamtage im Büro einzuführen und späte Nachrichten nach Feierabend klar zu regeln.",
-       "Nur noch per Chat statt per Videokonferenz zu kommunizieren."
+       "Nur noch per Chat statt per Videokonferenz zu kommunizieren.",
+       "Verbindliche Teamtage im Büro einzuführen und späte Nachrichten nach Feierabend klar zu regeln."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welche Aussage fasst die Kernaussage des Textes am besten zusammen?",
       "options": [
+       "Videokonferenzen können jedes persönliche Gespräch im Unternehmen vollständig ersetzen.",
        "Hybrides Arbeiten bietet große Chancen, erfordert aber klare Regeln für Gesundheit und Zusammenhalt.",
-       "Die Digitalisierung zerstört alle traditionellen Büroberufe innerhalb weniger Monate.",
-       "Videokonferenzen können jedes persönliche Gespräch im Unternehmen vollständig ersetzen."
+       "Die Digitalisierung zerstört alle traditionellen Büroberufe innerhalb weniger Monate."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -453,24 +453,24 @@
      "type": "mcq",
      "q": "Câu nào đồng nghĩa hoàn toàn với câu bị động: „Viele Aufgaben können im Homeoffice erledigt werden“?",
      "options": [
-      "Viele Aufgaben lassen im Homeoffice erledigen.",
       "Viele Aufgaben lassen sich im Homeoffice erledigen.",
-      "Viele Aufgaben lassen sich im Homeoffice zu erledigen.",
-      "Viele Aufgaben werden sich im Homeoffice erledigen."
+      "Viele Aufgaben lassen im Homeoffice erledigen.",
+      "Viele Aufgaben werden sich im Homeoffice erledigen.",
+      "Viele Aufgaben lassen sich im Homeoffice zu erledigen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Cấu trúc thay thế bị động với „sich lassen + Infinitiv“ (không có „zu“!) mang nghĩa „können + Partizip II + werden“: „Viele Aufgaben lassen sich ... erledigen.“"
     },
     {
      "type": "mcq",
      "q": "Chọn tính từ có hậu tố đúng để thay thế cho cụm „kann nicht gelöst werden“ trong câu: „Dieses technische Problem ___.“",
      "options": [
-      "ist unlösbar",
       "ist lösbar",
+      "ist unlösbar",
       "ist lösend",
       "ist gelöstbar"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„kann gelöst werden“ = „ist lösbar“; phủ định „kann nicht gelöst werden“ = „ist unlösbar“."
     },
     {
@@ -478,9 +478,9 @@
      "q": "Chọn câu chia đúng thì quá khứ Präteritum của cấu trúc „sich lassen“:",
      "options": [
       "Die hohen Mietkosten ließen sich durch kleinere Büros einsparen.",
-      "Die hohen Mietkosten lassten sich durch kleinere Büros einsparen.",
+      "Die hohen Mietkosten ließ sich durch kleinere Büros einsparen.",
       "Die hohen Mietkosten ließen sich durch kleinere Büros eingespart.",
-      "Die hohen Mietkosten ließ sich durch kleinere Büros einsparen."
+      "Die hohen Mietkosten lassten sich durch kleinere Büros einsparen."
      ],
      "answer": 0,
      "explain": "Chủ ngữ số nhiều „Die hohen Mietkosten“ ở thì Präteritum chia là „ließen sich“, kết hợp với động từ nguyên mẫu „einsparen“ ở cuối câu."
@@ -489,10 +489,10 @@
      "type": "mcq",
      "q": "Tính từ „unverzichtbar“ trong ngữ cảnh công việc có nghĩa là gì?",
      "options": [
-      "Có thể bỏ qua dễ dàng",
-      "Không thể thiếu được, cực kỳ thiết yếu",
       "Không thể chấp nhận được",
-      "Có the thay the bang máy móc"
+      "Không thể thiếu được, cực kỳ thiết yếu",
+      "Có the thay the bang máy móc",
+      "Có thể bỏ qua dễ dàng"
      ],
      "answer": 1,
      "explain": "„verzichten auf“ = từ bỏ; „unverzichtbar“ = không thể từ bỏ / không thể thiếu được."
@@ -503,8 +503,8 @@
      "options": [
       "Beruf und Familie sind mit diesem Modell gut vereinbar.",
       "Beruf und Familie sind an diesem Modell gut vereinbar.",
-      "Beruf und Familie lassen sich vereinbar.",
-      "Beruf und Familie werden vereinbar gekonnt."
+      "Beruf und Familie werden vereinbar gekonnt.",
+      "Beruf und Familie lassen sich vereinbar."
      ],
      "answer": 0,
      "explain": "„vereinbar sein mit + Dativ“ = có thể dung hòa, tương thích với điều gì."
@@ -743,12 +743,12 @@
      "type": "mcq",
      "q": "Welche Formulierung ersetzt den Satz „Das Missverständnis kann schnell geklärt werden“ im B2-Stil am besten?",
      "options": [
+      "Das Missverständnis wird sich schnell klären lassen.",
       "Das Missverständnis lässt sich schnell klären.",
-      "Das Missverständnis lässt sich schnell geklärt.",
       "Das Missverständnis lässt schnell klären.",
-      "Das Missverständnis wird sich schnell klären lassen."
+      "Das Missverständnis lässt sich schnell geklärt."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Cấu trúc thay thế bị động mang nghĩa 'có thể được làm gì': sich lassen + Infinitiv (không dùng Partizip II và không thiếu 'sich')."
     }
    ]
@@ -1152,27 +1152,27 @@
      {
       "q": "Welche Rolle soll die Technologie laut dem Text in Branchen mit Fachkräftemangel spielen?",
       "options": [
-       "Sie soll alle Angestellten sofort ersetzen.",
+       "Sie soll die Löhne im Gesundheitswesen senken.",
        "Sie soll das Personal entlasten, damit mehr Zeit für zwischenmenschliche Aufgaben bleibt.",
-       "Sie soll die Löhne im Gesundheitswesen senken."
+       "Sie soll alle Angestellten sofort ersetzen."
       ],
       "answer": 1
      },
      {
       "q": "Welche drei Bedingungen müssen für einen erfolgreichen Wandel erfüllt sein?",
       "options": [
-       "Kürzere Pausen, höhere Steuern und weniger Homeoffice.",
        "Investitionen in Weiterbildung, strenge Datensicherheit und sorgfältige menschliche Kontrolle der KI-Ergebnisse.",
+       "Kürzere Pausen, höhere Steuern und weniger Homeoffice.",
        "Verbot von Computern und Rückkehr zur Papierarbeit."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welche menschlichen Fähigkeiten bleiben laut Text auch in Zukunft unersetzlich?",
       "options": [
-       "Schnelles Tippen auf der Tastatur.",
+       "Das Auswendiglernen großer Tabellen.",
        "Empathie, Kreativität und kritisches Urteilsvermögen.",
-       "Das Auswendiglernen großer Tabellen."
+       "Schnelles Tippen auf der Tastatur."
       ],
       "answer": 1
      },
@@ -1180,8 +1180,8 @@
       "q": "Welche Haltung empfiehlt der Autor den Arbeitnehmern am Ende des Artikels?",
       "options": [
        "Die Bereitschaft zum lebenslangen Lernen und zur Weiterbildung.",
-       "Die vollständige Ablehnung moderner Software.",
-       "Den sofortigen Wechsel in einen Handwerksberuf."
+       "Den sofortigen Wechsel in einen Handwerksberuf.",
+       "Die vollständige Ablehnung moderner Software."
       ],
       "answer": 0
      }
@@ -1199,47 +1199,47 @@
      "q": "Chọn câu dùng cấu trúc thay thế bị động „sein + zu + Infinitiv“ ĐÚNG với động từ tách „einhalten“:",
      "options": [
       "Die Datenschutzregeln sind strikt zu einhalten.",
+      "Die Datenschutzregeln werden strikt einzuhalten.",
       "Die Datenschutzregeln sind strikt einzuhalten.",
-      "Die Datenschutzregeln haben strikt einzuhalten.",
-      "Die Datenschutzregeln werden strikt einzuhalten."
+      "Die Datenschutzregeln haben strikt einzuhalten."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Với động từ tách „einhalten“, từ „zu“ chèn vào giữa tiền tố và gốc động từ („einzuhalten“), kết hợp với động từ „sein“ („sind ... einzuhalten“)."
     },
     {
      "type": "mcq",
      "q": "Trong câu „Die langfristigen Folgen der Automatisierung sind kaum abzuschätzen“, cấu trúc „sind ... abzuschätzen“ tương đương với nghĩa nào?",
      "options": [
-      "müssen abgeschätzt werden (phải được ước lượng)",
-      "können kaum abgeschätzt werden (hầu như không thể được ước lượng)",
       "sollen abgeschätzt werden (nên được ước lượng)",
-      "wurden abgeschätzt (đã được ước lượng)"
+      "müssen abgeschätzt werden (phải được ước lượng)",
+      "wurden abgeschätzt (đã được ước lượng)",
+      "können kaum abgeschätzt werden (hầu như không thể được ước lượng)"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Khi đi kèm với các từ chỉ mức độ như „kaum, nicht, leicht, schwer“, cấu trúc „sein + zu + Infinitiv“ mang nghĩa khả năng (können + Partizip II + werden)."
     },
     {
      "type": "mcq",
      "q": "Chọn câu thay thế bị động đúng cho: „Alle Bewerbungsunterlagen müssen bis Freitag eingereicht werden.“",
      "options": [
+      "Alle Bewerbungsunterlagen sind bis Freitag einreichen.",
       "Alle Bewerbungsunterlagen sind bis Freitag einzureichen.",
-      "Alle Bewerbungsunterlagen haben bis Freitag einzureichen.",
       "Alle Bewerbungsunterlagen lassen sich bis Freitag einreichen.",
-      "Alle Bewerbungsunterlagen sind bis Freitag einreichen."
+      "Alle Bewerbungsunterlagen haben bis Freitag einzureichen."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Nghĩa bắt buộc („müssen ... eingereicht werden“) được thay thế bằng „sind ... einzureichen“."
     },
     {
      "type": "mcq",
      "q": "Khi muốn nói „giảm tải gánh nặng công việc cho nhân viên“, bạn chọn động từ nào?",
      "options": [
-      "belasten",
       "entlasten",
       "aussterben",
-      "befürchten"
+      "befürchten",
+      "belasten"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„belasten“ là gây gánh nặng, còn „entlasten“ là giảm tải, đỡ gánh nặng cho ai."
     },
     {
@@ -1247,9 +1247,9 @@
      "q": "Chọn câu đúng với đại từ „man“ tương đương với „Beim Einsatz von KI müssen klare Grenzen beachtet werden“:",
      "options": [
       "Beim Einsatz von KI muss man klare Grenzen beachten.",
-      "Beim Einsatz von KI muss Mann klare Grenzen beachten.",
+      "Beim Einsatz von KI ist man klare Grenzen zu beachten.",
       "Beim Einsatz von KI müssen man klare Grenzen beachten.",
-      "Beim Einsatz von KI ist man klare Grenzen zu beachten."
+      "Beim Einsatz von KI muss Mann klare Grenzen beachten."
      ],
      "answer": 0,
      "explain": "Đại từ bất định „man“ viết thường, luôn chia động từ ở ngôi thứ 3 số ít („muss“)."
@@ -1486,12 +1486,12 @@
      "type": "mcq",
      "q": "Welcher Satz drückt mit „sein + zu + Infinitiv“ die Bedeutung „Die Daten müssen geschützt werden“ korrekt aus?",
      "options": [
-      "Die Daten sind zu schützen.",
-      "Die Daten sind geschützt zu werden.",
       "Die Daten haben zu schützen.",
-      "Die Daten sind zu geschützt."
+      "Die Daten sind geschützt zu werden.",
+      "Die Daten sind zu geschützt.",
+      "Die Daten sind zu schützen."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Cấu trúc bị động 'sein + zu + Infinitiv' diễn đạt nghĩa bắt buộc (müssen) hoặc khả năng (können): Die Daten sind zu schützen."
     }
    ]
@@ -1887,36 +1887,36 @@
      {
       "q": "Warum entscheiden sich heute viele junge Fachkräfte gegen einen großen Konzern?",
       "options": [
-       "Weil Großkonzerne keine Sozialleistungen mehr anbieten.",
+       "Weil Start-ups immer das doppelte Einstiegsgehalt zahlen.",
        "Weil sie sich schnellere Prozesse, flache Hierarchien und mehr Gestaltungsspielraum wünschen.",
-       "Weil Start-ups immer das doppelte Einstiegsgehalt zahlen."
+       "Weil Großkonzerne keine Sozialleistungen mehr anbieten."
       ],
       "answer": 1
      },
      {
       "q": "Woran können junge Start-ups in den ersten Jahren am ehesten scheitern?",
       "options": [
-       "An zu vielen Feiertagen.",
        "An zu geringem Umsatz oder wenn die Finanzierung durch Investoren scheitert.",
+       "An zu vielen Feiertagen.",
        "An einer zu langen Kündigungsfrist."
-      ],
-      "answer": 1
-     },
-     {
-      "q": "Was empfehlen Wirtschaftsberater vor der Firmengründung?",
-      "options": [
-       "Einen detaillierten Businessplan zu erstellen, in dem Kosten, Risiken und rechtliche Fragen geklärt sind.",
-       "Sofort zehn neue Büros zu mieten.",
-       "Auf jegliche Investoren zu verzichten."
       ],
       "answer": 0
      },
      {
+      "q": "Was empfehlen Wirtschaftsberater vor der Firmengründung?",
+      "options": [
+       "Sofort zehn neue Büros zu mieten.",
+       "Einen detaillierten Businessplan zu erstellen, in dem Kosten, Risiken und rechtliche Fragen geklärt sind.",
+       "Auf jegliche Investoren zu verzichten."
+      ],
+      "answer": 1
+     },
+     {
       "q": "Welche Vorteile gleichen in Start-ups oft das niedrigere Einstiegsgehalt aus?",
       "options": [
-       "Unbefristete Verträge ab dem ersten Tag.",
+       "Eine Kündigungsfrist von zwölf Monaten.",
        "Flexible Arbeitszeiten, Unternehmensanteile und spannende Weiterbildungsmöglichkeiten.",
-       "Eine Kündigungsfrist von zwölf Monaten."
+       "Unbefristete Verträge ab dem ersten Tag."
       ],
       "answer": 1
      },
@@ -1942,24 +1942,24 @@
      "type": "mcq",
      "q": "Câu nào sau đây là Bị động trạng thái (Zustandspassiv) diễn tả kết quả đã hoàn tất?",
      "options": [
-      "Der Vertrag wird gerade von der Chefin unterschrieben.",
-      "Der Vertrag ist bereits von beiden Seiten unterschrieben.",
+      "Der Vertrag muss noch unterschrieben werden.",
       "Der Vertrag wurde gestern Nachmittag unterschrieben.",
-      "Der Vertrag muss noch unterschrieben werden."
+      "Der Vertrag ist bereits von beiden Seiten unterschrieben.",
+      "Der Vertrag wird gerade von der Chefin unterschrieben."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Zustandspassiv được cấu tạo bởi „sein + Partizip II“ („ist ... unterschrieben“), diễn tả trạng thái kết quả đã hoàn tất. Các câu dùng „werden / wurde“ là Vorgangspassiv."
     },
     {
      "type": "mcq",
      "q": "Chọn câu Bị động quá trình (Vorgangspassiv) đúng ở thì Hiện tại (Präsens) để diễn tả hành động ĐANG diễn ra:",
      "options": [
-      "Das neue Büro ist gerade eingerichtet.",
       "Das neue Büro wird gerade eingerichtet.",
-      "Das neue Büro war gerade eingerichtet.",
-      "Das neue Büro hat gerade eingerichtet."
+      "Das neue Büro hat gerade eingerichtet.",
+      "Das neue Büro ist gerade eingerichtet.",
+      "Das neue Büro war gerade eingerichtet."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Trạng từ „gerade“ (đang) chỉ quá trình đang diễn ra, nên phải dùng Vorgangspassiv với „werden“: „wird gerade eingerichtet“."
     },
     {
@@ -1967,23 +1967,23 @@
      "q": "Chọn dạng đúng của Vorgangspassiv ở thì Perfekt: „Die Gehaltserhöhung ___ bereits von der Geschäftsführung ___.“",
      "options": [
       "ist ... genehmigt geworden",
+      "wird ... genehmigt worden",
       "ist ... genehmigt worden",
-      "hat ... genehmigt worden",
-      "wird ... genehmigt worden"
+      "hat ... genehmigt worden"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Trong câu bị động thì Perfekt, trợ động từ luôn là „sein“ và phân từ của „werden“ rút gọn thành „worden“ (không có ge-!): „ist ... genehmigt worden“."
     },
     {
      "type": "mcq",
      "q": "Khi chuyển câu Zustandspassiv „Die Stelle ist besetzt“ sang thì Quá khứ đơn (Präteritum), ta viết như thế nào?",
      "options": [
-      "Die Stelle wurde besetzt.",
-      "Die Stelle war besetzt.",
       "Die Stelle ist besetzt gewesen.",
-      "Die Stelle hat besetzt."
+      "Die Stelle wurde besetzt.",
+      "Die Stelle hat besetzt.",
+      "Die Stelle war besetzt."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Zustandspassiv ở Präteritum chỉ việc chia động từ „sein“ sang „war / waren“: „Die Stelle war (damals schon) besetzt.“"
     },
     {
@@ -1991,11 +1991,11 @@
      "q": "Danh từ „die Probezeit“ trong hợp đồng lao động ở Đức có nghĩa là gì?",
      "options": [
       "Kỳ nghỉ phép năm",
-      "Thời gian thử việc",
+      "Khoản thưởng cuối năm",
       "Thời hạn báo trước nghỉ việc",
-      "Khoản thưởng cuối năm"
+      "Thời gian thử việc"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„die Probezeit“ là thời gian thử việc (thông thường tối đa 6 tháng tại Đức)."
     },
     {
@@ -2233,12 +2233,12 @@
      "type": "mcq",
      "q": "Welcher Satz beschreibt das Ergebnis einer abgeschlossenen Handlung (Zustandspassiv)?",
      "options": [
-      "Der Arbeitsvertrag ist bereits unterschrieben.",
       "Der Arbeitsvertrag wird gerade unterschrieben.",
+      "Der Arbeitsvertrag lässt sich unterschreiben.",
       "Der Arbeitsvertrag wurde gestern unterschrieben.",
-      "Der Arbeitsvertrag lässt sich unterschreiben."
+      "Der Arbeitsvertrag ist bereits unterschrieben."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Zustandspassiv dùng 'sein + Partizip II' (ist unterschrieben) để mô tả trạng thái kết quả sau khi hành động đã hoàn tất."
     }
    ]
@@ -2546,56 +2546,56 @@
      {
       "q": "Welche zwei gegensätzlichen Trends prägen laut dem ersten Abschnitt den aktuellen Arbeitsmarkt?",
       "options": [
-       "Steigende Gehälter bei sinkender Arbeitszeit in allen Branchen.",
+       "Die Abschaffung aller Büros zugunsten reiner Fabrikarbeit.",
        "Ein massiver Fachkräftemangel einerseits und stark veränderte Erwartungen durch Digitalisierung und Work-Life-Balance andererseits.",
-       "Die Abschaffung aller Büros zugunsten reiner Fabrikarbeit."
+       "Steigende Gehälter bei sinkender Arbeitszeit in allen Branchen."
       ],
       "answer": 1
      },
      {
       "q": "Welche Folgen hat es laut der Studie, wenn moderne Arbeitsbedingungen wie Gleitzeit und Weiterbildung bereits umgesetzt sind?",
       "options": [
-       "Die Fluktuation sinkt messbar und die Motivation der Teams steigt.",
+       "Die Unternehmen verlieren ihre Wettbewerbsfähigkeit.",
        "Die Mitarbeiter machen doppelt so viele Überstunden.",
-       "Die Unternehmen verlieren ihre Wettbewerbsfähigkeit."
+       "Die Fluktuation sinkt messbar und die Motivation der Teams steigt."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Warum reicht eine einmal erworbene Qualifikation heute nicht mehr für das ganze Berufsleben aus?",
       "options": [
-       "Weil Zertifikate nach fünf Jahren ungültig werden.",
        "Weil sich Berufsbilder und Technologien heute schneller wandeln als je zuvor.",
-       "Weil alle Mitarbeiter nach zehn Jahren in ein Start-up wechseln müssen."
+       "Weil alle Mitarbeiter nach zehn Jahren in ein Start-up wechseln müssen.",
+       "Weil Zertifikate nach fünf Jahren ungültig werden."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welche Gefahr besteht im Homeoffice laut dem vierten Abschnitt?",
       "options": [
+       "Dass man seine Kollegen nie wieder per Video sieht.",
        "Dass man dort überhaupt keine Pause machen darf.",
-       "Dass man unter Leistungsdruck und ständiger Erreichbarkeit oft stärker leidet als im klassischen Büro.",
-       "Dass man seine Kollegen nie wieder per Video sieht."
+       "Dass man unter Leistungsdruck und ständiger Erreichbarkeit oft stärker leidet als im klassischen Büro."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was bedeutet der Satz „Verbindliche Regeln für Pausen und Feierabendzeiten sind einzuhalten“?",
       "options": [
-       "Man darf selbst entscheiden, ob man Regeln beachtet.",
+       "Die Regeln wurden bereits abgeschafft.",
        "Verbindliche Regeln müssen eingehalten werden (Passiversatz).",
-       "Die Regeln wurden bereits abgeschafft."
+       "Man darf selbst entscheiden, ob man Regeln beachtet."
       ],
       "answer": 1
      },
      {
       "q": "Wann wird die Arbeitswelt nach Ansicht des Autors dauerhaft zukunftssicher?",
       "options": [
-       "Wenn Flexibilität, technische Innovation und soziale Sicherheit miteinander verbunden werden.",
        "Wenn alle Angestellten auf Gehaltserhöhungen verzichten.",
+       "Wenn Flexibilität, technische Innovation und soziale Sicherheit miteinander verbunden werden.",
        "Wenn ausschließlich künstliche Intelligenz alle Entscheidungen trifft."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -2610,22 +2610,22 @@
      "type": "mcq",
      "q": "Chọn câu KHÔNG ĐÚNG ngữ pháp khi dùng cấu trúc thay thế bị động:",
      "options": [
-      "Das Problem lässt sich schnell lösen.",
       "Das Problem ist schnell lösbar.",
-      "Das Problem ist schnell zu lösen.",
-      "Das Problem lässt sich schnell gelöst werden."
+      "Das Problem lässt sich schnell lösen.",
+      "Das Problem lässt sich schnell gelöst werden.",
+      "Das Problem ist schnell zu lösen."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "Sau „sich lassen“ chỉ đi với Infinitiv chủ động („lösen“), tuyệt đối không kết hợp thêm „ge- + werden“."
     },
     {
      "type": "mcq",
      "q": "Xác định câu nào diễn tả Bị động trạng thái (Zustandspassiv):",
      "options": [
-      "Die Kernarbeitszeit wird im neuen Vertrag festgelegt.",
+      "Die Kernarbeitszeit ist festzulegen.",
       "Die Kernarbeitszeit ist im neuen Vertrag festgelegt.",
-      "Die Kernarbeitszeit wurde im neuen Vertrag festgelegt.",
-      "Die Kernarbeitszeit ist festzulegen."
+      "Die Kernarbeitszeit wird im neuen Vertrag festgelegt.",
+      "Die Kernarbeitszeit wurde im neuen Vertrag festgelegt."
      ],
      "answer": 1,
      "explain": "„ist ... festgelegt“ (sein + Partizip II) là Zustandspassiv chỉ trạng thái kết quả đã được quy định sẵn. Câu D („ist festzulegen“) là cấu trúc sein + zu + Infinitiv."
@@ -2635,8 +2635,8 @@
      "q": "Chuyển câu „Man kann die hohe Fluktuation durch bessere Arbeitsbedingungen senken“ sang cấu trúc „sich lassen“:",
      "options": [
       "Die hohe Fluktuation lässt sich durch bessere Arbeitsbedingungen senken.",
-      "Die hohe Fluktuation lässt durch bessere Arbeitsbedingungen zu senken.",
       "Die hohe Fluktuation ist durch bessere Arbeitsbedingungen zu senken.",
+      "Die hohe Fluktuation lässt durch bessere Arbeitsbedingungen zu senken.",
       "Die hohe Fluktuation lässt sich durch bessere Arbeitsbedingungen gesenkt."
      ],
      "answer": 0,
@@ -2659,9 +2659,9 @@
      "q": "Chọn dạng đúng để hoàn thành: „Die Unterlagen ___ bis Montagvormittag beim Chef ___.“ (nghĩa phải được nộp)",
      "options": [
       "sind ... einzureichen",
-      "sind ... zu einreichen",
       "lassen sich ... einreichen",
-      "haben ... einzureichen"
+      "haben ... einzureichen",
+      "sind ... zu einreichen"
      ],
      "answer": 0,
      "explain": "Chủ ngữ số nhiều „Die Unterlagen“ + nghĩa bắt buộc → „sind ... einzureichen“ (chèn zu vào giữa tiền tố ein- và reichen)."
@@ -2671,9 +2671,9 @@
      "q": "Chế độ „die Gleitzeit“ trong doanh nghiệp Đức mang lại lợi ích gì?",
      "options": [
       "Nhân viên được tự điều chỉnh giờ bắt đầu và kết thúc làm việc linh hoạt quanh giờ cốt lõi.",
-      "Nhân viên không bao giờ phải làm việc vào mùa đông.",
+      "Nhân viên phải làm việc 60 tiếng mỗi tuần.",
       "Nhân viên luôn nhận được thưởng gấp đôi.",
-      "Nhân viên phải làm việc 60 tiếng mỗi tuần."
+      "Nhân viên không bao giờ phải làm việc vào mùa đông."
      ],
      "answer": 0,
      "explain": "„die Gleitzeit“ là chế độ giờ làm linh hoạt cho phép nhân viên tự sắp xếp giờ đến và giờ về phù hợp."
@@ -2682,10 +2682,10 @@
      "type": "mcq",
      "q": "Chọn câu chuyển đúng sang Vorgangspassiv Perfekt của „Der Investor hat das Start-up finanziert“:",
      "options": [
-      "Das Start-up ist vom Investor finanziert geworden.",
+      "Das Start-up wird vom Investor finanziert worden.",
       "Das Start-up ist vom Investor finanziert worden.",
       "Das Start-up hat vom Investor finanziert worden.",
-      "Das Start-up wird vom Investor finanziert worden."
+      "Das Start-up ist vom Investor finanziert geworden."
      ],
      "answer": 1,
      "explain": "Vorgangspassiv Perfekt dùng „sein + Partizip II + worden“ (không dùng „geworden“!)."
@@ -2694,12 +2694,12 @@
      "type": "mcq",
      "q": "Trong cụm „eine Entscheidung treffen“, động từ „treffen“ đóng vai trò gì?",
      "options": [
-      "Mang nghĩa gốc là gặp gỡ ai ở quán cà phê.",
       "Là động từ chức năng trong cụm Nomen-Verb-Verbindung nghĩa là „đưa ra quyết định“.",
       "Chỉ dùng ở thì quá khứ.",
+      "Mang nghĩa gốc là gặp gỡ ai ở quán cà phê.",
       "Bắt buộc đi với giới từ auf."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„eine Entscheidung treffen“ là cụm Nomen-Verb-Verbindung cố định (= entscheiden: đưa ra quyết định)."
     },
     {

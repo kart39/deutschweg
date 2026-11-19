@@ -10,24 +10,24 @@
    "type": "mcq",
    "q": "Welche Passivform im Präsens ist KORREKT? \"Das Auto ___ in der Werkstatt repariert.\"",
    "options": [
-    "wird",
-    "ist",
     "wurde",
-    "hat"
+    "wird",
+    "hat",
+    "ist"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Thể bị động ở thì hiện tại với danh từ số ít 'das Auto' dùng trợ động từ 'wird': 'wird repariert'."
   },
   {
    "type": "mcq",
    "q": "Das alte Schloss ___ im 18. Jahrhundert von einem berühmten Architekten gebaut.",
    "options": [
+    "geworden",
     "wurde",
-    "wird",
     "worden",
-    "geworden"
+    "wird"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Hành động xây dựng ở thế kỷ 18 (quá khứ Präteritum) dùng 'wurde': 'wurde gebaut'."
   },
   {
@@ -35,9 +35,9 @@
    "q": "Welcher Satz im Perfekt Passiv ist grammatisch RICHTIG?",
    "options": [
     "Die Rechnungen sind gestern bezahlt worden.",
+    "Die Rechnungen wurden gestern bezahlt worden.",
     "Die Rechnungen sind gestern bezahlt geworden.",
-    "Die Rechnungen haben gestern bezahlt worden.",
-    "Die Rechnungen wurden gestern bezahlt worden."
+    "Die Rechnungen haben gestern bezahlt worden."
    ],
    "answer": 0,
    "explain": "Perfekt Passiv dùng 'sein + Partizip II + worden'. Chủ ngữ số nhiều là 'sind ... bezahlt worden'."
@@ -46,36 +46,36 @@
    "type": "mcq",
    "q": "Diese dringende Aufgabe ___ bis morgen erledigt werden.",
    "options": [
+    "hat",
     "muss",
     "wird",
-    "ist",
-    "hat"
+    "ist"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Bị động với Modalverb: 'muss ... erledigt werden' (phải được giải quyết)."
   },
   {
    "type": "mcq",
    "q": "In dieser Bibliothek ___ nicht laut gesprochen werden.",
    "options": [
-    "darf",
     "wird",
     "ist",
-    "muss"
+    "muss",
+    "darf"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Lệnh cấm không được phép nói to trong thư viện dùng 'darf nicht ... gesprochen werden'."
   },
   {
    "type": "mcq",
    "q": "Der Patient wurde ___ einem erfahrenen Chirurgen operiert.",
    "options": [
-    "von",
-    "durch",
     "mit",
-    "bei"
+    "bei",
+    "durch",
+    "von"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Tác nhân là con người (bác sĩ phẫu thuật) đi với giới từ 'von' (+ Dativ): 'von einem erfahrenen Chirurgen'."
   },
   {

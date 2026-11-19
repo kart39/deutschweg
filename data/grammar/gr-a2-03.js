@@ -26,9 +26,9 @@
    "type": "mcq",
    "q": "Welches Pronomen passt? 'Wie geht es ___ heute, Frau Müller?'",
    "options": [
-    "Sie",
-    "Ihnen",
     "ihr",
+    "Ihnen",
+    "Sie",
     "dir"
    ],
    "answer": 1,
@@ -38,48 +38,48 @@
    "type": "mcq",
    "q": "Welcher Artikel passt? 'Ich helfe ___ alten Mann über die Straße.'",
    "options": [
-    "der",
     "den",
-    "dem",
-    "des"
+    "des",
+    "der",
+    "dem"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "'Mann' là danh từ giống đực (der Mann). Động từ 'helfen' đi với Dativ nên dùng 'dem'."
   },
   {
    "type": "mcq",
    "q": "Welcher Artikel passt? 'Er schenkt ___ Mutter ein schönes Buch.'",
    "options": [
+    "seinem",
     "seine",
     "seiner",
-    "seinem",
     "seinen"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "'Mutter' là danh từ giống cái (die Mutter). Ở Dativ mạo từ sở hữu có đuôi '-er': 'seiner Mutter'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist grammatisch vollkommen richtig?",
    "options": [
-    "Ich danke dich für die Hilfe.",
     "Ich danke dir für die Hilfe.",
     "Ich danke du für die Hilfe.",
-    "Ich danke dein für die Hilfe."
+    "Ich danke dein für die Hilfe.",
+    "Ich danke dich für die Hilfe."
    ],
-   "answer": 1,
+   "answer": 0,
    "explain": "Động từ 'danken' luôn đi với Dativ: 'Ich danke dir'."
   },
   {
    "type": "mcq",
    "q": "Wie lautet die richtige Dativ-Plural-Form von 'die Kinder'?",
    "options": [
+    "die Kindern",
     "den Kinder",
     "den Kindern",
-    "die Kindern",
     "der Kindern"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Ở Dativ số nhiều, mạo từ là 'den' và danh từ thêm '-n': 'den Kindern'."
   },
   {

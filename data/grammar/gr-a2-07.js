@@ -10,48 +10,48 @@
    "type": "mcq",
    "q": "Welche Satzstellung ist grammatisch KORREKT?",
    "options": [
+    "Ich lerne Deutsch, weil ich in Deutschland eine Ausbildung möchte machen.",
     "Ich lerne Deutsch, weil ich in Deutschland eine Ausbildung machen möchte.",
     "Ich lerne Deutsch, weil ich möchte in Deutschland eine Ausbildung machen.",
-    "Ich lerne Deutsch, weil ich in Deutschland eine Ausbildung möchte machen.",
     "Ich lerne Deutsch, weil möchte ich in Deutschland eine Ausbildung machen."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Trong mệnh đề phụ với 'weil', động từ khuyết thiếu 'möchte' phải đứng ở vị trí cuối cùng sau động từ nguyên mẫu: 'machen möchte'."
   },
   {
    "type": "mcq",
    "q": "Welche Konjunktion passt? \"Der Arzt fragt den Patienten, ___ er regelmäßig Sport treibt.\"",
    "options": [
-    "ob",
-    "dass",
     "weil",
-    "wenn"
+    "dass",
+    "wenn",
+    "ob"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Đây là câu hỏi gián tiếp Có/Không, do đó bắt buộc sử dụng liên từ 'ob' (liệu rằng)."
   },
   {
    "type": "mcq",
    "q": "Ergänzen Sie den Hauptsatz: \"Wenn das Wetter morgen sonnig ist, ___.\"",
    "options": [
-    "machen wir ein schönes Picknick im Park.",
-    "wir machen ein schönes Picknick im Park.",
+    "machen ein schönes Picknick im Park wir.",
     "wir ein schönes Picknick im Park machen.",
-    "machen ein schönes Picknick im Park wir."
+    "machen wir ein schönes Picknick im Park.",
+    "wir machen ein schönes Picknick im Park."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Khi mệnh đề phụ đứng đầu câu (vị trí 1), mệnh đề chính đứng sau phải đảo động từ lên đầu: 'machen wir...'."
   },
   {
    "type": "mcq",
    "q": "Was passt in die Lücke? \"Ich habe gehört, ___ Herr Müller eine neue Stelle gefunden hat.\"",
    "options": [
-    "dass",
     "weil",
     "ob",
-    "wenn"
+    "wenn",
+    "dass"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Sau động từ tri nhận 'gehört haben' dùng mệnh đề 'dass' (rằng...)."
   },
   {
@@ -60,8 +60,8 @@
    "options": [
     "denn",
     "weil",
-    "deshalb",
-    "dass"
+    "dass",
+    "deshalb"
    ],
    "answer": 0,
    "explain": "Động từ 'hat' đứng ở vị trí thứ hai ngay sau chủ ngữ 'er', đây là cấu trúc của liên từ đẳng lập vị trí 0 'denn'."
@@ -70,12 +70,12 @@
    "type": "mcq",
    "q": "Welcher Satz mit einem trennbaren Verb ist RICHTIG?",
    "options": [
-    "Er freut sich, dass sein bester Freund morgen ankommt.",
+    "Er freut sich, dass kommt sein bester Freund morgen an.",
     "Er freut sich, dass sein bester Freund kommt morgen an.",
     "Er freut sich, dass sein bester Freund an morgen kommt.",
-    "Er freut sich, dass kommt sein bester Freund morgen an."
+    "Er freut sich, dass sein bester Freund morgen ankommt."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Trong mệnh đề phụ, động từ tách không được tách ra mà viết dính liền ở cuối câu: 'ankommt'."
   },
   {

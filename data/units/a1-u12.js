@@ -268,22 +268,22 @@
      "type": "mcq",
      "q": "Chọn dạng chia đúng ở thì Präteritum của „sein“ và „haben“ cho ngôi „wir“: „Letztes Jahr ___ wir in Italien und ___ wunderbares Wetter.“",
      "options": [
-      "war ... hatte",
-      "waren ... hatten",
+      "sind ... haben",
       "wart ... hattet",
-      "sind ... haben"
+      "war ... hatte",
+      "waren ... hatten"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Ở thì Präteritum với chủ ngữ „wir“: „sein → wir waren“ (đã ở) và „haben → wir hatten“ (đã có)."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng Präteritum đúng cho ngôi „ihr“ (các bạn): „Wo ___ ihr gestern Abend? ___ ihr keinen Regenschirm dabei?“",
      "options": [
-      "waren ... Hatten",
-      "wart ... Hattet",
       "warst ... Hattest",
-      "seid ... Habt"
+      "wart ... Hattet",
+      "seid ... Habt",
+      "waren ... Hatten"
      ],
      "answer": 1,
      "explain": "Với ngôi thứ 2 số nhiều „ihr“: Präteritum của sein là „ihr wart“, và của haben là „ihr hattet“."
@@ -292,24 +292,24 @@
      "type": "mcq",
      "q": "Khi muốn nói „Hôm nay trời mưa và có tuyết rơi“, câu nào đúng ngữ pháp?",
      "options": [
+      "Heute regnet und schneit der Himmel.",
       "Heute ist regnen und schneien.",
-      "Heute regnet es und es schneit.",
       "Heute hat es Regen und Schnee.",
-      "Heute regnet und schneit der Himmel."
+      "Heute regnet es und es schneit."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Các động từ chỉ hiện tượng thời tiết như „regnen“ (mưa) và „schneien“ (tuyết rơi) luôn chia với chủ ngữ giả „es“: „es regnet“, „es schneit“."
     },
     {
      "type": "mcq",
      "q": "Từ nào mô tả bầu trời có nhiều mây âm u?",
      "options": [
+      "trocken",
       "sonnig",
-      "bewölkt",
       "heiß",
-      "trocken"
+      "bewölkt"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„bewölkt“ (từ danh từ die Wolke – đám mây) nghĩa là nhiều mây, âm u."
     },
     {
@@ -713,12 +713,12 @@
      "type": "mcq",
      "q": "Chọn cách đọc đúng cho ngày tháng sau giới từ „am“: „Mein Bruder hat am 01.03. (am ___ März) Geburtstag.“",
      "options": [
-      "eins",
       "erste",
-      "ersten",
-      "erstes"
+      "eins",
+      "erstes",
+      "ersten"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Sau giới từ „am“ (= an dem, cách Dativ), mọi số thứ tự đều phải có đuôi „-en“: số 1 (eins) biến đổi bất quy tắc thành „am ersten März“."
     },
     {
@@ -726,11 +726,11 @@
      "q": "Chọn cách đọc đúng cho câu „Hôm nay là ngày 20 tháng 10“ (Heute ist der 20.10.):",
      "options": [
       "Heute ist der zwanzig Oktober.",
-      "Heute ist der zwanzigste Oktober.",
       "Heute ist der zwanzigsten Oktober.",
-      "Heute ist der zwanzigster Oktober."
+      "Heute ist der zwanzigster Oktober.",
+      "Heute ist der zwanzigste Oktober."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Sau „Heute ist der ...“ (cách Nominativ), các số từ 20 trở đi nhận đuôi „-ste“: „Heute ist der zwanzigste Oktober.“"
     },
     {
@@ -749,12 +749,12 @@
      "type": "mcq",
      "q": "Số thứ tự nào dưới đây viết SAI chính tả?",
      "options": [
-      "der erste (1.)",
-      "der dritte (3.)",
       "der siebente / der dreite",
-      "der achte (8.)"
+      "der dritte (3.)",
+      "der achte (8.)",
+      "der erste (1.)"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Số thứ tự 3. là „der dritte“ (không bao giờ là „dreite“!) và số 7. chuẩn hiện đại là „der siebte“."
     },
     {
@@ -1174,10 +1174,10 @@
       "q": "An welchem Tag feiert Mai ihre Geburtstagsparty mit ihren Freunden?",
       "options": [
        "Am Mittwoch, dem 18. November.",
-       "Am Donnerstag, dem 19. November.",
-       "Am Samstag, dem 21. November, ab 19:00 Uhr."
+       "Am Samstag, dem 21. November, ab 19:00 Uhr.",
+       "Am Donnerstag, dem 19. November."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was sollen die Gäste zur Party mitbringen?",
@@ -1191,11 +1191,11 @@
      {
       "q": "Bis wann sollen die Freunde Mai Bescheid geben, ob sie kommen?",
       "options": [
-       "Bis Donnerstag, den 19. November.",
        "Bis Samstagmittag um 12:00 Uhr.",
+       "Bis Donnerstag, den 19. November.",
        "Bis Ende Dezember."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1210,12 +1210,12 @@
      "type": "mcq",
      "q": "Vào ngày trước Giao thừa (30–31/12), người Đức chúc nhau câu gì để chúc bước sang năm mới suôn sẻ?",
      "options": [
+      "Guten Appetit!",
       "Frohe Ostern!",
       "Guten Rutsch ins neue Jahr!",
-      "Gute Besserung!",
-      "Guten Appetit!"
+      "Gute Besserung!"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„Guten Rutsch (ins neue Jahr)!“ là lời chúc đặc trưng của người Đức trong những ngày cuối tháng 12 trước thời khắc Giao thừa (Silvester)."
     },
     {
@@ -1223,9 +1223,9 @@
      "q": "Khi một người bạn chuẩn bị bước vào kỳ thi tiếng Đức ngày mai, bạn chúc bạn ấy câu nào?",
      "options": [
       "Viel Erfolg bei der Prüfung!",
-      "Herzlichen Glückwunsch zum Geburtstag!",
+      "Schönen Urlaub!",
       "Frohe Weihnachten!",
-      "Schönen Urlaub!"
+      "Herzlichen Glückwunsch zum Geburtstag!"
      ],
      "answer": 0,
      "explain": "Khi chúc ai thi tốt hoặc làm việc thành công, ta dùng „Viel Erfolg (bei der Prüfung)!“ hoặc „Viel Glück!“."
@@ -1235,11 +1235,11 @@
      "q": "Đêm Giao thừa (ngày 31 tháng 12) trong tiếng Đức được gọi là gì?",
      "options": [
       "Heiligabend",
-      "Silvester",
       "Ostern",
-      "Karneval"
+      "Karneval",
+      "Silvester"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Ngày 31/12 (Giao thừa) gọi là „Silvester“; tối 24/12 là „Heiligabend“; lễ Phục sinh là „Ostern“; lễ hội hóa trang là „Karneval / Fasching“."
     },
     {
@@ -1248,10 +1248,10 @@
      "options": [
       "Nominativ (ich gratuliere du)",
       "Akkusativ (ich gratuliere dich)",
-      "Dativ (ich gratuliere dir / Ihnen)",
-      "Genitiv"
+      "Genitiv",
+      "Dativ (ich gratuliere dir / Ihnen)"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "„gratulieren“ là động từ nội hướng luôn đi với cách Dativ: „Ich gratuliere dir / Ihnen herzlich zum Geburtstag!“."
     },
     {
@@ -1716,9 +1716,9 @@
      {
       "q": "Wo war Mia an Heiligabend?",
       "options": [
-       "Bei Nora.",
+       "Im Kino.",
        "Bei ihren Eltern.",
-       "Im Kino."
+       "Bei Nora."
       ],
       "answer": 1
      },
@@ -1734,11 +1734,11 @@
      {
       "q": "Was hat Mia am Vormittag an Neujahr gemacht?",
       "options": [
+       "Sie ist zu Hause geblieben.",
        "Sie hat im Garten gearbeitet.",
-       "Sie ist ins Café gegangen.",
-       "Sie ist zu Hause geblieben."
+       "Sie ist ins Café gegangen."
       ],
-      "answer": 2
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1754,11 +1754,11 @@
      "q": "Câu nào hỏi chính xác ngày bao nhiêu trong tháng?",
      "options": [
       "Um wie viel Uhr?",
-      "Am wievielten?",
       "Wie lange?",
+      "Am wievielten?",
       "Wie oft?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Am wievielten?}} hỏi ngày thứ mấy trong tháng."
     },
     {
@@ -1777,36 +1777,36 @@
      "type": "mcq",
      "q": "Cách đọc nào đúng cho {{am 3. Oktober}}?",
      "options": [
-      "am dritten Oktober",
       "am drei Oktober",
+      "der dritte Oktober",
       "am dritte Oktober",
-      "der dritte Oktober"
+      "am dritten Oktober"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Sau {{am}}, đọc số thứ tự với đuôi {{-en}}, ở đây là {{am dritten}}."
     },
     {
      "type": "mcq",
      "q": "Nếu hôm nay là 7/9, câu nào đúng?",
      "options": [
-      "Heute ist der sieben September.",
       "Heute ist der siebten September.",
-      "Heute ist am siebten September.",
-      "Heute ist der siebte September."
+      "Heute ist der siebte September.",
+      "Heute ist der sieben September.",
+      "Heute ist am siebten September."
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Sau {{Heute ist der}} dùng {{siebte}} trong mẫu này."
     },
     {
      "type": "mcq",
      "q": "Cách viết nào đúng khi hẹn vào ngày 20 tháng 8?",
      "options": [
-      "im 20 August",
-      "am 20. August",
       "am 20 August",
-      "am 20. august"
+      "im 20 August",
+      "am 20. august",
+      "am 20. August"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Viết dấu chấm sau số thứ tự và viết hoa tên tháng: {{am 20. August}}."
     },
     {
@@ -1990,10 +1990,10 @@
      "type": "mcq",
      "q": "Trong câu kể về hôm qua, chọn từ đúng. {{Gestern ___ es kalt.}}",
      "options": [
+      "wart",
       "waren",
-      "ist",
       "war",
-      "wart"
+      "ist"
      ],
      "answer": 2,
      "explain": "Mẫu thời tiết có {{es}}. Dùng {{war}} ở quá khứ."
@@ -2002,12 +2002,12 @@
      "type": "mcq",
      "q": "Câu nào hỏi hai người bạn hôm qua có ở hồ không?",
      "options": [
-      "War du gestern am See?",
-      "Waren ihr gestern am See?",
+      "Wart ihr gestern am See?",
       "Wart ihr morgen am See?",
-      "Wart ihr gestern am See?"
+      "War du gestern am See?",
+      "Waren ihr gestern am See?"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Với {{ihr}}, dùng {{wart}}. {{Gestern}} nghĩa là hôm qua."
     },
     {
@@ -2016,8 +2016,8 @@
      "options": [
       "waren",
       "wart",
-      "warst",
-      "war"
+      "war",
+      "warst"
      ],
      "answer": 0,
      "explain": "Chủ ngữ {{wir}} đi với {{waren}}."
@@ -2026,24 +2026,24 @@
      "type": "mcq",
      "q": "Bạn muốn nói trời có tuyết rơi. Chọn câu phù hợp.",
      "options": [
-      "Es schneit.",
-      "Es regnet.",
+      "Es ist heiß.",
       "Die Sonne scheint.",
-      "Es ist heiß."
+      "Es regnet.",
+      "Es schneit."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Es schneit.}} báo tuyết đang rơi."
     },
     {
      "type": "mcq",
      "q": "Câu nào có nghĩa ‘Hôm qua ở đó trời nhiều mây’?",
      "options": [
-      "Heute ist es dort kühl.",
       "Gestern war es dort windig.",
       "Gestern war es dort bewölkt.",
+      "Heute ist es dort kühl.",
       "Morgen ist es dort sonnig."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{bewölkt}} nghĩa là có mây hoặc nhiều mây."
     },
     {
@@ -2226,11 +2226,11 @@
      "q": "Điền dạng quá khứ. {{Wir ___ gestern eine Feier.}}",
      "options": [
       "hatte",
-      "hatten",
       "hattet",
+      "hatten",
       "hast"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Với {{wir}}, dạng quá khứ của {{haben}} là {{hatten}}."
     },
     {
@@ -2250,11 +2250,11 @@
      "q": "Câu nào có nghĩa ‘Bữa tiệc diễn ra ở nhà’?",
      "options": [
       "Die Feier hatte zu Hause.",
-      "Die Feier ist morgen.",
       "Die Feier war zu Hause.",
-      "Wir hatten die Torte zu Hause."
+      "Wir hatten die Torte zu Hause.",
+      "Die Feier ist morgen."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Để nêu địa điểm của bữa tiệc trong quá khứ, dùng {{war}}."
     },
     {
@@ -2262,9 +2262,9 @@
      "q": "Bạn muốn chúc sinh nhật. Chọn lời chúc đúng dịp.",
      "options": [
       "Alles Gute zum Geburtstag!",
-      "Frohes neues Jahr!",
+      "Schönes Wochenende!",
       "Gute Besserung!",
-      "Schönes Wochenende!"
+      "Frohes neues Jahr!"
      ],
      "answer": 0,
      "explain": "{{Alles Gute zum Geburtstag!}} là lời chúc sinh nhật quen thuộc."
@@ -2273,12 +2273,12 @@
      "type": "mcq",
      "q": "Câu nào nói đúng ‘Hôm qua tôi có thời gian’?",
      "options": [
-      "Gestern habe ich Zeit.",
+      "Gestern hatte ich Zeit.",
       "Gestern war ich zu Hause.",
       "Gestern hattest du Zeit.",
-      "Gestern hatte ich Zeit."
+      "Gestern habe ich Zeit."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Nói có thời gian trong quá khứ với {{ich hatte Zeit}}."
     },
     {

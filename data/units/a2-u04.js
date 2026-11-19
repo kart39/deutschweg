@@ -361,11 +361,11 @@
      {
       "q": "Was ist die Vorspeise im ersten Menü?",
       "options": [
+       "Eine cremige Linsensuppe.",
        "Ein kleiner Salat.",
-       "Eine klare Gemüsebrühe.",
-       "Eine cremige Linsensuppe."
+       "Eine klare Gemüsebrühe."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Was gibt es im zweiten Menü als Hauptgericht?",
@@ -379,20 +379,20 @@
      {
       "q": "Was kostet extra?",
       "options": [
-       "Der Apfelkuchen.",
+       "Die Vorspeise.",
        "Ein Kaffee.",
-       "Die Vorspeise."
+       "Der Apfelkuchen."
       ],
       "answer": 1
      },
      {
       "q": "Was macht die Kellnerin mit dem Apfelkuchen?",
       "options": [
+       "Sie packt ihn für Mai und Eva ein.",
        "Sie bringt ihn zuerst an den Tisch.",
-       "Sie teilt ihn in der Küche.",
-       "Sie packt ihn für Mai und Eva ein."
+       "Sie teilt ihn in der Küche."
       ],
-      "answer": 2
+      "answer": 0
      }
     ],
     "glossary": []
@@ -407,20 +407,20 @@
      "type": "mcq",
      "q": "Chọn đuôi sau mạo từ xác định. {{Ich nehme den warm___ Kartoffelsalat.}}",
      "options": [
-      "-e",
-      "-en",
+      "-es",
       "-er",
-      "-es"
+      "-e",
+      "-en"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Den Kartoffelsalat}} là Akkusativ đực. Tính từ có đuôi {{-en}} sau {{den}}."
     },
     {
      "type": "mcq",
      "q": "Cụm nào đúng với {{das Hauptgericht}} ở Nominativ?",
      "options": [
-      "das warmes Hauptgericht",
       "das warmer Hauptgericht",
+      "das warmes Hauptgericht",
       "das warmen Hauptgericht",
       "das warme Hauptgericht"
      ],
@@ -431,36 +431,36 @@
      "type": "mcq",
      "q": "Câu nào chỉ định món với xốt vị nhẹ?",
      "options": [
-      "Ich nehme das Gericht mit der milden Soße.",
-      "Ich nehme das Gericht mit der milde Soße.",
       "Ich nehme das Gericht mit die milde Soße.",
-      "Ich nehme das Gericht mit der scharfen Soße."
+      "Ich nehme das Gericht mit der scharfen Soße.",
+      "Ich nehme das Gericht mit der milden Soße.",
+      "Ich nehme das Gericht mit der milde Soße."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Sau {{mit}}, dùng Dativ {{der milden Soße}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào đặt tính từ mô tả đúng sau {{ist}}?",
      "options": [
-      "Die Suppe ist cremige.",
-      "Die Suppe ist cremigen.",
+      "Die Suppe ist cremiges.",
       "Die Suppe ist cremig.",
-      "Die Suppe ist cremiges."
+      "Die Suppe ist cremige.",
+      "Die Suppe ist cremigen."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Khi mô tả chủ ngữ sau {{sein}}, dùng tính từ ở dạng gốc {{cremig}}."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm số nhiều làm tân ngữ trực tiếp.",
      "options": [
-      "die knusprige Bratkartoffeln",
       "die knusprigen Bratkartoffeln",
+      "die knuspriges Bratkartoffeln",
       "den knusprigen Bratkartoffeln",
-      "die knuspriges Bratkartoffeln"
+      "die knusprige Bratkartoffeln"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Sau mạo từ số nhiều {{die}} ở Akkusativ, tính từ dùng đuôi {{-en}}."
     },
     {
@@ -1005,37 +1005,37 @@
       "q": "Für wie viele Personen ist das Rezept?",
       "options": [
        "Für vier.",
-       "Für zwei.",
-       "Für eine."
+       "Für eine.",
+       "Für zwei."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was kommt zuerst ins heiße Öl?",
       "options": [
+       "Die Petersilie.",
        "Die Zwiebel.",
-       "Die Kartoffeln und die Möhre.",
-       "Die Petersilie."
+       "Die Kartoffeln und die Möhre."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Wie lange soll die Suppe ungefähr kochen?",
       "options": [
-       "Etwa fünf Minuten.",
        "Mindestens vierzig Minuten.",
-       "Etwa fünfzehn bis zwanzig Minuten."
+       "Etwa fünfzehn bis zwanzig Minuten.",
+       "Etwa fünf Minuten."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Wann gibt man die Petersilie auf die Suppe?",
       "options": [
        "Bevor man das Öl erhitzt.",
-       "Zum Schluss.",
-       "Zusammen mit der Brühe."
+       "Zusammen mit der Brühe.",
+       "Zum Schluss."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1050,48 +1050,48 @@
      "type": "mcq",
      "q": "Chọn câu dùng khi hướng dẫn một người bạn.",
      "options": [
-      "Schälen Sie die Kartoffeln.",
       "Die Kartoffeln schälen.",
-      "Schält die Kartoffeln.",
-      "Schäl die Kartoffeln."
+      "Schälen Sie die Kartoffeln.",
+      "Schäl die Kartoffeln.",
+      "Schält die Kartoffeln."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{Schäl die Kartoffeln.}} là mệnh lệnh dùng với một người quen."
     },
     {
      "type": "mcq",
      "q": "Bạn hướng dẫn hai người quen cùng khuấy súp. Chọn câu phù hợp.",
      "options": [
-      "Rühr die Suppe um.",
       "Rührt die Suppe um.",
       "Rühren Sie die Suppe um.",
+      "Rühr die Suppe um.",
       "Die Suppe umrühren."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Với nhiều người quen, giữ dạng chia {{rührt}} và bỏ {{ihr}}."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng chỉ dẫn bằng nguyên mẫu thường thấy trong công thức.",
      "options": [
+      "Du rührst die Suppe um.",
       "Die Suppe umrühren.",
       "Rühr die Suppe um.",
-      "Du rührst die Suppe um.",
       "Rühren Sie die Suppe um."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Trong bước dùng nguyên mẫu, {{umrühren}} ở cuối và viết liền."
     },
     {
      "type": "mcq",
      "q": "Bạn hướng dẫn một người quen thêm nước dùng. Câu nào dùng đúng dạng mệnh lệnh và đưa phần tách xuống cuối?",
      "options": [
-      "Gebst die Brühe dazu.",
       "Gib dazu die Brühe.",
-      "Gib die Brühe dazu.",
-      "Gibst du die Brühe dazu."
+      "Gebst die Brühe dazu.",
+      "Gibst du die Brühe dazu.",
+      "Gib die Brühe dazu."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Dạng với một người quen là {{gib}}. Phần tách {{dazu}} thường đứng cuối."
     },
     {
@@ -1099,11 +1099,11 @@
      "q": "Trong công thức, {{1 EL Öl}} viết đầy đủ thế nào?",
      "options": [
       "ein Liter Öl",
-      "ein Esslöffel Öl",
       "ein Teelöffel Öl",
-      "ein Glas Öl"
+      "ein Glas Öl",
+      "ein Esslöffel Öl"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{EL}} là viết tắt của {{Esslöffel}}."
     },
     {
@@ -1644,36 +1644,36 @@
      {
       "q": "Welche Suppe bestellt Ben?",
       "options": [
-       "Die Reisnudelsuppe.",
        "Die Kartoffelsuppe.",
-       "Die Linsensuppe."
+       "Die Linsensuppe.",
+       "Die Reisnudelsuppe."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was stimmt zuerst mit Linhs Bestellung nicht?",
       "options": [
+       "Die scharfe Soße ist schon in der Suppe.",
        "Die Portion fehlt ganz.",
-       "Die Suppe ist kalt.",
-       "Die scharfe Soße ist schon in der Suppe."
+       "Die Suppe ist kalt."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Wie bringt die Servicekraft die Soße danach?",
       "options": [
        "In einer kleinen Schüssel.",
-       "In einem großen Glas.",
-       "In der Suppe von Ben."
+       "In der Suppe von Ben.",
+       "In einem großen Glas."
       ],
       "answer": 0
      },
      {
       "q": "Was möchten Linh und Ben am Wochenende machen?",
       "options": [
-       "In ein anderes Restaurant gehen.",
+       "Noch einmal dieselben Suppen bestellen.",
        "Die Rezepte zu Hause ausprobieren.",
-       "Noch einmal dieselben Suppen bestellen."
+       "In ein anderes Restaurant gehen."
       ],
       "answer": 1
      }
@@ -1690,24 +1690,24 @@
      "type": "mcq",
      "q": "Bạn gọi món vị nhẹ nhưng nhận món cay. Nói thế nào để xin đổi lịch sự?",
      "options": [
-      "Könnten Sie mir bitte die milde Suppe bringen?",
-      "Gib mir sofort eine andere Suppe!",
       "Könnten Sie die scharfe Suppe noch schärfer machen?",
-      "Die Rechnung stimmt jetzt."
+      "Die Rechnung stimmt jetzt.",
+      "Gib mir sofort eine andere Suppe!",
+      "Könnten Sie mir bitte die milde Suppe bringen?"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Könnten Sie mir bitte … bringen?}} là lời nhờ lịch sự. {{Die milde Suppe}} nêu rõ món muốn đổi."
     },
     {
      "type": "mcq",
      "q": "Câu nào xin để xốt riêng?",
      "options": [
-      "Ich hätte gern mehr Soße in der Suppe.",
       "Könnte ich die Soße bitte extra bekommen?",
+      "Ich hätte gern mehr Soße in der Suppe.",
       "Die Soße ist leider lauwarm.",
       "Welche Suppe haben Sie bestellt?"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{Die Soße extra}} nghĩa là để xốt riêng."
     },
     {
@@ -1715,11 +1715,11 @@
      "q": "Câu nào dùng đúng đuôi khi chọn món? {{Ich nehme die ___ Suppe.}}",
      "options": [
       "milden",
+      "milde",
       "mild",
-      "milder",
-      "milde"
+      "milder"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Sau {{die}} ở Akkusativ cái số ít, chọn {{milde}}."
     },
     {
@@ -1727,9 +1727,9 @@
      "q": "Câu nào hỏi xin nĩa vì chỗ bạn còn thiếu?",
      "options": [
       "Wem gehört die Gabel?",
-      "Könnten Sie die Serviette wegnehmen?",
+      "Ist die Gabel links neben dem Teller?",
       "Könnten Sie mir bitte eine Gabel bringen?",
-      "Ist die Gabel links neben dem Teller?"
+      "Könnten Sie die Serviette wegnehmen?"
      ],
      "answer": 2,
      "explain": "{{Eine Gabel bringen}} là mang một chiếc nĩa tới."
@@ -1738,12 +1738,12 @@
      "type": "mcq",
      "q": "Bạn và bạn mình muốn tự thanh toán phần mình. Nói thế nào?",
      "options": [
+      "Wir möchten eine Portion nachbestellen.",
       "Wir möchten bitte getrennt zahlen.",
-      "Wir möchten zusammen zahlen.",
       "Wir haben schon bezahlt.",
-      "Wir möchten eine Portion nachbestellen."
+      "Wir möchten zusammen zahlen."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Getrennt zahlen}} là mỗi người trả riêng."
     },
     {
@@ -2286,19 +2286,19 @@
       "q": "Was hat den Testern im Restaurant „Little Saigon“ besonders gut gefallen?",
       "options": [
        "Die laute Musik und die teuren Weine.",
-       "Die gemütliche Einrichtung, die freundliche Bedienung, das leckere Essen und die günstigen Preise.",
-       "Dass man dort eine Stunde auf das Essen warten musste."
+       "Dass man dort eine Stunde auf das Essen warten musste.",
+       "Die gemütliche Einrichtung, die freundliche Bedienung, das leckere Essen und die günstigen Preise."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welche Probleme gab es am Samstagabend im „Brauhaus am Markt“?",
       "options": [
-       "Das Restaurant war geschlossen.",
+       "Man musste lange warten, der Kellner war unfreundlich, der Braten war lauwarm und die Soße zu salzig.",
        "Es gab nur vegetarische Gerichte auf der Speisekarte.",
-       "Man musste lange warten, der Kellner war unfreundlich, der Braten war lauwarm und die Soße zu salzig."
+       "Das Restaurant war geschlossen."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Was kostet ein Hauptgericht im Restaurant „Little Saigon“?",
@@ -2322,12 +2322,12 @@
      "type": "mcq",
      "q": "Động từ nào trong tiếng Đức có nghĩa là „gọt vỏ / bóc vỏ“ (khoai tây, hành tây, táo)?",
      "options": [
+      "umrühren",
       "schneiden",
       "schälen",
-      "braten",
-      "umrühren"
+      "braten"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„schälen“ = gọt vỏ / bóc vỏ; „schneiden“ = thái / cắt; „braten“ = chiên / rán; „umrühren“ = khuấy đều."
     },
     {
@@ -2335,8 +2335,8 @@
      "q": "Khi muốn chiên hoặc xào thịt với dầu ăn, người ta dùng dụng cụ nào?",
      "options": [
       "Die Pfanne (chao rán)",
-      "Die Gabel (cái dia)",
       "Die Serviette (khan an)",
+      "Die Gabel (cái dia)",
       "Das Glas (cái coc)"
      ],
      "answer": 0,
@@ -2346,24 +2346,24 @@
      "type": "mcq",
      "q": "Chọn dạng chia đúng của động từ mạnh „braten“ ở ngôi thứ 3 số ít Präsens: „Der Koch ___ das Steak in der Pfanne.“",
      "options": [
-      "bratet",
       "brät",
+      "briet",
       "braten",
-      "briet"
+      "bratet"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„braten“ là động từ mạnh biến âm a → ä ở ngôi du (du brätst) và er/sie/es (er brät – không thêm -et!)."
     },
     {
      "type": "mcq",
      "q": "Chọn câu mệnh lệnh (Imperativ) đúng ở ngôi „du“ cho hai động từ „waschen“ và „schneiden“:",
      "options": [
-      "Wäsch das Gemüse und schneidest es klein!",
       "Wasch das Gemüse und schneide es klein!",
       "Waschst das Gemüse und schneidet es klein!",
-      "Waschen das Gemüse und schneiden es klein!"
+      "Waschen das Gemüse und schneiden es klein!",
+      "Wäsch das Gemüse und schneidest es klein!"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Ở Imperativ ngôi „du“: „waschen“ bỏ Umlaut ä → a („Wasch!“), còn „schneiden“ có gốc kết thúc bằng -d nên giữ đuôi -e („schneide!“)."
     },
     {
@@ -2535,10 +2535,10 @@
      "type": "mcq",
      "q": "Chọn đuôi tính từ đúng ở cách Akkusativ giống Đực: „Als Hauptgericht bestelle ich ___ gebraten___ Fisch.“",
      "options": [
-      "der ... -e",
+      "dem ... -en",
       "den ... -en",
       "den ... -e",
-      "dem ... -en"
+      "der ... -e"
      ],
      "answer": 1,
      "explain": "„der Fisch“ là danh từ giống Đực. Làm tân ngữ trực tiếp (Akkusativ) của động từ „bestellen“, mạo từ đổi thành „den“ và tính từ bắt buộc nhận đuôi „-en“: „den gebratenen Fisch“."
@@ -2547,36 +2547,36 @@
      "type": "mcq",
      "q": "Chọn đuôi tính từ đúng ở cách Nominativ số ít: „Wie schmeckt dir ___ heiß___ Gemüsesuppe und ___ grün___ Salat?“",
      "options": [
-      "die heiße ... der grüne",
-      "die heißen ... der grünen",
       "die heiße ... den grünen",
-      "der heiße ... das grüne"
+      "die heißen ... der grünen",
+      "der heiße ... das grüne",
+      "die heiße ... der grüne"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Cả hai cụm danh từ đều đóng vai trò làm chủ ngữ (Nominativ) của động từ „schmeckt“. Ở Nominativ số ít sau „der / die / das“, mọi tính từ đều có đuôi „-e“: „die heiße Suppe“, „der grüne Salat“."
     },
     {
      "type": "mcq",
      "q": "Chọn đuôi tính từ đúng ở cách Dativ: „Zu ___ gegrillt___ Steak esse ich gern ein Glas Rotwein.“",
      "options": [
-      "das gegrillte",
-      "dem gegrillten",
       "dem gegrillte",
-      "den gegrillten"
+      "das gegrillte",
+      "den gegrillten",
+      "dem gegrillten"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Giới từ „zu“ luôn đi với cách Dativ. Ở cách Dativ, mọi tính từ đi sau mạo từ xác định („dem / der / den“) 100% đều có đuôi „-en“: „zu dem gegrillten Steak“."
     },
     {
      "type": "mcq",
      "q": "Ba phần của một bữa ăn hoàn chỉnh trong nhà hàng theo đúng trình tự từ đầu đến cuối là gì?",
      "options": [
-      "Nachspeise → Hauptgericht → Vorspeise",
       "Vorspeise (khai vi) → Hauptgericht (món chính) → Nachspeise (tráng mieng)",
-      "Beilage → Trinkgeld → Speisekarte",
-      "Rechnung → Vorspeise → Getränke"
+      "Nachspeise → Hauptgericht → Vorspeise",
+      "Rechnung → Vorspeise → Getränke",
+      "Beilage → Trinkgeld → Speisekarte"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Trình tự 3 món trong bữa ăn: „die Vorspeise“ (món khai vị) → „das Hauptgericht“ (món chính) → „die Nachspeise / das Dessert“ (món tráng miệng)."
     },
     {
@@ -2745,8 +2745,8 @@
      "options": [
       "Trả bằng thẻ tín dụng",
       "Thanh toán riêng từng người",
-      "Trả chung vào một hóa đơn",
-      "Không đưa tiền tip"
+      "Không đưa tiền tip",
+      "Trả chung vào một hóa đơn"
      ],
      "answer": 1,
      "explain": "„zusammen zahlen“ = trả chung một hóa đơn; „getrennt zahlen“ = chia hóa đơn trả riêng phần của từng người."
@@ -2755,12 +2755,12 @@
      "type": "mcq",
      "q": "Khi hóa đơn hết 27 Euro, bạn đưa cho nhân viên tờ 30 Euro và nói „Stimmt so!“. Câu này có ý nghĩa gì?",
      "options": [
-      "Hãy trả lại tôi 3 Euro tiền thừa ngay lập tức!",
       "Số tiền như vậy là đúng rồi, anh/chị cứ giữ lấy 3 Euro tiền thừa làm tiền tip (Trinkgeld) nhé!",
+      "Hãy trả lại tôi 3 Euro tiền thừa ngay lập tức!",
       "Hóa don nay tính sai roi!",
       "Tôi muốn đổi sang món ăn khác!"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„Stimmt so!“ là câu nói lịch sự khi đưa tiền ở nhà hàng/quán cà phê/tắc-xi để báo rằng phần tiền thừa là tiền tip (Trinkgeld) dành cho người phục vụ."
     },
     {
@@ -2779,12 +2779,12 @@
      "type": "mcq",
      "q": "Chọn đuôi tính từ đúng: „Der Gast beschwert sich über ___ kalt___ Suppe und ___ unfreundlich___ Kellner.“",
      "options": [
-      "die kalte ... den unfreundlichen",
+      "die kalte ... der unfreundliche",
       "die kalten ... der unfreundliche",
       "der kalten ... dem unfreundlichen",
-      "die kalte ... der unfreundliche"
+      "die kalte ... den unfreundlichen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Cụm „sich beschweren über + Akkusativ“ (phàn nàn về cái gì): ở Akkusativ, giống Cái giữ đuôi „-e“ („die kalte Suppe“), còn giống Đực nhận đuôi „-en“ („den unfreundlichen Kellner“)."
     },
     {

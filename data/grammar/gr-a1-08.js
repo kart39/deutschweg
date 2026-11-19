@@ -26,20 +26,20 @@
    "q": "Welche Form passt? 'Peter ruft heute Abend ___ Vater an.'",
    "options": [
     "sein",
-    "seine",
     "seinen",
-    "ihren"
+    "ihren",
+    "seine"
    ],
-   "answer": 2,
+   "answer": 1,
    "explain": "Người sở hữu là Peter (er -> sein-). Danh từ 'Vater' là giống đực ở Akkusativ sau 'anrufen' nên thêm đuôi '-en': 'seinen Vater'."
   },
   {
    "type": "mcq",
    "q": "Welche Form passt? 'Kinder, wo ist ___ Mutter?'",
    "options": [
-    "euer",
-    "eure",
     "euren",
+    "eure",
+    "euer",
     "euere"
    ],
    "answer": 1,
@@ -49,12 +49,12 @@
    "type": "mcq",
    "q": "Welche Form passt? 'Frau Meier, ist das ___ Koffer dort drüben?'",
    "options": [
-    "mein",
-    "dein",
     "Ihr",
-    "Ihre"
+    "dein",
+    "Ihre",
+    "mein"
    ],
-   "answer": 2,
+   "answer": 0,
    "explain": "Xưng hô lịch sự với Frau Meier dùng 'Ihr-' viết hoa. 'Koffer' là danh từ giống đực ở Nominativ (der Koffer) nên giữ nguyên: 'Ihr Koffer'."
   },
   {
@@ -62,23 +62,23 @@
    "q": "Welche Form passt? 'Anna hat ___ Schlüsselbund verloren.'",
    "options": [
     "sein",
-    "seinen",
     "ihr",
-    "ihren"
+    "ihren",
+    "seinen"
    ],
-   "answer": 3,
+   "answer": 2,
    "explain": "Người sở hữu là Anna (sie -> ihr-). 'Schlüsselbund' là danh từ giống đực (der Schlüsselbund) ở Akkusativ nên dùng 'ihren'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist grammatisch vollkommen korrekt?",
    "options": [
-    "Ich liebe mein Vater und mein Mutter.",
-    "Ich liebe meinen Vater und meine Mutter.",
+    "Ich liebe meinen Vater und mein Mutter.",
     "Ich liebe mein Vater und meine Mutter.",
-    "Ich liebe meinen Vater und mein Mutter."
+    "Ich liebe mein Vater und mein Mutter.",
+    "Ich liebe meinen Vater und meine Mutter."
    ],
-   "answer": 1,
+   "answer": 3,
    "explain": "Akkusativ giống đực 'meinen Vater' và Akkusativ giống cái 'meine Mutter'."
   },
   {

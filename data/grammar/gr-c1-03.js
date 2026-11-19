@@ -13,48 +13,48 @@
    "type": "mcq",
    "q": "Welches Verb drückt aus, dass jemand einen Fehler zögernd oder widerwillig zugibt?",
    "options": [
-    "einräumen",
-    "bestreiten",
     "unterstreichen",
-    "postulieren"
+    "postulieren",
+    "einräumen",
+    "bestreiten"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'einräumen' nghĩa là thừa nhận, nhượng bộ một phần sự thật bất lợi cho mình."
   },
   {
    "type": "mcq",
    "q": "Welche Wortstellung mit 'zufolge' im Dativ ist KORREKT?",
    "options": [
-    "Den neuesten Berichten zufolge steigen die Preise.",
     "Zufolge den neuesten Berichten steigen die Preise.",
+    "Zufolge steigen die Preise den Berichten.",
     "Den neuesten Berichten steigen die Preise zufolge.",
-    "Zufolge steigen die Preise den Berichten."
+    "Den neuesten Berichten zufolge steigen die Preise."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Khi đi với Dativ, 'zufolge' đứng sau danh từ: Den neuesten Berichten zufolge..."
   },
   {
    "type": "mcq",
    "q": "Was bedeutet das gehobene Verb 'dementieren'?",
    "options": [
-    "Eine offizielle Behauptung oder Nachricht als falsch zurückweisen.",
+    "Neue Mitarbeiter einstellen.",
     "Einen wissenschaftlichen Vortrag halten.",
-    "Einen Vertrag unterschreiben.",
-    "Neue Mitarbeiter einstellen."
+    "Eine offizielle Behauptung oder Nachricht als falsch zurückweisen.",
+    "Einen Vertrag unterschreiben."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'dementieren' nghĩa là bác bỏ chính thức một tin đồn hoặc cáo buộc."
   },
   {
    "type": "mcq",
    "q": "Welche feste Präposition gehört zum Verb 'plädieren'?",
    "options": [
+    "an (+ Akk)",
     "für (+ Akk)",
     "auf (+ Akk)",
-    "über (+ Akk)",
-    "an (+ Akk)"
+    "über (+ Akk)"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'plädieren für + Akkusativ' nghĩa là lên tiếng ủng hộ, kêu gọi cho điều gì."
   },
   {
@@ -62,9 +62,9 @@
    "q": "Welches Verb ist ein anspruchsvolles Synonym für 'betonen' oder 'hervorheben'?",
    "options": [
     "unterstreichen",
-    "unterschreiben",
     "unterbrechen",
-    "unterdrücken"
+    "unterdrücken",
+    "unterschreiben"
    ],
    "answer": 0,
    "explain": "'unterstreichen' trong văn phong học thuật đồng nghĩa với 'hervorheben / betonen' (nhấn mạnh)."
@@ -74,9 +74,9 @@
    "q": "Was bedeutet 'etwas in Abrede stellen'?",
    "options": [
     "etwas leugnen / bestreiten",
-    "etwas ausführlich besprechen",
     "etwas loben",
-    "etwas beenden"
+    "etwas beenden",
+    "etwas ausführlich besprechen"
    ],
    "answer": 0,
    "explain": "'etwas in Abrede stellen' là thành ngữ cố định C1 đồng nghĩa với 'bestreiten' (phủ nhận, bác bỏ)."

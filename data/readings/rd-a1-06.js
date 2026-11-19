@@ -119,25 +119,25 @@
    "q": "An welchen Tagen findet der Abendkurs statt?",
    "options": [
     "Montag und Mittwoch",
-    "Dienstag und Donnerstag",
-    "Nur am Samstag"
+    "Nur am Samstag",
+    "Dienstag und Donnerstag"
    ],
    "answer": 0
   },
   {
    "q": "Wann beginnt der Kurs?",
    "options": [
-    "Am 1. November",
     "Am 7. November",
-    "Am 15. November"
+    "Am 15. November",
+    "Am 1. November"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Was kostet der Kurs A1.1?",
    "options": [
-    "120 Euro",
     "150 Euro",
+    "120 Euro",
     "180 Euro inklusive Lehrbuch"
    ],
    "answer": 2

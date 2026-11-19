@@ -10,36 +10,36 @@
    "type": "mcq",
    "q": "Welche Präteritumform von \"gehen\" (er) ist KORREKT?",
    "options": [
-    "ging",
-    "gingte",
     "gingt",
+    "gingte",
+    "ging",
     "gehte"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'gehen' là động từ bất quy tắc (ging). Ở ngôi 'er', động từ mạnh không nhận đuôi: 'er ging'."
   },
   {
    "type": "mcq",
    "q": "Welche Form hat das Modalverb \"können\" im Präteritum (ich)?",
    "options": [
-    "konnte",
     "könnte",
+    "kann",
     "konntet",
-    "kann"
+    "konnte"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Präteritum của 'können' mất dấu Umlaut và thêm '-te': 'ich konnte'."
   },
   {
    "type": "mcq",
    "q": "Ergänzen Sie das regelmäßige Verb: \"Der Student ___ (arbeiten) den ganzen Sommer in einer Fabrik.\"",
    "options": [
+    "arbeit",
     "arbeitete",
-    "arbeitte",
     "gearbeitet",
-    "arbeit"
+    "arbeitte"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Gốc từ tận cùng bằng '-t' nên phải đệm thêm '-e-': 'arbeitete'."
   },
   {
@@ -47,9 +47,9 @@
    "q": "Welcher Satz im Präteritum ist grammatisch VOLLKOMMEN RICHTIG?",
    "options": [
     "Als Kind durfte er niemals alleine in die Stadt fahren.",
-    "Als Kind dürfte er niemals alleine in die Stadt fahren.",
+    "Als Kind gedurft er niemals alleine in die Stadt fahren.",
     "Als Kind durft er niemals alleine in die Stadt fahren.",
-    "Als Kind gedurft er niemals alleine in die Stadt fahren."
+    "Als Kind dürfte er niemals alleine in die Stadt fahren."
    ],
    "answer": 0,
    "explain": "Präteritum của 'dürfen' ở ngôi 'er' là 'durfte' (không có Umlaut)."
@@ -58,24 +58,24 @@
    "type": "mcq",
    "q": "Was ist die Präteritumform von \"bringen\" (wir)?",
    "options": [
-    "brachten",
+    "brächten",
     "bringten",
     "gebrachten",
-    "brächten"
+    "brachten"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'bringen' là động từ hỗn hợp: bringen -> brachte -> wir brachten."
   },
   {
    "type": "mcq",
    "q": "Sie ___ (sein) gestern den ganzen Tag zu Hause.",
    "options": [
-    "war",
     "waren",
-    "wart",
-    "gewesen"
+    "war",
+    "gewesen",
+    "wart"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Chủ ngữ là 'Sie' (cô ấy / er-sie-es), dạng Präteritum của 'sein' là 'war'."
   },
   {

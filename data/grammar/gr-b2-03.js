@@ -13,72 +13,72 @@
    "type": "mcq",
    "q": "Welcher Satz drückt ein Vorgangspassiv (Aktion/Handlung) aus?",
    "options": [
-    "Die Tür wird von dem Hausmeister abgeschlossen.",
     "Die Tür ist seit zwei Stunden abgeschlossen.",
-    "Die Tür war gestern den ganzen Tag zu.",
-    "Die Tür muss immer abgeschlossen sein."
+    "Die Tür wird von dem Hausmeister abgeschlossen.",
+    "Die Tür muss immer abgeschlossen sein.",
+    "Die Tür war gestern den ganzen Tag zu."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Vorgangspassiv dùng trợ động từ werden và có tác nhân 'von dem Hausmeister'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz drückt ein Zustandspassiv (Ergebnis/Zustand) aus?",
    "options": [
-    "Das Auto ist repariert und fahrbereit.",
     "Das Auto wird gerade repariert.",
-    "Das Auto wurde gestern repariert.",
-    "Das Auto wird morgen repariert werden."
+    "Das Auto wird morgen repariert werden.",
+    "Das Auto ist repariert und fahrbereit.",
+    "Das Auto wurde gestern repariert."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'ist repariert' diễn tả trạng thái tĩnh đã hoàn tất của chiếc xe (Zustandspassiv)."
   },
   {
    "type": "mcq",
    "q": "Wie lautet das Zustandspassiv im Präteritum von: 'Das Museum ist geöffnet.'?",
    "options": [
-    "Das Museum war geöffnet.",
     "Das Museum wurde geöffnet.",
     "Das Museum ist geöffnet worden.",
-    "Das Museum wurde geöffnet gewesen."
+    "Das Museum wurde geöffnet gewesen.",
+    "Das Museum war geöffnet."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Zustandspassiv Präteritum chia trợ động từ sein ở Präteritum (war/waren) + Partizip II (geöffnet)."
   },
   {
    "type": "mcq",
    "q": "Welches Verb kann KEIN Zustandspassiv bilden?",
    "options": [
-    "loben",
     "öffnen",
     "schließen",
+    "loben",
     "beschädigen"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'loben' (khen ngợi) không tạo ra một trạng thái vật lý biến đổi tĩnh lâu dài nên không dùng Zustandspassiv."
   },
   {
    "type": "mcq",
    "q": "Ergänzen Sie das Vorgangspassiv im Perfekt: 'Die Rechnung ___ gestern bezahlt ___.'",
    "options": [
-    "ist ... worden",
     "hat ... geworden",
+    "war ... gewesen",
     "wurde ... sein",
-    "war ... gewesen"
+    "ist ... worden"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Vorgangspassiv Perfekt: sein (ist) + Partizip II (bezahlt) + worden."
   },
   {
    "type": "mcq",
    "q": "Was drückt der Satz 'Die Grenze ist geschlossen.' aus?",
    "options": [
-    "Einen gegenwärtigen Zustand nach einer vorherigen Schließung.",
-    "Einen Prozess, der im Moment stattfindet.",
+    "Eine Aufforderung an Reisende.",
     "Eine Absicht der Regierung.",
-    "Eine Aufforderung an Reisende."
+    "Einen gegenwärtigen Zustand nach einer vorherigen Schließung.",
+    "Einen Prozess, der im Moment stattfindet."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Zustandspassiv miêu tả trạng thái hiện tại (kết quả của hành động đóng cửa trước đó)."
   },
   {

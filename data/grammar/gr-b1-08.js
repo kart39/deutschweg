@@ -10,60 +10,60 @@
    "type": "mcq",
    "q": "Welcher Genitiv ist KORREKT gebildet? \"Das ist das Auto ___.\"",
    "options": [
+    "meinen Vater",
     "meines Vaters",
     "meinem Vater",
-    "meinen Vater",
     "meines Vater"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Danh từ 'Vater' giống đực, mạo từ sở hữu đổi thành 'meines' và danh từ nhận đuôi '-s': 'meines Vaters'."
   },
   {
    "type": "mcq",
    "q": "___ des schlechten Wetters fiel das Open-Air-Konzert leider aus.",
    "options": [
-    "Wegen",
     "Trotz",
+    "Statt",
     "Während",
-    "Statt"
+    "Wegen"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Nguyên nhân buổi hòa nhạc bị hủy do thời tiết xấu -> dùng giới từ 'Wegen' (+ Genitiv)."
   },
   {
    "type": "mcq",
    "q": "Er ging ohne Jacke spazieren, ___ der bitteren Kälte.",
    "options": [
-    "trotz",
-    "wegen",
     "während",
-    "statt"
+    "wegen",
+    "statt",
+    "trotz"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Hành động đi dạo không mặc áo ấm bất chấp cái lạnh buốt (nhượng bộ, tương phản) dùng 'trotz' (+ Genitiv)."
   },
   {
    "type": "mcq",
    "q": "Was passt in die Lücke? \"___ der gesamten Vorlesung schlief der müde Student.\"",
    "options": [
-    "Während",
     "Wegen",
-    "Trotz",
-    "Statt"
+    "Während",
+    "Statt",
+    "Trotz"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Chỉ khoảng thời gian kéo dài (trong suốt buổi giảng) dùng 'Während' (+ Genitiv)."
   },
   {
    "type": "mcq",
    "q": "Er trank ein Glas Wasser anstatt ___ teuren Weines.",
    "options": [
-    "eines",
     "einem",
+    "einer",
     "einen",
-    "einer"
+    "eines"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'Wein' giống đực (der Wein), sau 'anstatt' ở Genitiv mạo từ bất định là 'eines'."
   },
   {
@@ -71,9 +71,9 @@
    "q": "Welche Form hat das Nomen im Genitiv? \"das Dach des ___ (Haus)\"",
    "options": [
     "Hauses",
+    "Hausen",
     "Haus",
-    "Hauss",
-    "Hausen"
+    "Hauss"
    ],
    "answer": 0,
    "explain": "Danh từ đơn âm tiết 'Haus' tận cùng bằng '-s' nên nhận đuôi '-es' ở Genitiv: 'des Hauses'."

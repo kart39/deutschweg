@@ -10,12 +10,12 @@
    "type": "mcq",
    "q": "Welche indirekte Frage ist grammatisch KORREKT?",
    "options": [
-    "Können Sie mir sagen, wo der nächste Geldautomat ist?",
-    "Können Sie mir sagen, wo ist der nächste Geldautomat?",
     "Können Sie mir sagen, wo der nächste Geldautomat ist sein?",
+    "Können Sie mir sagen, wo ist der nächste Geldautomat?",
+    "Können Sie mir sagen, wo der nächste Geldautomat ist?",
     "Können Sie mir sagen, ist wo der nächste Geldautomat?"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Trong câu hỏi gián tiếp, động từ 'ist' bắt buộc phải đứng ở vị trí cuối cùng của mệnh đề: 'wo der nächste Geldautomat ist?'"
   },
   {
@@ -23,9 +23,9 @@
    "q": "Was passt in die Lücke? \"Ich möchte gerne wissen, ___ der Kurs am Montag stattfindet.\"",
    "options": [
     "ob",
-    "dass",
     "wann",
-    "wie"
+    "wie",
+    "dass"
    ],
    "answer": 0,
    "explain": "Đây là câu hỏi Có/Không (Der Kurs findet statt -> Ja/Nein), vì vậy dùng liên từ 'ob' (liệu rằng)."
@@ -34,36 +34,36 @@
    "type": "mcq",
    "q": "Welcher Satz mit Modalverb ist RICHTIG?",
    "options": [
-    "Wissen Sie, wo man hier frische Brötchen kaufen kann?",
     "Wissen Sie, wo kann man hier frische Brötchen kaufen?",
+    "Wissen Sie, wo man hier kann frische Brötchen kaufen?",
     "Wissen Sie, wo man kann hier frische Brötchen kaufen?",
-    "Wissen Sie, wo man hier kann frische Brötchen kaufen?"
+    "Wissen Sie, wo man hier frische Brötchen kaufen kann?"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Động từ khuyết thiếu 'kann' đứng ở vị trí cuối cùng sau động từ nguyên mẫu: 'kaufen kann?'"
   },
   {
    "type": "mcq",
    "q": "Darf ich Sie fragen, wie viel dieses Buch ___?",
    "options": [
-    "kostet",
-    "koste",
     "kosten",
-    "gekostet"
+    "gekostet",
+    "kostet",
+    "koste"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Chủ ngữ là 'dieses Buch' (ngôi er/sie/es), động từ chia ở cuối câu là 'kostet'."
   },
   {
    "type": "mcq",
    "q": "Welches Satzzeichen gehört an das Ende? \"Ich möchte gerne wissen, woher Sie kommen___\"",
    "options": [
-    ".",
-    "?",
     "!",
+    "?",
+    ".",
     ":"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Mệnh đề chính là câu trần thuật 'Ich möchte gerne wissen', do đó cuối câu phải là dấu chấm (.)."
   },
   {

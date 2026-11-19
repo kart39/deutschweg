@@ -10,36 +10,36 @@
    "type": "mcq",
    "q": "Wohin stellst du die Lampe? – \"Ich stelle die Lampe ___ Schreibtisch.\"",
    "options": [
-    "auf den",
-    "auf dem",
+    "in den",
     "an dem",
-    "in den"
+    "auf den",
+    "auf dem"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Câu hỏi 'Wohin?' với động từ 'stellen' yêu cầu giới từ hai cách đi với Akkusativ. Bàn là bề mặt ngang giống đực: 'auf den Schreibtisch'."
   },
   {
    "type": "mcq",
    "q": "Wo steht das Auto? – \"Das Auto steht ___ Garage.\"",
    "options": [
-    "in der",
     "in die",
     "auf der",
+    "in der",
     "an die"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Câu hỏi 'Wo?' với động từ vị trí 'stehen' yêu cầu Dativ. 'Garage' giống cái: 'in der Garage'."
   },
   {
    "type": "mcq",
    "q": "Welches Verb passt? \"Die Mutter ___ das schlafende Baby vorsichtig ins Bett.\"",
    "options": [
+    "steht",
     "legt",
     "liegt",
-    "steht",
     "sitzt"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Hành động đặt em bé nằm xuống giường (có tân ngữ trực tiếp và 'ins Bett' ở Akkusativ) dùng động từ 'legen'."
   },
   {
@@ -48,8 +48,8 @@
    "options": [
     "auf dem",
     "auf den",
-    "an das",
-    "in das"
+    "in das",
+    "an das"
    ],
    "answer": 0,
    "explain": "Động từ 'sitzen' (ở đâu? - Wo?) đòi hỏi Dativ. Sofa giống trung: 'auf dem Sofa'."
@@ -58,24 +58,24 @@
    "type": "mcq",
    "q": "Er hängt das berühmte Gemälde ___ Wand.",
    "options": [
-    "an die",
+    "in die",
     "an der",
     "auf die",
-    "in die"
+    "an die"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Hành động treo tranh lên tường (bề mặt thẳng đứng, Wohin?) dùng 'an' + Akkusativ: 'an die Wand'."
   },
   {
    "type": "mcq",
    "q": "Die Kinder spielen den ganzen Nachmittag ___ Park Fußball.",
    "options": [
-    "im",
     "ins",
-    "in den",
-    "auf den"
+    "im",
+    "auf den",
+    "in den"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Hành động đá bóng diễn ra bên trong khuôn viên công viên (vị trí - Wo?) dùng 'in + dem' = 'im Park'."
   },
   {

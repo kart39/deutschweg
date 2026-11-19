@@ -14,8 +14,8 @@
    "q": "Wo steht 'nicht' im Satz bei einer Satznegation mit einem trennbaren Verb (Präsens)?",
    "options": [
     "Direkt vor dem abgetrennten Präfix am Satzende",
-    "Auf Position 1 am Satzanfang",
     "Direkt hinter dem finiten Verb",
+    "Auf Position 1 am Satzanfang",
     "Ganz am Ende hinter dem Präfix"
    ],
    "answer": 0,
@@ -25,36 +25,36 @@
    "type": "mcq",
    "q": "Welche rhetorische Figur beschreibt eine doppelte Verneinung zur vorsichtigen Bejahung (z.B. 'keineswegs unbedeutend')?",
    "options": [
-    "Litotes",
-    "Metapher",
     "Hyperbel",
-    "Oxymoron"
+    "Oxymoron",
+    "Litotes",
+    "Metapher"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Litotes là biện pháp tu từ dùng phủ định kép để diễn tả một lời khẳng định tế nhị, nhã nhặn."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz enthält eine SONDERNEGATION (Teilnegation)?",
    "options": [
-    "Er reist nicht mit dem Zug nach Berlin, sondern fliegt.",
-    "Er reist heute nicht nach Berlin.",
     "Er kennt die Stadt Berlin nicht.",
+    "Er reist heute nicht nach Berlin.",
+    "Er reist nicht mit dem Zug nach Berlin, sondern fliegt.",
     "Er hat die Reise nicht gebucht."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'nicht mit dem Zug' là Sondernegation vì nó chỉ phủ định phương tiện đi lại, có vế đối lập sondern."
   },
   {
    "type": "mcq",
    "q": "Welches gehobene Adverb bedeutet 'dứt khoát không, đời nào' auf C1-Niveau?",
    "options": [
+    "mithin",
     "mitnichten",
-    "sicherlich",
     "immerhin",
-    "mithin"
+    "sicherlich"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'mitnichten' là trạng từ phủ định trang trọng C1 đồng nghĩa với 'keineswegs / keinesfalls'."
   },
   {
@@ -62,9 +62,9 @@
    "q": "Was drückt die Konjunktion 'geschweige denn' aus?",
    "options": [
     "Eine Steigerung des Unmöglichen nach einer Negation ('huống hồ là, nói chi đến')",
-    "Eine zeitliche Reihenfolge",
     "Eine Bedingung",
-    "Einen kausalen Grund"
+    "Einen kausalen Grund",
+    "Eine zeitliche Reihenfolge"
    ],
    "answer": 0,
    "explain": "'geschweige denn' dùng sau một câu phủ định để chỉ sự việc còn bất khả thi hơn nữa ('huống hồ là')."
@@ -73,12 +73,12 @@
    "type": "mcq",
    "q": "Welches Verb beinhaltet bereits eine implizite Negation?",
    "options": [
-    "leugnen",
-    "bestätigen",
     "bejahen",
-    "belegen"
+    "belegen",
+    "bestätigen",
+    "leugnen"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'leugnen' (chối bỏ, phủ nhận) tự thân nó đã mang ý nghĩa phủ định ngầm."
   },
   {

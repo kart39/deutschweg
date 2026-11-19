@@ -108,9 +108,9 @@
   {
    "q": "Was erleben deutsche Städte laut Text?",
    "options": [
-    "Einen Rückgang des Radverkehrs",
+    "Ein Verbot von Fahrrädern",
     "Einen beispiellosen Fahrrad-Boom",
-    "Ein Verbot von Fahrrädern"
+    "Einen Rückgang des Radverkehrs"
    ],
    "answer": 1
   },

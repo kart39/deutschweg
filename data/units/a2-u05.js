@@ -364,19 +364,19 @@
       "q": "Was trägt Nina heute?",
       "options": [
        "Eine rote Jacke.",
-       "Eine graue Strickjacke.",
-       "Ein schwarzes Kleid."
+       "Ein schwarzes Kleid.",
+       "Eine graue Strickjacke."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was trägt die Frau, die telefoniert?",
       "options": [
-       "Einen schwarzen Rucksack.",
        "Eine kleine blaue Handtasche.",
-       "Einen grünen Schal."
+       "Einen grünen Schal.",
+       "Einen schwarzen Rucksack."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was macht Lara, nachdem sie Nina gefunden hat?",
@@ -390,11 +390,11 @@
      {
       "q": "Wer kommt zehn Minuten später?",
       "options": [
-       "Lara.",
        "David.",
+       "Lara.",
        "Nina."
       ],
-      "answer": 1
+      "answer": 0
      }
     ],
     "glossary": []
@@ -409,33 +409,33 @@
      "type": "mcq",
      "q": "Chọn cụm đúng với {{Mantel}} làm chủ ngữ.",
      "options": [
-      "ein schwarzer Mantel",
-      "ein schwarze Mantel",
+      "ein schwarzen Mantel",
       "ein schwarzes Mantel",
-      "ein schwarzen Mantel"
+      "ein schwarze Mantel",
+      "ein schwarzer Mantel"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Ein}} không có đuôi ở Nominativ đực. Tính từ dùng {{-er}}."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm hoàn thành {{Er trägt ___}}.",
      "options": [
-      "ein schwarzer Mantel.",
       "einen schwarzer Mantel.",
-      "einen schwarzen Mantel.",
-      "einem schwarzen Mantel."
+      "ein schwarzer Mantel.",
+      "einem schwarzen Mantel.",
+      "einen schwarzen Mantel."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Sau {{trägt}}, cụm chỉ món đồ là tân ngữ Akkusativ. Dùng {{einen schwarzen Mantel}}."
     },
     {
      "type": "mcq",
      "q": "Chọn cách nói ‘với một chiếc túi nhỏ’.",
      "options": [
-      "mit eine kleine Handtasche",
-      "mit einer kleinen Handtasche",
       "mit einer kleine Handtasche",
+      "mit einer kleinen Handtasche",
+      "mit eine kleine Handtasche",
       "mit einem kleinen Handtasche"
      ],
      "answer": 1,
@@ -457,12 +457,12 @@
      "type": "mcq",
      "q": "Câu nào dùng tính từ đúng sau {{sein}}?",
      "options": [
-      "Die Jacke ist gestreift.",
-      "Die Jacke ist gestreifte.",
       "Die Jacke ist gestreiften.",
-      "Die Jacke ist gestreiftes."
+      "Die Jacke ist gestreift.",
+      "Die Jacke ist gestreiftes.",
+      "Die Jacke ist gestreifte."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Sau {{ist}} khi mô tả chủ ngữ, dùng dạng gốc {{gestreift}}."
     },
     {
@@ -1008,8 +1008,8 @@
      {
       "q": "Welche Jacke ist am bequemsten?",
       "options": [
-       "Die Winterjacke.",
        "Die bunte Regenjacke.",
+       "Die Winterjacke.",
        "Die schlichte Strickjacke."
       ],
       "answer": 2
@@ -1018,19 +1018,19 @@
       "q": "Was trägt Nina am liebsten?",
       "options": [
        "Ihre grüne Strickjacke.",
-       "Die Winterjacke von Paul.",
-       "Die bunte Regenjacke."
+       "Die bunte Regenjacke.",
+       "Die Winterjacke von Paul."
       ],
       "answer": 0
      },
      {
       "q": "Welches Foto gefällt der Gruppe am besten?",
       "options": [
+       "Das Foto ohne Jacken.",
        "Das erste Foto.",
-       "Das letzte Foto.",
-       "Das Foto ohne Jacken."
+       "Das letzte Foto."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1045,24 +1045,24 @@
      "type": "mcq",
      "q": "Cách nói nào đúng cho ‘cởi mở hơn trước’?",
      "options": [
-      "so offen als früher",
       "offener als früher",
+      "am offensten als früher",
       "offen wie früher",
-      "am offensten als früher"
+      "so offen als früher"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Dùng {{offener}} và {{als}} khi so sánh hơn."
     },
     {
      "type": "mcq",
      "q": "Dạng so sánh nhất của {{gut}} trong {{Das gefällt mir ___}} là gì?",
      "options": [
-      "am gutesten.",
+      "am besten.",
       "mehr.",
-      "besser.",
-      "am besten."
+      "am gutesten.",
+      "besser."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Ba dạng là {{gut}}, {{besser}} và {{am besten}}."
     },
     {
@@ -1070,8 +1070,8 @@
      "q": "Câu nào nói hai người kiên nhẫn ngang nhau?",
      "options": [
       "Nina ist so geduldig wie Lea.",
-      "Nina ist geduldiger als Lea.",
       "Nina ist weniger geduldig als Lea.",
+      "Nina ist geduldiger als Lea.",
       "Nina ist am geduldigsten."
      ],
      "answer": 0,
@@ -1081,24 +1081,24 @@
      "type": "mcq",
      "q": "Dạng đúng của {{groß}} ở so sánh hơn là gì?",
      "options": [
-      "großer",
       "größter",
       "größer",
-      "am größten"
+      "am größten",
+      "großer"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Trong so sánh hơn, {{groß}} đổi thành {{größer}}."
     },
     {
      "type": "mcq",
      "q": "Bạn thích đi giày thể thao nhất. Chọn câu đúng.",
      "options": [
-      "Ich trage Turnschuhe am meisten gern.",
       "Am liebsten trage ich Turnschuhe.",
-      "Ich trage die Turnschuhe besser.",
-      "Ich trage Turnschuhe genauso gern wie Stiefel."
+      "Ich trage Turnschuhe am meisten gern.",
+      "Ich trage Turnschuhe genauso gern wie Stiefel.",
+      "Ich trage die Turnschuhe besser."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Dùng {{am liebsten}} để nói điều mình thích làm nhất."
     },
     {
@@ -1641,9 +1641,9 @@
      {
       "q": "Welche Jacke kostet mit Versand am wenigsten?",
       "options": [
-       "Die blaue.",
+       "Die schwarze.",
        "Die grüne.",
-       "Die schwarze."
+       "Die blaue."
       ],
       "answer": 1
      },
@@ -1651,19 +1651,19 @@
       "q": "Wie lang ist Lenas alte Jacke?",
       "options": [
        "65 Zentimeter.",
-       "69 Zentimeter.",
-       "73 Zentimeter."
+       "73 Zentimeter.",
+       "69 Zentimeter."
       ],
       "answer": 0
      },
      {
       "q": "Warum passt die grüne Jacke zu Lenas Wunsch?",
       "options": [
+       "Sie ist länger als die alte und bleibt unter 46 Euro.",
        "Sie ist am längsten und kostet 49 Euro.",
-       "Sie ist so lang wie die alte Jacke.",
-       "Sie ist länger als die alte und bleibt unter 46 Euro."
+       "Sie ist so lang wie die alte Jacke."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Was bekommt Lena am nächsten Tag?",
@@ -1687,12 +1687,12 @@
      "type": "mcq",
      "q": "Chọn cấu trúc ‘áo xanh lá dài hơn áo xanh dương’.",
      "options": [
-      "Die grüne Jacke ist länger als die blaue.",
-      "Die grüne Jacke ist länger wie die blaue.",
+      "Die grüne Jacke ist genauso lang als die blaue.",
       "Die grüne Jacke ist am längsten als die blaue.",
-      "Die grüne Jacke ist genauso lang als die blaue."
+      "Die grüne Jacke ist länger wie die blaue.",
+      "Die grüne Jacke ist länger als die blaue."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Dùng {{länger als}} khi nêu đối tượng so sánh."
     },
     {
@@ -1700,11 +1700,11 @@
      "q": "Chọn cụm ‘một mẫu rẻ hơn’.",
      "options": [
       "ein günstiger Modell",
-      "ein günstigere Modell",
       "ein günstigeres Modell",
+      "ein günstigere Modell",
       "einen günstigeren Modell"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Günstiger}} là so sánh hơn. Với {{ein Modell}}, thêm đuôi {{-es}}: {{ein günstigeres Modell}}."
     },
     {
@@ -1712,11 +1712,11 @@
      "q": "Câu nào nói thời gian giao ở đây ngắn nhất?",
      "options": [
       "Die Lieferzeit ist hier kürzer.",
+      "Die Lieferzeit ist hier länger.",
       "Die Lieferzeit ist hier am kürzesten.",
-      "Hier ist die Lieferzeit genauso kurz.",
-      "Die Lieferzeit ist hier länger."
+      "Hier ist die Lieferzeit genauso kurz."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Dùng {{am kürzesten}} để nói mức ngắn nhất."
     },
     {
@@ -1735,12 +1735,12 @@
      "type": "mcq",
      "q": "Câu nào có nghĩa ‘Chiếc áo xanh dương cỡ M hết hàng’?",
      "options": [
-      "Die blaue Jacke in M ist ausverkauft.",
-      "Die blaue Jacke in M ist sofort lieferbar.",
       "Die blaue Jacke in M liegt im Warenkorb.",
-      "Ich schicke die blaue Jacke in M zurück."
+      "Die blaue Jacke in M ist sofort lieferbar.",
+      "Ich schicke die blaue Jacke in M zurück.",
+      "Die blaue Jacke in M ist ausverkauft."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Ausverkauft}} nghĩa là đã hết hàng."
     },
     {
@@ -2345,29 +2345,29 @@
      {
       "q": "Warum kauft Sabine K. ihre Kleidung lieber im Internet?",
       "options": [
-       "Weil es in Köln überhaupt keine Kleidungsgeschäfte gibt.",
        "Weil sie wenig Zeit hat, online eine größere Auswahl findet und alles in Ruhe zu Hause anprobieren kann.",
+       "Weil es in Köln überhaupt keine Kleidungsgeschäfte gibt.",
        "Weil sie gern jeden Tag zur Post geht."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welchen Nachteil beim Online-Shopping nennt Martin W. in seinem Beitrag?",
       "options": [
-       "Die Kleidung im Internet ist immer dreimal teurer als im Geschäft.",
+       "Man kann das Material vorher nicht anfassen, und viele Rücksendungen (Retouren) produzieren viel Müll und schaden der Umwelt.",
        "Man darf online bestellte Kleidung in Deutschland nie zurückschicken.",
-       "Man kann das Material vorher nicht anfassen, und viele Rücksendungen (Retouren) produzieren viel Müll und schaden der Umwelt."
+       "Die Kleidung im Internet ist immer dreimal teurer als im Geschäft."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Was schätzt Martin W. am Einkauf im lokalen Geschäft besonders?",
       "options": [
-       "Er bekommt eine persönliche Beratung, kann die Kleidung sofort anprobieren und direkt mitnehmen.",
+       "Er bekommt jedes Mal einen Gutschein über 50 Euro.",
        "Er muss dort nichts bezahlen.",
-       "Er bekommt jedes Mal einen Gutschein über 50 Euro."
+       "Er bekommt eine persönliche Beratung, kann die Kleidung sofort anprobieren und direkt mitnehmen."
       ],
-      "answer": 0
+      "answer": 2
      }
     ],
     "glossary": []
@@ -2382,22 +2382,22 @@
      "type": "mcq",
      "q": "Chọn đuôi tính từ đúng sau mạo từ không xác định „ein“ ở cách Nominativ giống Đực và giống Trung: „Das ist ein schick___ Mantel (der) und ein modern___ Hemd (das).“",
      "options": [
+      "schicken ... modernen",
       "schicke ... moderne",
       "schicker ... modernes",
-      "schicken ... modernen",
       "schickes ... moderner"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Sau „ein“ không có đuôi ở Nominativ: tính từ phải mang đuôi của „der“ (-er) cho giống Đực („ein schicker Mantel“) và đuôi của „das“ (-es) cho giống Trung („ein modernes Hemd“)."
     },
     {
      "type": "mcq",
      "q": "Chọn đuôi tính từ đúng ở cách Akkusativ sau „einen / ein / eine“: „Er trägt einen dunkelblau___ Anzug (der), ein weiß___ Hemd (das) und eine rot___ Krawatte (die).“",
      "options": [
-      "dunkelblauer ... weißes ... rote",
-      "dunkelblauen ... weißes ... rote",
       "dunkelblauen ... weiße ... roten",
-      "dunkelblaue ... weißes ... rote"
+      "dunkelblauen ... weißes ... rote",
+      "dunkelblaue ... weißes ... rote",
+      "dunkelblauer ... weißes ... rote"
      ],
      "answer": 1,
      "explain": "Ở cách Akkusativ sau động từ „trägt“: giống Đực là „einen dunkelblauen Anzug“ (-en); giống Trung là „ein weißes Hemd“ (-es); giống Cái là „eine rote Krawatte“ (-e)."
@@ -2406,24 +2406,24 @@
      "type": "mcq",
      "q": "Khi muốn nói một người có „mái tóc màu vàng“, tiếng Đức dùng tính từ nào?",
      "options": [
-      "gelbe Haare",
       "blonde Haare",
+      "gelbe Haare",
       "goldene Haare",
       "orangene Haare"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Với màu tóc vàng tự nhiên của người Châu Âu, tiếng Đức luôn dùng tính từ „blond“ („blonde Haare“), không bao giờ dùng „gelb“!"
     },
     {
      "type": "mcq",
      "q": "Chọn đuôi tính từ đúng sau mạo từ sở hữu ở số nhiều: „Meine neu___ Nachbarn haben zwei klein___ Kinder.“",
      "options": [
-      "neue ... kleine",
-      "neuen ... kleine",
+      "neuer ... kleiner",
       "neuen ... kleinen",
-      "neuer ... kleiner"
+      "neuen ... kleine",
+      "neue ... kleine"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Sau mạo từ sở hữu ở số nhiều („Meine“), tính từ luôn có đuôi „-en“ („Meine neuen Nachbarn“). Còn sau số đếm („zwei“) không có mạo từ, tính từ ở Nominativ/Akkusativ số nhiều lấy đuôi „-e“ („zwei kleine Kinder“)."
     },
     {
@@ -2591,48 +2591,48 @@
      "type": "mcq",
      "q": "Chọn dạng So sánh hơn (Komparativ) và So sánh nhất (Superlativ) đúng của tính từ bất quy tắc „gut“ (tốt):",
      "options": [
-      "guter – am gutesten",
-      "besser – am besten",
       "mehr – am meisten",
-      "lieber – am liebsten"
+      "guter – am gutesten",
+      "lieber – am liebsten",
+      "besser – am besten"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Ba cấp độ so sánh của „gut“ là bất quy tắc hoàn toàn: „gut – besser – am besten“."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng So sánh hơn (Komparativ) đúng của hai tính từ „teuer“ (đắt) và „hoch“ (cao):",
      "options": [
-      "teuerer / hocher",
-      "teurer / höher",
+      "teuerer / höher",
       "teurer / höcher",
-      "teuerer / höher"
+      "teurer / höher",
+      "teuerer / hocher"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Khi sang Komparativ: „teuer“ lược bỏ chữ e trước r thành „teurer“; còn „hoch“ nhận Umlaut và đổi „ch“ thành „h“: „höher“ (nhưng Superlativ là „am höchsten“)."
     },
     {
      "type": "mcq",
      "q": "Chọn liên từ so sánh đúng cho hai câu: „Mein Bruder ist genauso alt ___ ich, aber er ist fünf Zentimeter größer ___ ich.“",
      "options": [
-      "als ... wie",
       "wie ... als",
-      "wie ... wie",
-      "als ... als"
+      "als ... als",
+      "als ... wie",
+      "wie ... wie"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "So sánh ngang bằng („genauso alt“) luôn đi với „wie“; so sánh hơn („größer“) luôn đi với „als“."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng So sánh nhất đúng của tính từ „groß“ (to/cao):",
      "options": [
-      "am großesten",
       "am größten",
+      "am grosten",
       "am größesten",
-      "am grosten"
+      "am großesten"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Vì „groß“ kết thúc bằng âm „ß“, ở dạng So sánh nhất nó rút gọn thành „am größten“ (không thêm -esten)."
     },
     {
@@ -2798,24 +2798,24 @@
      "type": "mcq",
      "q": "Chọn cụm tính từ so sánh hơn đứng trước danh từ đúng ngữ pháp: „Größe S ist mir zu klein. Haben Sie auch ___ größer___ Jacke?“",
      "options": [
-      "eine größer",
       "eine größere",
-      "einer größeren",
-      "ein größeres"
+      "eine größer",
+      "ein größeres",
+      "einer größeren"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„die Jacke“ là danh từ giống Cái ở cách Akkusativ sau „Haben Sie“. Dạng so sánh hơn „größer“ đứng trước danh từ phải cộng thêm đuôi tính từ „-e“: „eine größere Jacke“."
     },
     {
      "type": "mcq",
      "q": "Khi mua hàng trên trang web tiếng Đức, nút „In den Warenkorb legen“ có nghĩa là gì?",
      "options": [
-      "Xóa tài khoản khách hàng",
-      "Thêm sản phẩm vào giỏ hàng",
       "Gửi trả lại hàng qua bưu điện",
-      "Đăng xuất khỏi trang web"
+      "Đăng xuất khỏi trang web",
+      "Thêm sản phẩm vào giỏ hàng",
+      "Xóa tài khoản khách hàng"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„der Warenkorb“ là giỏ hàng trực tuyến; „in den Warenkorb legen“ là bỏ sản phẩm vào giỏ hàng."
     },
     {
@@ -2823,23 +2823,23 @@
      "q": "Chọn dạng Partizip II đúng của động từ KHÔNG tách „überweisen“ (chuyển khoản tiền):",
      "options": [
       "übergeweisen",
+      "überweist",
       "überwiesen",
-      "geüberwiesen",
-      "überweist"
+      "geüberwiesen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„überweisen“ có tiền tố không tách „über-“ và là động từ mạnh (ei → ie): „hat überwiesen“ (không có ge-!)."
     },
     {
      "type": "mcq",
      "q": "Khi bạn thử một món hàng đặt qua mạng, thấy rất ưng ý và quyết định giữ lại dùng (không gửi trả lại), bạn dùng động từ nào?",
      "options": [
-      "zurückschicken",
       "behalten",
+      "verlieren",
       "reklamieren",
-      "verlieren"
+      "zurückschicken"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„behalten“ (+ Akkusativ) có nghĩa là giữ lại để dùng; trái nghĩa với „zurückschicken“ (gửi trả lại)."
     },
     {

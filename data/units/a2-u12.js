@@ -355,19 +355,19 @@
       "q": "Wer hat Mara zuerst zum Kochen eingeladen?",
       "options": [
        "Nele.",
-       "Tom.",
-       "Lea."
+       "Lea.",
+       "Tom."
       ],
       "answer": 0
      },
      {
       "q": "Was hat Tom Mara gezeigt?",
       "options": [
+       "Wie man eine Nachricht schreibt.",
        "Wie sie nach Hause kommt.",
-       "Wie man das Gemüse schneidet.",
-       "Wie man eine Nachricht schreibt."
+       "Wie man das Gemüse schneidet."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was macht Mara inzwischen selbst?",
@@ -391,10 +391,10 @@
      "type": "mcq",
      "q": "Chọn đại từ quan hệ trong câu “Das ist der Freund, ___ mich versteht.”",
      "options": [
-      "den",
+      "die",
       "der",
-      "das",
-      "die"
+      "den",
+      "das"
      ],
      "answer": 1,
      "explain": "{{der Freund}} là giống đực. Đại từ là chủ ngữ của {{versteht}}, nên dùng {{der}}."
@@ -403,48 +403,48 @@
      "type": "mcq",
      "q": "Chọn câu đúng có nghĩa “Đây là người bạn hay gọi cho mình”.",
      "options": [
-      "Das ist der Freund, der mich oft ruft an.",
-      "Das ist der Freund, der anruft mich oft.",
+      "Das ist der Freund, der mich oft anruft.",
       "Das ist der Freund, den mich oft anruft.",
-      "Das ist der Freund, der mich oft anruft."
+      "Das ist der Freund, der anruft mich oft.",
+      "Das ist der Freund, der mich oft ruft an."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Trong mệnh đề quan hệ, {{anruft}} đứng cuối và được viết liền. Chủ ngữ thay cho {{der Freund}} là {{der}}."
     },
     {
      "type": "mcq",
      "q": "Đại từ nào thay cho “die Freunde” và làm chủ ngữ của mệnh đề quan hệ?",
      "options": [
-      "die",
-      "der",
       "den",
+      "der",
+      "die",
       "das"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Với danh từ số nhiều, đại từ quan hệ ở {{Nominativ}} là {{die}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có cả hai dấu phẩy đúng vị trí.",
      "options": [
-      "Meine Freundin die gut zuhört, wohnt in Bonn.",
-      "Meine Freundin, die gut zuhört wohnt in Bonn.",
+      "Meine Freundin die, gut zuhört wohnt in Bonn.",
       "Meine Freundin, die gut zuhört, wohnt in Bonn.",
-      "Meine Freundin die, gut zuhört wohnt in Bonn."
+      "Meine Freundin die gut zuhört, wohnt in Bonn.",
+      "Meine Freundin, die gut zuhört wohnt in Bonn."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Mệnh đề {{die gut zuhört}} nằm giữa mệnh đề chính, nên có dấu phẩy trước và sau."
     },
     {
      "type": "mcq",
      "q": "Câu nào cho biết người nói thấy nhẹ nhõm?",
      "options": [
-      "Ich bin enttäuscht.",
-      "Ich bin erleichtert.",
       "Ich bin einsam.",
-      "Ich bin nervös."
+      "Ich bin enttäuscht.",
+      "Ich bin nervös.",
+      "Ich bin erleichtert."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{erleichtert}} diễn tả cảm giác nhẹ nhõm."
     },
     {
@@ -620,12 +620,12 @@
      "type": "mcq",
      "q": "Trong “Das ist die Freundin, die mir hilft.”, từ nào làm chủ ngữ của “hilft”?",
      "options": [
-      "mir",
       "Freundin",
-      "Das",
-      "die đứng sau dấu phẩy"
+      "die đứng sau dấu phẩy",
+      "mir",
+      "Das"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Đại từ quan hệ {{die}} thay cho {{die Freundin}} và làm chủ ngữ của {{hilft}}."
     }
    ]
@@ -988,20 +988,20 @@
      {
       "q": "Wann haben die beiden telefoniert?",
       "options": [
-       "Am Donnerstag vor sechs.",
        "Am Freitag.",
-       "Am Samstag."
+       "Am Samstag.",
+       "Am Donnerstag vor sechs."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was machen sie künftig bei einer Absage?",
       "options": [
+       "Sie rufen an.",
        "Sie warten eine halbe Stunde.",
-       "Sie schicken nur ein Foto.",
-       "Sie rufen an."
+       "Sie schicken nur ein Foto."
       ],
-      "answer": 2
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1016,12 +1016,12 @@
      "type": "mcq",
      "q": "Chọn đại từ quan hệ trong câu “Das ist der Freund, ___ ich angerufen habe.”",
      "options": [
-      "der",
       "die",
       "den",
+      "der",
       "das"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{ich}} là chủ ngữ. Đại từ thay {{der Freund}} và làm tân ngữ, nên dùng {{den}}."
     },
     {
@@ -1029,9 +1029,9 @@
      "q": "Chọn câu có nghĩa “Đây là người bạn mà mình gọi điện”.",
      "options": [
       "Das ist der Freund, den ich anrufe.",
-      "Das ist der Freund, der mich anruft.",
       "Das ist der Freund, den ruft mich an.",
-      "Das ist der Freund, der ich anrufe."
+      "Das ist der Freund, der ich anrufe.",
+      "Das ist der Freund, der mich anruft."
      ],
      "answer": 0,
      "explain": "Người gọi là {{ich}}, người được gọi là {{den}}. Dạng liền {{anrufe}} đứng cuối."
@@ -1042,22 +1042,22 @@
      "options": [
       "Das ist die Nachricht, hast du geschickt die.",
       "Das ist die Nachricht, die du hast geschickt.",
-      "Das ist die Nachricht, die geschickt du hast.",
-      "Das ist die Nachricht, die du geschickt hast."
+      "Das ist die Nachricht, die du geschickt hast.",
+      "Das ist die Nachricht, die geschickt du hast."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "Trong mệnh đề quan hệ, {{geschickt hast}} đứng cuối với trợ động từ {{hast}} ở vị trí tận cùng."
     },
     {
      "type": "mcq",
      "q": "Trong câu “Das ist die Nachricht, die du geschickt hast.”, đại từ quan hệ có vai trò gì?",
      "options": [
-      "Chủ ngữ của mệnh đề quan hệ",
-      "Tân ngữ trực tiếp của mệnh đề quan hệ",
       "Động từ của mệnh đề chính",
-      "Trạng ngữ thời gian"
+      "Chủ ngữ của mệnh đề quan hệ",
+      "Trạng ngữ thời gian",
+      "Tân ngữ trực tiếp của mệnh đề quan hệ"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{du}} là người gửi. Từ {{die}} thay cho tin nhắn được gửi nên là tân ngữ trực tiếp."
     },
     {
@@ -1065,11 +1065,11 @@
      "q": "Câu nào thể hiện lời xin lỗi?",
      "options": [
       "Ich bin um sechs im Café.",
+      "Wir brauchen einen neuen Termin.",
       "Ich habe deine Nachricht gehört.",
-      "Es tut mir leid, dass ich nicht angerufen habe.",
-      "Wir brauchen einen neuen Termin."
+      "Es tut mir leid, dass ich nicht angerufen habe."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Es tut mir leid}} là cách mở đầu lời xin lỗi."
     },
     {
@@ -1245,12 +1245,12 @@
      "type": "mcq",
      "q": "Chọn đại từ trong câu “Das ist der Konflikt, ___ uns lange beschäftigt hat.”",
      "options": [
-      "den",
-      "der",
+      "das",
       "die",
-      "das"
+      "den",
+      "der"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{uns}} là tân ngữ. Đại từ thay {{der Konflikt}} là chủ ngữ, nên có dạng {{der}}."
     }
    ]
@@ -1610,20 +1610,20 @@
      {
       "q": "Was machten sie immer, wenn sie am Wochenende Zeit hatten?",
       "options": [
-       "Sie besuchten sich.",
        "Sie suchten eine neue Wohnung.",
-       "Sie gingen beide zur Arbeit."
+       "Sie gingen beide zur Arbeit.",
+       "Sie besuchten sich."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Wo wohnen die beiden seit März?",
       "options": [
+       "Beide in Bonn.",
        "Beide in Köln.",
-       "Alex in Köln und Linh in Bonn.",
-       "Beide in Bonn."
+       "Alex in Köln und Linh in Bonn."
       ],
-      "answer": 2
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1638,60 +1638,60 @@
      "type": "mcq",
      "q": "Chọn liên từ: “___ wir uns zum ersten Mal trafen, war ich nervös.”",
      "options": [
-      "Wenn",
       "Ob",
-      "Als",
-      "Wann"
+      "Wenn",
+      "Wann",
+      "Als"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{zum ersten Mal}} xác định một lần gặp cụ thể trong quá khứ, nên dùng {{als}}."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm diễn tả việc lặp lại tại nhiều buổi gặp trong quá khứ.",
      "options": [
-      "Immer wenn wir uns trafen",
-      "Als wir uns zum ersten Mal trafen",
       "Als wir uns am 4. Mai trafen",
+      "Als wir uns zum ersten Mal trafen",
+      "Immer wenn wir uns trafen",
       "Als wir uns zum letzten Mal trafen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{Immer wenn}} chỉ tình huống xảy ra lặp lại."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có trật tự đúng sau mệnh đề với als.",
      "options": [
-      "Als war ich neu hier, Linh hat mich eingeladen.",
-      "Als ich war neu hier, hat Linh mich eingeladen.",
       "Als ich neu hier war, Linh hat mich eingeladen.",
-      "Als ich neu hier war, hat Linh mich eingeladen."
+      "Als ich war neu hier, hat Linh mich eingeladen.",
+      "Als ich neu hier war, hat Linh mich eingeladen.",
+      "Als war ich neu hier, Linh hat mich eingeladen."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{war}} đứng cuối mệnh đề phụ. Sau dấu phẩy, mệnh đề chính bắt đầu bằng {{hat}}."
     },
     {
      "type": "mcq",
      "q": "Vì sao dùng als trong “Als ich in Bonn wohnte, sah ich Lea jeden Freitag.”?",
      "options": [
-      "Vì mệnh đề phụ nói về mỗi thứ Sáu riêng lẻ.",
       "Vì mệnh đề phụ nói về một giai đoạn xác định trong quá khứ.",
+      "Vì mệnh đề phụ nói về mỗi thứ Sáu riêng lẻ.",
       "Vì động từ chính ở thì hiện tại.",
       "Vì hai người chỉ gặp nhau đúng một lần."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{Als ich in Bonn wohnte}} nêu một giai đoạn. Trong giai đoạn ấy, việc gặp Lea lặp lại vào các thứ Sáu."
     },
     {
      "type": "mcq",
      "q": "Câu nào nói hai người dọn về sống cùng nhau?",
      "options": [
-      "Sie haben sich getrennt.",
-      "Sie haben sich zum ersten Mal gesehen.",
+      "Sie haben zusammen gekocht.",
       "Sie sind zusammengezogen.",
-      "Sie haben zusammen gekocht."
+      "Sie haben sich zum ersten Mal gesehen.",
+      "Sie haben sich getrennt."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{zusammenziehen}} nghĩa là dọn về sống cùng nhau."
     },
     {
@@ -1868,8 +1868,8 @@
      "options": [
       "Wenn – als",
       "Als – wenn",
-      "Als – als",
-      "Wenn – wenn"
+      "Wenn – wenn",
+      "Als – als"
      ],
      "answer": 1,
      "explain": "Việc chuyển đến Bonn là một sự kiện cụ thể, dùng {{als}}. Các lần gọi khi cảm thấy cô đơn lặp lại, dùng {{wenn}}."
@@ -2188,29 +2188,29 @@
      {
       "q": "Worüber streiten sich Paare und Mitbewohner laut dem Text am häufigsten?",
       "options": [
-       "Über Politik und Geschichte.",
        "Über kleine Dinge im Alltag wie schmutziges Geschirr, Unpünktlichkeit, Geld oder die Zeit am Smartphone.",
-       "Über das Wetter im Sommer."
+       "Über das Wetter im Sommer.",
+       "Über Politik und Geschichte."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was sollte man laut Dr. Elena Bergmann zuerst tun, wenn man sehr wütend ist?",
       "options": [
-       "Man sollte sofort laut schreien und die Tür zuschlagen.",
+       "Man sollte sofort aus der Wohnung ausziehen.",
        "Man sollte tief durchatmen und zehn Minuten warten, bevor man spricht.",
-       "Man sollte sofort aus der Wohnung ausziehen."
+       "Man sollte sofort laut schreien und die Tür zuschlagen."
       ],
       "answer": 1
      },
      {
       "q": "Welche positive Wirkung hat es, wenn man einen Konflikt fair löst und sich wieder verträgt?",
       "options": [
-       "Es stärkt das Vertrauen in der Beziehung.",
        "Man muss nie wieder im Haushalt helfen.",
-       "Man bekommt Geld vom Psychologen."
+       "Man bekommt Geld vom Psychologen.",
+       "Es stärkt das Vertrauen in der Beziehung."
       ],
-      "answer": 0
+      "answer": 2
      }
     ],
     "glossary": []
@@ -2225,12 +2225,12 @@
      "type": "mcq",
      "q": "Chọn liên từ đúng cho sự kiện xảy ra 1 lần duy nhất trong quá khứ: „___ ich vor zwei Jahren zum ersten Mal nach Deutschland gekommen bin, konnte ich nur wenig Deutsch sprechen.“",
      "options": [
-      "Wenn",
-      "Als",
       "Ob",
-      "Weil"
+      "Weil",
+      "Als",
+      "Wenn"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Việc „đến nước Đức lần đầu tiên cách đây 2 năm“ là một cột mốc xảy ra ĐÚNG 1 LẦN DUY NHẤT trong quá khứ (einmalig), nên bắt buộc dùng liên từ „Als“."
     },
     {
@@ -2238,21 +2238,21 @@
      "q": "Chọn liên từ đúng cho sự việc lặp đi lặp lại nhiều lần trong quá khứ: „Früher, immer ___ mein Vater von einer Geschäftsreise zurückgekommen ist, hat er uns Geschenke mitgebracht.“",
      "options": [
       "als",
+      "ob",
       "wenn",
-      "dass",
-      "ob"
+      "dass"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Trong quá khứ, khi hành động LẶP ĐI LẶP LẠI NHIỀU LẦN (dấu hiệu „immer ...“ = mỗi khi), ta bắt buộc dùng „wenn“ („immer wenn“)."
     },
     {
      "type": "mcq",
      "q": "Chọn giới từ đúng đi kèm với cụm từ „stolz sein“ (tự hào về) và „Angst haben“ (sợ hãi trước):",
      "options": [
-      "stolz über (+ Akk.) / Angst für (+ Akk.)",
+      "stolz vor (+ Dat.) / Angst über (+ Akk.)",
       "stolz auf (+ Akk.) / Angst vor (+ Dat.)",
-      "stolz mit (+ Dat.) / Angst auf (+ Akk.)",
-      "stolz vor (+ Dat.) / Angst über (+ Akk.)"
+      "stolz über (+ Akk.) / Angst für (+ Akk.)",
+      "stolz mit (+ Dat.) / Angst auf (+ Akk.)"
      ],
      "answer": 1,
      "explain": "Hai cấu trúc giới từ cảm xúc rất quan trọng: „stolz sein auf + Akkusativ“ (tự hào về ai/điều gì) và „Angst haben vor + Dativ“ (sợ hãi trước ai/cái gì)."
@@ -2261,10 +2261,10 @@
      "type": "mcq",
      "q": "Danh từ „das Heimweh“ có nghĩa là gì?",
      "options": [
-      "Đau đầu khi ở nhà",
+      "Đường đi về nhà",
       "Nỗi nhớ nhà, nhớ quê hương",
-      "Bài tập về nhà",
-      "Đường đi về nhà"
+      "Đau đầu khi ở nhà",
+      "Bài tập về nhà"
      ],
      "answer": 1,
      "explain": "„das Heimweh“ (Heim = mái nhà/quê hương + weh = đau đáu) là nỗi nhớ nhà, nhớ quê hương khi đi xa."
@@ -2437,24 +2437,24 @@
      "type": "mcq",
      "q": "Chọn đại từ quan hệ đúng để điền vào hai câu sau:\n1) „Das ist der neue Kollege (der), ___ aus München kommt.“\n2) „Das ist der neue Kollege (der), ___ ich gestern im Büro getroffen habe.“",
      "options": [
-      "1) der / 2) der",
-      "1) der / 2) den",
       "1) den / 2) der",
-      "1) dem / 2) den"
+      "1) der / 2) der",
+      "1) dem / 2) den",
+      "1) der / 2) den"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Danh từ được bổ nghĩa là „der Kollege“ (giống Đực). Ở câu 1, đại từ quan hệ làm Chủ ngữ (Nominativ) của động từ „kommt“ → dùng „der“. Ở câu 2, mệnh đề quan hệ đã có chủ ngữ „ich“, nên đại từ quan hệ làm Tân ngữ (Akkusativ) của „getroffen habe“ → đổi thành „den“!"
     },
     {
      "type": "mcq",
      "q": "Chọn đại từ quan hệ đúng cho danh từ giống Trung „das Buch“ ở cả Nominativ và Akkusativ:\n„Wo ist das Buch, ___ auf dem Tisch lag und ___ du mir zum Geburtstag geschenkt hast?“",
      "options": [
+      "die ... die",
       "der ... den",
       "das ... das",
-      "was ... dass",
-      "die ... die"
+      "was ... dass"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Với danh từ giống Trung („das Buch“), đại từ quan hệ ở cả Nominativ và Akkusativ đều là „das“ (1 chữ s, không bao giờ dùng „dass“ 2 chữ s cho mệnh đề quan hệ!)."
     },
     {
@@ -2462,23 +2462,23 @@
      "q": "Chọn mệnh đề quan hệ có vị trí động từ ĐÚNG ngữ pháp:",
      "options": [
       "Ich suche eine Wohnung, die hat einen großen Balkon.",
-      "Ich suche eine Wohnung, die einen großen Balkon hat.",
+      "Ich suche eine Wohnung, welche hat einen großen Balkon.",
       "Ich suche eine Wohnung, die haben einen großen Balkon.",
-      "Ich suche eine Wohnung, welche hat einen großen Balkon."
+      "Ich suche eine Wohnung, die einen großen Balkon hat."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Mệnh đề quan hệ luôn là một Mệnh đề phụ (Nebensatz), vì vậy động từ đã chia („hat“) bắt buộc phải đứng ở vị trí cuối cùng của câu: „..., die einen großen Balkon hat.“"
     },
     {
      "type": "mcq",
      "q": "Động từ „vertrauen“ (tin tưởng ai) và „zuhören“ (lắng nghe ai) luôn đi với tân ngữ ở cách nào?",
      "options": [
-      "Akkusativ (Ich vertraue dich und höre dich zu.)",
       "Dativ (Ich vertraue dir und höre dir zu.)",
       "Genitiv",
-      "Đi với giới từ auf"
+      "Đi với giới từ auf",
+      "Akkusativ (Ich vertraue dich und höre dich zu.)"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Cả „vertrauen“ và „zuhören“ đều là động từ nội hướng luôn đi với cách Dativ: „Ich vertraue dir / meinem Freund“ và „Ich höre dir immer geduldig zu“."
     },
     {
@@ -2650,8 +2650,8 @@
      "options": [
       "mit ... über",
       "bei ... für",
-      "an ... um",
-      "zu ... von"
+      "zu ... von",
+      "an ... um"
      ],
      "answer": 1,
      "explain": "Giống hệt như „sich bedanken“, động từ „sich entschuldigen“ luôn đi với „bei + Dativ (xin lỗi ai) für + Akkusativ (về lỗi gì)“."
@@ -2660,36 +2660,36 @@
      "type": "mcq",
      "q": "Chọn dạng Partizip II đúng của hai động từ „sich streiten“ (cãi nhau) và „verzeihen“ (tha thứ):",
      "options": [
+      "gestritten / geziehen",
       "gestreitet / verzeiht",
       "gestritten / verziehen",
-      "gestritten / geziehen",
       "streiten / verziehen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„sich streiten“ là động từ mạnh (ei → i): „hat sich gestritten“. „verzeihen“ có tiền tố không tách „ver-“ và là động từ mạnh (ei → ie): „hat verziehen“."
     },
     {
      "type": "mcq",
      "q": "Sau khi hai người bạn cãi nhau nhưng đã nói chuyện làm lành và hòa thuận trở lại, tiếng Đức dùng động từ phản thân nào?",
      "options": [
-      "sich streiten",
       "sich vertragen",
       "sich erkälten",
+      "sich streiten",
       "sich beschweren"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„sich vertragen (mit + Dativ)“ có nghĩa là làm hòa với nhau, sống hòa thuận với nhau; trái nghĩa với „sich streiten“ (cãi nhau)."
     },
     {
      "type": "mcq",
      "q": "Khi một việc xảy ra chỉ do hai bên hiểu sai ý nhau chứ không ai có ác ý, người Đức gọi đó là gì?",
      "options": [
-      "Ein Missverständnis (sự hiểu lầm)",
-      "Eine Krankschreibung",
       "Ein Sonderangebot",
+      "Eine Krankschreibung",
+      "Ein Missverständnis (sự hiểu lầm)",
       "Ein Führerschein"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "„das Missverständnis“ (số nhiều: die Missverständnisse) là sự hiểu lầm."
     },
     {

@@ -402,11 +402,11 @@
      {
       "q": "Warum ist mehrfaches Durchlesen laut Text wenig wirksam?",
       "options": [
+       "Weil es zu viel Zeit kostet",
        "Weil man den Text dabei nicht versteht",
-       "Weil Wiedererkennen nicht dasselbe ist wie Erinnern",
-       "Weil es zu viel Zeit kostet"
+       "Weil Wiedererkennen nicht dasselbe ist wie Erinnern"
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was gilt beim Abrufüben, auch wenn der Abruf zunächst misslingt?",
@@ -420,11 +420,11 @@
      {
       "q": "Warum wirkt verteiltes Lernen nachhaltiger?",
       "options": [
-       "Weil das Gehirn bei jeder Wiederholung Vergessenes neu rekonstruieren muss",
+       "Weil man abends besser lernt",
        "Weil man insgesamt mehr Zeit investiert",
-       "Weil man abends besser lernt"
+       "Weil das Gehirn bei jeder Wiederholung Vergessenes neu rekonstruieren muss"
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Welchen Vorteil hat das Mischen verschiedener Aufgabentypen?",
@@ -439,19 +439,19 @@
       "q": "Was sind „wünschenswerte Schwierigkeiten“?",
       "options": [
        "Prüfungsaufgaben, die zu schwer sind",
-       "Mühen beim Lernen, die zu besserem Behalten führen",
-       "Fehler in Lehrbüchern"
+       "Fehler in Lehrbüchern",
+       "Mühen beim Lernen, die zu besserem Behalten führen"
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welche Empfehlung gibt der Text für den Abend vor der Prüfung?",
       "options": [
-       "Die ganze Nacht wiederholen",
        "Früh schlafen gehen",
-       "Alle Notizen noch einmal markieren"
+       "Alle Notizen noch einmal markieren",
+       "Die ganze Nacht wiederholen"
       ],
-      "answer": 1
+      "answer": 0
      }
     ]
    },
@@ -465,36 +465,36 @@
      "type": "mcq",
      "q": "Welche Umformung von „weil die Kosten gestiegen sind“ ist korrekt?",
      "options": [
-      "wegen die gestiegenen Kosten",
-      "wegen der gestiegenen Kosten",
       "wegen den gestiegen Kosten",
-      "wegen gestiegene Kosten"
+      "wegen die gestiegenen Kosten",
+      "wegen gestiegene Kosten",
+      "wegen der gestiegenen Kosten"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "*wegen* + Genitiv số nhiều: *der gestiegenen Kosten*; Partizip II làm tính từ chia đuôi *-en*."
     },
     {
      "type": "mcq",
      "q": "„Wenn man genau hinsieht, …“ – Nominalstil:",
      "options": [
-      "Bei genau Hinsehen …",
       "Bei genauem Hinsehen …",
-      "Beim genauen Hinsehen von …",
-      "Mit genauem Hinsehen …"
+      "Mit genauem Hinsehen …",
+      "Bei genau Hinsehen …",
+      "Beim genauen Hinsehen von …"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "*wenn* (điều kiện/thời điểm) → *bei*; trạng từ *genau* → tính từ *genauem* (Dativ trung tính, không mạo từ)."
     },
     {
      "type": "mcq",
      "q": "„Damit die Qualität gesichert wird, …“ – Nominalstil:",
      "options": [
-      "Wegen Sicherung der Qualität …",
-      "Zur Sicherung der Qualität …",
       "Trotz Sicherung der Qualität …",
-      "Bei Sicherung die Qualität …"
+      "Bei Sicherung die Qualität …",
+      "Zur Sicherung der Qualität …",
+      "Wegen Sicherung der Qualität …"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Mục đích (*damit*) → *zu* + Dativ (*zur Sicherung*), tân ngữ thành Genitiv."
     },
     {
@@ -502,35 +502,35 @@
      "q": "Eine Antwortoption wiederholt wörtlich ein Wort aus dem Text. Was gilt in C1-Prüfungen oft?",
      "options": [
       "Sie ist immer richtig.",
-      "Sie ist häufig eine Falle.",
       "Sie ist nie gemeint.",
+      "Sie ist häufig eine Falle.",
       "Sie zählt doppelt."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Đáp án đúng thường diễn đạt lại ý (*sinngemäß*); lặp nguyên văn hay là bẫy."
     },
     {
      "type": "mcq",
      "q": "Im Hörtext sagt jemand: „Das Treffen ist am Montag – nein, Moment, am Dienstag.“ Wann ist das Treffen?",
      "options": [
-      "Am Montag",
       "Am Dienstag",
+      "Das bleibt offen.",
       "An beiden Tagen",
-      "Das bleibt offen."
+      "Am Montag"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Thông tin đã được người nói tự sửa mới là đáp án."
     },
     {
      "type": "mcq",
      "q": "„Nachdem er die Prüfung bestanden hatte, …“ – Nominalstil:",
      "options": [
-      "Nach dem Bestehen der Prüfung …",
-      "Nach Bestehen die Prüfung …",
+      "Beim Bestehen von der Prüfung …",
       "Vor dem Bestehen der Prüfung …",
-      "Beim Bestehen von der Prüfung …"
+      "Nach Bestehen die Prüfung …",
+      "Nach dem Bestehen der Prüfung …"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "*nachdem* → *nach* + Dativ; động từ *bestehen* → danh từ *das Bestehen*; tân ngữ → Genitiv *der Prüfung*."
     },
     {
@@ -1115,11 +1115,11 @@
      {
       "q": "Warum unterscheiden sich die Abiturprüfungen in Deutschland?",
       "options": [
-       "Weil Bildung Sache der Länder ist",
        "Weil jede Schule eigene Prüfungen schreibt",
+       "Weil Bildung Sache der Länder ist",
        "Weil es keine Lehrpläne gibt"
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Welches Argument für ein einheitliches Abitur wird NICHT genannt?",
@@ -1133,38 +1133,38 @@
      {
       "q": "Was befürchten Kritiker eines Zentralabiturs?",
       "options": [
-       "Dass das Niveau insgesamt sinken könnte",
        "Dass mehr Schüler das Abitur machen",
+       "Dass das Niveau insgesamt sinken könnte",
        "Dass Hochschulen schließen"
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Welche Folge zentraler Prüfungen für den Unterricht wird genannt?",
       "options": [
+       "Es gibt keine Hausaufgaben mehr.",
        "Lehrkräfte unterrichten vor allem prüfungsrelevante Inhalte.",
-       "Der Unterricht wird kürzer.",
-       "Es gibt keine Hausaufgaben mehr."
+       "Der Unterricht wird kürzer."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was ist der „Mittelweg“, den die Politik eingeschlagen hat?",
       "options": [
+       "Ein Abitur nur in Bayern",
        "Ein gemeinsamer Aufgabenpool, den die Länder nutzen können",
-       "Die Abschaffung des Abiturs",
-       "Ein Abitur nur in Bayern"
+       "Die Abschaffung des Abiturs"
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Zu welchem Schluss kommt der Verfasser?",
       "options": [
        "Ein vollständig einheitliches Abitur ist wünschenswert.",
-       "Der Mittelweg sollte ausgebaut werden.",
-       "Alles sollte bleiben, wie es ist."
+       "Alles sollte bleiben, wie es ist.",
+       "Der Mittelweg sollte ausgebaut werden."
       ],
-      "answer": 1
+      "answer": 2
      }
     ]
    },
@@ -1179,11 +1179,11 @@
      "q": "Welcher Satz ist korrekt?",
      "options": [
       "Folglich die Preise steigen.",
-      "Folglich steigen die Preise.",
+      "Die Preise folglich steigen.",
       "Folglich, die Preise steigen.",
-      "Die Preise folglich steigen."
+      "Folglich steigen die Preise."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "*folglich* là trạng từ nối ở vị trí 1 → động từ chia ngay sau (vị trí 2)."
     },
     {
@@ -1191,11 +1191,11 @@
      "q": "„Die Städte wachsen, ___ viele Dörfer schrumpfen.“",
      "options": [
       "hingegen",
+      "darüber hinaus",
       "wohingegen",
-      "folglich",
-      "darüber hinaus"
+      "folglich"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Động từ ở cuối → cần liên từ phụ: *wohingegen*. (*hingegen* là trạng từ, không mở mệnh đề phụ.)"
     },
     {
@@ -1203,20 +1203,20 @@
      "q": "Welche Formulierung leitet ein Gegenargument ein?",
      "options": [
       "Darüber hinaus …",
+      "Somit …",
       "Dem ist jedoch entgegenzuhalten, dass …",
-      "Nicht zuletzt …",
-      "Somit …"
+      "Nicht zuletzt …"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "*Dem ist entgegenzuhalten* = cần phản bác rằng."
     },
     {
      "type": "mcq",
      "q": "Welcher Briefanfang ist korrekt?",
      "options": [
-      "Sehr geehrte Damen und Herren, Ich schreibe Ihnen …",
-      "Sehr geehrte Damen und Herren, ich schreibe Ihnen …",
       "Sehr geehrte Damen und Herren! ich schreibe Ihnen …",
+      "Sehr geehrte Damen und Herren, ich schreibe Ihnen …",
+      "Sehr geehrte Damen und Herren, Ich schreibe Ihnen …",
       "Sehr geehrte Damen und Herren. ich schreibe Ihnen …"
      ],
      "answer": 1,
@@ -1226,24 +1226,24 @@
      "type": "mcq",
      "q": "Was gehört in den Schluss einer dialektischen Erörterung?",
      "options": [
-      "Nur eine Wiederholung der Einleitung",
       "Eine begründete eigene Position nach Abwägung der Argumente",
-      "Neue Argumente ohne Bewertung",
-      "Eine Grußformel"
+      "Nur eine Wiederholung der Einleitung",
+      "Eine Grußformel",
+      "Neue Argumente ohne Bewertung"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Phần kết phải cân nhắc và nêu quan điểm riêng có lý lẽ."
     },
     {
      "type": "mcq",
      "q": "Welcher Konnektor drückt eine Folge aus?",
      "options": [
-      "hingegen",
-      "demzufolge",
+      "obgleich",
       "zwar",
-      "obgleich"
+      "demzufolge",
+      "hingegen"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "*demzufolge* = do đó (hệ quả)."
     },
     {
@@ -1828,27 +1828,27 @@
      {
       "q": "Worauf beruhen die Zahlen im Vortrag?",
       "options": [
-       "Auf einer bundesweiten Studie",
        "Auf einer Umfrage der Fachschaft unter rund 1.200 Studierenden",
-       "Auf Schätzungen der Rednerin"
+       "Auf Schätzungen der Rednerin",
+       "Auf einer bundesweiten Studie"
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Wie hat sich der Anteil der Bibliothek als wichtigster Lernort entwickelt?",
       "options": [
+       "Er ist gleich geblieben.",
        "Er ist um sieben Prozentpunkte gesunken.",
-       "Er hat sich verdoppelt.",
-       "Er ist gleich geblieben."
+       "Er hat sich verdoppelt."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Wie stark ist das Lernen zu Hause gestiegen?",
       "options": [
        "Von 24 auf 35 Prozent",
-       "Um 35 Prozentpunkte",
-       "Auf 41 Prozent"
+       "Auf 41 Prozent",
+       "Um 35 Prozentpunkte"
       ],
       "answer": 0
      },
@@ -1856,28 +1856,28 @@
       "q": "Welcher Grund für die Veränderungen wird genannt?",
       "options": [
        "Die Bibliothek wurde geschlossen.",
-       "Viele Studierende arbeiten neben dem Studium.",
-       "Die Prüfungen wurden abgeschafft."
+       "Die Prüfungen wurden abgeschafft.",
+       "Viele Studierende arbeiten neben dem Studium."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Welche Schattenseite zeigt die Befragung?",
       "options": [
-       "Konzentrationsprobleme und fehlender Austausch",
        "Zu viele Lerngruppen",
+       "Konzentrationsprobleme und fehlender Austausch",
        "Zu teure Apps"
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Welche Empfehlung gibt die Rednerin?",
       "options": [
-       "Präsenzlehre abzuschaffen",
        "Mehr Gruppenarbeitsräume und eine Verbindung digitaler und Präsenzangebote",
-       "Lern-Apps zu verbieten"
+       "Lern-Apps zu verbieten",
+       "Präsenzlehre abzuschaffen"
       ],
-      "answer": 1
+      "answer": 0
      }
     ]
    },
@@ -1892,11 +1892,11 @@
      "q": "Der Anteil stieg von 20 % auf 25 %. Welche Aussage ist korrekt?",
      "options": [
       "Der Anteil stieg um 5 Prozent.",
-      "Der Anteil stieg um 5 Prozentpunkte.",
       "Der Anteil stieg auf 5 Prozentpunkte.",
-      "Der Anteil verdoppelte sich."
+      "Der Anteil verdoppelte sich.",
+      "Der Anteil stieg um 5 Prozentpunkte."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Hiệu số giữa hai tỷ lệ phần trăm là *Prozentpunkte*; so với giá trị ban đầu thì tăng 25 %."
     },
     {
@@ -1905,8 +1905,8 @@
      "options": [
       "hat … verdoppelt",
       "hat sich … verdoppelt",
-      "ist sich … verdoppelt",
-      "hat … sich verdoppeln"
+      "hat … sich verdoppeln",
+      "ist sich … verdoppelt"
      ],
      "answer": 1,
      "explain": "*sich verdoppeln* là động từ phản thân, Perfekt với *haben*."
@@ -1915,24 +1915,24 @@
      "type": "mcq",
      "q": "Welche Präposition passt? „Die Kosten sanken ___ 30 Prozent.“ (Endwert: 30 %)",
      "options": [
+      "zu",
       "um",
-      "auf",
       "bei",
-      "zu"
+      "auf"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "*auf* + giá trị cuối cùng; *um* + lượng thay đổi."
     },
     {
      "type": "mcq",
      "q": "Wie unterbrechen Sie in einer Prüfungsdiskussion höflich?",
      "options": [
-      "Stopp, das ist falsch!",
       "Entschuldigung, wenn ich Sie unterbreche, aber …",
-      "Jetzt rede ich!",
-      "Moment mal, Sie haben keine Ahnung."
+      "Moment mal, Sie haben keine Ahnung.",
+      "Stopp, das ist falsch!",
+      "Jetzt rede ich!"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Xin lỗi trước khi ngắt lời là cách lịch sự chuẩn."
     },
     {
@@ -1941,8 +1941,8 @@
      "options": [
       "Vielen Dank für Ihre Aufmerksamkeit.",
       "Damit komme ich zum zweiten Punkt.",
-      "Stellen Sie sich einmal vor …",
-      "Habe ich Sie richtig verstanden?"
+      "Habe ich Sie richtig verstanden?",
+      "Stellen Sie sich einmal vor …"
      ],
      "answer": 1,
      "explain": "*Damit komme ich zu …* là câu chuyển ý điển hình."
@@ -1951,12 +1951,12 @@
      "type": "mcq",
      "q": "Sie brauchen kurz Zeit zum Nachdenken. Was sagen Sie?",
      "options": [
-      "Keine Ahnung.",
       "Das ist eine gute Frage, darüber muss ich kurz nachdenken.",
-      "Nächste Frage bitte.",
-      "Das weiß doch jeder."
+      "Keine Ahnung.",
+      "Das weiß doch jeder.",
+      "Nächste Frage bitte."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Câu \"câu giờ\" lịch sự, tốt hơn im lặng hoặc từ chối trả lời."
     },
     {
@@ -2506,11 +2506,11 @@
      {
       "q": "Was war der Wendepunkt beim Deutschlernen?",
       "options": [
+       "Ein Sprachkurs in Vietnam",
        "Der Integrationskurs",
-       "Der Umzug in eine WG mit deutschen Studierenden",
-       "Ein Sprachkurs in Vietnam"
+       "Der Umzug in eine WG mit deutschen Studierenden"
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was lernte der Erzähler auf dem Weg zu B2 über Grammatik?",
@@ -2560,12 +2560,12 @@
      "type": "mcq",
      "q": "Welche Form ist korrekt? „Die Ministerin erklärte, die Reform ___ notwendig.“",
      "options": [
-      "ist",
       "sei",
+      "würde",
       "wäre gewesen",
-      "würde"
+      "ist"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Thuật lại lời nói trong văn phong trang trọng: Konjunktiv I *sei*."
     },
     {
@@ -2573,45 +2573,45 @@
      "q": "„die ___ Mieten“ (Die Mieten steigen seit Jahren.)",
      "options": [
       "seit Jahren gestiegenen",
-      "seit Jahren steigenden",
       "seit Jahren zu steigenden",
+      "seit Jahren steigenden",
       "seit Jahren steigende"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Quá trình đang diễn ra, chủ động → Partizip I *steigend* + đuôi *-en* sau *die* số nhiều."
     },
     {
      "type": "mcq",
      "q": "„Die Kosten sind zu hoch, ___ man sie allein tragen könnte.“",
      "options": [
+      "damit",
       "sodass",
       "als dass",
-      "damit",
       "obwohl"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "*zu … als dass* + Konjunktiv II = quá … đến mức không thể."
     },
     {
      "type": "mcq",
      "q": "Welche Passiversatzform bedeutet „kann kaum abgeschätzt werden“?",
      "options": [
-      "ist kaum abzuschätzen",
       "wird kaum abgeschätzt",
-      "hat kaum abgeschätzt",
-      "muss kaum abgeschätzt werden"
+      "ist kaum abzuschätzen",
+      "muss kaum abgeschätzt werden",
+      "hat kaum abgeschätzt"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "*sein + zu + Infinitiv* với *kaum* mang nghĩa \"khó có thể\"."
     },
     {
      "type": "mcq",
      "q": "Welcher Nebensatz hat die richtige Wortstellung?",
      "options": [
-      "…, dass man es wissen hätte müssen.",
-      "…, dass man es hätte wissen müssen.",
       "…, dass man es wissen müssen hätte.",
-      "…, dass hätte man es wissen müssen."
+      "…, dass man es hätte wissen müssen.",
+      "…, dass hätte man es wissen müssen.",
+      "…, dass man es wissen hätte müssen."
      ],
      "answer": 1,
      "explain": "Với *hätte* + hai Infinitiv trong mệnh đề phụ, *hätte* đứng trước cụm động từ."
@@ -2621,35 +2621,35 @@
      "q": "„___ die Argumente auch sein mögen, sie überzeugen nicht alle.“",
      "options": [
       "Obwohl gut",
-      "Wie gut",
       "So dass gut",
+      "Wie gut",
       "Wenn gut"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Nhượng bộ nâng cao: *wie + Adj + auch (immer) … mögen*."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist korrekt?",
      "options": [
-      "Er tut, als ob er nichts gewusst hätte.",
       "Er tut, als er nichts gewusst hätte.",
-      "Er tut, als ob hätte er nichts gewusst.",
-      "Er tut, als ob er nichts weiß hatte."
+      "Er tut, als ob er nichts weiß hatte.",
+      "Er tut, als ob er nichts gewusst hätte.",
+      "Er tut, als ob hätte er nichts gewusst."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "*als ob* + động từ cuối câu, Konjunktiv II quá khứ *gewusst hätte*."
     },
     {
      "type": "mcq",
      "q": "Welches Funktionsverbgefüge bedeutet „berücksichtigen“?",
      "options": [
-      "Rücksicht nehmen auf",
+      "in Frage stellen",
       "Kritik üben an",
       "Stellung nehmen zu",
-      "in Frage stellen"
+      "Rücksicht nehmen auf"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "*Rücksicht nehmen auf + Akk* ≈ berücksichtigen."
     },
     {

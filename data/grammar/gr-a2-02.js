@@ -26,24 +26,24 @@
    "type": "mcq",
    "q": "Welche Form von 'sein' passt? 'Gestern ___ das Wetter leider sehr schlecht.'",
    "options": [
+    "hat",
     "war",
     "ist",
-    "hat",
     "waren"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Chủ ngữ 'das Wetter' (ngôi es) ở thì quá khứ đơn của 'sein' là 'war'."
   },
   {
    "type": "mcq",
    "q": "Welche Form von 'können' passt? 'Er ___ gestern nicht zum Unterricht kommen.'",
    "options": [
-    "kann",
     "konnte",
-    "könnte",
-    "konnten"
+    "konnten",
+    "kann",
+    "könnte"
    ],
-   "answer": 1,
+   "answer": 0,
    "explain": "Präteritum của 'können' ở ngôi 'er' là 'konnte' (mất Umlaut)."
   },
   {
@@ -62,12 +62,12 @@
    "type": "mcq",
    "q": "Welche Form von 'müssen' passt? 'Wir ___ gestern sehr lange im Büro arbeiten.'",
    "options": [
-    "mussten",
     "müssten",
-    "musstet",
-    "müssen"
+    "mussten",
+    "müssen",
+    "musstet"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Präteritum của 'müssen' ở ngôi 'wir' là 'mussten' (mất Umlaut)."
   },
   {
@@ -75,9 +75,9 @@
    "q": "Welche Form passt? 'Wo ___ ihr am vergangenen Wochenende?'",
    "options": [
     "wart",
+    "warst",
     "waren",
-    "seid",
-    "warst"
+    "seid"
    ],
    "answer": 0,
    "explain": "Ngôi 'ihr' đi với Präteritum của sein là 'wart'."

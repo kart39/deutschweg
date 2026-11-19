@@ -10,36 +10,36 @@
    "type": "mcq",
    "q": "Welches Relativpronomen im Dativ Plural ist KORREKT? \"Das sind die Freunde, mit ___ ich in den Urlaub gefahren bin.\"",
    "options": [
+    "deren",
     "denen",
     "den",
-    "dem",
-    "deren"
+    "dem"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Đại từ quan hệ ở Dativ số nhiều bắt buộc là 'denen': 'mit denen'."
   },
   {
    "type": "mcq",
    "q": "Das ist der Mann, ___ Auto gestern vor dem Haus gestohlen wurde.",
    "options": [
-    "dessen",
     "deren",
+    "dessen",
     "dem",
     "das"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'Mann' giống đực, sở hữu cách (Genitiv) là 'dessen' (xe của anh ấy)."
   },
   {
    "type": "mcq",
    "q": "Ich kenne eine Frau, ___ Tochter an der Universität Heidelberg Medizin studiert.",
    "options": [
-    "deren",
     "dessen",
-    "der",
-    "die"
+    "die",
+    "deren",
+    "der"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'Frau' giống cái, sở hữu cách (Genitiv) là 'deren' (con gái của cô ấy)."
   },
   {
@@ -48,8 +48,8 @@
    "options": [
     "Das ist alles, was ich zu diesem Thema sagen kann.",
     "Das ist alles, das ich zu diesem Thema sagen kann.",
-    "Das ist alles, dass ich zu diesem Thema sagen kann.",
-    "Das ist alles, welches ich zu diesem Thema sagen kann."
+    "Das ist alles, welches ich zu diesem Thema sagen kann.",
+    "Das ist alles, dass ich zu diesem Thema sagen kann."
    ],
    "answer": 0,
    "explain": "Sau đại từ bất định 'alles', đại từ quan hệ bắt buộc là 'was'."
@@ -59,9 +59,9 @@
    "q": "Das ist das moderne Apartment, in ___ wir seit zwei Jahren glücklich wohnen.",
    "options": [
     "dem",
-    "den",
+    "dessen",
     "das",
-    "dessen"
+    "den"
    ],
    "answer": 0,
    "explain": "'Apartment' giống trung (das Apartment), đi với giới từ 'in' chỉ vị trí (Wo? -> Dativ) là 'in dem'."
@@ -70,12 +70,12 @@
    "type": "mcq",
    "q": "Das ist das Schönste, ___ ich jemals in meinem Leben gesehen habe!",
    "options": [
-    "was",
-    "das",
+    "wo",
     "dass",
-    "wo"
+    "was",
+    "das"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Sau tính từ so sánh nhất danh từ hóa 'das Schönste', đại từ quan hệ bắt buộc là 'was'."
   },
   {

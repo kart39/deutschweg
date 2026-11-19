@@ -411,20 +411,20 @@
      {
       "q": "Warum werden Windräder an stürmischen Tagen abgeregelt?",
       "options": [
-       "Weil sie bei starkem Wind beschädigt werden könnten.",
        "Weil der Strom nicht in den Süden transportiert werden kann.",
+       "Weil sie bei starkem Wind beschädigt werden könnten.",
        "Weil im Norden kein Strom gebraucht wird und die Preise steigen."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was hat den Bau der neuen Leitungen verzögert?",
       "options": [
        "Fehlendes Geld des Bundes",
-       "Lange Verfahren, Klagen und die teilweise Verlegung unter die Erde",
-       "Ein Mangel an Fachkräften im Süden"
+       "Ein Mangel an Fachkräften im Süden",
+       "Lange Verfahren, Klagen und die teilweise Verlegung unter die Erde"
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wer bezahlt am Ende die Kosten der Engpässe?",
@@ -438,38 +438,38 @@
      {
       "q": "Welche Schwäche haben große Batteriespeicher laut Text?",
       "options": [
+       "Sie verlieren bei der Umwandlung die meiste Energie.",
        "Sie gleichen Schwankungen nur für einige Stunden aus.",
-       "Sie dürfen nicht an der Küste gebaut werden.",
-       "Sie verlieren bei der Umwandlung die meiste Energie."
+       "Sie dürfen nicht an der Küste gebaut werden."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Was wird mit der „Energiewende mit angezogener Handbremse“ kritisiert?",
       "options": [
-       "Dass zu viele Windräder gebaut werden",
        "Dass der Fortschritt durch Engpässe und Zusatzkosten gebremst wird",
+       "Dass zu viele Windräder gebaut werden",
        "Dass Autos nicht mehr mit Benzin fahren dürfen"
-      ],
-      "answer": 1
-     },
-     {
-      "q": "Welche Aussage entspricht dem Schluss des Textes?",
-      "options": [
-       "Leitungen und Speicher sind jahrelang vernachlässigt worden.",
-       "Die Energiewende ist inzwischen abgeschlossen.",
-       "Fachleute halten Windräder für überflüssig."
       ],
       "answer": 0
      },
      {
+      "q": "Welche Aussage entspricht dem Schluss des Textes?",
+      "options": [
+       "Fachleute halten Windräder für überflüssig.",
+       "Die Energiewende ist inzwischen abgeschlossen.",
+       "Leitungen und Speicher sind jahrelang vernachlässigt worden."
+      ],
+      "answer": 2
+     },
+     {
       "q": "Was wäre laut Text nötig, damit sich der Verbrauch an das Windangebot anpasst?",
       "options": [
-       "Mehr Kohlekraftwerke als Reserve",
        "Intelligente Stromzähler und lohnende zeitabhängige Tarife",
-       "Ein Verbot von Elektroautos in windarmen Stunden"
+       "Ein Verbot von Elektroautos in windarmen Stunden",
+       "Mehr Kohlekraftwerke als Reserve"
       ],
-      "answer": 1
+      "answer": 0
      }
     ]
    },
@@ -483,21 +483,21 @@
      "type": "mcq",
      "q": "Welche Form ist im Perfekt Passiv korrekt?",
      "options": [
-      "Das Kraftwerk ist stillgelegt geworden.",
-      "Das Kraftwerk hat stillgelegt worden.",
+      "Das Kraftwerk wurde stillgelegt geworden.",
       "Das Kraftwerk ist stillgelegt worden.",
-      "Das Kraftwerk wurde stillgelegt geworden."
+      "Das Kraftwerk ist stillgelegt geworden.",
+      "Das Kraftwerk hat stillgelegt worden."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Perfekt Passiv = sein + Partizip II + **worden**. *Geworden* chỉ dùng khi werden là động từ chính (\"trở thành\")."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz beschreibt einen Zustand, nicht einen Vorgang?",
      "options": [
-      "Der Reaktor wird heute abgeschaltet.",
-      "Der Reaktor ist seit 2023 abgeschaltet.",
       "Der Reaktor wurde 2023 abgeschaltet.",
+      "Der Reaktor ist seit 2023 abgeschaltet.",
+      "Der Reaktor wird heute abgeschaltet.",
       "Der Reaktor muss abgeschaltet werden."
      ],
      "answer": 1,
@@ -507,12 +507,12 @@
      "type": "mcq",
      "q": "Wählen Sie die korrekte Wortstellung im Nebensatz.",
      "options": [
-      "Viele meinen, dass die Leitungen früher gebaut werden müssen hätten.",
-      "Viele meinen, dass die Leitungen früher hätten gebaut werden müssen.",
+      "Viele meinen, dass hätten die Leitungen früher gebaut werden müssen.",
       "Viele meinen, dass die Leitungen hätten früher gebaut werden müssen.",
-      "Viele meinen, dass hätten die Leitungen früher gebaut werden müssen."
+      "Viele meinen, dass die Leitungen früher hätten gebaut werden müssen.",
+      "Viele meinen, dass die Leitungen früher gebaut werden müssen hätten."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Khi có hätte + hai động từ nguyên mẫu (gebaut werden müssen), động từ chia *hätte* đứng TRƯỚC cả cụm động từ ở cuối mệnh đề phụ; trạng từ *früher* vẫn đứng trước *hätten*."
     },
     {
@@ -520,23 +520,23 @@
      "q": "Welche Präposition passt? „Die Netze werden ___ moderne Speicher entlastet.“",
      "options": [
       "von",
+      "bei",
       "durch",
-      "mit",
-      "bei"
+      "mit"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "*durch* + Akk chỉ phương tiện/nguyên nhân. *von* + Dat dùng cho người hoặc tác nhân chủ động thực hiện hành động."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist ein unpersönliches Passiv?",
      "options": [
-      "Die Anlage wird gewartet.",
       "Über den Strompreis wird heftig gestritten.",
+      "Die Anlage wird gewartet.",
       "Der Strom ist teurer geworden.",
       "Die Solarzellen sind montiert."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "*streiten* không có tân ngữ Akkusativ, nên câu Passiv không có chủ ngữ thật; vị trí 1 do *Über den Strompreis* (hoặc *es*) đảm nhận."
     },
     {
@@ -1139,11 +1139,11 @@
      {
       "q": "Was entschied der Europäische Gerichtshof 2018?",
       "options": [
+       "Gentechnisch veränderte Pflanzen müssen nicht mehr gekennzeichnet werden.",
        "Die Genschere wurde in Europa verboten.",
-       "Pflanzen aus neuen Verfahren sind rechtlich als gentechnisch verändert zu behandeln.",
-       "Gentechnisch veränderte Pflanzen müssen nicht mehr gekennzeichnet werden."
+       "Pflanzen aus neuen Verfahren sind rechtlich als gentechnisch verändert zu behandeln."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Wer stimmte dem Vorschlag der EU-Kommission eher zu?",
@@ -1166,20 +1166,20 @@
      {
       "q": "Womit vergleichen die Befürworter die Genschere, um die Kritik zu relativieren?",
       "options": [
+       "Mit Impfstoffen",
        "Mit Mutationen durch Bestrahlung",
-       "Mit Pestiziden",
-       "Mit Impfstoffen"
+       "Mit Pestiziden"
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Worin sind sich laut Schluss beide Seiten einig?",
       "options": [
-       "Die Technik sollte verboten werden.",
        "Vertrauen ist nur durch Transparenz zu gewinnen.",
+       "Die Technik sollte verboten werden.",
        "Die Frage ist rein naturwissenschaftlich zu beantworten."
       ],
-      "answer": 1
+      "answer": 0
      }
     ]
    },
@@ -1193,12 +1193,12 @@
      "type": "mcq",
      "q": "Welcher Satz bedeutet dasselbe wie „Die Risiken müssen genau geprüft werden.“?",
      "options": [
-      "Die Risiken lassen sich genau prüfen.",
       "Die Risiken sind genau zu prüfen.",
+      "Die Risiken werden genau geprüft.",
       "Die Risiken sind genau prüfbar.",
-      "Die Risiken werden genau geprüft."
+      "Die Risiken lassen sich genau prüfen."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "*sein + zu + Infinitiv* có thể mang nghĩa \"phải\" (= müssen + Passiv). *sich lassen* và *-bar* chỉ mang nghĩa \"có thể\"."
     },
     {
@@ -1218,33 +1218,33 @@
      "q": "Welcher Satz ist ein Rezipientenpassiv (bekommen-Passiv)?",
      "options": [
       "Den Patienten wird das Mittel verabreicht.",
-      "Die Patienten bekommen das Mittel verabreicht.",
+      "Das Mittel lässt sich gut verabreichen.",
       "Das Mittel ist den Patienten zu verabreichen.",
-      "Das Mittel lässt sich gut verabreichen."
+      "Die Patienten bekommen das Mittel verabreicht."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Người nhận (vốn ở Dativ) thành chủ ngữ, động từ *bekommen* + Partizip II."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektiv ersetzt „kann nicht vermieden werden“?",
      "options": [
-      "unvermeidlich",
       "vermeidend",
       "vermieden",
+      "unvermeidlich",
       "unvermieden"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "*unvermeidlich* = không thể tránh được; đuôi *-lich* ở đây mang nghĩa khả năng giống *-bar*."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz mit „sich lassen“ ist korrekt?",
      "options": [
+      "Das Ergebnis lässt sich nicht wiederholt.",
       "Das Ergebnis lässt sich nicht zu wiederholen.",
-      "Das Ergebnis lässt nicht sich wiederholen.",
       "Das Ergebnis lässt sich nicht wiederholen.",
-      "Das Ergebnis lässt sich nicht wiederholt."
+      "Das Ergebnis lässt nicht sich wiederholen."
      ],
      "answer": 2,
      "explain": "*sich lassen + Infinitiv* KHÔNG có *zu*; Infinitiv đứng cuối câu."
@@ -1253,10 +1253,10 @@
      "type": "mcq",
      "q": "Welches Funktionsverbgefüge bedeutet „kritisiert werden“?",
      "options": [
-      "Zustimmung finden",
       "zur Anwendung kommen",
+      "in Frage kommen",
       "in Kritik geraten",
-      "in Frage kommen"
+      "Zustimmung finden"
      ],
      "answer": 2,
      "explain": "*in Kritik geraten* = bị chỉ trích; các cụm khác: được tán thành, được áp dụng, có thể được xem xét."
@@ -1842,56 +1842,56 @@
      {
       "q": "Nach welchem Grundprinzip ist die KI-Verordnung aufgebaut?",
       "options": [
-       "Alle KI-Systeme werden gleich behandelt.",
        "Je größer das Risiko, desto strenger die Regeln.",
-       "Nur Systeme aus Europa werden reguliert."
+       "Nur Systeme aus Europa werden reguliert.",
+       "Alle KI-Systeme werden gleich behandelt."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welche Anwendung ist laut Text grundsätzlich verboten?",
       "options": [
-       "Die Auswertung von Röntgenbildern",
        "Die Bewertung von Menschen nach ihrem sozialen Verhalten",
-       "Die Erzeugung von Bildern"
+       "Die Erzeugung von Bildern",
+       "Die Auswertung von Röntgenbildern"
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was gilt NICHT als Pflicht für Hochrisiko-Systeme?",
       "options": [
        "Die Trainingsdaten auf Verzerrungen prüfen",
-       "Die Funktionsweise dokumentieren",
-       "Den Quellcode öffentlich ins Internet stellen"
-      ],
-      "answer": 2
-     },
-     {
-      "q": "Warum benachteiligte das Bewerbungsprogramm Frauen?",
-      "options": [
-       "Es war mit Lebensläufen einer überwiegend männlichen Belegschaft trainiert worden.",
-       "Es war absichtlich so programmiert worden.",
-       "Frauen hatten sich seltener beworben."
-      ],
-      "answer": 0
-     },
-     {
-      "q": "Was kritisieren Vertreter der Wirtschaft?",
-      "options": [
-       "Die Ausnahmen für die Polizei",
-       "Die hohe bürokratische Belastung, besonders für kleine Firmen",
-       "Das Verbot von Sprachmodellen"
+       "Den Quellcode öffentlich ins Internet stellen",
+       "Die Funktionsweise dokumentieren"
       ],
       "answer": 1
      },
      {
-      "q": "Wovon hängt laut Schluss die Wirksamkeit des Gesetzes vor allem ab?",
+      "q": "Warum benachteiligte das Bewerbungsprogramm Frauen?",
       "options": [
-       "Von der Ausstattung der Kontrollbehörden",
-       "Von der Zustimmung der USA",
-       "Von der Zahl der Start-ups"
+       "Frauen hatten sich seltener beworben.",
+       "Es war absichtlich so programmiert worden.",
+       "Es war mit Lebensläufen einer überwiegend männlichen Belegschaft trainiert worden."
+      ],
+      "answer": 2
+     },
+     {
+      "q": "Was kritisieren Vertreter der Wirtschaft?",
+      "options": [
+       "Die hohe bürokratische Belastung, besonders für kleine Firmen",
+       "Das Verbot von Sprachmodellen",
+       "Die Ausnahmen für die Polizei"
       ],
       "answer": 0
+     },
+     {
+      "q": "Wovon hängt laut Schluss die Wirksamkeit des Gesetzes vor allem ab?",
+      "options": [
+       "Von der Zustimmung der USA",
+       "Von der Zahl der Start-ups",
+       "Von der Ausstattung der Kontrollbehörden"
+      ],
+      "answer": 2
      },
      {
       "q": "Warum reicht es laut Text oft nicht, einen Deepfake später zu entlarven?",
@@ -1914,9 +1914,9 @@
      "type": "mcq",
      "q": "Welche Form ist korrekt? „Die ___ Daten müssen anonymisiert werden.“ (Die Daten sind zu verarbeiten.)",
      "options": [
-      "zu verarbeitende",
-      "zu verarbeitenden",
       "verarbeitenden",
+      "zu verarbeitenden",
+      "zu verarbeitende",
       "zu verarbeiten"
      ],
      "answer": 1,
@@ -1928,8 +1928,8 @@
      "options": [
       "die Kriterien, die gerade angewendet werden",
       "die Kriterien, die angewendet werden müssen",
-      "die Kriterien, die angewendet worden sind",
-      "die Kriterien, die selbst etwas anwenden"
+      "die Kriterien, die selbst etwas anwenden",
+      "die Kriterien, die angewendet worden sind"
      ],
      "answer": 1,
      "explain": "Gerundivum mang nghĩa bị động + phải/có thể: tiêu chí cần được áp dụng."
@@ -1938,10 +1938,10 @@
      "type": "mcq",
      "q": "Welcher Satz drückt eine sichere Vermutung über die Vergangenheit aus?",
      "options": [
-      "Der Fehler muss übersehen werden.",
+      "Der Fehler hätte übersehen werden müssen.",
       "Der Fehler muss übersehen worden sein.",
-      "Der Fehler musste übersehen werden.",
-      "Der Fehler hätte übersehen werden müssen."
+      "Der Fehler muss übersehen werden.",
+      "Der Fehler musste übersehen werden."
      ],
      "answer": 1,
      "explain": "*müssen* phỏng đoán + Passiv Perfekt (Partizip II + worden + sein) = chắc hẳn đã bị bỏ sót."
@@ -1950,12 +1950,12 @@
      "type": "mcq",
      "q": "Wählen Sie die korrekte Wortstellung.",
      "options": [
-      "Der Unfall hätte können verhindert werden.",
-      "Der Unfall hätte verhindert können werden.",
+      "Der Unfall hätte werden verhindert können.",
       "Der Unfall hätte verhindert werden können.",
-      "Der Unfall hätte werden verhindert können."
+      "Der Unfall hätte verhindert können werden.",
+      "Der Unfall hätte können verhindert werden."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Câu chính: hätte … Partizip II + werden + Modalverb nguyên mẫu đứng cuối cùng."
     },
     {
@@ -1963,11 +1963,11 @@
      "q": "„Der Konzern will von dem Datenleck nichts gewusst haben.“ – Was bedeutet das?",
      "options": [
       "Der Konzern möchte nichts davon wissen.",
+      "Der Konzern plant, nichts zu wissen.",
       "Der Konzern behauptet, nichts gewusst zu haben; der Sprecher zweifelt daran.",
-      "Der Konzern hat sicher nichts gewusst.",
-      "Der Konzern plant, nichts zu wissen."
+      "Der Konzern hat sicher nichts gewusst."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "*wollen* + Infinitiv Perfekt = chủ ngữ tự khẳng định điều gì đó về mình, người nói hoài nghi."
     },
     {
@@ -1975,11 +1975,11 @@
      "q": "Welche Phrase passt? „Wer hat die Analyse durchgeführt?“ – „Das waren die ___ Experten.“ (Die Experten prüfen die Systeme.)",
      "options": [
       "zu prüfenden",
+      "zu prüfende",
       "prüfenden",
-      "zu geprüften",
-      "zu prüfende"
+      "zu geprüften"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Các chuyên gia tự thực hiện việc kiểm tra → Partizip I chủ động *prüfenden*; Gerundivum *zu prüfenden* sẽ mang nghĩa bị động (cần được kiểm tra)."
     },
     {
@@ -2534,44 +2534,44 @@
       "q": "Welche Praxis hat das Reparieren früher NICHT erschwert?",
       "options": [
        "Verklebte Akkus",
-       "Sperren von Bauteilen per Software",
-       "Kostenlose Ersatzteile für alle Werkstätten"
+       "Kostenlose Ersatzteile für alle Werkstätten",
+       "Sperren von Bauteilen per Software"
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was bedeutet das „Recht auf Reparatur“?",
       "options": [
        "Hersteller müssen jedes Gerät kostenlos reparieren.",
-       "Verbraucher können auch nach der Garantie eine Reparatur zu vertretbaren Kosten verlangen.",
-       "Nur Vertragswerkstätten dürfen reparieren."
+       "Nur Vertragswerkstätten dürfen reparieren.",
+       "Verbraucher können auch nach der Garantie eine Reparatur zu vertretbaren Kosten verlangen."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Was zeigte sich beim Reparaturbonus?",
       "options": [
        "Kaum jemand nutzte ihn.",
-       "Die Mittel mussten wegen großer Nachfrage aufgestockt werden.",
-       "Er wurde nach einem Monat abgeschafft."
+       "Er wurde nach einem Monat abgeschafft.",
+       "Die Mittel mussten wegen großer Nachfrage aufgestockt werden."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Worum geht es in Repair-Cafés außer um Müllvermeidung?",
       "options": [
-       "Um den Erhalt von Wissen",
        "Um den Verkauf neuer Geräte",
+       "Um den Erhalt von Wissen",
        "Um Werbung für Hersteller"
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Welche Schlussfolgerung zieht der Text?",
       "options": [
-       "Die Kreislaufwirtschaft beginnt erst beim Recycling.",
+       "Reparieren lohnt sich nie.",
        "Kreislaufwirtschaft beginnt bei der Frage nach der Nutzungsdauer eines Produkts.",
-       "Reparieren lohnt sich nie."
+       "Die Kreislaufwirtschaft beginnt erst beim Recycling."
       ],
       "answer": 1
      }
@@ -2587,22 +2587,22 @@
      "type": "mcq",
      "q": "Welche Form passt? „Das Gerät ist bereits seit Montag ___.“",
      "options": [
+      "zu reparieren werden",
       "repariert worden",
       "repariert",
-      "repariert geworden",
-      "zu reparieren werden"
+      "repariert geworden"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "*seit Montag* + kết quả kéo dài → Zustandspassiv: *ist repariert*."
     },
     {
      "type": "mcq",
      "q": "„Der Akku ist leicht auszutauschen.“ bedeutet:",
      "options": [
-      "Der Akku muss ausgetauscht werden.",
+      "Der Akku soll ausgetauscht worden sein.",
       "Der Akku lässt sich leicht austauschen.",
       "Der Akku wurde ausgetauscht.",
-      "Der Akku soll ausgetauscht worden sein."
+      "Der Akku muss ausgetauscht werden."
      ],
      "answer": 1,
      "explain": "Trạng từ *leicht* cho thấy nghĩa \"có thể\" → tương đương *sich lassen*."
@@ -2611,12 +2611,12 @@
      "type": "mcq",
      "q": "„Altgeräte sind beim Händler abzugeben.“ bedeutet:",
      "options": [
-      "Altgeräte können beim Händler abgegeben werden, wenn man will.",
-      "Altgeräte müssen beim Händler abgegeben werden.",
+      "Altgeräte sind beim Händler abgegeben.",
       "Altgeräte wurden beim Händler abgegeben.",
-      "Altgeräte sind beim Händler abgegeben."
+      "Altgeräte können beim Händler abgegeben werden, wenn man will.",
+      "Altgeräte müssen beim Händler abgegeben werden."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Văn phong quy định, hướng dẫn → *sein + zu* mang nghĩa bắt buộc."
     },
     {
@@ -2624,11 +2624,11 @@
      "q": "Welches Partizip passt? „Die ___ Rohstoffe stammen oft aus Konfliktregionen.“ (Die Rohstoffe werden verwendet.)",
      "options": [
       "verwendenden",
-      "verwendeten",
+      "verwendet",
       "zu verwendeten",
-      "verwendet"
+      "verwendeten"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Bị động (được sử dụng) → Partizip II *verwendet* + đuôi *-en*."
     },
     {
@@ -2636,8 +2636,8 @@
      "q": "Welcher Satz ist korrekt?",
      "options": [
       "Der Schaden hätte vermieden werden können.",
-      "Der Schaden hätte können vermieden werden.",
       "Der Schaden hätte vermieden können werden.",
+      "Der Schaden hätte können vermieden werden.",
       "Der Schaden hat vermieden werden können gehabt."
      ],
      "answer": 0,
@@ -2647,34 +2647,34 @@
      "type": "mcq",
      "q": "Welche Form passt? „Die Kosten werden teilweise ___ Land übernommen.“",
      "options": [
+      "mit dem",
       "durch das",
       "vom",
-      "mit dem",
       "beim"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Bang (Land) là chủ thể thực hiện hành động → *von* + Dat: *vom Land*. *durch* dùng cho phương tiện hoặc nguyên nhân."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „Der Datenschutz darf nicht auf der Strecke bleiben.“?",
      "options": [
-      "Der Datenschutz darf nicht vernachlässigt werden.",
       "Der Datenschutz muss unterwegs geprüft werden.",
       "Der Datenschutz ist zu streng.",
-      "Der Datenschutz wird abgeschafft."
+      "Der Datenschutz wird abgeschafft.",
+      "Der Datenschutz darf nicht vernachlässigt werden."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "*auf der Strecke bleiben* = bị bỏ lại, bị hy sinh trong quá trình."
     },
     {
      "type": "mcq",
      "q": "Welche Form drückt eine Vermutung über die Vergangenheit aus?",
      "options": [
-      "Der Akku muss überhitzen.",
+      "Der Akku ist zu überhitzen.",
       "Der Akku muss überhitzt worden sein.",
-      "Der Akku musste überhitzt werden.",
-      "Der Akku ist zu überhitzen."
+      "Der Akku muss überhitzen.",
+      "Der Akku musste überhitzt werden."
      ],
      "answer": 1,
      "explain": "*müssen* phỏng đoán + Partizip II + worden sein."

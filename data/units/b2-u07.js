@@ -400,56 +400,56 @@
      {
       "q": "Welchen Widerspruch beschreibt der Text gleich im ersten Abschnitt?",
       "options": [
-       "Obwohl Nutzer wissen, dass im Netz nicht alles stimmt, fallen täglich Millionen auf Falschmeldungen herein.",
-       "Niemand liest heute noch Nachrichten auf dem Smartphone.",
        "Faktenchecks verbreiten sich immer schneller als Gerüchte.",
-       "Gedruckte Zeitungen sind schneller als das Internet."
+       "Niemand liest heute noch Nachrichten auf dem Smartphone.",
+       "Gedruckte Zeitungen sind schneller als das Internet.",
+       "Obwohl Nutzer wissen, dass im Netz nicht alles stimmt, fallen täglich Millionen auf Falschmeldungen herein."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 1 nêu rõ dù biết không phải mọi thứ trên mạng đều đúng, hàng triệu người vẫn sập bẫy mỗi ngày."
      },
      {
       "q": "Warum reagieren Menschen besonders stark auf reißerische Schlagzeilen?",
       "options": [
-       "Weil sie starke Emotionen wecken und oft eigene Vorurteile bestätigen.",
-       "Weil sie immer besonders lang und sachlich sind.",
        "Weil sie nur morgens veröffentlicht werden.",
-       "Weil Redaktionen sie gesetzlich vorschreiben."
+       "Weil Redaktionen sie gesetzlich vorschreiben.",
+       "Weil sie immer besonders lang und sachlich sind.",
+       "Weil sie starke Emotionen wecken und oft eigene Vorurteile bestätigen."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 2 giải thích cảm xúc mạnh và sự củng cố định kiến làm giảm khả năng kiểm chứng."
      },
      {
       "q": "Welche Rolle spielen Algorithmen in sozialen Netzwerken?",
       "options": [
        "Sie löschen alle Kommentare automatisch.",
-       "Sie bevorzugen Beiträge mit vielen Reaktionen, egal ob diese wahr oder erfunden sind.",
+       "Sie überprüfen jede Quelle doppelt.",
        "Sie fördern ausschließlich kostenpflichtige Zeitungen.",
-       "Sie überprüfen jede Quelle doppelt."
+       "Sie bevorzugen Beiträge mit vielen Reaktionen, egal ob diese wahr oder erfunden sind."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 chỉ ra thuật toán ưu tiên tương tác cao bất kể thật hay giả."
      },
      {
       "q": "Wodurch zeichnet sich seriöser Qualitätsjournalismus laut Abschnitt 4 aus?",
       "options": [
-       "Durch möglichst viele Sensationen.",
        "Durch gründliche Recherche, Befragung verschiedener Seiten und offene Richtigstellung von Fehlern.",
        "Durch den Verzicht auf Faktenchecks.",
-       "Durch das Löschen aller Kommentarspalten."
+       "Durch das Löschen aller Kommentarspalten.",
+       "Durch möglichst viele Sensationen."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 4 nêu rõ các đặc điểm của báo chí nghiêm túc."
      },
      {
       "q": "Welche einfache Alltagsregel empfiehlt der Text am Ende?",
       "options": [
+       "Jeden Artikel sofort weiterleiten.",
        "Bei empörenden Nachrichten erst kurz innehalten, bevor man auf ‚Teilen‘ drückt.",
        "Keine Nachrichten mehr lesen.",
-       "Nur noch Bilder statt Texte teilen.",
-       "Jeden Artikel sofort weiterleiten."
+       "Nur noch Bilder statt Texte teilen."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Câu kết khuyên dừng lại kiểm chứng trước khi bấm nút chia sẻ."
      }
     ],
@@ -466,12 +466,12 @@
      "type": "mcq",
      "q": "Welcher Satz verbindet die beiden Aussagen grammatikalisch richtig?",
      "options": [
-      "Obwohl die Schlagzeile reißerisch war, glaubten viele Nutzer dem Text.",
       "Obwohl die Schlagzeile reißerisch war, aber viele Nutzer glaubten dem Text.",
+      "Obwohl die Schlagzeile reißerisch war, glaubten viele Nutzer dem Text.",
       "Obwohl war die Schlagzeile reißerisch, glaubten viele Nutzer dem Text.",
       "Obwohl die Schlagzeile reißerisch war, trotzdem glaubten viele dem Text."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Tiếng Đức không dùng 'obwohl' đi kèm với 'aber' hay 'trotzdem' trong cùng một câu."
     },
     {
@@ -479,9 +479,9 @@
      "q": "Welche Wortstellung ist nach „dennoch“ am Satzanfang korrekt?",
      "options": [
       "Das Gerücht war falsch; dennoch teilten es tausende Menschen.",
-      "Das Gerücht war falsch; dennoch tausende Menschen teilten es.",
       "Das Gerücht war falsch; dennoch es tausende Menschen teilten.",
-      "Das Gerücht war falsch; es dennoch teilten tausende Menschen."
+      "Das Gerücht war falsch; es dennoch teilten tausende Menschen.",
+      "Das Gerücht war falsch; dennoch tausende Menschen teilten es."
      ],
      "answer": 0,
      "explain": "'dennoch' là Konjunktionaladverb ở vị trí 1 → động từ chia ('teilten') đứng ngay ở vị trí 2."
@@ -490,60 +490,60 @@
      "type": "mcq",
      "q": "Welche Präposition ersetzt „obwohl“ im Nominalstil?",
      "options": [
+      "während + Genitiv",
       "trotz + Genitiv",
       "aufgrund + Genitiv",
-      "während + Genitiv",
       "nach + Dativ"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'trotz + Genitiv' mang nghĩa nhượng bộ (mặc dù/bất chấp)."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „eine Falschmeldung richtigstellen“?",
      "options": [
-      "Den Fehler öffentlich korrigieren und die Fakten nennen",
+      "Die Kommentarspalte abschalten",
       "Eine reißerische Schlagzeile schreiben",
       "Ein Gerücht ungeprüft weiterleiten",
-      "Die Kommentarspalte abschalten"
+      "Den Fehler öffentlich korrigieren und die Fakten nennen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'richtigstellen' = đính chính lại cho đúng sự thật."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Gerücht“?",
      "options": [
-      "das",
       "der",
-      "die",
-      "–"
+      "–",
+      "das",
+      "die"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Danh từ chuẩn là 'das Gerücht, die Gerüchte'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „einen geheimen Skandal durch Recherche ans Licht bringen“?",
      "options": [
-      "aufdecken",
-      "täuschen",
       "verbreiten",
-      "weiterleiten"
+      "täuschen",
+      "weiterleiten",
+      "aufdecken"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'aufdecken' = phanh phui, vạch trần."
     },
     {
      "type": "mcq",
      "q": "Welches Adjektiv beschreibt eine Redaktion, die sorgfältig arbeitet und glaubwürdig ist?",
      "options": [
-      "seriös",
-      "reißerisch",
       "ungeprüft",
-      "falsch"
+      "falsch",
+      "reißerisch",
+      "seriös"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'seriös' = nghiêm túc, uy tín, đáng tin cậy."
     },
     {
@@ -551,9 +551,9 @@
      "q": "Ergänzen Sie: „___ der gründlichen Recherche schlich sich ein kleiner Tippfehler ein.“",
      "options": [
       "Trotz",
-      "Obwohl",
+      "Trotzdem",
       "Dennoch",
-      "Trotzdem"
+      "Obwohl"
      ],
      "answer": 0,
      "explain": "Phía sau là cụm danh từ Genitiv ('der gründlichen Recherche') nên bắt buộc dùng giới từ 'Trotz'."
@@ -1145,54 +1145,54 @@
      {
       "q": "Was zeigt das Beispiel der beiden Smartphone-Nutzer am Anfang?",
       "options": [
-       "Dass Algorithmen jedem Menschen eine individuell gefilterte Auswahl anzeigen.",
        "Dass alle Menschen morgens genau dieselben Nachrichten sehen.",
+       "Dass Algorithmen jedem Menschen eine individuell gefilterte Auswahl anzeigen.",
        "Dass Smartphones morgens schlechter funktionieren.",
        "Dass Verkehrskontrollen das wichtigste Thema im Netz sind."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 1 minh họa thuật toán hiển thị nội dung hoàn toàn khác nhau cho hai người dùng."
      },
      {
       "q": "Wie entsteht laut Abschnitt 2 eine Filterblase?",
       "options": [
-       "Weil Nutzer keine Interessen angeben.",
        "Weil Plattformen abweichende Perspektiven schrittweise ausblenden.",
-       "Weil alle Zeitungen identisch schreiben.",
-       "Weil das Internet zu langsam ist."
+       "Weil das Internet zu langsam ist.",
+       "Weil Nutzer keine Interessen angeben.",
+       "Weil alle Zeitungen identisch schreiben."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 2 giải thích việc ẩn dần các góc nhìn khác biệt tạo ra bong bóng lọc."
      },
      {
       "q": "Welche Beiträge werden von sozialen Netzwerken besonders belohnt?",
       "options": [
        "Nüchterne und sehr lange Analysen.",
-       "Zugespitzte Beiträge, die starke Emotionen wie Wut auslösen.",
        "Artikel ohne Kommentarspalte.",
-       "Beiträge ohne Bilder."
+       "Beiträge ohne Bilder.",
+       "Zugespitzte Beiträge, die starke Emotionen wie Wut auslösen."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 3 nêu hệ thống thưởng độ hiển thị tối đa cho bài đăng kích động cảm xúc."
      },
      {
       "q": "Welche positiven Seiten sozialer Medien nennt Abschnitt 4?",
       "options": [
+       "Das Ende aller Vorurteile.",
        "Schnelle Vernetzung und Unterstützung für kleine Bürgerinitiativen sowie Gleichgesinnte.",
        "Vollständigen Schutz der Privatsphäre ohne Einstellungen.",
-       "Das Ende aller Vorurteile.",
        "Höhere Auflagen für gedruckte Bücher."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Đoạn 4 nêu ưu điểm kết nối xuyên biên giới, hỗ trợ sáng kiến nhỏ và tìm người cùng chí hướng."
      },
      {
       "q": "Wie kann man laut dem Text selbst gegen eine Filterblase vorgehen?",
       "options": [
-       "Nur noch einem einzigen Kanal folgen.",
+       "Immer länger durch den Feed scrollen.",
        "Verschiedene seriöse Medien abonnieren, Datenschutz prüfen und Bildschirmzeiten begrenzen.",
        "Alle Kommentare selbst schreiben.",
-       "Immer länger durch den Feed scrollen."
+       "Nur noch einem einzigen Kanal folgen."
       ],
       "answer": 1,
       "explain": "Đoạn cuối đề xuất 3 biện pháp chủ động của người dùng."
@@ -1211,96 +1211,96 @@
      "type": "mcq",
      "q": "Welcher Konnektor leitet einen Nebensatz ein (Verb am Ende) und drückt immer einen Gegensatz aus?",
      "options": [
-      "wohingegen",
-      "dagegen",
       "trotzdem",
-      "deshalb"
+      "deshalb",
+      "wohingegen",
+      "dagegen"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'wohingegen' là liên từ phụ thuộc (Nebensatzkonjunktion) luôn mang nghĩa tương phản."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie richtig: „Printzeitungen verlieren junge Leser; ___ wachsen digitale Podcasts stark.“",
      "options": [
-      "dagegen",
+      "weil",
       "obwohl",
       "wohingegen",
-      "weil"
+      "dagegen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Động từ 'wachsen' đứng ngay ở vị trí 2 sau dấu chấm phẩy → cần trạng từ liên kết 'dagegen' (hoặc 'hingegen')."
     },
     {
      "type": "mcq",
      "q": "Wann verwendet man „sondern“?",
      "options": [
-      "Nach einer Verneinung (nicht / kein), um etwas zu korrigieren",
       "Als Synonym für ‚trotzdem‘",
+      "Nach einer Verneinung (nicht / kein), um etwas zu korrigieren",
       "Am Ende eines Nebensatzes",
       "Vor einem Genitiv-Nomen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'nicht A, sondern B' = không phải A mà là B."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist grammatikalisch korrekt?",
      "options": [
-      "Während früher viele nur abends Nachrichten sahen, prüfen sie heute ständig ihr Handy.",
       "Während früher viele nur abends Nachrichten sahen, heute prüfen sie ständig ihr Handy.",
+      "Während früher viele nur abends Nachrichten sahen, prüfen sie heute ständig ihr Handy.",
       "Während früher viele sahen abends Nachrichten, prüfen sie heute ihr Handy.",
       "Während früher sahen viele abends Nachrichten, doch prüfen sie heute ihr Handy."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Vế 'während' đưa động từ 'sahen' xuống cuối; vế chính tiếp theo bắt đầu bằng động từ 'prüfen'."
     },
     {
      "type": "mcq",
      "q": "Was ist eine „Filterblase“?",
      "options": [
+      "Eine gedruckte Sonntagszeitung",
       "Eine einseitige Informationsumgebung, weil Algorithmen Gegenmeinungen ausblenden",
-      "Ein neues Schutzprogramm für Computer",
       "Eine besonders lange Kommentarspalte",
-      "Eine gedruckte Sonntagszeitung"
+      "Ein neues Schutzprogramm für Computer"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'Filterblase' = bong bóng lọc thông tin một chiều."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Algorithmus“?",
      "options": [
+      "–",
       "der",
       "die",
-      "das",
-      "–"
+      "das"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Danh từ chuẩn là 'der Algorithmus, die Algorithmen'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „unerwünschte Beiträge durch den Algorithmus nicht mehr anzeigen“?",
      "options": [
-      "ausblenden",
+      "aufdecken",
       "abonnieren",
       "recherchieren",
-      "aufdecken"
+      "ausblenden"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'ausblenden' = ẩn đi, gạt bỏ không hiển thị."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „einseitig berichten“?",
      "options": [
-      "Nur eine Perspektive zeigen und Gegenargumente weglassen",
       "Auf genau einer Zeitungsseite drucken",
+      "Nur eine Perspektive zeigen und Gegenargumente weglassen",
       "Besonders objektiv und ausgewogen schreiben",
       "Alle Fakten doppelt prüfen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'einseitig' = phiến diện, một chiều."
     },
     {
@@ -1891,56 +1891,56 @@
      {
       "q": "Warum waren Werbeblöcke früher leichter zu erkennen als heute?",
       "options": [
-       "Weil sie im Fernsehen und in Zeitschriften klar vom übrigen Programm getrennt waren.",
+       "Weil alle Menschen Werbebriefe mochten.",
        "Weil früher niemand Produkte gekauft hat.",
        "Weil es nur fünf Unternehmen gab.",
-       "Weil alle Menschen Werbebriefe mochten."
+       "Weil sie im Fernsehen und in Zeitschriften klar vom übrigen Programm getrennt waren."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 1 đối chiếu sự tách bạch rõ ràng trước đây với ranh giới mờ nhạt trên mạng xã hội ngày nay."
      },
      {
       "q": "Wie wird die Kennzeichnungspflicht manchmal umgangen?",
       "options": [
-       "Indem der Hinweis ‚Werbung‘ zwischen vielen Hashtags versteckt wird.",
+       "Indem man das Produkt kostenlos verteilt.",
        "Indem gar keine Videos mehr gedreht werden.",
        "Indem nur noch Erwachsene angesprochen werden.",
-       "Indem man das Produkt kostenlos verteilt."
+       "Indem der Hinweis ‚Werbung‘ zwischen vielen Hashtags versteckt wird."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 2 chỉ ra thủ thuật giấu chữ 'Werbung' giữa hai mươi hashtag hoặc để logo tình cờ."
      },
      {
       "q": "Warum sind Minderjährige bei Influencer-Werbung besonders gefährdet?",
       "options": [
-       "Weil sie keine Rabattcodes eingeben können.",
        "Weil sie Creator oft wie Freunde sehen und kommerzielle Absichten noch schwer durchschauen.",
-       "Weil sie zu viel Fernsehen schauen.",
-       "Weil sie nur Bücher lesen."
+       "Weil sie keine Rabattcodes eingeben können.",
+       "Weil sie nur Bücher lesen.",
+       "Weil sie zu viel Fernsehen schauen."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 3 giải thích trẻ vị thành niên coi sao mạng như bạn thân và thiếu kỹ năng nhận diện."
      },
      {
       "q": "Was riskieren Creator laut Abschnitt 4, wenn sie Kennzeichnungen ignorieren?",
       "options": [
-       "Hohe Honorare.",
-       "Teure rechtliche Abmahnungen und den Verlust treuer Follower.",
        "Bessere Reichweitenstärke.",
-       "Ein Verbot von Rezeptvideos."
+       "Ein Verbot von Rezeptvideos.",
+       "Hohe Honorare.",
+       "Teure rechtliche Abmahnungen und den Verlust treuer Follower."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn 4 nêu hai rủi ro: bị cảnh cáo pháp lý tốn kém và mất người theo dõi."
      },
      {
       "q": "Was fordert der Artikel im letzten Abschnitt?",
       "options": [
-       "Ein komplettes Verbot von Werbung im Internet.",
-       "Konsequente gesetzliche Kontrollen und eine Stärkung der Medienkompetenz.",
        "Dass alle Creator gratis arbeiten.",
-       "Dass Schulen Smartphones verbieten."
+       "Ein komplettes Verbot von Werbung im Internet.",
+       "Dass Schulen Smartphones verbieten.",
+       "Konsequente gesetzliche Kontrollen und eine Stärkung der Medienkompetenz."
       ],
-      "answer": 1,
+      "answer": 3,
       "explain": "Đoạn cuối nhấn mạnh kiểm tra pháp luật nghiêm túc kết hợp giáo dục năng lực truyền thông."
      }
     ],
@@ -1957,12 +1957,12 @@
      "type": "mcq",
      "q": "Welcher Satz verwendet „zwar ... aber“ grammatikalisch richtig?",
      "options": [
+      "Das Video ist zwar unterhaltsam, trotzdem aber es enthält Werbung.",
       "Das Video ist zwar unterhaltsam, aber es enthält viel Schleichwerbung.",
       "Zwar das Video ist unterhaltsam, aber es enthält viel Schleichwerbung.",
-      "Das Video ist zwar unterhaltsam, trotzdem aber es enthält Werbung.",
       "Das Video zwar ist unterhaltsam, aber enthält es Werbung."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'zwar' đứng sau động từ chia ('ist'); 'aber' đứng đầu vế sau không đảo ngữ."
     },
     {
@@ -1970,9 +1970,9 @@
      "q": "Welche Wortstellung ist bei „allerdings“ am Anfang des zweiten Hauptsatzes korrekt?",
      "options": [
       "Der Rabatt ist verlockend; allerdings gilt er nur für Neukunden.",
-      "Der Rabatt ist verlockend; allerdings er gilt nur für Neukunden.",
+      "Der Rabatt ist verlockend; er allerdings gilt nur für Neukunden.",
       "Der Rabatt ist verlockend; allerdings nur für Neukunden er gilt.",
-      "Der Rabatt ist verlockend; er allerdings gilt nur für Neukunden."
+      "Der Rabatt ist verlockend; allerdings er gilt nur für Neukunden."
      ],
      "answer": 0,
      "explain": "'allerdings' ở vị trí 1 kéo động từ chia ('gilt') lên vị trí 2."
@@ -1981,12 +1981,12 @@
      "type": "mcq",
      "q": "Was bedeutet „Schleichwerbung“?",
      "options": [
-      "Versteckte Werbung ohne vorgeschriebene Kennzeichnung",
       "Besonders laute Radiowerbung",
       "Ein Rabatt für Stammkunden",
-      "Eine kostenlose Zeitung am Bahnhof"
+      "Eine kostenlose Zeitung am Bahnhof",
+      "Versteckte Werbung ohne vorgeschriebene Kennzeichnung"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Schleichwerbung' = quảng cáo lén lút/ẩn không gắn nhãn."
     },
     {
@@ -2006,9 +2006,9 @@
      "q": "Welches Verb bedeutet „einen versteckten Trick erkennen“?",
      "options": [
       "durchschauen",
+      "vermarkten",
       "verschleiern",
-      "sponsern",
-      "vermarkten"
+      "sponsern"
      ],
      "answer": 0,
      "explain": "'durchschauen' = nhìn thấu, nhận ra ý đồ."
@@ -2029,24 +2029,24 @@
      "type": "mcq",
      "q": "Welches Adjektiv passt: „___ Hinweise auf Produkte wirken oft wie private Tipps.“",
      "options": [
+      "Ausgewogene",
       "Subtile",
-      "Glaubhafte",
       "Transparante",
-      "Ausgewogene"
+      "Glaubhafte"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "'subtil' = tinh vi, khéo léo khó nhận ra."
     },
     {
      "type": "mcq",
      "q": "Welche Aussage stimmt zur Kennzeichnungspflicht?",
      "options": [
+      "Kinder dürfen unbegrenzt Schleichwerbung sehen.",
       "Bezahlte Kooperationen müssen eindeutig markiert werden.",
-      "Nur Fernsehsender müssen Werbung markieren.",
       "Hashtags dürfen Werbung ersetzen.",
-      "Kinder dürfen unbegrenzt Schleichwerbung sehen."
+      "Nur Fernsehsender müssen Werbung markieren."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Mọi hợp tác có trả phí đều phải được đánh dấu rõ ràng."
     },
     {
@@ -2555,9 +2555,9 @@
       "q": "Worin liegt laut Abschnitt 2 das wirtschaftliche Hauptproblem vieler Verlage?",
       "options": [
        "Dass digitale Bezahlmodelle die sinkenden Druckauflagen oft noch nicht voll ausgleichen.",
-       "Dass zu wenige Menschen ein Smartphone besitzen.",
+       "Dass es zu wenige Podcasts gibt.",
        "Dass Gedrucktes heute kostenlos verteilt wird.",
-       "Dass es zu wenige Podcasts gibt."
+       "Dass zu wenige Menschen ein Smartphone besitzen."
       ],
       "answer": 0,
       "explain": "Đoạn 2 chỉ ra thói quen đọc miễn phí khiến mô hình thu phí số chưa bù đắp hết phần sụt giảm báo in."
@@ -2565,10 +2565,10 @@
      {
       "q": "Wovor schützt gründlicher Journalismus die Öffentlichkeit laut Abschnitt 3?",
       "options": [
-       "Vor dem Kauf teurer Zeitungen.",
-       "Vor geschickten Täuschungen und verzerrter, einseitiger Darstellung.",
        "Vor neuen Podcasts.",
-       "Vor jeder Form von Werbung."
+       "Vor geschickten Täuschungen und verzerrter, einseitiger Darstellung.",
+       "Vor jeder Form von Werbung.",
+       "Vor dem Kauf teurer Zeitungen."
       ],
       "answer": 1,
       "explain": "Đoạn 3 nêu nhà báo giúp công chúng không mắc bẫy và tránh nhìn nhận bị bóp méo."
@@ -2576,45 +2576,45 @@
      {
       "q": "Welche rechtlichen Bedingungen braucht unabhängiger Journalismus?",
       "options": [
-       "Hohe Geldstrafen für kritische Fragen.",
        "Strengen Quellenschutz und das Verbot staatlicher Zensur.",
-       "Eine Pflicht zur Bezahlschranke.",
-       "Ein Verbot von Kommentarspalten."
+       "Hohe Geldstrafen für kritische Fragen.",
+       "Ein Verbot von Kommentarspalten.",
+       "Eine Pflicht zur Bezahlschranke."
       ],
-      "answer": 1,
+      "answer": 0,
       "explain": "Đoạn 3 nêu hai điều kiện: bảo vệ nguồn tin nghiêm ngặt và cấm kiểm duyệt nhà nước."
      },
      {
       "q": "Welchen Vorteil bietet der öffentlich-rechtliche Rundfunk laut Abschnitt 4?",
       "options": [
-       "Er ermöglicht anspruchsvolle Formate wie Wissenschaftsmagazine unabhängig von Klickzahlen.",
+       "Er verzichtet auf jede Recherche.",
        "Er ist für alle Haushalte komplett kostenlos.",
        "Er sendet ausschließlich Unterhaltung.",
-       "Er verzichtet auf jede Recherche."
+       "Er ermöglicht anspruchsvolle Formate wie Wissenschaftsmagazine unabhängig von Klickzahlen."
       ],
-      "answer": 0,
+      "answer": 3,
       "explain": "Đoạn 4 giải thích hệ thống này giúp phát sóng các chương trình chất lượng không phụ thuộc lượt click."
      },
      {
       "q": "Welche Rolle spielt das Publikum für die Zukunft der Medien?",
       "options": [
+       "Es sollte nur noch Boulevardpresse lesen.",
        "Keine, alles hängt nur von der Politik ab.",
        "Durch die Bereitschaft, für verlässliche Leitmedien fair zu bezahlen, stärkt es die Demokratie.",
-       "Es sollte nur noch Boulevardpresse lesen.",
        "Es sollte alle Bezahlschranken umgehen."
       ],
-      "answer": 1,
+      "answer": 2,
       "explain": "Đoạn cuối khẳng định lựa chọn chi trả cho truyền thông uy tín của công chúng góp phần bảo vệ dân chủ."
      },
      {
       "q": "Wie lässt sich die zentrale Aussage des letzten Satzes zusammenfassen?",
       "options": [
-       "Eine Gesellschaft ohne verlässliche Fakten zahlt langfristig einen höheren Preis als ein Zeitungsabo.",
        "Nachrichten müssen immer gratis sein.",
+       "Eine Gesellschaft ohne verlässliche Fakten zahlt langfristig einen höheren Preis als ein Zeitungsabo.",
        "Bücher ersetzen bald alle digitalen Medien.",
        "Aufklärung ist in Krisenzeiten unnötig."
       ],
-      "answer": 0,
+      "answer": 1,
       "explain": "Câu kết nhấn mạnh thiếu sự thật đáng tin cậy sẽ trả giá đắt hơn nhiều so với tiền mua báo."
      }
     ],
@@ -2644,8 +2644,8 @@
      "q": "Welcher Konnektor verlangt zwingend das Verb am Ende des Satzes?",
      "options": [
       "wohingegen",
-      "dagegen",
       "dennoch",
+      "dagegen",
       "allerdings"
      ],
      "answer": 0,
@@ -2656,8 +2656,8 @@
      "q": "Ergänzen Sie: „Das ist keine seriöse Quelle, ___ eine reine Gerüchteseite.“",
      "options": [
       "sondern",
-      "aber",
       "trotzdem",
+      "aber",
       "obwohl"
      ],
      "answer": 0,
@@ -2668,9 +2668,9 @@
      "q": "Welche Wortstellung ist nach „dennoch“ am Satzanfang richtig?",
      "options": [
       "Die Fakten waren klar; dennoch glaubten einige dem Gerücht.",
-      "Die Fakten waren klar; dennoch einige glaubten dem Gerücht.",
       "Die Fakten waren klar; dennoch dem Gerücht einige glaubten.",
-      "Die Fakten waren klar; einige dennoch glaubten dem Gerücht."
+      "Die Fakten waren klar; einige dennoch glaubten dem Gerücht.",
+      "Die Fakten waren klar; dennoch einige glaubten dem Gerücht."
      ],
      "answer": 0,
      "explain": "Sau 'dennoch' ở vị trí 1, động từ chia ('glaubten') đứng vị trí 2."
@@ -2679,72 +2679,72 @@
      "type": "mcq",
      "q": "Was bedeutet die Redewendung „jemandem auf den Leim gehen“?",
      "options": [
-      "Sich von jemandem täuschen lassen und auf einen Trick hereinfallen",
+      "Einen Artikel im Internet abonnieren",
       "Jemanden kritisch unter die Lupe nehmen",
-      "Eine Meldung sorgfältig verifizieren",
-      "Einen Artikel im Internet abonnieren"
+      "Sich von jemandem täuschen lassen und auf einen Trick hereinfallen",
+      "Eine Meldung sorgfältig verifizieren"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'auf den Leim gehen' = mắc bẫy, bị lừa."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet „etwas unter die Lupe nehmen“?",
      "options": [
-      "Etwas sehr genau und kritisch untersuchen",
       "Etwas sofort löschen",
       "Etwas hinter einer Bezahlschranke verstecken",
-      "Etwas unkritisch weiterleiten"
+      "Etwas unkritisch weiterleiten",
+      "Etwas sehr genau und kritisch untersuchen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'unter die Lupe nehmen' = soi xét, kiểm tra kỹ lưỡng."
     },
     {
      "type": "mcq",
      "q": "Welcher Artikel gehört zu „Leitmedium“?",
      "options": [
-      "das",
-      "der",
       "die",
-      "–"
+      "–",
+      "das",
+      "der"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Danh từ chuẩn là 'das Leitmedium, die Leitmedien'."
     },
     {
      "type": "mcq",
      "q": "Welches Verb bedeutet „die Echtheit einer Meldung prüfen und bestätigen“?",
      "options": [
-      "verifizieren",
+      "täuschen",
       "verzerren",
-      "verschleiern",
-      "täuschen"
+      "verifizieren",
+      "verschleiern"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'verifizieren' = xác minh tính xác thực."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz nutzt „trotz“ korrekt?",
      "options": [
-      "Trotz hoher Klickzahlen blieb die Qualität des Artikels schwach.",
-      "Trotz die Klickzahlen hoch waren, blieb die Qualität schwach.",
       "Trotz hohen Klickzahlen blieb die Qualität schwach.",
+      "Trotz die Klickzahlen hoch waren, blieb die Qualität schwach.",
+      "Trotz hoher Klickzahlen blieb die Qualität des Artikels schwach.",
       "Trotz obwohl die Klickzahlen hoch waren, blieb die Qualität schwach."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "'trotz + Genitiv' (trotz hoher Klickzahlen)."
     },
     {
      "type": "mcq",
      "q": "Warum ist der Quellenschutz für Journalistinnen wichtig?",
      "options": [
-      "Damit Informanten ohne Angst Missstände melden können.",
-      "Damit niemand mehr Zeitungen kauft.",
       "Damit Algorithmen schneller arbeiten.",
-      "Damit Werbung nicht markiert werden muss."
+      "Damit Werbung nicht markiert werden muss.",
+      "Damit niemand mehr Zeitungen kauft.",
+      "Damit Informanten ohne Angst Missstände melden können."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Bảo vệ nguồn tin giúp người cung cấp thông tin dám phanh phui sai phạm."
     },
     {

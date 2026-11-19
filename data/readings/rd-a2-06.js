@@ -107,47 +107,47 @@
   {
    "q": "Seit wann lebt Frau Lan in Deutschland?",
    "options": [
-    "Seit fünf Jahren",
+    "Seit über fünfundzwanzig Jahren",
     "Seit zehn Jahren",
-    "Seit über fünfundzwanzig Jahren"
+    "Seit fünf Jahren"
    ],
-   "answer": 2
+   "answer": 0
   },
   {
    "q": "Wo liegt Frau Lans Restaurant 'Hanoi Pho'?",
    "options": [
+    "In München",
     "In Berlin-Mitte",
-    "In Hamburg nahe der Sternschanze",
-    "In München"
+    "In Hamburg nahe der Sternschanze"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Was arbeitete Frau Lan ganz am Anfang?",
    "options": [
+    "Als Lehrerin",
     "Als Verkäuferin",
-    "In einer Hotelküche",
-    "Als Lehrerin"
+    "In einer Hotelküche"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Wie lange kocht Frau Lan die traditionelle Pho-Suppe?",
    "options": [
-    "Zwei Stunden",
     "Über zehn Stunden",
+    "Zwei Stunden",
     "Eine halbe Stunde"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Was freut Frau Lan besonders an ihren deutschen Gästen?",
    "options": [
-    "Dass sie viel Trinkgeld geben",
     "Dass sie ein paar Wörter Vietnamesisch sagen",
+    "Dass sie viel Trinkgeld geben",
     "Dass sie schnell essen"
    ],
-   "answer": 1
+   "answer": 0
   }
  ]
 });

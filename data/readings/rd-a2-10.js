@@ -107,36 +107,36 @@
   {
    "q": "Für welche Prüfung hat sich Minh angemeldet?",
    "options": [
-    "Goethe-Zertifikat A1",
     "Goethe-Zertifikat A2",
-    "TestDaF B2"
-   ],
-   "answer": 1
-  },
-  {
-   "q": "Wann findet Minhs Prüfung statt?",
-   "options": [
-    "Am 16. Januar",
-    "Nächste Woche",
-    "Im Sommer"
+    "TestDaF B2",
+    "Goethe-Zertifikat A1"
    ],
    "answer": 0
   },
   {
-   "q": "Wie trainiert Minh jeden Tag neue Vokabeln?",
+   "q": "Wann findet Minhs Prüfung statt?",
    "options": [
-    "Mit einem dicken Wörterbuch",
-    "Mit einer App auf dem Smartphone",
-    "Gar nicht"
+    "Im Sommer",
+    "Am 16. Januar",
+    "Nächste Woche"
    ],
    "answer": 1
   },
   {
+   "q": "Wie trainiert Minh jeden Tag neue Vokabeln?",
+   "options": [
+    "Gar nicht",
+    "Mit einem dicken Wörterbuch",
+    "Mit einer App auf dem Smartphone"
+   ],
+   "answer": 2
+  },
+  {
    "q": "Wer korrigiert Minhs schriftliche Texte?",
    "options": [
-    "Sein Deutschlehrer",
+    "Seine Mutter",
     "Seine Tandempartnerin Anna",
-    "Seine Mutter"
+    "Sein Deutschlehrer"
    ],
    "answer": 1
   },
@@ -144,10 +144,10 @@
    "q": "Welchen Vorschlag macht Minh seinem Freund Phong?",
    "options": [
     "Gemeinsam nach Berlin zu fahren",
-    "Zweimal pro Woche per Videoanruf Sprechen zu trainieren",
-    "Den Kurs abzubrechen"
+    "Den Kurs abzubrechen",
+    "Zweimal pro Woche per Videoanruf Sprechen zu trainieren"
    ],
-   "answer": 1
+   "answer": 2
   }
  ]
 });

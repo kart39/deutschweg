@@ -290,36 +290,36 @@
      "type": "mcq",
      "q": "Chọn từ đúng ở cách Nominativ: „___ Kleid gefällt dir besser? – ___ Kleid da drüben ist wunderschön!“",
      "options": [
-      "Welcher ... Dieser",
       "Welche ... Diese",
       "Welches ... Dieses",
-      "Welchen ... Diesen"
+      "Welchen ... Diesen",
+      "Welcher ... Dieser"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„das Kleid“ mang giống Trung (das), nên ở cả Nominativ và Akkusativ đều nhận đuôi „-es“: „Welches Kleid? – Dieses Kleid.“"
     },
     {
      "type": "mcq",
      "q": "Động từ tách nào mang nghĩa „cởi (quần áo, giày dép) ra“?",
      "options": [
-      "anziehen",
-      "ausziehen",
       "einziehen",
-      "umziehen"
+      "anziehen",
+      "umziehen",
+      "ausziehen"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„anziehen“ = mặc vào / xỏ vào; trái nghĩa với „ausziehen“ = cởi ra (vd: die Schuhe ausziehen)."
     },
     {
      "type": "mcq",
      "q": "Danh từ chỉ trang phục nào sau đây mang giống Đực („der“) trong tiếng Đức?",
      "options": [
-      "Rock (chan váy)",
-      "Bluse (áo so mi nu)",
       "Kleid (váy dam lien)",
-      "Hose (quần dài)"
+      "Rock (chan váy)",
+      "Hose (quần dài)",
+      "Bluse (áo so mi nu)"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Mặc dù là đồ nữ, nhưng „der Rock“ (chân váy, số nhiều: die Röcke) trong tiếng Đức lại mang giống Đực!"
     },
     {
@@ -742,12 +742,12 @@
      "type": "mcq",
      "q": "Chọn dạng đúng của động từ „gefallen“ cho danh từ số nhiều: „Wie ___ Ihnen diese schwarzen Schuhe?“",
      "options": [
-      "gefällt",
       "gefallen",
+      "gefällst",
       "gefallt",
-      "gefällst"
+      "gefällt"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Chủ ngữ của câu là „diese schwarzen Schuhe“ (số nhiều), nên động từ phải chia ở số nhiều là „gefallen“ (dù đi với đại từ Dativ „Ihnen“)."
     },
     {
@@ -755,11 +755,11 @@
      "q": "Khi mặc thử một chiếc quần và thấy nó quá chật, bạn nói câu nào?",
      "options": [
       "Die Hose ist mir zu weit.",
-      "Die Hose ist mir zu eng.",
       "Die Hose passt mir perfekt.",
-      "Die Hose ist zu billig."
+      "Die Hose ist zu billig.",
+      "Die Hose ist mir zu eng."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„zu eng“ = quá chật; trái nghĩa với „zu weit“ = quá rộng."
     },
     {
@@ -767,11 +767,11 @@
      "q": "Chọn từ đúng để hoàn thành cấu trúc so sánh bằng: „Dieser Pullover ist genauso warm ___ die Jacke.“",
      "options": [
       "als",
-      "wie",
       "zu",
-      "für"
+      "für",
+      "wie"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Cấu trúc so sánh ngang bằng trong tiếng Đức luôn dùng „(genau)so + Tính từ + wie“."
     },
     {
@@ -1190,29 +1190,29 @@
      {
       "q": "In welchem Stockwerk findet man ein Hemd und einen Anzug für Männer?",
       "options": [
-       "Im Erdgeschoss (EG).",
+       "Im 2. Stock.",
        "Im 1. Stock.",
-       "Im 2. Stock."
+       "Im Erdgeschoss (EG)."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Wohin muss man gehen, wenn man eine Jacke umtauschen möchte?",
       "options": [
-       "In das Untergeschoss zum Supermarkt.",
        "In den 4. Stock zum Kundenservice.",
+       "In das Untergeschoss zum Supermarkt.",
        "In den 3. Stock in die Sportabteilung."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Auf welche Produkte bekommt man in dieser Woche 20 Prozent Rabatt?",
       "options": [
-       "Auf alle Wintermäntel und Stiefel.",
        "Auf alle Koffer und Reisetaschen.",
+       "Auf alle Wintermäntel und Stiefel.",
        "Auf Kinderkleidung und Spielzeug."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1227,36 +1227,36 @@
      "type": "mcq",
      "q": "Khi muốn trả tiền mặt tại quầy thu ngân, bạn nói câu nào?",
      "options": [
-      "Ich zahle bitte mit Karte.",
-      "Ich zahle bitte bar.",
+      "Ich zahle bitte kaputt.",
       "Ich zahle bitte kostenlos.",
-      "Ich zahle bitte kaputt."
+      "Ich zahle bitte bar.",
+      "Ich zahle bitte mit Karte."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„bar zahlen / bezahlen“ có nghĩa là thanh toán bằng tiền mặt; trái với „mit Karte zahlen“ (thanh toán bằng thẻ)."
     },
     {
      "type": "mcq",
      "q": "Để đổi một món quần áo không vừa cỡ tại cửa hàng ở Đức, bạn bắt buộc phải mang theo giấy tờ gì?",
      "options": [
-      "Das Rezept vom Arzt",
       "Den Kassenbon (die Quittung)",
-      "Die Speisekarte",
-      "Die Fahrkarte"
+      "Die Fahrkarte",
+      "Das Rezept vom Arzt",
+      "Die Speisekarte"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Khi đổi trả hàng (umtauschen / zurückgeben), khách hàng cần xuất trình hóa đơn mua hàng: „der Kassenbon“ hoặc „die Quittung“."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng đúng của động từ tách „zurückgeben“ ở ngôi thứ 3 số ít: „Die Hose ist zu kurz. Anna ___ sie morgen im Geschäft ___.“",
      "options": [
-      "gebt ... zurück",
       "gibt ... zurück",
-      "zurückgibt ...",
-      "geben ... zurück"
+      "geben ... zurück",
+      "gebt ... zurück",
+      "zurückgibt ..."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„zurückgeben“ là động từ tách và đổi nguyên âm e → i ở ngôi du và er/sie/es: „Anna gibt sie ... zurück“."
     },
     {
@@ -1869,11 +1869,11 @@
      {
       "q": "Welche Jacke nimmt Mia?",
       "options": [
-       "Die Jacke in Größe 40.",
        "Die Jacke in Größe 38.",
+       "Die Jacke in Größe 40.",
        "Sie nimmt keine Jacke."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1888,32 +1888,32 @@
      "type": "mcq",
      "q": "Chọn dạng hỏi cho chủ ngữ giống đực. {{___ Pullover ist blau?}}",
      "options": [
-      "Welchen",
+      "Welches",
       "Welche",
-      "Welcher",
-      "Welches"
+      "Welchen",
+      "Welcher"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Pullover}} là chủ ngữ giống đực số ít, nên dùng {{welcher}}."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng chỉ đúng. {{Ich kaufe ___ Mantel.}}",
      "options": [
-      "diesen",
-      "dieser",
+      "diese",
       "dieses",
-      "diese"
+      "dieser",
+      "diesen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Mantel}} là tân ngữ giống đực, nên dùng {{diesen}}."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng hỏi phù hợp. {{___ Kleid möchtest du?}}",
      "options": [
-      "Welche",
       "Welchen",
+      "Welche",
       "Welcher",
       "Welches"
      ],
@@ -1924,10 +1924,10 @@
      "type": "mcq",
      "q": "Chọn câu nói đôi giày này màu đen.",
      "options": [
-      "Dieser Schuh sind schwarz.",
-      "Diese Schuhe sind schwarz.",
       "Diesen Schuhe sind schwarz.",
-      "Diese Schuhe ist schwarz."
+      "Diese Schuhe sind schwarz.",
+      "Diese Schuhe ist schwarz.",
+      "Dieser Schuh sind schwarz."
      ],
      "answer": 1,
      "explain": "{{Schuhe}} là số nhiều. Dùng {{diese}} và {{sind}}."
@@ -1936,12 +1936,12 @@
      "type": "mcq",
      "q": "Chọn câu hỏi bạn lấy chiếc mũ nào.",
      "options": [
+      "Welches Hut nimmst du?",
       "Welcher Hut ist hier?",
       "Welche Hut nimmst du?",
-      "Welchen Hut nimmst du?",
-      "Welches Hut nimmst du?"
+      "Welchen Hut nimmst du?"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Hut}} là tân ngữ giống đực, nên chọn {{welchen Hut}}."
     },
     {
@@ -2125,21 +2125,21 @@
      "type": "mcq",
      "q": "Chọn câu nói chiếc sơ mi rộng quá.",
      "options": [
-      "Das Hemd ist zu groß.",
       "Das Hemd ist groß.",
       "Das Hemd ist zu große.",
-      "Das Hemd sind zu groß."
+      "Das Hemd sind zu groß.",
+      "Das Hemd ist zu groß."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Dùng {{zu groß}} để nói rộng quá. Sau {{ist}}, tính từ giữ dạng {{groß}}."
     },
     {
      "type": "mcq",
      "q": "Chọn câu nói hai tay áo dài quá.",
      "options": [
-      "Die Ärmel ist zu lang.",
-      "Die Ärmel sind zu lange.",
       "Die Ärmel sind lang zu.",
+      "Die Ärmel sind zu lange.",
+      "Die Ärmel ist zu lang.",
       "Die Ärmel sind zu lang."
      ],
      "answer": 3,
@@ -2149,36 +2149,36 @@
      "type": "mcq",
      "q": "Chiếc quần ôm quá chặt. Chọn cách nói đúng.",
      "options": [
-      "Die Hose ist zu kurz.",
-      "Die Hose ist zu eng.",
+      "Die Hose ist zu lang.",
       "Die Hose ist zu weit.",
-      "Die Hose ist zu lang."
+      "Die Hose ist zu eng.",
+      "Die Hose ist zu kurz."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "{{Eng}} diễn đạt chật, còn {{weit}} chỉ rộng."
     },
     {
      "type": "mcq",
      "q": "Chọn cách xin phép thử đôi giày.",
      "options": [
-      "Welche Schuhe trägst du?",
-      "Darf ich diese Schuhe probiere an?",
       "Darf ich diese Schuhe anprobieren?",
-      "Darf ich diese Schuhe probieren an?"
+      "Welche Schuhe trägst du?",
+      "Darf ich diese Schuhe probieren an?",
+      "Darf ich diese Schuhe probiere an?"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Sau {{darf}}, đặt nguyên mẫu {{anprobieren}} ở cuối."
     },
     {
      "type": "mcq",
      "q": "Chọn câu hỏi chiếc quần có vừa không.",
      "options": [
+      "Ist die Hose aus Wolle?",
       "Passt die Hose?",
       "Passen die Hose?",
-      "Ist die Hose aus Wolle?",
       "Wo ist die Hose?"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{Die Hose}} là số ít nên dùng {{passt}}. Đưa động từ lên đầu câu hỏi."
     },
     {
@@ -2363,8 +2363,8 @@
      "type": "mcq",
      "q": "Cụm nào nói chiếc áo dài bằng chiếc áo khoác dài?",
      "options": [
-      "so viel wie der Mantel",
       "zu lang wie der Mantel",
+      "so viel wie der Mantel",
       "so lang wie der Mantel",
       "so wie lang der Mantel"
      ],
@@ -2375,21 +2375,21 @@
      "type": "mcq",
      "q": "Câu nào nói giá của chân váy và quần bằng nhau?",
      "options": [
-      "Der Rock kostet genauso viel wie die Hose.",
-      "Der Rock ist genauso lang wie die Hose.",
+      "Der Rock ist zu teuer.",
       "Der Rock kostet viel.",
-      "Der Rock ist zu teuer."
+      "Der Rock ist genauso lang wie die Hose.",
+      "Der Rock kostet genauso viel wie die Hose."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Genauso viel wie}} sau {{kostet}} cho biết hai giá bằng nhau."
     },
     {
      "type": "mcq",
      "q": "Bạn muốn đổi chiếc áo khoác. Chọn câu phù hợp.",
      "options": [
-      "Ich möchte die Jacke anprobieren.",
       "Ich möchte die Jacke kaufen.",
       "Ich möchte den Kassenbon.",
+      "Ich möchte die Jacke anprobieren.",
       "Ich möchte die Jacke umtauschen."
      ],
      "answer": 3,
@@ -2400,19 +2400,19 @@
      "q": "Chọn câu nói quần này không dài bằng quần jeans.",
      "options": [
       "Diese Hose ist so lang wie die Jeanshose.",
+      "Diese Jeanshose ist nicht so lang wie diese Hose.",
       "Diese Hose ist nicht so lang wie die Jeanshose.",
-      "Diese Hose ist zu lang.",
-      "Diese Jeanshose ist nicht so lang wie diese Hose."
+      "Diese Hose ist zu lang."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Mẫu {{nicht so lang wie}} phủ định độ dài bằng nhau."
     },
     {
      "type": "mcq",
      "q": "Nhân viên hỏi biên lai ở quầy. Chọn từ phù hợp nhất cho loại biên lai này.",
      "options": [
-      "das Etikett",
       "der Gutschein",
+      "das Etikett",
       "der Kassenbon",
       "der Rabatt"
      ],

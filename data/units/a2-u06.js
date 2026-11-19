@@ -367,17 +367,17 @@
      {
       "q": "Was war mit Noras Akku?",
       "options": [
-       "Er war fast leer.",
        "Er war ganz voll.",
-       "Er war neu."
+       "Er war neu.",
+       "Er war fast leer."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Wo war der neue Treffpunkt?",
       "options": [
-       "Im Bus.",
        "Am Bahnhof.",
+       "Im Bus.",
        "Vor dem Kino."
       ],
       "answer": 2
@@ -385,20 +385,20 @@
      {
       "q": "Warum wollte Nora die Adresse als Text?",
       "options": [
-       "Sie hatte kein Smartphone.",
        "Sie konnte die Nachricht im Bus schlecht hören.",
+       "Sie hatte kein Smartphone.",
        "Sie kannte Ben nicht."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was macht Ben seitdem bei wichtigen Änderungen?",
       "options": [
-       "Er schreibt sie als Text.",
+       "Er wartet bis zum Kurs.",
        "Er ruft niemanden mehr an.",
-       "Er wartet bis zum Kurs."
+       "Er schreibt sie als Text."
       ],
-      "answer": 0
+      "answer": 2
      }
     ],
     "glossary": []
@@ -413,36 +413,36 @@
      "type": "mcq",
      "q": "Chọn mệnh đề điều kiện đúng.",
      "options": [
+      "wenn ich telefonieren kann",
       "wenn ich kann telefonieren",
       "wenn kann ich telefonieren",
-      "wenn ich telefonieren kann",
       "wenn telefonieren ich kann"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Động từ đã chia {{kann}} đứng cuối."
     },
     {
      "type": "mcq",
      "q": "Câu nào đúng khi đặt điều kiện lên đầu?",
      "options": [
-      "Wenn ich Zeit habe, rufe ich dich an.",
-      "Wenn ich Zeit habe, ich rufe dich an.",
       "Wenn habe ich Zeit, rufe ich dich an.",
+      "Wenn ich Zeit habe, ich rufe dich an.",
+      "Wenn ich Zeit habe, rufe ich dich an.",
       "Wenn ich habe Zeit, ich rufe dich an."
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "Sau mệnh đề phụ đứng đầu, mệnh đề chính bắt đầu bằng {{rufe}}."
     },
     {
      "type": "mcq",
      "q": "Chọn cách hỏi thời điểm.",
      "options": [
-      "Wenn du anrufst?",
       "Ob du anrufst?",
+      "Wann rufst du an?",
       "Wie du anrufst?",
-      "Wann rufst du an?"
+      "Wenn du anrufst?"
      ],
-     "answer": 3,
+     "answer": 1,
      "explain": "Dùng {{wann}} trong câu hỏi trực tiếp về thời gian."
     },
     {
@@ -450,11 +450,11 @@
      "q": "Câu nào nói pin sắp hết?",
      "options": [
       "Der Ton ist zu laut.",
-      "Der Akku ist fast leer.",
+      "Mein Akku ist voll.",
       "Das Display ist hell.",
-      "Mein Akku ist voll."
+      "Der Akku ist fast leer."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Fast leer}} nghĩa là gần cạn."
     },
     {
@@ -462,9 +462,9 @@
      "q": "Chọn trật tự đúng với động từ tách trong mệnh đề phụ.",
      "options": [
       "wenn ich lade das Handy auf",
-      "wenn auflade ich das Handy",
+      "wenn ich das Handy lade auf",
       "wenn ich das Handy auflade",
-      "wenn ich das Handy lade auf"
+      "wenn auflade ich das Handy"
      ],
      "answer": 2,
      "explain": "Trong mệnh đề phụ, viết liền {{auflade}} ở cuối."
@@ -1008,38 +1008,38 @@
      {
       "q": "Was sieht man auf dem ersten Foto?",
       "options": [
-       "Nur Getränke.",
+       "Nur Yen.",
        "Alle Teilnehmer.",
-       "Nur Yen."
+       "Nur Getränke."
       ],
       "answer": 1
      },
      {
       "q": "Wie fragt Yen nach der Meinung der Teilnehmer?",
       "options": [
-       "Sie macht eine Umfrage.",
        "Sie schreibt einen öffentlichen Kommentar.",
+       "Sie macht eine Umfrage.",
        "Sie ruft alle einzeln an."
       ],
-      "answer": 0
+      "answer": 1
      },
      {
       "q": "Wo erscheint das Gruppenfoto?",
       "options": [
        "Auf dem öffentlichen Profil.",
-       "Auf der Veranstaltungsseite.",
-       "In der privaten Gruppe."
+       "In der privaten Gruppe.",
+       "Auf der Veranstaltungsseite."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was schickt Yen Ben am Abend?",
       "options": [
-       "Einen Link.",
+       "Eine Sprachnachricht.",
        "Ein neues Profilbild.",
-       "Eine Sprachnachricht."
+       "Einen Link."
       ],
-      "answer": 0
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1054,12 +1054,12 @@
      "type": "mcq",
      "q": "Chọn cách hỏi gián tiếp đúng.",
      "options": [
-      "Weißt du, wenn das Profil ist öffentlich?",
-      "Weißt du, ob das Profil öffentlich ist?",
+      "Weißt du ob das Profil ist öffentlich?",
       "Weißt du, ob ist das Profil öffentlich?",
-      "Weißt du ob das Profil ist öffentlich?"
+      "Weißt du, ob das Profil öffentlich ist?",
+      "Weißt du, wenn das Profil ist öffentlich?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Dùng dấu phẩy trước {{ob}} và đặt {{ist}} ở cuối."
     },
     {
@@ -1067,47 +1067,47 @@
      "q": "Câu nào yêu cầu câu trả lời có/không?",
      "options": [
       "Poste das Foto, wenn Ben Ja sagt.",
+      "Der Beitrag ist schon online.",
       "Wenn alle da sind, machen wir ein Foto.",
-      "Sag mir bitte, ob Ben zugestimmt hat.",
-      "Der Beitrag ist schon online."
+      "Sag mir bitte, ob Ben zugestimmt hat."
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Ob Ben zugestimmt hat}} bao gồm hai khả năng: có hoặc không."
     },
     {
      "type": "mcq",
      "q": "Chọn dấu và trật tự đúng.",
      "options": [
+      "Ich weiß nicht, ob hat sie den Beitrag gelesen.",
       "Ich weiß nicht, ob sie den Beitrag gelesen hat.",
       "Ich weiß nicht ob sie hat den Beitrag gelesen?",
-      "Ich weiß nicht, ob hat sie den Beitrag gelesen.",
       "Ich weiß nicht ob sie den Beitrag hat gelesen."
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Câu chính là câu kể, nên dùng dấu chấm. Cuối mệnh đề phụ là {{gelesen hat}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào nêu điều kiện để đăng ảnh?",
      "options": [
-      "Ich frage, ob sie das Foto kennt.",
+      "Poste das Foto, wenn alle einverstanden sind.",
       "Frag, ob das Foto öffentlich ist.",
-      "Er weiß nicht, ob er das Foto posten darf.",
-      "Poste das Foto, wenn alle einverstanden sind."
+      "Ich frage, ob sie das Foto kennt.",
+      "Er weiß nicht, ob er das Foto posten darf."
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{Wenn}} nêu điều kiện. {{Ob}} dẫn câu hỏi gián tiếp có/không."
     },
     {
      "type": "mcq",
      "q": "Cụm nào có nghĩa ‘bản nháp của bài đăng’?",
      "options": [
-      "der Entwurf des Beitrags",
-      "der letzte Kommentar",
       "das neue Profilbild",
-      "der Benutzername"
+      "der Benutzername",
+      "der Entwurf des Beitrags",
+      "der letzte Kommentar"
      ],
-     "answer": 0,
+     "answer": 2,
      "explain": "{{Entwurf}} là bản nháp."
     },
     {
@@ -1656,29 +1656,29 @@
      {
       "q": "Was schickt ihm die Mitarbeiterin?",
       "options": [
-       "Einen neuen Zugangslink.",
+       "Eine Rechnung.",
        "Ein Kursfoto.",
-       "Eine Rechnung."
+       "Einen neuen Zugangslink."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Wo findet Tuan die Bestätigung?",
       "options": [
        "Im Suchfeld.",
-       "Im Posteingang.",
-       "Im Spamordner."
+       "Im Spamordner.",
+       "Im Posteingang."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Was steht in der Bestätigung?",
       "options": [
+       "Warum sein Browser langsam ist.",
        "Wie groß seine Datei sein darf.",
-       "Wann der Kurs anfängt und was er mitbringen soll.",
-       "Warum sein Browser langsam ist."
+       "Wann der Kurs anfängt und was er mitbringen soll."
       ],
-      "answer": 1
+      "answer": 2
      }
     ],
     "glossary": []
@@ -1694,59 +1694,59 @@
      "q": "Chọn câu hỏi gián tiếp đúng.",
      "options": [
       "Können Sie mir sagen, wo ist das Formular?",
-      "Können Sie mir sagen, wo das Formular ist?",
       "Können Sie mir sagen, ob ist wo das Formular?",
-      "Können Sie mir sagen wo das Formular ist."
+      "Können Sie mir sagen wo das Formular ist.",
+      "Können Sie mir sagen, wo das Formular ist?"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Giữ {{wo}}, đặt dấu phẩy trước nó và đưa {{ist}} xuống cuối."
     },
     {
      "type": "mcq",
      "q": "Chọn từ mở đầu phần hỏi ‘bằng cách nào’.",
      "options": [
-      "ob",
+      "wie",
       "wann",
       "warum",
-      "wie"
+      "ob"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{Wie}} hỏi cách làm."
     },
     {
      "type": "mcq",
      "q": "Câu nào đúng về vị trí động từ khuyết thiếu?",
      "options": [
-      "Ich möchte wissen, wie ich die Datei hochladen kann.",
-      "Ich möchte wissen, wie kann ich die Datei hochladen.",
       "Ich möchte wissen, wie ich kann die Datei hochladen.",
-      "Ich möchte wissen, wie ich die Datei kann hochladen."
+      "Ich möchte wissen, wie ich die Datei kann hochladen.",
+      "Ich möchte wissen, wie kann ich die Datei hochladen.",
+      "Ich möchte wissen, wie ich die Datei hochladen kann."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "Dạng chia {{kann}} đứng sau nguyên mẫu {{hochladen}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào cần dùng ob để chuyển sang gián tiếp?",
      "options": [
-      "Wo ist der Link?",
       "Warum lädt die Seite nicht?",
-      "Ist der Link noch gültig?",
-      "Wie heißt die Datei?"
+      "Wo ist der Link?",
+      "Wie heißt die Datei?",
+      "Ist der Link noch gültig?"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Ist der Link noch gültig?}} là câu hỏi có/không, nên chuyển bằng {{ob}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào có dấu câu chuẩn?",
      "options": [
-      "Ich weiß nicht wann der Kurs beginnt?",
       "Ich weiß nicht, wann der Kurs beginnt.",
+      "Ich weiß nicht wann der Kurs beginnt?",
       "Ich weiß nicht, wann beginnt der Kurs.",
       "Ich weiß nicht wann der Kurs beginnt."
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Đặt dấu phẩy trước {{wann}}. Mệnh đề chính là câu kể."
     },
     {
@@ -2398,20 +2398,20 @@
      {
       "q": "Wie viele Stunden pro Tag sind junge Leute unter 25 Jahren laut der Umfrage im Internet?",
       "options": [
-       "Weniger als eine Stunde.",
+       "Mehr als fünf Stunden täglich.",
        "Genau zwei Stunden.",
-       "Mehr als fünf Stunden täglich."
+       "Weniger als eine Stunde."
       ],
-      "answer": 2
+      "answer": 0
      },
      {
       "q": "Was wünschen sich über 70 Prozent aller Befragten?",
       "options": [
-       "Sie möchten im Urlaub oder am Sonntag das Handy öfter ausschalten, um mehr Ruhe zu haben.",
        "Sie möchten noch drei weitere Smartphones kaufen.",
+       "Sie möchten im Urlaub oder am Sonntag das Handy öfter ausschalten, um mehr Ruhe zu haben.",
        "Sie möchten ihre private Adresse im Internet veröffentlichen."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -2426,48 +2426,48 @@
      "type": "mcq",
      "q": "Chọn câu có mệnh đề điều kiện với „wenn“ đúng ngữ pháp:",
      "options": [
-      "Wenn du brauchst Hilfe, ruf mich bitte an!",
-      "Wenn du Hilfe brauchst, ruf mich bitte an!",
+      "Wenn du Hilfe brauchst, du rufst mich bitte an!",
       "Wenn brauchst du Hilfe, ruf mich bitte an!",
-      "Wenn du Hilfe brauchst, du rufst mich bitte an!"
+      "Wenn du brauchst Hilfe, ruf mich bitte an!",
+      "Wenn du Hilfe brauchst, ruf mich bitte an!"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Trong mệnh đề phụ với „Wenn“, động từ đã chia („brauchst“) phải đứng ở cuối mệnh đề phụ; sau dấu phẩy, mệnh đề chính là câu mệnh lệnh bắt đầu bằng động từ („ruf mich bitte an!“)."
     },
     {
      "type": "mcq",
      "q": "Khi pin điện thoại bị hết sạch, người Đức nói như thế nào?",
      "options": [
-      "Der Akku ist kaputt.",
-      "Der Akku ist leer.",
       "Der Akku ist voll.",
-      "Der Akku ist hungrig."
+      "Der Akku ist kaputt.",
+      "Der Akku ist hungrig.",
+      "Der Akku ist leer."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„Der Akku ist leer“ = Pin hết/cạn rồi; trái nghĩa với „Der Akku ist voll“ = Pin đầy rồi."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng Partizip II đúng của động từ tách „herunterladen“ (tải xuống):",
      "options": [
-      "geheruntergeladen",
       "heruntergeladen",
+      "herunterladen",
       "heruntergeladet",
-      "herunterladen"
+      "geheruntergeladen"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„herunterladen“ là động từ tách (herunter- + laden) và là động từ mạnh: âm tiết „-ge-“ chèn vào giữa và giữ đuôi „-en“ → „hat heruntergeladen“."
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng khi mệnh đề „wenn“ có chứa một động từ tách („ankommen“):",
      "options": [
-      "Ich schreibe dir eine Nachricht, wenn ich in Berlin komme an.",
-      "Ich schreibe dir eine Nachricht, wenn ich in Berlin ankomme.",
       "Ich schreibe dir eine Nachricht, wenn komme ich in Berlin an.",
-      "Ich schreibe dir eine Nachricht, wenn ich ankomme in Berlin."
+      "Ich schreibe dir eine Nachricht, wenn ich ankomme in Berlin.",
+      "Ich schreibe dir eine Nachricht, wenn ich in Berlin komme an.",
+      "Ich schreibe dir eine Nachricht, wenn ich in Berlin ankomme."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Trong mệnh đề phụ sau „wenn“, động từ tách „ankommen“ được đưa xuống cuối câu và nối liền tiền tố + động từ chia thành một từ: „... wenn ich in Berlin ankomme“."
     },
     {
@@ -2639,10 +2639,10 @@
      "options": [
       "wann",
       "dass",
-      "ob",
-      "wenn"
+      "wenn",
+      "ob"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Khi chuyển một câu hỏi Có/Không (không có từ để hỏi W-Wort) sang câu hỏi gián tiếp, ta luôn dùng liên từ „ob“ (liệu ... có ... không) và đưa động từ xuống cuối câu."
     },
     {
@@ -2650,11 +2650,11 @@
      "q": "Chọn câu hỏi gián tiếp đúng ngữ pháp được chuyển từ câu: „Wann beginnt das Konzert?“",
      "options": [
       "Können Sie mir sagen, wann beginnt das Konzert?",
+      "Können Sie mir sagen, wann beginnen das Konzert?",
       "Können Sie mir sagen, wann das Konzert beginnt?",
-      "Können Sie mir sagen, ob das Konzert beginnt?",
-      "Können Sie mir sagen, wann beginnen das Konzert?"
+      "Können Sie mir sagen, ob das Konzert beginnt?"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Khi câu hỏi gốc có từ để hỏi „Wann“, ta giữ nguyên „wann“ sau dấu phẩy và đẩy động từ đã chia „beginnt“ xuống cuối cùng của câu."
     },
     {
@@ -2663,8 +2663,8 @@
      "options": [
       "wenn ... Ob",
       "ob ... Wenn",
-      "ob ... Ob",
-      "dass ... Wenn"
+      "dass ... Wenn",
+      "ob ... Ob"
      ],
      "answer": 1,
      "explain": "Sau „Ich weiß noch nicht,“ (tôi chưa biết liệu có... không) bắt buộc dùng „ob“. Còn câu thứ hai chỉ điều kiện („Nếu tôi có thời gian...“) dùng „Wenn“."
@@ -2673,10 +2673,10 @@
      "type": "mcq",
      "q": "Khi bạn gọi điện đến một văn phòng nhưng đường dây đang bận (đang có người khác nói chuyện), tiếng Đức dùng tính từ nào?",
      "options": [
-      "Die Leitung ist leer.",
+      "Die Leitung ist pünktlich.",
       "Die Leitung ist besetzt.",
-      "Die Leitung ist kostenlos.",
-      "Die Leitung ist pünktlich."
+      "Die Leitung ist leer.",
+      "Die Leitung ist kostenlos."
      ],
      "answer": 1,
      "explain": "„besetzt“ dùng cho đường dây điện thoại đang báo bận (Es ist besetzt) hoặc chỗ ngồi đã có người ngồi (Der Platz ist besetzt)."
@@ -2848,34 +2848,34 @@
      "type": "mcq",
      "q": "Cụm từ cố định „mit jemandem in Kontakt bleiben“ có nghĩa là gì?",
      "options": [
-      "Cắt đứt liên lạc với ai",
       "Giữ liên lạc với ai",
-      "Ký hợp đồng thuê nhà với ai",
-      "Cãi nhau với ai trên mạng"
+      "Cãi nhau với ai trên mạng",
+      "Cắt đứt liên lạc với ai",
+      "Ký hợp đồng thuê nhà với ai"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„in Kontakt bleiben (mit + Dativ)“ có nghĩa là giữ liên lạc với ai (ví dụ qua điện thoại, mạng xã hội)."
     },
     {
      "type": "mcq",
      "q": "Khi muốn nói „tải ảnh lên mạng / đăng tải lên đám mây“ (trái nghĩa với herunterladen), tiếng Đức dùng động từ nào?",
      "options": [
+      "ausladen",
       "hochladen",
-      "aufladen",
       "einladen",
-      "ausladen"
+      "aufladen"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "„herunterladen“ = tải xuống (download); trái nghĩa với „hochladen“ = tải lên mạng (upload). Còn „aufladen“ là sạc pin; „einladen“ là mời."
     },
     {
      "type": "mcq",
      "q": "Trong một bức email trang trọng gửi cho công ty hoặc cơ quan ở Đức, lời chào kết thư chuẩn nhất là gì?",
      "options": [
-      "Bis bald und Küsschen",
+      "Dein bester Freund",
       "Mit freundlichen Grüßen",
       "Tschüssi",
-      "Dein bester Freund"
+      "Bis bald und Küsschen"
      ],
      "answer": 1,
      "explain": "„Mit freundlichen Grüßen“ (Trân trọng kính chào – không có dấu phẩy ở cuối!) là lời chào kết chuẩn mực cho mọi thư từ và email trang trọng tại Đức."
@@ -2884,12 +2884,12 @@
      "type": "mcq",
      "q": "Danh từ ghép „der Datenschutz“ có nghĩa là gì?",
      "options": [
-      "Man hinh máy tính",
-      "Sự bảo vệ dữ liệu cá nhân / bảo mật thông tin",
       "Phí lắp đặt mạng Internet",
-      "Cửa hàng sửa chữa điện thoại"
+      "Man hinh máy tính",
+      "Cửa hàng sửa chữa điện thoại",
+      "Sự bảo vệ dữ liệu cá nhân / bảo mật thông tin"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„die Daten“ (dữ liệu) + „der Schutz“ (sự bảo vệ) = „der Datenschutz“ (bảo vệ dữ liệu cá nhân / quyền riêng tư thông tin)."
     },
     {

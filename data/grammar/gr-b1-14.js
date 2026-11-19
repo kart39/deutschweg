@@ -10,48 +10,48 @@
    "type": "mcq",
    "q": "Welche Konjunktion passt? \"Er geht ohne Jacke raus, ___ es draußen eiskalt ist.\"",
    "options": [
-    "obwohl",
+    "weil",
     "trotzdem",
     "trotz",
-    "weil"
+    "obwohl"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Mệnh đề phụ có động từ ở cuối câu ('ist') chỉ sự nhượng bộ dùng liên từ 'obwohl' (mặc dù)."
   },
   {
    "type": "mcq",
    "q": "Es regnet in Strömen. ___ geht die Sportlerin eine Stunde joggen.",
    "options": [
-    "Trotzdem",
     "Obwohl",
     "Trotz",
+    "Trotzdem",
     "Denn"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Đứng ở đầu câu chính (vị trí 1) và đảo động từ 'geht' lên vị trí 2 dùng phó từ 'Trotzdem'."
   },
   {
    "type": "mcq",
    "q": "___ des schlechten Wetters machten die Touristen einen langen Ausflug.",
    "options": [
-    "Trotz",
     "Obwohl",
     "Trotzdem",
-    "Wegen"
+    "Wegen",
+    "Trotz"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Đi với cụm danh từ ở Genitiv ('des schlechten Wetters') chỉ sự nhượng bộ dùng giới từ 'Trotz'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist grammatisch VOLLKOMMEN KORREKT?",
    "options": [
-    "Obwohl er krank war, ging er zur Arbeit.",
+    "Obwohl er war krank, ging er zur Arbeit.",
     "Obwohl er krank war, aber er ging zur Arbeit.",
-    "Obwohl er krank war, trotzdem ging er zur Arbeit.",
-    "Obwohl er war krank, ging er zur Arbeit."
+    "Obwohl er krank war, ging er zur Arbeit.",
+    "Obwohl er krank war, trotzdem ging er zur Arbeit."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Trong câu có 'obwohl', động từ ở cuối câu phụ ('war') và vế chính bắt đầu ngay bằng động từ ('ging er'), không thêm 'aber' hay 'trotzdem'."
   },
   {
@@ -59,9 +59,9 @@
    "q": "Er hat sehr viel gelernt. ___ hat er die schwere Prüfung nicht bestanden.",
    "options": [
     "Dennoch",
-    "Obwohl",
     "Trotz",
-    "Weil"
+    "Weil",
+    "Obwohl"
    ],
    "answer": 0,
    "explain": "'Dennoch' (đồng nghĩa với 'trotzdem') là phó từ liên kết vị trí 1 chỉ sự nhượng bộ."
@@ -70,12 +70,12 @@
    "type": "mcq",
    "q": "Trotz ___ (die schwere Verletzung, Genitiv) spielte der Fußballer weiter.",
    "options": [
-    "der schweren Verletzung",
-    "die schwere Verletzung",
+    "den schweren Verletzungen",
     "der schwere Verletzung",
-    "den schweren Verletzungen"
+    "die schwere Verletzung",
+    "der schweren Verletzung"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'Trotz' đòi hỏi Genitiv giống cái: 'der schweren Verletzung'."
   },
   {

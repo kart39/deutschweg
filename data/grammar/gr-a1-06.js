@@ -27,11 +27,11 @@
    "q": "Welches Wort passt? 'Ich habe heute leider ___ Zeit für das Kino.'",
    "options": [
     "nicht",
-    "kein",
     "keine",
-    "keinen"
+    "keinen",
+    "kein"
    ],
-   "answer": 2,
+   "answer": 1,
    "explain": "'Zeit' là danh từ giống cái (die Zeit), ở Akkusativ dùng 'keine Zeit'."
   },
   {
@@ -39,9 +39,9 @@
    "q": "Welches Wort passt? 'Mein Bruder wohnt ___ in Berlin, sondern in Köln.'",
    "options": [
     "kein",
-    "keine",
+    "nichts",
     "nicht",
-    "nichts"
+    "keine"
    ],
    "answer": 2,
    "explain": "Phủ định cụm giới từ 'in Berlin' dùng 'nicht'."
@@ -52,34 +52,34 @@
    "options": [
     "nicht",
     "kein",
-    "keine",
-    "keinen"
+    "keinen",
+    "keine"
    ],
-   "answer": 3,
+   "answer": 2,
    "explain": "'Alkohol' là danh từ giống đực (der Alkohol) ở Akkusativ nên dùng 'keinen'."
   },
   {
    "type": "mcq",
    "q": "Welches Wort passt? 'Das Wetter ist heute leider ___ schön.'",
    "options": [
-    "nicht",
-    "kein",
     "keine",
-    "keines"
+    "keines",
+    "kein",
+    "nicht"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Phủ định tính từ 'schön' bắt buộc dùng 'nicht'."
   },
   {
    "type": "mcq",
    "q": "Welches Wort passt? 'Hast du einen Hund? - Nein, ich habe ___ Hund.'",
    "options": [
-    "nicht",
-    "kein",
+    "keinen",
     "keine",
-    "keinen"
+    "nicht",
+    "kein"
    ],
-   "answer": 3,
+   "answer": 0,
    "explain": "Khẳng định là 'einen Hund' (Akkusativ giống đực), phủ định tương ứng là 'keinen Hund'."
   },
   {

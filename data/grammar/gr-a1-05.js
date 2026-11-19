@@ -25,48 +25,48 @@
    "type": "mcq",
    "q": "Wie heißt der Plural von 'das Buch'?",
    "options": [
-    "die Buche",
     "die Bücher",
+    "die Buche",
     "die Buchs",
     "die Büchern"
    ],
-   "answer": 1,
+   "answer": 0,
    "explain": "Số nhiều của 'das Buch' thêm đuôi '-er' và biến âm Umlaut: 'die Bücher'."
   },
   {
    "type": "mcq",
    "q": "Wie heißt der Plural von 'die Frau'?",
    "options": [
-    "die Fraue",
     "die Fräue",
     "die Frauen",
-    "die Fraus"
+    "die Fraus",
+    "die Fraue"
    ],
-   "answer": 2,
+   "answer": 1,
    "explain": "Danh từ giống cái phần lớn thêm đuôi '-en': 'die Frauen' (không có Umlaut)."
   },
   {
    "type": "mcq",
    "q": "Wie heißt der Plural von 'das Auto'?",
    "options": [
+    "die Autos",
     "die Auto",
     "die Auton",
-    "die Autos",
     "die Autoe"
    ],
-   "answer": 2,
+   "answer": 0,
    "explain": "Từ tận cùng bằng nguyên âm -o có dạng số nhiều thêm '-s': 'die Autos'."
   },
   {
    "type": "mcq",
    "q": "Wie heißt der Plural von 'der Apfel'?",
    "options": [
-    "die Äpfel",
     "die Apfeln",
     "die Apfels",
+    "die Äpfel",
     "die Äpfele"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Danh từ giống đực tận cùng bằng '-el' khi sang số nhiều giữ nguyên đuôi và biến âm Umlaut: 'die Äpfel'."
   },
   {

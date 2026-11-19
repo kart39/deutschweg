@@ -26,9 +26,9 @@
    "q": "Wie lautet der Imperativ für 'du' von 'nehmen'?",
    "options": [
     "Nimm!",
-    "Nehm!",
     "Nimmst!",
-    "Nehme!"
+    "Nehme!",
+    "Nehm!"
    ],
    "answer": 0,
    "explain": "Động từ 'nehmen' có biến âm e->i ở ngôi du, bỏ đuôi -st thành 'Nimm!'."
@@ -39,8 +39,8 @@
    "options": [
     "Fahr!",
     "Fahre!",
-    "Fähr!",
-    "Fahrst!"
+    "Fahrst!",
+    "Fähr!"
    ],
    "answer": 0,
    "explain": "Mệnh lệnh ngôi du của 'fahren' bỏ đuôi -st và BỎ cả biến âm Umlaut: 'Fahr!' (hoặc 'Fahre!')."
@@ -49,36 +49,36 @@
    "type": "mcq",
    "q": "Wie lautet der Imperativ für 'ihr' von 'kommen'?",
    "options": [
-    "Komm!",
     "Kommt!",
+    "Kommt ihr!",
     "Kommen!",
-    "Kommt ihr!"
+    "Komm!"
    ],
-   "answer": 1,
+   "answer": 0,
    "explain": "Mệnh lệnh ngôi 'ihr' giữ nguyên dạng chia hiện tại và bỏ đại từ 'ihr': 'Kommt!'."
   },
   {
    "type": "mcq",
    "q": "Wie lautet der Imperativ von 'sein' für die höfliche Form (Sie)?",
    "options": [
-    "Sind Sie!",
     "Sein Sie!",
-    "Seien Sie!",
-    "Seid Sie!"
+    "Sind Sie!",
+    "Seid Sie!",
+    "Seien Sie!"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "Dạng mệnh lệnh bất quy tắc lịch sự của 'sein' là 'Seien Sie!'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz ist ein grammatisch korrekter Imperativ?",
    "options": [
-    "Machst bitte das Fenster auf!",
     "Macht du bitte das Fenster auf!",
     "Mach bitte das Fenster auf!",
-    "Du mach bitte das Fenster auf!"
+    "Du mach bitte das Fenster auf!",
+    "Machst bitte das Fenster auf!"
    ],
-   "answer": 2,
+   "answer": 1,
    "explain": "Mệnh lệnh ngôi du của 'aufmachen' là 'Mach ... auf!'."
   },
   {

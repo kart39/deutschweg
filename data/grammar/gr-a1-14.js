@@ -26,12 +26,12 @@
    "type": "mcq",
    "q": "Welche Konjunktion passt? 'Er lernt viel, ___ er besteht die Prüfung nicht.'",
    "options": [
-    "und",
     "oder",
-    "aber",
-    "denn"
+    "und",
+    "denn",
+    "aber"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "Hai vế có ý nghĩa trái ngược, đối lập nhau nên dùng 'aber' (nhưng)."
   },
   {
@@ -39,23 +39,23 @@
    "q": "Welche Konjunktion passt? 'Ich trinke keinen Kaffee, ___ ich trinke grünen Tee.'",
    "options": [
     "aber",
+    "oder",
     "sondern",
-    "denn",
-    "oder"
+    "denn"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Sau câu phủ định (keinen Kaffee) để đưa ra điều đúng thay thế bắt buộc dùng 'sondern' (mà là)."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz mit 'denn' hat die richtige Wortstellung?",
    "options": [
-    "Ich bleibe zu Hause, denn ich krank bin.",
-    "Ich bleibe zu Hause, denn ich bin krank.",
+    "Ich bleibe zu Hause, denn krank ich bin.",
     "Ich bleibe zu Hause, denn bin ich krank.",
-    "Ich bleibe zu Hause, denn krank ich bin."
+    "Ich bleibe zu Hause, denn ich bin krank.",
+    "Ich bleibe zu Hause, denn ich krank bin."
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "'denn' ở vị trí 0, chủ ngữ 'ich' ở vị trí 1, động từ 'bin' ở vị trí 2: 'denn ich bin krank'."
   },
   {
@@ -63,23 +63,23 @@
    "q": "Welche Konjunktion passt? 'Möchten Sie Tee ___ Kaffee trinken?'",
    "options": [
     "und",
+    "denn",
     "aber",
-    "oder",
-    "denn"
+    "oder"
    ],
-   "answer": 2,
+   "answer": 3,
    "explain": "Đưa ra sự lựa chọn giữa hai đồ uống dùng 'oder' (hay là / hoặc)."
   },
   {
    "type": "mcq",
    "q": "Welche Konjunktion passt? 'Wir gehen früh schlafen, ___ wir sind sehr müde.'",
    "options": [
+    "oder",
     "aber",
     "denn",
-    "sondern",
-    "oder"
+    "sondern"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Giải thích lý do, nguyên nhân ở mệnh đề chính dùng 'denn' (bởi vì)."
   },
   {

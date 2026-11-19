@@ -117,38 +117,38 @@
   {
    "q": "Warum wollte der Autor aus der WG ausziehen?",
    "options": [
-    "Weil er Streit mit den Freunden hatte",
+    "Weil die WG zu teuer war",
     "Weil er mehr Ruhe und Privatsphäre wollte",
-    "Weil die WG zu teuer war"
+    "Weil er Streit mit den Freunden hatte"
    ],
    "answer": 1
   },
   {
    "q": "Wie viele Bewerbungen hat der Autor verschickt?",
    "options": [
+    "Über fünfzig",
     "Nur fünf",
-    "Über zwanzig",
-    "Über fünfzig"
+    "Über zwanzig"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Warum taten den Freunden abends alle Muskeln weh?",
    "options": [
-    "Sie waren im Fitnessstudio",
     "Es gab keinen Aufzug zum dritten Stock",
-    "Sie sind zu viel Fahrrad gefahren"
+    "Sie sind zu viel Fahrrad gefahren",
+    "Sie waren im Fitnessstudio"
    ],
-   "answer": 1
+   "answer": 0
   },
   {
    "q": "Wie hat der Autor am Sonntagabend gefeiert?",
    "options": [
     "In einem schicken Restaurant",
-    "Mit Pizza auf dem Boden zwischen Kisten",
-    "In einem Club"
+    "In einem Club",
+    "Mit Pizza auf dem Boden zwischen Kisten"
    ],
-   "answer": 1
+   "answer": 2
   }
  ]
 });

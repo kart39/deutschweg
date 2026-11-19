@@ -13,12 +13,12 @@
    "type": "mcq",
    "q": "Welches Präfix drückt die vollständige Zerstörung oder Trennung in Teile aus?",
    "options": [
-    "zer-",
-    "be-",
     "er-",
-    "ver-"
+    "zer-",
+    "ver-",
+    "be-"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Tiền tố 'zer-' luôn diễn tả sự phá hủy, đập vỡ, tan rã ra từng mảnh (zerfallen, zerreißen)."
   },
   {
@@ -26,9 +26,9 @@
    "q": "Welches Fugen-Element gehört in die Lücke: 'die Wirtschaft___krise'?",
    "options": [
     "s",
-    "en",
     "es",
-    "kein Fugen-Element"
+    "kein Fugen-Element",
+    "en"
    ],
    "answer": 0,
    "explain": "Danh từ có hậu tố '-schaft' khi ghép với danh từ khác bắt buộc phải thêm Fugen-s: Wirtschaftskrise."
@@ -37,48 +37,48 @@
    "type": "mcq",
    "q": "Was bedeutet das Präfix 'ent-' im Wort 'entwaffnen'?",
    "options": [
-    "Waffen wegnehmen / entfernen",
-    "Waffen herstellen",
     "Waffen reparieren",
-    "Waffen verkaufen"
+    "Waffen wegnehmen / entfernen",
+    "Waffen verkaufen",
+    "Waffen herstellen"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'ent-' mang nghĩa tước bỏ, giải trừ: entwaffnen = tước vũ khí, giải giáp."
   },
   {
    "type": "mcq",
    "q": "Welches Wort beschreibt das Erreichen eines Ziels durch harte geistige Arbeit?",
    "options": [
-    "erarbeiten",
     "zerarbeiten",
+    "abachten",
     "missarbeiten",
-    "abachten"
+    "erarbeiten"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'er-' diễn tả sự đạt được kết quả qua nỗ lực bền bỉ: ein Konzept erarbeiten."
   },
   {
    "type": "mcq",
    "q": "Welches Adjektivsuffix bedeutet 'kann gemacht / gelöst werden'?",
    "options": [
-    "-bar",
-    "-arm",
     "-los",
-    "-haft"
+    "-arm",
+    "-haft",
+    "-bar"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Hậu tố '-bar' diễn tả khả năng bị động (lösbar = có thể giải quyết được)."
   },
   {
    "type": "mcq",
    "q": "Welches Genus hat das Kompositum 'das Forschungsergebnis'?",
    "options": [
-    "Neutrum (das)",
     "Maskulinum (der)",
-    "Femininum (die)",
-    "Plural"
+    "Plural",
+    "Neutrum (das)",
+    "Femininum (die)"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Từ cơ sở đứng cuối là 'das Ergebnis' (Neutrum), do đó toàn bộ từ ghép mang giống Neutrum."
   },
   {

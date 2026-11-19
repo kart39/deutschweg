@@ -269,22 +269,22 @@
      "type": "mcq",
      "q": "Trong tiếng Đức, câu „Es ist halb acht“ tương ứng với mấy giờ?",
      "options": [
-      "08:30",
       "07:30",
       "08:15",
+      "08:30",
       "07:45"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "„halb acht“ nghĩa là đã qua một nửa chặng đường tiến tới 8 giờ, tức là 7 giờ 30 phút (07:30)."
     },
     {
      "type": "mcq",
      "q": "Cách nói giờ thân mật (inoffiziell) đúng của „14:45“ là gì?",
      "options": [
-      "Es ist Viertel nach zwei.",
-      "Es ist Viertel vor drei.",
       "Es ist Viertel vor zwei.",
-      "Es ist halb drei."
+      "Es ist Viertel vor drei.",
+      "Es ist halb drei.",
+      "Es ist Viertel nach zwei."
      ],
      "answer": 1,
      "explain": "14:45 tức là 3 giờ chiều kém 15 phút → „Viertel vor drei“."
@@ -293,24 +293,24 @@
      "type": "mcq",
      "q": "Giới từ nào luôn đứng trước giờ giấc để trả lời cho câu hỏi „Um wie viel Uhr?“",
      "options": [
-      "am",
+      "in",
       "im",
-      "um",
-      "in"
+      "am",
+      "um"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "Trước giờ đồng hồ cụ thể, tiếng Đức luôn dùng giới từ „um“ (vd: um acht Uhr)."
     },
     {
      "type": "mcq",
      "q": "Chọn từ đúng để hoàn thành câu: „Der Kurs dauert drei ___.“ (Khóa học kéo dài 3 tiếng đồng hồ).",
      "options": [
-      "Uhren",
-      "Stunden",
       "Uhrzeiten",
-      "Minuten"
+      "Minuten",
+      "Uhren",
+      "Stunden"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Khi nói về khoảng thời gian (bao nhiêu tiếng đồng hồ), ta dùng „die Stunde“ (số nhiều: „Stunden“). „die Uhr“ chỉ cái đồng hồ hoặc mốc giờ."
     },
     {
@@ -736,48 +736,48 @@
      "type": "mcq",
      "q": "Chọn dạng chia đúng của động từ „fernsehen“ cho ngôi „er“: „Mein Bruder ___ abends gern ___.“",
      "options": [
+      "fernseht ...",
       "seht ... fern",
       "sieht ... fern",
-      "fernseht ...",
       "fernsieht ..."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "„fernsehen“ là động từ tách và bất quy tắc (e → ie ở ngôi du và er/sie/es): „er sieht ... fern“."
     },
     {
      "type": "mcq",
      "q": "Động từ nào sau đây KHÔNG phải là động từ tách (không tách tiền tố ra cuối câu)?",
      "options": [
-      "aufstehen",
       "einkaufen",
       "frühstücken",
-      "anrufen"
+      "anrufen",
+      "aufstehen"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "„frühstücken“ bắt nguồn từ danh từ „das Frühstück“, không phải tiền tố tách nên giữ nguyên: „Ich frühstücke um sieben Uhr.“"
     },
     {
      "type": "mcq",
      "q": "Chọn câu đúng ngữ pháp:",
      "options": [
+      "Wann rufst du deine Mutter an?",
       "Wann du rufst deine Mutter an?",
       "Wann anrufst du deine Mutter?",
-      "Wann rufst du deine Mutter an?",
       "Wann rufst an du deine Mutter?"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Trong câu hỏi có từ để hỏi (W-Frage), phần động từ chính đứng ở vị trí số 2 („rufst“), còn tiền tố tách („an“) đứng ở cuối cùng của câu."
     },
     {
      "type": "mcq",
      "q": "Chọn dạng đúng của động từ „anfangen“: „Der Film ___ um zwanzig Uhr ___.“",
      "options": [
+      "fingen ... an",
       "fangt ... an",
-      "fängt ... an",
       "anfangt ...",
-      "fingen ... an"
+      "fängt ... an"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "„anfangen“ là động từ mạnh bị biến âm (a → ä) ở ngôi thứ 3 số ít Präsens: „Der Film fängt ... an“."
     },
     {
@@ -1208,8 +1208,8 @@
      {
       "q": "Um wie viel Uhr fängt Lans Arbeit im Krankenhaus an?",
       "options": [
-       "Um 4:45 Uhr.",
        "Um 5:20 Uhr.",
+       "Um 4:45 Uhr.",
        "Um 6:00 Uhr."
       ],
       "answer": 2
@@ -1217,20 +1217,20 @@
      {
       "q": "Was macht Lan oft am Nachmittag nach der Arbeit?",
       "options": [
+       "Sie arbeitet noch in einem Café.",
        "Sie sieht drei Stunden fern.",
-       "Sie kauft auf dem Markt ein und schläft eine Stunde.",
-       "Sie arbeitet noch in einem Café."
+       "Sie kauft auf dem Markt ein und schläft eine Stunde."
       ],
-      "answer": 1
+      "answer": 2
      },
      {
       "q": "Warum geht Lan schon um halb zehn abends ins Bett?",
       "options": [
+       "Weil sie am Abend keinen Hunger hat.",
        "Weil sie sehr früh aufstehen muss und genug Schlaf braucht.",
-       "Weil sie in der Nacht im Krankenhaus arbeitet.",
-       "Weil sie am Abend keinen Hunger hat."
+       "Weil sie in der Nacht im Krankenhaus arbeitet."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1245,44 +1245,44 @@
      "type": "mcq",
      "q": "Chọn giới từ đúng: „___ Nacht sind alle Katzen grau.“ (Vào ban đêm...)",
      "options": [
-      "Am",
-      "Um",
+      "Im",
       "In der",
-      "Im"
+      "Um",
+      "Am"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Tất cả các buổi trong ngày đều dùng „am“ (am Morgen, am Abend), NGOẠI TRỪ „die Nacht“ là danh từ giống Cái nên bắt buộc dùng „in der Nacht“."
     },
     {
      "type": "mcq",
      "q": "Chọn câu có trật tự từ (Satzbau) ĐÚNG trong tiếng Đức:",
      "options": [
-      "Am Wochenende ich stehe spät auf.",
-      "Am Wochenende stehe ich spät auf.",
       "Am Wochenende aufstehe ich spät.",
-      "Am Wochenende ich aufstehe spät."
+      "Am Wochenende ich stehe spät auf.",
+      "Am Wochenende ich aufstehe spät.",
+      "Am Wochenende stehe ich spät auf."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "Khi trạng ngữ „Am Wochenende“ đứng ở vị trí số 1, động từ chia „stehe“ phải đứng ở vị trí số 2, chủ ngữ „ich“ đứng thứ 3, và tiền tố „auf“ ở cuối câu."
     },
     {
      "type": "mcq",
      "q": "Chọn cặp giới từ đúng: „Mein Vater arbeitet ___ Montag ___ Freitag.“",
      "options": [
-      "am ... um",
-      "von ... bis",
       "um ... bis",
-      "von ... am"
+      "von ... am",
+      "von ... bis",
+      "am ... um"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Cấu trúc „von ... bis ...“ dùng để diễn tả khoảng thời gian „từ ... đến ...“."
     },
     {
      "type": "mcq",
      "q": "Trạng từ tần suất nào mang nghĩa „không bao giờ“ (0%)?",
      "options": [
-      "immer",
       "meistens",
+      "immer",
       "manchmal",
       "nie"
      ],
@@ -1873,11 +1873,11 @@
      {
       "q": "Wann steht Mila von Montag bis Freitag auf?",
       "options": [
-       "Um sechs.",
        "Um halb sieben.",
+       "Um sechs.",
        "Um sieben."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was macht Mila am Sonntag um Viertel nach zehn?",
@@ -1891,11 +1891,11 @@
      {
       "q": "Was machen Mila und Ben am Abend?",
       "options": [
+       "Sie frühstücken.",
        "Sie essen zusammen.",
-       "Sie kaufen ein.",
-       "Sie frühstücken."
+       "Sie kaufen ein."
       ],
-      "answer": 0
+      "answer": 1
      }
     ],
     "glossary": []
@@ -1910,32 +1910,32 @@
      "type": "mcq",
      "q": "Câu kể nào có nghĩa “Tôi dậy sớm”?",
      "options": [
-      "Ich aufstehe früh.",
-      "Ich steht früh auf.",
       "Ich stehe früh auf.",
-      "Ich stehst früh auf."
+      "Ich steht früh auf.",
+      "Ich stehst früh auf.",
+      "Ich aufstehe früh."
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Với {{ich}}, dùng {{stehe}} ở vị trí 2 và đặt {{auf}} cuối câu."
     },
     {
      "type": "mcq",
      "q": "Nina nghe điện thoại. Câu nào nói Ben gọi điện cho Nina?",
      "options": [
-      "Ben ruft Nina an.",
-      "Ben anruft Nina.",
       "Ben ruft an Nina.",
-      "Ben rufst Nina an."
+      "Ben anruft Nina.",
+      "Ben rufst Nina an.",
+      "Ben ruft Nina an."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{Ben ruft Nina an.}} có phần chia {{ruft}} và tiền tố {{an}} ở cuối."
     },
     {
      "type": "mcq",
      "q": "Theo ngữ cảnh “Tôi mở mắt lúc sáu giờ nhưng còn nằm trên giường”, chọn cách hoàn thành: {{Ich ___ um sechs ___.}}",
      "options": [
-      "stehe … auf",
       "schlafe … ein",
+      "stehe … auf",
       "räume … auf",
       "wache … auf"
      ],
@@ -1948,8 +1948,8 @@
      "options": [
       "Du einkaufst?",
       "Kaufst du ein?",
-      "Ein kaufst du?",
-      "Kaufst ein du?"
+      "Kaufst ein du?",
+      "Ein kaufst du?"
      ],
      "answer": 1,
      "explain": "Câu hỏi có/không đặt {{kaufst}} ở đầu và {{ein}} ở cuối."
@@ -1959,9 +1959,9 @@
      "q": "Chọn cặp từ điền đúng: {{Das Kind ___ schnell ___.}} (Đứa bé nhanh chóng thiếp đi.)",
      "options": [
       "schlafen … ein",
-      "schläfst … ein",
+      "schlaft … ein",
       "schläft … ein",
-      "schlaft … ein"
+      "schläfst … ein"
      ],
      "answer": 2,
      "explain": "{{Das Kind}} là chủ ngữ ngôi thứ ba số ít. Với {{einschlafen}}, nguyên âm đổi thành {{ä}} ở dạng {{schläft ein}}."
@@ -2150,24 +2150,24 @@
      "type": "mcq",
      "q": "Lúc 07:30, bạn nói thế nào theo cách nói thân mật?",
      "options": [
-      "Es ist halb sieben.",
       "Es ist Viertel nach sieben.",
       "Es ist Viertel vor acht.",
-      "Es ist halb acht."
+      "Es ist halb acht.",
+      "Es ist halb sieben."
      ],
-     "answer": 3,
+     "answer": 2,
      "explain": "{{halb acht}} là nửa giờ trước 8 giờ, tức 7 giờ 30 trong ngữ cảnh buổi sáng."
     },
     {
      "type": "mcq",
      "q": "Chọn cách đọc 18:15 theo hệ 24 giờ.",
      "options": [
-      "achtzehn Uhr fünfzehn",
       "sechs Uhr fünfzehn",
-      "achtzehn Uhr fünfzig",
-      "neunzehn Uhr fünfzehn"
+      "achtzehn Uhr fünfzehn",
+      "neunzehn Uhr fünfzehn",
+      "achtzehn Uhr fünfzig"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "{{achtzehn}} là 18 và {{fünfzehn}} là 15. Khi đọc giờ theo hệ 24 giờ, đặt {{Uhr}} giữa giờ và phút."
     },
     {
@@ -2175,35 +2175,35 @@
      "q": "Đồng hồ chỉ 13:00. Chọn cách nói theo hệ 12 giờ có từ {{Uhr}}.",
      "options": [
       "eins Uhr",
+      "fünf vor eins",
       "ein Uhr",
-      "ein Uhr dreißig",
-      "fünf vor eins"
+      "ein Uhr dreißig"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Trước {{Uhr}}, dùng {{ein}}, như {{ein Uhr}}."
     },
     {
      "type": "mcq",
      "q": "Cụm nào có nghĩa “từ thứ Hai đến thứ Năm”?",
      "options": [
-      "am Montag bis Donnerstag",
-      "von Dienstag bis Donnerstag",
       "von Montag bis Donnerstag",
-      "von Donnerstag bis Montag"
+      "am Montag bis Donnerstag",
+      "von Donnerstag bis Montag",
+      "von Dienstag bis Donnerstag"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Hai đầu của khoảng thời gian là {{von Montag}} (từ thứ Hai) và {{bis Donnerstag}} (đến thứ Năm)."
     },
     {
      "type": "mcq",
      "q": "Bạn nghe {{Viertel vor neun}} vào buổi tối. Đồng hồ hiện giờ nào?",
      "options": [
-      "21:15",
-      "20:30",
+      "20:45",
       "21:45",
-      "20:45"
+      "20:30",
+      "21:15"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{Viertel vor neun}} là 15 phút trước 9 giờ. Buổi tối, đó là 20 giờ 45."
     },
     {
@@ -2389,45 +2389,45 @@
      "type": "mcq",
      "q": "Chọn câu kể đúng, bắt đầu bằng {{Am Montag}}.",
      "options": [
+      "Am Montag früh stehe ich auf ich.",
       "Am Montag ich stehe früh auf.",
-      "Am Montag stehe ich früh auf.",
       "Am Montag aufstehe ich früh.",
-      "Am Montag früh stehe ich auf ich."
+      "Am Montag stehe ich früh auf."
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "{{Am Montag}} chiếm vị trí 1, {{stehe}} ở vị trí 2 và {{auf}} vẫn cuối câu."
     },
     {
      "type": "mcq",
      "q": "Câu nào diễn tả việc thường làm vào buổi sáng?",
      "options": [
-      "Morgens dusche ich.",
+      "Heute Abend dusche ich.",
       "Morgen dusche ich.",
       "Abends dusche ich.",
-      "Heute Abend dusche ich."
+      "Morgens dusche ich."
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "{{morgens}} nghĩa là vào buổi sáng, thường chỉ thói quen. {{morgen}} nghĩa là ngày mai."
     },
     {
      "type": "mcq",
      "q": "Lola ăn sáng trước, rồi gọi điện cho Ben. Chọn cách mở đầu câu thứ hai: {{Ich frühstücke zuerst. ___ rufe ich Ben an.}}",
      "options": [
-      "Zuerst",
       "Nie",
       "Danach",
-      "Viertel"
+      "Viertel",
+      "Zuerst"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "{{Danach}} nối hành động gọi điện với việc vừa nói là ăn sáng."
     },
     {
      "type": "mcq",
      "q": "Chọn câu kể đúng, bắt đầu bằng cụm giờ {{Um halb acht}}.",
      "options": [
-      "Um halb acht ich wache auf.",
       "Um halb acht wache auf ich.",
       "Um halb acht aufwache ich.",
+      "Um halb acht ich wache auf.",
       "Um halb acht wache ich auf."
      ],
      "answer": 3,
@@ -2437,12 +2437,12 @@
      "type": "mcq",
      "q": "Từ nào có nghĩa “không bao giờ”?",
      "options": [
-      "manchmal",
       "nie",
-      "oft",
-      "immer"
+      "manchmal",
+      "immer",
+      "oft"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{nie}} nói việc không xảy ra lần nào. {{manchmal}} là thỉnh thoảng."
     },
     {

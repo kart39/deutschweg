@@ -13,36 +13,36 @@
    "type": "mcq",
    "q": "Welche Nominalisierung ist stilistisch und grammatisch am ELEGANTESTEN für: 'Weil die Zinsen drastisch sanken...'?",
    "options": [
-    "Infolge des drastischen Zinssinkens...",
     "Infolge der drastischen Zinssenkung...",
+    "Durch das Sinken der Zinsen drastisch...",
     "Wegen es sanken die Zinsen drastisch...",
-    "Durch das Sinken der Zinsen drastisch..."
+    "Infolge des drastischen Zinssinkens..."
    ],
-   "answer": 1,
+   "answer": 0,
    "explain": "Dùng từ ghép chuẩn 'Zinssenkung' kết hợp với tính từ chia đuôi 'drastischen' sau giới từ 'infolge + Genitiv'."
   },
   {
    "type": "mcq",
    "q": "Wie lautet die Nominalisierung von: 'Je mehr die Temperaturen steigen, desto schneller schmilzt das Eis.'?",
    "options": [
-    "Mit zunehmendem Temperaturanstieg beschleunigt sich das Abschmelzen des Eises.",
     "Wegen des Temperaturanstiegs schmilzt das Eis schnell.",
+    "Mit zunehmendem Temperaturanstieg beschleunigt sich das Abschmelzen des Eises.",
     "Trotz des Temperaturanstiegs schmilzt das Eis.",
     "Im Falle des Temperaturanstiegs schmilzt das Eis."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Cấu trúc so sánh tỷ lệ thuận 'je... desto' trong Nominalstil chuyển thành 'Mit zunehmendem...'."
   },
   {
    "type": "mcq",
    "q": "Welche Präposition drückt eine nhượng bộ trang trọng C1 tương đương 'ungeachtet'?",
    "options": [
-    "bei aller (+ Dat)",
     "infolge (+ Gen)",
+    "bei aller (+ Dat)",
     "zwecks (+ Gen)",
     "mittels (+ Gen)"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'bei aller (+ Dativ)' dùng trong văn phong C1 để diễn tả sự nhượng bộ (z.B. Bei aller Wertschätzung = Dù đánh giá cao đến mấy)."
   },
   {
@@ -50,9 +50,9 @@
    "q": "Was sollte man im anspruchsvollen Nominalstil VERMEIDEN?",
    "options": [
     "Lange Genitiv-Kaskaden (mehr als zwei Genitive hintereinander)",
-    "Zusammengesetzte Nomen (Komposita)",
+    "Adjektive vor dem Nomen",
     "Präpositionen mit Genitiv",
-    "Adjektive vor dem Nomen"
+    "Zusammengesetzte Nomen (Komposita)"
    ],
    "answer": 0,
    "explain": "Nên tránh các chuỗi Genitiv liên tiếp quá dài (Genitiv-Kaskaden) vì gây nặng nề, khó đọc cho văn bản."
@@ -73,12 +73,12 @@
    "type": "mcq",
    "q": "Welche Umformung von 'indem moderne Technik eingesetzt wurde' ist KORREKT?",
    "options": [
-    "mittels des Einsatzes moderner Technik",
+    "zwecks moderner Technik einsetzen",
     "trotz des Einsatzes moderner Technik",
     "infolge moderne Technik einsetzen",
-    "zwecks moderner Technik einsetzen"
+    "mittels des Einsatzes moderner Technik"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'indem' (phương thức) chuyển thành giới từ 'mittels + Genitiv': mittels des Einsatzes moderner Technik."
   },
   {

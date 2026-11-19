@@ -395,20 +395,20 @@
      {
       "q": "Worin besteht Linhs Arbeitsprobe?",
       "options": [
-       "Sie repariert ein Fahrrad.",
        "Sie schlägt eine Reihenfolge für drei Kundenanfragen vor.",
+       "Sie repariert ein Fahrrad.",
        "Sie erstellt einen Wochenplan für alle Kollegen.",
        "Sie schreibt einen neuen Mietvertrag."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Welche Anfrage würde sie zuerst bearbeiten?",
       "options": [
+       "Sie würde zuerst auf eine vierte Nachricht warten.",
        "Die Frage nach den Öffnungszeiten.",
-       "Die Nachricht des Kunden, der schon einen Termin hat.",
        "Die Anfrage der Kundin, die das Fahrrad am nächsten Morgen braucht.",
-       "Sie würde zuerst auf eine vierte Nachricht warten."
+       "Die Nachricht des Kunden, der schon einen Termin hat."
       ],
       "answer": 2
      },
@@ -425,20 +425,20 @@
      {
       "q": "Was gefällt Frau König an der Erklärung?",
       "options": [
+       "Linh berücksichtigt Kunden und Teamzeit.",
        "Linh möchte jede Frage telefonisch beantworten.",
        "Linh hat keine Rückfragen.",
-       "Linh kennt die Kundin schon.",
-       "Linh berücksichtigt Kunden und Teamzeit."
+       "Linh kennt die Kundin schon."
       ],
-      "answer": 3
+      "answer": 0
      },
      {
       "q": "Wie ist die Einarbeitung in den ersten Tagen geplant?",
       "options": [
        "Linh arbeitet nur von zu Hause.",
        "Linh begleitet eine Kollegin und kann Fragen stellen.",
-       "Linh leitet sofort das Personalteam.",
-       "Linh arbeitet allein und schreibt jeden Abend einen Bericht."
+       "Linh arbeitet allein und schreibt jeden Abend einen Bericht.",
+       "Linh leitet sofort das Personalteam."
       ],
       "answer": 1
      }
@@ -455,24 +455,24 @@
      "type": "mcq",
      "q": "Chọn đại từ làm chủ ngữ. {{Das ist die Kollegin, ___ mich betreut.}}",
      "options": [
-      "der",
       "die",
-      "den",
-      "dem"
+      "der",
+      "dem",
+      "den"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "{{Die}} thay cho {{die Kollegin}} và là chủ ngữ của {{betreut}}."
     },
     {
      "type": "mcq",
      "q": "Điền tân ngữ. {{Der Bewerber, ___ ich morgen treffe, hat angerufen.}}",
      "options": [
-      "dem",
-      "der",
       "den",
+      "der",
+      "dem",
       "denen"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "{{Treffen}} đi với Akkusativ, giống đực dùng {{den}}."
     },
     {
@@ -480,9 +480,9 @@
      "q": "Chọn Dativ số nhiều.",
      "options": [
       "Die Kollegen, denen ich den Plan schicke, sind im Büro.",
-      "Die Kollegen, die ich den Plan schicke, sind im Büro.",
       "Die Kollegen, den ich den Plan schicke, sind im Büro.",
-      "Die Kollegen, der ich den Plan schicke, sind im Büro."
+      "Die Kollegen, der ich den Plan schicke, sind im Büro.",
+      "Die Kollegen, die ich den Plan schicke, sind im Büro."
      ],
      "answer": 0,
      "explain": "Người nhận là Dativ số nhiều {{denen}}."
@@ -491,24 +491,24 @@
      "type": "mcq",
      "q": "Đại từ trong {{mit dem Bewerber, ___ morgen kommt}} có dạng nào?",
      "options": [
-      "dem",
-      "den",
+      "der",
       "das",
-      "der"
+      "den",
+      "dem"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "Trong câu phụ, đại từ làm chủ ngữ của {{kommt}} nên dùng {{der}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào có dấu phẩy đầy đủ?",
      "options": [
-      "Die Kollegin die mich betreut kommt morgen.",
-      "Die Kollegin, die mich betreut kommt morgen.",
+      "Die Kollegin die mich betreut, kommt morgen.",
       "Die Kollegin, die mich betreut, kommt morgen.",
-      "Die Kollegin die mich betreut, kommt morgen."
+      "Die Kollegin die mich betreut kommt morgen.",
+      "Die Kollegin, die mich betreut kommt morgen."
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Mệnh đề chen giữa được giới hạn bằng hai dấu phẩy."
     },
     {
@@ -1078,19 +1078,19 @@
      {
       "q": "Welche Probleme wollte Nora zuerst sammeln?",
       "options": [
-       "Probleme mit zu kurzen Zugfahrten.",
        "Situationen mit langen Wartezeiten auf Antworten.",
+       "Probleme mit zu kurzen Zugfahrten.",
        "Fragen zur Einstellung neuer Kollegen.",
        "Beschwerden über die Heizung."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Wann ist die vereinbarte Kernzeit?",
       "options": [
+       "Von zwölf bis vierzehn.",
        "Von acht bis neun.",
        "Von neun bis zehn.",
-       "Von zwölf bis vierzehn.",
        "Von zehn bis zwölf."
       ],
       "answer": 3
@@ -1098,12 +1098,12 @@
      {
       "q": "Warum ist die Regel für Mai hilfreich?",
       "options": [
-       "Sie möchte nach Dienstschluss wegen der Betreuung ihres Sohnes keine Nachrichten mehr beantworten.",
-       "Sie kann dann jeden Tag länger im Büro bleiben.",
+       "Sie hat nach zwölf keine Internetverbindung.",
        "Sie kann alle Aufgaben an Ben abgeben.",
-       "Sie hat nach zwölf keine Internetverbindung."
+       "Sie möchte nach Dienstschluss wegen der Betreuung ihres Sohnes keine Nachrichten mehr beantworten.",
+       "Sie kann dann jeden Tag länger im Büro bleiben."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Was ging an einem Vormittag schief?",
@@ -1118,12 +1118,12 @@
      {
       "q": "Wofür dient die neue Liste?",
       "options": [
-       "Für die Urlaubsplanung im nächsten Jahr.",
        "Für die Vertretung bei Abwesenheit.",
        "Für die Kontakte der Kunden.",
+       "Für die Urlaubsplanung im nächsten Jahr.",
        "Für die Berechnung der Pendelzeit."
       ],
-      "answer": 1
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1150,9 +1150,9 @@
      "type": "mcq",
      "q": "Chọn đại từ sở hữu. {{Das Team, ___ Plan wir testen, arbeitet im Büro.}}",
      "options": [
+      "dem",
       "deren",
       "denen",
-      "dem",
       "dessen"
      ],
      "answer": 3,
@@ -1163,9 +1163,9 @@
      "q": "Điền cụm chỉ người được trông cậy. {{Der Kollege, ___ ich mich verlasse, ist erreichbar.}}",
      "options": [
       "auf den",
+      "mit dem",
       "auf dem",
-      "an den",
-      "mit dem"
+      "an den"
      ],
      "answer": 0,
      "explain": "{{Sich verlassen}} cần {{auf + Akkusativ}}. Dạng đực là {{den}}."
@@ -1174,21 +1174,21 @@
      "type": "mcq",
      "q": "Chọn câu đúng cho ‘những đồng nghiệp có lịch thay đổi’.",
      "options": [
-      "die Kollegen, dessen Plan sich ändert",
-      "die Kollegen, denen Plan sich ändert",
+      "die Kollegen, deren der Plan sich ändert",
       "die Kollegen, deren Plan sich ändert",
-      "die Kollegen, deren der Plan sich ändert"
+      "die Kollegen, dessen Plan sich ändert",
+      "die Kollegen, denen Plan sich ändert"
      ],
-     "answer": 2,
+     "answer": 1,
      "explain": "Đi với danh từ số nhiều dùng {{deren}}, không thêm mạo từ trước {{Plan}}."
     },
     {
      "type": "mcq",
      "q": "Cụm nào nêu sự sở hữu?",
      "options": [
-      "das Projekt, an dem wir arbeiten",
-      "das Team, dessen Liste wir brauchen",
       "die Kollegin, mit der ich arbeite",
+      "das Team, dessen Liste wir brauchen",
+      "das Projekt, an dem wir arbeiten",
       "die Leute, denen der Termin passt"
      ],
      "answer": 1,
@@ -1758,52 +1758,52 @@
      {
       "q": "Warum muss die Schulung in einen anderen Raum verlegt werden?",
       "options": [
-       "Raum A ist für ein Kundengespräch vorgesehen.",
        "Die Schulung wurde abgesagt.",
+       "Raum A ist zu weit von Bonn entfernt.",
        "Niemand weiß, wo Raum A liegt.",
-       "Raum A ist zu weit von Bonn entfernt."
+       "Raum A ist für ein Kundengespräch vorgesehen."
       ],
-      "answer": 0
+      "answer": 3
      },
      {
       "q": "Was nennt Mai zuerst in ihrer Mitteilung?",
       "options": [
        "Die Namen der Teilnehmer.",
-       "Den Grund für die Kundentermine.",
        "Die neue Uhrzeit.",
+       "Den Grund für die Kundentermine.",
        "Die Telefonnummer des Empfangs."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Warum hat Frau Weber anfangs noch die alte Uhrzeit im Kalender?",
       "options": [
-       "Sie hatte die ursprüngliche Einladung gespeichert.",
        "Sie hatte am Freitag keine Zeit.",
        "Sie war nicht auf dem Verteiler.",
+       "Sie hatte die ursprüngliche Einladung gespeichert.",
        "Ihre Bestätigung wurde gelöscht."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Wem schreibt Mai eine Erinnerung?",
       "options": [
-       "Allen Kunden der Firma.",
-       "Nur der Kollegin am Empfang.",
+       "Den Kollegen ohne Bestätigung.",
        "Der gesamten Firma.",
-       "Den Kollegen ohne Bestätigung."
+       "Nur der Kollegin am Empfang.",
+       "Allen Kunden der Firma."
       ],
-      "answer": 3
+      "answer": 0
      },
      {
       "q": "Wie möchte das Team in Zukunft Änderungen mitteilen?",
       "options": [
-       "Nur mündlich am Empfang.",
        "Im Betreff und im gemeinsamen Kalender.",
+       "Mit einer neuen langen Anleitung.",
        "Nur im Protokoll des nächsten Treffens.",
-       "Mit einer neuen langen Anleitung."
+       "Nur mündlich am Empfang."
       ],
-      "answer": 1
+      "answer": 0
      }
     ],
     "glossary": []
@@ -1818,12 +1818,12 @@
      "type": "mcq",
      "q": "Chọn từ bổ nghĩa cho toàn bộ sự việc. {{Der Termin beginnt später, ___ dem Team hilft.}}",
      "options": [
-      "der",
-      "wo",
+      "was",
       "das",
-      "was"
+      "der",
+      "wo"
      ],
-     "answer": 3,
+     "answer": 0,
      "explain": "{{Was}} bổ nghĩa cả ý lịch bắt đầu muộn hơn."
     },
     {
@@ -1832,8 +1832,8 @@
      "options": [
       "das Formular, das wir brauchen",
       "das Formular, wo wir brauchen",
-      "das Formular, deren wir brauchen",
-      "das Formular, dem wir brauchen"
+      "das Formular, dem wir brauchen",
+      "das Formular, deren wir brauchen"
      ],
      "answer": 0,
      "explain": "{{Das}} là tân ngữ Akkusativ và thay cho {{das Formular}}."
@@ -1842,33 +1842,33 @@
      "type": "mcq",
      "q": "Chọn chỗ ghép phù hợp. {{Wir treffen uns dort, ___ der Empfang ist.}}",
      "options": [
-      "das",
       "was",
-      "wo",
-      "dessen"
+      "das",
+      "dessen",
+      "wo"
      ],
-     "answer": 2,
+     "answer": 3,
      "explain": "{{Dort, wo}} nối nơi gặp với mô tả vị trí."
     },
     {
      "type": "mcq",
      "q": "Chọn cụm ‘mọi thứ đã xong’.",
      "options": [
-      "alles, wo schon fertig ist",
       "alles, was schon fertig ist",
+      "alles, wo schon fertig ist",
       "alles, deren schon fertig ist",
       "alles, denen schon fertig ist"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Dùng {{was}} sau {{alles}}."
     },
     {
      "type": "mcq",
      "q": "Câu nào có {{wo}} bổ nghĩa nơi chốn, không phải câu hỏi gián tiếp?",
      "options": [
-      "Ich möchte wissen, wo Raum B ist.",
       "Weißt du, wo der Eingang ist?",
       "Sag mir, wo ich warten soll.",
+      "Ich möchte wissen, wo Raum B ist.",
       "Wir treffen uns dort, wo der Eingang ist."
      ],
      "answer": 3,
@@ -2512,20 +2512,20 @@
      {
       "q": "Was galt früher in Deutschland als das vorherrschende berufliche Ideal?",
       "options": [
-       "Häufiger Arbeitgeberwechsel alle zwei Jahre.",
        "Ein fester Arbeitsvertrag mit geregelten Bürozeiten und langfristiger Firmenbindung.",
-       "Ausschließlich selbstständige Tätigkeit auf Honorarbasis."
+       "Ausschließlich selbstständige Tätigkeit auf Honorarbasis.",
+       "Häufiger Arbeitgeberwechsel alle zwei Jahre."
       ],
-      "answer": 1
+      "answer": 0
      },
      {
       "q": "Was wünschen sich viele junge qualifizierte Fachkräfte heutzutage besonders?",
       "options": [
-       "Nur noch Schichtarbeit in der Nacht zu leisten.",
        "Vollständige Überwachung durch die Unternehmensleitung.",
-       "Flexibilität, eine ausgewogene Work-Life-Balance und kollegiale Zusammenarbeit."
+       "Flexibilität, eine ausgewogene Work-Life-Balance und kollegiale Zusammenarbeit.",
+       "Nur noch Schichtarbeit in der Nacht zu leisten."
       ],
-      "answer": 2
+      "answer": 1
      },
      {
       "q": "Welche Gefahr bringt die dauerhafte Arbeit im Homeoffice mit sich?",
@@ -2539,20 +2539,20 @@
      {
       "q": "Wovor warnen Betriebsräte und Arbeitsmediziner seit längerer Zeit?",
       "options": [
-       "Vor den gesundheitlichen Risiken ständiger digitaler Erreichbarkeit.",
+       "Vor der Erhöhung der gesetzlichen Urlaubstage.",
        "Vor zu vielen bezahlten Fortbildungen für Angestellte.",
-       "Vor der Erhöhung der gesetzlichen Urlaubstage."
+       "Vor den gesundheitlichen Risiken ständiger digitaler Erreichbarkeit."
       ],
-      "answer": 0
+      "answer": 2
      },
      {
       "q": "Woran bemisst sich laut dem Text eine wahrhaft gesunde Arbeitskultur?",
       "options": [
-       "An der maximalen Anzahl von Überstunden der Belegschaft.",
+       "An der nachhaltigen Zufriedenheit und Leistungsfähigkeit der Beschäftigten.",
        "Ausschließlich an der bloßen Anwesenheit am Schreibtisch.",
-       "An der nachhaltigen Zufriedenheit und Leistungsfähigkeit der Beschäftigten."
+       "An der maximalen Anzahl von Überstunden der Belegschaft."
       ],
-      "answer": 2
+      "answer": 0
      }
     ]
    },
@@ -2566,120 +2566,120 @@
      "type": "mcq",
      "q": "Welches Relativpronomen steht im Dativ Plural?",
      "options": [
-      "die",
-      "den",
       "denen",
-      "deren"
+      "deren",
+      "den",
+      "die"
      ],
-     "answer": 2,
+     "answer": 0,
      "explain": "Đại từ quan hệ ở Dativ số nhiều bắt buộc là 'denen': 'die Kollegen, denen ich helfe'."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Der Kollege, ___ Büro neben meinem liegt, ist heute im Homeoffice.",
      "options": [
-      "dessen",
       "deren",
+      "den",
       "dem",
-      "den"
+      "dessen"
      ],
-     "answer": 0,
+     "answer": 3,
      "explain": "'Der Kollege' là danh từ giống đực, sở hữu cách ở Genitiv dùng 'dessen'."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Das ist die Vorgesetzte, ___ Ideen das gesamte Team begeistern.",
      "options": [
-      "dessen",
-      "deren",
       "der",
-      "die"
+      "die",
+      "dessen",
+      "deren"
      ],
-     "answer": 1,
+     "answer": 3,
      "explain": "'Die Vorgesetzte' là danh từ giống cái, sở hữu cách ở Genitiv dùng 'deren'."
     },
     {
      "type": "mcq",
      "q": "Welches Relativpronomen folgt auf das Indefinitpronomen „alles“?",
      "options": [
-      "das",
-      "was",
       "welches",
-      "dem"
+      "dem",
+      "was",
+      "das"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Sau các đại từ bất định như 'alles', 'etwas', 'nichts', đại từ quan hệ bắt buộc phải là 'was'."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie die richtige Präposition mit Relativpronomen: Das ist das Projekt, ___ wir seit Monaten intensiv arbeiten.",
      "options": [
+      "für den",
       "an dem",
       "an das",
-      "für den",
       "über die"
      ],
-     "answer": 0,
+     "answer": 1,
      "explain": "Cụm động từ 'arbeiten an + Dativ'. Với danh từ giống trung 'das Projekt', dạng đúng là 'an dem'."
     },
     {
      "type": "mcq",
      "q": "Was bedeutet das Substantiv „der Betriebsrat“?",
      "options": [
-      "Der Chef der Finanzabteilung",
       "Die gewählte Vertretung der Arbeitnehmer im Betrieb",
+      "Der Chef der Finanzabteilung",
       "Ein externer Berater für Steuerfragen",
       "Das Protokoll einer Vorstandssitzung"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'Der Betriebsrat' là hội đồng đại diện người lao động được bầu trong một doanh nghiệp."
     },
     {
      "type": "mcq",
      "q": "Ergänzen Sie: Er hat die anspruchsvolle Probezeit bestanden, ___ uns alle sehr freut.",
      "options": [
-      "das",
       "was",
       "wo",
-      "dessen"
+      "dessen",
+      "das"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "Khi đại từ quan hệ thay thế cho toàn bộ sự việc ở mệnh đề trước, ta dùng 'was'."
     },
     {
      "type": "mcq",
      "q": "Welcher Satz ist grammatisch absolut fehlerfrei?",
      "options": [
+      "Der Vertrag, dem ich mit unzufrieden bin, endet bald.",
       "Der Vertrag, mit dem ich bin unzufrieden, endet bald.",
       "Der Vertrag, mit dem ich unzufrieden bin, endet bald.",
-      "Der Vertrag, dem ich mit unzufrieden bin, endet bald.",
       "Der Vertrag, mit den ich unzufrieden bin, endet bald."
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Giới từ 'mit' đi với Dativ ('mit dem'), và động từ chia 'bin' phải đứng ở cuối mệnh đề quan hệ."
     },
     {
      "type": "mcq",
      "q": "Was ist das Gegenteil von „ein befristeter Vertrag“?",
      "options": [
+      "Ein mündlicher Vertrag",
       "Ein gekündigter Vertrag",
       "Ein unbefristeter Vertrag",
-      "Ein mündlicher Vertrag",
       "Ein kurzer Vertrag"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain": "Trái nghĩa với 'befristet' (có thời hạn) là 'unbefristet' (không thời hạn / vô thời hạn)."
     },
     {
      "type": "mcq",
      "q": "Welche Wortverbindung bedeutet „nghỉ bù cho giờ làm thêm“?",
      "options": [
-      "Überstunden machen",
       "Überstunden abbauen",
+      "Überstunden machen",
       "Überstunden bezahlen",
       "Überstunden verhandeln"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain": "'Überstunden abbauen' là cụm cố định có nghĩa là nghỉ bù cho các giờ làm thêm đã tích lũy."
     },
     {

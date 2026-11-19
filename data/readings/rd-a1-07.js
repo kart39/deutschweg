@@ -107,27 +107,27 @@
   {
    "q": "Warum schreibt Tran Duc diese E-Mail?",
    "options": [
-    "Er will einen Termin absagen und verschieben",
     "Er hat Zahnschmerzen",
-    "Er sucht eine neue Wohnung"
+    "Er sucht eine neue Wohnung",
+    "Er will einen Termin absagen und verschieben"
    ],
-   "answer": 0
+   "answer": 2
   },
   {
    "q": "Wann war der ursprüngliche Termin?",
    "options": [
     "Am 18. November um 10:30 Uhr",
-    "Am 23. November um 9:00 Uhr",
-    "Am nächsten Montag"
+    "Am nächsten Montag",
+    "Am 23. November um 9:00 Uhr"
    ],
    "answer": 0
   },
   {
    "q": "Warum kann Tran Duc nicht zum Termin kommen?",
    "options": [
-    "Er ist krank",
+    "Er ist verreist",
     "Er hat eine universitäre Prüfung",
-    "Er ist verreist"
+    "Er ist krank"
    ],
    "answer": 1
   },
@@ -143,9 +143,9 @@
   {
    "q": "Wie kann die Praxis Tran Duc erreichen?",
    "options": [
-    "Nur per Brief",
+    "Gar nicht",
     "Per E-Mail oder telefonisch",
-    "Gar nicht"
+    "Nur per Brief"
    ],
    "answer": 1
   }

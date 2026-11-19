@@ -13,60 +13,60 @@
    "type": "mcq",
    "q": "In welchem Satz ist das Korrelat 'es' GRAMMATISCH FALSCH (unzulässig)?",
    "options": [
+    "Mich freut es sehr, dass du die Prüfung bestanden hast.",
     "Dass du die Prüfung bestanden hast, freut es mich sehr.",
     "Es freut mich sehr, dass du die Prüfung bestanden hast.",
-    "Mich freut es sehr, dass du die Prüfung bestanden hast.",
     "Es ist erfreulich, dass du die Prüfung bestanden hast."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Khi mệnh đề dass đứng đầu câu, nó đã làm chủ ngữ, do đó tuyệt đối không được dùng 'es' ở mệnh đề chính."
   },
   {
    "type": "mcq",
    "q": "Welches Pronominaladverb gehört als Korrelat zum Verb 'zweifeln an (+ Dat)'?",
    "options": [
+    "dazu",
     "daran",
-    "darauf",
     "davor",
-    "dazu"
+    "darauf"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'zweifeln an' đòi hỏi Korrelat tương ứng là 'daran' (Ich zweifle nicht daran, dass...)."
   },
   {
    "type": "mcq",
    "q": "Bei welchem Verb ist das Objekt-Korrelat 'es' VÖLLIG UNZULÄSSIG?",
    "options": [
+    "vorziehen",
     "wissen",
     "bedauern",
-    "vorziehen",
     "hassen"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Các động từ tri nhận như 'wissen, glauben, hoffen' không đi kèm Korrelat 'es' trước mệnh đề dass."
   },
   {
    "type": "mcq",
    "q": "Ergänzen Sie das richtige Korrelat: 'Experten warnen eindringlich ___, unbedacht persönliche Daten im Internet preiszugeben.'",
    "options": [
-    "davor",
-    "daran",
+    "dazu",
     "darauf",
-    "dazu"
+    "davor",
+    "daran"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "'warnen vor + Dativ' đòi hỏi Korrelat 'davor'."
   },
   {
    "type": "mcq",
    "q": "Ist das Korrelat 'es' auf Position 1 im Satz 'Es ist unerlässlich, pünktlich zu sein.' obligatorisch?",
    "options": [
-    "Ja, auf Position 1 ist 'es' als formales Subjekt grammatisch zwingend erforderlich.",
-    "Nein, man kann 'es' auch auf Position 1 einfach weglassen.",
     "Nur in gesprochener Sprache.",
-    "Nein, denn Position 1 kann im Deutschen leer bleiben."
+    "Nein, man kann 'es' auch auf Position 1 einfach weglassen.",
+    "Nein, denn Position 1 kann im Deutschen leer bleiben.",
+    "Ja, auf Position 1 ist 'es' als formales Subjekt grammatisch zwingend erforderlich."
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Ở vị trí 1, 'es' đóng vai trò chủ ngữ hình thức bắt buộc (obligatorisch) để giữ cấu trúc V2."
   },
   {
@@ -74,9 +74,9 @@
    "q": "Welches Korrelat passt zu 'beitragen zu (+ Dat)'?",
    "options": [
     "dazu",
-    "damit",
     "dafür",
-    "davon"
+    "davon",
+    "damit"
    ],
    "answer": 0,
    "explain": "'beitragen zu' kết hợp với Korrelat 'dazu' (Jeder kann dazu beitragen, dass...)."

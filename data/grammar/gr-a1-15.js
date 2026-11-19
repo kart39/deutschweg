@@ -26,33 +26,33 @@
    "type": "mcq",
    "q": "Welches Hilfsverb passt? 'Gestern ___ ich um sieben Uhr aufgestanden.'",
    "options": [
+    "hat",
     "habe",
     "bin",
-    "hat",
     "ist"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "'aufstehen' là động từ chuyển động/trạng thái, đi với trợ động từ 'sein' ở ngôi ich: 'bin aufgestanden'."
   },
   {
    "type": "mcq",
    "q": "Wie lautet das Partizip II von 'studieren'?",
    "options": [
+    "studierte",
     "gestudiert",
     "studiert",
-    "gestudieren",
-    "studierte"
+    "gestudieren"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Động từ tận cùng bằng '-ieren' không bao giờ thêm 'ge-': 'studiert'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz hat die richtige Wortstellung im Perfekt?",
    "options": [
-    "Ich habe gekauft ein neues Buch.",
-    "Ich habe ein neues Buch gekauft.",
     "Ich ein neues Buch habe gekauft.",
+    "Ich habe ein neues Buch gekauft.",
+    "Ich habe gekauft ein neues Buch.",
     "Gekauft habe ich ein neues Buch gestern."
    ],
    "answer": 1,
@@ -62,9 +62,9 @@
    "type": "mcq",
    "q": "Wie lautet das Partizip II von 'einkaufen'?",
    "options": [
-    "geeinkauft",
-    "eingekauft",
     "eingekaufen",
+    "eingekauft",
+    "geeinkauft",
     "einkauft"
    ],
    "answer": 1,
@@ -74,12 +74,12 @@
    "type": "mcq",
    "q": "Welches Hilfsverb passt? 'Wir ___ gestern Abend eine Pizza gegessen.'",
    "options": [
-    "sind",
-    "haben",
+    "habt",
     "seid",
-    "habt"
+    "sind",
+    "haben"
    ],
-   "answer": 1,
+   "answer": 3,
    "explain": "'essen' là động từ có tân ngữ trực tiếp, đi với trợ động từ 'haben' ở ngôi wir: 'haben gegessen'."
   },
   {

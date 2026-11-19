@@ -26,21 +26,21 @@
    "type": "mcq",
    "q": "Welcher Satz hat die richtige Wortstellung?",
    "options": [
-    "Heute ich lerne viel Deutsch.",
-    "Heute lerne ich viel Deutsch.",
     "Heute lerne Deutsch ich viel.",
-    "Lerne ich heute viel Deutsch."
+    "Lerne ich heute viel Deutsch.",
+    "Heute ich lerne viel Deutsch.",
+    "Heute lerne ich viel Deutsch."
    ],
-   "answer": 1,
+   "answer": 3,
    "explain": "Khi trạng từ 'Heute' đứng ở vị trí 1, động từ 'lerne' bắt buộc đứng ở vị trí 2 và chủ ngữ 'ich' đứng ở vị trí 3."
   },
   {
    "type": "mcq",
    "q": "Welche Frage ist grammatisch korrekt?",
    "options": [
-    "Woher Sie kommen?",
-    "Woher kommen Sie?",
     "Kommen Sie woher?",
+    "Woher kommen Sie?",
+    "Woher Sie kommen?",
     "Sie kommen woher?"
    ],
    "answer": 1,
@@ -51,9 +51,9 @@
    "q": "Welches Fragewort passt? '___ wohnst du? - In Hamburg.'",
    "options": [
     "Wo",
-    "Wohin",
+    "Wann",
     "Woher",
-    "Wann"
+    "Wohin"
    ],
    "answer": 0,
    "explain": "Hỏi địa điểm nơi chốn ở đâu (In Hamburg) ta dùng từ để hỏi 'Wo'."
@@ -62,10 +62,10 @@
    "type": "mcq",
    "q": "Wie antwortet man richtig? 'Kommst du heute nicht zum Kurs? - ___, ich komme natürlich!'",
    "options": [
-    "Ja",
+    "Nicht",
     "Nein",
     "Doch",
-    "Nicht"
+    "Ja"
    ],
    "answer": 2,
    "explain": "Câu hỏi có phủ định 'nicht' mà người trả lời muốn khẳng định ngược lại thì bắt buộc dùng 'Doch'."
@@ -75,11 +75,11 @@
    "q": "Welcher Satz ist eine korrekte Ja/Nein-Frage?",
    "options": [
     "Du trinkst gerne Tee?",
+    "Tee trinkst du gerne?",
     "Trinkst du gerne Tee?",
-    "Gerne trinkst du Tee?",
-    "Tee trinkst du gerne?"
+    "Gerne trinkst du Tee?"
    ],
-   "answer": 1,
+   "answer": 2,
    "explain": "Câu hỏi Có/Không (Ja/Nein-Frage) bắt buộc phải đưa động từ đã chia lên vị trí số 1: 'Trinkst du gerne Tee?'"
   },
   {

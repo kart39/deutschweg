@@ -14,9 +14,9 @@
    "q": "Welches Wort gehört zur gehobenen Sprache (Stilebene: gehoben) für 'sterben'?",
    "options": [
     "verscheiden",
-    "krepieren",
+    "kaputtgehen",
     "abkratzen",
-    "kaputtgehen"
+    "krepieren"
    ],
    "answer": 0,
    "explain": "'verscheiden' là từ thuộc văn phong tao nhã, trang trọng (gehoben) mang nghĩa 'qua đời, tạ thế'."
@@ -25,48 +25,48 @@
    "type": "mcq",
    "q": "Was bedeutet das bildungssprachliche Wort 'Diskrepanz'?",
    "options": [
-    "Eine erhebliche Abweichung / ein auffälliger Widerspruch",
     "Eine friedliche Einigung zwischen zwei Parteien",
-    "Eine finanzielle Unterstützung",
-    "Eine wissenschaftliche Entdeckung"
+    "Eine erhebliche Abweichung / ein auffälliger Widerspruch",
+    "Eine wissenschaftliche Entdeckung",
+    "Eine finanzielle Unterstützung"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'Diskrepanz' (Bildungssprache) nghĩa là sự mâu thuẫn, sai lệch, không khớp giữa hai sự việc."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz enthält einen unpassenden STILBRUCH (Trộn lẫn phong cách)?",
    "options": [
-    "Der Professor evaluierte die Daten und fand die Ergebnisse voll krass.",
-    "Der Professor evaluierte die Daten und beurteilte die Ergebnisse als bemerkenswert.",
+    "Die Wissenschaftlerin stellte die Ergebnisse gestern vor.",
     "Der Forscher untersuchte die Zahlen gründlich.",
-    "Die Wissenschaftlerin stellte die Ergebnisse gestern vor."
+    "Der Professor evaluierte die Daten und fand die Ergebnisse voll krass.",
+    "Der Professor evaluierte die Daten und beurteilte die Ergebnisse als bemerkenswert."
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Trộn động từ học thuật 'evaluierte' với tiếng lóng khẩu ngữ 'voll krass' là lỗi Stilbruch điển hình."
   },
   {
    "type": "mcq",
    "q": "Welches Wort aus der Bildungssprache bedeutet 'überflüssig, mehrfach vorhanden'?",
    "options": [
-    "redundant",
     "adäquat",
+    "redundant",
     "frappierend",
     "essenziell"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'redundant' nghĩa là dư thừa, lặp đi lặp lại không cần thiết."
   },
   {
    "type": "mcq",
    "q": "Welcher Ausdruck für 'wichtig sein' gehört zur gehobenen Stilebene?",
    "options": [
-    "von herausragender Tragweite sein",
+    "echt relevant sein",
     "voll wichtig sein",
     "ziemlich nötig sein",
-    "echt relevant sein"
+    "von herausragender Tragweite sein"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'von herausragender Tragweite sein' là cách diễn đạt mang tính trang trọng đỉnh cao."
   },
   {
@@ -74,9 +74,9 @@
    "q": "Was ist ein 'Hyperonym' in der Stilistik?",
    "options": [
     "Ein übergeordneter Begriff (z.B. Fahrzeug für Auto)",
+    "Ein kurzes Sprichwort",
     "Ein schimpfendes Wort aus der Vulgärsprache",
-    "Eine falsche grammatische Endung",
-    "Ein kurzes Sprichwort"
+    "Eine falsche grammatische Endung"
    ],
    "answer": 0,
    "explain": "Hyperonym là từ bao hàm cấp cao hơn (Oberbegriff), dùng để tránh lặp từ trong văn phong C1."

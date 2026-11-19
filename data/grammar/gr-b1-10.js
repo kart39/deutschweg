@@ -10,12 +10,12 @@
    "type": "mcq",
    "q": "Welche Form ist korrekt? \"Der Arzt untersucht den kranken ___.\"",
    "options": [
-    "Patienten",
-    "Patient",
     "Patientem",
-    "Patienter"
+    "Patient",
+    "Patienter",
+    "Patienten"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "'der Patient' có hậu tố '-ent' thuộc nhóm n-Deklination, ở Akkusativ nhận đuôi '-en': 'den Patienten'."
   },
   {
@@ -23,9 +23,9 @@
    "q": "Ich habe gestern lange mit ___ Müller gesprochen.",
    "options": [
     "Herrn",
-    "Herr",
+    "Herrs",
     "Herren",
-    "Herrs"
+    "Herr"
    ],
    "answer": 0,
    "explain": "Sau giới từ 'mit' (Dativ), danh từ 'Herr' ở số ít nhận đuôi '-n' thành 'Herrn'."
@@ -36,8 +36,8 @@
    "options": [
     "Der Polizist befragt den Zeugen.",
     "Der Polizist befragt den Zeuge.",
-    "Der Polizisten befragt den Zeugen.",
-    "Der Polizist befragt der Zeuge."
+    "Der Polizist befragt der Zeuge.",
+    "Der Polizisten befragt den Zeugen."
    ],
    "answer": 0,
    "explain": "'der Zeuge' thuộc n-Deklination, ở Akkusativ nhận đuôi '-n': 'den Zeugen'. 'Der Polizist' ở Nominativ giữ nguyên."
@@ -46,12 +46,12 @@
    "type": "mcq",
    "q": "Er hilft seinem neuen ___ bei den Hausaufgaben.",
    "options": [
+    "Kolleges",
     "Kollegen",
     "Kollege",
-    "Kolleges",
     "Kollegem"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'der Kollege' ở Dativ sau 'seinem' nhận đuôi '-n': 'seinem neuen Kollegen'."
   },
   {
@@ -60,8 +60,8 @@
    "options": [
     "Nachbarn",
     "Nachbars",
-    "Nachbar",
-    "Nachbaren"
+    "Nachbaren",
+    "Nachbar"
    ],
    "answer": 0,
    "explain": "'der Nachbar' thuộc nhóm n-Deklination, ở Genitiv nhận đuôi '-n': 'meines Nachbarn'."
@@ -70,12 +70,12 @@
    "type": "mcq",
    "q": "Die Studenten hörten dem Vortrag des berühmten ___ (Biologe) aufmerksam zu.",
    "options": [
-    "Biologen",
-    "Biologe",
     "Biologes",
-    "Biologs"
+    "Biologen",
+    "Biologs",
+    "Biologe"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "'der Biologe' có đuôi '-oge' thuộc n-Deklination, ở Genitiv là 'des berühmten Biologen'."
   },
   {

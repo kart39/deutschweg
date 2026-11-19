@@ -10,48 +10,48 @@
    "type": "mcq",
    "q": "Welche Form ist korrekt? \"Er hat sich ein ___ Auto gekauft.\"",
    "options": [
-    "schnelles",
+    "schnellen",
     "schneller",
-    "schnelle",
-    "schnellen"
+    "schnelles",
+    "schnelle"
    ],
-   "answer": 0,
+   "answer": 2,
    "explain": "Danh từ 'Auto' giống trung (das Auto), ở Akkusativ sau quán từ bất định 'ein' tính từ nhận đuôi '-es': 'ein schnelles Auto'."
   },
   {
    "type": "mcq",
    "q": "Ergänzen Sie den Dativ: \"Ich wohne seit zwei Jahren in einer ___ Stadt.\"",
    "options": [
+    "großer",
     "großen",
     "große",
-    "großer",
     "großem"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Ở cách Dativ sau mạo từ bất định 'einer', tính từ luôn nhận đuôi '-en': 'in einer großen Stadt'."
   },
   {
    "type": "mcq",
    "q": "Welcher Satz nach dem bestimmten Artikel ist RICHTIG?",
    "options": [
-    "Der alte Mann geht langsam im Park spazieren.",
     "Der alter Mann geht langsam im Park spazieren.",
+    "Der alte Mann geht langsam im Park spazieren.",
     "Der altes Mann geht langsam im Park spazieren.",
     "Der alten Mann geht langsam im Park spazieren."
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Sau quán từ xác định 'der' ở Nominativ giống đực, tính từ nhận đuôi '-e': 'Der alte Mann'."
   },
   {
    "type": "mcq",
    "q": "Er hilft den ___ Kindern bei den schweren Aufgaben.",
    "options": [
-    "kleinen",
     "kleine",
     "kleiner",
-    "kleines"
+    "kleines",
+    "kleinen"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Ở số nhiều Dativ sau 'den', tính từ bắt buộc nhận đuôi '-en': 'den kleinen Kindern'."
   },
   {
@@ -70,12 +70,12 @@
    "type": "mcq",
    "q": "Nullartikel: \"Ich trinke morgens am liebsten ___ Kaffee.\"",
    "options": [
-    "schwarzen",
     "schwarzer",
+    "schwarze",
     "schwarzes",
-    "schwarze"
+    "schwarzen"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Không có mạo từ (Nullartikel), 'Kaffee' giống đực ở Akkusativ nhận đuôi '-en' như mạo từ 'den': 'schwarzen Kaffee'."
   },
   {

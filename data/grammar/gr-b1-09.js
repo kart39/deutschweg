@@ -10,24 +10,24 @@
    "type": "mcq",
    "q": "Welche Form von \"werden\" passt? \"Er ___ wohl im Stau stehen.\"",
    "options": [
-    "wird",
     "werde",
+    "wird",
     "wirst",
     "werdet"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Chủ ngữ là 'er', dạng chia của 'werden' ở thì hiện tại là 'wird': 'Er wird wohl im Stau stehen'."
   },
   {
    "type": "mcq",
    "q": "Welche Bedeutung hat der Satz? \"Sie wird wahrscheinlich noch schlafen.\"",
    "options": [
-    "Eine Vermutung über die Gegenwart",
     "Eine feste Absicht für die Zukunft",
     "Eine Bitte in der Gegenwart",
-    "Ein Ereignis in der Vergangenheit"
+    "Ein Ereignis in der Vergangenheit",
+    "Eine Vermutung über die Gegenwart"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Cấu trúc 'wird wahrscheinlich ... schlafen' diễn tả một sự phỏng đoán về hiện tại (Eine Vermutung über die Gegenwart)."
   },
   {
@@ -35,8 +35,8 @@
    "q": "Welcher Satz im Futur I ist grammatisch KORREKT?",
    "options": [
     "Wir werden das schwere Problem gemeinsam lösen.",
-    "Wir werden das schwere Problem gemeinsam gelöst.",
     "Wir werden lösen das schwere Problem gemeinsam.",
+    "Wir werden das schwere Problem gemeinsam gelöst.",
     "Wir wollen das schwere Problem gemeinsam lösen."
    ],
    "answer": 0,
@@ -46,24 +46,24 @@
    "type": "mcq",
    "q": "Wo bleibt Peter? – \"Er ___ wohl den Bus verpasst haben.\"",
    "options": [
-    "wird",
-    "hat",
     "ist",
-    "wurde"
+    "wurde",
+    "hat",
+    "wird"
    ],
-   "answer": 0,
+   "answer": 3,
    "explain": "Phỏng đoán quá khứ: 'Er wird wohl ... verpasst haben'."
   },
   {
    "type": "mcq",
    "q": "Du ___ jetzt sofort dein Zimmer aufräumen!",
    "options": [
+    "werdet",
     "wirst",
-    "wird",
     "werdest",
-    "werdet"
+    "wird"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Futur I dùng như mệnh lệnh dứt khoát ngôi 'du': 'Du wirst'."
   },
   {
@@ -71,8 +71,8 @@
    "q": "Keine Sorge, die Ärztin wird den Patienten ___ untersuchen.",
    "options": [
     "sicherlich gründlich",
-    "gründlich sicherlich",
     "gründlich sicherlichen",
+    "gründlich sicherlich",
     "sicherlich gründlicher"
    ],
    "answer": 0,

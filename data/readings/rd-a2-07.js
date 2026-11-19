@@ -109,46 +109,46 @@
    "q": "Welche Beschwerden plagen viele Menschen im Winter?",
    "options": [
     "Zahnschmerzen und Rückenschmerzen",
-    "Schnupfen, Husten und Halsschmerzen",
-    "Bauchschmerzen"
+    "Bauchschmerzen",
+    "Schnupfen, Husten und Halsschmerzen"
    ],
-   "answer": 1
+   "answer": 2
   },
   {
    "q": "Welches Vitamin liefern Zitrusfrüchte wie Orangen?",
    "options": [
-    "Vitamin B12",
     "Vitamin C",
+    "Vitamin B12",
     "Vitamin K"
-   ],
-   "answer": 1
-  },
-  {
-   "q": "Wie lange sollte man täglich an der frischen Luft spazieren gehen?",
-   "options": [
-    "Mindestens 30 Minuten",
-    "Nur 5 Minuten",
-    "Zwei Stunden"
    ],
    "answer": 0
   },
   {
-   "q": "Wie viele Stunden Schlaf pro Nacht empfiehlt der Text?",
+   "q": "Wie lange sollte man täglich an der frischen Luft spazieren gehen?",
    "options": [
-    "Vier bis fünf Stunden",
-    "Sieben bis acht Stunden",
-    "Mehr als zehn Stunden"
+    "Zwei Stunden",
+    "Mindestens 30 Minuten",
+    "Nur 5 Minuten"
    ],
    "answer": 1
   },
   {
+   "q": "Wie viele Stunden Schlaf pro Nacht empfiehlt der Text?",
+   "options": [
+    "Sieben bis acht Stunden",
+    "Vier bis fünf Stunden",
+    "Mehr als zehn Stunden"
+   ],
+   "answer": 0
+  },
+  {
    "q": "Wie funktioniert das sogenannte 'Stoßlüften'?",
    "options": [
+    "Nur die Haustür öffnen",
     "Fenster den ganzen Tag kippen",
-    "Fenster 3-4 Mal täglich für 5 Minuten ganz öffnen",
-    "Nur die Haustür öffnen"
+    "Fenster 3-4 Mal täglich für 5 Minuten ganz öffnen"
    ],
-   "answer": 1
+   "answer": 2
   }
  ]
 });

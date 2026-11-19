@@ -28,8 +28,8 @@
    "options": [
     "Der",
     "Die",
-    "Das",
-    "Ein"
+    "Ein",
+    "Das"
    ],
    "answer": 1,
    "explain": "Danh từ có đuôi '-ung' (Zeitung) luôn luôn là giống cái: 'Die Zeitung'."
@@ -38,24 +38,24 @@
    "type": "mcq",
    "q": "Welcher Artikel passt? '___ Mädchen spielt draußen im Park.'",
    "options": [
-    "Der",
     "Die",
     "Das",
-    "Eine"
+    "Eine",
+    "Der"
    ],
-   "answer": 2,
+   "answer": 1,
    "explain": "Danh từ có đuôi giảm nhẹ '-chen' (Mädchen) luôn luôn là giống trung: 'Das Mädchen'."
   },
   {
    "type": "mcq",
    "q": "Welcher unbestimmte Artikel passt? 'Dort drüben steht ___ moderner Computer.'",
    "options": [
-    "ein",
     "eine",
-    "einen",
-    "das"
+    "ein",
+    "das",
+    "einen"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Chủ ngữ ở Nominativ giống đực (der Computer) đi với mạo từ không xác định là 'ein'."
   },
   {
@@ -74,12 +74,12 @@
    "type": "mcq",
    "q": "Welcher Artikel gehört zu Wochentagen wie 'Dienstag' oder 'Freitag'?",
    "options": [
-    "der",
     "die",
+    "der",
     "das",
     "ein"
    ],
-   "answer": 0,
+   "answer": 1,
    "explain": "Tất cả các ngày trong tuần trong tiếng Đức đều mang giống đực: 'der'."
   },
   {
