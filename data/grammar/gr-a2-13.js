@@ -137,7 +137,7 @@
     "bitte",
     "den",
     "Weg",
-    "zeigen?"
+    "zeigen"
    ],
    "answer": "Könnten Sie mir bitte den Weg zeigen?",
    "answers": [
@@ -154,7 +154,7 @@
     "einen",
     "heißen",
     "schwarzen",
-    "Tee."
+    "Tee"
    ],
    "answer": "Ich hätte gerne einen heißen schwarzen Tee.",
    "answers": [
@@ -171,7 +171,7 @@
     "Abend",
     "früh",
     "schlafen",
-    "gehen."
+    "gehen"
    ],
    "answer": "Du solltest heute Abend früh schlafen gehen.",
    "answers": [

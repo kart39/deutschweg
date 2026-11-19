@@ -138,7 +138,7 @@
     "bleibt",
     "er",
     "zu",
-    "Hause."
+    "Hause"
    ],
    "answer": "Er ist krank, deshalb bleibt er zu Hause.",
    "answers": [
@@ -156,7 +156,7 @@
     "wir",
     "im",
     "Park",
-    "spazieren."
+    "spazieren"
    ],
    "answer": "Es regnet, trotzdem gehen wir im Park spazieren.",
    "answers": [
@@ -174,7 +174,7 @@
     "gehe",
     "ich",
     "zur",
-    "Arbeit."
+    "Arbeit"
    ],
    "answer": "Zuerst frühstücke ich, dann gehe ich zur Arbeit.",
    "answers": [

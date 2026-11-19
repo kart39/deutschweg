@@ -138,7 +138,7 @@
     "wo",
     "der",
     "Bahnhof",
-    "ist?"
+    "ist"
    ],
    "answer": "Können Sie mir sagen, wo der Bahnhof ist?",
    "answers": [
@@ -156,7 +156,7 @@
     "der",
     "Chef",
     "heute",
-    "kommt."
+    "kommt"
    ],
    "answer": "Ich möchte wissen, ob der Chef heute kommt.",
    "answers": [
@@ -174,7 +174,7 @@
     "Supermarkt",
     "am",
     "Samstag",
-    "schließt?"
+    "schließt"
    ],
    "answer": "Wissen Sie, wann der Supermarkt am Samstag schließt?",
    "answers": [

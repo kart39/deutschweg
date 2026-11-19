@@ -136,7 +136,7 @@
     "Kind",
     "sucht",
     "seine",
-    "Mutter."
+    "Mutter"
    ],
    "answer": "Das weinende Kind sucht seine Mutter.",
    "answers": [
@@ -152,7 +152,7 @@
     "sucht",
     "das",
     "gestohlene",
-    "Auto."
+    "Auto"
    ],
    "answer": "Die Polizei sucht das gestohlene Auto.",
    "answers": [
@@ -169,7 +169,7 @@
     "Glas",
     "frisch",
     "gepressten",
-    "Saft."
+    "Saft"
    ],
    "answer": "Er trinkt ein Glas frisch gepressten Saft.",
    "answers": [

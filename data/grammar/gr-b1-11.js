@@ -137,7 +137,7 @@
     "Deutsch",
     "als",
     "auch",
-    "Englisch."
+    "Englisch"
    ],
    "answer": "Er spricht sowohl Deutsch als auch Englisch.",
    "answers": [
@@ -153,7 +153,7 @@
     "weder",
     "Fleisch",
     "noch",
-    "Fisch."
+    "Fisch"
    ],
    "answer": "Sie isst weder Fleisch noch Fisch.",
    "answers": [
@@ -171,7 +171,7 @@
     "oder",
     "wir",
     "bleiben",
-    "hier."
+    "hier"
    ],
    "answer": "Entweder wir gehen heute, oder wir bleiben hier.",
    "answers": [

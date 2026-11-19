@@ -136,7 +136,7 @@
     "du",
     "hier",
     "am",
-    "Bahnhof?"
+    "Bahnhof"
    ],
    "answer": "Worauf wartest du hier am Bahnhof?",
    "answers": [
@@ -170,7 +170,7 @@
     "du",
     "gestern",
     "Abend",
-    "gesprochen?"
+    "gesprochen"
    ],
    "answer": "Mit wem hast du gestern Abend gesprochen?",
    "answers": [

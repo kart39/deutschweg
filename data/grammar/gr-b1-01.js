@@ -138,7 +138,7 @@
     "Arbeit",
     "direkt",
     "nach",
-    "Hause."
+    "Hause"
    ],
    "answer": "Er ging nach der Arbeit direkt nach Hause.",
    "answers": [
@@ -155,7 +155,7 @@
     "Tag",
     "einen",
     "langen",
-    "Brief."
+    "Brief"
    ],
    "answer": "Sie schrieb jeden Tag einen langen Brief.",
    "answers": [
@@ -173,7 +173,7 @@
     "Bus",
     "nicht",
     "mehr",
-    "erreichen."
+    "erreichen"
    ],
    "answer": "Wir konnten den letzten Bus nicht mehr erreichen.",
    "answers": [

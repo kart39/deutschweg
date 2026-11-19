@@ -131,7 +131,7 @@
     "haben,",
     "kontaktieren",
     "Sie",
-    "uns."
+    "uns"
    ],
    "answer": "Sollten Sie weitere Fragen haben, kontaktieren Sie uns.",
    "answers": [
@@ -149,7 +149,7 @@
     "wäre",
     "ich",
     "nicht",
-    "gekommen."
+    "gekommen"
    ],
    "answer": "Hätte ich das gewusst, wäre ich nicht gekommen.",
    "answers": [
@@ -167,7 +167,7 @@
     "uns",
     "das",
     "möglich",
-    "ist."
+    "ist"
    ],
    "answer": "Wir helfen Ihnen, sofern uns das möglich ist.",
    "answers": [

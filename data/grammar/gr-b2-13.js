@@ -131,7 +131,7 @@
     "den",
     "Vorwürfen",
     "ausführlich",
-    "Stellung."
+    "Stellung"
    ],
    "answer": "Der Minister nahm zu den Vorwürfen ausführlich Stellung.",
    "answers": [
@@ -150,7 +150,7 @@
     "ersten",
     "Januar",
     "in",
-    "Kraft."
+    "Kraft"
    ],
    "answer": "Das neue Gesetz tritt am ersten Januar in Kraft.",
    "answers": [
@@ -169,7 +169,7 @@
     "Ruhe",
     "zur",
     "Sprache",
-    "bringen."
+    "bringen"
    ],
    "answer": "Wir müssen alle Details in Ruhe zur Sprache bringen.",
    "answers": [

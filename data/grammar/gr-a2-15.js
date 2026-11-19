@@ -138,7 +138,7 @@
     "lebte",
     "ich",
     "in",
-    "Hanoi."
+    "Hanoi"
    ],
    "answer": "Als ich Kind war, lebte ich in Hanoi.",
    "answers": [
@@ -155,7 +155,7 @@
     "bleibe",
     "ich",
     "zu",
-    "Hause."
+    "Hause"
    ],
    "answer": "Wenn es regnet, bleibe ich zu Hause.",
    "answers": [
@@ -173,7 +173,7 @@
     "hatte,",
     "half",
     "er",
-    "mir."
+    "mir"
    ],
    "answer": "Immer wenn er Zeit hatte, half er mir.",
    "answers": [

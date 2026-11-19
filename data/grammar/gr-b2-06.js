@@ -131,7 +131,7 @@
     "Kollege",
     "geht",
     "in",
-    "Rente."
+    "Rente"
    ],
    "answer": "Der von allen geschätzte Kollege geht in Rente.",
    "answers": [
@@ -149,7 +149,7 @@
     "Methoden",
     "sind",
     "sehr",
-    "effizient."
+    "effizient"
    ],
    "answer": "Die im Labor entwickelten Methoden sind sehr effizient.",
    "answers": [
@@ -166,7 +166,7 @@
     "Kind",
     "suchte",
     "seine",
-    "Mutter."
+    "Mutter"
    ],
    "answer": "Das laut weinende Kind suchte seine Mutter.",
    "answers": [

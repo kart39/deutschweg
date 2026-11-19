@@ -130,7 +130,7 @@
     "lässt",
     "sich",
     "schnell",
-    "lösen."
+    "lösen"
    ],
    "answer": "Diese komplizierte Aufgabe lässt sich schnell lösen.",
    "answers": [
@@ -146,7 +146,7 @@
     "ist",
     "bis",
     "morgen",
-    "einzureichen."
+    "einzureichen"
    ],
    "answer": "Der Bericht ist bis morgen einzureichen.",
    "answers": [
@@ -162,7 +162,7 @@
     "alle",
     "Sicherheitsregeln",
     "genau",
-    "beachten."
+    "beachten"
    ],
    "answer": "Man muss alle Sicherheitsregeln genau beachten.",
    "answers": [

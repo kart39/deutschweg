@@ -137,7 +137,7 @@
     "noch",
     "im",
     "Büro",
-    "arbeiten."
+    "arbeiten"
    ],
    "answer": "Er wird wohl noch im Büro arbeiten.",
    "answers": [
@@ -154,7 +154,7 @@
     "Prüfung",
     "sicherlich",
     "erfolgreich",
-    "bestehen."
+    "bestehen"
    ],
    "answer": "Wir werden die Prüfung sicherlich erfolgreich bestehen.",
    "answers": [
@@ -171,7 +171,7 @@
     "morgen",
     "zu",
     "uns",
-    "kommen."
+    "kommen"
    ],
    "answer": "Sie wird wahrscheinlich morgen zu uns kommen.",
    "answers": [

@@ -131,7 +131,7 @@
     "hätte",
     "er",
     "keine",
-    "Ahnung."
+    "Ahnung"
    ],
    "answer": "Er tut so, als hätte er keine Ahnung.",
    "answers": [
@@ -150,7 +150,7 @@
     "sie",
     "die",
     "Chefin",
-    "wäre."
+    "wäre"
    ],
    "answer": "Sie benimmt sich, als ob sie die Chefin wäre.",
    "answers": [
@@ -169,7 +169,7 @@
     "würde",
     "es",
     "gleich",
-    "regnen."
+    "regnen"
    ],
    "answer": "Es sieht so aus, als würde es gleich regnen.",
    "answers": [

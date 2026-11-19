@@ -132,7 +132,7 @@
     "Kanzler",
     "eine",
     "Sondersitzung",
-    "ein."
+    "ein"
    ],
    "answer": "In Berlin angekommen, berief der Kanzler eine Sondersitzung ein.",
    "answers": [
@@ -151,7 +151,7 @@
     "Sängerin",
     "überglücklich",
     "die",
-    "Bühne."
+    "Bühne"
    ],
    "answer": "Von allen gefeiert, verließ die Sängerin überglücklich die Bühne.",
    "answers": [
@@ -169,7 +169,7 @@
     "Kinder",
     "das",
     "bunte",
-    "Klassenzimmer."
+    "Klassenzimmer"
    ],
    "answer": "Laut lachend, betraten die Kinder das bunte Klassenzimmer.",
    "answers": [

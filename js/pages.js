@@ -217,7 +217,7 @@
         <div class="big-de">${esc(v.inf)} <span class="muted small" style="font-weight:400">(${esc(v.vi)})</span></div>
         <div class="row" style="margin-top:14px;font-size:1.2rem"><b>${t === 'imp' ? PERS_IMP[p] + ':' : VERBS.PERSONS[p]}</b><input class="input" id="vin" style="max-width:280px" autocomplete="off" spellcheck="false" placeholder="${t === 'perf' ? 'vd. habe gemacht' : ''}"></div>${umlautBar()}
         <div class="row" style="margin-top:10px"><button class="btn primary" id="vchk">Kiểm tra</button><button class="btn ghost" id="vskip">Bỏ qua</button></div><div id="vfb" style="margin-top:10px"></div>`;
-      const inp = $('#vin'); setTimeout(() => inp.focus(), 30);
+      const inp = $('#vin'); setTimeout(() => inp && inp.isConnected && inp.focus(), 30);
       $('#vchk').onclick = check; $('#vskip').onclick = next;
       inp.onkeydown = e => { if (e.key === 'Enter') { e.preventDefault(); done ? next() : check(); } };
     };
@@ -263,7 +263,7 @@
       $('#lb').innerHTML = `<div class="small muted">Đúng ${right}/${total}</div><div class="row" style="margin:14px 0">${sayBtn(s.de)}${sayBtn(s.de, true)}<span class="pill lv">${s.level}</span></div>
         <textarea class="input" id="lin" rows="2" placeholder="Gõ những gì bạn nghe được…" spellcheck="false"></textarea>${umlautBar()}
         <div class="row" style="margin-top:10px"><button class="btn primary" id="lchk">Kiểm tra</button><button class="btn ghost" id="lskip">Câu khác</button></div><div id="lfb" style="margin-top:10px"></div>`;
-      setTimeout(() => { Speech.speak(s.de).catch(() => {}); $('#lin').focus(); }, 200);
+      setTimeout(() => { const li = $('#lin'); if (!li) return; Speech.speak(s.de).catch(() => {}); li.focus(); }, 200);
       $('#lchk').onclick = check; $('#lskip').onclick = next;
       $('#lin').onkeydown = e => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); done ? next() : check(); } };
     };

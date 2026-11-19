@@ -133,7 +133,7 @@
     "Nagel",
     "auf",
     "den",
-    "Kopf."
+    "Kopf"
    ],
    "answer": "Er traf mit seiner Analyse den Nagel auf den Kopf.",
    "answers": [
@@ -151,7 +151,7 @@
     "Nägel",
     "mit",
     "Köpfen",
-    "machen."
+    "machen"
    ],
    "answer": "Wir müssen jetzt endlich Nägel mit Köpfen machen.",
    "answers": [
@@ -168,7 +168,7 @@
     "dem",
     "Rücken",
     "zur",
-    "Wand."
+    "Wand"
    ],
    "answer": "Sie steht mit dem Rücken zur Wand.",
    "answers": [

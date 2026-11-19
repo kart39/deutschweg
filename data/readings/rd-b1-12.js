@@ -42,7 +42,7 @@
   {
    "de": "Abitur",
    "article": "das",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "abiˈtuːɐ̯",
    "vi": "bằng tốt nghiệp tú tài để vào đại học",
@@ -52,7 +52,7 @@
   {
    "de": "Zerrissenheit",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "tsɛɐ̯ˈʁɪsn̩haɪ̯t",
    "vi": "sự giằng xé nội tâm",
@@ -62,7 +62,7 @@
   {
    "de": "Herzlichkeit",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈhɛɐ̯tslɪçkaɪ̯t",
    "vi": "lòng nồng hậu, sự ấm áp",

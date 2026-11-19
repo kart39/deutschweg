@@ -131,7 +131,7 @@
     "mussten",
     "wir",
     "drinnen",
-    "bleiben."
+    "bleiben"
    ],
    "answer": "Wegen des starken Regens mussten wir drinnen bleiben.",
    "answers": [
@@ -150,7 +150,7 @@
     "die",
     "Prüfung",
     "nicht",
-    "bestanden."
+    "bestanden"
    ],
    "answer": "Trotz intensiver Vorbereitung hat er die Prüfung nicht bestanden.",
    "answers": [
@@ -169,7 +169,7 @@
     "gingen",
     "sie",
     "sofort",
-    "schlafen."
+    "schlafen"
    ],
    "answer": "Nach der Ankunft im Hotel gingen sie sofort schlafen.",
    "answers": [

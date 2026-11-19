@@ -138,7 +138,7 @@
     "hätte,",
     "wäre",
     "ich",
-    "gekommen."
+    "gekommen"
    ],
    "answer": "Wenn ich Zeit gehabt hätte, wäre ich gekommen.",
    "answers": [
@@ -156,7 +156,7 @@
     "hätte",
     "ich",
     "dich",
-    "angerufen."
+    "angerufen"
    ],
    "answer": "Hätte ich das gewusst, hätte ich dich angerufen.",
    "answers": [
@@ -172,7 +172,7 @@
     "mich",
     "vorher",
     "informieren",
-    "müssen."
+    "müssen"
    ],
    "answer": "Du hättest mich vorher informieren müssen.",
    "answers": [

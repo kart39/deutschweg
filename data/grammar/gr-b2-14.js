@@ -133,7 +133,7 @@
     "er",
     "die",
     "Prüfung",
-    "bestanden."
+    "bestanden"
    ],
    "answer": "Er hat viel gelernt, deshalb hat er die Prüfung bestanden.",
    "answers": [
@@ -152,7 +152,7 @@
     "das",
     "Konzert",
     "abgebrochen",
-    "wurde."
+    "wurde"
    ],
    "answer": "Es regnete so stark, dass das Konzert abgebrochen wurde.",
    "answers": [
@@ -169,7 +169,7 @@
     "ganzen",
     "Körper",
     "vor",
-    "Kälte."
+    "Kälte"
    ],
    "answer": "Er zitterte am ganzen Körper vor Kälte.",
    "answers": [

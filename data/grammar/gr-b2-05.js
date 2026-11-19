@@ -131,7 +131,7 @@
     "sei",
     "zu",
     "Gesprächen",
-    "bereit."
+    "bereit"
    ],
    "answer": "Der Kanzler sagte, er sei zu Gesprächen bereit.",
    "answers": [
@@ -148,7 +148,7 @@
     "habe",
     "die",
     "Wahrheit",
-    "gesagt."
+    "gesagt"
    ],
    "answer": "Sie behauptete, sie habe die Wahrheit gesagt.",
    "answers": [
@@ -166,7 +166,7 @@
     "Preise",
     "seien",
     "deutlich",
-    "gestiegen."
+    "gestiegen"
    ],
    "answer": "Die Zeitung berichtet, die Preise seien deutlich gestiegen.",
    "answers": [

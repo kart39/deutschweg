@@ -85,6 +85,14 @@ const App = (() => {
     while (i < lines.length) {
       const l = lines[i];
       if (!l.trim()) { i++; continue; }
+      // khối ``` … ``` (sơ đồ cây, bảng chữ): giữ nguyên khoảng trắng, {{ }} vẫn bấm nghe được
+      if (/^\s*```/.test(l)) {
+        const b = []; i++;
+        while (i < lines.length && !/^\s*```/.test(lines[i])) b.push(lines[i++]);
+        i++;
+        out.push(`<pre class="md-pre">${b.map(x => x.replace(/\{\{(.+?)\}\}/g, (_, t) => `<span class="say" data-say="${t}" title="Bấm để nghe">${t}</span>`)).join('\n')}</pre>`);
+        continue;
+      }
       let m;
       if ((m = l.match(/^(#{1,4})\s+(.*)/))) { const n = Math.min(4, m[1].length + 1); out.push(`<h${n}>${inline(m[2])}</h${n}>`); i++; continue; }
       if (/^\s*\|/.test(l)) {
@@ -706,7 +714,7 @@ const App = (() => {
         `<textarea class="input" rows="2" placeholder="Gõ câu tiếng Đức…" autocomplete="off" spellcheck="false"></textarea>${umlautBar()}`;
       const ta = $('textarea', host);
       ta.oninput = () => api.setReady(!!ta.value.trim());
-      setTimeout(() => ta.focus(), 50);
+      setTimeout(() => ta && ta.isConnected && ta.focus(), 50);
       if (isL && set().autoplay) setTimeout(() => Speech.speak(x.de).catch(() => {}), 250);
       let aiBox = null;
       return { check: () => {
@@ -915,7 +923,7 @@ const App = (() => {
         fc.innerHTML = `<div class="muted small">${esc(v.pos || '')}${v.article ? ' · danh từ (nhớ mạo từ!)' : ''}</div><div class="front" style="font-size:1.6rem">${esc(v.vi)}</div>
           <input class="input" id="tAns" style="max-width:360px;text-align:center;font-size:1.2rem" placeholder="Gõ từ tiếng Đức…" autocomplete="off" spellcheck="false">${umlautBar()}<div id="tRes"></div>`;
         fc.style.cursor = 'default';
-        const inp = $('#tAns'); setTimeout(() => inp.focus(), 50);
+        const inp = $('#tAns'); setTimeout(() => inp && inp.isConnected && inp.focus(), 50);
         fc.onclick = null;
         inp.onkeydown = e => { if (e.key === 'Enter') { e.preventDefault(); e.stopPropagation(); if (!revealed) reveal(); } };
       } else {

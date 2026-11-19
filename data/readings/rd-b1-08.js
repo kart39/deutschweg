@@ -32,7 +32,7 @@
   {
    "de": "Pflichtgefühl",
    "article": "das",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈpflɪçtɡəˌfyːl",
    "vi": "tinh thần trách nhiệm, bổn phận",
@@ -62,7 +62,7 @@
   {
    "de": "Gepäck",
    "article": "das",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ɡəˈpɛk",
    "vi": "hành lý",

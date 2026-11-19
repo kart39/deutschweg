@@ -12,7 +12,7 @@
   {
    "de": "Künstliche Intelligenz",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈkʏnstlɪçə ɪntɛliˈɡɛnts",
    "vi": "trí tuệ nhân tạo (AI)",
@@ -52,7 +52,7 @@
   {
    "de": "Massenüberwachung",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈmasn̩ʔyːbɐˌvaxʊŋ",
    "vi": "sự giám sát hàng loạt",

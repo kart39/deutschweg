@@ -138,7 +138,7 @@
     "dessen",
     "Auto",
     "gestohlen",
-    "wurde."
+    "wurde"
    ],
    "answer": "Das ist der Mann, dessen Auto gestohlen wurde.",
    "answers": [
@@ -156,7 +156,7 @@
     "mit",
     "denen",
     "ich",
-    "reise."
+    "reise"
    ],
    "answer": "Das sind die Freunde, mit denen ich reise.",
    "answers": [
@@ -173,7 +173,7 @@
     "was",
     "ich",
     "heute",
-    "weiß."
+    "weiß"
    ],
    "answer": "Das ist alles, was ich heute weiß.",
    "answers": [

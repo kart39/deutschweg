@@ -53,7 +53,7 @@
      "article": null,
      "plural": null,
      "pos": "phrase",
-     "ipa": "ˌɡuːtn̩ ˈʔaːbn̩t",
+     "ipa": "ˌɡuːtn̩ ˈaːbn̩t",
      "vi": "chào buổi tối",
      "example": "Guten Abend! Wie geht es Ihnen?",
      "exampleVi": "Chào buổi tối! Ông/bà khỏe không?"

@@ -109,7 +109,7 @@
   {
    "de": "Klimaschutz",
    "article": "der",
-   "plural": "Klimaschutz",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈkliːmaˌʃʊts",
    "vi": "bảo vệ khí hậu",

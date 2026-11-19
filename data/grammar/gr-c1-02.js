@@ -131,7 +131,7 @@
     "sinkt",
     "die",
     "Kaufkraft",
-    "drastisch."
+    "drastisch"
    ],
    "answer": "Angesichts der hohen Inflation sinkt die Kaufkraft drastisch.",
    "answers": [
@@ -149,7 +149,7 @@
     "die",
     "Waldbrände",
     "geortet",
-    "werden."
+    "werden"
    ],
    "answer": "Mittels moderner Satellitentechnik konnten die Waldbrände geortet werden.",
    "answers": [
@@ -167,7 +167,7 @@
     "das",
     "gefährliche",
     "Projekt",
-    "fortgesetzt."
+    "fortgesetzt"
    ],
    "answer": "Ungeachtet aller Warnungen wurde das gefährliche Projekt fortgesetzt.",
    "answers": [

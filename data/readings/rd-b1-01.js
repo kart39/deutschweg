@@ -12,7 +12,7 @@
   {
    "de": "Nahverkehr",
    "article": "der",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈnaːfɛɐ̯ˌkeːɐ̯",
    "vi": "giao thông công cộng cự ly gần",

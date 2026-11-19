@@ -156,7 +156,7 @@
     "heute",
     "Abend",
     "nach",
-    "Hause?"
+    "Hause"
    ],
    "answer": "Wann kommst du heute Abend nach Hause?",
    "answers": [

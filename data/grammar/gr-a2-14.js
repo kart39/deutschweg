@@ -137,7 +137,7 @@
     "Mann,",
     "der",
     "nebenan",
-    "wohnt."
+    "wohnt"
    ],
    "answer": "Das ist der Mann, der nebenan wohnt.",
    "answers": [
@@ -155,7 +155,7 @@
     "den",
     "ich",
     "gebacken",
-    "habe."
+    "habe"
    ],
    "answer": "Hier ist der Kuchen, den ich gebacken habe.",
    "answers": [
@@ -173,7 +173,7 @@
     "spielt,",
     "ist",
     "sehr",
-    "süß."
+    "süß"
    ],
    "answer": "Das Kind, das dort spielt, ist sehr süß.",
    "answers": [

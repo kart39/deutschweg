@@ -12,7 +12,7 @@
   {
    "de": "Gemeinwohl",
    "article": "das",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ɡəˈmaɪ̯nˌvoːl",
    "vi": "lợi ích chung cộng đồng",
@@ -32,7 +32,7 @@
   {
    "de": "Brandschutz",
    "article": "der",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈbʁantˌʃʊts",
    "vi": "phòng cháy chữa cháy",

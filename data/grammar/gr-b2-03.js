@@ -131,7 +131,7 @@
     "an",
     "alle",
     "Mitarbeiter",
-    "versendet."
+    "versendet"
    ],
    "answer": "Das Dokument ist bereits an alle Mitarbeiter versendet.",
    "answers": [
@@ -148,7 +148,7 @@
     "wurde",
     "gestern",
     "gründlich",
-    "geputzt."
+    "geputzt"
    ],
    "answer": "Die gesamte Wohnung wurde gestern gründlich geputzt.",
    "answers": [
@@ -166,7 +166,7 @@
     "der",
     "Fahrt",
     "geprüft",
-    "sein."
+    "sein"
    ],
    "answer": "Der Motor muss vor der Fahrt geprüft sein.",
    "answers": [

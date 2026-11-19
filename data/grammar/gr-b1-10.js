@@ -137,7 +137,7 @@
     "neuen",
     "Kollegen",
     "gestern",
-    "getroffen."
+    "getroffen"
    ],
    "answer": "Ich habe den neuen Kollegen gestern getroffen.",
    "answers": [
@@ -154,7 +154,7 @@
     "dem",
     "verletzten",
     "Patienten",
-    "sofort."
+    "sofort"
    ],
    "answer": "Der Arzt hilft dem verletzten Patienten sofort.",
    "answers": [
@@ -170,7 +170,7 @@
     "Herrn",
     "Müller",
     "aus",
-    "Berlin?"
+    "Berlin"
    ],
    "answer": "Kennen Sie Herrn Müller aus Berlin?",
    "answers": [

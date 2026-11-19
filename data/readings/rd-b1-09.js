@@ -22,7 +22,7 @@
   {
    "de": "Kreislaufwirtschaft",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈkʁaɪ̯slaʊ̯fvɪʁtˌʃaft",
    "vi": "nền kinh tế tuần hoàn",
@@ -62,7 +62,7 @@
   {
    "de": "Solidarität",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "zolidaliˈtɛːt",
    "vi": "tinh thần đoàn kết, tương thân tương ái",

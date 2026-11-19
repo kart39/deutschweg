@@ -12,7 +12,7 @@
   {
    "de": "Datenschutz",
    "article": "der",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈdaːtn̩ˌʃʊts",
    "vi": "sự bảo mật, bảo vệ dữ liệu cá nhân",
@@ -42,7 +42,7 @@
   {
    "de": "Privatsphäre",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "pʁiˈvaːtsfɛːʁə",
    "vi": "không gian riêng tư",
@@ -62,7 +62,7 @@
   {
    "de": "Identitätsdiebstahl",
    "article": "der",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "idɛntiˈtɛːtsdiːpˌʃtaːl",
    "vi": "hành vi đánh cắp danh tính",

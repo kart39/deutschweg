@@ -132,7 +132,7 @@
     "kann",
     "ich",
     "nicht",
-    "zustimmen."
+    "zustimmen"
    ],
    "answer": "Einerseits verstehe ich dich, andererseits kann ich nicht zustimmen.",
    "answers": [
@@ -150,7 +150,7 @@
     "kamen",
     "alle",
     "Gäste",
-    "pünktlich."
+    "pünktlich"
    ],
    "answer": "Obwohl es heftig schneite, kamen alle Gäste pünktlich.",
    "answers": [
@@ -167,7 +167,7 @@
     "Schmerzen,",
     "trotzdem",
     "lachte",
-    "er."
+    "er"
    ],
    "answer": "Er hatte große Schmerzen, trotzdem lachte er.",
    "answers": [

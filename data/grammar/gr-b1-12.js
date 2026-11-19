@@ -138,7 +138,7 @@
     "mein",
     "Mann",
     "die",
-    "Zeitung."
+    "Zeitung"
    ],
    "answer": "Während ich koche, liest mein Mann die Zeitung.",
    "answers": [
@@ -155,7 +155,7 @@
     "müssen",
     "wir",
     "noch",
-    "tanken."
+    "tanken"
    ],
    "answer": "Bevor wir losfahren, müssen wir noch tanken.",
    "answers": [
@@ -173,7 +173,7 @@
     "rufe",
     "ich",
     "dich",
-    "an."
+    "an"
    ],
    "answer": "Sobald ich Zeit habe, rufe ich dich an.",
    "answers": [

@@ -129,7 +129,7 @@
     "mal",
     "zu",
     "mir",
-    "rüber!"
+    "rüber"
    ],
    "answer": "Komm doch mal zu mir rüber!",
    "answers": [
@@ -145,7 +145,7 @@
     "ja",
     "eine",
     "wundervolle",
-    "Nachricht!"
+    "Nachricht"
    ],
    "answer": "Das ist ja eine wundervolle Nachricht!",
    "answers": [
@@ -162,7 +162,7 @@
     "denn",
     "gestern",
     "Abend",
-    "gemacht?"
+    "gemacht"
    ],
    "answer": "Was hast du denn gestern Abend gemacht?",
    "answers": [

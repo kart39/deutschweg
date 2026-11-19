@@ -33,7 +33,7 @@
   {
    "de": "Kohle",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈkoːlə",
    "vi": "tiền, thóc lúa (khẩu ngữ)",
@@ -43,7 +43,7 @@
   {
    "de": "Geld",
    "article": "das",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ɡɛlt",
    "vi": "tiền bạc (trung tính)",
@@ -243,7 +243,7 @@
   {
    "de": "Quatsch",
    "article": "der",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "kvatʃ",
    "vi": "chuyện tào lao, bậy bạ (khẩu ngữ)",
@@ -253,7 +253,7 @@
   {
    "de": "Unsinn",
    "article": "der",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈʊnˌzɪn",
    "vi": "điều vô nghĩa, vô lý (trung tính)",
@@ -428,7 +428,7 @@
   {
    "de": "Meckern",
    "article": "das",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈmɛkɐn",
    "vi": "tiếng cằn nhằn, kêu ca vặt vãnh (khẩu ngữ)",
@@ -508,7 +508,7 @@
   {
    "de": "Gequatsche",
    "article": "das",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ɡəˈkvatʃə",
    "vi": "tiếng tán gẫu ba hoa, buôn dưa lê (khẩu ngữ)",
@@ -603,7 +603,7 @@
   {
    "de": "Kleidung",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈklaɪ̯dʊŋ",
    "vi": "trang phục, y phục (trung tính)",

@@ -101,8 +101,8 @@
     },
     {
      "de": "Abgeordnete",
-     "article": "die",
-     "plural": "Abgeordnete",
+     "article": "der",
+     "plural": "Abgeordneten",
      "pos": "noun",
      "ipa": "ˈapɡəʔɔʁdnətə",
      "vi": "nữ nghị sĩ, nữ đại biểu",
@@ -1336,8 +1336,7 @@
       "regnet",
       ",",
       "Obwohl",
-      "wir",
-      "."
+      "wir"
      ],
      "answer": "Obwohl es regnet, bleiben wir.",
      "answers": [
@@ -1350,7 +1349,6 @@
      "words": [
       "mit",
       "sie",
-      ".",
       "helfen",
       "Trotzdem"
      ],
@@ -1365,7 +1363,6 @@
      "words": [
       "bei der Vorbereitung",
       "mit",
-      ".",
       "Wir",
       "helfen"
      ],
@@ -1460,7 +1457,7 @@
     {
      "de": "Integration",
      "article": "die",
-     "plural": null,
+     "plural": "–",
      "pos": "noun",
      "ipa": "ɪnteɡʁaˈtsi̯oːn",
      "vi": "sự hòa nhập",
@@ -1470,7 +1467,7 @@
     {
      "de": "Teilhabe",
      "article": "die",
-     "plural": null,
+     "plural": "–",
      "pos": "noun",
      "ipa": "ˈtaɪ̯lˌhaːbə",
      "vi": "việc được tham gia sinh hoạt chung",
@@ -1480,7 +1477,7 @@
     {
      "de": "Zusammenleben",
      "article": "das",
-     "plural": null,
+     "plural": "–",
      "pos": "noun",
      "ipa": "tsuˈzamənˌleːbn̩",
      "vi": "việc chung sống",
@@ -1490,7 +1487,7 @@
     {
      "de": "Zusammenhalt",
      "article": "der",
-     "plural": null,
+     "plural": "–",
      "pos": "noun",
      "ipa": "tsuˈzamənˌhalt",
      "vi": "sự gắn kết",
@@ -1500,7 +1497,7 @@
     {
      "de": "Vielfalt",
      "article": "die",
-     "plural": null,
+     "plural": "–",
      "pos": "noun",
      "ipa": "ˈfiːlˌfalt",
      "vi": "sự đa dạng",
@@ -1520,7 +1517,7 @@
     {
      "de": "Verständigung",
      "article": "die",
-     "plural": null,
+     "plural": "–",
      "pos": "noun",
      "ipa": "fɛɐ̯ˈʃtɛndɪɡʊŋ",
      "vi": "việc hiểu nhau khi giao tiếp",
@@ -1612,11 +1609,7 @@
      "article": null,
      "plural": null,
      "pos": "verb",
-     "forms": {
-      "present3": "verständigt sich",
-      "past": "verständigte sich",
-      "perfect": "hat sich verständigt"
-     },
+     "forms": "verständigt sich, verständigte sich, hat sich verständigt",
      "ipa": "zɪç fɛɐ̯ˈʃtɛndɪɡn̩",
      "vi": "giao tiếp để hiểu nhau, thỏa thuận",
      "example": "Wir können uns auf Deutsch verständigen.",
@@ -1627,11 +1620,7 @@
      "article": null,
      "plural": null,
      "pos": "verb",
-     "forms": {
-      "present3": "ermöglicht",
-      "past": "ermöglichte",
-      "perfect": "hat ermöglicht"
-     },
+     "forms": "ermöglicht, ermöglichte, hat ermöglicht",
      "ipa": "ɛɐ̯ˈmøːklɪçn̩",
      "vi": "tạo điều kiện, làm cho có thể",
      "example": "Der Zugang am Hof ermöglicht einen Besuch ohne Treppen.",
@@ -1642,11 +1631,7 @@
      "article": null,
      "plural": null,
      "pos": "verb",
-     "forms": {
-      "present3": "vermittelt",
-      "past": "vermittelte",
-      "perfect": "hat vermittelt"
-     },
+     "forms": "vermittelt, vermittelte, hat vermittelt",
      "ipa": "fɛɐ̯ˈmɪtl̩n",
      "vi": "truyền đạt, làm cầu nối, kết nối",
      "example": "Das Café vermittelt Tandems.",
@@ -1657,11 +1642,7 @@
      "article": null,
      "plural": null,
      "pos": "verb",
-     "forms": {
-      "present3": "tauscht sich aus",
-      "past": "tauschte sich aus",
-      "perfect": "hat sich ausgetauscht"
-     },
+     "forms": "tauscht sich aus, tauschte sich aus, hat sich ausgetauscht",
      "ipa": "zɪç ˈaʊ̯sˌtaʊ̯ʃn̩",
      "vi": "trao đổi với nhau",
      "example": "Die Nachbarn tauschen sich über den Garten aus.",
@@ -1672,11 +1653,7 @@
      "article": null,
      "plural": null,
      "pos": "verb",
-     "forms": {
-      "present3": "bezieht ein",
-      "past": "bezog ein",
-      "perfect": "hat einbezogen"
-     },
+     "forms": "bezieht ein, bezog ein, hat einbezogen",
      "ipa": "ˈaɪ̯nbəˌtsiːən",
      "vi": "đưa vào, cho cùng tham gia",
      "example": "Wir beziehen Jugendliche in die Planung ein.",
@@ -1687,11 +1664,7 @@
      "article": null,
      "plural": null,
      "pos": "verb",
-     "forms": {
-      "present3": "gestaltet mit",
-      "past": "gestaltete mit",
-      "perfect": "hat mitgestaltet"
-     },
+     "forms": "gestaltet mit, gestaltete mit, hat mitgestaltet",
      "ipa": "ˈmɪtɡəˌʃtaltn̩",
      "vi": "cùng góp phần định hình",
      "example": "Jeder kann das Programm mitgestalten.",
@@ -2070,7 +2043,6 @@
      "vi": "Mở đầu bằng {{Daher}}. Vì thế chúng tôi mở cửa muộn hơn.",
      "words": [
       "später",
-      ".",
       "Daher",
       "wir",
       "öffnen"
@@ -2086,7 +2058,6 @@
      "words": [
       "Tandems",
       "Zudem",
-      ".",
       "das Café",
       "vermittelt"
      ],
@@ -2102,8 +2073,7 @@
       "es",
       "Im Hof dagegen",
       "ruhig",
-      "ist",
-      "."
+      "ist"
      ],
      "answer": "Im Hof dagegen ist es ruhig.",
      "answers": [

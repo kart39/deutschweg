@@ -138,7 +138,7 @@
     "in",
     "Deutschland",
     "zu",
-    "studieren."
+    "studieren"
    ],
    "answer": "Ich lerne Deutsch, um in Deutschland zu studieren.",
    "answers": [
@@ -156,7 +156,7 @@
     "ich",
     "schneller",
     "fertig",
-    "werde."
+    "werde"
    ],
    "answer": "Er hilft mir, damit ich schneller fertig werde.",
    "answers": [
@@ -174,7 +174,7 @@
     "muss",
     "man",
     "Sport",
-    "treiben."
+    "treiben"
    ],
    "answer": "Um gesund zu bleiben, muss man Sport treiben.",
    "answers": [

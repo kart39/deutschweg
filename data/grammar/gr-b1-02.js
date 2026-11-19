@@ -137,7 +137,7 @@
     "hatte,",
     "ging",
     "er",
-    "schlafen."
+    "schlafen"
    ],
    "answer": "Nachdem er gegessen hatte, ging er schlafen.",
    "answers": [
@@ -155,7 +155,7 @@
     "abgefahren,",
     "als",
     "er",
-    "ankam."
+    "ankam"
    ],
    "answer": "Der Zug war bereits abgefahren, als er ankam.",
    "answers": [
@@ -172,7 +172,7 @@
     "waren,",
     "tranken",
     "wir",
-    "Kaffee."
+    "Kaffee"
    ],
    "answer": "Nachdem wir angekommen waren, tranken wir Kaffee.",
    "answers": [

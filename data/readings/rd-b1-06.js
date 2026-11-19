@@ -12,7 +12,7 @@
   {
    "de": "Wohnungsnot",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈvoːnʊŋsˌnoːt",
    "vi": "nạn khan hiếm nhà ở",

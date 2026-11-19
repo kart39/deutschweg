@@ -132,7 +132,7 @@
     "er",
     "neue",
     "Methoden",
-    "anwendete."
+    "anwendete"
    ],
    "answer": "Er löste das Problem, indem er neue Methoden anwendete.",
    "answers": [
@@ -152,7 +152,7 @@
     "ein",
     "Wort",
     "zu",
-    "sagen."
+    "sagen"
    ],
    "answer": "Sie ging hinaus, ohne auch nur ein Wort zu sagen.",
    "answers": [
@@ -171,7 +171,7 @@
     "den",
     "Tag",
     "am",
-    "See."
+    "See"
    ],
    "answer": "Anstatt zu lernen, verbrachte er den Tag am See.",
    "answers": [

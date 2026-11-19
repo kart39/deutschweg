@@ -33,8 +33,10 @@ const theory = s => typeof s === 'string' ? s
   // chỉ chuẩn hoá đoạn `…` trông như IPA (có ký hiệu IPA, không có chữ số/gạch nối như `gr-b2-01`)
   .replace(/`([^`]*)`/g, (_, t) => '`' + (/[ːˈˌʁəɐɛɔʊɪʏøœçŋʃʒ]/.test(t) && !/[\d-]/.test(t) ? ipa(t) : t) + '`') : s;
 // Chỉ chuẩn hoá các trường "ipa" (an toàn cho mọi loại nội dung, không đụng tới chữ)
+// (kèm: "forms" dạng đối tượng {present3, past, perfect} → chuỗi "…, …, …" như ứng dụng cần)
+const formsStr = v => v && typeof v === 'object' && !Array.isArray(v) ? [v.present3 || v.praesens, v.past || v.praeteritum, v.perfect || v.perfekt].filter(Boolean).join(', ') : v;
 const ipaFields = x => Array.isArray(x) ? x.map(ipaFields)
-  : x && typeof x === 'object' ? Object.fromEntries(Object.entries(x).map(([k, v]) => [k, k === 'ipa' ? ipa(v) : ipaFields(v)])) : x;
+  : x && typeof x === 'object' ? Object.fromEntries(Object.entries(x).map(([k, v]) => [k, k === 'ipa' ? ipa(v) : k === 'forms' ? formsStr(v) : ipaFields(v)])) : x;
 
 function vocab(v) {
   if (!v) return v;

@@ -209,7 +209,7 @@
   {
    "de": "Datenschutz",
    "article": "der",
-   "plural": "Datenschutz",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈdaːtn̩ˌʃʊts",
    "vi": "bảo vệ dữ liệu",
@@ -617,7 +617,7 @@
   {
    "de": "Künstliche Intelligenz",
    "article": "die",
-   "plural": "Künstliche Intelligenzen",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈkʏnstlɪçə ɪntɛliˈɡɛnts",
    "vi": "trí tuệ nhân tạo (AI)",

@@ -131,7 +131,7 @@
     "weitere",
     "Experimente",
     "notwendig",
-    "seien."
+    "seien"
    ],
    "answer": "Der Forscher betonte, dass weitere Experimente notwendig seien.",
    "answers": [
@@ -149,7 +149,7 @@
     "die",
     "Zahl",
     "der",
-    "Studenten."
+    "Studenten"
    ],
    "answer": "Neuesten Statistiken zufolge steigt die Zahl der Studenten.",
    "answers": [
@@ -167,7 +167,7 @@
     "Gerüchte",
     "über",
     "eine",
-    "Steuererhöhung."
+    "Steuererhöhung"
    ],
    "answer": "Die Regierung dementierte die Gerüchte über eine Steuererhöhung.",
    "answers": [

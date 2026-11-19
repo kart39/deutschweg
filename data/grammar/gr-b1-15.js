@@ -138,7 +138,7 @@
     "dem",
     "Zug",
     "nach",
-    "Berlin."
+    "Berlin"
    ],
    "answer": "Ich fahre morgen mit dem Zug nach Berlin.",
    "answers": [
@@ -154,7 +154,7 @@
     "es",
     "ihm",
     "heute",
-    "Abend."
+    "Abend"
    ],
    "answer": "Er gibt es ihm heute Abend.",
    "answers": [
@@ -171,7 +171,7 @@
     "den",
     "Schülern",
     "die",
-    "Regel."
+    "Regel"
    ],
    "answer": "Der Lehrer erklärt den Schülern die Regel.",
    "answers": [

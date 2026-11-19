@@ -131,7 +131,7 @@
     "die",
     "Kosten",
     "strikter",
-    "kontrollieren."
+    "kontrollieren"
    ],
    "answer": "Darüber hinaus müssen wir die Kosten strikter kontrollieren.",
    "answers": [
@@ -150,7 +150,7 @@
     "das",
     "Experiment",
     "gelungen",
-    "ist."
+    "ist"
    ],
    "answer": "Zusammenfassend lässt sich sagen, dass das Experiment gelungen ist.",
    "answers": [
@@ -167,7 +167,7 @@
     "der",
     "Plan",
     "sei",
-    "unrealistisch."
+    "unrealistisch"
    ],
    "answer": "Demgegenüber behaupten Kritiker, der Plan sei unrealistisch.",
    "answers": [

@@ -135,7 +135,7 @@
     "hängt",
     "vom",
     "Wetter",
-    "ab."
+    "ab"
    ],
    "answer": "Das hängt vom Wetter ab.",
    "answers": [
@@ -152,7 +152,7 @@
     "um",
     "die",
     "neue",
-    "Stelle."
+    "Stelle"
    ],
    "answer": "Er bewirbt sich um die neue Stelle.",
    "answers": [
@@ -168,7 +168,7 @@
     "auf",
     "eine",
     "schnelle",
-    "Lösung."
+    "Lösung"
    ],
    "answer": "Wir hoffen auf eine schnelle Lösung.",
    "answers": [

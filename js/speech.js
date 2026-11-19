@@ -127,6 +127,8 @@ const Speech = (() => {
 
   /** Đọc một câu tiếng Đức. opts: { slow, alt (giọng thứ 2), rate } */
   async function speak(text, opts = {}) {
+    // bỏ ký hiệu Markdown (**đậm**, *nghiêng*, `mã`) để máy không đọc to dấu * hay `
+    text = String(text || '').replace(/[*_`]+/g, '').replace(/\s+/g, ' ').trim();
     if (!text) return;
     stop();
     const rate = opts.rate || (opts.slow ? S().slowRate : S().rate);

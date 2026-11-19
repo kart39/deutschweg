@@ -130,7 +130,7 @@
     "ist",
     "von",
     "herausragender",
-    "Tragweite."
+    "Tragweite"
    ],
    "answer": "Diese historische Entscheidung ist von herausragender Tragweite.",
    "answers": [
@@ -148,7 +148,7 @@
     "völlig",
     "neue",
     "physikalische",
-    "Theorie."
+    "Theorie"
    ],
    "answer": "Der Wissenschaftler postulierte eine völlig neue physikalische Theorie.",
    "answers": [
@@ -166,7 +166,7 @@
     "der",
     "Studie",
     "sorgfältig",
-    "evaluieren."
+    "evaluieren"
    ],
    "answer": "Wir müssen die Ergebnisse der Studie sorgfältig evaluieren.",
    "answers": [

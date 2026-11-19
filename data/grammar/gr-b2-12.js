@@ -131,7 +131,7 @@
     "wir",
     "die",
     "Kosten",
-    "senken."
+    "senken"
    ],
    "answer": "Angesichts der Krise müssen wir die Kosten senken.",
    "answers": [
@@ -148,7 +148,7 @@
     "unweit",
     "des",
     "malerischen",
-    "Sees."
+    "Sees"
    ],
    "answer": "Das Hotel liegt unweit des malerischen Sees.",
    "answers": [
@@ -166,7 +166,7 @@
     "wir",
     "eine",
     "positive",
-    "Antwort."
+    "Antwort"
    ],
    "answer": "Bezüglich Ihrer Anfrage haben wir eine positive Antwort.",
    "answers": [

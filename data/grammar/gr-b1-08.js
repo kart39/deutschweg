@@ -137,7 +137,7 @@
     "bleiben",
     "wir",
     "zu",
-    "Hause."
+    "Hause"
    ],
    "answer": "Wegen des Regens bleiben wir zu Hause.",
    "answers": [
@@ -155,7 +155,7 @@
     "er",
     "ohne",
     "Jacke",
-    "raus."
+    "raus"
    ],
    "answer": "Trotz der Kälte ging er ohne Jacke raus.",
    "answers": [
@@ -172,7 +172,7 @@
     "Auto",
     "meines",
     "besten",
-    "Freundes."
+    "Freundes"
    ],
    "answer": "Das ist das Auto meines besten Freundes.",
    "answers": [

@@ -132,7 +132,7 @@
     "mag,",
     "wir",
     "schaffen",
-    "das."
+    "das"
    ],
    "answer": "Wie schwer es auch sein mag, wir schaffen das.",
    "answers": [
@@ -151,7 +151,7 @@
     "dieser",
     "Aussage",
     "deutlich",
-    "widersprechen."
+    "widersprechen"
    ],
    "answer": "Bei allem Respekt muss ich dieser Aussage deutlich widersprechen.",
    "answers": [
@@ -170,7 +170,7 @@
     "selbst",
     "große",
     "Probleme",
-    "hatte."
+    "hatte"
    ],
    "answer": "Er half ihr, wenngleich er selbst große Probleme hatte.",
    "answers": [

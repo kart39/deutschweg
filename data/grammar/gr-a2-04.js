@@ -168,7 +168,7 @@
     "mir",
     "dein",
     "Fahrrad",
-    "leihen?"
+    "leihen"
    ],
    "answer": "Kannst du mir dein Fahrrad leihen?",
    "answers": [

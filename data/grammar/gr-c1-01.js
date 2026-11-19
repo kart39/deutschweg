@@ -129,7 +129,7 @@
     "verändert",
     "unsere",
     "gesamte",
-    "Arbeitswelt."
+    "Arbeitswelt"
    ],
    "answer": "Die Digitalisierung verändert unsere gesamte Arbeitswelt.",
    "answers": [
@@ -147,7 +147,7 @@
     "dem",
     "Erdbeben",
     "zu",
-    "Staub."
+    "Staub"
    ],
    "answer": "Das Gebäude zerfiel nach dem Erdbeben zu Staub.",
    "answers": [
@@ -165,7 +165,7 @@
     "Respekt",
     "seiner",
     "Kollegen",
-    "erarbeitet."
+    "erarbeitet"
    ],
    "answer": "Er hat sich den Respekt seiner Kollegen erarbeitet.",
    "answers": [

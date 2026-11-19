@@ -132,7 +132,7 @@
     "ihn",
     "niemand",
     "verstehen",
-    "konnte."
+    "konnte"
    ],
    "answer": "Er sprach so leise, dass ihn niemand verstehen konnte.",
    "answers": [
@@ -153,7 +153,7 @@
     "wir",
     "sie",
     "lösen",
-    "könnten."
+    "könnten"
    ],
    "answer": "Die Aufgabe ist zu schwer, als dass wir sie lösen könnten.",
    "answers": [
@@ -173,7 +173,7 @@
     "dass",
     "die",
     "Fabrik",
-    "schloss."
+    "schloss"
    ],
    "answer": "Es entstand ein derart großer Schaden, dass die Fabrik schloss.",
    "answers": [

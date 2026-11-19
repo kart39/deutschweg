@@ -130,7 +130,7 @@
     "eine",
     "wichtige",
     "Entscheidung",
-    "getroffen."
+    "getroffen"
    ],
    "answer": "Der Ausschuss hat eine wichtige Entscheidung getroffen.",
    "answers": [
@@ -148,7 +148,7 @@
     "Tatsachen",
     "in",
     "Betracht",
-    "ziehen."
+    "ziehen"
    ],
    "answer": "Wir müssen diese neuen Tatsachen in Betracht ziehen.",
    "answers": [
@@ -167,7 +167,7 @@
     "kostenlose",
     "Getränke",
     "zur",
-    "Verfügung."
+    "Verfügung"
    ],
    "answer": "Die Firma stellt ihren Mitarbeitern kostenlose Getränke zur Verfügung.",
    "answers": [

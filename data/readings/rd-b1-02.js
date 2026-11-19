@@ -12,7 +12,7 @@
   {
    "de": "Überfluss",
    "article": "der",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈyːbɐˌflʊs",
    "vi": "sự thừa mứa, sung túc quá mức",
@@ -22,7 +22,7 @@
   {
    "de": "Ballast",
    "article": "der",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈbalast",
    "vi": "gánh nặng, vật cản trở",

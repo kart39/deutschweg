@@ -131,7 +131,7 @@
     "Sicherheitsregeln",
     "strikt",
     "zu",
-    "beachten."
+    "beachten"
    ],
    "answer": "Es ist notwendig, die Sicherheitsregeln strikt zu beachten.",
    "answers": [
@@ -150,7 +150,7 @@
     "wir",
     "die",
     "Ziele",
-    "erreichen."
+    "erreichen"
    ],
    "answer": "Ich zweifle nicht daran, dass wir die Ziele erreichen.",
    "answers": [
@@ -168,7 +168,7 @@
     "bist,",
     "freut",
     "mich",
-    "sehr."
+    "sehr"
    ],
    "answer": "Dass du pünktlich gekommen bist, freut mich sehr.",
    "answers": [

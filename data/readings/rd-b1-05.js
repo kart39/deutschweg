@@ -12,7 +12,7 @@
   {
    "de": "Energiewende",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "enɛʁˈɡiːˌvɛndə",
    "vi": "sự chuyển dịch năng lượng",
@@ -32,7 +32,7 @@
   {
    "de": "Windkraft",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈvɪntˌkʁaft",
    "vi": "năng lượng gió",
@@ -42,7 +42,7 @@
   {
    "de": "Photovoltaik",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "fotovɔltaˈiːk",
    "vi": "quang điện mặt trời",
@@ -52,7 +52,7 @@
   {
    "de": "Netzstabilität",
    "article": "die",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈnɛtsʃtabiliˌtɛːt",
    "vi": "độ ổn định của lưới điện",
@@ -62,7 +62,7 @@
   {
    "de": "Wasserstoff",
    "article": "der",
-   "plural": "-",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈvasɐˌʃtɔf",
    "vi": "khí hydro",

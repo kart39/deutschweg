@@ -49,7 +49,7 @@
   {
    "de": "Klimaschutz",
    "article": "der",
-   "plural": "Klimaschutze",
+   "plural": "–",
    "pos": "noun",
    "ipa": "ˈkliːmaˌʃʊts",
    "vi": "việc bảo vệ khí hậu",

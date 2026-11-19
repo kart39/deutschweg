@@ -135,7 +135,7 @@
     "hoffe,",
     "dich",
     "bald",
-    "wiederzusehen."
+    "wiederzusehen"
    ],
    "answer": "Ich hoffe, dich bald wiederzusehen.",
    "answers": [
@@ -151,7 +151,7 @@
     "verboten,",
     "hier",
     "zu",
-    "parken."
+    "parken"
    ],
    "answer": "Es ist verboten, hier zu parken.",
    "answers": [
@@ -168,7 +168,7 @@
     "nach",
     "Berlin",
     "zu",
-    "ziehen."
+    "ziehen"
    ],
    "answer": "Er hat vor, nach Berlin zu ziehen.",
    "answers": [
