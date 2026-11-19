@@ -2562,58 +2562,58 @@
     ],
     "questions": [
      {
-      "question": "Was belegt das Easterlin-Paradox laut Text bezüglich des Einkommens?",
+      "q": "Was belegt das Easterlin-Paradox laut Text bezüglich des Einkommens?",
       "options": [
-       "Höheres Einkommen führt in jedem Fall linear zu unendlichem Glück",
-       "Nur wer völlig mittellos lebt, kann innere Zufriedenheit empfinden",
        "Geld spielt überhaupt keine Rolle für die menschliche Existenz",
-       "Ab einem gewissen Niveau steigert mehr Vermögen die Lebenszufriedenheit kaum noch"
+       "Ab einem gewissen Niveau steigert mehr Vermögen die Lebenszufriedenheit kaum noch",
+       "Nur wer völlig mittellos lebt, kann innere Zufriedenheit empfinden",
+       "Höheres Einkommen führt in jedem Fall linear zu unendlichem Glück"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "Đoạn 2 nêu rõ Nghịch lý Easterlin: 'dass ab einem gewissen gesicherten Einkommensniveau... der Zuwachs an weiterem Vermögen die persönliche Lebenszufriedenheit kaum noch steigert'."
      },
      {
-      "question": "Woraus nährt sich wahres Glück laut den Erkenntnissen der modernen Glücksforschung?",
+      "q": "Woraus nährt sich wahres Glück laut den Erkenntnissen der modernen Glücksforschung?",
       "options": [
-       "Aus intakten Beziehungen, sozialer Anerkennung und einem selbstbestimmten Dasein",
+       "Ausschließlich aus dem unbegrenzten Erwerb neuester Luxusartikel",
        "Aus der vollständigen Isolation von anderen Menschen",
-       "Aus ständigen Überstunden und dem Aufstieg im Großkonzern",
-       "Ausschließlich aus dem unbegrenzten Erwerb neuester Luxusartikel"
+       "Aus intakten Beziehungen, sozialer Anerkennung und einem selbstbestimmten Dasein",
+       "Aus ständigen Überstunden und dem Aufstieg im Großkonzern"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Đoạn 2 khẳng định: 'Wahres Glück nährt sich... primär aus intakten zwischenmenschlichen Beziehungen, gelebter sozialer Anerkennung und dem Gefühl, das eigene Dasein selbstbestimmt und sinnerfüllt zu gestalten'."
      },
      {
-      "question": "Welche positive Wirkung haben Entschleunigung und Achtsamkeit auf Erwerbstätige?",
+      "q": "Welche positive Wirkung haben Entschleunigung und Achtsamkeit auf Erwerbstätige?",
       "options": [
-       "Sie zwingen Menschen dazu, auf jegliche Technologie zu verzichten",
-       "Sie führen unweigerlich zu sofortiger Arbeitslosigkeit und Verarmung",
        "Sie verringern die geistige Leistungsfähigkeit dauerhaft",
-       "Sie helfen Belastungsgrenzen zu erkennen und innere Ausgeglichenheit zu bewahren"
+       "Sie helfen Belastungsgrenzen zu erkennen und innere Ausgeglichenheit zu bewahren",
+       "Sie führen unweigerlich zu sofortiger Arbeitslosigkeit und Verarmung",
+       "Sie zwingen Menschen dazu, auf jegliche Technologie zu verzichten"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "Đoạn 3 chỉ ra: 'helfen gestressten Erwerbstätigen dabei, persönliche Belastungsgrenzen rechtzeitig wahrzunehmen und ihre innere Ausgeglichenheit wiederzuerlangen'."
      },
      {
-      "question": "Warum darf die Verantwortung für Lebensqualität nicht nur beim Einzelnen liegen?",
+      "q": "Warum darf die Verantwortung für Lebensqualität nicht nur beim Einzelnen liegen?",
       "options": [
-       "Weil Individuen grundsätzlich unfähig sind, eigene Entscheidungen zu treffen",
+       "Weil Politik und Wirtschaft lebenswerte Rahmenbedingungen wie flexible Arbeitszeiten schaffen müssen",
        "Weil der Staat sämtliche privaten Lebensbereiche vollständig steuern sollte",
-       "Weil Arbeitsverträge in Zukunft gesetzlich verboten werden sollen",
-       "Weil Politik und Wirtschaft lebenswerte Rahmenbedingungen wie flexible Arbeitszeiten schaffen müssen"
+       "Weil Individuen grundsätzlich unfähig sind, eigene Entscheidungen zu treffen",
+       "Weil Arbeitsverträge in Zukunft gesetzlich verboten werden sollen"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Đoạn cuối nhấn mạnh: 'Es steht außer Zweifel, dass auch Politik und Wirtschaft gefordert sind, lebenswerte Rahmenbedingungen zu schaffen. Dazu gehören flexible Arbeitszeitmodelle...'."
      },
      {
-      "question": "Wann verwandelt sich laut Schlusssatz die Sehnsucht nach Lebensqualität in Wirklichkeit?",
+      "q": "Wann verwandelt sich laut Schlusssatz die Sehnsucht nach Lebensqualität in Wirklichkeit?",
       "options": [
        "Wenn sämtliche Betriebe verstaatlicht werden",
        "Wenn alle Bürger ausnahmslos auf den Konsum verzichten",
-       "Wenn Menschen aufhören, sich für Philosophie zu interessieren",
-       "Wenn gesellschaftliche Strukturen und individuelle Wertvorstellungen ineinandergreifen"
+       "Wenn gesellschaftliche Strukturen und individuelle Wertvorstellungen ineinandergreifen",
+       "Wenn Menschen aufhören, sich für Philosophie zu interessieren"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Câu kết đoạn 4: 'Erst wenn gesellschaftliche Strukturen und individuelle Wertvorstellungen harmonisch ineinandergreifen, verwandelt sich die theoretische Sehnsucht nach Lebensqualität in eine gelebte, alltägliche Wirklichkeit'."
      }
     ]

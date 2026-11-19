@@ -590,7 +590,7 @@ const App = (() => {
       <div id="rdText" style="font-size:1.08rem;line-height:1.9">${paras.map(p => `<p>${splitSentences(p).map(s => `<span class="say" style="font-weight:500;border-bottom-style:none" data-say="${esc(s.trim())}">${esc(s)}</span>`).join(' ')}</p>`).join('')}</div>
       <div id="rdViBox" hidden class="notice" style="margin-top:10px">${md(r.vi || '')}</div>
       ${r.glossary && r.glossary.length ? `<div class="label-up" style="margin-top:14px">Từ khó</div><div class="vocab-list">${r.glossary.map(vocabItem).join('')}</div>` : ''}</div>
-      ${(r.questions || []).length ? `<div class="card"><h3>Câu hỏi</h3>${r.questions.map((q, i) => `<div style="margin-bottom:16px" data-q="${i}"><div style="font-weight:600;margin-bottom:6px">${i + 1}. ${inl(q.q)}</div><div class="options">${q.options.map((o, k) => `<button class="opt" data-k="${k}">${inl(o)}</button>`).join('')}</div></div>`).join('')}</div>` : ''}`;
+      ${(r.questions || []).length ? `<div class="card"><h3>Câu hỏi</h3>${r.questions.map((q, i) => `<div style="margin-bottom:16px" data-q="${i}"><div style="font-weight:600;margin-bottom:6px">${i + 1}. ${inl(q.q || q.question || "")}</div><div class="options">${q.options.map((o, k) => `<button class="opt" data-k="${k}">${inl(o)}</button>`).join('')}</div></div>`).join('')}</div>` : ''}`;
     $('#rdVi').onclick = () => { const b = $('#rdViBox'); b.hidden = !b.hidden; };
     $('#rdAll').onclick = async () => { const my = ++dialogToken; for (const s of $$('#rdText [data-say]')) { if (my !== dialogToken) return; s.style.background = 'var(--primary-soft)'; await Speech.speak(s.dataset.say).catch(() => {}); s.style.background = ''; } };
     $$('[data-q]', body).forEach(box => {
@@ -646,7 +646,7 @@ const App = (() => {
     const head = `${x._ctx ? `<div class="notice md" style="margin-bottom:14px;max-height:320px;overflow:auto">${md(x._ctx)}</div>` : ''}${x._audio ? `<div class="row notice" style="margin-bottom:14px">${sayBtns(x._audio)}<span class="small">Nghe bài nghe (có thể nghe lại)</span></div>` : ''}<div class="ex-type">${TYPE_LABEL[x.type] || x.type}</div>`;
     if (x.type === 'mcq') {
       const order = x._order || (x._order = shuffle(x.options.map((_, i) => i)));
-      host.innerHTML = head + `<div class="ex-q">${inl(x.q)}</div><div class="options">${order.map((k, i) => `<button class="opt" data-k="${k}"><span class="kbd">${i + 1}</span> ${inl(x.options[k])}</button>`).join('')}</div>`;
+      host.innerHTML = head + `<div class="ex-q">${inl(x.q || x.question || "")}</div><div class="options">${order.map((k, i) => `<button class="opt" data-k="${k}"><span class="kbd">${i + 1}</span> ${inl(x.options[k])}</button>`).join('')}</div>`;
       let sel = null;
       const choose = b => { $$('.opt', host).forEach(o => o.classList.remove('sel')); b.classList.add('sel'); sel = +b.dataset.k; api.setReady(true); };
       $$('.opt', host).forEach(b => b.onclick = () => { if (!host.dataset.locked) choose(b); });

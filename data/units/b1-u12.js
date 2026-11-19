@@ -2569,58 +2569,58 @@
     ],
     "questions": [
      {
-      "question": "Was benötigt man laut Text neben einem breiten Wortschatz vor allem für den B1-Erfolg?",
+      "q": "Was benötigt man laut Text neben einem breiten Wortschatz vor allem für den B1-Erfolg?",
       "options": [
+       "Ausschließliches Lernen von Grammatikregeln ohne Sprechpraxis",
        "Ein mehrjähriges Studium der Germanistik an einer Universität",
-       "Das Auswendiglernen von fertigen Musteraufsätzen aus dem Internet",
        "Eine methodisch durchdachte Herangehensweise an alle vier Module",
-       "Ausschließliches Lernen von Grammatikregeln ohne Sprechpraxis"
+       "Das Auswendiglernen von fertigen Musteraufsätzen aus dem Internet"
       ],
       "answer": 2,
       "explanation": "Đoạn 1 nêu rõ: 'benötigt neben einem breiten Wortschatzumfang vor allem eine methodisch durchdachte Herangehensweise an alle vier Prüfungsmodule'."
      },
      {
-      "question": "Was sollten Prüflinge beim Leseverstehen zuerst tun?",
+      "q": "Was sollten Prüflinge beim Leseverstehen zuerst tun?",
       "options": [
-       "Den gesamten Text Wort für Wort laut vorlesen",
        "Jedes einzelne unbekannte Wort sofort im Wörterbuch nachschlagen",
-       "Den Text zügig überfliegen, um die Hauptaussage zu erfassen",
-       "Direkt die letzte Frage ankreuzen und raten"
+       "Den gesamten Text Wort für Wort laut vorlesen",
+       "Direkt die letzte Frage ankreuzen und raten",
+       "Den Text zügig überfliegen, um die Hauptaussage zu erfassen"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Đoạn 2 hướng dẫn: 'sollten Prüflinge den Text zunächst zügig überfliegen, um die globale Hauptaussage zu erfassen'."
      },
      {
-      "question": "Warum steht die richtige Antwort beim Lesen selten wortgleich im Text?",
+      "q": "Warum steht die richtige Antwort beim Lesen selten wortgleich im Text?",
       "options": [
-       "Weil der Prüfungstext grundsätzlich fehlerhaft gedruckt wird",
-       "Weil die Prüfer geschickte Paraphrasen verwenden",
        "Weil das B1-Zertifikat keine Textfragen vorsieht",
-       "Weil die Aufgaben absichtlich falsche Vokabeln enthalten"
+       "Weil die Aufgaben absichtlich falsche Vokabeln enthalten",
+       "Weil der Prüfungstext grundsätzlich fehlerhaft gedruckt wird",
+       "Weil die Prüfer geschickte Paraphrasen verwenden"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "Đoạn 2 giải thích: 'Häufig verwenden die Prüfer geschickte Paraphrasen, sodass die richtige Antwort selten wortgleich im Text steht'."
      },
      {
-      "question": "Welche formale Anforderung ist beim Modul Schreiben zwingend zu erfüllen?",
+      "q": "Welche formale Anforderung ist beim Modul Schreiben zwingend zu erfüllen?",
       "options": [
-       "Es müssen mindestens zehn Zitate von Philosophen vorkommen",
-       "Sämtliche vorgegebenen Leitpunkte müssen behandelt werden",
        "Der Text muss genau fünfhundert Wörter umfassen",
-       "Man darf ausschließlich einfache Hauptsätze verwenden"
+       "Man darf ausschließlich einfache Hauptsätze verwenden",
+       "Sämtliche vorgegebenen Leitpunkte müssen behandelt werden",
+       "Es müssen mindestens zehn Zitate von Philosophen vorkommen"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Đoạn 3 khẳng định: 'müssen sämtliche vorgegebenen Leitpunkte zwingend behandelt werden'."
      },
      {
-      "question": "Worauf achten die Prüfenden beim gemeinsamen Planungsgespräch in Teil 1 besonders?",
+      "q": "Worauf achten die Prüfenden beim gemeinsamen Planungsgespräch in Teil 1 besonders?",
       "options": [
-       "Auf das Auswendiglernen eines langen Vortrags ohne Partner",
        "Auf aktives Zuhören, spontanes Eingehen und gemeinsame Kompromisse",
-       "Ausschließlich auf eine extrem schnelle Sprechgeschwindigkeit",
-       "Darauf, dass ein Teilnehmer das gesamte Gespräch dominiert"
+       "Auf das Auswendiglernen eines langen Vortrags ohne Partner",
+       "Darauf, dass ein Teilnehmer das gesamte Gespräch dominiert",
+       "Ausschließlich auf eine extrem schnelle Sprechgeschwindigkeit"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Đoạn 4 nêu: 'honorieren die Prüfenden aktives Zuhören, spontanes Eingehen auf gegenteilige Vorschläge und die Fähigkeit, gemeinsam tragfähige Kompromisse zu erzielen'."
      }
     ]

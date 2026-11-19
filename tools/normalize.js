@@ -100,9 +100,20 @@ function seeded(str) {
   return () => { h = Math.imul(h ^ (h >>> 15), 2246822507); h = Math.imul(h ^ (h >>> 13), 3266489909); return ((h ^= h >>> 16) >>> 0) / 4294967296; };
 }
 function shuffleOne(q) {
-  if (!Array.isArray(q.options) || typeof q.answer !== 'number' || q.options.length < 2) return q;
+  // một số AI ghi "question" thay cho "q" → ứng dụng chỉ đọc "q"
+  if (Array.isArray(q.options) && q.question !== undefined && q.q === undefined) { const { question, ...rest } = q; q = { q: question, ...rest }; }
+  // câu 2 lựa chọn (Richtig/Falsch, Ja/Nein) giữ nguyên thứ tự quen thuộc
+  if (!Array.isArray(q.options) || typeof q.answer !== 'number' || q.options.length < 3) return q;
   const correct = q.options[q.answer];
-  const rnd = seeded((q.q || '') + '|' + [...q.options].sort().join('|'));
+  // phương án là nhãn (Anzeige a, Text b, c) …) → xếp theo thứ tự chữ cái, "keine …" ở cuối, không trộn
+  const LABEL = /^((Anzeige|Text|Person|Situation|Aussage|Bild)\s+[a-h0-9]$|[a-h][).:]?$)/i;
+  const isNone = o => /^keine (passende|Anzeige|Lösung)/i.test(String(o).trim());
+  if (q.options.some(o => LABEL.test(String(o).trim())) && q.options.every(o => LABEL.test(String(o).trim()) || isNone(o))) {
+    const lc = o => String(o).trim().toLowerCase();
+    const opts = [...q.options].sort((a, b) => (isNone(a) - isNone(b)) || (lc(a) < lc(b) ? -1 : lc(a) > lc(b) ? 1 : 0));
+    return { ...q, options: opts, answer: opts.indexOf(correct) };
+  }
+  const rnd = seeded((q.q || q.question || '') + '|' + [...q.options].sort().join('|'));
   const opts = [...q.options].sort();            // thứ tự gốc không ảnh hưởng kết quả → ổn định
   for (let i = opts.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [opts[i], opts[j]] = [opts[j], opts[i]]; }
   return { ...q, options: opts, answer: opts.indexOf(correct) };

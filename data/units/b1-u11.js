@@ -2605,56 +2605,56 @@
     ],
     "questions": [
      {
-      "question": "Worauf beschränkt sich die politische Teilhabe in einer lebendigen Demokratie laut Text nicht?",
+      "q": "Worauf beschränkt sich die politische Teilhabe in einer lebendigen Demokratie laut Text nicht?",
       "options": [
-       "Auf den Schutz von städtischen Grünflächen",
        "Auf das Mitwirken in lokalen Bürgerinitiativen",
        "Auf das bloße Wählen alle vier oder fünf Jahre",
-       "Auf das Engagement in gemeinnützigen Vereinen"
+       "Auf das Engagement in gemeinnützigen Vereinen",
+       "Auf den Schutz von städtischen Grünflächen"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "Câu đầu tiên nêu rõ sự tham gia chính trị không chỉ giới hạn ở việc định kỳ đi bầu cử: 'beschränkt sich die politische Teilhabe der Bevölkerung keineswegs auf den regelmäßigen Gang zur Wahlurne alle vier oder fünf Jahre'."
      },
      {
-      "question": "Was tun engagierte Bürger, wenn sie mit einer Verwaltungsentscheidung unzufrieden sind?",
+      "q": "Was tun engagierte Bürger, wenn sie mit einer Verwaltungsentscheidung unzufrieden sind?",
       "options": [
+       "Sie verweigern ausnahmslos die Zahlung von Kommunalsteuern",
        "Sie gründen umgehend eine bundesweite politische Partei",
        "Sie ziehen sofort vor das Bundesverfassungsgericht",
-       "Sie verweigern ausnahmslos die Zahlung von Kommunalsteuern",
        "Sie organisieren Proteste, schreiben Petitionen und sammeln Unterschriften"
       ],
       "answer": 3,
       "explanation": "Theo đoạn 2: 'Sie organisieren friedliche Demonstrationen, verfassen Petitionen und sammeln im Wohnviertel Unterschriften'."
      },
      {
-      "question": "Wozu zwingen Bürgerinitiativen die lokalen Politiker?",
+      "q": "Wozu zwingen Bürgerinitiativen die lokalen Politiker?",
       "options": [
+       "Zur Suche nach tragfähigen Kompromissen und zur Beachtung von Bürgeranliegen",
        "Zur Einführung von verpflichtenden Mitgliedsbeiträgen",
        "Zum sofortigen Rücktritt aus ihren politischen Ämtern",
-       "Zur Suche nach tragfähigen Kompromissen und zur Beachtung von Bürgeranliegen",
        "Zu einem vollständigen Verzicht auf Haushaltspläne"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "Đoạn 2 nêu: 'Durch diese zielgerichteten Aktionen zwingen sie die verantwortlichen Politiker, tragfähige Kompromisse zu suchen und die berechtigten Anliegen der Nachbarschaft ernst zu nehmen'."
      },
      {
-      "question": "Welche wichtige gesellschaftliche Funktion erfüllt das deutsche Vereinsleben?",
+      "q": "Welche wichtige gesellschaftliche Funktion erfüllt das deutsche Vereinsleben?",
       "options": [
-       "Es vermittelt Werte wie Toleranz, Solidarität und demokratische Entscheidungsfindung",
-       "Es ersetzt die Arbeit von gewählten Kommunalparlamenten vollständig",
+       "Es richtet sich vor allem an vermögende Bürger der Oberschicht",
        "Es dient ausschließlich der wirtschaftlichen Gewinnmaximierung",
-       "Es richtet sich vor allem an vermögende Bürger der Oberschicht"
+       "Es ersetzt die Arbeit von gewählten Kommunalparlamenten vollständig",
+       "Es vermittelt Werte wie Toleranz, Solidarität und demokratische Entscheidungsfindung"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Đoạn 3 khẳng định hội đoàn rèn luyện tinh thần trách nhiệm, tôn trọng ý kiến khác biệt và 'vermittelt auch unverzichtbare Werte wie Respekt, Solidarität und gelebte Chancengleichheit'."
      },
      {
-      "question": "Wie wird die Demokratie im Schlusssatz des Textes charakterisiert?",
+      "q": "Wie wird die Demokratie im Schlusssatz des Textes charakterisiert?",
       "options": [
-       "Als rein bürokratisches System ohne Bürgerbeteiligung",
+       "Als abgeschlossener Zustand, der für alle Zeiten garantiert ist",
        "Als theoretisches Modell ohne praktischen Nutzen im Alltag",
        "Als lebendiger Prozess, der vom ständigen Mitmachen und Zivilcourage lebt",
-       "Als abgeschlossener Zustand, der für alle Zeiten garantiert ist"
+       "Als rein bürokratisches System ohne Bürgerbeteiligung"
       ],
       "answer": 2,
       "explanation": "Đoạn cuối nhấn mạnh: 'Demokratie ist kein fertiger Zustand... sondern ein lebendiger Prozess, der vom ständigen Mitmachen und dem Mut zur Zivilcourage lebt'."
